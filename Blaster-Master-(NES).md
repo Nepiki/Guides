@@ -1,4 +1,4 @@
-# THIS PAGE IS CURRENTLY UNDER CONSTRUCTION, Check back later :)
+# THIS PAGE IS CURRENTLY UNDER CONSTRUCTION, check back later :)
 
 ## **About**
 This is **not** an official manual, official walk through or critical review. This document is a simple **guide** for the current achievement set available on [RetroAchievements](http://retroachievements.org/game/1459). This guide will give more information on earning the achievements, hash compatibility and any other necessary or useful information for the RA player.
@@ -8,7 +8,7 @@ _Blaster Master_ is a platform/run and gun shooter released by Sunsoft in 1988 f
 _Blaster Master_ was included in _Worlds of Power_, a series of Scholastic book adaptions of localized NES games. The book added characters such as Eve, a humanoid alien heroine who lands on Earth, solely set on defeating the Plutonium Boss. Jason assists Eve by eradicating the aliens while Eve drives the Sophia 3rd. Other games novelized in the series are _Ninja Gaiden_, _Simon's Quest_, _Mega Man 2_, etc.
 ## **Compatibility**
 If your game matches the following hash Md5s, it is compatible with the available RA set. 
-The confirmed hash is the hash which was used to create the set, making it the recommended version.
+The confirmed hash is the one that was used to create the set, making it the recommended version.
 Blaster Master (NES) is compatible with the following MD5s:
 * 0654418bc6e67d0ac964b34552421935
 * 2b4788a56c7bc211eeb68e08e6a62454
