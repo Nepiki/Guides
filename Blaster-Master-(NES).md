@@ -24,9 +24,27 @@ Total achievements: 26
 * 1 Completionist achievement  
 * 2 Missable achievements
 ***
-![Target Practice](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25279.png) [Target Practice](http://retroachievements.org/achievement/24698)
+![Target Practice](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25279.png) [Target Practice](http://retroachievements.org/achievement/24698) 
 
-`Use Homing Missile`
+`Use Homing Missile` 
+
+Classification: **Item achievement**
 
 This achievement is unlocked when Sophia 3rd is equipped with this item and used. It shoots a homing missile by selecting this object on the inventory screen, then holding down and pressing the "B" button (while in the vehicle). It can either be picked up by the vehicle itself or by Jason on foot. Due to RAM instability, this is the among the trickiest of the easiest achievements in the entire game. You have to hold down the fire button until this unlocks (or repeatedly press fire).
+
+![Lightning Strikes](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25280.png) [Lightning Strikes](https://retroachievements.org/achievement/24699) 
+
+`Use Thunder Break` 
+
+Classification: **Item achievement**
+
+Unlock when Sophia 3rd is equipped with this item and used. It shoots a thunder beam from below while in the vehicle (see _Target Practice_).
+
+![Triple Threat](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25281.png) [Triple Threat](https://retroachievements.org/achievement/24700)
+
+`Use Multi-Warhead Missiles`
+
+Classification: **Item achievement**
+
+Unlock when Sophia 3rd is equipped with this item and used. It shoots a spread of 3 missiles while in the vehicle.
 
