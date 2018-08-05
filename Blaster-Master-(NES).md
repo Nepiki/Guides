@@ -23,6 +23,7 @@ Total achievements: 26
 * 10 progress achievements 
 * 1 Completionist achievement  
 * 2 Missable achievements
+* 2 End game achievements
 ***
 ![Target Practice](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25279.png) [Target Practice](http://retroachievements.org/achievement/24698) 
 
@@ -66,7 +67,7 @@ Collect the "H" orbs dropped by enemies to fill Sophia 3rd's hover gauge. You mu
 
 ![Max Homing](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24639.png) [Max Homing](http://retroachievements.org/achievement/24846)
 
-`Collect full ammo of Homing Missile (99)`
+`Collect full ammo of Homing Missile (99x)`
 
 Classification: **Item based**
 
@@ -74,7 +75,7 @@ Maximize Homing Missiles ammo (99x) in your inventory. You can see the amount yo
 
 ![Max Thunder](http://retroachievements.org/achievement/24847) [Max Thunder](http://retroachievements.org/achievement/24847)
 
-`Collect full ammo of Thunder Break (99)`
+`Collect full ammo of Thunder Break (99x)`
 
 Classification: **Item based**
 
@@ -82,7 +83,7 @@ Maximize Thunder Break ammo (99x) in your inventory (see _Max Homing_).
 
 ![Max Warhead](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24641.png) [Max Warhead](http://retroachievements.org/achievement/24848)
 
-`Collect full ammo of Multi-Warhead Missile (99)`
+`Collect full ammo of Multi-Warhead Missile (99x)`
 
 Classification: **Item based**
 
@@ -128,6 +129,109 @@ Classification: **Progress based**
 
 If you made it this far, you have eliminated all the bosses including the final Warlord in Area 7. This will unlock as soon the 7th Warlord goes down.
 
+![Hyperactivity](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24413.png) [Hyperactivity](http://retroachievements.org/achievement/24703)
+
+`Obtain Hyper`
+
+Classification: **Progress based**
+
+Dropped by the first Warlord. Without it, you cannot proceed to Area 2. Achievement unlocks when Jason picks this up.
+
+![Crush Them](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24643.png) [Crush Them](http://retroachievements.org/achievement/24704)
+
+`Obtain Crusher`
+
+Classification: **Progress based**
+
+Dropped by the second Warlord. Without it, you cannot proceed to Area 3.
+
+![Hovercraft](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24644.png) [Hovercraft](http://retroachievements.org/achievement/24705)
+
+`Obtain Hover`
+
+Classification: **Progress based**
+
+Dropped by the third Warlord. You will have difficulty accessing further areas without it, in fact, I believe you cannot escape Area 3 without this. Hover enables Sophia to do exactly what it says by holding down the A button while jumping in the vehicle. After Jason picks this up, be prepared to fill up the hover gauge, return to Area 1 (the start of the game) to reach Area 4.
+
+![I am the Keymaster](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24646.png) [I am the Keymaster](http://retroachievements.org/achievement/24708)
+
+`Obtain the Key`
+
+Classification: **Progress based**
+
+Dropped by the fourth Warlord. You cannot proceed to Area 5 without this.
+
+![Propellers "R" Us](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24647.png) [Propellers "R" Us](http://retroachievements.org/achievement/24709)
+
+`Obtain Dive`
+
+Classification: **Progress based**
+
+Dropped by the fifth Warlord. Areas 6 is inaccessible without this.
+
+![On the Wall](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24648.png) [On the Wall](http://retroachievements.org/achievement/24710)
+
+`Obtain Wall I`
+
+Classification: **Progress based**
+
+Dropped by the Sixth Warlord. After Jason picks this up, Sophia the 3rd can now scale walls. Return to Area 2 after obtaining this to access Area 7.
+
+![Defy Gravity](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24847.png) [Defy gravity](http://retroachievements.org/achievement/24711)
+
+`Obtain Wall II`
+
+Classification: **Progress based**
+
+Dropped by the Seventh Warlord. After Jason picks this up, Sophia the 3rd can climb the ceiling. You can now avoid the spikes in Area 3, which leads to Area 8, the final area.
+
+![On Eve's Ride](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25112.png) [On Eve's Ride](http://retroachievements.org/achievement/24716)
+
+`Complete Blaster Master`
+
+Classification: **Completionist**
+
+The achievement unlocks after the Plutonium Boss is felled and the game ends.
+
+![Keen as Howard the Duck](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25282.png) [Keen as Howard the Duck](http://retroachievements.org/achievement/24717)
+
+`KO the Overlord guarding the Plutonium chamber, with full health and max gun.`
+
+Classification: **Boss challenge**
+
+The foreboding creature standing between you and the Plutonium Boss in Area 8. Suspiciously looks similar to the marionettes used in the 1986 film Howard the Duck (hence, the achievement title reference). Just dodge the bouncing plutonium bubbles it spews out of its mouth (it’s weak point), strafe and flank. You have a chance to buff Jason before entering this room by destroying the blocks 2 doors down, and picking up the power-ups they drop. The gun at maximum can pierce through the plutonium, making this fight a breeze.
+
+![Not a Scratch](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25116.png) [Not a Scratch](http://retroachievements.org/achievement/24729)
+
+`Defeat the Plutonium Boss without getting the whip. (Requires full health)`
+
+Classification: **Boss challenge**
+
+Rewarded if you do not get hit by the Plutonium Boss. If you get hit, you can try again on the next life or continue. I believe you can even walk out of the room, back 2 rooms, to the hall with the destructible blocks and power-ups to buff Jason. You just have to be quick and run out of there before the Plutonium Boss appears. The strategy is to penetrate his armor with the gun's gauge on at least, level 3. Flank him and get out of the way when he charges your direction. His whip will hit at a 45 degree angle, but you must be nimble to escape it. If you have played Fester's Quest and fought any of the bosses in that game, you'll find this not too difficult.
+
+![Overpower the Plutonium threat](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25181.png) [Overpower the Plutonium threat](http://retroachievements.org/achievement/24735)
+
+`Defeat the Plutonium Boss with max gun.`
+
+Classification: **Boss challenge**
+
+Rewarded if you bested the Plutonium Boss with Jason's gun at maxed level (I think this is after picking up 4 gun units.) He's actually easier with the gun at maximum, since it can penetrate his tough armor like a laser. The catch, is to maintain the gun in the previous challenge (see Keen as Howard the Duck) and not get hit. Getting hit will reduce the gun's power - this was the main reason why you must have full health for Not a Scratch, otherwise these challenges would be too similar.  As said previously, you might have a chance to buff Jason by leaving the room before the Plutonium Boss appears, back to the hall, 2 doors down with the power-ups.
+
+![Master Blaster](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25112.png) [Master Blaster](http://retroachievements.org/achievement/24730)
+
+`Complete Blaster Master without using any continues.`
+
+Classification: **End game challenge**
+
+As the description says, get to the end game credits without using a continue. Tuned for players who know the game the best. Everyone starts with 3 credits and once you lose all your lives, you are given a chance to continue. If you use the continue this achievement won't unlock when the end game credits roll.
+
+![In One Go](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25113.png) [In One Go](http://retroachievements.org/achievement/24731)
+
+`Complete Blaster Master without losing a life.`
+
+Classification: **End game challenge**
+
+You get one shot and that's it. The only tip available, is to study the boss attack patterns throughout the game and exploit the Plutonium Boss's weakness.
 
 
 
