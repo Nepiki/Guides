@@ -1,5 +1,3 @@
-# THIS PAGE IS CURRENTLY UNDER CONSTRUCTION, check back later :)
-
 ## **About**
 This is **not** an official manual, official walk through or critical review. This document is a simple **guide** for the current achievement set available on [RetroAchievements](http://retroachievements.org/game/1459). This guide will give more information on earning the achievements, hash compatibility and any other necessary or useful information for the RA player.
 ## **Introduction**
@@ -21,7 +19,8 @@ Blaster Master (NES) is compatible with the following MD5s:
 Total achievements: 26 
 * 8 item achievements 
 * 10 progress achievements 
-* 1 Completionist achievement  
+* 1 Completionist achievements 
+* 3 Boss achievements
 * 2 Missable achievements
 * 2 End game achievements
 ***
