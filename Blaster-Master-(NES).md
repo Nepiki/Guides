@@ -1,12 +1,13 @@
+![](http://jc101.com/ra/bm-banner.jpg)
 ## **About**
-This is **not** an official manual, official walk through or critical review. This document is a simple **guide** for the current achievement set available on [RetroAchievements](http://retroachievements.org/game/1459). This guide will give tips on earning the achievements, hash compatibility and any other necessary or useful information for the RA player.
+This is **not** an official manual, official walk through or critical review. This document is a simple **guide** for the current achievement set available on [RetroAchievements](http://retroachievements.org/game/1459). This page will give the player tips on earning the achievements, hash compatibility and any other necessary or useful information.
 ## **Introduction**
 _Blaster Master_ is a platform/run and gun shooter released by Sunsoft in 1988 for the Nintendo Entertainment System. Originally, it was released under the name _Chô Wakusei Senki Metafight_ in Japan, developed by Tokai Engineering. For the localized release, the plot was changed from your typical run and gun, space planetary defender storyline to a boy (Jason) on a mission to rescue his pet frog (Fred) from uncertain doom. The search for Fred underground leads to a bigger adventure, leaving Jason to go up against an alien force with an even sinister plan to invade and take over Earth. More specifically, Earth's radioactive plutonium waste is what is attracting this unknown, but evil force, multiplying the radioactive dangers already polluted by mankind. It's up to Jason to save his frog, Fred and the Earth.
 ## **Trivia**
 _Blaster Master_ was included in _Worlds of Power_, a series of Scholastic book adaptions of localized NES games. The book added characters such as Eve, a humanoid alien heroine who lands on Earth, solely set on defeating the Plutonium Boss. Jason assists Eve by eradicating the aliens while Eve drives the Sophia 3rd. Other games novelized in the series are _Ninja Gaiden_, _Simon's Quest_, _Mega Man 2_, etc.
 ## **Compatibility**
 If your game matches the following hash Md5s, it is compatible with the available RA set. 
-The confirmed hash is the one that was used to create the set, making it the recommended version.
+The confirmed hash is the one which was used to create the set, making it the recommended version.
 Blaster Master (NES) is compatible with the following MD5s:
 * 0654418bc6e67d0ac964b34552421935
 * 2b4788a56c7bc211eeb68e08e6a62454
@@ -198,7 +199,7 @@ The achievement unlocks after the Plutonium Boss is felled and the game ends.
 
 Classification: **Boss challenge**
 
-The foreboding creature standing between you and the Plutonium Boss in Area 8. Suspiciously looks similar to the marionettes used in the 1986 film Howard the Duck (hence, the achievement title reference). Just dodge the bouncing plutonium bubbles it spews out of its mouth (it’s weak point), strafe and flank. You have a chance to buff Jason before entering this room by destroying the blocks 2 doors down, and picking up the power-ups they drop. The gun at maximum can pierce through the plutonium, making this fight a breeze.
+The foreboding creature standing between you and the Plutonium Boss in Area 8. Suspiciously looks similar to the marionettes used in the 1986 film **_Howard the Duck_**. Just dodge the bouncing plutonium bubbles it spews out of its mouth (it’s weak point), strafe and flank. You have a chance to buff Jason before entering this room by destroying the blocks 2 doors down, and picking up the power-ups they drop. The gun at maximum can pierce through the plutonium, making this fight a breeze.
 
 ![Not a Scratch](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25116.png) [Not a Scratch](http://retroachievements.org/achievement/24729)
 
@@ -206,7 +207,7 @@ The foreboding creature standing between you and the Plutonium Boss in Area 8. S
 
 Classification: **Boss challenge**
 
-Rewarded if you do not get hit by the Plutonium Boss. If you get hit, you can try again on the next life or continue. I believe you can even walk out of the room, back 2 rooms, to the hall with the destructible blocks and power-ups to buff Jason. You just have to be quick and run out of there before the Plutonium Boss appears. The strategy is to penetrate his armor with the gun's gauge on at least, level 3. Flank him and get out of the way when he charges your direction. His whip will hit at a 45 degree angle, but you must be nimble to escape it. If you have played Fester's Quest and fought any of the bosses in that game, you'll find this not too difficult.
+Rewarded if you do not get hit by the Plutonium Boss. If you get hit, you can try again on the next life or continue. I believe you can even walk out of the room, back 2 rooms, to the hall with the destructible blocks and power-ups to buff Jason. You just have to be quick and run out of there before the Plutonium Boss appears. The strategy is to penetrate his armor with the gun's gauge on at least, level 3. Flank him and get out of the way when he charges your direction. His whip will hit at a 45 degree angle, but you must be nimble enough to escape it. If you have played **_Fester's Quest_** and fought any of the bosses in that game, you'll find this not too difficult.
 
 ![Overpower the Plutonium threat](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25181.png) [Overpower the Plutonium threat](http://retroachievements.org/achievement/24735)
 
@@ -214,7 +215,7 @@ Rewarded if you do not get hit by the Plutonium Boss. If you get hit, you can tr
 
 Classification: **Boss challenge**
 
-Rewarded if you bested the Plutonium Boss with Jason's gun at maxed level (I think this is after picking up 4 gun units.) He's actually easier with the gun at maximum, since it can penetrate his tough armor like a laser. The catch, is to maintain the gun in the previous challenge (see Keen as Howard the Duck) and not get hit. Getting hit will reduce the gun's power - this was the main reason why you must have full health for Not a Scratch, otherwise these challenges would be too similar.  As said previously, you might have a chance to buff Jason by leaving the room before the Plutonium Boss appears, back to the hall, 2 doors down with the power-ups.
+Rewarded if you bested the Plutonium Boss with Jason's gun at maxed level (this is after picking up 4 gun units). The Plutonium Boss is actually easier with the gun at maximum, since it can penetrate his tough armor like a laser. The catch, is to maintain the gun in the previous challenge (see _Keen as Howard the Duck_) and not get hit. Getting hit will reduce the gun's power - this was the main reason why you must have full health for Not a Scratch, otherwise these challenges would be too similar.  As said previously, you might have a chance to buff Jason by leaving the room before the Plutonium Boss appears, back to the hall, 2 doors down with the power-ups.
 
 ![Master Blaster](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25112.png) [Master Blaster](http://retroachievements.org/achievement/24730)
 
@@ -222,7 +223,7 @@ Rewarded if you bested the Plutonium Boss with Jason's gun at maxed level (I thi
 
 Classification: **End game challenge**
 
-As the description says, get to the end game credits without using a continue. Tuned for players who know the game the best. Everyone starts with 3 credits and once you lose all your lives, you are given a chance to continue. If you use the continue this achievement won't unlock when the end game credits roll.
+As the description says, get to the end game credits without using a continue. Tuned for players who know the game the best. Everyone starts with 3 credits and once you lose all your lives, you are given a chance to continue. If you use the continue, this achievement won't unlock when the end game credits roll.
 
 ![In One Go](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25113.png) [In One Go](http://retroachievements.org/achievement/24731)
 
