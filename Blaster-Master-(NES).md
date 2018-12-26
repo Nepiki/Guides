@@ -14,16 +14,20 @@ Blaster Master (NES) is compatible with the following MD5s:
 * 350eec77cb0ad9c6f7488eb2598721b3
 * 4e748b0f638476809a1f39e7d01ff6c4
 * cf3aa7de0b25b6093ed4b1196bb24580
-* **d21a0d6f39f8f3a6f7a346b995095af9 // confirmed, Blaster Master USA/U [!]**
+* **d21a0d6f39f8f3a6f7a346b995095af9 // confirmed, _Blaster Master USA/U [!]_**
 * e72f32db5cb6569b4eb0584d2c537030
+## **Save Support**
+Blaster Master is not supported by a password system or built-in saves. Continuous gameplay through the 8 areas you need to reach, could be less than two hours.
 ## **Achievements**
 Total achievements: 26 
 * 8 item achievements 
 * 10 progress achievements 
-* 1 Completionist achievements 
-* 3 Boss achievements
+* 1 Completionist achievement 
+* 3 Boss challenge achievements
 * 2 Missable achievements
-* 2 End game achievements
+* 2 End-game challenge achievements
+## **Additional Notes**
+Achievements are no longer compatible with the infamous boss glitch. If you attempt to pause the game and use the trick, further achievements will be nullified.
 ***
 ![Target Practice](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25279.png) [Target Practice](http://retroachievements.org/achievement/24698) 
 
@@ -103,7 +107,7 @@ To advance to the next area, you must get past this guy. The achievement unlocks
 
 Classification: **Missable**
 
-This will unlock if you can find the pathway in Area 3, but Area 3 must be cleared first by obtaining Crusher (see Crush Them). Look for orange blocks.
+This will unlock if you can find the pathway in Area 3, but Area 3 must be cleared first by obtaining Crusher (see _Crush Them_). Look for orange blocks.
 
 ![Fred ?!](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24845.png) [Fred ?!](http://retroachievements.org/achievement/24707)
 
@@ -119,7 +123,7 @@ Based off of the Worlds of Power novelization, Jason finds Fred much earlier as 
 
 Classification: **Missable**
 
-Jason has to swim his way through most of Area 5 to reach the boss. You can't get any further if you don't destroy the blocks, which prevent you from proceeding. Simply shoot with Sophia's Crush beam to destroy the blocks. You can either leave Sophia in that very same spot, or earn the achievement by dropping the vehicle into the opening where the blocks stood. **Keep in mind, if you do not bring Sophia in as deep as she can go, you would have to take a longer route when returning to the vehicle, after defeating the boss of this area.**
+Jason has to swim his way through most of Area 5 to reach the boss. You can't get any further if you don't destroy the blocks. Simply shoot with Sophia's Crush beam to destroy the blocks which prevent you from proceeding. You can either leave Sophia in that very same spot, or earn the achievement by dropping the vehicle into the opening where the blocks stood. **Keep in mind, if you do not bring Sophia in as deep as she can go, you would have to take a longer route when returning to the vehicle, after defeating the boss of this area.**
 
 ![Seventh Heaven](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25114.png) [Seventh Heaven](http://retroachievements.org/achievement/24732)
 
@@ -151,7 +155,7 @@ Dropped by the second Warlord. Without it, you cannot proceed to Area 3.
 
 Classification: **Progress based**
 
-Dropped by the third Warlord. You will have difficulty accessing further areas without it, in fact, I believe you cannot escape Area 3 without this. Hover enables Sophia to do exactly what it says by holding down the A button while jumping in the vehicle. After Jason picks this up, be prepared to fill up the hover gauge, return to Area 1 (the start of the game) to reach Area 4.
+Dropped by the third Warlord. You will have difficulty accessing further areas without it, in fact, you cannot escape Area 3 without this. Hover enables Sophia to do exactly what it says by holding down the A button while jumping in the vehicle. After Jason picks this up, be prepared to fill up the hover gauge, return to Area 1 (the start of the game) to reach Area 4.
 
 ![I am the Keymaster](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/24646.png) [I am the Keymaster](http://retroachievements.org/achievement/24708)
 
@@ -199,7 +203,7 @@ The achievement unlocks after the Plutonium Boss is felled and the game ends.
 
 Classification: **Boss challenge**
 
-The foreboding creature standing between you and the Plutonium Boss in Area 8. Suspiciously looks similar to the marionettes used in the 1986 film **_Howard the Duck_**. Just dodge the bouncing plutonium bubbles it spews out of its mouth (it’s weak point), strafe and flank. You have a chance to buff Jason before entering this room by destroying the blocks 2 doors down, and picking up the power-ups they drop. The gun at maximum can pierce through the plutonium, making this fight a breeze.
+The foreboding creature standing between you and the Plutonium Boss in Area 8. Suspiciously looks similar to the marionettes used in the 1986 film **_Howard the Duck_**. Just dodge the bouncing plutonium bubbles it spews out of its mouth (it’s weak point), strafe and flank it. You have a chance to buff Jason before entering this room, by destroying the blocks 2 doors down and picking up the power-ups they drop. The gun at maximum can pierce through the plutonium, making this fight a breeze.
 
 ![Not a Scratch](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25116.png) [Not a Scratch](http://retroachievements.org/achievement/24729)
 
@@ -215,7 +219,7 @@ Rewarded if you do not get hit by the Plutonium Boss. If you get hit, you can tr
 
 Classification: **Boss challenge**
 
-Rewarded if you bested the Plutonium Boss with Jason's gun at maxed level (this is after picking up 4 gun units). The Plutonium Boss is actually easier with the gun at maximum, since it can penetrate his tough armor like a laser. The catch, is to maintain the gun in the previous challenge (see _Keen as Howard the Duck_) and not get hit. Getting hit will reduce the gun's power - this was the main reason why you must have full health for Not a Scratch, otherwise these challenges would be too similar.  As said previously, you might have a chance to buff Jason by leaving the room before the Plutonium Boss appears, back to the hall, 2 doors down with the power-ups.
+Rewarded if you bested the Plutonium Boss with Jason's gun at maxed level (this is after picking up 4 gun units). The Plutonium Boss is actually easier with the gun at maximum, since it can penetrate his tough armor like a laser. The catch, is to maintain the gun in the previous challenge (see _Keen as Howard the Duck_) and not get hit. Getting hit will reduce the gun's power - this was the main reason why you must have full health for _Not a Scratch_, otherwise these challenges would be too similar.  As said previously, you might have a chance to buff Jason by leaving the room before the Plutonium Boss appears, walking back to the hall, 2 doors down toward all of the power-ups.
 
 ![Master Blaster](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25112.png) [Master Blaster](http://retroachievements.org/achievement/24730)
 
@@ -223,7 +227,7 @@ Rewarded if you bested the Plutonium Boss with Jason's gun at maxed level (this 
 
 Classification: **End game challenge**
 
-As the description says, get to the end game credits without using a continue. Tuned for players who know the game the best. Everyone starts with 3 credits and once you lose all your lives, you are given a chance to continue. If you use the continue, this achievement won't unlock when the end game credits roll.
+As the description says, get to the end game credits without using a continue. Created for players who know the game the best. Everyone starts with 3 credits and once you lose all your lives, you are given a chance to continue. If you use the continue, this achievement won't unlock when the end game credits roll.
 
 ![In One Go](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25113.png) [In One Go](http://retroachievements.org/achievement/24731)
 
@@ -232,7 +236,3 @@ As the description says, get to the end game credits without using a continue. T
 Classification: **End game challenge**
 
 You get one shot and that's it. The only tip available, is to study the boss attack patterns throughout the game and exploit the Plutonium Boss's weakness.
-
-
-
-
