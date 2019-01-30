@@ -194,9 +194,9 @@ This one is in the Valley, as soon as you start, look straight ahead. You will s
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75564.png)[Strike A Pose](https://retroachievements.org/Achievement/70564)
 
-_Get a pose score of 1,000 points._
+_Get a pose score of 1,250 points._
 
-This one is fairly easy, there are lots of poses worth 1,000 points. But if you cannot seem to get one, just find a Pokemon with a special pose and you'll get this no problem.
+Pretty much for this, you will need to find special poses or do special things such as feeding or making them faint, or just things in general to get this, the easiest way to to use the Special poses. Many poses will award this score.
 
 =-----------------------------------------------------------=
 
