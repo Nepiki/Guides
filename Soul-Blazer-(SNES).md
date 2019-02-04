@@ -1,6 +1,6 @@
 [Soul Blazer](http://retroachievements.org/game/1168) game page
 
-# List of missable achievements
+## List of missable achievements
 
 Total: 7
 Every No hit Boss achievement.
