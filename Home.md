@@ -7,3 +7,6 @@
 3. Click on the New Page button (top right part of the page).
 4. Create/edit your guide formatting it with [markdown](http://commonmark.org/help/).
 5. Save the page.
+
+## Take note!
+Any user or developer can add or improve guides here.
