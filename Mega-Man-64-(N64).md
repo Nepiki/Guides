@@ -6,7 +6,8 @@ Total: 21
 *Marked have hints in the Spoiler section at the bottom due to being easy to miss
 
 * Story Related
-    As long as you save whenever you see Data you should be able to notice when these occur with the exception of (4). The game allows you to have many save files so if you make use of them so that even if you miss something you should be able to go back to re-attempt them fairly quickly.
+    
+     As long as you save whenever you see Data you should be able to notice when these occur with the exception of (4). The game allows you to have many save files so if you make use of them so that even if you miss something you should be able to go back to re-attempt them fairly quickly.
 
     [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59923.png)](http://retroachievements.org/Achievement/57169) (1)
     [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59921.png)](http://retroachievements.org/Achievement/57167) (2)
