@@ -3,7 +3,9 @@
 ## List of missable achievements
 Total: 12
 
-* 5 of the Finish level without getting hit you lose access to after a certain point in the game.
+*Marked have hints in the Spoiler section at the bottom due to being easy to miss
+
+* 5 of the Finish level without getting hit you lose access to after a certain point* in the game.
 
     [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21557.png)](https://retroachievements.org/Achievement/21761) (1)
 [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21563.png)](https://retroachievements.org/Achievement/21765) (2)
@@ -24,12 +26,12 @@ Total: 12
 * Red Jewel related 
   * Many of the jewels are permanently missable so following a guide like [Red Jewel Guide](http://www.flyingomelette.com/faqs/gaiafaq.html) is recommended.
 
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21646.png)](http://retroachievements.org/Achievement/21746) (10)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21559.png)](http://retroachievements.org/Achievement/21764) (11)
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21646.png)](http://retroachievements.org/Achievement/21746) (10*)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21559.png)](http://retroachievements.org/Achievement/21764) (11*)
 
 * 1 Max Stat
 
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21641.png)](http://retroachievements.org/Achievement/21737) (12)
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21641.png)](http://retroachievements.org/Achievement/21737) (12*)
 
 ## Spoilers! 
 Only expand the following if you don't care
@@ -40,7 +42,7 @@ Only expand the following if you don't care
 
 <details>
   <summary>General location of the missable Stat Upgrade</summary> 
-   In Freejia (Large town after the raft section) there is a Health Upgrade.
+   In Freejia (Large town after the raft section) there is a Health Upgrade hidden.
 </details>
 
 <details>
