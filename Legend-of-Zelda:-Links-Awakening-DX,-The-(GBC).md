@@ -29,8 +29,9 @@ Total: 13
 [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/32674.png)](http://retroachievements.org/Achievement/31930)(12)
 
 - [Shell Collection](http://retroachievements.org/Achievement/28849)(13) is missable in three ways. 
-   - You can be awarded two shells when you have exactly 5 shells.
-   - You can be awarded one shell when you have exactly 10.
+   - You can be awarded one shell when you have exactly 5 shells.
+   - You can be awarded one shell when you have exactly 10 shells.
+   - Fly over the five pit gap near kanalet castle gate while accompanied by the flying rooster
    - If you get the level-2 shell sword, which is available after collecting 20 shells, the rest permanently disappear.  
 
   [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/29315.png)](http://retroachievements.org/Achievement/28849)(13)
