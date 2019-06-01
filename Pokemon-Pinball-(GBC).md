@@ -361,7 +361,7 @@ The Pokémon can be found in the following locations:
 | Mankey | Red | Lavender Town | 2 | 1 |
 | Mankey | Blue | Celadon City | 2 | 1 |
 | Mankey | Blue | Saffron City | 2 | 1 |
-| Vulpix | Blue Saffron City | 3 | 1 |
+| Vulpix | Blue | Saffron City | 3 | 1 |
 | Vulpix | Both | Cinnabar Island | 2 | 1 |
 | Growlithe | Red | Lavender Town | 2 | 1 |
 | Growlithe | Red | Cinnabar Island | 2 | 1 |
