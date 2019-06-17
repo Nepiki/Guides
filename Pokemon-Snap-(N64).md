@@ -100,7 +100,7 @@ _Unlock the the Rainbow Cloud course_
 
 _Unlock the Pokemon Food_
 
-To unlock the Pokemon Food, you need your report score to total 14,000 points or more.
+To unlock the Pokemon Food, you need your report score to total 24,000 points or more.
 
 =-----------------------------------------------------------=
 
