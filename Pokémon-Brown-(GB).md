@@ -50,21 +50,23 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Eevee** -> **Sylveon** (use Magic Wand)
 
 # **Missable Achievements: 15**
-1. [![](https://i.imgur.com/UyNsfkn.png)](https://retroachievements.org/achievement/79650)
-1. [![](https://i.imgur.com/0CdNYOe.png)](https://retroachievements.org/achievement/79549)
-1. [![](https://i.imgur.com/T1V9XGq.png)](https://retroachievements.org/achievement/79559)
-1. [![](https://i.imgur.com/tJsdRYg.png)](https://retroachievements.org/achievement/79561)
-1. [![](https://i.imgur.com/RZ2sOcK.png)](https://retroachievements.org/achievement/79562)
-1. [![](https://i.imgur.com/1Sz1K9i.png)](https://retroachievements.org/achievement/79563)
-1. [![](https://i.imgur.com/bwuHQLd.png)](https://retroachievements.org/achievement/79564)
-1. [![](https://i.imgur.com/eGpBUZv.png)](https://retroachievements.org/achievement/79565)
-1. [![](https://i.imgur.com/Hcm0kZq.png)](https://retroachievements.org/achievement/79566)
-1. [![](https://i.imgur.com/JKy0tSV.png)](https://retroachievements.org/achievement/79604)
-1. [![](https://i.imgur.com/EWppmuf.png)](https://retroachievements.org/achievement/79605)
-1. [![](https://i.imgur.com/hv1q7gP.png)](https://retroachievements.org/achievement/79606)
-1. [![](https://i.imgur.com/uJIbnOj.png)](https://retroachievements.org/achievement/79609)
-1. [![](https://i.imgur.com/U5yZCRa.png)](https://retroachievements.org/achievement/79651)
-1. [![](https://i.imgur.com/46Vx2CM.png)](https://retroachievements.org/achievement/79656)
+* [![](https://i.imgur.com/UyNsfkn.png)](https://retroachievements.org/achievement/79650) [![](https://i.imgur.com/0CdNYOe.png)](https://retroachievements.org/achievement/79549)
+
+Just defeat Mura in Tim's Lab but you need to lose against him too.
+* [![](https://i.imgur.com/T1V9XGq.png)](https://retroachievements.org/achievement/79559) [![](https://i.imgur.com/tJsdRYg.png)](https://retroachievements.org/achievement/79561) [![](https://i.imgur.com/1Sz1K9i.png)](https://retroachievements.org/achievement/79563) [![](https://i.imgur.com/hv1q7gP.png)](https://retroachievements.org/achievement/79606) [![](https://i.imgur.com/U5yZCRa.png)](https://retroachievements.org/achievement/79651)
+
+Just don't own/catch Magmar, Rhyhorn, Chansey, Eevee and Crobat otherwise you can't trade them if you already catch/own Magmar, Rhyhorn, Chansey, Eevee and Crobat. Be careful.
+
+
+
+5. [![](https://i.imgur.com/RZ2sOcK.png)](https://retroachievements.org/achievement/79562)
+7. [![](https://i.imgur.com/bwuHQLd.png)](https://retroachievements.org/achievement/79564)
+8. [![](https://i.imgur.com/eGpBUZv.png)](https://retroachievements.org/achievement/79565)
+9. [![](https://i.imgur.com/Hcm0kZq.png)](https://retroachievements.org/achievement/79566)
+10. [![](https://i.imgur.com/JKy0tSV.png)](https://retroachievements.org/achievement/79604)
+11. [![](https://i.imgur.com/EWppmuf.png)](https://retroachievements.org/achievement/79605)
+13. [![](https://i.imgur.com/uJIbnOj.png)](https://retroachievements.org/achievement/79609)
+15. [![](https://i.imgur.com/46Vx2CM.png)](https://retroachievements.org/achievement/79656)
 
 # **Quick Walkthrough**
 [CLICK HERE](https://rijon.fandom.com/wiki/Pok%C3%A9mon_Brown_Quick_Walkthrough?action=edit&section=21) to read Quick Walkthrough
