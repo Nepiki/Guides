@@ -50,21 +50,21 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Eevee** -> **Sylveon** (use Magic Wand)
 
 # **Missable Achievements: 15**
-* https://retroachievements.org/achievement/79650
-* https://retroachievements.org/achievement/79549
-* https://retroachievements.org/achievement/79559
-* https://retroachievements.org/achievement/79561
-* https://retroachievements.org/achievement/79562
-* https://retroachievements.org/achievement/79563
-* https://retroachievements.org/achievement/79564
-* https://retroachievements.org/achievement/79565
-* https://retroachievements.org/achievement/79566
-* https://retroachievements.org/achievement/79604
-* https://retroachievements.org/achievement/79605
-* https://retroachievements.org/achievement/79606
-* https://retroachievements.org/achievement/79609
-* https://retroachievements.org/achievement/79651
-* https://retroachievements.org/achievement/79656
+1. [![](https://i.imgur.com/UyNsfkn.png)](https://retroachievements.org/achievement/79650)
+1. [![](https://i.imgur.com/0CdNYOe.png)](https://retroachievements.org/achievement/79549)
+1. [![](https://i.imgur.com/T1V9XGq.png)](https://retroachievements.org/achievement/79559)
+1. [![](https://i.imgur.com/tJsdRYg.png)](https://retroachievements.org/achievement/79561)
+1. [![](https://i.imgur.com/RZ2sOcK.png)](https://retroachievements.org/achievement/79562)
+1. [![](https://i.imgur.com/1Sz1K9i.png)](https://retroachievements.org/achievement/79563)
+1. [![](https://i.imgur.com/bwuHQLd.png)](https://retroachievements.org/achievement/79564)
+1. [![](https://i.imgur.com/eGpBUZv.png)](https://retroachievements.org/achievement/79565)
+1. [![](https://i.imgur.com/Hcm0kZq.png)](https://retroachievements.org/achievement/79566)
+1. [![](https://i.imgur.com/JKy0tSV.png)](https://retroachievements.org/achievement/79604)
+1. [![](https://i.imgur.com/EWppmuf.png)](https://retroachievements.org/achievement/79605)
+1. [![](https://i.imgur.com/hv1q7gP.png)](https://retroachievements.org/achievement/79606)
+1. [![](https://i.imgur.com/uJIbnOj.png)](https://retroachievements.org/achievement/79609)
+1. [![](https://i.imgur.com/U5yZCRa.png)](https://retroachievements.org/achievement/79651)
+1. [![](https://i.imgur.com/46Vx2CM.png)](https://retroachievements.org/achievement/79656)
 
 # **Quick Walkthrough**
 [CLICK HERE](https://rijon.fandom.com/wiki/Pok%C3%A9mon_Brown_Quick_Walkthrough?action=edit&section=21) to read Quick Walkthrough
