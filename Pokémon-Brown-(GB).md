@@ -65,3 +65,6 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * https://retroachievements.org/achievement/79609
 * https://retroachievements.org/achievement/79651
 * https://retroachievements.org/achievement/79656
+
+# **Quick Walkthrough**
+[CLICK HERE](https://rijon.fandom.com/wiki/Pok%C3%A9mon_Brown_Quick_Walkthrough?action=edit&section=21) to read Quick Walkthrough
