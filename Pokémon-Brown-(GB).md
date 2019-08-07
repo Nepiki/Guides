@@ -59,9 +59,12 @@ Just don't own/catch Magmar, Rhyhorn, Chansey, Eevee and Crobat otherwise you ca
 
 
 
+* [![](https://i.imgur.com/bwuHQLd.png)](https://retroachievements.org/achievement/79564) [![](https://i.imgur.com/eGpBUZv.png)](https://retroachievements.org/achievement/79565)
+
+Just catch Snorlax in Route 61 and Kangaskhan in Haunted Forest without failing, just save game before battle started. Don't let them escape/flee or defeat them otherwise you need to start new game.
+
+
 5. [![](https://i.imgur.com/RZ2sOcK.png)](https://retroachievements.org/achievement/79562)
-7. [![](https://i.imgur.com/bwuHQLd.png)](https://retroachievements.org/achievement/79564)
-8. [![](https://i.imgur.com/eGpBUZv.png)](https://retroachievements.org/achievement/79565)
 9. [![](https://i.imgur.com/Hcm0kZq.png)](https://retroachievements.org/achievement/79566)
 10. [![](https://i.imgur.com/JKy0tSV.png)](https://retroachievements.org/achievement/79604)
 11. [![](https://i.imgur.com/EWppmuf.png)](https://retroachievements.org/achievement/79605)
