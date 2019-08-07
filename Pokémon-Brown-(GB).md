@@ -48,3 +48,20 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Eevee** -> **Leafeon** (level up the Eevee obtained in a trade in Botan City)
 * **Eevee** -> **Glaceon** (level up the second Eevee from the Game Corner)
 * **Eevee** -> **Sylveon** (use Magic Wand)
+
+# **Missable Achievements: 15**
+* https://retroachievements.org/achievement/79650
+* https://retroachievements.org/achievement/79549
+* https://retroachievements.org/achievement/79559
+* https://retroachievements.org/achievement/79561
+* https://retroachievements.org/achievement/79562
+* https://retroachievements.org/achievement/79563
+* https://retroachievements.org/achievement/79564
+* https://retroachievements.org/achievement/79565
+* https://retroachievements.org/achievement/79566
+* https://retroachievements.org/achievement/79604
+* https://retroachievements.org/achievement/79605
+* https://retroachievements.org/achievement/79606
+* https://retroachievements.org/achievement/79609
+* https://retroachievements.org/achievement/79651
+* https://retroachievements.org/achievement/79656
