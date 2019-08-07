@@ -64,11 +64,11 @@ Just don't own/catch Magmar, Rhyhorn, Chansey, Eevee and Crobat otherwise you ca
 Just catch Snorlax in Route 61 and Kangaskhan in Haunted Forest without failing, just save game before battle started. Don't let them escape/flee or defeat them otherwise you need to start new game.
 
 
+* [![](https://i.imgur.com/Hcm0kZq.png)](https://retroachievements.org/achievement/79566) [![](https://i.imgur.com/JKy0tSV.png)](https://retroachievements.org/achievement/79604) [![](https://i.imgur.com/EWppmuf.png)](https://retroachievements.org/achievement/79605) [![](https://i.imgur.com/uJIbnOj.png)](https://retroachievements.org/achievement/79609)
+
+Just catch 4 of 8 legendary Pokémon, just save game before battle started. Don't let them escape/flee or defeat them otherwise you need to start new game.
+
 5. [![](https://i.imgur.com/RZ2sOcK.png)](https://retroachievements.org/achievement/79562)
-9. [![](https://i.imgur.com/Hcm0kZq.png)](https://retroachievements.org/achievement/79566)
-10. [![](https://i.imgur.com/JKy0tSV.png)](https://retroachievements.org/achievement/79604)
-11. [![](https://i.imgur.com/EWppmuf.png)](https://retroachievements.org/achievement/79605)
-13. [![](https://i.imgur.com/uJIbnOj.png)](https://retroachievements.org/achievement/79609)
 15. [![](https://i.imgur.com/46Vx2CM.png)](https://retroachievements.org/achievement/79656)
 
 # **Quick Walkthrough**
