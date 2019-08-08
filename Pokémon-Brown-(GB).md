@@ -49,7 +49,7 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Eevee** -> **Glaceon** (level up the second Eevee from the Game Corner)
 * **Eevee** -> **Sylveon** (use Magic Wand)
 
-# **Missable Achievements: 15**
+# **Missable Achievements: 16**
 * [![](https://i.imgur.com/UyNsfkn.png)](https://retroachievements.org/achievement/79650) [![](https://i.imgur.com/0CdNYOe.png)](https://retroachievements.org/achievement/79549)
 
 Just defeat Mura in Tim's Lab but you need to lose against him too.
@@ -80,7 +80,7 @@ Just don't defeat Patrol Pallet with 2 or more Pokémon in your party. It works 
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86158.png)](https://retroachievements.org/achievement/79741)
 
-...
+210 of 225 Pokémon are obtain and other 15 Pokémon are unobtain, just remember and don't forget. Also never delete/toss items like **Electrizer**, **Magmarizer**, **Protector**, **Up-Grade**, **Dubious Disk**, **2x Metal Coat**, **Razor Claw**, **Razor Fang**, **Coronet Stone**, **2x Dusk Stone**, **4x Trade Stone**, **Shiny Stone**, **2x King's Rock** and **Dragon Scale**.
 
 # **Quick Walkthrough**
 [CLICK HERE](https://rijon.fandom.com/wiki/Pok%C3%A9mon_Brown_Quick_Walkthrough?action=edit&section=21) to read Quick Walkthrough
