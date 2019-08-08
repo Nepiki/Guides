@@ -14,7 +14,7 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Mew** or **Mewtwo** (Only one, this means 1 Pokémon is obtain and other 1 Pokémon is unobtain.)
 * **Suicune** or **Articuno** (Only one, this means 1 Pokémon is obtain and other 1 Pokémon is unobtain.)
 * **Lugia** or **Ho-Oh** (Only one, this means 1 Pokémon is obtain and other 1 Pokémon is unobtain.)
-* **Clefable**, **Wigglypuff**, **Nidoqueen** or **Nidoking** (It has only one Moon Stone in Brown Version, not only 3 Pokémon are unobtainable but 2 Pokémon can be unobtainable (**Clefable** and **Wigglypuff**) because you can trade **Nidoqueen** for **Nidoking** in Moraga Town House only if **Nidorina** evolved into **Nidoqueen** with using Moon Stone, this means 2 Pokémon are obtain and other 2 Pokémon are unobtain.)
+* **Clefable**, **Wigglypuff**, **Nidoqueen** or **Nidoking** (It has only one Moon Stone in Brown Version, not only 3 Pokémon are unobtain but 2 Pokémon can be unobtain (**Clefable** and **Wigglypuff**) because you can trade **Nidoqueen** for **Nidoking** in Moraga Town House only if **Nidorina** evolved into **Nidoqueen** with using Moon Stone, this means 2 Pokémon are obtain and other 2 Pokémon are unobtain.)
 
 # **New Evolutions: 31**
 * **Electabuzz** -> **Electivire** (use Electrizer)
