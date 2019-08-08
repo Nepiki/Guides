@@ -78,6 +78,9 @@ Just evolve **Nidorina** (female) into **Nidoqueen** with using Moon Stone and t
 
 Just don't defeat Patrol Pallet with 2 or more Pokémon in your party. It works only **ONE** Pokémon in your party.
 
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86158.png)](https://retroachievements.org/achievement/79741)
+
+...
 
 # **Quick Walkthrough**
 [CLICK HERE](https://rijon.fandom.com/wiki/Pok%C3%A9mon_Brown_Quick_Walkthrough?action=edit&section=21) to read Quick Walkthrough
