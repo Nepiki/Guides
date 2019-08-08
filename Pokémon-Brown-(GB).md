@@ -78,6 +78,7 @@ Just evolve **Nidorina** (female) into **Nidoqueen** with using Moon Stone and t
 
 Just don't defeat Patrol Pallet with 2 or more Pokémon in your party. It works only **ONE** Pokémon in your party.
 
+
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86158.png)](https://retroachievements.org/achievement/79741)
 
 210 of 225 Pokémon are obtain and other 15 Pokémon are unobtain, just remember and don't forget. Also never delete/toss items like **Electrizer**, **Magmarizer**, **Protector**, **Up-Grade**, **Dubious Disk**, **2x Metal Coat**, **Razor Claw**, **Razor Fang**, **Coronet Stone**, **2x Dusk Stone**, **4x Trade Stone**, **Shiny Stone**, **2x King's Rock** and **Dragon Scale**.
