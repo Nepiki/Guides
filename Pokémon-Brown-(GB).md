@@ -81,7 +81,7 @@ Just don't defeat Patrol Pallet with 2 or more Pokémon in your party. It works 
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86158.png)](https://retroachievements.org/achievement/79741)
 
-210 of 225 Pokémon are obtain and other 15 Pokémon are unobtain, just remember and don't forget. Also never delete/toss items like **Electrizer**, **Magmarizer**, **Protector**, **Up-Grade**, **Dubious Disk**, **2x Metal Coat**, **Razor Claw**, **Razor Fang**, **Coronet Stone**, **2x Dusk Stone**, **4x Trade Stone**, **Shiny Stone**, **2x King's Rock** and **Dragon Scale**.
+210 of 225 Pokémon are obtain and other 15 Pokémon are unobtain, just remember and don't forget. Also never delete/toss items like **Electrizer**, **Magmarizer**, **Protector**, **Up-Grade**, **Dubious Disk**, **2x Metal Coat**, **Razor Claw**, **Razor Fang**, **Coronet Stone**, **2x Dusk Stone**, **4x Trade Stone**, **Shiny Stone**, **2x King's Rock**, **Dragon Scale** and **Magic Wand**.
 
 # **Quick Walkthrough**
 [CLICK HERE](https://rijon.fandom.com/wiki/Pok%C3%A9mon_Brown_Quick_Walkthrough?action=edit&section=21) to read Quick Walkthrough
