@@ -56,7 +56,7 @@ Just defeat Mura in Tim's Lab but you need to lose against him too.
 
 * [![](https://i.imgur.com/T1V9XGq.png)](https://retroachievements.org/achievement/79559) [![](https://i.imgur.com/tJsdRYg.png)](https://retroachievements.org/achievement/79561) [![](https://i.imgur.com/1Sz1K9i.png)](https://retroachievements.org/achievement/79563) [![](https://i.imgur.com/hv1q7gP.png)](https://retroachievements.org/achievement/79606) [![](https://i.imgur.com/U5yZCRa.png)](https://retroachievements.org/achievement/79651)
 
-Just don't own/catch **Magmar**, **Rhyhorn**, **Chansey**, **Eevee** and **Crobat** otherwise you can't trade them if you already catch/own **Magmar**, **Rhyhorn**, **Chansey**, **Eevee** and **Crobat**. Be careful.
+Just don't own/catch **Magmar**, **Rhyhorn**, **Chansey**, **Eevee** and **Crobat** otherwise you can't trade them if you already own/catch **Magmar**, **Rhyhorn**, **Chansey**, **Eevee** and **Crobat**. Be careful.
 
 
 * [![](https://i.imgur.com/bwuHQLd.png)](https://retroachievements.org/achievement/79564) [![](https://i.imgur.com/eGpBUZv.png)](https://retroachievements.org/achievement/79565)
