@@ -16,7 +16,7 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Lugia** or **Ho-Oh** (Only one, this means 1 Pokémon is obtain and other 1 Pokémon is unobtain.)
 * **Clefable**, **Wigglypuff**, **Nidoqueen** or **Nidoking** (It has only one Moon Stone in Brown Version, not only 3 Pokémon are unobtain but 2 Pokémon can be unobtain (**Clefable** and **Wigglypuff**) because you can trade **Nidoqueen** for **Nidoking** in Moraga Town House only if **Nidorina** evolved into **Nidoqueen** with using Moon Stone, this means 2 Pokémon are obtain and other 2 Pokémon are unobtain.)
 
-# **New Evolutions: 31**
+# **New Evolutions: 32**
 * **Electabuzz** -> **Electivire** (use Electrizer)
 * **Magmar** -> **Magmortar** (use Magmarizer)
 * **Rhydon** -> **Rhyperior** (use Protector)
@@ -43,6 +43,7 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Slowpoke** -> **Slowking** (use King's Rock)
 * **Poliwhirl** -> **Politoed** (use King's Rock)
 * **Seadra** -> **Kingdra** (use Dragon Scale)
+* **Tyrogue** -> **Hitmontop** (level up the Tyrogue from the Game Corner)
 * **Eevee** -> **Umbreon** (level up an Eevee from the International Tunnel or level up the first Eevee from the Game Corner)
 * **Eevee** -> **Espeon** (level up an Eevee from the cave north of Seashore City)
 * **Eevee** -> **Leafeon** (level up the Eevee obtained in a trade in Botan City)
