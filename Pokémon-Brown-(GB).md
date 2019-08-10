@@ -43,10 +43,10 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Slowpoke** -> **Slowking** (use King's Rock)
 * **Poliwhirl** -> **Politoed** (use King's Rock)
 * **Seadra** -> **Kingdra** (use Dragon Scale)
-* **Eevee** -> **Espeon** (level up an Eevee from the International Tunnel or level up the first Eevee from the Game Corner)
-* **Eevee** -> **Umbreon** (level up an Eevee from the cave north of Seashore City)
+* **Eevee** -> **Umbreon** (level up an Eevee from the International Tunnel or level up the first Eevee from the Game Corner)
+* **Eevee** -> **Espeon** (level up an Eevee from the cave north of Seashore City)
 * **Eevee** -> **Leafeon** (level up the Eevee obtained in a trade in Botan City)
-* **Eevee** -> **Glaceon** (level up the second Eevee from the Game Corner)
+* **Eevee** -> **Glaceon** (level up the second Eevee from the Game Corner, reach level 20 to evolve into Glaceon)
 * **Eevee** -> **Sylveon** (use Magic Wand)
 
 # **Missable Achievements: 16**
