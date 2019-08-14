@@ -1,12 +1,18 @@
 # 1) Synopsis
 
+**Total Achievements:** 44  
+**Total Points:** 374  
+
 **Set Difficulty:** Fairly simple, but also tedious.  
 **Approximate time to Master:** Many Hours  
 **Minimum Number of Playthroughs Needed:** 1  
 **Number of Missable Achievements:** None  
-**Does Difficulty Affect Achievements?:** N/A
+**Does Difficulty Affect Achievements?:** N/A  
 
 # 2) Introduction
+
+![Game Badge](http://i.retroachievements.org/Images/024809.png)
+
 [Pokémon Pinball](https://retroachievements.org/game/725) is a pinball game based on Pokémon for the Gameboy Color. As the title suggests, the gameplay is pinball-based, but with a uniquely Pokémon-inspired spin. For example, the game is divided into two tables, the Red Field and the Blue Field, each with different table designs, accessible map locations, and catchable wild Pokémon.
 
 # 3) Walkthrough
@@ -344,8 +350,8 @@ The Pokémon can be found in the following locations:
 | Meowth | Blue | Saffron City | 3 | 1 |
 | Meowth | Both | Cerulean City | 3 | 1 |
 | Ponyta | Both | Cinnabar Island | 2 | 1 |
-| Doduo | Cycling Road | 2 | 1 |
-| Doduo | Safari Zone | 2 | 1 |
+| Doduo | Red | Cycling Road | 2 | 1 |
+| Doduo | Both | Safari Zone | 2 | 1 |
 
 ### [Pokemon Hidden in the Leaves](https://retroachievements.org/achievement/30017)
 
@@ -401,7 +407,7 @@ The Pokémon can be found in the following locations:
 
 ### [Legendary Birds](https://retroachievements.org/achievement/56346)
 
-![Badge](http://i.retroachievements.org/Badge/58829.png) 10 points  
+![Badge](http://i.retroachievements.org/Badge/58829.png) 5 points  
 Catch Articuno, Zapdos, and Moltres
 
 The Pokémon can be found in the following locations:
@@ -414,7 +420,7 @@ The Pokémon can be found in the following locations:
 
 ### [Mewtwo](https://retroachievements.org/achievement/56347)
 
-![Badge](http://i.retroachievements.org/Badge/58831.png) 10 points  
+![Badge](http://i.retroachievements.org/Badge/58831.png) 5 points  
 Catch Mewtwo
 
 The Pokémon can be found in the following locations:
@@ -425,7 +431,7 @@ The Pokémon can be found in the following locations:
 
 ### [Mew](https://retroachievements.org/achievement/56348)
 
-![Badge](http://i.retroachievements.org/Badge/58833.png) 15 points  
+![Badge](http://i.retroachievements.org/Badge/58833.png) 10 points  
 Register the mythical Mew in your Pokedex
 
 The Pokémon can be found in the following locations:
@@ -439,7 +445,7 @@ The Pokémon can be found in the following locations:
 
 ### [New Trainer in Town](https://retroachievements.org/achievement/56314)
 
-![Badge](http://i.retroachievements.org/Badge/58797.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58797.png) 1 points  
 Own at least 6 Pokemon, then open and close your Pokedex
 
 Description is self-explanatory.
@@ -460,14 +466,14 @@ Description is self-explanatory.
 
 ### [The Final Stretch](https://retroachievements.org/achievement/56317)
 
-![Badge](http://i.retroachievements.org/Badge/58800.png) 15 points  
+![Badge](http://i.retroachievements.org/Badge/58800.png) 25 points  
 Own at least 125 Pokemon, then open and close your Pokedex
 
 Description is self-explanatory.
 
 ### [Complete Pokedex](https://retroachievements.org/achievement/56318)
 
-![Badge](http://i.retroachievements.org/Badge/58801.png) 25 points  
+![Badge](http://i.retroachievements.org/Badge/58801.png) 50 points  
 Register all 151 Pokemon, then open and close your Pokedex
 
 Description is self-explanatory.
@@ -494,7 +500,7 @@ Hitting the Meowth will cause it to drop coins. Collect 20 coins to clear the bo
 
 ### [Gengar Bonus](https://retroachievements.org/achievement/56328)
 
-![Badge](http://i.retroachievements.org/Badge/58812.png) 10 points  
+![Badge](http://i.retroachievements.org/Badge/58812.png) 5 points  
 Complete the Gengar Bonus Stage
 
 The second bonus stage on the Red Field
@@ -504,7 +510,7 @@ Hit 10 Gastly, then 10 Haunter. Finally, hit the Gengar 5 times to clear the bon
 
 ### [Seel Bonus](https://retroachievements.org/achievement/56329)
 
-![Badge](http://i.retroachievements.org/Badge/58811.png) 10 points  
+![Badge](http://i.retroachievements.org/Badge/58811.png) 5 points  
 Complete the Seel Bonus Stage
 
 The second bonus stage on the Blue Field
@@ -514,7 +520,7 @@ Hit 20 Seel to clear the bonus stage.
 
 ### [Mewtwo Bonus](https://retroachievements.org/achievement/56330)
 
-![Badge](http://i.retroachievements.org/Badge/58813.png) 20 points  
+![Badge](http://i.retroachievements.org/Badge/58813.png) 10 points  
 Complete the Mewtwo Bonus Stage
 
 The third bonus stage on the both fields
@@ -531,21 +537,21 @@ Description is self-explanatory.
 
 ### [4th Place](https://retroachievements.org/achievement/56320)
 
-![Badge](http://i.retroachievements.org/Badge/58806.png) 10 points  
+![Badge](http://i.retroachievements.org/Badge/58806.png) 5 points  
 Register at least 200,000,000 points on any Hi-Score board
 
 Description is self-explanatory.
 
 ### [3rd Place](https://retroachievements.org/achievement/56321)
 
-![Badge](http://i.retroachievements.org/Badge/58805.png) 15 points  
+![Badge](http://i.retroachievements.org/Badge/58805.png) 5 points  
 Register at least 300,000,000 points on any Hi-Score board
 
 Description is self-explanatory.
 
 ### [2nd Place](https://retroachievements.org/achievement/56322)
 
-![Badge](http://i.retroachievements.org/Badge/58804.png) 20 points  
+![Badge](http://i.retroachievements.org/Badge/58804.png) 10 points  
 Register at least 400,000,000 points on any Hi-Score board
 
 Description is self-explanatory.
@@ -566,28 +572,28 @@ Description is self-explanatory.
 
 ### [1st Place High Roller](https://retroachievements.org/achievement/56325)
 
-![Badge](http://i.retroachievements.org/Badge/58808.png) 30 points  
+![Badge](http://i.retroachievements.org/Badge/58808.png) 50 points  
 Register a 1st place score of over 1,000,000,000 points on any table
 
 Description is self-explanatory.
 
 ### [Super Ball](https://retroachievements.org/achievement/56311)
 
-![Badge](http://i.retroachievements.org/Badge/58794.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58794.png) 1 points  
 Upgrade to a Great Ball
 
 See [Master Ball](#master-ball)
 
 ### [Hyper Ball](https://retroachievements.org/achievement/56312)
 
-![Badge](http://i.retroachievements.org/Badge/58795.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58795.png) 1 points  
 Upgrade to an Ultra Ball
 
 See [Master Ball](#master-ball)
 
 ### [Master Ball](https://retroachievements.org/achievement/56313)
 
-![Badge](http://i.retroachievements.org/Badge/58796.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58796.png) 1 points  
 Upgrade to a Master Ball
 
 Lighting up all three lights above the Voltorb (Red), or Shellder (Blue) will upgrade your Poke Ball in the order of Great, Ultra, Master
@@ -646,7 +652,7 @@ Travelling goes in the order of: Three Block 1 locations, Two Block 2 locations,
 
 ### [Again](https://retroachievements.org/achievement/56349)
 
-![Badge](http://i.retroachievements.org/Badge/58841.png) 10 points  
+![Badge](http://i.retroachievements.org/Badge/58841.png) 5 points  
 Get an Extra Ball
 
 The `AGAIN` icon at the bottom will light up when you have received an extra ball. I am unsure of all the exact numbers, but extra ball are obtainable through the following methods:
