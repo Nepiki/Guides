@@ -1,4 +1,4 @@
-**# Quick Walktrough**
+# **Quick Walktrough**
 
 **Pallet Town**
 Item: Potion, Town Map
