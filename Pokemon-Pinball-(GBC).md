@@ -1,13 +1,26 @@
 # 1) Synopsis
 
+### Achievement Info
+
 **Total Achievements:** 44  
 **Total Points:** 374  
+
+### Difficulty Info
 
 **Set Difficulty:** Fairly simple, but also tedious.  
 **Approximate time to Master:** Many Hours  
 **Minimum Number of Playthroughs Needed:** 1  
 **Number of Missable Achievements:** None  
 **Does Difficulty Affect Achievements?:** N/A  
+
+### Compatibility Info
+
+**Compatible MD5 Checksums**  
+fbe20570c2e52c937a9395024069ba3c - USA - Used to make achievements  
+852d68f167a5957f5e73954763f36ada - Japan
+
+**Not Compatible**  
+3757c89c36bec5e2093741a3e51d22df - Europe
 
 # 2) Introduction
 
