@@ -99,3 +99,10 @@
 * Item: TM30 (Teleport)
 * Pokemon: Weepinbell, Poliwhirl, Scyther, Tangela, Beedrill, Magnemite, Ponyta, Gloom, Butterfree, Lickitung, Venonat, Grimer, Voltorb, Sandshrew, Krabby, Koffing, Magikarp (Old Rod)
 * Trainer: 11
+
+**Rock Tunnel**
+* Item: WIP
+* Pokemon: WIP
+* Trainer: WIP
+
+**WIP**
