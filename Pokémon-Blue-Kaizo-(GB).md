@@ -101,8 +101,156 @@
 * Trainer: 11
 
 **Rock Tunnel**
-* Item: WIP
-* Pokemon: WIP
-* Trainer: WIP
+* Item: n/a
+* Pokemon: Geodude, Onix, Machop, Koffing, Voltorb, Diglett, Magnemite, Graveler, Golbat, Machoke, Gloom, Lickitung
+* Trainer: 15
 
-**WIP**
+**Lavender Town**
+* Item: Max Elixier, Pokeflute
+* Pokemon: Ekans, Voltorb, Magnemite, Paras, Sandshrew, Koffing, Psyduck, Venonat
+* Trainer: 4
+
+**Route 7**
+* Item: n/a
+* Pokemon: Psyduck, Growlithe, Vulpix, Ponyta, Poliwhirl, Grimer, Koffing, Scyther, Jigglypuff, Lickitung
+* Trainer: 9
+
+**Route 8**
+* Item: n/a
+* Pokemon: Charmeleon, Nidorina, Ivysaur, Magnemite, Doduo, Pidgeotto, Wartortle, Machop, Nidorino
+* Trainer: 0
+
+**Celadon City**
+* Item: PP UP
+* Pokemon: Magikarp (Old Rod), Porygon (Game Corner), Nidoqueen (Game Corner), Nidoking (Game Corner), Bulbasaur (Game Corner), Squirtle (Game Corner), Charmander  (Game Corner)
+* Trainer: 0
+
+**Celadon City Gym**
+* Item: TM21 (Mega Drain)
+* Pokemon: n/a
+* Trainer: 8
+
+**Rocket Game Corner Ground Floor**
+* Item: 100 coins, 2x 20 coins, 10 coins
+* Pokemon: n/a
+* Trainer: 1
+
+**Rocket Game Corner Basement**
+* Item: Nugget, TM10 (Double Edge), TM02 (Razor Wind), 2x Hyper Potion, Ultra Ball, 2x Nugget, Moon Stone, 3x Rare Candy, Silph Scope
+* Pokemon: n/a
+* Trainer: 12
+
+**Lavender Town Haunter**
+* Item: 5x Rare Candy, Nugget
+* Pokemon: Cubone, Gastly, Haunter, Marowak
+* Trainer: 17
+* Hint: You can't catch Haunter and Marowak.
+
+**Route 12**
+* Item: 1 (needs HM03 - Surf)
+* Pokemon: Snorlax
+* Trainer: 7
+
+**Route 13**
+* Item: Rare Candy
+* Pokemon: Sandslash, Arbok, Tangela, Raticate, Marowak, Lickitung, Scyther, Krabby, Parasect, Farfetch'D, Gloom, Weepinbell, Fearow, Machoke, Ponyta, Psyduck
+* Trainer: 14
+
+**Route 14**
+* Item: n/a
+* Pokemon: Wigglytuff, Psyduck, Machoke, Ponyta, Scyther, Parasect, Dodrio, Pikachu, Sandslash
+* Trainer: 10
+* Hint: You can't catch Dodrio.
+
+**Route 15**
+* Item: TM20 (Rage)
+* Pokemon: Parasect, Pidgeot, Pikachu, Ponyta, Arbok, Pidgeot, Primeape, Arbok, Scyther, Sandslash, Dodrio
+* Trainer: 10
+* Hint: You can't catch Dodrio.
+
+**Fuchsia City**
+* Item: Good Rod, Rare Candy (needs HM04 - Streght)
+* Pokemon: Tentacool (Good Rod)
+* Trainer: 0
+
+**Safari Zone**
+* Item: Max Potion, 2x Rare Candy, HM03 (Surf), TM40, TM37 (Egg Bomb), Nugget, Gold Teeth
+* Pokemon: Vileplume, Kangaskhan, Electabuzz, Nidoking, Magmar, Machamp, Golem, Dratini, Nidoqueen, Porygon, Golduck, Victreebel, Rhydon
+* Trainer: 0
+
+**Route 18**
+* Item: n/a
+* Pokemon: Golduck, Muk, Magnemite, Tangela, Weezing, Raticate, Fearow, Primeape, Pidgeot, Dodrio
+* Trainer: 3
+* Trade: Chansey for Pinsir (House inside)
+
+**Cycling Road**
+* Item: n/a
+* Pokemon: Fearow, Voltorb, Electrode, Koffing, Grimer, Graveler, Growlithe, Muk, Weezing
+* Trainer: 10
+
+**Route 16**
+* Item: HM02 (Fly)
+* Pokemon: Gloom, Sandslash, Nidorino, Doduo, Ponyta, Nidorina, Rhyhorn, Radicate
+* Trainer: 6
+
+**Fuchsia City Gym**
+* Item: TM06 (Toxic)
+* Pokemon: n/a
+* Trainer: 7
+
+**Shaffron City Gym Left**
+* Item: Hitmonlee or Hitmonchan (only one)
+* Pokemon: n/a
+* Trainer: 5
+
+**Shaffron City Silph Co. Building**
+* Item: 9x Rare Candy, TM26 (Earthquake), Card Key, TM09 (Take Down), Nugget, TM36 (Selfdestruct), Hyper Potion
+* Pokemon: n/a
+* Trainer: 32
+
+**Shaffron City Gym Right**
+* Item: TM46 (Psywave)
+* Pokemon: n/a
+* Trainer: 8
+
+**Route 19**
+* Item: n/A
+* Pokemon: Horsea, Magikarp, Goldeen, Wartortle, Seel, Tentacool, Poliwhirl
+* Trainer: 16
+
+**Seafoam Island**
+* Item: Ultra Ball, 
+* Pokemon: Kingler, Seadra, Dewgong, Poliwrath, Blastoise, Marowak, Golduck, Ditto, Primeape, Muk, Kangaskhan, Hitmonlee, Tentacruel, Golbat, Machamp, Gyarados, Graveler, Onix, Machoke
+* Trainer: 0
+
+**Route 20**
+* Item: n/A
+* Pokemon: Horsea, Magikarp, Goldeen, Wartortle, Seel, Tentacool, Poliwhirl
+* Trainer: 4
+
+**Cinnabar Island**
+* Item: n/A
+* Pokemon: Horsea, Magikarp, Goldeen, Wartortle, Seel, Tentacool, Poliwhirl
+* Trainer: 0
+* Trade: Raichu for Raichu, Staryu for Dratini and Kadabra for Kalazam
+
+**Cinnabar Island Mansion**
+* Item: Moon Stone, 8x Rare Candy, Max Revive, TM14 (Blizzard), Secret Key
+* Pokemon: Weezing, FLareon, Magmar, Arcanine, Muk, Ninetales, Parasect, Electrode, Haunter, Radicate, Venomoth, Kabutops, Omastar
+* Trainer: 0
+
+**Cinnabar Island Gym**
+* Item: TM38 (Fire Blast)
+* Pokemon: n/a
+* Trainer: 8
+
+**Route 20**
+* Item: n/a
+* Pokemon: Seel, Tentacool, Poliwhirl, Seadra, Wartortle, Tentacruel, Goldeen, Golduck, Vileplume, Kangaskhan, Pidgeot, Sandslash, Tangela, Arbok, Victreebel
+* Trainer: 9
+
+**Viridian City Gym**
+* Item: Super Rod
+* Pokemon: n/a
+* Trainer: 9
