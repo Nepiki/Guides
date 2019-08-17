@@ -1,3 +1,23 @@
+Pokémon [Blue Kaizo](https://retroachievements.org/game/6690) game page
+
+
+
+# **Missable Achievements**
+
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86604.png)](http://retroachievements.org/achievement/80524)
+
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86605.png)](http://retroachievements.org/achievement/80525)
+
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86721.png)](http://retroachievements.org/achievement/80536)
+
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86965.png)](http://retroachievements.org/achievement/80550)
+
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86966.png)](http://retroachievements.org/achievement/80552)
+
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86967.png)](http://retroachievements.org/achievement/80553)
+
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86970.png)](http://retroachievements.org/achievement/80554)
+
 # **Quick Walktrough**
 
 **Pallet Town**
