@@ -19,14 +19,14 @@ Just defeat your second Rival in Route 22 otherwise he's gone if you went to Pew
 Just lose against your first Rival in Professor Oak's House otherwise he's gone if you won battle against him.
 
 
-* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86965.png)](http://retroachievements.org/achievement/80550)
-
-Just defeat all 3 Trainers in Viridian Forest without leaving the area otherwise achievement will disable if you leaved the area after defeating one or two Trainers.
-
-
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86966.png)](http://retroachievements.org/achievement/80552)
 
 Just defeat all 6 Trainers (except Rival) in Cerulean's Nugget Bridge (Route 24) without moving down or losing a battle against one of them.
+
+
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86965.png)](http://retroachievements.org/achievement/80550)
+
+Just defeat all 3 Trainers in Viridian Forest without leaving the area otherwise achievement will disable if you leaved the area after defeating one or two Trainers.
 
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86967.png)](http://retroachievements.org/achievement/80553)
