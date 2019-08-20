@@ -6,17 +6,38 @@ Pokémon [Blue Kaizo](https://retroachievements.org/game/6690) game page
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86604.png)](http://retroachievements.org/achievement/80524)
 
+Just defeat your first Rival in Professor Oak's House otherwise he's gone if you lost battle against him.
+
+
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86605.png)](http://retroachievements.org/achievement/80525)
+
+Just defeat your second Rival in Route 22 otherwise he's gone if you went to Pewter City.
+
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86721.png)](http://retroachievements.org/achievement/80536)
 
+Just lose against your first Rival in Professor Oak's House otherwise he's gone if you won battle against him.
+
+
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86965.png)](http://retroachievements.org/achievement/80550)
+
+Just defeat all 3 Trainers in Viridian Forest without leaving the area otherwise achievement will disable if you leaved the area after defeating one or two Trainers.
+
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86966.png)](http://retroachievements.org/achievement/80552)
 
+Just defeat all 6 Trainers (except Rival) in Cerulean's Nugget Bridge (Route 24) without moving down or losing a battle against one of them.
+
+
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86967.png)](http://retroachievements.org/achievement/80553)
 
+Just pick up either Dome or Helix Fossil without using Repel in Mt. Moon.
+
+
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86970.png)](http://retroachievements.org/achievement/80554)
+
+Just defeat all Trainers in Saffron City Gym (left) without leaving the area otherwise achievement will disable if you leaved the area after defeating the first Trainer.
+
 
 # **Quick Walktrough**
 
@@ -38,7 +59,7 @@ Pokémon [Blue Kaizo](https://retroachievements.org/game/6690) game page
 **Route 22**
 * Item: n/a
 * Pokemon: Bulbasaur, Charmander, Squirtle, Nidoran (male), Nidoran (female), Cubone, Magikarp (Old Rod)
-* Trainer: 2
+* Trainer: 1
 
 **Viridian Forest**
 * Item: Rare Candy, Antidote, Potion, Pokeball
@@ -272,5 +293,30 @@ Pokémon [Blue Kaizo](https://retroachievements.org/game/6690) game page
 
 **Viridian City Gym**
 * Item: Super Rod
-* Pokemon: n/a
+* Pokemon: Eevee from small House near Gym
 * Trainer: 9
+
+**Route 22**
+* Item: n/a
+* Pokemon: Bulbasaur, Charmander, Squirtle, Nidoran (male), Nidoran (female), Cubone, Magikarp (Old Rod)
+* Trainer: 1
+
+**Route 23** WIP
+* Item: n/a
+* Pokemon: WIP
+* Trainer: 0
+
+**Victory Road** WIP
+* Item: WIP
+* Pokemon: WIP
+* Trainer: 0
+
+**Pokemon League**
+* Item: n/a
+* Pokemon: n/a
+* Trainer: 5
+
+**Cerulean Cave** WIP
+* Item: WIP
+* Pokemon: WIP
+* Trainer: 0
