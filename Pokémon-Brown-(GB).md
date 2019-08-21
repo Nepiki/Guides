@@ -82,7 +82,8 @@ Just don't defeat Patrol Pallet with 2 or more Pokémon in your party. It works 
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86158.png)](https://retroachievements.org/achievement/79741)
 
-210 of 225 Pokémon are obtain and other 15 Pokémon are unobtain, just remember and don't forget. Also never delete/toss/sell items like **Electrizer**, **Magmarizer**, **Protector**, **Up-Grade**, **Dubious Disk**, **2x Metal Coat**, **Razor Claw**, **Razor Fang**, **Coronet Stone**, **2x Dusk Stone**, **4x Trade Stone**, **Shiny Stone**, **2x King's Rock**, **Dragon Scale**, **Magic Wand** and **Moon Stone**. So, be careful. Also you can buy **Rare Candy** from MART in 5th floor in Hayward City.
+210 of 225 Pokémon are obtain and other 15 Pokémon are unobtain, just remember and don't forget. Also never delete/toss/sell items like **Electrizer**, **Magmarizer**, **Protector**, **Up-Grade**, **Dubious Disk**, **2x Metal Coat**, **Razor Claw**, **Razor Fang**, **Coronet Stone**, **2x Dusk Stone**, **4x Trade Stone**, **Shiny Stone**, **2x King's Rock**, **Dragon Scale**, **Magic Wand** and **Moon Stone**. So, be careful. Also you can buy **Rare Candy** from MART in 5th floor in Hayward City. If you stumble upon a seemingly infinite amount of TM55 (Flash), **DON'T** sell it. It'll ruin your inventory and erase items.
+
 
 # **Quick Walkthrough**
 [CLICK HERE](https://rijon.fandom.com/wiki/Pok%C3%A9mon_Brown_Quick_Walkthrough) to read Quick Walkthrough
