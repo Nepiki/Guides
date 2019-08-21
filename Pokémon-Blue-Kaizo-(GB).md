@@ -9,14 +9,14 @@ Pokémon [Blue Kaizo](https://retroachievements.org/game/6690) game page
 Just defeat your first Rival in Professor Oak's House otherwise he's gone if you lost battle against him.
 
 
-* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86605.png)](http://retroachievements.org/achievement/80525)
-
-Just defeat your second Rival in Route 22 otherwise he's gone if you went to Pewter City.
-
-
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86721.png)](http://retroachievements.org/achievement/80536)
 
 Just lose against your first Rival in Professor Oak's House otherwise he's gone if you won battle against him.
+
+
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86605.png)](http://retroachievements.org/achievement/80525)
+
+Just defeat your second Rival in Route 22 otherwise he's gone if you went to Pewter City.
 
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86965.png)](http://retroachievements.org/achievement/80550)
