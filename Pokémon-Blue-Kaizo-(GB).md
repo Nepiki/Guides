@@ -47,7 +47,7 @@ Just defeat all Trainers in Saffron City Gym (left) without leaving the area oth
 * Trainer: 1
 
 **Route 1**
-* Item: Potion, TM42 (Dream Eater, needs HM01 - Cut)
+* Item: Potion, TM42 (Dream Eater, needs HM01 Cut)
 * Pokemon: Rattata, Pidgey, Sandshrew, Caterpie, Weedle, Pikachu, Ekans, Spearow, Nidoran (male), Nidoran (female), Diglett
 * Trainer: 0
 
@@ -93,7 +93,7 @@ Just defeat all Trainers in Saffron City Gym (left) without leaving the area oth
 * Trainer: 1
 
 **Route 24**
-* Item: 2 (needs HM01 and HM03)
+* Item: 2 (needs HM01 Cut and HM03 Surf)
 * Pokemon: Farfetch'D, Growlithe, Bellsprout, Krabby, Mankey, Beedrill, Butterfree, Poliwag, Nidoran (female), Nidoran (male), Psyduck, Pidgeotto, Magikarp (Old Rod)
 * Trainer: 15
 
@@ -188,7 +188,7 @@ Just defeat all Trainers in Saffron City Gym (left) without leaving the area oth
 * Hint: You can't catch Haunter and Marowak.
 
 **Route 12**
-* Item: 1 (needs HM03 - Surf)
+* Item: 1 (needs HM03 Surf)
 * Pokemon: Snorlax
 * Trainer: 7
 
@@ -210,7 +210,7 @@ Just defeat all Trainers in Saffron City Gym (left) without leaving the area oth
 * Hint: You can't catch Dodrio.
 
 **Fuchsia City**
-* Item: Good Rod, Rare Candy (needs HM04 - Streght)
+* Item: Good Rod, Rare Candy (needs Gold Teeth and HM04 Strenght)
 * Pokemon: Tentacool (Good Rod)
 * Trainer: 0
 
