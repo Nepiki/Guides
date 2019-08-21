@@ -26,7 +26,7 @@ Just defeat all 3 Trainers in Viridian Forest without leaving the area otherwise
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86967.png)](http://retroachievements.org/achievement/80553)
 
-Just pick up either Dome or Helix Fossil without using Repel in Mt. Moon.
+Just pick up either Dome or Helix Fossil and get through Mt. Moon without using Repel.
 
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86966.png)](http://retroachievements.org/achievement/80552)
