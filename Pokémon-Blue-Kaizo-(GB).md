@@ -256,7 +256,7 @@ Just defeat all Trainers in Saffron City Gym (left) without leaving the area oth
 * Trainer: 8
 
 **Route 19**
-* Item: n/A
+* Item: n/a
 * Pokemon: Horsea, Magikarp, Goldeen, Wartortle, Seel, Tentacool, Poliwhirl
 * Trainer: 16
 
@@ -266,19 +266,19 @@ Just defeat all Trainers in Saffron City Gym (left) without leaving the area oth
 * Trainer: 0
 
 **Route 20**
-* Item: n/A
+* Item: n/a
 * Pokemon: Horsea, Magikarp, Goldeen, Wartortle, Seel, Tentacool, Poliwhirl
 * Trainer: 4
 
 **Cinnabar Island**
-* Item: n/A
-* Pokemon: Horsea, Magikarp, Goldeen, Wartortle, Seel, Tentacool, Poliwhirl
+* Item: n/a
+* Pokemon: Horsea, Magikarp, Goldeen, Wartortle, Seel, Tentacool, Poliwhirl, Staryu (Super Rod), Aerodactyl (Old Amber)
 * Trainer: 0
 * Trade: Raichu for Raichu, Staryu for Dratini and Kadabra for Kalazam
 
 **Cinnabar Island Mansion**
-* Item: Moon Stone, 8x Rare Candy, Max Revive, TM14 (Blizzard), Secret Key
-* Pokemon: Weezing, FLareon, Magmar, Arcanine, Muk, Ninetales, Parasect, Electrode, Haunter, Radicate, Venomoth, Kabutops, Omastar
+* Item: Moon Stone, 8x Rare Candy, Max Revive, TM14 (Blizzard), Secret Key, TM35 (Metronome)
+* Pokemon: Weezing, Flareon, Magmar, Arcanine, Muk, Ninetales, Parasect, Electrode, Haunter, Radicate, Venomoth, Kabuto, Kabutops, Omanyte (Helix Fossil), Omastar
 * Trainer: 0
 
 **Cinnabar Island Gym**
@@ -303,12 +303,12 @@ Just defeat all Trainers in Saffron City Gym (left) without leaving the area oth
 
 **Route 23** WIP
 * Item: n/a
-* Pokemon: WIP
+* Pokemon: Vaporeon, Jolteon, Vaporeon, Dodrio, Dugtrio, Abra, Exeggcute, Drowzee, Slowspoke
 * Trainer: 0
 
 **Victory Road** WIP
-* Item: WIP
-* Pokemon: WIP
+* Item: TM43 (Sky Attack), Rare Candy
+* Pokemon: Clefable, Nidoking, Nidoqueen, Golem, Persian, Electabuzz, Kangaskhan
 * Trainer: 0
 
 **Pokemon League**
