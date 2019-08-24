@@ -2,7 +2,7 @@ Pokémon [Blue Kaizo](https://retroachievements.org/game/6690) game page
 
 
 
-# **Missable Achievements**
+# **Missable Achievements: 8**
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86604.png)](http://retroachievements.org/achievement/80524)
 
