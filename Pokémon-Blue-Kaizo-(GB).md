@@ -327,6 +327,7 @@ Just catch Snorlax and Ditto without failure otherwise achievement is missable.
 * Trainer: 0
 
 
+
 # **Rock Tunnel Solution**
 * 11 right
 * 4 down
