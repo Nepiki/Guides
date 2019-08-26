@@ -328,126 +328,126 @@ Just catch Snorlax and Ditto without failure otherwise achievement is missable.
 
 
 # **Rock Tunnel Solution**
-11 right
-4 down
-2 left
-1 up
-2 left
-4 down
-5 right
-2 down
-10 right
-2 up
-2 right
-7 up
-2 left
-2 right
-3 down
-3 right
-6 down
-4 left
-1 down
-5 left
-4 up
-6 left
-2 down
-15 left
-1 down
-6 left
-2 up
-1 left
-4 up
-2 right
-2 up
-4 right
-2 up
-4 right
-5 down
-6 right
-5 up
-4 right
-3 up
-11 right
-4 up
-5 left
-4 up
-4 right
-3 up
-3 right
-6 up
-4 right
-3 up
-11 left
-2 down
-3 down
-5 right
-6 down
-8 left
-6 down
-3 right
-1 up
-1 right
-1 up
-2 right
-4 down
-2 left
-2 down
-2 left
-4 down
-2 left
-5 down
-2 left
-3 down
-10 right
-6 up
-3 right
-2 up
-3 right
-2 up
-5 right
-2 down
-7 right
-6 up
-2 right
-3 up
-4 left
-1 up
-10 left
-5 up
-1 right
-2 left
-8 up
-5 left
-6 down
-1 left
-5 down
-5 left
-5 down
-2 left
-2 down
-5 left
-5 up
-1 left
-4 up
-3 right
-1 up
-4 right
-3 up
-1 right
-4 up
-4 left
-2 down
-4 left
-3 up
-1 right
-3 down
-1 left
-3 down
-3 left
-3 down
-1 left
-2 down
-4 right
-6 down
-21 left
-1 up
+* 11 right
+* 4 down
+* 2 left
+* 1 up
+* 2 left
+* 4 down
+* 5 right
+* 2 down
+* 10 right
+* 2 up
+* 2 right
+* 7 up
+* 2 left
+* 2 right
+* 3 down
+* 3 right
+* 6 down
+* 4 left
+* 1 down
+* 5 left
+* 4 up
+* 6 left
+* 2 down
+* 15 left
+* 1 down
+* 6 left
+* 2 up
+* 1 left
+* 4 up
+* 2 right
+* 2 up
+* 4 right
+* 2 up
+* 4 right
+* 5 down
+* 6 right
+* 5 up
+* 4 right
+* 3 up
+* 11 right
+* 4 up
+* 5 left
+* 4 up
+* 4 right
+* 3 up
+* 3 right
+* 6 up
+* 4 right
+* 3 up
+* 11 left
+* 2 down
+* 3 down
+* 5 right
+* 6 down
+* 8 left
+* 6 down
+* 3 right
+* 1 up
+* 1 right
+* 1 up
+* 2 right
+* 4 down
+* 2 left
+* 2 down
+* 2 left
+* 4 down
+* 2 left
+* 5 down
+* 2 left
+* 3 down
+* 10 right
+* 6 up
+* 3 right
+* 2 up
+* 3 right
+* 2 up
+* 5 right
+* 2 down
+* 7 right
+* 6 up
+* 2 right
+* 3 up
+* 4 left
+* 1 up
+* 10 left
+* 5 up
+* 1 right
+* 2 left
+* 8 up
+* 5 left
+* 6 down
+* 1 left
+* 5 down
+* 5 left
+* 5 down
+* 2 left
+* 2 down
+* 5 left
+* 5 up
+* 1 left
+* 4 up
+* 3 right
+* 1 up
+* 4 right
+* 3 up
+* 1 right
+* 4 up
+* 4 left
+* 2 down
+* 4 left
+* 3 up
+* 1 right
+* 3 down
+* 1 left
+* 3 down
+* 3 left
+* 3 down
+* 1 left
+* 2 down
+* 4 right
+* 6 down
+* 21 left
+* 1 up
