@@ -306,24 +306,24 @@ Just catch Snorlax and Ditto without failure otherwise achievement is missable.
 * Pokemon: Bulbasaur, Charmander, Squirtle, Nidoran (male), Nidoran (female), Cubone, Magikarp (Old Rod)
 * Trainer: 1
 
-**Route 23** WIP
+**Route 23**
 * Item: n/a
-* Pokemon: Vaporeon, Jolteon, Vaporeon, Dodrio, Dugtrio, Abra, Exeggcute, Drowzee, Slowspoke
+* Pokemon: Vaporeon, Jolteon, Vaporeon, Dodrio, Dugtrio, Abra, Exeggcute, Drowzee, Slowspoke, Sandslash
 * Trainer: 0
 
-**Victory Road** WIP
+**Victory Road**
 * Item: TM43 (Sky Attack), Rare Candy
-* Pokemon: Clefable, Nidoking, Nidoqueen, Golem, Persian, Electabuzz, Kangaskhan
-* Trainer: 0
+* Pokemon: Clefable, Nidoking, Nidoqueen, Golem, Persian, Electabuzz, Kangaskhan, Muk, Hypno, Venomoth, Mr.Mime, Kadabra, Machamp, Rhydon, Vaporeon
+* Trainer: 10
 
 **Pokemon League**
 * Item: n/a
 * Pokemon: n/a
 * Trainer: 5
 
-**Cerulean Cave** WIP
-* Item: WIP
-* Pokemon: WIP
+**Cerulean Cave**
+* Item: PP UP
+* Pokemon: Zapdos, Moltres, Articuno, Mew, Mewtwo, Magneton, Alakazam, Golem, Cloyster, Dugtrio, Exeggcutor, Rhydon, Gengar, Pinsir, Slowbro, Jynx, Dragonite, Persian, Aerodactyl, Gyarados, Chansey, Raichu, Starmie, Tauros, Electrode, Lapras, Snorlax, 
 * Trainer: 0
 
 
