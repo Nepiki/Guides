@@ -104,7 +104,7 @@ Just catch Snorlax and Ditto without failure otherwise achievement is missable.
 
 **Cerulean City**
 * Item: TM11 (Bubblebeam), TM28 (Dig), Bicycle
-* Pokemon: Magikarp (Old Rod)
+* Pokemon: Magikarp (Old Rod), Shellder (Super Rod)
 * Trainer: 5
 * Trade: Spearow for Horsea (House inside)
 
