@@ -323,7 +323,7 @@ Just catch Snorlax and Ditto without failure otherwise achievement is missable.
 
 **Cerulean Cave**
 * Item: PP UP
-* Pokemon: Zapdos, Moltres, Articuno, Mew, Mewtwo, Magneton, Alakazam, Golem, Cloyster, Dugtrio, Exeggcutor, Rhydon, Gengar, Pinsir, Slowbro, Jynx, Dragonite, Persian, Aerodactyl, Gyarados, Chansey, Raichu, Starmie, Tauros, Electrode, Lapras, Snorlax, 
+* Pokemon: Zapdos, Moltres, Articuno, Mew, Mewtwo, Magneton, Alakazam, Golem, Cloyster, Dugtrio, Exeggcutor, Rhydon, Gengar, Pinsir, Slowbro, Jynx, Dragonite, Persian, Aerodactyl, Gyarados, Chansey, Raichu, Starmie, Tauros, Electrode, Lapras, Snorlax
 * Trainer: 0
 
 
