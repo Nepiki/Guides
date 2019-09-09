@@ -1,7 +1,7 @@
 [Yu-Gi-Oh! Forbidden Memories](http://retroachievements.org/game/11388) game page.
 
 ### **Drop List**
-The drop list of cards for every duelist. Click on the name of a duelist to open the list of possible drops you can get when beating him or her.
+The drop list of cards for every duelist. Click on the name of a duelist to open the list of possible drops you can get when beating him or her.<br>
 _The list is still Work In Progress!_
 <details>
   <summary>Simon Muran</summary>
