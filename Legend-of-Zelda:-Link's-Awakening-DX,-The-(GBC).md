@@ -1,4 +1,4 @@
-[The Legend of Zelda; Links Awakening DX](http://retroachievements.org/game/5371) game page
+[The Legend of Zelda: Link's Awakening DX](http://retroachievements.org/game/5371) game page
 
 ## List of missable achievements
 Total: 13
