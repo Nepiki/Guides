@@ -92,3 +92,15 @@ Teana can be unlocked by beating her in the Duel Grounds before Heishin attacks 
 | | | | 690 | Fake Trap | 0.73% | | | |
 | | | | 699 | Revival of Skeleton Rider | 0.05% | | | |
 </details>
+
+<details>
+  <summary>Jono</summary>
+Jono can be unlocked by beating him in the Duel Grounds before Heishin attacks the Palace. (Optional)
+
+| | Rank S/A (Pow)  | | | Rank S/A (Tec) | | | Rank B/C/D | |
+| ------------- | ------------- | ---: | ------------- | ------------- | ---: | ------------- | ------------- | ---: |
+| **Nr.** | **Name**  | **Chance**  | **Nr.** | **Name**  | **Chance**  | **Nr.** | **Name**  | **Chance**  |
+| 004 | Baby Dragon | 0.98% | | | |
+| 016 | Time Wizard | 3.13% | | | |
+| 029 | Left Arm of the Forbidden One | 0.29% | | | |
+</details>
