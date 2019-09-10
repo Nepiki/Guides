@@ -100,7 +100,62 @@ Jono can be unlocked by beating him in the Duel Grounds before Heishin attacks t
 | | Rank S/A (Pow)  | | | Rank S/A (Tec) | | | Rank B/C/D | |
 | ------------- | ------------- | ---: | ------------- | ------------- | ---: | ------------- | ------------- | ---: |
 | **Nr.** | **Name**  | **Chance**  | **Nr.** | **Name**  | **Chance**  | **Nr.** | **Name**  | **Chance**  |
-| 004 | Baby Dragon | 0.98% | | | |
-| 016 | Time Wizard | 3.13% | | | |
-| 029 | Left Arm of the Forbidden One | 0.29% | | | |
+| 004 | Baby Dragon | 0.98% | 016 | Time Wizard | 2.93% | 016 | Time Wizard | 3.12% |
+| 016 | Time Wizard | 3.13% | 020 | Left Arm of the Forbidden One | 0.20% | 020 | Left Arm of the Forbidden One | 0.29% |
+| 020 | Left Arm of the Forbidden One | 0.29% | 050 | Basic Insect | 1.95% | 050 | Basic Insect | 2.15%
+| 029 | Mountain Warrior | 0.98% | 104 | Curtain of the Dark Ones | 1.95% | 104 | Curtain of the Dark Ones | 2.15% |
+| 050 | Basic Insect | 2.15% | 105 | Tomozaurus | 1.95% | 105 | Tomozaurus | 2.15% |
+| 061 | Wolf | 0.98% | 122 | Yamatano Dragon Scroll | 1.95% | 122 | Yamatano Dragon Scroll | 2.15% |
+| 100 | Battle Warrior | 0.98% | 130 | Weather Control | 1.95% | 130 | Weather Control | 2.15% |
+| 104 | Curtain of the Dark Ones | 2.15% | 135 | Fiend's Hand | 1.95% | 135 | Fiend's Hand | 2.15% |
+| 105 | Tomozaurus | 2.15% | 137 | Mystery Hand | 1.95% | 137 | Mystery Hand | 2.15%
+| 122 | Yamatano Dragon Scroll | 2.15% | 152 | The Melting Red Shadow | 1.95% | 152 | The Melting Red Shadow | 2.15% | 
+| 130 | Weather Control | 2.15% | 154 | Fire Reaper | 1.95% | 154 | Fire Reaper | 2.15% |
+| 135 | Fiend's Hand | 2.15% | 174 | Hurricail | 1.95% | 174 | Hurricail | 2.15% | 
+| 137 | Mystery Hand | 2.15% | 182 | Masked Clown | 1.95% | 182 | Masked Clown | 2.15% |
+| 152 | The Melting Red Shadow | 2.15% | 185 | Eyearmor | 1.95% | 185 | Eyearmor | 2.15% |
+| 154 | Fire Reaper | 2.15% | 191 | LALA Li-oon | 1.95% | 191 | LALA Li-oon | 2.15% |
+| 185 | Eyearmor | 2.15% | 197 | Mech Mole Zombie | 1.95% | 197 | Mech Mole Zombie | 2.15% |
+| 191 | LALA Li-oon | 2.15% | 202 | Air Marmot of Nefariousness | 1.95% | 202 | Air Marmot of Nefariousness | 2.15% |
+| 197 | Mech Mole Zombie | 2.15% | 207 | Droll Bird | 1.95% | 207 | Droll Bird | 2.15% |
+| 202 | Air Marmot of Nefariousness | 2.15% | 210 | Hinotama Soul | 1.95% | 210 | Hinotama Soul | 2.15% |
+| 207 | Droll Bird | 2.15% | 214 | Kagemusha of the Blue Flame | 1.95% | 242 | Candle of Fate | 2.15% |
+| 210 | Hinotama Soul | 2.15% | 237 | Haniwa | 1.95% | 245 | Meda Bat | 2.15% |
+| 214 | Kagemusha of the Blue Flame | 2.15% | 242 | Candle of Fate | 2.05% | 268 | Sectarian of Secrets | 2.15% |
+| 237 | Haniwa | 2.15% | 245 | Meda Bat | 2.05% | 301 | Legendary Sword | 0.78% |
+| 242 | Candle of Fate | 2.15% | 268 | Sectarian of Secrets | 2.05% | 302 | Sword of Dark Destruction | 0.78% |
+| 245 | Meda Bat | 2.15% | 301 | Legendary Sword | 0.78% | 333 | Sogen | 1.76% |
+| 268 | Sectarian of Secrets | 2.15% | 302 | Sword of Dark Destruction | 0.78% | 343 | Sparks | 0.78% |
+| 333 | Sogen | 1.22% | 310 | Vile Germs | 0.78% | 410 | Mechanical Spider | 2.15% |
+| 410 | Mechanical Spider | 2.15% | 311 | Black Pendant | 0.78% | 420 | Cyber-Stein | 2.15% |
+| 420 | Cyber-Stein | 2.15% | 333 | Sogen | 1.76% | 422 | Jinzo #7 | 2.15% |
+| 422 | Jinzo #7 | 2.15% | 336 | Black Hole | 0.78% | 436 | White Dolphin | 2.15% |
+| 436 | White Dolphin | 2.15% | 343 | Sparks | 0.78% | 444 | Turu-Purun | 2.15% |
+| 444 | Turu-Purun | 2.15% | 344 | Hinotama | 0.88% | 485 | Korogashi | 2.15% |
+| 485 | Korogashi | 2.15% | 410 | Mechanical Spider | 2.05% | 486 | Boo Koo | 2.15% |
+| 486 | Boo Koo | 2.15% | 420 | Cyber-Stein | 2.05% | 488 | Rainbow Flower | 2.15% |
+| 488 | Rainbow Flower | 2.15% | 422 | Jinzo #7 | 2.05% | 492 | Hoshinigen | 2.15% |
+| 492 | Hoshinigen | 2.15% | 436 | White Dolphin | 2.05% | 501 | Man-eater Bug | 2.15% |
+| 501 | Man-eater Bug | 2.15% | 444 | Turu-Purun | 2.05% | 516 | Muka Muka | 2.15% |
+| 516 | Muka Muka | 2.15% | 485 | Korogashi | 2.05% | 524 | Star Boy | 2.15% |
+| 524 | Star Boy | 2.15% | 486 | Boo Koo | 2.05% | 549 | Frog The Jam | 2.15% |
+| 549 | Frog The Jam | 2.15% | 488 | Rainbow Flower | 2.05% | 558 | Pot the Trick | 2.15% |
+| 558 | Pot the Trick | 2.15% | 492 | Hoshinigen | 2.05% | 563 | Wretched Ghost of the Attic | 2.15% |
+| 563 | Wretched Ghost of the Attic | 2.15% | 501 | Man-eater Bug |  2.05% | 579 | Abyss Flower | 2.15% |
+| 570 | Trakadon | 0.29% | 516 | Muka Muka | 2.05% | 588 | Living Vase | 0.10% |
+| 579 | Abyss Flower | 2.15% | 524 | Star Boy | 2.05% | 589 | Tentacle Plant | 2.15% |
+| 580 | Patrol Robo | 0.29% | 549 | Frog The Jam | 2.05% | 598 | Little Chimera | 2.15% |
+| 581 | Takuhee | 0.10% | 558 | Pot the Trick | 2.05% | 611 | Hiro's Shadow Scout | 2.15% |
+| 588 | Living Vase | 0.10% | 563 | Wretched Ghost of the Attic | 2.05% | 651 | Kunai with Chain | 1.66% |
+| 589 | Tentacle Plant | 2.15% | 579 | Abyss Flower | 2.05% | 677 | Hamburger Recipe | 0.88% |
+| 598 | Little Chimera | 2.15% | 589 | Tentacle Plant | 2.05% | 681 | House of Adhesive Tape | 0.88% |
+| 607 | Great Bill | 0.10% | 598 | Little Chimera | 2.05% | 690 | Fake Trap | 0.88% |
+| 611 | Hiro's Shadow Scout | 2.15% | 611 | Hiro's Shadow Scout | 2.05% | | | |
+| 616 | Hourglass of Courage | 0.10% | 651 | Kunai with Chain | 1.71% | | | |
+| 651 | Kunai with Chain | 1.61% | 654 | Salamandra | 1.71% | | | |
+| 681 | House of Adhesive Tape | 0.78% | 677 | Hamburger Recipe | 0.78% | | | |
+| | | | 679 | Novox's Prayer | 0.78% | | |
+| | | | 681 | House of Adhesive Tape | 0.78% | | |
+| | | | 683 | Bear Trap | 0.78% | | |
+| | | | 690 | Fake Trap | 0.78% | | |
 </details>
