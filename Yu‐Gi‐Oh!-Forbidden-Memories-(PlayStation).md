@@ -5,6 +5,7 @@ The drop list of cards for every duelist. Click on the name of a duelist to open
 _The list is still Work In Progress!_
 <details>
   <summary>Simon Muran</summary>
+Simon Muran can be unlocked by beating him in front of Pharaoh's Palace before Heishin attacks the Palace. (Optional)
 
 | | Rank S/A (Pow)  | | | Rank S/A (Tec) | | | Rank B/C/D | |
 | ------------- | ------------- | ---: | ------------- | ------------- | ---: | ------------- | ------------- | ---: |
@@ -60,3 +61,34 @@ _The list is still Work In Progress!_
 | | | | 690 | Fake Trap | 0.98% | | | |
 </details>
 
+<details>
+  <summary>Teana</summary>
+Teana can be unlocked by beating her in the Duel Grounds before Heishin attacks the Palace. (Optional)
+
+| | Rank S/A (Pow)  | | | Rank S/A (Tec) | | | Rank B/C/D | |
+| ------------- | ------------- | ---: | ------------- | ------------- | ---: | ------------- | ------------- | ---: |
+| **Nr.** | **Name**  | **Chance**  | **Nr.** | **Name**  | **Chance**  | **Nr.** | **Name**  | **Chance**  |
+| 019 | Right Arm of the Forbidden One | 0.29% | 019 | Right Arm of the Forbidden One | 0.29% | 019 | Right Arm of the Forbidden One | 0.29% |
+| 024 | Skull Servant | 8.79% | 024 | Skull Servant | 8.30% | 024 | Skull Servant | 8.79% |
+| 058 | Kuriboh | 8.79% | 058 | Kuriboh | 8.30% | 058 | Kuriboh | 8.79% |
+| 102 | Mask of Darkness | 0.59% | 167 | Ancient Jar | 8.20% | 167 | Ancient Jar | 8.79% |
+| 167 | Ancient Jar | 8.79% | 302 | Sword of Dark Destruction | 0.78% | 302 | Sword of Dark Destruction | 0.78% |
+| 302 | Sword of Dark Destruction | 0.78% | 312 | Silver Bow and Arrow | 0.73% | 330 | Forest | 1.46% |
+| 330 | Forest | 1.46% | 313 | Horn of Light | 0.73% | 393 | Zone Eater | 8.79% |
+| 393 | Zone Eater | 8.59% | 330 | Forest | 1.46% | 395 | Dancing Elf | 8.69% |
+| 395 | Dancing Elf | 8.59% | 336 | Dark Hole | 0.73% | 398 | Ooguchi | 8.69% |
+| 398 | Ooguchi | 8.59% | 345 | Final Flame | 0.73% | 399 | Swordsman from a Foreign Land | 8.69% |
+| 399 | Swordsman from a Foreign Land | 8.59% | 350 | Dark-piercing Light | 1.46% | 402 | Monster Eye | 8.69% |
+| 402 | Monster Eye | 8.59% | 393 | Zone Eater | 8.30% | 469 | Armed Ninja | 8.69% |
+| 469 | Armed Ninja | 8.59% | 395 | Dancing Elf | 8.30% | 475 | Sinister Serpent | 8.69% |
+| 475 | Sinister Serpent | 8.59% | 398 | Ooguchi | 8.30% | 527 | Milus Radiant | 8.69% |
+| 527 | Milus Radiant | 8.59% | 399 | Swordsman from a Foreign Land | 8.30% | 681 | House of Adhesive Tape | 0.68% |
+| 543 | Tongyo | 0.59% | 402 | Monster Eye | 8.20% | 690 | Fake Trap | 0.73% |
+| 566 | Yormungarde | 0.59% | 469 | Armed Ninja | 8.20% | 699 | Revival of Skeleton Rider | 0.05% | |
+| 570 | Trakadon | 0.29% | 475 | Sinister Serpent | 8.20% | | | |
+| 580 | Patrol Robo | 0.29% | 527 | Milus Radiant | 8.20% | | | |
+| | | | 681 | House of Adhesive Tape | 0.73% | | | |
+| | | | 682 | Eatgaboon | 0.73% | | | |
+| | | | 690 | Fake Trap | 0.73% | | | |
+| | | | 699 | Revival of Skeleton Rider | 0.05% | | | |
+</details>
