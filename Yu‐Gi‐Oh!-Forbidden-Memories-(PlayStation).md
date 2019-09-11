@@ -167,64 +167,64 @@ Villager 1 can be unlocked by beating him in the Duel Grounds.
 | | Rank S/A (Pow)  | | | Rank S/A (Tec) | | | Rank B/C/D | |
 | ------------- | ------------- | ---: | ------------- | ------------- | ---: | ------------- | ------------- | ---: |
 | **Nr.** | **Name**  | **Chance**  | **Nr.** | **Name**  | **Chance**  | **Nr.** | **Name**  | **Chance**  |
-| 009 | Shadow Specter | 3.61% | 009 | Shadow Specter | 2.93% | 009 | Shadow Specter | 1.27% |
-| 020 | Left Arm of the Forbidden One | 0.29% | 020 | Left Arm of the Forbidden One | 0.29% | 020 | Left Arm of the Forbidden One | 0.59% |
-| 024 | Skull Servant | 3.61% | 024 | Skull Servant | 2.93% |
-| 058 | Kuriboh | 3.61% | 058 | Kuriboh | 2.93% |
-| 112 | That Which Feeds on Life | 0.59% | 123 | Dark Plant | 2.93% |
-| 123 | Dark Plant | 3.61% | 167 | Ancient Jar | 2.93% |
-| 146 | Temple of Skulls | 0.59% | 192 | Key Mace | 2.93% |
-| 153 | Dokuroizo the Grim Reaper | 0.59% | 289 | Change Slime | 2.93% |
-| 165 | The Judgement Hand | 0.59% | 307 | Elf's Light | 0.78% |
-| 167 | Ancient Jar | 3.61% | 308 | Beast Fangs | 0.78% |
-| 192 | Key Mace | 3.61% | 309 | Steel Shell | 0.78% |
-| 234 | Beautiful Headhuntress | 0.59% | 311 | Black Pendant | 0.78% |
-| 241 | Dark Assailant | 0.59% | 312 | Silver Bow and Arrow | 0.78% |
-| 289 | Change Slime | 3.61% | 323 | Book of Secret Arts | 0.78% |
-| 307 | Elf's Light | 0.78% | 327 | Follow Wind | 0.78% |
-| 332 | Mountain | 1.56% | 332 | Mountain | 1.56% |
-| 338 | Mooyan Curry | 1.56% | 336 | Black Hole | 0.88% |
-| 387 | Mystic Lamp | 3.61% | 338 | Mooyan Curry | 1.56% |
-| 393 | Zone Eater | 3.61% | 339 | Red Medicine | 1.56% |
-| 395 | Dancing Elf | 3.61% | 340 | Goblin's Secret Remedy | 1.56% |
-| 397 | Leghul | 3.61% | 345 | Final Flame | 0.88% |
-| 398 | Ooguchi | 3.61% | 350 | Dark-piercing Light | 1.56% |
-| 399 | Swordsman from a Foreign Land | 3.61% | 387 | Mystic Lamp | 2.93% |
-| 402 | Monster Eye | 3.61% | 393 | Zone Eater | 2.93% |
-| 411 | Bat | 3.61% | 395 | Dancing Elf | 2.93% |
-| 435 | Water Girl | 0.59% | 397 | Leghul | 2.93% |
-| 450 | Kappa Avenger | 0.59% | 398 | Ooguchi | 2.93% |
-| 469 | Armed Ninja | 3.61% | 399 | Swordsman from a Foreign Land | 2.93% |
-| 475 | Sinister Serpent | 3.61% | 402 | Monster Eye | 2.93% |
-| 480 | Kuwagata α | 0.59% | 411 | Bat | 2.93% |
-| 484 | Ameba | 3.61% | 469 | Armed Ninja | 2.93% |
-| 502 | D. Human | 0.59% | 475 | Sinister Serpent | 2.93% |
-| 504 | Fungi of the Musk | 3.61% | 484 | Ameba | 2.93% |
-| 527 | Milus Radiant | 3.61% | 504 | Fungi of the Musk | 2.93% |
-| 547 | Griggle | 3.61% | 527 | Milus Radiant | 2.93% |
-| 548 | Bone Mouse | 3.61% | 547 | Griggle | 2.93% |
-| 558 | Pot the Trick | 3.61% | 548 | Bone Mouse | 2.93% |
-| 570 | Trakadon | 0.49% | 558 | Pot the Trick | 2.93% |
-| 580 | Patrol Robo | 0.39% | 635 | Queen's Double | 2.93% |
-| 635 | Queen's Double | 3.61% | 655 | Cursebreaker | 0.98% |
-| 655 | Cursebreaker | 0.78% | 665 | Curse of Millennium Shield | 0.59% |
-| 681 | House of Adhesive Tape | 0.78% | 666 | Yamadron Ritual | 0.59% |
-| 690 | Fake Trap | 0.78% | 671 | Zera Ritual | 0.59% |
-| | | | 673 | War-lion Ritual | 0.59% |
-| | | | 674 | Beastry Mirror Ritual | 0.59% |
-| | | | 676 | Commencement Dance | 0.59% |
-| | | | 677 | Hamburger Recipe | 0.59% |
-| | | | 678 | Revival of Sennen Genjin | 0.59% |
-| | | | 679 | Novox's Prayer | 0.59% |
-| | | | 680 | Curse of Tri-Horned Dragon | 0.59% |
-| | | | 681 | House of Adhesive Tape | 1.17% |
-| | | | 690 | Fake Trap | 1.07% |
-| | | | 691 | Revived of Serpent Night Dragon | 0.59% |
-| | | | 692 | Turtle Oath | 0.59% |
-| | | | 693 | Contruct of Mask | 0.59% |
-| | | | 694 | Resurrection of Chakra | 0.59% |
-| | | | 695 | Puppet Ritual | 0.59% |
-| | | | 697 | Garma Sword Oath | 0.59% |
-| | | | 698 | Cosmo Queen's Prayer | 0.59% |
-| | | | 699 | Revival of Skeleton Rider | 0.59% |
-| | | | 700 | Fortress Whale's Oath | 0.59% |
+| 009 | Shadow Specter | 3.61% | 009 | Shadow Specter | 2.93% | 009 | Shadow Specter | 3.71% |
+| 020 | Left Arm of the Forbidden One | 0.29% | 020 | Left Arm of the Forbidden One | 0.29% | 020 | Left Arm of the Forbidden One | 0.29% |
+| 024 | Skull Servant | 3.61% | 024 | Skull Servant | 2.93% | 024 | Skull Servant | 3.71% |
+| 058 | Kuriboh | 3.61% | 058 | Kuriboh | 2.93% | 058 | Kuriboh | 3.71% |
+| 112 | That Which Feeds on Life | 0.59% | 123 | Dark Plant | 2.93% | 123 | Dark Plant | 3.71% |
+| 123 | Dark Plant | 3.61% | 167 | Ancient Jar | 2.93% | 167 | Ancient Jar | 3.71% |
+| 146 | Temple of Skulls | 0.59% | 192 | Key Mace | 2.93% | 192 | Key Mace | 3.71% |
+| 153 | Dokuroizo the Grim Reaper | 0.59% | 289 | Change Slime | 2.93% | 289 | Change Slime | 3.71% |
+| 165 | The Judgement Hand | 0.59% | 307 | Elf's Light | 0.78% | 307 | Elf's Light | 0.88% |
+| 167 | Ancient Jar | 3.61% | 308 | Beast Fangs | 0.78% | 323 | Book of Secret Arts | 0.88% |
+| 192 | Key Mace | 3.61% | 309 | Steel Shell | 0.78% | 332 | Mountain | 1.71% |
+| 234 | Beautiful Headhuntress | 0.59% | 311 | Black Pendant | 0.78% | 338 | Mooyan Curry | 1.71% |
+| 241 | Dark Assailant | 0.59% | 312 | Silver Bow and Arrow | 0.78% | 339 | Red Medicine | 1.71% |
+| 289 | Change Slime | 3.61% | 323 | Book of Secret Arts | 0.78% | 345 | Final Flame | 0.88% |
+| 307 | Elf's Light | 0.78% | 327 | Follow Wind | 0.78% | 350 | Dark-piercing Light | 1.71% |
+| 332 | Mountain | 1.56% | 332 | Mountain | 1.56% | 387 | Mystic Lamp | 3.71% |
+| 338 | Mooyan Curry | 1.56% | 336 | Black Hole | 0.88% | 393 | Zone Eater | 3.71% |
+| 387 | Mystic Lamp | 3.61% | 338 | Mooyan Curry | 1.56% | 395 | Dancing Elf | 3.66% |
+| 393 | Zone Eater | 3.61% | 339 | Red Medicine | 1.56% | 397 | Leghul | 3.66% |
+| 395 | Dancing Elf | 3.61% | 340 | Goblin's Secret Remedy | 1.56% | 398 | Ooguchi | 3.66% |
+| 397 | Leghul | 3.61% | 345 | Final Flame | 0.88% | 399 | Swordsman from a Foreign Land | 3.66% |
+| 398 | Ooguchi | 3.61% | 350 | Dark-piercing Light | 1.56% | 402 | Monster Eye | 3.66% |
+| 399 | Swordsman from a Foreign Land | 3.61% | 387 | Mystic Lamp | 2.93% | 411 | Bat | 3.66% |
+| 402 | Monster Eye | 3.61% | 393 | Zone Eater | 2.93% | 469 | Armed Ninja | 3.66% |
+| 411 | Bat | 3.61% | 395 | Dancing Elf | 2.93% | 475 | Sinister Serpent | 3.66% |
+| 435 | Water Girl | 0.59% | 397 | Leghul | 2.93% | 484 | Ameba | 3.66% |
+| 450 | Kappa Avenger | 0.59% | 398 | Ooguchi | 2.93% | 504 | Fungi of the Musk | 3.52% |
+| 469 | Armed Ninja | 3.61% | 399 | Swordsman from a Foreign Land | 2.93% | 527 | Milus Radiant | 3.52% |
+| 475 | Sinister Serpent | 3.61% | 402 | Monster Eye | 2.93% | 547 | Griggle | 3.52% |
+| 480 | Kuwagata α | 0.59% | 411 | Bat | 2.93% | 548 | Bone Mouse | 3.52% |
+| 484 | Ameba | 3.61% | 469 | Armed Ninja | 2.93% | 558 | Pot the Trick | 3.52% |
+| 502 | D. Human | 0.59% | 475 | Sinister Serpent | 2.93% | 635 | Queen's Double | 3.66% |
+| 504 | Fungi of the Musk | 3.61% | 484 | Ameba | 2.93% | 655 | Cursebreaker | 0.88% |
+| 527 | Milus Radiant | 3.61% | 504 | Fungi of the Musk | 2.93% | 681 | House of Adhesive Tape | 0.88% |
+| 547 | Griggle | 3.61% | 527 | Milus Radiant | 2.93% | 690 | Fake Trap | 0.88% |
+| 548 | Bone Mouse | 3.61% | 547 | Griggle | 2.93% | | | |
+| 558 | Pot the Trick | 3.61% | 548 | Bone Mouse | 2.93% | | | |
+| 570 | Trakadon | 0.49% | 558 | Pot the Trick | 2.93% | | | |
+| 580 | Patrol Robo | 0.39% | 635 | Queen's Double | 2.93% | | | |
+| 635 | Queen's Double | 3.61% | 655 | Cursebreaker | 0.98% | | | |
+| 655 | Cursebreaker | 0.78% | 665 | Curse of Millennium Shield | 0.59% | | | |
+| 681 | House of Adhesive Tape | 0.78% | 666 | Yamadron Ritual | 0.59% | | | |
+| 690 | Fake Trap | 0.78% | 671 | Zera Ritual | 0.59% | | | |
+| | | | 673 | War-lion Ritual | 0.59% | | | |
+| | | | 674 | Beastry Mirror Ritual | 0.59% | | | |
+| | | | 676 | Commencement Dance | 0.59% | | | |
+| | | | 677 | Hamburger Recipe | 0.59% | | | |
+| | | | 678 | Revival of Sennen Genjin | 0.59% | | | |
+| | | | 679 | Novox's Prayer | 0.59% | | | |
+| | | | 680 | Curse of Tri-Horned Dragon | 0.59% | | | |
+| | | | 681 | House of Adhesive Tape | 1.17% | | | |
+| | | | 690 | Fake Trap | 1.07% | | | |
+| | | | 691 | Revived of Serpent Night Dragon | 0.59% | | | |
+| | | | 692 | Turtle Oath | 0.59% | | | |
+| | | | 693 | Contruct of Mask | 0.59% | | | |
+| | | | 694 | Resurrection of Chakra | 0.59% | | | |
+| | | | 695 | Puppet Ritual | 0.59% | | | |
+| | | | 697 | Garma Sword Oath | 0.59% | | | |
+| | | | 698 | Cosmo Queen's Prayer | 0.59% | | | |
+| | | | 699 | Revival of Skeleton Rider | 0.59% | | | |
+| | | | 700 | Fortress Whale's Oath | 0.59% | | | |
