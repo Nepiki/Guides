@@ -1,4 +1,4 @@
-[Yu-Gi-Oh! Forbidden Memories](http://retroachievements.org/game/11388) game page.
+[Yu-Gi-Oh! Forbidden Memories](http://retroachievements.org/game/11388) game page.<br>_Guide made by SporyTike, if there are any issues or something is missing feel free to contact me._
 
 ### **Card Drop List**
 The drop list of cards for every duelist. Click on the name of a duelist to open the list of possible drops you can get when beating him or her.<br>
@@ -374,28 +374,262 @@ Villager 2 can be unlocked by beating him in the Duel Grounds.
 
 ### **Fusions**
 You can fuse monsters by putting two or more monsters together to create stronger ones. The ATK and DEF are used to determine the result of the fusion. In some cases there are more than one possible fusion results for the same fusion of types, in that case the monster will always become the one with the lowest ATK and DEF. If the ATK or DEF of any fusion-material is higher than the lowest possible fusion result the next lowest will become the result. If one of the stats of any fusion-material is higher or equal than the stats of the highest possible fusion result, the fusion won't work.<br>
-Types with numbers aren't real monster types but a group of monsters. A definition for each number is at the bottom of the list.<br>
-The following list is sorted by card types, names in _italic_ are specific monster cards.
+Some types aren't real monster types, because they are part of a specific monster group. These types are in _italic_ and all monsters in the groups can be found in the Type Groups list.<br>
+The following list is sorted by card types, names in **bolt** are specific monster cards.
 <details>
   <summary>Fusion List</summary>
 
 | First Material | Second Material | Nr. | Result | ATK | DEF |
 | ---------- | ----------- | --- | ------ | --: | --: |
-| Animal¹ | Female² | 627 | Nekogal #2 | 1900 | 2000 |
-| Animal¹ | Machine | 412 | Giga-tech Wolf | 1200 | 1400 |
+| _Animal_ | _Female_ | 627 | Nekogal #2 | 1900 | 2000 |
+| _Animal_ | Machine | 412 | Giga-tech Wolf | 1200 | 1400 |
 | | | 423 | Dice Armadillo | 1650 | 1800 |
-| Animal¹ | Plant | 487 | Flower Wolf | 1800 | 1400 |
-| Animal¹ | Pyro | 529 | Flame Cerebrus | 2100 | 1800 |
-| Animal¹ | Warrior | 064 | Tiger Axe | 1300 | 1100 |
+| _Animal_ | Plant | 487 | Flower Wolf | 1800 | 1400 |
+| _Animal_ | Pyro | 529 | Flame Cerebrus | 2100 | 1800 |
+| _Animal_ | Warrior | 064 | Tiger Axe | 1300 | 1100 |
 | Aqua | Dragon | 448 | Spike Seadra | 1600 | 1300 |
 | | | 073 | Kairyu-Shin | 1800 | 1500 |
 | Aqua | Thunder | 460 | Bolt Escargot | 1400 | 1500 |
-| Aqua | _Ground Attacker Bugroth_ | 639 | Amphibious Bugroth | 1850 | 1300 |
-| Aqua | _Kappa Avenger_ | 647 | Hyosube | 1500 | 900 |
-| Aqua | _Psychic Kappa_ | 647 | Hyosube | 1500 | 900 |
+| Aqua | **Ground Attacker Bugroth** | 639 | Amphibious Bugroth | 1850 | 1300 |
+| Aqua | **Kappa Avenger** | 647 | Hyosube | 1500 | 900 |
+| Aqua | **Psychic Kappa** | 647 | Hyosube | 1500 | 900 |
+| Beast | Fish | 404 | Tatsunootoshigo | 1350 | 1600 |
+| Beast | _Special-A_ | 
+| Beast | **Larvas** | 587 | Mon Larvas | 1300 | 1400 |
+| _Turtle_ | Dragon | 443 | Sea King Dragon | 2000 | 1700 |
+</details>
 
-| Turtle⁹ | Dragon | 443 | Sea King Dragon | 2000 | 1700 |
-1) Monsters which look like animals and are Beast type (e.g. Wolf)<br>
-2) Monsters which look female (e.g. Amazon of the Seas)
-9) Monsters which look like turtles (e.g. Monsturtle)
+<details>
+  <summary>Type Groups</summary>
+The following list shows all extra monster groups which are used for fusion beside monster types.<br>
+Some types use some extra monsters beside all monsters of the type (e.g. Dragon), this list shows all extra monsters.
+
+| Group | Nr. | Name | ATK | DEF |
+| ---- | --- | ---- | --: | --: |
+| Animal | 046 | Griffore | 1200 | 1500 |
+| | 047 | Torike | 1200 | 600 |
+| | 061 | Wolf | 1200 | 800 |
+| | 065 | Silver Fang | 1200 | 800 |
+| | 113 | Dark Gray | 800 | 900 |
+| | 121 | Sleeping Lion | 700 | 1700 |
+| | 188 | Synchar | 800 | 900 |
+| | 189 | Fusionist | 900 | 700 |
+| | 201 | Frenzied Panda | 1200 | 1000 |
+| | 202 | Air Marmot of Nefariousness | 400 | 600 |
+| | 248 | Master & Expert | 1200 | 1000 |
+| | 255 | Prevent Rat | 500 | 2000 |
+| | 282 | Mystical Sheep #2 | 800 | 1000 |
+| | 403 | Leogun | 1750 | 1550 |
+| | 481 | Burglar | 850 | 800 |
+| | 483 | Garvas | 2000 | 1700 |
+| | 487 | Flower Wolf | 1800 | 1400 |
+| | 527 | Milus Radiant | 300 | 250 |
+| | 575 | Ancient One of the Deep Forest | 1800 | 1900 |
+| | 598 | Little Chimera | 600 | 550 |
+| | 604 | Obese Marmot of Nefariousness | 750 | 800 |
+| | 629 | Armored Rat | 950 | 1100 |
+| | 642 | Mystical Sheep #1 | 1150 | 900 |
+| Dark Magic | 010 | Blackland Fire Dragon | 1500 | 800 |
+| | 083 | Castle of Dark Illusions | 920 | 1930 |
+| | 102 | Mask of Darkness | 900 | 400 |
+| | 103 | Job-Change Mirror | 800 | 1300 |
+| | 112 | That Which Feeds on Life | 1200 | 1000 |
+| | 127 | Ansatsu  | 1700 | 1200 |
+| | 148 | The Shadow Who Controls the Dark | 800 | 700 |
+| | 149 | Lord of the Lamp | 1400 | 1200 |
+| | 164 | Lord of Zemia | 1300 | 1000 |
+| | 169 | Dark King of the Abyss | 1200 | 800 |
+| | 173 | Dark Prisoner | 600 | 1000 |
+| | 175 | Ancient Brain | 1000 | 700 |
+| | 182 | Masked Clown | 500 | 700 |
+| | 233 | Dark Titan of Terror | 1300 | 1100 |
+| | 234 | Beautiful Headhuntress | 1600 | 800 |
+| | 236 | Guardian of the Labyrinth | 1000 | 1200 |
+| | 239 | Vishwar Randi | 900 | 700 |
+| | 267 | Unknown Warrior of Fiend | 1000 | 500 |
+| | 269 | Versago the Destroyer | 1100 | 900 |
+| | 271 | Megirus Light | 900 | 600 |
+| | 279 | King Fog | 1000 | 900 |
+| | 563 | Wretched Ghost of the Attic | 550 | 400 |
+| Dark Spellcaster | 017 | Right Leg of the Forbidden One | 200 | 300 |
+| | 018 | Left Leg of the Forbidden One | 200 | 300 |
+| | 019 | Right Arm of the Forbidden One | 200 | 300 |
+| | 020 | Left Arm of the Forbidden One | 200 | 300 |
+| | 021 | Exodia the Forbidden | 1000 | 1000 |
+| | 034 | Saggi the Dark Clown | 600 | 1500 |
+| | 035 | Dark Magician | 2500 | 2100 |
+| | 104 | Curtain of the Dark Ones | 600 | 500 |
+| | 115 | Kamion Wizard | 1300 | 1100 |
+| | 129 | Nemuriko | 800 | 700 |
+| | 179 | Phantom Dewan | 700 | 600 |
+| | 190 | Akakieisu | 1000 | 800 |
+| | 220 | Masked Sorcerer | 900 | 1400 |
+| | 253 | Angelwitch | 800 | 1000 |
+| | 259 | Ancient Sorcerer | 1000 | 1300 |
+| | 268 | Sectarian of Secrets | 700 | 500 |
+| | 387 | Mystic Lamp | 400 | 300 |
+| | 530 | Eldeen | 950 | 1000 |
+| | 578 | Leo Wizard | 1350 | 1200 |
+| Dragon | 011 | Sword Arm of Dragon | 1750 | 2030 |
+| | 073 | Kairyu-Shin | 1800 | 1500 |
+| | 081 | Crawling Dragon #2 | 1600 | 1200 |
+| | 094 | Crawling Dragon | 1600 | 1400 |
+| | 097 | Dragon Zombie | 1600 | 0 |
+| | 138 | Dragon Statue | 1100 | 900 |
+| | 409 | Metal Dragon | 1850 | 1700 |
+| | 425 | Thunder Dragon | 1600 | 1500 |
+| | 442 | Aqua Dragon | 2250 | 1900 |
+| | 443 | Sea King Dragon | 2000 | 1700 |
+| | 448 | Spike Seadra | 1600 | 1300 |
+| | 545 | Skelgon | 1700 | 1900 |
+| | 613 | Twin-headed Thunder Dragon | 2800 | 2100 |
+| Elf | 002 | Mystical Elf | 800 | 2000 |
+| | 041 | Celtic Guardian | 1400 | 1200 |
+| | 264 | Wing Egg Elf | 500 | 1300 |
+| | 395 | Dancing Elf | 300 | 200 |
+| | 433 | Ancient Elf | 1450 | 1200 |
+| | 532 | Gemini Elf | 1900 | 900 |
+| | 551 | Dark Elf | 2000 | 800 |
+| Female | 002 | Mystical Elf | 800 | 2000 |
+| | 062 | Harpie Lady | 1300 | 1400 |
+| | 063 | Harpie Lady Sisters | 1950 | 2100 |
+| | 090 | Gyakutenno Megami | 1800 | 2000 |
+| | 109 | Goddess with the Third Eye | 1200 | 1000 |
+| | 128 | LaMoon | 1200 | 1700 |
+| | 129 | Nemuriko | 800 | 700 |
+| | 180 | Arlownay | 800 | 1000 |
+| | 192 | Key Mace | 400 | 300 |
+| | 216 | Dryad | 1200 | 1400 |
+| | 234 | Beautiful Headhuntress | 1600 | 800 |
+| | 239 | Vishwar Randi | 900 | 700 |
+| | 243 | Water Element | 900 | 700 |
+| | 249 | Water Omotics | 1400 | 1200 |
+| | 251 | Enchanting Mermaid | 1200 | 900 |
+| | 252 | Nekogal #1 | 1100 | 900 |
+| | 253 | Angelwitch | 800 | 1000 |
+| | 260 | Lunar Queen Elzaim | 750 | 1100 |
+| | 266 | Princess of Tsurugi | 900 | 700 |
+| | 280 | Protector of the Throne | 800 | 1500 |
+| | 299 | Sonic Maid | 1200 | 900 |
+| | 352 | Kanan the Swordmistress | 1400 | 1400 |
+| | 395 | Dancing Elf | 300 | 200 |
+| | 428 | Magician of Faith | 300 | 400 |
+| | 429 | Goddess of Whim | 950 | 700 |
+| | 430 | Water Magician | 1400 | 1000 |
+| | 431 | Ice Water | 1150 | 900 |
+| | 432 | Waterdragon Fairy | 1100 | 700 |
+| | 433 | Ancient Elf | 1450 | 1200 |
+| | 434 | Beautiful Beast Trainer | 1750 | 1500 |
+| | 435 | Water Girl | 1250 | 1000 |
+| | 530 | Eldeen | 950 | 1000 |
+| | 531 | Mystical Sand | 2100 | 1700 |
+| | 532 | Gemini Elf | 1900 | 900 |
+| | 551 | Dark Elf | 2000 | 800 |
+| | 572 | Empress Judge | 2100 | 1700 |
+| | 574 | Witch of the Black Forest | 1100 | 1200 |
+| | 582 | Dark Witch | 1800 | 1700 |
+| | 592 | Muse-A | 850 | 900 |
+| | 594 | Rose Spectre of Dunn | 2000 | 1800 |
+| | 600 | Key Mace #2 | 1050 | 1200 |
+| | 612 | Lady of Faith | 1100 | 800 |
+| | 618 | Warrior of Tradition | 1900 | 1700 |
+| | 621 | Succubus Knight | 1650 | 1300 |
+| | 622 | Ill Witch | 1600 | 1500 |
+| | 626 | Amazon of the Seas | 1300 | 1400 |
+| | 627 | Nekogal #2 | 1900 | 2000 |
+| | 628 | Witch's Apprentice | 550 | 500 |
+| | 631 | Maiden of the Moonlight | 1500 | 1300 |
+| | 635 | Queen's Double | 350 | 300 |
+| | 638 | Queen of Autumn Leaves | 1800 | 1500 |
+| | 641 | Invader of the Throne | 1350 | 1700 |
+| | 649 | Hibikime | 1450 | 1000 |
+| | 708 | Cosmo Queen | 2900 | 2450 |
+| Jar | 040 | Dragon Piper | 200 | 1800 |
+| | 167 | Ancient Jar | 400 | 200 |
+| | 558 | Pot the Trick | 400 | 400 |
+| | 591 | Morphing Jar | 700 | 600 |
+| Pyro | 015 | Flame Swordsman | 1800 | 1600 |
+| | 142 | Flame Manipulator | 900 | 1000 |
+| | 154 | Fire Reaper | 700 | 500 |
+| | 157 | Firegrass | 700 | 600 |
+| | 168 | Darkfire Dragon | 1500 | 1250 |
+| | 172 | Armaill | 700 | 1300 |
+| | 214 | Kagemusha of the Blue Flame | 800 | 400 |
+| | 215 | Flame Ghost | 1000 | 800 |
+| | 242 | Candle of Fate | 600 | 600 |
+| | 244 | Dissolverock | 900 | 1000 |
+| | 272 | Mavelus | 1300 | 900 |
+| | 409 | Metal Dragon | 1850 | 1700 |
+| | 417 | Blast Juggler | 800 | 900 |
+| | 519 | Fire Kraken | 1600 | 1500 |
+| | 555 | Tyhone #2 | 1700 | 1900 |
+| Special A | 175 | Ancient Brain | 1000 | 700 |
+| | 189 | Fusionist | 900 | 700 |
+| | 198 | Happy Lover | 800 | 500 |
+| | 208 | Petit Angel | 600 | 900 |
+| | 229 | Hourglass of Life | 700 | 600 |
+| | 253 | Angelwitch | 800 | 1000 |
+| | 260 | Lunar Queen Elzaim | 750 | 1100 |
+| | 264 | Wing Egg Elf | 500 | 1300 |
+| | 395 | Dancing Elf | 300 | 200 |
+| | 396 | Ocubeam | 1550 | 1650 |
+| | 540 | Skelengel | 900 | 400 |
+| | 582 | Dark Witch | 1800 | 1700 |
+| | 601 | Tenderness | 700 | 1400 |
+| | 608 | Shining Friendship | 1300 | 1100 |
+| Special B | 003 | Hitotsu-me Giant | 1200 | 1000 |
+| | 006 | Feral Imp | 1300 | 1400 |
+| | 025 | Horn Imp | 1300 | 1000 |
+| | 048 | Sangan | 1000 | 600 |
+| | 058 | Kuriboh | 300 | 200 |
+| | 059 | Mammoth Graveyard | 1200 | 800 |
+| | 088 | Metal Guardian | 1150 | 2150 |
+| | 119 | Trial of Nightmares | 1300 | 900 |
+| | 137 | Mystery Hand | 500 | 500 |
+| | 162 | Tainted Wisdom | 1250 | 800 |
+| | 187 | Gate Deeg | 700 | 800 |
+| | 194 | Terra the Terrible | 1200 | 1300 |
+| | 202 | Air Marmot of Nefariousness | 400 | 600 |
+| | 212 | Meotoko | 700 | 600 |
+| | 219 | Solitude | 1050 | 1000 |
+| | 222 | Midnight Fiend | 800 | 600 |
+| | 232 | Madjinn Gunn | 600 | 800 |
+| | 240 | The Drdek | 700 | 800 |
+| | 245 | Meda Bat | 800 | 400 |
+| | 254 | Embryonic Beast | 500 | 750 |
+| | 277 | Gorgon Egg | 300 | 1300 |
+| | 298 | Wicked Dragon with the Ersatz Head | 900 | 900 |
+| | 384 | Dark Rabbit | 1100 | 1500 |
+| | 490 | Needle Ball | 750 | 700 |
+| | 561 | Lesser Dragon | 1200 | 1000 |
+| | 604 | Obese Marmot of Nefariousness | 750 | 800 |
+| | 611 | Hiro's Shadow Scout | 650 | 500 |
+| Special C | 130 | Weather Control | 600 | 400 |
+| | 134 | Mystical Capture Chain | 700 | 700 |
+| | 183 | Lucky Trinket | 600 | 800 |
+| | 192 | Key Mace | 400 | 300 |
+| | 208 | Petit Angel | 600 | 900 |
+| | 229 | Hourglass of Life | 700 | 600 |
+| | 260 | Lunar Queen Elzaim | 750 | 1100 |
+| | 428 | Magician of Faith | 300 | 400 |
+| | 486 | Boo Koo | 650 | 500 |
+| | 492 | Hoshiningen | 500 | 700 |
+| | 601 | Tenderness | 700 | 1400 |
+| Special D | 062 | Harpie Lady | 1300 | 1400 |
+| | 125 | Fainth Bird | 1500 | 1700 |
+| | 272 | Mavelus | 1300 | 900 |
+| | 465 | Punished Eagle | 2100 | 1800 |
+| | 466 | Skull Red Bird | 1550 | 1200 |
+| | 491 | Peacock | 1700 | 1500 |
+| | 522 | Monstrous Bird | 2000 | 1900 |
+| | 581 | Takuhee | 1450 | 1000 |
+| | 636 | Blue-winged Crown | 1600 | 1200 |
+| Turtle | 177 | Monsturtle | 800 | 1000 |
+| | 193 | Turtle Tiger | 1000 | 1500 |
+| | 443 | Sea King Dragon | 2000 | 1700 |
+| | 449 | 30,000-Year White Turtle | 1250 | 2100 |
+| | 503 | Turtle Raccoon | 700 | 900 |
+| | 518 | Boulder Tortoise | 1450 | 2200 |
+| | 593 | Giant Turtle Who Feeds on Flames | 1400 | 1800 |
+| | 710 | Crab Turtle | 2550 | 2500 |
 </details>
