@@ -1,8 +1,10 @@
 [Yu-Gi-Oh! Forbidden Memories](http://retroachievements.org/game/11388) game page.<br>_Guide made by SporyTike, if there are any issues or something is missing feel free to contact me._
 
+**Note:** _The guide is still Work In Progress!_
+
 ### **Card Drop List**
 The drop list of cards for every duelist. Click on the name of a duelist to open the list of possible drops you can get when beating him or her.<br>
-_The list is still Work In Progress!_
+
 <details>
   <summary>Simon Muran</summary>
 Simon Muran can be unlocked by beating him in front of Pharaoh's Palace before Heishin attacks the Palace. (Optional)
