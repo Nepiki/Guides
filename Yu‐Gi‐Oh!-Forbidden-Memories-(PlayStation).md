@@ -371,3 +371,31 @@ Villager 2 can be unlocked by beating him in the Duel Grounds.
 | 642 | Mystical Sheep #1 | 0.68% | | | | | | |
 | 643 | Disk Magician | 0.68% | | | | | | |
 </details>
+
+### **Fusions**
+You can fuse monsters by putting two or more monsters together to create stronger ones. The ATK and DEF are used to determine the result of the fusion. In some cases there are more than one possible fusion results for the same fusion of types, in that case the monster will always become the one with the lowest ATK and DEF. If the ATK or DEF of any fusion-material is higher than the lowest possible fusion result the next lowest will become the result. If one of the stats of any fusion-material is higher or equal than the stats of the highest possible fusion result, the fusion won't work.<br>
+Types with numbers aren't real monster types but a group of monsters. A definition for each number is at the bottom of the list.<br>
+The following list is sorted by card types, names in _italic_ are specific monster cards.
+<details>
+  <summary>Fusion List</summary>
+
+| First Material | Second Material | Nr. | Result | ATK | DEF |
+| ---------- | ----------- | --- | ------ | --: | --: |
+| Animal¹ | Female² | 627 | Nekogal #2 | 1900 | 2000 |
+| Animal¹ | Machine | 412 | Giga-tech Wolf | 1200 | 1400 |
+| | | 423 | Dice Armadillo | 1650 | 1800 |
+| Animal¹ | Plant | 487 | Flower Wolf | 1800 | 1400 |
+| Animal¹ | Pyro | 529 | Flame Cerebrus | 2100 | 1800 |
+| Animal¹ | Warrior | 064 | Tiger Axe | 1300 | 1100 |
+| Aqua | Dragon | 448 | Spike Seadra | 1600 | 1300 |
+| | | 073 | Kairyu-Shin | 1800 | 1500 |
+| Aqua | Thunder | 460 | Bolt Escargot | 1400 | 1500 |
+| Aqua | _Ground Attacker Bugroth_ | 639 | Amphibious Bugroth | 1850 | 1300 |
+| Aqua | _Kappa Avenger_ | 647 | Hyosube | 1500 | 900 |
+| Aqua | _Psychic Kappa_ | 647 | Hyosube | 1500 | 900 |
+
+| Turtle⁹ | Dragon | 443 | Sea King Dragon | 2000 | 1700 |
+1) Monsters which look like animals and are Beast type (e.g. Wolf)<br>
+2) Monsters which look female (e.g. Amazon of the Seas)
+9) Monsters which look like turtles (e.g. Monsturtle)
+</details>
