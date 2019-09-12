@@ -237,137 +237,137 @@ Villager 2 can be unlocked by beating him in the Duel Grounds.
 | | Rank S/A (Pow)  | | | Rank S/A (Tec) | | | Rank B/C/D | |
 | ------------- | ------------- | ---: | ------------- | ------------- | ---: | ------------- | ------------- | ---: |
 | **Nr.** | **Name**  | **Chance**  | **Nr.** | **Name**  | **Chance**  | **Nr.** | **Name**  | **Chance**  |
-| 009 | Shadow Specter | 0.73% | 
-| 010 | Blackland Fire Dragon | 0.73% |
-| 019 | Right Arm of the Forbidden One | 0.29% |
-| 023 | The Wicked Worm Beast | 0.73% |
-| 024 | Skull Servant | 0.73% |
-| 025 | Horn Imp | 0.73% |
-| 030 | Zombie Warrior | 1.46% |
-| 034 | Saggi the Dark Clown | 0.73% |
-| 036 | The Snake Hair | 0.73% |
-| 040 | Dragon Piper | 0.73% |
-| 045 | Oscillo Hero #2 | 0.73% |
-| 053 | Killer Needle | 0.73% |
-| 059 | Mammoth Graveyard | 0.73% |
-| 061 | Wolf | 0.73% |
-| 065 | Silver Fang | 0.73% |
-| 080 | Uraby | 0.73% |
-| 096 | Armored Zombie | 0.73% |
-| 097 | Dragon Zombie | 0.73% |
-| 098 | Clown Zombie | 0.73% |
-| 102 | Mask of Darkness | 0.49% |
-| 103 | Job-Change Mirror | 0.73% |
-| 108 | Graveyard and the Hand of Invitation | 0.73% |
-| 109 | Goddess with the Third Eye | 0.73% |
-| 110 | Hero of the East | 0.73% |
-| 115 | Kamion Wizard | 0.73% |
-| 118 | Supporter in the Shadows | 0.73% |
-| 119 | Trial of Nightmares | 0.73% |
-| 120 | Dream Clown | 0.73% |
-| 121 | Sleeping Lion | 0.73% |
-| 132 | The 13th Grave | 1.46% |
-| 135 | Fiend's Hand | 0.73% |
-| 138 | Dragon Statue | 0.73% |
-| 139 | Blue-eyed Silver Zombie | 0.73% |
-| 140 | Toad Master | 1.46% |
-| 141 | Spiked Snail | 0.73% |
-| 152 | The Melting Red Shadow | 0.73% |
-| 154 | Fire Reaper | 0.73% |
-| 162 | Tainted Wisdom | 0.73% |
-| 164 | Lord of Zemia | 0.73% |
-| 167 | Ancient Jar | 0.73% |
-| 169 | Dark King of the Abyss | 0.73% |
-| 171 | Big Eye | 0.73% |
-| 172 | Armaill | 0.73% |
-| 177 | Monsturtle | 0.73% |
-| 181 | Dark Shade | 0.73% |
-| 191 | LALA Li-oon | 0.73% |
-| 196 | Arma Knight | 1.46% |
-| 197 | Mech Mole Zombie | 0.73% |
-| 199 | Penguin Knight | 0.73% |
-| 201 | Frenzied Panda | 0.73% |
-| 203 | Phantom Ghost | 0.73% |
-| 205 | Dorover | 0.73% |
-| 206 | Twin Long Rods #1 | 0.73% |
-| 211 | Kaminarikozou | 0.73% |
-| 215 | Flame Ghost | 0.73% |
-| 219 | Solitude | 0.73% |
-| 220 | Masked Sorcerer | 0.73% |
-| 221 | Kumootoko | 0.73% |
-| 225 | Fiend Sword | 0.73% |
-| 227 | Hitodenchak | 0.73% |
-| 228 | Wood Remains | 0.73% |
-| 231 | Wood Clown | 0.73% |
-| 233 | Dark Titan of Terror | 0.73% |
-| 236 | Guardian of the Labyrinth | 0.73% |
-| 237 | Haniwa | 0.73% |
-| 238 | Yashinoki | 0.49% |
-| 243 | Water Element | 0.73% |
-| 244 | Dissolverock | 0.73% |
-| 246 | One Who Hunts Souls | 0.73% |
-| 248 | Master & Expert | 0.73% |
-| 250 | Hyo | 0.73% |
-| 251 | Enchanting Mermaid | 0.73% |
-| 256 | Dimensional | Warrior | 0.73% |
-| 257 | Stone Armadiller | 1.46% |
-| 258 | Beastking of the Swamp | 1.46% |
-| 259 | Ancient Sorcerer | 0.73% |
-| 262 | The Little Swordsman of Aile | 0.73% |
-| 263 | Rock Ogre Grotto #2 | 1.46% |
-| 265 | The Furious Sea King | 0.73% |
-| 269 | Versago the Destroyer | 0.73% |
-| 270 | Wetha | 0.73% |
-| 272 | Mavelus | 0.73% |
-| 273 | Ancient Tree of Enlightenment | 0.73% |
-| 274 | Green Phantom King | 0.73% |
-| 276 | Ray & Temperature | 0.73% |
-| 280 | Protector of the Throne | 0.73% |
-| 289 | Change Slime | 0.73% |
-| 290 | Moon Envoy | 0.73% |
-| 291 | Fireyarou | 0.73% |
-| 292 | Psychic Kappa | 0.73% |
-| 293 | Masaki the Legendary Swordsman | 0.73% |
-| 294 | Dragoness the Wicked Knight | 0.73% |
-| 296 | One-eyed Shield Dragon | 0.73% |
-| 335 | Yami | 1.17% |
-| 393 | Zone Eater | 0.68% |
-| 394 | Steel Scorpion | 0.49% |
-| 398 | Ooguchi | 0.73% |
-| 406 | Yaiba Robo | 0.73% |
-| 414 | Shovel Crusher | 0.73% |
-| 432 | Waterdragon Fairy | 0.73% |
-| 444 | Turu-Purun | 0.73% |
-| 446 | Aqua Snake | 0.73% |
-| 451 | Kanikabuto | 0.73% |
-| 452 | Zarigun | 0.73% |
-| 461 | Bolt Penguin | 0.73% |
-| 463 | Electric Snake | 0.73% |
-| 484 | Ameba | 0.73% |
-| 496 | Wilmee | 0.73% |
-| 503 | Turtle Raccoon | 0.73% |
-| 514 | Brave Scizzar | 0.73% |
-| 516 | Muka Muka | 0.73% |
-| 524 | Star Boy | 0.73% |
-| 548 | Bone Mouse | 0.73% |
-| 549 | Frog The Jam | 0.73% |
-| 552 | Winged Dragon #2 | 0.73% |
-| 556 | The Wandering Doomed | 0.73% |
-| 558 | Pot the Trick | 0.73% |
-| 567 | Darkworld Thorns | 0.68% |
-| 576 | Giant Scorpion of the Tundra | 0.68% |
-| 584 | Binding Chain | 0.68% |
-| 586 | Greenkappa | 0.49% |
-| 591 | Morphing Jar | 0.68% |
-| 592 | Muse-A | 0.49% |
-| 601 | Tenderness | 0.68% |
-| 602 | Penguin Soldier | 0.68% |
-| 605 | Liquid Beast | 0.68% |
-| 606 | Twin Long Rods #2 | 0.68% |
-| 608 | Shining Friendship | 0.68% |
-| 610 | Electric Lizard | 0.10% |
-| 620 | Snakeyashi | 0.68% |
-| 629 | Armored Rat | 0.68% |
-| 642 | Mystical Sheep #1 | 0.68% |
-| 643 | Disk Magician | 0.68% |
+| 009 | Shadow Specter | 0.73% | 009 | Shadow Specter | 1.22% | 009 | Shadow Specter | 1.27% |
+| 010 | Blackland Fire Dragon | 0.73% | 019 | Right Arm of the Forbidden One | 0.59% | 019 | Right Arm of the Forbidden One | 0.59% |
+| 019 | Right Arm of the Forbidden One | 0.29% | 024 | Skull Servant | 1.22% | 024 | Skull Servant | 1.27% |
+| 023 | The Wicked Worm Beast | 0.73% | 045 | Oscillo Hero #2 | 1.22% | 040 | Dragon Piper | 1.27% |
+| 024 | Skull Servant | 0.73% | 096 | Armored Zombie | 1.22% | 045 | Oscillo Hero #2 | 1.27% |
+| 025 | Horn Imp | 0.73% | 097 | Dragon Zombie | 1.22% | 061 | Wolf | 1.27% |
+| 030 | Zombie Warrior | 1.46% | 098 | Clown Zombie | 1.22% | 065 | Silver Fang | 1.27% |
+| 034 | Saggi the Dark Clown | 0.73% | 102 | Mask of Darkness | 0.59% | 096 | Armored Zombie | 1.27% |
+| 036 | The Snake Hair | 0.73% | 108 | Graveyard and the Hand of Invitation | 1.22% | 097 | Dragon Zombie | 1.27% |
+| 040 | Dragon Piper | 0.73% | 135 | Fiend's Hand | 1.22% | 098 | Clown Zombie | 1.27% |
+| 045 | Oscillo Hero #2 | 0.73% | 139 | Blue-eyed Silver Zombie | 1.22% | 102 | Mask of Darkness | 0.59% |
+| 053 | Killer Needle | 0.73% | 152 | The Melting Red Shadow | 1.12% | 108 | Graveyard and the Hand of Invitation | 1.27% |
+| 059 | Mammoth Graveyard | 0.73% | 154 | Fire Reaper | 1.12% | 118 | Supporter in the Shadows | 1.27% |
+| 061 | Wolf | 0.73% | 167 | Ancient Jar | 1.12% | 135 | Fiend's Hand | 1.27% |
+| 065 | Silver Fang | 0.73% | 177 | Monsturtle | 1.12% | 138 | Dragon Statue | 1.27% |
+| 080 | Uraby | 0.73% | 191 | LALA Li-oon | 1.12% | 139 | Blue-eyed Silver Zombie | 1.27% |
+| 096 | Armored Zombie | 0.73% | 197 | Mech Mole Zombie | 1.12% | 140 | Toad Master | 1.27% |
+| 097 | Dragon Zombie | 0.73% | 199 | Penguin Knight | 1.12% | 141 | Spiked Snail | 1.27% |
+| 098 | Clown Zombie | 0.73% | 203 | Phantom Ghost | 1.12% | 152 | The Melting Red Shadow | 1.27% |
+| 102 | Mask of Darkness | 0.49% | 205 | Dorover | 1.12% | 154 | Fire Reaper | 1.27% |
+| 103 | Job-Change Mirror | 0.73% | 206 | Twin Long Rods #1 | 1.12% | 162 | Tainted Wisdom | 1.27% |
+| 108 | Graveyard and the Hand of Invitation | 0.73% | 211 | Kaminarikozou | 1.12% | 167 | Ancient Jar | 1.27% |
+| 109 | Goddess with the Third Eye | 0.73% | 215 | Flame Ghost | 1.12% | 169 | Dark King of the Abyss | 1.27% |
+| 110 | Hero of the East | 0.73% | 227 | Hitodenchak | 1.12% | 172 | Armaill | 1.27% |
+| 115 | Kamion Wizard | 0.73% | 228 | Wood Remains | 1.12% | 177 | Monsturtle | 1.27% |
+| 118 | Supporter in the Shadows | 0.73% | 237 | Haniwa | 1.12% | 181 | Dark Shade | 1.27% |
+| 119 | Trial of Nightmares | 0.73% | 238 | Yashinoki | 0.59% | 191 | LALA Li-oon | 1.27% |
+| 120 | Dream Clown | 0.73% | 243 | Water Element | 1.12% | 197 | Mech Mole Zombie | 1.27% |
+| 121 | Sleeping Lion | 0.73% | 244 | Dissolverock | 1.12% | 199 | Penguin Knight | 1.27% |
+| 132 | The 13th Grave | 1.46% | 259 | Ancient Sorcerer | 1.12% | 203 | Phantom Ghost | 1.27% |
+| 135 | Fiend's Hand | 0.73% | 262 | The Little Swordsman of Aile | 1.12% | 205 | Dorover | 1.27% |
+| 138 | Dragon Statue | 0.73% | 265 | The Furious Sea King | 1.12% | 206 | Twin Long Rods #1 | 1.26% |
+| 139 | Blue-eyed Silver Zombie | 0.73% | 270 | Wetha | 1.12% | 211 | Kaminarikozou | 1.27% |
+| 140 | Toad Master | 1.46% | 289 | Change Slime | 1.12% | 215 | Flame Ghost | 1.27% |
+| 141 | Spiked Snail | 0.73% | 292 | Psychic Kappa | 1.12% | 219 | Solitude | 1.27% |
+| 152 | The Melting Red Shadow | 0.73% | 304 | Axe of Despair | 1.56% | 227 | Hitodenchak | 1.27% |
+| 154 | Fire Reaper | 0.73% | 305 | Laser Cannon Armor | 1.56% | 228 | Wood Remains | 1.27% |
+| 162 | Tainted Wisdom | 0.73% | 316 | Electro-whip | 1.56% | 231 | Wood Clown | 1.27% |
+| 164 | Lord of Zemia | 0.73% | 319 | Mystical Moon | 1.56% | 237 | Haniwa | 1.27% |
+| 167 | Ancient Jar | 0.73% | 321 | Malevolent  Nuzzler | 1.56% | 238 | Yashinoki | 0.59% |
+| 169 | Dark King of the Abyss | 0.73% | 326 | Raise Body Heat | 1.56% | 243 | Water Element | 1.27% |
+| 171 | Big Eye | 0.73% | 330 | Forest | 1.61% | 244 | Dissolverock | 1.27% |
+| 172 | Armaill | 0.73% | 333 | Sogen | 1.61% | 250 | Hyo | 1.26% |
+| 177 | Monsturtle | 0.73% | 335 | Yami | 1.61% | 257 | Stone Armadiller | 1.27% |
+| 181 | Dark Shade | 0.73% | 336 | Dark Hole | 1.56% | 259 | Ancient Sorcerer | 1.27% |
+| 191 | LALA Li-oon | 0.73% | 338 | Mooyan Curry | 1.66% | 262 | The Little Swordsman of Aile | 1.27% |
+| 196 | Arma Knight | 1.46% | 339 | Red Medicine | 1.56% | 265 | The Furious Sea King | 1.27% |
+| 197 | Mech Mole Zombie | 0.73% | 340 | Goblin's Secret Remedy | 1.56% | 269 | Versago the Destroyer | 1.27% |
+| 199 | Penguin Knight | 0.73% | 345 | Final Flame | 1.56% | 270 | Wetha | 1.27% |
+| 201 | Frenzied Panda | 0.73% | 350 | Dark-piercing Light | 1.56% | 276 | Ray & Temperature | 1.27% |
+| 203 | Phantom Ghost | 0.73% | 393 | Zone Eater | 1.12% | 289 | Change Slime | 1.27% |
+| 205 | Dorover | 0.73% | 394 | Steel Scorpion | 0.59% | 292 | Psychic Kappa | 1.27% |
+| 206 | Twin Long Rods #1 | 0.73% | 398 | Ooguchi | 1.12% | 296 | One-eyed Shield Dragon | 1.27% |
+| 211 | Kaminarikozou | 0.73% | 432 | Waterdragon Fairy | 1.12% | 304 | Axe of Despair | 1.46% |
+| 215 | Flame Ghost | 0.73% | 444 | Turu-Purun | 1.12% | 335 | Yami | 2.93% |
+| 219 | Solitude | 0.73% | 446 | Aqua Snake | 1.12% | 393 | Zone Eater | 1.27% |
+| 220 | Masked Sorcerer | 0.73% | 451 | Kanikabuto | 1.12% | 394 | Steel Scorpion | 0.59% |
+| 221 | Kumootoko | 0.73% | 452 | Zarigun | 1.12% | 398 | Ooguchi | 1.27% |
+| 225 | Fiend Sword | 0.73% | 461 | Bolt Penguin | 1.12% | 432 | Waterdragon Fairy | 1.27% |
+| 227 | Hitodenchak | 0.73% | 463 | Electric Snake| 1.12% | 444 | Turu-Purun | 1.27% |
+| 228 | Wood Remains | 0.73% | 484 | Ameba | 1.12% | 446 | Aqua Snake | 1.27% |
+| 231 | Wood Clown | 0.73% | 503 | Turtle Raccoon | 1.12% | 451 | Kanikabuto | 1.27% |
+| 233 | Dark Titan of Terror | 0.73% | 516 | Muka Muka | 1.12% | 452 | Zarigun | 1.27% |
+| 236 | Guardian of the Labyrinth | 0.73% | 524 | Star Boy | 1.12% | 461 | Bolt Penguin | 1.27% |
+| 237 | Haniwa | 0.73% | 548 | Bone Mouse | 1.12% | 463 | Electric Snake | 1.27% |
+| 238 | Yashinoki | 0.49% | 549 | Frog The Jam | 1.12% | 484 | Ameba | 1.22% |
+| 243 | Water Element | 0.73% | 556 | The Wandering Doomed | 1.12% | 503 | Turtle Raccoon | 1.22% |
+| 244 | Dissolverock | 0.73% | 558 | Pot the Trick | 1.12% | 516 | Muka Muka | 1.22% |
+| 246 | One Who Hunts Souls | 0.73% | 586 | Greenkappa | 0.49% | 524 | Star Boy | 1.22% |
+| 248 | Master & Expert | 0.73% | 591 | Morphing Jar | 1.12% | 548 | Bone Mouse | 1.22% |
+| 250 | Hyo | 0.73% | 592 | Muse-A | 0.49% | 549 | Frog The Jam | 1.22% |
+| 251 | Enchanting Mermaid | 0.73% | 602 | Penguin Soldier | 1.12% | 556 | The Wandering Doomed | 1.22% |
+| 256 | Dimensional Warrior | 0.73% | 605 | Liquid Beast | 1.12% | 558 | Pot the Trick | 1.22% |
+| 257 | Stone Armadiller | 1.46% | 606 | Twin Long Rods #2 | 1.12% | 586 | Greenkappa | 0.59% |
+| 258 | Beastking of the Swamp | 1.46% | 610 | Electric Lizard | 0.10% | 591 | Morphing Jar | 1.22% |
+| 259 | Ancient Sorcerer | 0.73% | 652 | Magic Labyrinth | 1.56% | 592 | Muse-A | 0.59% |
+| 262 | The Little Swordsman of Aile | 0.73% | 655 | Cursebreaker | 1.56% | 602 | Penguin Soldier | 1.22% |
+| 263 | Rock Ogre Grotto #2 | 1.46% | 683 | Bear Trap | 1.56% | 605 | Liquid Beast | 1.22% |
+| 265 | The Furious Sea King | 0.73% | 684 | Invisible Wire | 1.56% | 606 | Twin Long Rods #2 | 1.22% |
+| 269 | Versago the Destroyer | 0.73% | 687 | Goblin Fan | 1.56% | 610 | Electric Lizard | 0.10% |
+| 270 | Wetha | 0.73% | 688 | Bad Reaction to Simochi | 1.56% | 629 | Armored Rat | 1.22% |
+| 272 | Mavelus | 0.73% | 690 | Fake Trap | 1.56% | 642 | Mystical Sheep #1 | 1.22% |
+| 273 | Ancient Tree of Enlightenment | 0.73% | 693 | Contruct of Mask | 1.56% | | | |
+| 274 | Green Phantom King | 0.73% | | | | | | |
+| 276 | Ray & Temperature | 0.73% | | | | | | |
+| 280 | Protector of the Throne | 0.73% | | | | | | |
+| 289 | Change Slime | 0.73% | | | | | | |
+| 290 | Moon Envoy | 0.73% | | | | | | |
+| 291 | Fireyarou | 0.73% | | | | | | |
+| 292 | Psychic Kappa | 0.73% | | | | | | |
+| 293 | Masaki the Legendary Swordsman | 0.73% | | | | | | |
+| 294 | Dragoness the Wicked Knight | 0.73% | | | | | | |
+| 296 | One-eyed Shield Dragon | 0.73% | | | | | | |
+| 335 | Yami | 1.17% | | | | | | |
+| 393 | Zone Eater | 0.68% | | | | | | |
+| 394 | Steel Scorpion | 0.49% | | | | | | |
+| 398 | Ooguchi | 0.73% | | | | | | |
+| 406 | Yaiba Robo | 0.73% | | | | | | |
+| 414 | Shovel Crusher | 0.73% | | | | | | |
+| 432 | Waterdragon Fairy | 0.73% | | | | | | |
+| 444 | Turu-Purun | 0.73% | | | | | | |
+| 446 | Aqua Snake | 0.73% | | | | | | |
+| 451 | Kanikabuto | 0.73% | | | | | | |
+| 452 | Zarigun | 0.73% | | | | | | |
+| 461 | Bolt Penguin | 0.73% | | | | | | |
+| 463 | Electric Snake | 0.73% | | | | | | |
+| 484 | Ameba | 0.73% | | | | | | |
+| 496 | Wilmee | 0.73% | | | | | | |
+| 503 | Turtle Raccoon | 0.73% | | | | | | |
+| 514 | Brave Scizzar | 0.73% | | | | | | |
+| 516 | Muka Muka | 0.73% | | | | | | |
+| 524 | Star Boy | 0.73% | | | | | | |
+| 548 | Bone Mouse | 0.73% | | | | | | |
+| 549 | Frog The Jam | 0.73% | | | | | | |
+| 552 | Winged Dragon #2 | 0.73% | | | | | | |
+| 556 | The Wandering Doomed | 0.73% | | | | | | |
+| 558 | Pot the Trick | 0.73% | | | | | | |
+| 567 | Darkworld Thorns | 0.68% | | | | | | |
+| 576 | Giant Scorpion of the Tundra | 0.68% | | | | | | |
+| 584 | Binding Chain | 0.68% | | | | | | |
+| 586 | Greenkappa | 0.49% | | | | | | |
+| 591 | Morphing Jar | 0.68% | | | | | | |
+| 592 | Muse-A | 0.49% | | | | | | |
+| 601 | Tenderness | 0.68% | | | | | | |
+| 602 | Penguin Soldier | 0.68% | | | | | | |
+| 605 | Liquid Beast | 0.68% | | | | | | |
+| 606 | Twin Long Rods #2 | 0.68% | | | | | | |
+| 608 | Shining Friendship | 0.68% | | | | | | |
+| 610 | Electric Lizard | 0.10% | | | | | | |
+| 620 | Snakeyashi | 0.68% | | | | | | |
+| 629 | Armored Rat | 0.68% | | | | | | |
+| 642 | Mystical Sheep #1 | 0.68% | | | | | | |
+| 643 | Disk Magician | 0.68% | | | | | | |
 </details>
