@@ -375,11 +375,15 @@ Villager 2 can be unlocked by beating him in the Duel Grounds.
 </details>
 
 ### **Fusions**
-You can fuse monsters by putting two or more monsters together to create stronger ones. The ATK and DEF are used to determine the result of the fusion. In some cases there are more than one possible fusion results for the same fusion of types, in that case the monster will always become the one with the lowest ATK and DEF. If the ATK or DEF of any fusion-material is higher than the lowest possible fusion result the next lowest will become the result. If one of the stats of any fusion-material is higher or equal than the stats of the highest possible fusion result, the fusion won't work.<br>
+You can fuse monsters by putting two or more monsters together to create stronger ones. The ATK and DEF are used to determine the result of the fusion. In some cases there are more than one possible fusion results for the same fusion of types, in that case the monster will always become the one with the lowest ATK. If the ATK of any fusion-material is higher than the lowest possible fusion result the next lowest will become the result. If the ATK of any fusion-material is higher or equal than the ATK of the highest possible fusion result, the fusion won't work.<br>
 Some types aren't real monster types, because they are part of a specific monster group. These types are in _italic_ and all monsters in the groups can be found in the Type Groups list.<br>
+
+**Note:** The list only includes fusions with types, not the fusions between specific monsters.
 The following list is sorted by card types, names in **bolt** are specific monster cards.
 <details>
-  <summary>Fusion List</summary>
+  <summary>Type Fusions</summary>
+
+**Note:** Pyro and Dragon type have some monsters which counts to the type even if they have another card type. The added monsters can be seen in the Type Groups list.
 
 | First Material | Second Material | Nr. | Result | ATK | DEF |
 | ---------- | ----------- | --- | ------ | --: | --: |
@@ -391,14 +395,169 @@ The following list is sorted by card types, names in **bolt** are specific monst
 | _Animal_ | Warrior | 064 | Tiger Axe | 1300 | 1100 |
 | Aqua | Dragon | 448 | Spike Seadra | 1600 | 1300 |
 | | | 073 | Kairyu-Shin | 1800 | 1500 |
-| Aqua | Thunder | 460 | Bolt Escargot | 1400 | 1500 |
 | Aqua | **Ground Attacker Bugroth** | 639 | Amphibious Bugroth | 1850 | 1300 |
 | Aqua | **Kappa Avenger** | 647 | Hyosube | 1500 | 900 |
 | Aqua | **Psychic Kappa** | 647 | Hyosube | 1500 | 900 |
+| Aqua | Thunder | 460 | Bolt Escargot | 1400 | 1500 |
 | Beast | Fish | 404 | Tatsunootoshigo | 1350 | 1600 |
-| Beast | _Special-A_ | 
+| | | 230 | Rare Fish | 1500 | 1200 |
+| | | 671 | Marine Beast | 1700 | 1600 |
 | Beast | **Larvas** | 587 | Mon Larvas | 1300 | 1400 |
+| Beast | _Special A_ | 483 | Garvas | 2000 | 1700 |
+| Beast | Thunder | 459 | Tripwire Beast | 1200 | 1300 |
+| Beast | _Turtle_ | 193 | Turtle Tiger | 1000 | 1500 |
+| _Dark Magic_ | Dragon | 010 | Blackland Fire Dragon | 1500 | 800 |
+| _Dark Magic_ | _Elf_ | 551 | Dark Elf | 2000 | 800 |
+| _Dark Spellcaster_ | _Jar_ | 401 | Ushi Oni | 2150 | 1950 |
+| _Dark Spellcaster_ | Machine | 643 | Disk Magician | 1350 | 1000 |
+| _Dark Spellcaster_ | **Ryu-kishin** | 377 | Ryu-kishin Powered | 1600 | 1200 |
+| Dinosaur | Machine | 508 | Cyber Saurus | 1800 | 1400 |
+| Dragon | Aqua | 448 | Spike Seadra | 1600 | 1300 |
+| | | 073 | Kairyu-Shin | 1800 | 1500 |
+| Dragon | _Dark Magic_ | 010 | Blackland Fire Dragon | 1500 | 800 |
+| Dragon | _Special B_ | 031 | Koumori Dragon | 1500 | 1200 |
+| Dragon | Machine | 409 | Metal Dragon | 1850 | 1700 |
+| Dragon | Plant | 571 | Black Dragon Jungle King | 2100 | 1800 |
+| Dragon | Rock | 426 | Stone Dragon | 2000 | 2300 |
+| Dragon | Thunder | 425 | Thunder Dragon | 1600 | 1500 |
+| | | 613 | Twin-headed Thunder Dragon | 2800 | 2100 |
+| Dragon | **Time Wizard** | 069 | Thousand Dragon | 2400 | 2000 |
+| Dragon | _Turtle_ | 443 | Sea King Dragon | 2000 | 1700 |
+| Dragon | Warrior | 138 | Dragon Statue | 1100 | 900 |
+| | | 294 | Dragoness the Wicked Knight | 1200 | 900 |
+| | | 502 | Dragon Human | 1300 | 1100 |
+| | | 011 | Sword Arm of Dragon | 1750 | 2030 |
+| Dragon | Zombie | 097 | Dragon Zombie | 1600 | 0 |
+| | | 545 | Skelgon | 1700 | 1900 |
+| | | 039 | Curse of Dragon | 2000 | 1500 |
+| _Elf_ | _Dark Magic_ | 551 | Dark Elf | 2000 | 800 |
+| _Elf_ | _Special C_ | 002 | Mystical Elf | 800 | 2000 |
+| _Elf_ | Warrior | 041 | Celtic Guardian | 1400 | 1200 |
+| Fairy | _Female_ | 582 | Dark Witch | 1800 | 1700 |
+| Fairy | **Hibikime** | 495 | Musician King | 1750 | 1500 |
+| Fairy | **Sonic Maid** | 495 | Musician King | 1750 | 1500 |
+| _Female_ | _Animal_ | 627 | Nekogal #2 | 1900 | 2000 |
+| _Female_ | Fairy | 582 | Dark Witch | 1800 | 1700 |
+| _Female_ | Fish | 431 | Ice Water | 1150 | 900 |
+| | | 251 | Enchanting Mermaid | 1200 | 900 |
+| | | 626 | Amazon of the Seas | 1300 | 1400 |
+| _Female_ | Plant | 638 | Queen of Autumn Leaves | 1800 | 1500 |
+| _Female_ | Rock | 531 | Mystical Sand | 2100 | 1700 |
+| Fiend | **Arlownay** | 594 | Rose Spectre of Dunn | 2000 | 1800 |
+| Fiend | **Fungi of the Musk** | 567 | Darkworld Thorns | 1200 | 900 |
+| Fiend | **Job-Change Mirror** | 022 | Summoned Skull | 2500 | 1200 |
+| Fiend | **Psychic Kappa** | 450 | Kappa Avenger | 1200 | 900 |
+| Fish | Beast | 404 | Tatsunootoshigo | 1350 | 1600 |
+| | | 230 | Rare Fish | 1500 | 1200 |
+| | | 671 | Marine Beast | 1700 | 1600 |
+| Fish | _Female_ | 431 | Ice Water | 1150 | 900 |
+| | | 251 | Enchanting Mermaid | 1200 | 900 |
+| | | 626 | Amazon of the Seas | 1300 | 1400 |
+| Fish | **Hoshiningen** | 440 | 7 Colored Fish | 1800 | 800 |
+| Fish | Machine | 542 | Misairuzame | 1400 | 1600 |
+| | | 438 | Metal Fish | 1600 | 1900 |
+| Fish | **Rainbow Flower** | 440 | 7 Colored Fish | 1800 | 800 |
+| Fish | Warrior | 546 | Wow Warrior | 1250 | 900 |
+| Fish | Zombie | 539 | Corroding Shark | 1100 | 700 |
+| Insect | **Kuwagata α** | 533 | Kwagar Hercules | 1900 | 1700 |
+| Insect | Warrior | 479 | Cockroach Knight | 800 | 900 |
+| _Jar_ | _Dark Spellcaster_ | 401 | Ushi Oni | 2150 | 1950 |
+| Machine | _Animal_ | 412 | Giga-tech Wolf | 1200 | 1400 |
+| | | 423 | Dice Armadillo | 1650 | 1800 |
+| Machine | _Dark Spellcaster_ | 643 | Disk Magician | 1350 | 1000 |
+| Machine | Dinosaur | 508 | Cyber Saurus | 1800 | 1400 |
+| Machine | Dragon | 409 | Metal Dragon | 1850 | 1700 |
+| Machine | Fish | 542 | Misairuzame | 1400 | 1600 |
+| | | 438 | Metal Fish | 1600 | 1900 |
+| Machine | Warrior | 413 | Cyber Soldier | 1500 | 1700 |
+| Plant | _Animal_ | 487 | Flower Wolf | 1800 | 1400 |
+| Plant | Dragon | 571 | Black Dragon Jungle King | 2100 | 1800 |
+| Plant | _Female_ | 638 | Queen of Autumn Leaves | 1800 | 1500 |
+| Plant | Pyro | 157 | Firegrass | 700 | 600 |
+| Plant | Reptile | 620 | Snakeyashi | 1000 | 1200 |
+| Plant | Warrior | 511 | Bean Soldier | 1400 | 1300 |
+| Plant | Zombie | 228 | Wood Remains | 1000 | 900 |
+| | | 099 | Pumpking the King of Ghosts | 1800 | 2000 |
+| Pyro | _Animal_ | 529 | Flame Cerberus | 2100 | 1800 |
+| Pyro | **Fiend Kraken** | 519 | Fire Kraken | 1600 | 1500 |
+| Pyro | Plant |  157 | Firegrass | 700 | 600 |
+| Pyro | Rock | 244 | Dissolverock | 900 | 1000 |
+| Pyro | _Turtle_ | 593 | Giant Turtle Who Feeds on Flames | 1400 | 1800 |
+| Pyro | Warrior | 133 | Charubin the Fire Knight | 1100 | 800 |
+| | | 015 | Flame Swordsman | 1800 | 1600 |
+| | | 473 | Vermillion Sparrow | 1900 | 1500 |
+| Pyro | Winged Beast | 272 | Mavelus | 1300 | 900 |
+| | | 467 | Crimson Sunbird | 2300 | 1800 |
+| Pyro | Zombie | 154 | Fire Reaper | 700 | 500 |
+| | | 215 | Flame Ghost | 1000 | 800 |
+| Reptile | **Clown Zombie** | 471 | Soul Hunter | 2200 | 1800 |
+| Reptile | **Grass Clown** | 471 | Soul Hunter | 2200 | 1800 |
+| Reptile | Plant | 620 | Snakeyashi | 1000 | 1200 |
+| Reptile | Thunder | 610 | Electric Lizard | 850 | 800 |
+| Rock | Dragon | 426 | Stone Dragon | 2000 | 2300 |
+| Rock | _Female_ | 531 | Mystical Sand | 2100 | 1700 |
+| Rock | Pyro | 244 | Dissolverock | 900 | 1000 |
+| Rock | _Turtle_ | 518 | Boulder Tortoise | 1450 | 2200 |
+| Rock | Warrior | 456 | Minomushi Warrior | 1300 | 1200 |
+| Rock | Zombie | 457 | Stone Ghost | 1200 | 1000 |
+| Spellcaster | **Mystic Lamp** | 149 | Lord of the Lamp | 1400 | 1200 |
+| Spellcaster | **Spike Seadra** | 458 | Kaminari Attack | 1900 | 1400 |
+| Spellcaster | Thunder | 462 | The Immortal of Thunder | 1500 | 1300 |
+| | | 458 | Kaminari Attack | 1900 | 1400 |
+| Spellcaster | _Turtle_ | 449 | 30,000-Year White Turtle | 1250 | 2100 |
+| Spellcaster | Zombie | 470 | Magical Ghost | 1300 | 1400 |
+| Thunder | Aqua | 460 | Bolt Escargot | 1400 | 1500 |
+| Thunder | Beast | 459 | Tripwire Beast | 1200 | 1300 |
+| Thunder | Dragon | 425 | Thunder Dragon | 1600 | 1500 |
+| Thunder | Reptile | 610 | Electric Lizard | 850 | 800 |
+| | | 613 | Twin-headed Thunder Dragon | 2800 | 2100 |
+| Thunder | Spellcaster | 462 | The Immortal of Thunder | 1500 | 1300 |
+| | | 458 | Kaminari Attack | 1900 | 1400 |
+| _Turtle_ | Beast | 193 | Turtle Tiger | 1000 | 1500 |
 | _Turtle_ | Dragon | 443 | Sea King Dragon | 2000 | 1700 |
+| _Turtle_ | Pyro | 593 | Giant Turtle Who Feeds on Flames | 1400 | 1800 |
+| _Turtle_ | Rock | 518 | Boulder Tortoise | 1450 | 2200 |
+| _Turtle_ | Spellcaster | 449 | 30,000-Year White Turtle | 1250 | 2100 |
+| _Turtle_ | Winged Beast | 520 | Turtle Bird | 1900 | 1700 |
+| Warrior | _Animal_ | 064 | Tiger Axe | 1300 | 1100 |
+| Warrior | Dragon | 138 | Dragon Statue | 1100 | 900 |
+| | | 294 | Dragoness the Wicked Knight | 1200 | 900 |
+| | | 502 | Dragon Human | 1300 | 1100 |
+| | | 011 | Sword Arm of Dragon | 1750 | 2030 |
+| Warrior | Fish | 546 | Wow Warrior | 1250 | 900 |
+| Warrior | Insect | 479 | Cockroach Knight | 800 | 900 |
+| Warrior | Machine | 413 | Cyber Soldier | 1500 | 1700 |
+| Warrior | Plant | 511 | Bean Soldier | 1400 | 1300 |
+| Warrior | Pyro | 133 | Charubin the Fire Knight | 1100 | 800 |
+| | | 015 | Flame Swordsman | 1800 | 1600 |
+| | | 473 | Vermillion Sparrow | 1900 | 1500 |
+| Warrior | Rock | 456 | Minomushi Warrior | 1300 | 1200 |
+| Warrior | **The Judgement Hand** | 033 | Judge Man | 2200 | 1500 |
+| Warrior | Zombie | 030 | Zombie Warrior | 1200 | 900 |
+| | | 096 | Armored Zombie | 1500 | 0 |
+| Winged Beast | **Boo Koo** | 117 | Spirit of the Books | 1400 | 1200 |
+| Winged Beast | **Fiend Refrection #2** | 595 | Fiend Refrection #1 | 1300 | 1400 |
+| Winged Beast | **Job-Change Mirror** | 595 | Fiend Refrection #1 | 1300 | 1400 |
+| Winged Beast | Pyro | 272 | Mavelus | 1300 | 900 |
+| | | 467 | Crimson Sunbird | 2300 | 1800 |
+| Winged Beast | **Ryu-kishin** | 650 | Whiptail Crow | 1650 | 1600 |
+| Winged Beast | **The Judgement Hand** | 465 | Punished Eagle | 2100 | 1800 |
+| Winged Beast | _Turtle_ | 520 | Turtle Bird | 1900 | 1700 |
+| Winged Beast | **Wicked Mirror** | 595 | Fiend Refrection #1 | 1300 | 1400 |
+| Zombie | Dragon | 097 | Dragon Zombie | 1600 | 0 |
+| | | 545 | Skelgon | 1700 | 1900 |
+| | | 039 | Curse of Dragon | 2000 | 1500 |
+| Zombie | Fish | 539 | Corroding Shark | 1100 | 700 |
+| Zombie | **Graveyard and the Hand of Invitation** | 036 | The Snake Hair | 1500 | 1200 |
+| Zombie | **Mammoth Graveyard** | 564 | Great Mammoth of Goldfine | 2200 | 1800 |
+| Zombie | Plant | 228 | Wood Remains | 1000 | 900 |
+| | | 099 | Pumpking the King of Ghosts | 1800 | 2000 |
+| Zombie | Pyro | 154 | Fire Reaper | 700 | 500 |
+| | | 215 | Flame Ghost | 1000 | 800 |
+| Zombie | Rock | 457 | Stone Ghost | 1200 | 1000 |
+| Zombie | Spellcaster | 470 | Magical Ghost | 1300 | 1400 |
+| Zombie | Warrior | 030 | Zombie Warrior | 1200 | 900 |
+| | | 096 | Armored Zombie | 1500 | 0 |
 </details>
 
 <details>
