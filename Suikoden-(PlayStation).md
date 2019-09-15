@@ -82,6 +82,15 @@ If the achievement doesn't pop by the time you get to the save point, then you m
 
 Point of no return - Defeating the Zombie Dragon
 
+### [Stars that Wander Freely Across the Skies](https://retroachievements.org/Achievement/80104)
+
+![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86463.png) 25 points  
+*Have all 108 Stars of Destiny alive before the final battle*
+
+Basically, Laknaat needs to resurrect 'you-know-who'. 
+
+Point of no return - Missing any optional recruits before the battle with Yuber.
+
 ### [Why is this Big Rock in My Castle?](https://retroachievements.org/Achievement/80197)
 
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86515_lock.png) 10 points  
