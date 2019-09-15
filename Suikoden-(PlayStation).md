@@ -10,7 +10,7 @@
 **Set Difficulty:** Medium  
 **Approximate time to Master:** A while, but it's short by JRPG standards 
 **Minimum Number of Playthroughs Needed:** 2
-**Number of Missable Achievements:** 24
+**Number of Missable Achievements:** 25
 
 # 2) Introduction
 
@@ -71,6 +71,16 @@ Point of no return - I honestly don't know, but I'm sure the scene goes away aft
 There are two armor shops you must visit before you're unable to: Gregminster (Early) and Village of the Elves.
 
 Point of no return - Being banished from Gregminster and delivering the running water root to the Dwarf Elder.
+
+### [Antiquarian](https://retroachievements.org/Achievement/83404)
+
+![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90355.png) 25 points
+
+*Store at least one of every antique in Rock's Vault*
+
+Celadon Urns can only be obtained outside of Gregminister by fighting BonBons. Octopus Urns are also only obtained by fighting BonBons, but there is one in a chest at Mt. Tigerwolf. I recommend getting both ASAP since there is an appraisal shop in Gregminister.
+
+Point of no return - After getting past the gate south of Lenankamp. 
 
 ### [Treasure Hunter - Toran](https://retroachievements.org/Achievement/80019)
 
