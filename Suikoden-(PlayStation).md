@@ -41,7 +41,7 @@ The default controls are as follows:
 
 Near the beginning of the game - When Teo and Tir arrive at the McDohl mansion, you must leave town, head west and make your way through Mt. Tigerwolf, then head north to Saraday. Talk to the man in the northeast house.
 
-The safest way to go about this: After leaving the mansion, buy whatever equipment you can to raise your defense, and save at the end. Head to the world map and repeatedly get into battles to raise your level. I usually save after every level up. It is also recommended to head south to Lenankamp and sharpen your weapon at the blacksmith. A good source of money at this point in the game is by playing Marco's cup game in Rockland, which is east of Gregminster. 
+The safest way to go about this: After leaving the mansion, buy whatever equipment you can to raise your defense, and save at the inn. Head to the world map and repeatedly get into battles to raise your level. I usually save after every level up. It is also recommended to head south to Lenankamp and sharpen your weapon at the blacksmith. A good source of money at this point in the game is by playing Marco's cup game in Rockland, which is east of Gregminster. 
 
 Point of no return - Going upstairs when arriving at the McDohl mansion for the first time.
 
@@ -78,7 +78,7 @@ Point of no return - Being banished from Gregminster and delivering the running 
 
 *Store at least one of every antique in Rock's Vault*
 
-Celadon Urns can only be obtained outside of Gregminister by fighting BonBons. Octopus Urns are also only obtained by fighting BonBons, but there is one in a chest at Mt. Tigerwolf. I recommend getting both ASAP since there is an appraisal shop in Gregminister.
+Celadon Urns can only be obtained outside of Gregminister by fighting BonBons. Octopus Urns are also only obtained by fighting BonBons, but there is one in a chest at Mt. Tigerwolf, but you're screwed if you sell it after you're longer able to fight BonBons. I recommend getting both ASAP since there is an appraisal shop in Gregminister.
 
 Point of no return - After getting past the gate south of Lenankamp. 
 
