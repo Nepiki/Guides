@@ -794,3 +794,19 @@ Some types use some extra monsters beside all monsters of the type (e.g. Dragon)
 | | 593 | Giant Turtle Who Feeds on Flames | 1400 | 1800 |
 | | 710 | Crab Turtle | 2550 | 2500 |
 </details>
+
+### **Guardian Stars**
+There are 8 guardian stars in the game named after celestial bodies. Everytime a monster is placed on the field the owner choose one of two guardian stars. They are properties which will give a monster 500 ATK/DEF if it battles against another monster with a weaker guardian star. Each guardian star is strong against one other guardian star and weak against another one.
+
+| Guardian Star | Strong against  | Weak against |
+| ------------- | ------------- | ------------- |
+| ☉ Sun | ☾ Moon | ☿ Mercury |
+| ☾ Moon | ♀ Venus | ☉ Sun |
+| ♀ Venus | ☿ Mercury | ☾ Moon |
+| ☿ Mercury | ☉ Sun | ♀ Venus |
+| ♂ Mars | ♃ Jupiter | ♆ Neptune |
+| ♃ Jupiter | ♄ Saturn | ♂ Mars |
+| ♄ Saturn | ⛢ Uranus | ♃ Jupiter
+| ⛢ Uranus | ♇ Pluto | ♄ Saturn
+| ♇ Pluto | ♆ Neptune | ⛢ Uranus
+| ♆ Neptune | ♂ Mars | ♇ Pluto
