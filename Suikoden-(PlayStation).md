@@ -61,7 +61,7 @@ Point of no return - Going into your room after Ted joins.
 
 Rockland - After capturing Varkas and Sydonia. In front of the mansion will be some imperial soldiers beating the shit out of some kid while another kid is crying. Stop them. 
 
-Point of no return - I honestly don't know, but I'm sure the scene goes away after the story arc is over with.
+Point of no return - Delivering the bandits to Grady.
 
 ### [Protecting Kids Through College](https://retroachievements.org/Achievement/80188)
 
