@@ -11,7 +11,7 @@ Kid Icarus is a 1986 action/adventure/platform game, which included RPG elements
 ***
 
 ### Trivia	
-Kid Icarus was rushed to completion to fulfill a deadline. Because of this, the game's original plan to have a fourth world was scrapped. This somewhat explains the presence of loose ends which are present in the game's RAM. Because of this, some of the most simplest of achievements were originally unstable.
+Kid Icarus was rushed to completion to fulfill a deadline. Because of this, the game's original plan to have a fourth world was scrapped. This somewhat explains the presence of loose ends which are present in the game's RAM. As a result, some of the most simplest of achievements were originally unstable.
 
 ***
 
@@ -72,6 +72,7 @@ Call Me Cupid	From <https://retroachievements.org/achievement/25877>
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26003.png)#25527, 0 pts. Misc. Description - Get turned into an Eggplant.
 Worst Kind of Black Magic	From <http://retroachievements.org/achievement/25527> 
 	What is Kid Icarus without getting turned into an eggplant by the Eggplant Wizard? You might prefer to avoid all Eggplant Wizards throughout the entire game, but that wouldn't be necessarily (or fairly) possible, would it?!
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26004.png)#25528, 10 pts. Item based. Description - Collect 8 Water of Life Bottles (Must own the Water Barrel)
 Keg Party Time !	From <http://retroachievements.org/achievement/25528>
 	
