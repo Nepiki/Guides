@@ -109,43 +109,43 @@ Strength Up (Red)	From <http://retroachievements.org/achievement/25518>
 Strength Up (Blue)	From <http://retroachievements.org/achievement/25519> 
 	
 	Unlocks when Pit obtains the Sacred Arrow from Zeus in the Sacred Chamber. See Strength Up (Green) for details.
-	#25520, 5 pts. Item based. Description - Obtain the Protective Crystal from Zeus.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25997.png)#25520, 5 pts. Item based. Description - Obtain the Protective Crystal from Zeus.
 Crystal Orb Defender	From <https://retroachievements.org/achievement/25520> 
 	
 	One of three enchanted weapons rewarded by Zeus in the Sacred Chamber. You must withstand a test where Pit will need to endure attacks from levitating debris (which will mash into him). If you study the patterns, you will notice it is very similar to the attack patterns of the Nose monsters in the Test Rooms. Choose one of the three items offered from Zeus when the test is over. The wand item or "protective crystal" manifests a shield of two rotating orbs as a defense system around Pit, which harms enemies upon impact. The power of these magical weapons given by Zeus are blocked in the dungeons.
-	#25521, 5 pts. Item based. Description - Obtain the power of Fire from Zeus.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25998.png)#25521, 5 pts. Item based. Description - Obtain the power of Fire from Zeus.
 Fire Power	From <http://retroachievements.org/achievement/25521> 
 	
 	One of three enchanted weapons rewarded by Zeus in the Sacred Chamber (See Crystal Orb Defender). Raises Pit's attack level even more by piercing through the weakest enemies. The power of these magical weapons given by Zeus are blocked in the dungeons.
-	#25522, 5 pts. Item based. Description - Obtain the Holy Bow from Zeus.
+![](http://retroachievements.org/achievement/25522)#25522, 5 pts. Item based. Description - Obtain the Holy Bow from Zeus.
 Holier Than Thou	From <http://retroachievements.org/achievement/25522> 
 	
 	One of three enchanted weapons rewarded by Zeus in the Sacred Chamber (See Crystal Orb Defender). The Holy Bow shoots Pit's arrows further, all the way towards the edge of the screen. The power of these magical weapons given by Zeus are blocked in the dungeons.
-	#26070, 0 pts. Item based. Description - Obtain the Pencil
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26070.png)#9099, 0 pts. Item based. Description - Obtain the Pencil
 Write it Down	From <http://retroachievements.org/achievement/9099> 
 	
 	The Pencil is found in the dungeon fortress. It enables Kid Icarus to trace his steps in a dungeon. The Check Sheet is needed for the Pencil to work, however. The achievement will unlock the first time the pencil is found.
-	#25596, 0 pts. Item based. Description - Obtain the Check Sheet
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26072.png)#25596, 0 pts. Item based. Description - Obtain the Check Sheet
 Blueprint	From <http://retroachievements.org/achievement/25596> 
 	
 	The Check Sheet is a map found in the dungeon fortress. The achievement will unlock and a map will appear in your inventory after Kid Icarus picks this up. The Pencil is needed for the Check Sheet to be useful, however.
-	#9098, 0 pts. Item based. Description - Obtain the Torch
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26071.png)#9098, 0 pts. Item based. Description - Obtain the Torch
 Flame War	From <http://retroachievements.org/achievement/9098> 
 	
 	The Flaming Touch will show Kid Icarus's current position in a dungeon fortress. This achievement will unlock when this is picked up. The Check Sheet is needed for this item to be useful, however.
-	#9101, 5 pts. Progress based. Description - Obtain the Mirror Shield
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25990.png)#9101, 5 pts. Progress based. Description - Obtain the Mirror Shield
 Three Sacred Treasures  (#1)	From <http://retroachievements.org/achievement/9101> 
 	
 	The first Sacred Treasure you will obtain, once you have defeated Twinbellows in the first dungeon  (1-4). This achievement will unlock moments after Twinbellows is eliminated.
-	#9102, 5 pts. Progress based. Description - Obtain the Arrow of Light
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25991.png)#9102, 5 pts. Progress based. Description - Obtain the Arrow of Light
 Three Sacred Treasures (#2)	From <https://retroachievements.org/achievement/9102> 
 	
 	The second Sacred Treasure you will obtain, once you have defeated Hewdraw in the second dungeon (2-4). This achievement will unlock moments after Hewdraw is eliminated.
-	#9103, 5 pts. Progress based. Description - Obain the Wings of Pegasus
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25992.png)#9103, 5 pts. Progress based. Description - Obain the Wings of Pegasus
 Three Sacred Treasures (#3)	From <https://retroachievements.org/achievement/9103> 
 	
 	The last Sacred Treasure you will obtain, once you have defeated Pandora in the third dungeon (3-4). This achievement will unlock moments after Pandora is eliminated.
-	#25597, 10 pts. Boss challenge. Description - Defeat Twinbellows without the Centurians.
+#25597, 10 pts. Boss challenge. Description - Defeat Twinbellows without the Centurians.
 Slayer of Twinbellows	From <https://retroachievements.org/achievement/25597> 
 	
 	The boss of the first dungeon, which is a  two-headed beast which spits fire and leaps at the player. You must defeat him without the Centurian's help. Centurians are the winged guys wearing helmets, freed from the statues in the dungeons, after hitting them with a mallet. Twinbellows is slow, but his movement can be unpredictable as the sprite hones onto the player's position. Run underneath him when he jumps and hit him when he's facing the other way.
