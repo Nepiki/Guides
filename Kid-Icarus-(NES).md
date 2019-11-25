@@ -117,7 +117,7 @@ Crystal Orb Defender	From <https://retroachievements.org/achievement/25520>
 Fire Power	From <http://retroachievements.org/achievement/25521> 
 	
 	One of three enchanted weapons rewarded by Zeus in the Sacred Chamber (See Crystal Orb Defender). Raises Pit's attack level even more by piercing through the weakest enemies. The power of these magical weapons given by Zeus are blocked in the dungeons.
-![](http://retroachievements.org/achievement/25522)#25522, 5 pts. Item based. Description - Obtain the Holy Bow from Zeus.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25999.png)#25522, 5 pts. Item based. Description - Obtain the Holy Bow from Zeus.
 Holier Than Thou	From <http://retroachievements.org/achievement/25522> 
 	
 	One of three enchanted weapons rewarded by Zeus in the Sacred Chamber (See Crystal Orb Defender). The Holy Bow shoots Pit's arrows further, all the way towards the edge of the screen. The power of these magical weapons given by Zeus are blocked in the dungeons.
@@ -145,38 +145,38 @@ Three Sacred Treasures (#2)	From <https://retroachievements.org/achievement/9102
 Three Sacred Treasures (#3)	From <https://retroachievements.org/achievement/9103> 
 	
 	The last Sacred Treasure you will obtain, once you have defeated Pandora in the third dungeon (3-4). This achievement will unlock moments after Pandora is eliminated.
-#25597, 10 pts. Boss challenge. Description - Defeat Twinbellows without the Centurians.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26074.png)#25597, 10 pts. Boss challenge. Description - Defeat Twinbellows without the Centurians.
 Slayer of Twinbellows	From <https://retroachievements.org/achievement/25597> 
 	
 	The boss of the first dungeon, which is a  two-headed beast which spits fire and leaps at the player. You must defeat him without the Centurian's help. Centurians are the winged guys wearing helmets, freed from the statues in the dungeons, after hitting them with a mallet. Twinbellows is slow, but his movement can be unpredictable as the sprite hones onto the player's position. Run underneath him when he jumps and hit him when he's facing the other way.
-	#25598, 10 pts. Boss challenge. Description - Defeat Hedraw without the Centurians.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26073.png)#25598, 10 pts. Boss challenge. Description - Defeat Hedraw without the Centurians.
 Slayer of Hedraw	From <https://retroachievements.org/achievement/25598> 
 	
 	The boss of the second dungeon, a serpent which dives in and out of water that fills up the floor of his chamber. Defeat him without the Centurian's help for the achievement to unlock. Avoiding Hedraw's attack is easy, just stay underneath him when he leaps out of the water and don't try to jump over or outrun him.
-	#26075, 10 pts. Boss challenge. Description - Defeat Pandora without the Centurians.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26075.png)#26075, 10 pts. Boss challenge. Description - Defeat Pandora without the Centurians.
 Slayer of Pandora	From <https://retroachievements.org/achievement/25599> 
 	
 	The boss of the third and final dungeon, a spirit of a witch that floats erratically across the screen, while spewing energy bubbles. She also flickers, so she can disappear into the background and then impose herself on the player. Defeat her without the Centurian's help for the achievement to unlock. Utilize the elevated platforms to hop over her and be prepared to duck when she lunges into Pit's direction.
-	#25612, 50 pts. Missable achievement. Description - Reach the Sky Palace without losing an Angel's Feathers (Must attain a feather) From <http://retroachievements.org/achievement/25612>
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26088.png)#25612, 50 pts. Missable achievement. Description - Reach the Sky Palace without losing an Angel's Feathers (Must attain a feather) From <http://retroachievements.org/achievement/25612>
 Like an Angel	
 	This achievement requires you to attain the feather early in the game and not use it (by not falling off screen). Carry the feather over two worlds unused, but if you get the feather in world three and beat the game, nothing will happen. As long as you have a feather as early as 1-1 or 1-2 and don't use any, it can unlock as soon 3-3.
-	#25884, 50 pts. Missable achievement. Description - Avoid sticky fingers, and having to reclaim your property from the Black Market. From <http://retroachievements.org/achievement/25884> 
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26451.png)#25884, 50 pts. Missable achievement. Description - Avoid sticky fingers, and having to reclaim your property from the Black Market. From <http://retroachievements.org/achievement/25884> 
 Evasive Maneuvers	
 	The objective here is to avoid having any of the magical gifts of Zeus being stolen by the thieving buggers that show up in levels 2-2, 2-3 and from 3-1 to 3-3. You must have at least one magical gift equipped for anything to count, similar to the requirement for owning a feather for Like an Angel. 
-	#26450, 5 pts. Completion. Description - Defeat Medusa.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26450.png)#26450, 5 pts. Completion. Description - Defeat Medusa.
 Clash of the Titans	From <http://retroachievements.org/achievement/25882> 
 	
 	Achieved when you beat the game. 4-1 is the final stage where you equip the sacred treasures, enabling Pit to fly to and invade Medusa's lair in the sky. 
-	#26478, 10 pts. Boss Challenge. Description - Defeat Medusa without being harmed.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26478.png)#26478, 10 pts. Boss Challenge. Description - Defeat Medusa without being harmed.
 The Wit of Hermes	From <http://retroachievements.org/achievement/26025> 
 	
 	The final stage of the game (4-1) is a shooter where you can attack enemies freely in all directions, and the screen continuously scrolls from the right all the way toward Medusa. When you reach finally reach her, use the Mirror Shield to null the beam wave attacks. The snakes can be taken out with one hit, while you aim for the eye.
 	
-	#26517, 25 pts. End Game Challenge. Description - Achieve the best ending.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26517.png)#26517, 25 pts. End Game Challenge. Description - Achieve the best ending.
 All Grown Up !	From <http://retroachievements.org/achievement/26026> 
 	
 	Upon defeating Medusa, have a score higher than 200,000 by 3-4; obtain 999 hearts, 5 arrows of strength and all 3 enchanted weapons from Zeus.
-	#26518, 50 pts. End Game Challenge. Description - Achieve the worst ending.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26518.png)#26518, 50 pts. End Game Challenge. Description - Achieve the worst ending.
 Tragic Peasant	From <http://retroachievements.org/achievement/26027> 
 	
 	You must not go over 200,000 pts., have less than 999 hearts, less than 5 arrows, and not all 3 enchanted weapons at completion (defeating Medusa). Best to prioritize and go for this upon first time playing, since the game loops with your inventory and score from the previous playthrough, making it also a 'pacifist' style achievement.
