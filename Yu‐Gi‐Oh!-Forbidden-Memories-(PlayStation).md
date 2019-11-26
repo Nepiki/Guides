@@ -509,8 +509,8 @@ The following list is sorted by card types, names in **bolt** are specific monst
 | Thunder | Aqua | 460 | Bolt Escargot | 1400 | 1500 |
 | Thunder | Beast | 459 | Tripwire Beast | 1200 | 1300 |
 | Thunder | Dragon | 425 | Thunder Dragon | 1600 | 1500 |
-| Thunder | Reptile | 610 | Electric Lizard | 850 | 800 |
 | | | 613 | Twin-headed Thunder Dragon | 2800 | 2100 |
+| Thunder | Reptile | 610 | Electric Lizard | 850 | 800 |
 | Thunder | Spellcaster | 462 | The Immortal of Thunder | 1500 | 1300 |
 | | | 458 | Kaminari Attack | 1900 | 1400 |
 | _Turtle_ | Beast | 193 | Turtle Tiger | 1000 | 1500 |
