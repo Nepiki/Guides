@@ -1,5 +1,7 @@
 ***ATTN: UNDER CONSTRUCTION***
 
+![](http://jc101.com/ra/kidic-banner.jpg)
+
 ## About
 This is not an official manual, walkthrough or critical review. This document is a simple guide for the current achievement set available on RetroAchievements. This guide will give the player tips on earning the achievements, hash compatibility and any other necessary or useful information.
 
@@ -40,27 +42,32 @@ There is only one leaderboard currently available. Highest Score In Sky Palace r
 ***
 
 ### Achievements	
-Total achievements: 33; 13 item achievements; 3 progress achievements; 1 completionist achievement; 4 boss achievements; 2 end game challenge achievements; 7 buff attribute achievements; 2 missable achievements; 1 misc achievement.
+Total achievements: 33 in total. 13 item achievements; 3 progress achievements; 1 completionist achievement; 4 boss achievements; 2 end game challenge achievements; 7 buff attribute achievements; 2 missable achievements; 1 misc achievement.
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26001.png)#25526, 0 pts. Item based. Description - Collect the Harp 
-Tune Your Enemies From <http://retroachievements.org/achievement/25526> 
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26001.png) **_[Tune Your Enemies](http://retroachievements.org/achievement/25526)_**<br>
+#25526, 0 pts. Item based. Description - Collect the Harp<br>
 	
-	Collect the harp and your enemies turn into mallets. The achievement will unlock as soon as Kid Icarus touches the harp for the first time. The mallets can be used to eliminate enemies or to free the Centurians in the dungeons.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26000.png)#25523,  0 pts. Item based. Description - Collect 12 Mallets
-Whac-a-Mole (x12) From <http://retroachievements.org/achievement/25523> 
+Collect the harp and your enemies turn into mallets. 
+The achievement will unlock as soon as Kid Icarus touches the harp for the first time. 
+The mallets can be used to eliminate enemies or to free the Centurians in the dungeons.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26000.png) **_[Whac-a-Mole (x12)](http://retroachievements.org/achievement/25523)_**<br>
+#25523,  0 pts. Item based. Description - Collect 12 Mallets<br>
 	
-	Dependent on the mallets you collect from enemies (see Tune Your Enemies) or by purchasing them from the store merchants. You need to collect 12 mallets for the achievement to unlock.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26000.png)#25524, 5 pts. Item based. Description - Collect 24 Mallets
-	From <http://retroachievements.org/achievement/25524> 
-Whac-a-Mole (x24)	
-	You need to collect 24 mallets for the achievement to unlock.
+Dependent on the mallets you collect from enemies (see Tune Your Enemies) or by purchasing them from the store merchants. You need to collect 12 mallets for the achievement to unlock.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26000.png) **_[Whac-a-Mole (x24)](http://retroachievements.org/achievement/25524)_**<br>
+#25524, 5 pts. Item based. Description - Collect 24 Mallets<br>
+ 	
+You need to collect 24 mallets for the achievement to unlock.
 	        
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26000.png)#25525, 10 pts. Item based. Description - Collect 42 Mallets
-Whac-a-Mole (x42)	From <http://retroachievements.org/achievement/25525> 
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26000.png) **_[Whac-a-Mole (x42)](http://retroachievements.org/achievement/25525)_**<br>
+#25525, 10 pts. Item based. Description - Collect 42 Mallets<br>
 	
-	You need to collect 42 mallets for the achievement to unlock.
+You need to collect 42 mallets for the achievement to unlock.
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26002.png)#9100, 0 pts. Item based. Description - Obtain the Credit Card
 Underworld Federal	From <http://retroachievements.org/achievement/9100> 
 	
