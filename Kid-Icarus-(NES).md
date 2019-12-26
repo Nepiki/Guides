@@ -1,5 +1,3 @@
-***ATTN: UNDER CONSTRUCTION***
-
 ![](http://jc101.com/ra/kidic-banner.jpg)
 
 ## About
@@ -68,122 +66,149 @@ You need to collect 24 mallets for the achievement to unlock.
 	
 You need to collect 42 mallets for the achievement to unlock.
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26002.png)#9100, 0 pts. Item based. Description - Obtain the Credit Card
-Underworld Federal	From <http://retroachievements.org/achievement/9100> 
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26002.png) **_[Underworld Federal](http://retroachievements.org/achievement/9100)_**<br>
+#9100, 0 pts. Item based. Description - Obtain the Credit Card<br>
 	
-	This achievement unlocks by obtaining the Credit Card, which can only be found in a treasure room. The Credit Card lets Kid Icarus purchase an item when he does not carry enough currency. The difference in the balance becomes a debt, which is paid off by collecting additional hearts. Once the debt owed is paid in full, hearts will be available for use again. The credit card only works in the black market, not in regular shops.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26448.png)#25877, 10 pts. Item based. Description - Max out your Heart collection.
-Call Me Cupid	From <https://retroachievements.org/achievement/25877> 
-	
-	In Angel Land, hearts are used as currency. Collect 999 hearts and this achievement will unlock. A good strategy for this is to attempt to earn maximum hearts during your grindy second playthrough (following 4-1) and obtaining a password after playing past 1-1.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26003.png)#25527, 0 pts. Misc. Description - Get turned into an Eggplant.
-Worst Kind of Black Magic	From <http://retroachievements.org/achievement/25527> 
-	What is Kid Icarus without getting turned into an eggplant by the Eggplant Wizard? You might prefer to avoid all Eggplant Wizards throughout the entire game, but that wouldn't be necessarily (or fairly) possible, would it?!
+This achievement unlocks by obtaining the Credit Card, which can only be found in a treasure room. The Credit Card lets Kid Icarus purchase an item when he does not carry enough currency. The difference in the balance becomes a debt, which is paid off by collecting additional hearts. Once the debt owed is paid in full, hearts will be available for use again. The credit card only works in the black market, not in regular shops.
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26004.png)#25528, 10 pts. Item based. Description - Collect 8 Water of Life Bottles (Must own the Water Barrel)
-Keg Party Time !	From <http://retroachievements.org/achievement/25528>
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26448.png) **_[Call Me Cupid](https://retroachievements.org/achievement/25877)_**<br>
+#25877, 10 pts. Item based. Description - Max out your Heart collection.<br>
 	
-	The Water Barrel can be found either in the treasure rooms or from purchasing it from the black marketeer. It enables you to carry up to 8 bottles of Life Water (instead of just one) in your inventory. Once obtained, the achievement will unlock. 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26449.png)#25878, 5 pts. Buff attribute. Description - Raise Pit's Endurance level.
-Level Up (Plus Two)	From <https://retroachievements.org/achievement/25878> 
+In Angel Land, hearts are used as currency. Collect 999 hearts and this achievement will unlock. A good strategy for this is to attempt to earn maximum hearts during your grindy second playthrough (following 4-1) and obtaining a password after playing past 1-1.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26003.png) **_[Worst Kind of Black Magic](http://retroachievements.org/achievement/25527)_**<br>
+#25527, 0 pts. Misc. Description - Get turned into an Eggplant.<br>
+
+What is Kid Icarus without getting turned into an eggplant by the Eggplant Wizard? You might prefer to avoid all Eggplant Wizards throughout the entire game, but that wouldn't be necessarily (or fairly) possible, would it?!
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26004.png) **_[Keg Party Time !](http://retroachievements.org/achievement/25528)_**<br>
+#25528, 10 pts. Item based. Description - Collect 8 Water of Life Bottles (Must own the Water Barrel)<br>
 	
-	Pit earns to raise his endurance level after reaching 50,000 amount of points in-game score. His health bar will also increase by one block, making 3 blocks of health in total. There is no achievement for gaining only 20,000 points of in-game score (which gives Pit 2 blocks of health), this is very easy to do and can be attained well before 1-4. Another thing to keep in mind is that just because a player went straight to level plus three or four  after hours of grinding (skipping a previous level), does not equal the player earning both (or all) of the achievements at once. Using that logic is like rewarding a player for more or all of the stages, after using a stage level select code or password, even if they have not visited every stage or skipped some of the levels. It's passive gameplay which depending on the circumstance, can be often regarded as cheating. In Kid Icarus's case, Pit earns a health bar for every tier, making it not solely based on score, so you MUST attain the EXACT Endurance level in order to get the respected correlated achievement.
+The Water Barrel can be found either in the treasure rooms or from purchasing it from the black marketeer. It enables you to carry up to 8 bottles of Life Water (instead of just one) in your inventory. Once obtained, the achievement will unlock.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26449.png) **_[Level Up (Plus Two)](https://retroachievements.org/achievement/25878)_**<br>
+#25878, 5 pts. Buff attribute. Description - Raise Pit's Endurance level.<br>
 	
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26449.png)#25879, 5 pts. Buff attribute. Description - Raise Pit's Endurance level.
-Level Up (Plus Three)	From <https://retroachievements.org/achievement/25879> 
+Pit earns to raise his endurance level after reaching 50,000 amount of points in-game score. His health bar will also increase by one block, making 3 blocks of health in total. There is no achievement for gaining only 20,000 points of in-game score (which gives Pit 2 blocks of health), this is very easy to do and can be attained well before 1-4. Another thing to keep in mind is that just because a player went straight to level plus three or four  after hours of grinding (skipping a previous level), does not equal the player earning both (or all) of the achievements at once. Using that logic is like rewarding a player for more or all of the stages, after using a stage level select code or password, even if they have not visited every stage or skipped some of the levels. It's passive gameplay which depending on the circumstance, can be often regarded as cheating. In Kid Icarus's case, Pit earns a health bar for every tier, making it not solely based on score, so you MUST attain the EXACT Endurance level in order to get the respected correlated achievement.
 	
-	Pit earns to raise his endurance level after reaching 100,000 amount of points in-game score. His health bar will also increase by one block, making 4 blocks of health in total. See Level Up (Plus Two) for more information.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26449.png)#25880, 5 pts. Buff attribute. Description - Max Pit's Endurance level.
-Level Up (Plus Four)	From <https://retroachievements.org/achievement/25880> 
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26449.png) **_[Level Up (Plus Three)](https://retroachievements.org/achievement/25879)_**<br>
+#25879, 5 pts. Buff attribute. Description - Raise Pit's Endurance level.<br>
 	
-	Pit earns to raise his endurance level after reaching 200,000 amount of points in-game score. His health bar will also increase by one block, making 5 blocks of health at the maxed out total. See Level Up (Plus Two) for more information.
+Pit earns to raise his endurance level after reaching 100,000 amount of points in-game score. His health bar will also increase by one block, making 4 blocks of health in total. See Level Up (Plus Two) for more information.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26449.png) **_[Level Up (Plus Four)](https://retroachievements.org/achievement/25880)_**<br>
+#25880, 5 pts. Buff attribute. Description - Max Pit's Endurance level.<br>
 	
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25993.png)#25516, 10 pts. Buff attribute. Description - Raise Pit's strength with Bronze Arrow.
-Strength Up (Green)	From <http://retroachievements.org/achievement/25516> 
+Pit earns to raise his endurance level after reaching 200,000 amount of points in-game score. His health bar will also increase by one block, making 5 blocks of health at the maxed out total. See Level Up (Plus Two) for more information.
 	
-	Pit obtains the Bronze Arrow from Zeus in the Sacred Chamber.  You must see Zeus appear in the chamber for this to happen. By default, Pit's skill is determined by exceeding 10,000 points before reaching the Sacred Chamber. This stat is not revealed to players and resets to zero every time you level up.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25993.png) **_[Strength Up (Green)](http://retroachievements.org/achievement/25516)_**<br>
+#25516, 10 pts. Buff attribute. Description - Raise Pit's strength with Bronze Arrow.<br>
 	
-	This skill score is determined by enemies killed and hearts collected. Collected hearts also count in the Enemy Lairs (or Test Rooms), so enemies which don't give experience which drop hearts, will go towards the total. If Pit has 999 hearts (full stock), collecting additional hearts will not add to the skill score. 300 points are added upon entering a chamber, including stage exits. In Treasure Chambers, Pit earns 100 skill points for each Mallet collected, but loses 500 for each shot at a pitcher container. It doesn't stop there, 10 skill points are lost for each arrow shot and 300 for each hit taken (regardless of damage, if that makes sense).
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25994.png)#25517, 10 pts. Buff attribute. Description - Raise Pit's strength with Silver Arrow.
-Strength Up (Purple)	From <http://retroachievements.org/achievement/25517> 
+Pit obtains the Bronze Arrow from Zeus in the Sacred Chamber.  You must see Zeus appear in the chamber for this to happen. By default, Pit's skill is determined by exceeding 10,000 points before reaching the Sacred Chamber. This stat is not revealed to players and resets to zero every time you level up.
 	
-	Unlocks when Pit obtains the Silver Arrow from Zeus in the Sacred Chamber. See Strength Up (Green) for details.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25995.png)#25518, 10 pts. Buff attribute. Description - Raise Pit's strength with Gold Arrow.
-Strength Up (Red)	From <http://retroachievements.org/achievement/25518> 
+This skill score is determined by enemies killed and hearts collected. Collected hearts also count in the Enemy Lairs (or Test Rooms), so enemies which don't give experience which drop hearts, will go towards the total. If Pit has 999 hearts (full stock), collecting additional hearts will not add to the skill score. 300 points are added upon entering a chamber, including stage exits. In Treasure Chambers, Pit earns 100 skill points for each Mallet collected, but loses 500 for each shot at a pitcher container. It doesn't stop there, 10 skill points are lost for each arrow shot and 300 for each hit taken (regardless of damage, if that makes sense).
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25994.png) **_[Strength Up (Purple)](http://retroachievements.org/achievement/25517)_**<br>
+#25517, 10 pts. Buff attribute. Description - Raise Pit's strength with Silver Arrow.<br>
 	
-	Unlocks when Pit obtains the Silver Arrow from Zeus in the Sacred Chamber. See Strength Up (Green) for details.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25996.png)#25519, 10 pts. Buff attribute. Description - Raise Pit's strength with Sacred Arrow.
-Strength Up (Blue)	From <http://retroachievements.org/achievement/25519> 
+Unlocks when Pit obtains the Silver Arrow from Zeus in the Sacred Chamber. See Strength Up (Green) for details.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25995.png) **_[Strength Up (Red)](http://retroachievements.org/achievement/25518)_**<br>
+#25518, 10 pts. Buff attribute. Description - Raise Pit's strength with Gold Arrow.<br>
 	
-	Unlocks when Pit obtains the Sacred Arrow from Zeus in the Sacred Chamber. See Strength Up (Green) for details.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25997.png)#25520, 5 pts. Item based. Description - Obtain the Protective Crystal from Zeus.
-Crystal Orb Defender	From <https://retroachievements.org/achievement/25520> 
+Unlocks when Pit obtains the Silver Arrow from Zeus in the Sacred Chamber. See Strength Up (Green) for details.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25996.png) **_[Strength Up (Blue)](http://retroachievements.org/achievement/25519)_**<br>
+#25519, 10 pts. Buff attribute. Description - Raise Pit's strength with Sacred Arrow.<br>
 	
-	One of three enchanted weapons rewarded by Zeus in the Sacred Chamber. You must withstand a test where Pit will need to endure attacks from levitating debris (which will mash into him). If you study the patterns, you will notice it is very similar to the attack patterns of the Nose monsters in the Test Rooms. Choose one of the three items offered from Zeus when the test is over. The wand item or "protective crystal" manifests a shield of two rotating orbs as a defense system around Pit, which harms enemies upon impact. The power of these magical weapons given by Zeus are blocked in the dungeons.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25998.png)#25521, 5 pts. Item based. Description - Obtain the power of Fire from Zeus.
-Fire Power	From <http://retroachievements.org/achievement/25521> 
+Unlocks when Pit obtains the Sacred Arrow from Zeus in the Sacred Chamber. See Strength Up (Green) for details.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25997.png) **_[Crystal Orb Defender](https://retroachievements.org/achievement/25520)_**<br>
+#25520, 5 pts. Item based. Description - Obtain the Protective Crystal from Zeus.<br>
 	
-	One of three enchanted weapons rewarded by Zeus in the Sacred Chamber (See Crystal Orb Defender). Raises Pit's attack level even more by piercing through the weakest enemies. The power of these magical weapons given by Zeus are blocked in the dungeons.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25999.png)#25522, 5 pts. Item based. Description - Obtain the Holy Bow from Zeus.
-Holier Than Thou	From <http://retroachievements.org/achievement/25522> 
+One of three enchanted weapons rewarded by Zeus in the Sacred Chamber. You must withstand a test where Pit will need to endure attacks from levitating debris (which will mash into him). If you study the patterns, you will notice it is very similar to the attack patterns of the Nose monsters in the Test Rooms. Choose one of the three items offered from Zeus when the test is over. The wand item or "protective crystal" manifests a shield of two rotating orbs as a defense system around Pit, which harms enemies upon impact. The power of these magical weapons given by Zeus are blocked in the dungeons.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25998.png) **_[Fire Power](http://retroachievements.org/achievement/25521)_**<br>
+#25521, 5 pts. Item based. Description - Obtain the power of Fire from Zeus.<br> 
 	
-	One of three enchanted weapons rewarded by Zeus in the Sacred Chamber (See Crystal Orb Defender). The Holy Bow shoots Pit's arrows further, all the way towards the edge of the screen. The power of these magical weapons given by Zeus are blocked in the dungeons.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26070.png)#9099, 0 pts. Item based. Description - Obtain the Pencil
-Write it Down	From <http://retroachievements.org/achievement/9099> 
+One of three enchanted weapons rewarded by Zeus in the Sacred Chamber (See Crystal Orb Defender). Raises Pit's attack level even more by piercing through the weakest enemies. The power of these magical weapons given by Zeus are blocked in the dungeons.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25999.png) **_[Holier Than Thou](http://retroachievements.org/achievement/25522)_**<br>
+#25522, 5 pts. Item based. Description - Obtain the Holy Bow from Zeus.<br> 
 	
-	The Pencil is found in the dungeon fortress. It enables Kid Icarus to trace his steps in a dungeon. The Check Sheet is needed for the Pencil to work, however. The achievement will unlock the first time the pencil is found.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26072.png)#25596, 0 pts. Item based. Description - Obtain the Check Sheet
-Blueprint	From <http://retroachievements.org/achievement/25596> 
+One of three enchanted weapons rewarded by Zeus in the Sacred Chamber (See Crystal Orb Defender). The Holy Bow shoots Pit's arrows further, all the way towards the edge of the screen. The power of these magical weapons given by Zeus are blocked in the dungeons.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26070.png) **_[Write it Down](http://retroachievements.org/achievement/9099)_**<br>
+#9099, 0 pts. Item based. Description - Obtain the Pencil<br>
 	
-	The Check Sheet is a map found in the dungeon fortress. The achievement will unlock and a map will appear in your inventory after Kid Icarus picks this up. The Pencil is needed for the Check Sheet to be useful, however.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26071.png)#9098, 0 pts. Item based. Description - Obtain the Torch
-Flame War	From <http://retroachievements.org/achievement/9098> 
+The Pencil is found in the dungeon fortress. It enables Kid Icarus to trace his steps in a dungeon. The Check Sheet is needed for the Pencil to work, however. The achievement will unlock the first time the pencil is found.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26072.png) **_[Blueprint](http://retroachievements.org/achievement/25596)_**<br>
+#25596, 0 pts. Item based. Description - Obtain the Check Sheet<br>
 	
-	The Flaming Touch will show Kid Icarus's current position in a dungeon fortress. This achievement will unlock when this is picked up. The Check Sheet is needed for this item to be useful, however.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25990.png)#9101, 5 pts. Progress based. Description - Obtain the Mirror Shield
-Three Sacred Treasures  (#1)	From <http://retroachievements.org/achievement/9101> 
+The Check Sheet is a map found in the dungeon fortress. The achievement will unlock and a map will appear in your inventory after Kid Icarus picks this up. The Pencil is needed for the Check Sheet to be useful, however.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26071.png) **_[Flame War](http://retroachievements.org/achievement/9098)_**<br>
+#9098, 0 pts. Item based. Description - Obtain the Torch<br>
 	
-	The first Sacred Treasure you will obtain, once you have defeated Twinbellows in the first dungeon  (1-4). This achievement will unlock moments after Twinbellows is eliminated.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25991.png)#9102, 5 pts. Progress based. Description - Obtain the Arrow of Light
-Three Sacred Treasures (#2)	From <https://retroachievements.org/achievement/9102> 
+The Flaming Touch will show Kid Icarus's current position in a dungeon fortress. This achievement will unlock when this is picked up. The Check Sheet is needed for this item to be useful, however.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25990.png) **_[Three Sacred Treasures (#1)](http://retroachievements.org/achievement/9101)_**<br>
+#9101, 5 pts. Progress based. Description - Obtain the Mirror Shield<br> 
 	
-	The second Sacred Treasure you will obtain, once you have defeated Hewdraw in the second dungeon (2-4). This achievement will unlock moments after Hewdraw is eliminated.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25992.png)#9103, 5 pts. Progress based. Description - Obain the Wings of Pegasus
-Three Sacred Treasures (#3)	From <https://retroachievements.org/achievement/9103> 
+The first Sacred Treasure you will obtain, once you have defeated Twinbellows in the first dungeon  (1-4). This achievement will unlock moments after Twinbellows is eliminated.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25991.png) **_[Three Sacred Treasures #2](https://retroachievements.org/achievement/9102)_**<br>
+#9102, 5 pts. Progress based. Description - Obtain the Arrow of Light<br>
 	
-	The last Sacred Treasure you will obtain, once you have defeated Pandora in the third dungeon (3-4). This achievement will unlock moments after Pandora is eliminated.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26074.png)#25597, 10 pts. Boss challenge. Description - Defeat Twinbellows without the Centurians.
-Slayer of Twinbellows	From <https://retroachievements.org/achievement/25597> 
+The second Sacred Treasure you will obtain, once you have defeated Hewdraw in the second dungeon (2-4). This achievement will unlock moments after Hewdraw is eliminated.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/25992.png) **_[Three Sacred Treasures #3](https://retroachievements.org/achievement/9103)_**<br>
+#9103, 5 pts. Progress based. Description - Obtain the Wings of Pegasus<br>
 	
-	The boss of the first dungeon, which is a  two-headed beast which spits fire and leaps at the player. You must defeat him without the Centurian's help. Centurians are the winged guys wearing helmets, freed from the statues in the dungeons, after hitting them with a mallet. Twinbellows is slow, but his movement can be unpredictable as the sprite hones onto the player's position. Run underneath him when he jumps and hit him when he's facing the other way.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26073.png)#25598, 10 pts. Boss challenge. Description - Defeat Hedraw without the Centurians.
-Slayer of Hedraw	From <https://retroachievements.org/achievement/25598> 
+The last Sacred Treasure you will obtain, once you have defeated Pandora in the third dungeon (3-4). This achievement will unlock moments after Pandora is eliminated.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26074.png) **_[Slayer of Twinbellows](https://retroachievements.org/achievement/25597)_**<br>
+#25597, 10 pts. Boss challenge. Description - Defeat Twinbellows without the Centurians.<br> 
 	
-	The boss of the second dungeon, a serpent which dives in and out of water that fills up the floor of his chamber. Defeat him without the Centurian's help for the achievement to unlock. Avoiding Hedraw's attack is easy, just stay underneath him when he leaps out of the water and don't try to jump over or outrun him.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26075.png)#26075, 10 pts. Boss challenge. Description - Defeat Pandora without the Centurians.
-Slayer of Pandora	From <https://retroachievements.org/achievement/25599> 
+The boss of the first dungeon, which is a  two-headed beast which spits fire and leaps at the player. You must defeat him without the Centurian's help. Centurians are the winged guys wearing helmets, freed from the statues in the dungeons, after hitting them with a mallet. Twinbellows is slow, but his movement can be unpredictable as the sprite hones onto the player's position. Run underneath him when he jumps and hit him when he's facing the other way.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26073.png) **_[Slayer of Hedraw](https://retroachievements.org/achievement/25598)_**<br>
+#25598, 10 pts. Boss challenge. Description - Defeat Hedraw without the Centurians.<br>
 	
-	The boss of the third and final dungeon, a spirit of a witch that floats erratically across the screen, while spewing energy bubbles. She also flickers, so she can disappear into the background and then impose herself on the player. Defeat her without the Centurian's help for the achievement to unlock. Utilize the elevated platforms to hop over her and be prepared to duck when she lunges into Pit's direction.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26088.png)#25612, 50 pts. Missable achievement. Description - Reach the Sky Palace without losing an Angel's Feathers (Must attain a feather) From <http://retroachievements.org/achievement/25612>
-Like an Angel	
-	This achievement requires you to attain the feather early in the game and not use it (by not falling off screen). Carry the feather over two worlds unused, but if you get the feather in world three and beat the game, nothing will happen. As long as you have a feather as early as 1-1 or 1-2 and don't use any, it can unlock as soon 3-3.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26451.png)#25884, 50 pts. Missable achievement. Description - Avoid sticky fingers, and having to reclaim your property from the Black Market. From <http://retroachievements.org/achievement/25884> 
-Evasive Maneuvers	
-	The objective here is to avoid having any of the magical gifts of Zeus being stolen by the thieving buggers that show up in levels 2-2, 2-3 and from 3-1 to 3-3. You must have at least one magical gift equipped for anything to count, similar to the requirement for owning a feather for Like an Angel. 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26450.png)#26450, 5 pts. Completion. Description - Defeat Medusa.
-Clash of the Titans	From <http://retroachievements.org/achievement/25882> 
+The boss of the second dungeon, a serpent which dives in and out of water that fills up the floor of his chamber. Defeat him without the Centurian's help for the achievement to unlock. Avoiding Hedraw's attack is easy, just stay underneath him when he leaps out of the water and don't try to jump over or outrun him.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26075.png) **_[Slayer of Pandora](https://retroachievements.org/achievement/25599)_**<br>
+#26075, 10 pts. Boss challenge. Description - Defeat Pandora without the Centurians.<br>
 	
-	Achieved when you beat the game. 4-1 is the final stage where you equip the sacred treasures, enabling Pit to fly to and invade Medusa's lair in the sky. 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26478.png)#26478, 10 pts. Boss Challenge. Description - Defeat Medusa without being harmed.
-The Wit of Hermes	From <http://retroachievements.org/achievement/26025> 
+The boss of the third and final dungeon, a spirit of a witch that floats erratically across the screen, while spewing energy bubbles. She also flickers, so she can disappear into the background and then impose herself on the player. Defeat her without the Centurian's help for the achievement to unlock. Utilize the elevated platforms to hop over her and be prepared to duck when she lunges into Pit's direction.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26088.png) **_[Like an Angel](http://retroachievements.org/achievement/25612)_**<br>
+#25612, 50 pts. Missable achievement. Description - Reach the Sky Palace without losing an Angel's Feathers (Must attain a feather)<br>
 	
-	The final stage of the game (4-1) is a shooter where you can attack enemies freely in all directions, and the screen continuously scrolls from the right all the way toward Medusa. When you reach finally reach her, use the Mirror Shield to null the beam wave attacks. The snakes can be taken out with one hit, while you aim for the eye.
+This achievement requires you to attain the feather early in the game and not use it (by not falling off screen). Carry the feather over two worlds unused, but if you get the feather in world three and beat the game, nothing will happen. As long as you have a feather as early as 1-1 or 1-2 and don't use any, it can unlock as soon 3-3.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26451.png) **_[Evasive Maneuvers](http://retroachievements.org/achievement/25884)_**<br>
+#25884, 50 pts. Missable achievement. Description - Avoid sticky fingers, and having to reclaim your property from the Black Market.<br>
 	
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26517.png)#26517, 25 pts. End Game Challenge. Description - Achieve the best ending.
-All Grown Up !	From <http://retroachievements.org/achievement/26026> 
+The objective here is to avoid having any of the magical gifts of Zeus being stolen by the thieving buggers that show up in levels 2-2, 2-3 and from 3-1 to 3-3. You must have at least one magical gift equipped for anything to count, similar to the requirement for owning a feather for Like an Angel.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26450.png) **_[Clash of the Titans](http://retroachievements.org/achievement/25882)_**<br>
+#26450, 5 pts. Completion. Description - Defeat Medusa.<br>
 	
-	Upon defeating Medusa, have a score higher than 200,000 by 3-4; obtain 999 hearts, 5 arrows of strength and all 3 enchanted weapons from Zeus.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26518.png)#26518, 50 pts. End Game Challenge. Description - Achieve the worst ending.
-Tragic Peasant	From <http://retroachievements.org/achievement/26027> 
+Achieved when you beat the game. 4-1 is the final stage where you equip the sacred treasures, enabling Pit to fly to and invade Medusa's lair in the sky.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26478.png) **_[The Wit of Hermes](http://retroachievements.org/achievement/26025)_**<br>
+#26478, 10 pts. Boss Challenge. Description - Defeat Medusa without being harmed.<br>
 	
-	You must not go over 200,000 pts., have less than 999 hearts, less than 5 arrows, and not all 3 enchanted weapons at completion (defeating Medusa). Best to prioritize and go for this upon first time playing, since the game loops with your inventory and score from the previous playthrough, making it also a 'pacifist' style achievement.
+The final stage of the game (4-1) is a shooter where you can attack enemies freely in all directions, and the screen continuously scrolls from the right all the way toward Medusa. When you reach finally reach her, use the Mirror Shield to null the beam wave attacks. The snakes can be taken out with one hit, while you aim for the eye.
+	
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26517.png) **_[All Grown Up !](http://retroachievements.org/achievement/26026)_**<br>
+#26517, 25 pts. End Game Challenge. Description - Achieve the best ending.<br>
+	
+Upon defeating Medusa, have a score higher than 200,000 by 3-4; obtain 999 hearts, 5 arrows of strength and all 3 enchanted weapons from Zeus.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/26518.png) **_[Tragic Peasant](http://retroachievements.org/achievement/26027)_**<br>
+#26518, 50 pts. End Game Challenge. Description - Achieve the worst ending.<br>
+	
+You must not go over 200,000 pts., have less than 999 hearts, less than 5 arrows, and not all 3 enchanted weapons at completion (defeating Medusa). Best to prioritize and go for this upon first time playing, since the game loops with your inventory and score from the previous playthrough, making it also a 'pacifist' style achievement.
