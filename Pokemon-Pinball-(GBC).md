@@ -2,8 +2,8 @@
 
 ### Achievement Info
 
-**Total Achievements:** 44  
-**Total Points:** 374  
+**Total Achievements:** 40  
+**Total Points:** 333  
 
 ### Difficulty Info
 
@@ -456,38 +456,10 @@ The Pokémon can be found in the following locations:
 \* *Mew can only appear if you have beaten [the Mewtwo Stage](#mewtwo-bonus) twice.*  
 *Additionally, Mew must be hit at least 20 times before the timer runs out.*
 
-### [New Trainer in Town](https://retroachievements.org/achievement/56314)
-
-![Badge](http://i.retroachievements.org/Badge/58797.png) 1 points  
-Own at least 6 Pokemon, then open and close your Pokedex
-
-Description is self-explanatory.
-
-### [Hobbyist](https://retroachievements.org/achievement/56315)
-
-![Badge](http://i.retroachievements.org/Badge/58798.png) 5 points  
-Own at least 25 Pokemon, then open and close your Pokedex
-
-Description is self-explanatory.
-
-### [Halfway There](https://retroachievements.org/achievement/56316)
-
-![Badge](http://i.retroachievements.org/Badge/58799.png) 10 points  
-Own at least 75 Pokemon, then open and close your Pokedex
-
-Description is self-explanatory.
-
-### [The Final Stretch](https://retroachievements.org/achievement/56317)
-
-![Badge](http://i.retroachievements.org/Badge/58800.png) 25 points  
-Own at least 125 Pokemon, then open and close your Pokedex
-
-Description is self-explanatory.
-
 ### [Complete Pokedex](https://retroachievements.org/achievement/56318)
 
 ![Badge](http://i.retroachievements.org/Badge/58801.png) 50 points  
-Register all 151 Pokemon, then open and close your Pokedex
+Register all 151 Pokemon in the dex  
 
 Description is self-explanatory.
 
@@ -544,49 +516,49 @@ Mewtwo will generate energy balls around itself. They can be removed by hitting 
 ### [5th Place](https://retroachievements.org/achievement/56319)
 
 ![Badge](http://i.retroachievements.org/Badge/58807.png) 5 points  
-Register at least 100,000,000 points on any Hi-Score board
+Score at least 100,000,000 points on either table  
 
 Description is self-explanatory.
 
 ### [4th Place](https://retroachievements.org/achievement/56320)
 
 ![Badge](http://i.retroachievements.org/Badge/58806.png) 5 points  
-Register at least 200,000,000 points on any Hi-Score board
+Score at least 200,000,000 points on either table  
 
 Description is self-explanatory.
 
 ### [3rd Place](https://retroachievements.org/achievement/56321)
 
 ![Badge](http://i.retroachievements.org/Badge/58805.png) 5 points  
-Register at least 300,000,000 points on any Hi-Score board
+Score at least 300,000,000 points on either table  
 
 Description is self-explanatory.
 
 ### [2nd Place](https://retroachievements.org/achievement/56322)
 
 ![Badge](http://i.retroachievements.org/Badge/58804.png) 10 points  
-Register at least 400,000,000 points on any Hi-Score board
+Score at least 400,000,000 points on either table  
 
 Description is self-explanatory.
 
 ### [1st Place Red](https://retroachievements.org/achievement/56323)
 
 ![Badge](http://i.retroachievements.org/Badge/58802.png) 25 points  
-Register at least 500,000,000 points on the Red Hi-Score board
+Score at least 500,000,000 points on the Red Table  
 
 Description is self-explanatory.
 
 ### [1st Place Blue](https://retroachievements.org/achievement/56324)
 
 ![Badge](http://i.retroachievements.org/Badge/58803.png) 25 points  
-Register at least 500,000,000 points on the Blue Hi-Score board
+Score at least 500,000,000 points on the Blue Table  
 
 Description is self-explanatory.
 
-### [1st Place High Roller](https://retroachievements.org/achievement/56325)
+### [High Roller](https://retroachievements.org/achievement/56325)
 
 ![Badge](http://i.retroachievements.org/Badge/58808.png) 50 points  
-Register a 1st place score of over 1,000,000,000 points on any table
+Score at least 1,000,000,000 points on either table  
 
 Description is self-explanatory.
 
