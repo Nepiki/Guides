@@ -15,10 +15,6 @@ Total: 8
  or 
 [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/06360.png)](https://retroachievements.org/Achievement/5816) (2)
 
-* Booster Hill (1 chance so go back a room to save right after the Booster Curtain event or restart if you fail to get enough flower tabs)
-
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/07074.png)](https://retroachievements.org/Achievement/6708) (3)
-
 * Booster Wedding (1 chance. There is a save block in the room before the wedding event so restart if you fail. )
 
     [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55140.png)](https://retroachievements.org/Achievement/53380) (4)
