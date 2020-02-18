@@ -56,37 +56,42 @@ Beat the Ripper by punching or kicking him until you knock him off the roof.
 _Complete Scene 3._
 
 **{Story related}**
-
 You will need to driving and pick up all the items to get the turbo. If you do NOT get the turbo, you will not have enough speed to make the jump a the end and you will die.
 
 ![](http://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/104725.png) [Strollin’](http://retroachievements.org/achievement/95084)   
 _Complete Scene 4._
 
+**{Story related}**
 This is a short level, just go left. You will eventually get to a spot with a big gap too big to jump. Pick up all the tickets to get the grenade launcher and when you get close, launch one which will make a platform fall so you can jump across.
 
 ![](http://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/104726.png) [Elevator Rides](http://retroachievements.org/achievement/95085)   
 _Complete Scene 5._
 
+**{Story related}**
 You need to climb the elevators going up, be careful as they do not seem to have much pattern. Just make sure you’re high enough before jumping to the next platform. At the top, you’ll fight the elevator so you need the rocket launcher so make sure you gather all the tickets you need. There is a bit of a delay with this shots so place them where the helicopter will be.
 
 ![](http://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/104727.png) [Racing to the Movies](http://retroachievements.org/achievement/95086)   
 _Complete Scene 6._
 
+**{Story related}**
 This is another driving level. You need get to the movie theater before Benedict’s car so get as many tickets as fast as you can and turbo your way there. At the end, you’ll do a chicken race which involves button mashing so get that finger ready!
 
 ![](http://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/104729.png) [Gotta Find My Seat](http://retroachievements.org/achievement/95087)   
 _Complete Scene 7._
 
+**{Story related}**
 This is another straight forward level, get the tickets, use the items as you need and get to the end.
 
 ![](http://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/104730.png) [Gonna Drop In](http://retroachievements.org/achievement/95088)   
 _Complete Scene 8._
 
+**{Story related}**
 Another fight with the Ripper, this time, get all the way to the right of the screen where you see the windows and knock him in.
 
 ![](http://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/104731.png) [Screen Time](http://retroachievements.org/achievement/95089)   
 _Beat the game._
 
+**{Story related}**
 Basically the final boss, he’ll shoot fireballs and you gotta kick them back at him. Keep doing that until he dies.
 
 ![](http://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/104816.png) [Deathless Action](http://retroachievements.org/achievement/95090)   
