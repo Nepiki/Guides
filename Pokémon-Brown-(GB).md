@@ -51,7 +51,7 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Eevee** -> **Sylveon** (use Magic Wand)
 
 # **Missable Achievements: 8**
-[![](https://i.imgur.com/0CdNYOe.png)](https://retroachievements.org/achievement/79549)
+* [![](https://i.imgur.com/0CdNYOe.png)](https://retroachievements.org/achievement/79549)
 
 Just defeat Mura in Tim's Lab.
 
