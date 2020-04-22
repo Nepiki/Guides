@@ -50,7 +50,7 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Eevee** -> **Glaceon** (level up the second Eevee from the Game Corner, reach level 20 to evolve into Glaceon)
 * **Eevee** -> **Sylveon** (use Magic Wand)
 
-# **Missable Achievements: 16**
+# **Missable Achievements: 8**
 * [![](https://i.imgur.com/UyNsfkn.png)](https://retroachievements.org/achievement/79650) [![](https://i.imgur.com/0CdNYOe.png)](https://retroachievements.org/achievement/79549)
 
 Just defeat Mura in Tim's Lab but you need to lose against him too.
@@ -59,26 +59,9 @@ Just defeat Mura in Tim's Lab but you need to lose against him too.
 
 Just don't own/catch **Magmar**, **Rhyhorn**, **Chansey**, **Eevee** and **Crobat** otherwise you can't trade them if you already own/catch **Magmar**, **Rhyhorn**, **Chansey**, **Eevee** and **Crobat**. Be careful.
 
-
-* [![](https://i.imgur.com/bwuHQLd.png)](https://retroachievements.org/achievement/79564) [![](https://i.imgur.com/eGpBUZv.png)](https://retroachievements.org/achievement/79565)
-
-Just catch **Snorlax** in Route 61 and **Kangaskhan** in Haunted Forest without failing, just save game before battle started. Don't let them escape/flee or defeat them otherwise you need to start new game.
-
-
-* [![](https://i.imgur.com/Hcm0kZq.png)](https://retroachievements.org/achievement/79566) [![](https://i.imgur.com/JKy0tSV.png)](https://retroachievements.org/achievement/79604) [![](https://i.imgur.com/EWppmuf.png)](https://retroachievements.org/achievement/79605) [![](https://i.imgur.com/uJIbnOj.png)](https://retroachievements.org/achievement/79609)
-
-Just catch 4 of 8 legendary Pokémon, just save game before battle started. Don't let them escape/flee or defeat them otherwise you need to start new game.
-
-
 * [![](https://i.imgur.com/RZ2sOcK.png)](https://retroachievements.org/achievement/79562)
 
 Just evolve **Nidorina** (female) into **Nidoqueen** with using Moon Stone and trade for **Nidoking** in Moraga Town House. Don't use Moon Stone for other 3 Pokemon like **Clefairy**, **Jigglypuffy** or **Nidorino** (male) otherwise you can't trade for **Nidoking** because this hack has only **ONE** Moon Stone. So, be careful.
-
-
-* [![](https://i.imgur.com/46Vx2CM.png)](https://retroachievements.org/achievement/79656)
-
-Just don't defeat Patrol Pallet with 2 or more Pokémon in your party. It works only **ONE** Pokémon in your party.
-
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86158.png)](https://retroachievements.org/achievement/79741)
 
