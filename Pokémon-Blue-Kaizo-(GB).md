@@ -2,7 +2,7 @@ Pokémon [Blue Kaizo](https://retroachievements.org/game/6690) game page
 
 
 
-# **Missable Achievements: 8**
+# **Missable Achievements: 7**
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86604.png)](http://retroachievements.org/achievement/80524)
 
@@ -37,11 +37,6 @@ Just defeat all 6 Trainers (except Rival) in Cerulean's Nugget Bridge (Route 24)
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86970.png)](http://retroachievements.org/achievement/80554)
 
 Just defeat all Trainers in Saffron City Gym (left) without leaving the area otherwise achievement will disable if you leaved the area after defeating the first Trainer.
-
-
-* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/87045.png)](http://retroachievements.org/achievement/80554)
-
-Just catch Snorlax and Ditto without failure otherwise achievement is missable.
 
 
 # **Quick Walktrough**
