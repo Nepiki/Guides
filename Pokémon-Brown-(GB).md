@@ -4,17 +4,17 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 
 # **Unobtainable Pokémon: 15**
 
-* **Bulbasaur**, **Ivysaur**, **Venusaur**, **Charmander**, **Charmeleon** and **Charizard** (if you choose **Squirtle**, this means 6 Pokémon are unobtain.)
-* **Charmander**, **Charmeleon**, **Charizard**, **Squirtle**, **Wartortle** and **Blastoise** (if you choose **Bulbasaur**, this means 6 Pokémon are unobtain.)
-* **Squirtle**, **Wartortle**, **Blastoise**, **Bulbasaur**, **Ivysaur** and **Venusaur** (if you choose **Charmander**, this means 6 Pokémon are unobtain.)
-* **Mankey** (This means 1 Pokémon is unobtain.)
-* **Mr. Mime** (This means 1 Pokémon is unobtain.)
-* **Zapdos** or **Raikou** (Only one, this means 1 Pokémon is obtain and other 1 Pokémon is unobtain.)
-* **Moltres** or **Entei** (Only one, this means 1 Pokémon is obtain and other 1 Pokémon is unobtain.)
-* **Mew** or **Mewtwo** (Only one, this means 1 Pokémon is obtain and other 1 Pokémon is unobtain.)
-* **Suicune** or **Articuno** (Only one, this means 1 Pokémon is obtain and other 1 Pokémon is unobtain.)
-* **Lugia** or **Ho-Oh** (Only one, this means 1 Pokémon is obtain and other 1 Pokémon is unobtain.)
-* **Clefable**, **Wigglypuff**, **Nidoqueen** or **Nidoking** (It has only one Moon Stone in Brown Version, not only 3 Pokémon are unobtain but 2 Pokémon can be unobtain (**Clefable** and **Wigglypuff**) because you can trade **Nidoqueen** for **Nidoking** in Moraga Town House only if **Nidorina** evolved into **Nidoqueen** with using Moon Stone, this means 2 Pokémon are obtain and other 2 Pokémon are unobtain.)
+* **Bulbasaur**, **Ivysaur**, **Venusaur**, **Charmander**, **Charmeleon** and **Charizard** (if you choose **Squirtle**, this means 6 Pokémon are unobtainable.)
+* **Charmander**, **Charmeleon**, **Charizard**, **Squirtle**, **Wartortle** and **Blastoise** (if you choose **Bulbasaur**, this means 6 Pokémon are unobtainable.)
+* **Squirtle**, **Wartortle**, **Blastoise**, **Bulbasaur**, **Ivysaur** and **Venusaur** (if you choose **Charmander**, this means 6 Pokémon are unobtainable.)
+* **Mankey** (This means 1 Pokémon is unobtainable.)
+* **Mr. Mime** (This means 1 Pokémon is unobtainable.)
+* **Zapdos** or **Raikou** (Only one, this means 1 Pokémon is obtainable and other 1 Pokémon is unobtainable.)
+* **Moltres** or **Entei** (Only one, this means 1 Pokémon is obtainable and other 1 Pokémon is unobtainable.)
+* **Mew** or **Mewtwo** (Only one, this means 1 Pokémon is obtainable and other 1 Pokémon is unobtainable.)
+* **Suicune** or **Articuno** (Only one, this means 1 Pokémon is obtainable and other 1 Pokémon is unobtainable.)
+* **Lugia** or **Ho-Oh** (Only one, this means 1 Pokémon is obtainable and other 1 Pokémon is unobtainable.)
+* **Clefable**, **Wigglypuff**, **Nidoqueen** or **Nidoking** (It has only one Moon Stone in Brown Version, not only 3 Pokémon are unobtainable but 2 Pokémon can be unobtainable (**Clefable** and **Wigglypuff**) because you can trade **Nidoqueen** for **Nidoking** in Moraga Town House only if **Nidorina** evolved into **Nidoqueen** with using Moon Stone, this means 2 Pokémon are obtainable and other 2 Pokémon are unobtainable.)
 
 # **New Evolutions: 32**
 * **Electabuzz** -> **Electivire** (use Electrizer)
@@ -65,7 +65,7 @@ Just evolve **Nidorina** (female) into **Nidoqueen** with using Moon Stone and t
 
 * [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86158.png)](https://retroachievements.org/achievement/79741)
 
-210 of 225 Pokémon are obtain and other 15 Pokémon are unobtain, just remember and don't forget. Also never delete/toss/sell items like **Electrizer**, **Magmarizer**, **Protector**, **Up-Grade**, **Dubious Disk**, **2x Metal Coat**, **Razor Claw**, **Razor Fang**, **Coronet Stone**, **2x Dusk Stone**, **4x Trade Stone**, **Shiny Stone**, **2x King's Rock**, **Dragon Scale**, **Magic Wand** and **Moon Stone**. Also you can buy **Rare Candy** from MART in 5th floor in Hayward City. If you stumble upon a seemingly infinite amount of **TM55 (Flash)**, **DON'T** sell it. It'll ruin your inventory and erase items. So, be careful.
+210 of 225 Pokémon are obtainable and other 15 Pokémon are unobtainable, just remember and don't forget. Also never delete/toss/sell items like **Electrizer**, **Magmarizer**, **Protector**, **Up-Grade**, **Dubious Disk**, **2x Metal Coat**, **Razor Claw**, **Razor Fang**, **Coronet Stone**, **2x Dusk Stone**, **4x Trade Stone**, **Shiny Stone**, **2x King's Rock**, **Dragon Scale**, **Magic Wand** and **Moon Stone**. Also you can buy **Rare Candy** from MART in 5th floor in Hayward City. If you stumble upon a seemingly infinite amount of **TM55 (Flash)**, **DON'T** sell it. It'll ruin your inventory and erase items. So, be careful.
 
 
 # **Quick Walkthrough**
