@@ -41,7 +41,7 @@ Image | Descriptions  | Remarks
 - Grind mid-level Corp Runs (from `Celeb` or `Julius`), and save up to buy the `Fuchi Cyber-5` Cyberdeck. You should have a full permanent party member about now, let them stay in party to earn karma for them too.
 - Depending on your confidence level, either repeat the mid-level Matrix Run or the Renraku Corp Run from `Celeb` to earn money and karma while upgrading your deck.
 - Focus on the Cyberdeck's `Response` and `Masking`. Once you are confident enough, start grinding high-level Matrix Run (from `Celeb`) for money and karma. You will need a lot of money and karma to complete all the achievements.
-- Just grind the high-level Matrix Run until you are feeling confident to finish the main plot of the game. It is up to you whether to grind for all the achievements first, or finish the game first and come back. If you feel like the grind is too much, you could grind just enough for the most expensive item in the game (the `Fairlight Excalibur`), then just save-buy-unlock-load for the rest of the items.
+- Just grind the high-level Matrix Run until you are feeling confident to finish the main plot of the game. It is up to you whether to grind for all the achievements first, or finish the game first and come back. If you feel like the grind is too much, you could grind just enough for the most expensive item in the game (the `Fairlight Excalibur`), then just save-buy-load for the rest of the items.
 
 ---
 # Story Achievements
@@ -90,6 +90,43 @@ Image | Descriptions  | Remarks
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73020.png) | **Tron**<br>_Complete any matrix shadowrun_ | `Celeb` give out this run all the time. `Mortimer Reed` give out simple run occasionally.
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73014.png) | **No Job Is Too Big. No Fee Is Too Big**<br>_Take a ghoul bounty job for at least 100 nuyen per ghoul and kill at least 20 ghouls and claim your reward_ | It is only possible to get this from `Mortimer Reed`. You will need to raise your `Negotiation` quite a lot. Just keep asking for job from him until you get offered 100 nuyen per ghoul, and then kill more than 20 ghouls before returning to him.
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73021.png) | **You and Your Johnson**<br>_Take on a job for every Johnson on the game in one play session_ | **:warning::warning: MISSABLE :warning::warning:**<br>You have to complete one job from each Johnson in one play session (meaning once you save/load, the counter resets). One of the Johnson will be unavailable after some point in the game, so I recommend getting this as soon as you can manage a moderate-level Corp Run.
+
+---
+# Matrix Side Quest
+
+Below achievements requires you to log into Matrix systems, do some stuffs, and then crash the CPU. Most of them will require a pretty high-level decking capabilities, including a moderately upgraded Cyberdeck, a good decker, and some good programs.
+
+I recommend starting these after you have at least
+- The `Fuchi Cyber-5` Cyberdeck
+- Max `Response` upgrade.
+- At least 6 in your `Masking` upgrade.
+- At least level 5 in your `Attack` and `Deception` program.
+- At least 6 in your `Computing` skill (hiring `Rianna` is a good choice).
+- Enough Cyberdeck memory to load `Attack`, `Deception`, and a `Tar Pit` fodder (Slow and Analyze).
+
+You can keep asking `Celeb` for Matrix run, accept them to store the system passcode, and then cancel them. The "interesting datafiles" are stored in various data stores, so just try to download at least once in every data store you encounter until you manage to "find nothing interesting". If you found something interesting, navigate to the CPU to crash it.
+
+Search online for more in-depth Matrix run strategies.
+
+Image | Descriptions  | Remarks 
+----- | ------------- | --------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73033.png) | **Interrogating Him**<br>_Deck into Ito's matrix, obtain all interesting datafiles then crash the CPU_ | Passcode will be obtained during main story progression. Beware the first node contains a guaranteed `Tar Pit`, so get your fodder ready.
+
+Image | Descriptions  | Image | Descriptions | Image | Descriptions 
+----- | ------------- | ----- | ------------ | ----- | ------------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73034.png) | **Loose Ends**<br>_Deck into Renraku's matrix, obtain their piece of the passcode, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73035.png) | **The Heart of Washington**<br>_Deck into Fuchi's matrix, obtain their piece of the passcode then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73036.png)  | **Mitsuhacka**<br>_Deck into Mitsuhama's matrix, obtain their piece of the passcode, then crash the CPU_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73037.png) | **Give Them the Raspberry**<br>_Deck into Lone Star's matrix, obtain Joshua's case file, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73038.png) | **Kratos**<br>_Deck into Ares' matrix, obtain their piece of the passcode, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73039.png) | **Kicking Some Aztec**<br>_Deck into Aztechnology's matrix, obtain their piece of the passcode, then crash the CPU_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73040.png) | **If She Could**<br>_Deck into Hollywood Correctional's matrix, find Vigore's file, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73041.png) | **Bar Tabs**<br>_Deck into Club Penumbra's matrix and crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73042.png) | **Checkout Time**<br>_Jack into Gates Undersound's matrix, find Ito's reservation, then crash the CPU_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73043.png) | **I'm An Agent Of Chaos**<br>_Deck into Seattle General Hospital's matrix and crash the CPU_
+
+## Matrix Side Quest
+
+Below 2 are part of the Matrix Side Quest. Once you obtained all the secret passcode from the other systems, your Cyberspace passcode list will automatically have a new `CHERNOBYL` passcode to log into.
+
+Image | Descriptions  | Image | Descriptions
+----- | ------------- | ----- | ------------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73044.png) | **Piecing it Together**<br>_Assemble all pieces of the hidden passcode_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73045.png) | **Savin' the Day**<br>_Deck into the hidden matrix, find the interesting data file, then crash the CPU_
+
 
 ---
 ### Credits
