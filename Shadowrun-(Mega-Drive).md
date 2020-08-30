@@ -2,10 +2,11 @@
 
 Achievement Guide for Shadowrun (1994) for the Mega Drive (aka. Sega Genesis).
 
-**\*\*Contains minor spoilers.\*\***
+:no_entry: :no_entry: **\*\* CONTAINS MINOR SPOILERS \*\*** :no_entry: :no_entry:
 
 ## Useful Links
 * [RetroAchievement game page](https://retroachievements.org/game/4748)
+* [Guides from GameFAQs](https://gamefaqs.gamespot.com/genesis/366854-shadowrun/faqs)
 
 ---
 # Missable Achievements!!!
@@ -43,7 +44,7 @@ Image | Descriptions  | Remarks
 - Just grind the high-level Matrix Run until you are feeling confident to finish the main plot of the game. It is up to you whether to grind for all the achievements first, or finish the game first and come back. If you feel like the grind is too much, you could grind just enough for the most expensive item in the game (the `Fairlight Excalibur`), then just save-buy-unlock-load for the rest of the items.
 
 ---
-## Story Achievements
+# Story Achievements
 
 You will earn these just by progressing through the story. With the exception of ***TWO*** special ones listed first.
 
@@ -51,7 +52,7 @@ You will earn these just by progressing through the story. With the exception of
 
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72997.png) | **SLOT OFF, FRAG-FACE!!**<br>_Enter Matchsticks alone and unarmed and defeat Ito Ogami and his thugs using just your fists (hand razors and spurs are ok)_ | Make a save before confronting him in the `Matchsticks`. Arm yourself with `Spurs`, dismiss all your companions, and then go in and punch everyone to death. Just load your game after that.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72997.png) | **SLOT OFF, FRAG-FACE!!**<br>_Enter Matchsticks alone and unarmed and defeat Ito Ogami and his thugs using just your fists (hand razors and spurs are ok)_ | **:warning::warning: MISSABLE :warning::warning:**<br>Make a save before confronting him in the `Matchsticks`. Arm yourself with `Spurs`, dismiss all your companions, and then go in and punch everyone to death. Just load your game after that.
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73013.png) | **This One's Personal**<br>_Go to Elysia's Tomb alone and unarmed and defeat Thon and his thugs using only your fists (hand razors and spurs are ok)_ | This is the final boss, you can always reload the game after you beat him, so I wouldn't consider this missable. Get the `Spurs` if you do not already have it. Wear the best armor you can. Bring a full inventory of `Medkits`, spam heal every time your HP drop below half.
 
 ### Normal Story Achievements
@@ -68,11 +69,27 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 
 ### Stark Side Quest
 
-You will get these when rescusing `Stark`. Just search online for the walkthrough.
+You will get these when rescusing `Stark`. Just find online for the walkthrough.
 
 Image | Descriptions  | Image | Descriptions
 ----- | ------------- | ----- | ------------
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73001.png) | **I Am Iron Man**<br>_Find an old friend in need of your help_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73002.png) | **Ya Got Heart, Chummer**<br>_Steal the cyber-heart and save Stark_
+
+---
+# Shadowrun Related Achievements
+
+You earn these by completing shadowruns from Johnsons.
+
+Image | Descriptions  | Remarks 
+----- | ------------- | --------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73015.png) | **And I~I Will Always Love Youuuuu**<br>_Complete any bodyguard shadowrun_ | You'll probably get this during one of the earliest run from `Gunderson`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73016.png) | **Mailman**<br>_Complete any courier shadowrun_ | You'll probably get this during one of the earliest run from `Gunderson`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73017.png) | **Cowboy Diplomacy**<br>_Complete any enforcement shadowrun_ | You can get this from `Mortimer Reed` or `Julius`, where they send you to beat up one of the 3 gangs in the game.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73018.png) | **Distgruntled Postal Worker**<br>_Complete any acquisition shadowrun_ | You can get this from any Johnson other than `Gunderson`, where they send you to a Corp Run to extract a package.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73019.png) | **Career Change**<br>_Complete any extraction shadowrun_ | You can get this from any Johnson other than `Gunderson`, where they send you to a Corp Run to extract an employee.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73020.png) | **Tron**<br>_Complete any matrix shadowrun_ | `Celeb` give out this run all the time. `Mortimer Reed` give out simple run occasionally.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73014.png) | **No Job Is Too Big. No Fee Is Too Big**<br>_Take a ghoul bounty job for at least 100 nuyen per ghoul and kill at least 20 ghouls and claim your reward_ | It is only possible to get this from `Mortimer Reed`. You will need to raise your `Negotiation` quite a lot. Just keep asking for job from him until you get offered 100 nuyen per ghoul, and then kill more than 20 ghouls before returning to him.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73021.png) | **You and Your Johnson**<br>_Take on a job for every Johnson on the game in one play session_ | **:warning::warning: MISSABLE :warning::warning:**<br>You have to complete one job from each Johnson in one play session (meaning once you save/load, the counter resets). One of the Johnson will be unavailable after some point in the game, so I recommend getting this as soon as you can manage a moderate-level Corp Run.
 
 ---
 ### Credits
