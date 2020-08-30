@@ -7,6 +7,7 @@ Achievement Guide for Shadowrun (1994) for the Mega Drive (aka. Sega Genesis).
 ## Useful Links
 * [RetroAchievement game page](https://retroachievements.org/game/4748)
 * [Guides from GameFAQs](https://gamefaqs.gamespot.com/genesis/366854-shadowrun/faqs)
+* [GameFAQs Guide by GLSicherman](https://gamefaqs.gamespot.com/genesis/366854-shadowrun/faqs/2836) - The `Salish-Shadhe` map is especially useful.
 
 ---
 # Missable Achievements!!!
@@ -19,7 +20,7 @@ Image | Descriptions  | Remarks
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73028.png) | **Bad Security**<br>_Obtain corporate security badges_ | One of the Johnson will be unavailable after some point in the game. You can only get this item from his contact.
 
 ---
-# General Guide
+# Overview
 
 ### The achievements can be grouped into a few types.
 
@@ -29,7 +30,7 @@ Image | Descriptions  | Remarks
 - Matrix (Log into different systems, obtain data and crash CPU.)
 - Other collectibles (Like collect all contacts, buy specific items, etc.)
 
-### Below are some tips or roadmap to follow
+### General Roadmap / Walkthrough
 
 - Any starting class is fine, it only affects the very early stage of the game. You can always hire companions to complement your team.
 - Hire any shadowrunner for the short term, then sell their items for easy money.
@@ -37,8 +38,8 @@ Image | Descriptions  | Remarks
 - Try to raise your `Reputation` to 5, then buy the `Ork Armband` as soon as possible.
 - Try to raise your `Electronics` to 5. Buy `Invisibility` (or hire `Ricky`) to repeat early Corp Runs from `Mortimer Reed`.
 - If you are feeling adventurous, you can try to complete the `Stark` side quest and get him to join your party.
-- Buy the contact from `Mortimer Reed`, and save up 20,000 nuyen and buy the `Lvl 5 Maglock Passkey`.
-- Grind mid-level Corp Runs (from `Celeb` or `Julius`), and save up to buy the `Fuchi Cyber-5` Cyberdeck. You should have a full permanent party member about now, let them stay in party to earn karma for them too.
+- Buy the contact from `Mortimer Reed`, and save up 20,000¥ and buy the `Lvl 5 Maglock Passkey`.
+- Grind mid-level Corp Runs (from `Celeb` or `Julius`), and save up to buy the `Fuchi Cyber-5` Cyberdeck. You should have a full permanent party member by now, let them stay in party to earn karma for them too.
 - Depending on your confidence level, either repeat the mid-level Matrix Run or the Renraku Corp Run from `Celeb` to earn money and karma while upgrading your deck.
 - Focus on the Cyberdeck's `Response` and `Masking`. Once you are confident enough, start grinding high-level Matrix Run (from `Celeb`) for money and karma. You will need a lot of money and karma to complete all the achievements.
 - Just grind the high-level Matrix Run until you are feeling confident to finish the main plot of the game. It is up to you whether to grind for all the achievements first, or finish the game first and come back. If you feel like the grind is too much, you could grind just enough for the most expensive item in the game (the `Fairlight Excalibur`), then just save-buy-load for the rest of the items.
@@ -104,13 +105,17 @@ I recommend starting these after you have at least
 - At least 6 in your `Computing` skill (hiring `Rianna` is a good choice).
 - Enough Cyberdeck memory to load `Attack`, `Deception`, and a `Tar Pit` fodder (Slow and Analyze).
 
-You can keep asking `Celeb` for Matrix run, accept them to store the system passcode, and then cancel them. The "interesting datafiles" are stored in various data stores, so just try to download at least once in every data store you encounter until you manage to "find nothing interesting". If you found something interesting, navigate to the CPU to crash it.
-
 Search online for more in-depth Matrix run strategies.
+
+## Special Passcode
 
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73033.png) | **Interrogating Him**<br>_Deck into Ito's matrix, obtain all interesting datafiles then crash the CPU_ | Passcode will be obtained during main story progression. Beware the first node contains a guaranteed `Tar Pit`, so get your fodder ready.
+
+## Matrix Run
+
+You can keep asking `Celeb` for Matrix run, accept them to store the system passcode, and then cancel them. The "interesting datafiles" are stored in various data stores, so just try to download at least once in every data store you encounter until you manage to "find nothing interesting". If you found something interesting, navigate to the CPU to crash it.
 
 Image | Descriptions  | Image | Descriptions | Image | Descriptions 
 ----- | ------------- | ----- | ------------ | ----- | ------------
@@ -119,7 +124,7 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73040.png) | **If She Could**<br>_Deck into Hollywood Correctional's matrix, find Vigore's file, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73041.png) | **Bar Tabs**<br>_Deck into Club Penumbra's matrix and crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73042.png) | **Checkout Time**<br>_Jack into Gates Undersound's matrix, find Ito's reservation, then crash the CPU_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73043.png) | **I'm An Agent Of Chaos**<br>_Deck into Seattle General Hospital's matrix and crash the CPU_
 
-## Matrix Side Quest
+## CHERNOBYL Side Quest
 
 Below 2 are part of the Matrix Side Quest. Once you obtained all the secret passcode from the other systems, your Cyberspace passcode list will automatically have a new `CHERNOBYL` passcode to log into.
 
@@ -127,6 +132,22 @@ Image | Descriptions  | Image | Descriptions
 ----- | ------------- | ----- | ------------
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73044.png) | **Piecing it Together**<br>_Assemble all pieces of the hidden passcode_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73045.png) | **Savin' the Day**<br>_Deck into the hidden matrix, find the interesting data file, then crash the CPU_
 
+---
+# Miscellaneous Achievements
+
+Image | Descriptions  | Remarks 
+----- | ------------- | --------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73022.png) | **Soldiers of Fortune**<br>_Meet All Shadowrunners_ | Search online for the list of runners. This includes `Stark` (which can only be met after completing a side quest), and `Ilene Two Fists` (which can only be met after completing a main plot).
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73023.png) | **Address Book**<br>_Acquire All Contacts_ | **:warning::warning: MISSABLE :warning::warning:**<br>`Vigore & Jarl` will be unavailable after some point in the game. You need to get his contact before that. Search online for the list of the contacts.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73024.png) | **Sucker**<br>_Pay Boris for his story_ | Go to `Boris` and ask for his story. He will charge you 100¥. Pay him.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73025.png) | **I Pledge Alleigance To The Mob...**<br>_Swear loyalty to either the mafia or the yakuza_ | Buy the contacts from `Halloweeners` or `Eye-Fivers`. Then call either of the contacts. Agree to any of them will earn you this achievement. I recommend joining the `Halloweeners`, for their top-tier gears.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73026.png) | **Clearing Your Name**<br>_Wipe your criminal record by any means_ | Some of the contacts offer to wipe your criminal record for a fee (eg: `Henry J. Culver` costs 2,500¥; `Sgt. Chillicutt` costs 5,000¥). Or if you don't mind losing all your money and illegal equipments, just walk into `Lone Star` HQ.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73027.png) | **Protection Racket**<br>_Obtain 'protection' from all three gangs_ | Buy the protection from `Halloweeners`, `Eye-Fivers`, and `Ork Gang`. I recommend raising your `Reputation` to at least 5 to gain free access to the gang bosses.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73028.png) | **Bad Security**<br>_Obtain corporate security badges_ | **:warning::warning: MISSABLE :warning::warning:**<br>`Vigore & Jarl` will be unavailable after some point in the game. You need to buy the contact for `Max` from them. He sells the badge for 6,000¥.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73029.png) | **Concealed Carry**<br>_Obtain a weapon permit_ | Buy from `Henry J. Culver` for 8,000¥; or `Sgt. Chillicutt` for 10,000¥.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73030.png) | **The Key To Enlightenment**<br>_Obtain a level 5 Maglock Passkey_ | Buy from `Alesandro Hobbs` for 20,000¥; or `Max` for 42,000¥.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73031.png) | **The Legends Were True**<br>_Obtain the best cyberdeck on the game_ | Buy the `Fairlight Excalibur`. You can buy from `Kipp David` for 185,000¥; or if your `Negotiation` is 9 or above, you could get it cheaper from `Crime Mall`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73032.png) | **Yer a Wizard, Joshua**<br>_Learn all spells as Joshua or any Shadowrunner_ | Buy all the level 1 spells from the magic shops, including from `Merlin's Lore` in `Renraku Arcology`, `Riannon's` in `Puyallup Barrens`, and `The Medicine Lodge` in `Council Island`.
 
 ---
 ### Credits
