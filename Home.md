@@ -13,6 +13,7 @@ Any user or developer can add or improve guides here.
 
 ## Directory
 List of guides sorted by platform
+
 ### NES
 * [Blaster Master](https://github.com/RetroAchievements/guides/wiki/Blaster-Master-(NES)) - [RA Link](http://retroachievements.org/game/1459)
 * [Kid Icarus](https://github.com/RetroAchievements/guides/wiki/Kid-Icarus-(NES)) - [RA Link](http://retroachievements.org/game/1478)
@@ -45,3 +46,6 @@ List of guides sorted by platform
 * [Tomba!](https://github.com/RetroAchievements/guides/wiki/Tomba!-(PlayStation)) - [RA Link](http://retroachievements.org/game/11276)
 * [Tomba! 2: The Evil Swine Return](https://github.com/RetroAchievements/guides/wiki/Tomba!-2:-The-Evil-Swine-Return-(Playstation)) - [RA Link](http://retroachievements.org/game/11306)
 * [Yu-Gi-Oh! Forbidden Memories](https://github.com/RetroAchievements/guides/wiki/Yu%E2%80%90Gi%E2%80%90Oh!-Forbidden-Memories-(PlayStation)) - [RA Link](http://retroachievements.org/game/11388)
+
+### Sega Genesis / Mega Drive
+* [Shadowrun](https://github.com/RetroAchievements/guides/wiki/Shadowrun-(Mega-Drive)) - [RA Link](https://retroachievements.org/game/4748)
