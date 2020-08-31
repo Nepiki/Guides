@@ -26,9 +26,9 @@ Image | Descriptions  | Remarks
 
 - Story Achievements (these cannot be missed.)
 - Side Quests (There are 2 side quests in the game. They can be attempted at any time in the game.)
-- Shadowruns (One achievement for each of the shadowrun types.)
-- Matrix (Log into different systems, obtain data and crash CPU.)
-- Other collectibles (Like collect all contacts, buy specific items, etc.)
+- Shadowruns related
+- Matrix related
+- Other miscellaneous types (Like collect all contacts, buy specific items, etc.)
 
 ### General Roadmap / Walkthrough
 
@@ -42,7 +42,7 @@ Image | Descriptions  | Remarks
 - Grind mid-level Corp Runs (from `Celeb` or `Julius`), and save up to buy the `Fuchi Cyber-5` Cyberdeck. You should have a full permanent party member by now, let them stay in party to earn karma for them too.
 - Depending on your confidence level, either repeat the mid-level Matrix Run or the Renraku Corp Run from `Celeb` to earn money and karma while upgrading your deck.
 - Focus on the Cyberdeck's `Response` and `Masking`. Once you are confident enough, start grinding high-level Matrix Run (from `Celeb`) for money and karma. You will need a lot of money and karma to complete all the achievements.
-- Just grind the high-level Matrix Run until you are feeling confident to finish the main plot of the game. It is up to you whether to grind for all the achievements first, or finish the game first and come back. If you feel like the grind is too much, you could grind just enough for the most expensive item in the game (the `Fairlight Excalibur`), then just save-buy-load for the rest of the items.
+- Just grind the high-level Matrix Run until you are feeling confident to finish the main plot of the game. It is up to you whether to grind for all the achievements first, or finish the game first and come back. If you think the grind is too much, you could grind just enough for the most expensive item in the game (the `Fairlight Excalibur`), then just save-buy-load for the rest of the items.
 
 ---
 # Story Achievements
@@ -70,7 +70,7 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 
 ### Stark Side Quest
 
-You will get these when rescusing `Stark`. Just find online for the walkthrough.
+You will get these when you rescue `Stark`. Just find online for the walkthrough.
 
 Image | Descriptions  | Image | Descriptions
 ----- | ------------- | ----- | ------------
@@ -88,8 +88,8 @@ Image | Descriptions  | Remarks
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73017.png) | **Cowboy Diplomacy**<br>_Complete any enforcement shadowrun_ | You can get this from `Mortimer Reed` or `Julius`, where they send you to beat up one of the 3 gangs in the game.
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73018.png) | **Distgruntled Postal Worker**<br>_Complete any acquisition shadowrun_ | You can get this from any Johnson other than `Gunderson`, where they send you to a Corp Run to extract a package.
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73019.png) | **Career Change**<br>_Complete any extraction shadowrun_ | You can get this from any Johnson other than `Gunderson`, where they send you to a Corp Run to extract an employee.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73020.png) | **Tron**<br>_Complete any matrix shadowrun_ | `Celeb` give out this run all the time. `Mortimer Reed` give out simple run occasionally.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73014.png) | **No Job Is Too Big. No Fee Is Too Big**<br>_Take a ghoul bounty job for at least 100 nuyen per ghoul and kill at least 20 ghouls and claim your reward_ | It is only possible to get this from `Mortimer Reed`. You will need to raise your `Negotiation` quite a lot. Just keep asking for job from him until you get offered 100 nuyen per ghoul, and then kill more than 20 ghouls before returning to him.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73020.png) | **Tron**<br>_Complete any matrix shadowrun_ | `Celeb` gives out this run all the time. `Mortimer Reed` gives out simple run occasionally.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73014.png) | **No Job Is Too Big. No Fee Is Too Big**<br>_Take a ghoul bounty job for at least 100 nuyen per ghoul and kill at least 20 ghouls and claim your reward_ | It is only possible to get this from `Mortimer Reed`. You will need to raise your `Negotiation` quite a lot. Just keep asking for job from him until you get offered 100¥ per ghoul, and then kill more than 20 ghouls before returning to him.
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73021.png) | **You and Your Johnson**<br>_Take on a job for every Johnson on the game in one play session_ | **:warning::warning: MISSABLE :warning::warning:**<br>You have to complete one job from each Johnson in one play session (meaning once you save/load, the counter resets). One of the Johnson will be unavailable after some point in the game, so I recommend getting this as soon as you can manage a moderate-level Corp Run.
 
 ---
