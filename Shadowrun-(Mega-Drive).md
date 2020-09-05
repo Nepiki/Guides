@@ -39,6 +39,7 @@ Image | Descriptions  | Remarks
 - Try to raise your `Electronics` to 5. Buy `Invisibility` (or hire `Ricky`) to repeat early Corp Runs from `Mortimer Reed`.
 - If you are feeling adventurous, you can try to complete the `Stark` side quest and get him to join your party.
 - Buy the contact from `Mortimer Reed`, and save up 20,000¥ and buy the `Lvl 5 Maglock Passkey`.
+- You should be able to clear all the missable achievements by this point. Make sure to do it before proceeding too far into the main plot!
 - Grind mid-level Corp Runs (from `Celeb` or `Julius`), and save up to buy the `Fuchi Cyber-5` Cyberdeck. You should have a full permanent party member by now, let them stay in party to earn karma for them too.
 - Depending on your confidence level, either repeat the mid-level Matrix Run or the Renraku Corp Run from `Celeb` to earn money and karma while upgrading your deck.
 - Focus on the Cyberdeck's `Response` and `Masking`. Once you are confident enough, start grinding high-level Matrix Run (from `Celeb`) for money and karma. You will need a lot of money and karma to complete all the achievements.
