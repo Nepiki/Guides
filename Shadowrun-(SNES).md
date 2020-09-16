@@ -22,10 +22,10 @@ Image | Descriptions  | Remarks
 ### The achievements can be grouped into a few types.
 
 - **Story Achievements** - these cannot be missed.
+- **Beat the Arena** - There is an `Arena` in the `Caryards`. You need to beat all the stages.
 - **Collect Items** - Collect or buy certain items in the game. Non are missable.
 - **Grinding for Max-Stats and Money**
 - **Learn All Magic** - Learn all `Magic` in the game.
-- **Beat the Arena** - There is an `Arena` in the `Caryards`. You need to beat all the stages.
 - **Other Miscellaneous Types**
 
 ### General Tips
@@ -40,9 +40,6 @@ Image | Descriptions  | Remarks
 2. Save your game first.
 3. Spend the Karma to max that stat, to earn the achievement for that specific stat.
 4. Load your game, and spend the Karma on another stat.
-
-
-
 
 ---
 # Story Achievements
@@ -64,6 +61,17 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Entering the Aneki building**<br>_Clear the 1st and 2nd floor of enemies_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Aneki on the up**<br>_Clear the 3rd and 4th floor of enemies_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Top of the building**<br>_Clear the 5th floor of enemies_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04261.png) | **Free the Matrix**<br>_Destroy the AI computer and escape the Aneki Building_
 
+### Arena Achievements
+
+There is an `Arena` at the `Caryards` area, you will need to beat all the stages for achievement completion. The first few stages aren't that difficult, but the last few stages can get quite tough if you aren't prepared. If you are having trouble beating the later stages, you can come back later in the game when you are better equipped. Winning the Arena will reward you with a lot of Karma and money.
+
+Image | Descriptions  | Image | Descriptions | Image | Descriptions 
+----- | ------------- | ----- | ------------ | ----- | ------------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04002.png) | **Two men enter, one man leaves, round 1**<br>_Beat the gang member in the arena in the caryards._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04003.png) | **Two men enter, one man leaves, round 2**<br>_Beat the 1st Heavy Dude in the arena in the caryards._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04003.png) | **Two men enter, one man leaves, round 3**<br>_Beat the 2nd Heavy Dude in the arena in the caryards._
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04004.png) | **Two men enter, one man leaves, round 4**<br>_Beat the 1st Mage in the arena in the caryards._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04005.png) | **Two men enter, one man leaves, round 5**<br>_Beat the 2nd Mage in the arena in the caryards._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05120.png) | **Two men enter, one man leaves, The King edition**<br>_Beat The King in the arena in the caryards._
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04006.png) | **Two men enter, one man leaves, round 6**<br>_Beat the Samurai Warrior in the arena in the caryards._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04007.png) | **Two men enter, one man leaves, round 7**<br>_Beat the Ferocious Orc in the arena in the caryards._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04008.png) | **Two men enter, one man leaves, round 8**<br>_Beat the Gang leader in the arena in the caryards._
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04009.png) | **Two men enter, one man leaves, round 9**<br>_Beat the Troll Decker in the arena in the caryards._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04005.png) | **Two men enter, one man leaves, round 10**<br>_Beat the original Mage in the arena in the caryards._
+
 ---
 # Item Related Achievements
 
@@ -84,3 +92,4 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03710.png) | **Collared**<br>_Collect Dog Collar_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04016.png) | **Bottled it - not yet**<br>_Collect the Blue and Purple bottles_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04016.png) | **Can you see anything inside?**<br>_Collect the Black bottle_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04016.png) | **Not the meat variety**<br>_Collect the Wooden Stake_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04268.png) | **Not quite reflexology**<br>_Get the Wired Reflexes installed_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05127.png) |  **Learn a few new things**<br>_Collect the Skill Software_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04265.png) | **Strobe**<br>_Get the strobes_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04263.png) | **Boom Boom, I can't shake the room**<br>_Pick up the explosives._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04259.png) | **Armor no longer light**<br>_Buy and install the Dermal Plating_
+
