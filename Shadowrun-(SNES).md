@@ -36,10 +36,10 @@ Image | Descriptions  | Remarks
 - To avoid missing the second missable achievement.
 
 **Save time for the max-stats achievements**
-- Just grind for enough Karma to max one of your stat. Do not spend it.
-- Save your game first.
-- Spend the Karma to max that stat, to earn the achievement for that specific stat.
-- Load your game, and spend the Karma on another stat.
+1. Just grind for enough Karma to max one of your stat. Do not spend it.
+2. Save your game first.
+3. Spend the Karma to max that stat, to earn the achievement for that specific stat.
+4. Load your game, and spend the Karma on another stat.
 
 
 
@@ -63,3 +63,24 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04042.png) | **Time to find the door**<br>_Kill the orc and get the iron key_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04044.png) | **The Stillettos dig their heels in and are snapped**<br>_Kill all the members of the Stilletto Gang and pick up the password and crowbar_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04262.png) | **Never Deal with a Dragon**<br>_Defeat Drake and Save Pushkin to get the Aneki building password_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Entering the Aneki building**<br>_Clear the 1st and 2nd floor of enemies_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Aneki on the up**<br>_Clear the 3rd and 4th floor of enemies_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Top of the building**<br>_Clear the 5th floor of enemies_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04261.png) | **Free the Matrix**<br>_Destroy the AI computer and escape the Aneki Building_
+
+---
+# Item Related Achievements
+
+You can earn these by either picking up or buying specific items. You will eventually gather everything if you follow a walkthrough.
+
+### Notable Ones
+
+Image | Descriptions  | Remarks 
+----- | ------------- | --------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04266.png) | **Best equipment**<br>_Get the best gun and armour in the game_ | Buy the `AS7 Assault Cannon` and the `Full Body Suit`. They cost a total of 70,000 nuyen.
+
+### Pretty Self-Explanatory
+
+Image | Descriptions  | Image | Descriptions | Image | Descriptions 
+----- | ------------- | ----- | ------------ | ----- | ------------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03989.png) | **There's no place like home**<br>_Collect Room Key_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05121.png) | **Rent-A-Cop**<br>_Collect the Lone Star ID badge_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03994.png) | **Who you gonna call**<br>_Collect the Credstick_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03995.png) | **Enter the matrix - not yet**<br>_Collect the Cyberdeck_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03996.png) | **What a sassie minx**<br>_Pick up the ripped note with Sassies number_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03992.png) | **Bone idol**<br>_Collect the Ghoul Bone_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03710.png) | **Collared**<br>_Collect Dog Collar_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04016.png) | **Bottled it - not yet**<br>_Collect the Blue and Purple bottles_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04016.png) | **Can you see anything inside?**<br>_Collect the Black bottle_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04016.png) | **Not the meat variety**<br>_Collect the Wooden Stake_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04268.png) | **Not quite reflexology**<br>_Get the Wired Reflexes installed_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05127.png) |  **Learn a few new things**<br>_Collect the Skill Software_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04265.png) | **Strobe**<br>_Get the strobes_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04263.png) | **Boom Boom, I can't shake the room**<br>_Pick up the explosives._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04259.png) | **Armor no longer light**<br>_Buy and install the Dermal Plating_
