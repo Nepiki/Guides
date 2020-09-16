@@ -74,23 +74,23 @@ The second stage throws you against 3 of the freaky clowns. RNG plays a role her
 
 <details><summary>Spoilers</summary>
 
-**You must start the game via Training (see Training Wheels achievement) in order to complete this achievement**. There are 112 total Reptar Bars that can be collected. (Note: There may be more but thorough searching through game play, videos, walkthroughs, etc. doesn't seem to reveal more than 112.) All Reptar Bars can be found normally within the levels unless otherwise noted. The locations are as follows:
+**You must start the game via Training (see Training Wheels achievement) and collect the Reptar Bars there in order to complete this achievement**. There are 112 total Reptar Bars that can be collected. (Note: There may be more but thorough searching through game play, videos, walkthroughs, etc. doesn't seem to reveal more than 112.) All Reptar Bars can be found normally within the levels unless otherwise noted. Some levels have missable bars. The locations are as follows:
 
-* Training (6)
+* Training [m](6)
 * Pickle's Home (6)
 * Egg Hunt (4) `Collecting all the eggs in the required time earns you (3) Reptar Bars. Collecting the golden egg earns you (1) Reptar bar.`
 * Chuckie's Glasses (7)
 * Ice Cream Mountain (14) `Holes 1, 2, 3, 6, and 9 can be completed with a par of 1 thus earning you a Reptar Bar for a total of (5).`
-* No More Cookies (5) `Beat the bonus without losing to earn (3) Reptar Bars.`
+* No More Cookies [m] (5) `Beat the bonus without losing to earn (3) Reptar Bars.`
 * The Mysterious Mr. Friend (3)
-* Cookie Race (4) `Beat Angelica to win (2) Reptar bars. Collect all cookies to get (2) Reptar Bars.`
+* Cookie Race [m] (4) `Collect all cookies and beat Angelica to win (4) Reptar Bars. If you beat the level without collecting all cookies, you will only receive (2) Reptar Bars and cannot get the other (2) upon reentry.`
 * Mirrorland (5)
 * Circus Angelicus (2)
 * Grandpa's Teeth (7)
-* Touchdown Tommy (5) `Beat the bonus without losing to earn (3) Reptar Bars.`
+* Touchdown Tommy [m] (5) `Beat the bonus without losing to earn (3) Reptar Bars.`
 * Visitors from Outer Space (7)
 * Let There Be Light (7)
-* Gold Rush (4) `Collecting all the coins in the required time earns you (3) Reptar Bars. Collecting the golden coin earns you (1) Reptar bar.`
+* Gold Rush [m] (4) `Collecting all the coins in the required time earns you (3) Reptar Bars. Collecting the golden coin earns you (1) Reptar bar.`
 * 7 Voyages of Cynthia (7)
 * Toy Palace (7) `There is a Reptar Bar hidden in a unique place (see It's A Mystery achievement).`
 * Incident on Aisle 7 (7)
