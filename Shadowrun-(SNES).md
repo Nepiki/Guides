@@ -24,11 +24,13 @@ Image | Descriptions  | Remarks
 - **Story Achievements** - these cannot be missed.
 - **Beat the Arena** - There is an `Arena` in the `Caryards`. You need to beat all the stages.
 - **Collect Items** - Collect or buy certain items in the game. Non are missable.
-- **Grinding for Max-Stats and Money**
 - **Learn All Magic** - Learn all `Magic` in the game.
+- **Grinding for Max-Stats and Money**
 - **Other Miscellaneous Types**
 
-### General Tips
+---
+
+## General Tips
 
 **No need to hire Shadowrunners**
 - They die very easily and aren't that useful.
@@ -46,13 +48,14 @@ Image | Descriptions  | Remarks
 
 You will earn these just by progressing through the story. With the exception of the special ones listed first.
 
-### Special Story Achievements
+## Special Story Achievements
 
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05124.png) | **You need a weapon**<br>_Get to the caryards without a weapon._ | **:warning::warning: MISSABLE :warning::warning:**<br>Before talking to `Glutman`, remember to sell your `Beretta` to get his `Zip Gun`.
 
-### Normal Story Achievements
+## Normal Story Achievements
+
 Image | Descriptions  | Image | Descriptions | Image | Descriptions 
 ----- | ------------- | ----- | ------------ | ----- | ------------
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05122.png) | **First thing to ask about..**<br>_Add word Hitmen to the 'ask about' menu_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05122.png) | **Second thing to ask about..**<br>_Add word firearm to the 'ask about' menu by talking outside the morgue_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03990.png) | **Favourite Beverage - not today**<br>_Use Iced Tea_
@@ -61,7 +64,7 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Entering the Aneki building**<br>_Clear the 1st and 2nd floor of enemies_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Aneki on the up**<br>_Clear the 3rd and 4th floor of enemies_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Top of the building**<br>_Clear the 5th floor of enemies_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04261.png) | **Free the Matrix**<br>_Destroy the AI computer and escape the Aneki Building_
 
-### Arena Achievements
+## Beat the Arena
 
 There is an `Arena` at the `Caryards` area, you will need to beat all the stages for achievement completion. The first few stages aren't that difficult, but the last few stages can get quite tough if you aren't prepared. If you are having trouble beating the later stages, you can come back later in the game when you are better equipped. Winning the Arena will reward you with a lot of Karma and money.
 
@@ -73,17 +76,17 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04009.png) | **Two men enter, one man leaves, round 9**<br>_Beat the Troll Decker in the arena in the caryards._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04005.png) | **Two men enter, one man leaves, round 10**<br>_Beat the original Mage in the arena in the caryards._
 
 ---
-# Item Related Achievements
+# Collect Items
 
 You can earn these by either picking up or buying specific items. You will eventually gather everything if you follow a walkthrough.
 
-### Notable Ones
+## Notable Ones
 
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04266.png) | **Best equipment**<br>_Get the best gun and armour in the game_ | Buy the `AS7 Assault Cannon` and the `Full Body Suit`. They cost a total of 70,000 nuyen.
 
-### Pretty Self-Explanatory
+## Pretty Self-Explanatory
 
 Image | Descriptions  | Image | Descriptions | Image | Descriptions 
 ----- | ------------- | ----- | ------------ | ----- | ------------
@@ -92,4 +95,37 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03710.png) | **Collared**<br>_Collect Dog Collar_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04016.png) | **Bottled it - not yet**<br>_Collect the Blue and Purple bottles_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04016.png) | **Can you see anything inside?**<br>_Collect the Black bottle_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04016.png) | **Not the meat variety**<br>_Collect the Wooden Stake_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04268.png) | **Not quite reflexology**<br>_Get the Wired Reflexes installed_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05127.png) |  **Learn a few new things**<br>_Collect the Skill Software_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04265.png) | **Strobe**<br>_Get the strobes_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04263.png) | **Boom Boom, I can't shake the room**<br>_Pick up the explosives._ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04259.png) | **Armor no longer light**<br>_Buy and install the Dermal Plating_
+
+---
+# Learn All Magic
+
+Learning `Magic` involve talking to the `Dog Spirit` in the warehouse, and gathering the correct ingredients. The achievements are pretty self-expalantory as well. Just follow a walkthrough or consult a guide online.
+
+Image | Descriptions  | Image | Descriptions | Image | Descriptions 
+----- | ------------- | ----- | ------------ | ----- | ------------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04244.png) | **Relieve the pain**<br>_Receive the Heal spell from the Dog Spirit_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04244.png) | **Where'd you go?**<br>_Receive the Invisibility Spell from the Dog Spirit_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04244.png) | **It comes out like a powerball**<br>_Receive the Powerball spell from the Dog Spirit_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04244.png) | **Stay cool!**<br>_Receive the Freeze spell from the Dog Spirit_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04244.png) | **Rise from your grave**<br>_Receive the Summon Spirit spell from the Dog Spirit_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04244.png) | **This magic is like a shield of steel**<br>_Receive the Armor spell from the Dog Spirit_
+
+---
+# Grinding for Max-Stats and Money
+
+## Money Achievements
+
+The grind for money will come naturally when you are winning the Arena, or when grinding to buy the best weapon and armor.
+
+Image | Descriptions  | Image | Descriptions | Image | Descriptions 
+----- | ------------- | ----- | ------------ | ----- | ------------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/01602.png) | **What a (just over a) grand old time**<br>_Get at least 1024 Nuyen_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/01602.png) | **5 grand in the bag**<br>_Get over 5000 Nuyen_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/01602.png) | **You've hit five figures**<br>_Get over 10000 Nuyen_
+
+## Max-Stats Achievements
+
+You will need A LOT of Karma to max all the stats. Not all stats are important in the game, and not all stats are important after a certain point. To save time on grinding, please refer to the General Tips section.
+
+Image | Descriptions  | Image | Descriptions | Image | Descriptions 
+----- | ------------- | ----- | ------------ | ----- | ------------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **That doesn't hurt anymore**<br>_Max out the Heal stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **The complete body**<br>_Max the Body Stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **The most powerful spells**<br>_Max out the Magic Stat_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **I AM STRONG!**<br>_Max out the Strength stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **You love me**<br>_Max out the Charisma stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **Shooter**<br>_Max out the Firearms stat_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **Nearly Anonymous**<br>_Max out the Computer stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **Ryu Wannabe**<br>_Max out the Powerball stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **You can't see me**<br>_Max out the Invisibility stat_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **You can't touch this**<br>_Max out the Armor stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **Reverse Ghost Buster**<br>_Max out the Summon Spirit stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **Stop. Freezing time**<br>_Max out the Freeze stat_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **Leader of the pack**<br>_Max out the Leadership stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **I'd buy that for a dollar**<br>_Max out Negotiation_
 
