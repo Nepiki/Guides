@@ -21,6 +21,7 @@ List of guides sorted by platform
 
 ### SNES
 * [Illusion of Gaia](https://github.com/RetroAchievements/guides/wiki/Illusion-of-Gaia-(SNES)) - [RA Link](https://retroachievements.org/game/945)
+* [Shadowrun](https://github.com/RetroAchievements/guides/wiki/Shadowrun-(SNES)) - [RA Link](https://retroachievements.org/game/566)
 * [Soul Blazer](https://github.com/RetroAchievements/guides/wiki/Soul-Blazer-(SNES)) - [RA Link](http://retroachievements.org/game/1168)
 * [Super Mario RPG: Legend of the Seven Stars](https://github.com/RetroAchievements/guides/wiki/Super-Mario-RPG:-Legend-of-the-Seven-Stars-(SNES)) - [RA Link](https://retroachievements.org/game/471)
 
