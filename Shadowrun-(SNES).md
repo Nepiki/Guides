@@ -26,7 +26,7 @@ Image | Descriptions  | Remarks
 - **Collect Items** - Collect or buy certain items in the game. Non are missable.
 - **Learn All Magic** - Learn all `Magic` in the game.
 - **Grinding for Max-Stats and Money**
-- **Other Miscellaneous Types**
+- **Miscellaneous Achievements**
 
 ---
 
@@ -53,6 +53,9 @@ You will earn these just by progressing through the story. With the exception of
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05124.png) | **You need a weapon**<br>_Get to the caryards without a weapon._ | **:warning::warning: MISSABLE :warning::warning:**<br>Before talking to `Glutman`, remember to sell your `Beretta` to get his `Zip Gun`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04243.png) | **You dirty rat**<br>_Clear The sewers of rats and the Rat Shamen_ | The `Rat Shaman` is one of the boss in the main story. This achievement needs special attention because you will also need to kill all the `Rats` in the sewers, not just the boss.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04264.png) | **Jake Armitage - Vampire Hunter**<br>_Clear the upper floor of the Dark Blade club of members and pick up the key_ | The `Dark Blade Club` is a building you will enter in the main story. This achievement needs special attention because you will also need to kill everyone in the upper floor. Be aware that you will also need to re-enter the room where you talk to the boss.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04245.png) | **You jest**<br>_Clear Bremerton and the other dimension and pick up all the items._ | `Bremerton` is a place you will visit during the main story. This needs special attention because you will also need to kill every enemy and obtain every item in the area, including the useless `Broken Bottle` item, and the mini-boss dragon in the other dimension.
 
 ## Normal Story Achievements
 
@@ -62,7 +65,7 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03703.png) | **It's dark and I'm wearing sunglasses**<br>_Find and put on the shades_  | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03993.png) | **Going to a concert**<br>_Use the Maria Mercurial tickets_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05125.png) | **Mind not blown**<br>_Get the Cortex bomb removed_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04042.png) | **Time to find the door**<br>_Kill the orc and get the iron key_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04044.png) | **The Stillettos dig their heels in and are snapped**<br>_Kill all the members of the Stilletto Gang and pick up the password and crowbar_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04262.png) | **Never Deal with a Dragon**<br>_Defeat Drake and Save Pushkin to get the Aneki building password_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Entering the Aneki building**<br>_Clear the 1st and 2nd floor of enemies_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Aneki on the up**<br>_Clear the 3rd and 4th floor of enemies_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04260.png) | **Top of the building**<br>_Clear the 5th floor of enemies_
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04261.png) | **Free the Matrix**<br>_Destroy the AI computer and escape the Aneki Building_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04261.png) | **Free the Matrix**<br>_Destroy the AI computer and escape the Aneki Building_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03991.png) | **The Shamen is Goode**<br>_Save the Shamens life in the crypt._| ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04182.png) | **Empty out Drakes tower**<br>_Clear Drake Towers of all the enemies_
 
 ## Beat the Arena
 
@@ -85,6 +88,7 @@ You can earn these by either picking up or buying specific items. You will event
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04266.png) | **Best equipment**<br>_Get the best gun and armour in the game_ | Buy the `AS7 Assault Cannon` and the `Full Body Suit`. They cost a total of 70,000 nuyen.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05126.png) | **Some light reading**<br>_Collect all the DF files from the various computers in the game_ | DF files can be obtained by hacking into `Computers` using your `Cyberdeck`. There are a total of 12 DF files in the game (one of them are combined from 4 different DF fragments).
 
 ## Pretty Self-Explanatory
 
@@ -129,3 +133,17 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **You can't touch this**<br>_Max out the Armor stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **Reverse Ghost Buster**<br>_Max out the Summon Spirit stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **Stop. Freezing time**<br>_Max out the Freeze stat_
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **Leader of the pack**<br>_Max out the Leadership stat_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/03702.png) | **I'd buy that for a dollar**<br>_Max out Negotiation_
 
+---
+# Miscellaneous Achievements
+
+Image | Descriptions  | Remarks 
+----- | ------------- | --------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04267.png) | **Lets run together**<br>_Hire your first Shadowrunner_ | Self-explanatory.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05673.png) | **Who is this Shadowrunner?**<br>_Get to ask about Akimi in the word list_ | Self-explanatory.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04181.png) | **Take out the tentacles**<br>_Beat the octopus and collect the ink_ | The `Octopus` is a boss in a warehouse near the `Docks`. You will need to collect the ink to learn a `Magic` so you will get this naturally when collecting the Magic Achievements.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04258.png) | **Gold Naga**<br>_Defeat the Gold Naga and collect the Serpent Scales._ | The `Gold Naga` is an optional boss in the game. You will need the `Serpent Scales` to learn one of the `Magic`, so you will get this naturally when collecting the Magic Achievements.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/04267.png) | **Hiring all the runners**<br>_Hire all the Shadowrunners in one session_ | **:warning::warning: MISSABLE :warning::warning:**<br>`Spatter` will betray you and NEVER join you again if he is with you when you reach 4th floor of `Drake Tower`, and you will only be able to hire `Akimi` after clearing the `Drake Tower`.<br><br>To earn this achievement, easiest way is to save up enough money to hire everyone in one go, then just hire-kill-hire-kill everyone one by one in the same session.
+
+---
+### Credits
+Achievement Guide by shauntmw
