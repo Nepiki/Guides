@@ -76,7 +76,7 @@ The second stage throws you against 3 of the freaky clowns. RNG plays a role her
 
 **You must start the game via Training (see Training Wheels achievement) and collect the Reptar Bars there in order to complete this achievement**. There are 112 total Reptar Bars that can be collected. (Note: There may be more but thorough searching through game play, videos, walkthroughs, etc. doesn't seem to reveal more than 112.) All Reptar Bars can be found normally within the levels unless otherwise noted. Some levels have missable bars. The locations are as follows:
 
-* Training [m](6)
+* Training [m] (6)
 * Pickle's Home (6)
 * Egg Hunt (4) `Collecting all the eggs in the required time earns you (3) Reptar Bars. Collecting the golden egg earns you (1) Reptar bar.`
 * Chuckie's Glasses (7)
