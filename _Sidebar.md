@@ -6,8 +6,8 @@ RAGuides Directory
 * Lynx
 
 ## Nintendo
-* NES / Famicom
-* SNES / Super Famicom
+* [NES / Famicom](https://github.com/RetroAchievements/guides/wiki/NES)
+* [SNES / Super Famicom](https://github.com/RetroAchievements/guides/wiki/SNES)
 * Nintendo 64
 * GameBoy
 * GameBoy Color
