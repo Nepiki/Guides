@@ -28,7 +28,14 @@ There are currently **23 achievements** worth a total of **390 points**.
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/136844.png) **[Tee-rrific](https://retroachievements.org/achievement/124410)** _~Get a hole-in-one._
 
-<details><summary>Spoilers</summary>There are five holes that a hole-in-one can be gotten on: Hole 1, Hole 2, Hole 3, Hole 6, and Hole 9. Hole 1 is the easiest as it's a straight shot that requires only about 80% power.</details>
+<details><summary>Spoilers</summary>
+
+There are five holes that a hole-in-one can be gotten on: Hole 1, Hole 2, Hole 3, Hole 6, and Hole 9.
+* Hole 1: `Aim straight and shoot with about 75% power for a hole-in-one.`
+* Hole 2: `Aim to the left of the hole using the letter 'c' closest to the flag as a guide (you'll want to aim at the left side of the 'c') and use 100% power to get a hole-in-one.`
+* Hole 3: `Aim straight, press triangle as soon as the door begins to close from open position, and shoot at 100% power to get a hole-in-one.`
+* Hole 6: `When aiming, go two brick blocks over to the left of the flag. To the right of that block is a purple Saturn on the wall. Aim at the left edge of the Saturn and shoot at 100% power for a hole-in-one.`
+* Hole 9: `When aiming, check for the first chocolate ice cream bar to the left of the hole. Aim just to the right of its popsicle stick and shoot at 100% for a hole-in-one. This can be done in other ways, but this tends to be the easiest method.`</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/136845.png) **[Tomb Invader](https://retroachievements.org/achievement/124410)** _~Find and destroy the pyramid monster._
 
@@ -36,7 +43,7 @@ There are currently **23 achievements** worth a total of **390 points**.
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/136846.png) **[Free Ice Cream](https://retroachievements.org/achievement/124410)** _~Get a hole-in-one on Hole 9._
 
-<details><summary>Spoilers</summary>(video tutorial coming soon) Mainly annoying due to the finicky nature of how hard the golf ball is actually hit, the hills, and the fact that you have to replay through the entire course if you mess up. On occasion it seems a full-powered swing slightly off-centered towards the right will land you a hole-in-one.</details>
+<details><summary>Spoilers</summary> When aiming, check for the first chocolate ice cream bar to the left of the hole. Aim just to the right of its popsicle stick and shoot at 100% for a hole-in-one. This can be done in other ways, but this tends to be the easiest method. (video tutorial coming soon)</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/136866.png) **[Stranger Danger](https://retroachievements.org/achievement/124410)** _~Defeat Mr. Friend without taking damage._
 
@@ -44,9 +51,11 @@ There are currently **23 achievements** worth a total of **390 points**.
 
 The first stage of the fight is easy, just do as the game suggests and knock out the first Mr. Friend with cans lying around (avoid using balls - they bounce back and can damage you).
 
-The second stage throws you against 3 of the freaky clowns. Sometimes one or two of the Mr. Friends is freakishly fast. Now for the fun part. You'll notice they're somewhat invincible to having stuff tossed at them. The game recommends you kick them but don't do that as sometimes the kick is delayed and they'll get a hit on you.
+The second stage throws you against 3 of the freaky clowns. Sometimes one or two of the Mr. Friends is freakishly fast. Now for the fun part. You'll notice they're somewhat invincible to having stuff tossed at them. The game recommends you kick them but I don't recommend that as sometimes the kick is delayed and they'll get a hit on you.
 
-First you'll want to take out one of the Friends with cans; focus on one of the fast ones if able. Once the first one is down, cans are no longer useful. I found that jumping at them with well-timed jumps will allow you to bowl them over without getting hurt. Take out your second one with this tactic. The last one is trickier. By this point I had trouble getting a good timed jump. It seemed like no matter what I kept getting hit. There is a box out in the open near the stairs that you can climb onto. Once you're on top of that box, Mr. Friend can't climb up since you're in the way and he can't hurt you because you're too high. Simply jump down onto his head and he'll get knocked back. Repeat until you explode the last clown to bits. (You may be able to use the box technique from the get-go.)</details>
+First you'll want to take out one of the Friends with cans; focus on one of the fast ones if able. Once the first one is down, cans are no longer useful. I found that jumping at them with well-timed jumps will allow you to bowl them over without getting hurt. Take out your second one with this tactic. The last one is trickier. By this point I had trouble getting a good timed jump. It seemed like no matter what I kept getting hit. There is a box out in the open near the stairs that you can climb onto. Once you're on top of that box, Mr. Friend can't climb up since you're in the way and he can't hurt you because you're too high. Simply jump down onto his head and he'll get knocked back. Repeat until you explode the last clown to bits. (You may be able to use the box technique from the get-go.)
+
+There are other ways to accomplish this. Some people manage to use the kick. This is just what worked for me in the end.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/136847.png) **[Easy Peasy Lemon Squeezy](https://retroachievements.org/achievement/124410)** _~Beat all 3 Easy levels._
 
@@ -122,13 +131,21 @@ Levels:
 
 <details><summary>Spoilers</summary>
 
-**You must start the game via Training (see Training Wheels achievement) and collect the Reptar Bars there in order to complete this achievement**. There are 112 total Reptar Bars that can be collected. (Note: There may be more but thorough searching through game play, videos, walkthroughs, etc. doesn't seem to reveal more than 112.) All Reptar Bars can be found normally within the levels unless otherwise noted. Some levels have missable bars. The locations are as follows:
+**You must enter Training (see Training Wheels achievement), collect the Reptar Bars there, and then start the game by going through the Training area's EXIT in order to complete this achievement**. There are 112 total Reptar Bars that can be collected. (Note: There may be more but thorough searching through game play, videos, walkthroughs, etc. doesn't seem to reveal more than 112.) All Reptar Bars can be found normally within the levels unless otherwise noted. Some levels have missable bars. The locations are as follows:
 
 * Training [m] (6)
 * Pickle's Home (6)
-* Egg Hunt (4) `Collecting all the eggs in the required time earns you (3) Reptar Bars. Collecting the golden egg earns you (1) Reptar bar.`
+* Egg Hunt (4) `Collecting all the eggs in the required time earns you (3) Reptar Bars. Collecting the golden egg earns you an additional (1) Reptar Bar.`
 * Chuckie's Glasses (7)
-* Ice Cream Mountain (14) `Holes 1, 2, 3, 6, and 9 can be completed with a par of 1 thus earning you a Reptar Bar for a total of (5).`
+* Ice Cream Mountain: Hole One (1) `Get a hole-in-one. (see Tee-rrific achievement)`
+* Ice Cream Mountain: Hole Two (1) `Get a hole-in-one. (see Tee-rrific achievement)`
+* Ice Cream Mountain: Hole Three (1) `Get a hole-in-one. (see Tee-rrific achievement)`
+* Ice Cream Mountain: Hole Four (1)
+* Ice Cream Mountain: Hole Five (1)
+* Ice Cream Mountain: Hole Six (1) `Get a hole-in-one. (see Tee-rrific achievement)`
+* Ice Cream Mountain: Hole Seven (1)
+* Ice Cream Mountain: Hole Eight (11)
+* Ice Cream Mountain: Hole Nine (1) `Get a hole-in-one. (see Tee-rrific achievement)`
 * No More Cookies [m] (5) `Beat the bonus without losing to earn (3) Reptar Bars.`
 * The Mysterious Mr. Friend (3)
 * Cookie Race [m] (4) `Collect all cookies and beat Angelica to win (4) Reptar Bars. If you beat the level without collecting all cookies, you will only receive (2) Reptar Bars and cannot get the other (2) upon reentry.`
@@ -145,10 +162,8 @@ Levels:
 </details>
 
 ## End
-I hope this guide has been helpful.
-
-Achievements by: Flawestruck
-
-Achievement badges by: Flawestruck & SayuMyers
-
-Guide by: Flawestruck
+I hope this guide has been helpful!
+* > Achievements by: Flawestruck
+* > Achievement badges by: Flawestruck & SayuMyers
+* > Guide by: Flawestruck
+* > Hole-in-one tips courtesy of: Craymeco
