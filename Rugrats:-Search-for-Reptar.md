@@ -10,7 +10,7 @@ Press select when inside a level in order to restart the level without having to
 
 ## Achievement Summary
 
-There are currently **23 achievements** worth a total of **440 points**.
+There are currently **23 achievements** worth a total of **390 points**.
 
 ## Achievements Guide (Spoilers)
 
@@ -36,7 +36,7 @@ There are currently **23 achievements** worth a total of **440 points**.
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/136846.png) **[Free Ice Cream](https://retroachievements.org/achievement/124410)** _~Get a hole-in-one on Hole 9._
 
-<details><summary>Spoilers</summary>Mainly annoying due to the finicky nature of how hard the golf ball is actually hit, the hills, and the fact that you have to replay through the entire course if you mess up. On occasion it seems a full-powered swing slightly off-centered towards the right will land you a hole-in-one.</details>
+<details><summary>Spoilers</summary>(video tutorial coming soon) Mainly annoying due to the finicky nature of how hard the golf ball is actually hit, the hills, and the fact that you have to replay through the entire course if you mess up. On occasion it seems a full-powered swing slightly off-centered towards the right will land you a hole-in-one.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/136866.png) **[Stranger Danger](https://retroachievements.org/achievement/124410)** _~Defeat Mr. Friend without taking damage._
 
