@@ -177,7 +177,7 @@ This cannot be missed; you need to get through the vents to get through the game
 _Acquire the Gamma Gun._
 
 
-This one can be easily missed. The Gamma gun is in the vents and if you leave, it can be hard to get back. Refer to this map to lead you to the Gamma Gun. [Gamma Gun Map from GameFaqs] ( https://gamefaqs.gamespot.com/nes/587304-ghoul-school/map/5387?raw=1)
+This one can be easily missed. The Gamma gun is in the vents and if you leave, it can be hard to get back. Refer to this map to lead you to the Gamma Gun. [Gamma Gun Map from GameFaqs]( https://gamefaqs.gamespot.com/nes/587304-ghoul-school/map/5387?raw=1)
 
 
 ***
