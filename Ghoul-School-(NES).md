@@ -3,7 +3,7 @@
 Set Difficulty: 4/10  
 Approximate time to Master: 2-3 hours  
 Minimum Number of Playthroughs Needed: 2  
-Number of Missable Achievements: 6  
+Number of Missable Achievements: 9  
 Does Difficulty Affect Achievements?: N/A
 
 ## 2) Introduction
