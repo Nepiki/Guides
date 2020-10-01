@@ -17,6 +17,7 @@ List of guides sorted by platform
 ### NES
 * [Blaster Master](https://github.com/RetroAchievements/guides/wiki/Blaster-Master-(NES)) - [RA Link](http://retroachievements.org/game/1459)
 * [Kid Icarus](https://github.com/RetroAchievements/guides/wiki/Kid-Icarus-(NES)) - [RA Link](http://retroachievements.org/game/1478)
+* [Ghoul School](https://github.com/RetroAchievements/guides/wiki/Ghoul-School-(NES)) - [RA Link](https://retroachievements.org/game/1711)
 * [Robin Hood - Prince of Thieves](https://github.com/RetroAchievements/guides/wiki/Robin-Hood:-Prince-of-Thieves-(NES)) - [RA Link](http://retroachievements.org/game/1913)
 
 ### SNES
@@ -41,6 +42,9 @@ List of guides sorted by platform
 ### Game Gear
 * [Last Action Hero](https://github.com/RetroAchievements/guides/wiki/Last-Action-Hero-(Game-Gear)) - [RA Link](https://retroachievements.org/achievement/95081)
 * [Tama and Friends Sanchoume Kouen - Tamalympic](https://github.com/RetroAchievements/guides/wiki/Tama-and-Friends-Sanchoume-Kouen---Tamalympic-(Game-Gear)) - [RA Link](http://retroachievements.org/game/12524)
+
+### PC Engine
+* [Legend of Hero Tonma](https://github.com/RetroAchievements/guides/wiki/Legend-of-Hero-Tonma-(PC-Engine)) - [RA Link](https://retroachievements.org/game/2303)
 
 ### PlayStation
 * [Suikoden](https://github.com/RetroAchievements/guides/wiki/Suikoden-(PlayStation)) - [RA Link](http://retroachievements.org/game/11255)
