@@ -1,9 +1,9 @@
 RAGuides Directory
 ## Atari
-* 2600
-* 7800
-* Jaguar
-* Lynx
+* [2600](https://github.com/RetroAchievements/guides/wiki/Atari-2600)
+* [7800](https://github.com/RetroAchievements/guides/wiki/Atari-7800)
+* [Jaguar](https://github.com/RetroAchievements/guides/wiki/Atari-Jaguar)
+* [Lynx](https://github.com/RetroAchievements/guides/wiki/Atari-Lynx)
 
 ## Nintendo
 * [NES / Famicom](https://github.com/RetroAchievements/guides/wiki/NES)
