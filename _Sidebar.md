@@ -9,7 +9,7 @@ RAGuides Directory
 * [NES / Famicom](https://github.com/RetroAchievements/guides/wiki/NES)
 * [SNES / Super Famicom](https://github.com/RetroAchievements/guides/wiki/SNES)
 * [Nintendo 64 / 64DD](https://github.com/RetroAchievements/guides/wiki/Nintendo-64)
-* GameBoy
+* [GameBoy](https://github.com/RetroAchievements/guides/wiki/Game-Boy)
 * GameBoy Color
 * GameBoy Advance
 * Nintendo DS
