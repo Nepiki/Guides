@@ -1,3 +1,9 @@
+**[OUTDATED GUIDE]**  
+*Since this guide, Red and Blue have been merged with a revision, and Yellow has had a revision as well.*  
+*If/when this guide is updated, please use this for Red/Blue, and make another for Yellow.*
+
+***
+
 Pokémon [Red](http://retroachievements.org/game/724) / [Blue](http://retroachievements.org/game/586) / [Yellow](http://retroachievements.org/game/723)  game pages
 
 Currently the three Gen 1 sets are identical and this guide is made for that scenario. There are talks of a revision for the games and if so the guide will be updated.
