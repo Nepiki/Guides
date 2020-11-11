@@ -19,6 +19,8 @@ List of guides sorted by platform
 * [Kid Icarus](https://github.com/RetroAchievements/guides/wiki/Kid-Icarus-(NES)) - [RA Link](http://retroachievements.org/game/1478)
 * [Ghoul School](https://github.com/RetroAchievements/guides/wiki/Ghoul-School-(NES)) - [RA Link](https://retroachievements.org/game/1711)
 * [Robin Hood - Prince of Thieves](https://github.com/RetroAchievements/guides/wiki/Robin-Hood:-Prince-of-Thieves-(NES)) - [RA Link](http://retroachievements.org/game/1913)
+* [~Hack~-Toadette's-Christmas-Adventure-(NES)](https://github.com/RetroAchievements/guides/wiki/~Hack~-Toadette's-Christmas-Adventure-(NES)) - [RA Link](http://retroachievements.org/game/9112)
+
 
 ### SNES
 * [Illusion of Gaia](https://github.com/RetroAchievements/guides/wiki/Illusion-of-Gaia-(SNES)) - [RA Link](https://retroachievements.org/game/945)
