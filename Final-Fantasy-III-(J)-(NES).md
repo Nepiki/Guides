@@ -105,6 +105,11 @@ This following guide is based on the work written in this GameFAQs strategy: [Th
 
 In conclusion, the Onion equipment grind isn't fun, but hopefully this process makes it a little more bearable.
 
+&nbsp;&nbsp;&nbsp;&nbsp;!["LV65" text](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/124009.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;!["Skill 99" text](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44181.png)
+<br>[Overqualified](https://retroachievements.org/Achievement/43077) and [Top of the Class](https://retroachievements.org/Achievement/43078)
+
+These achievements have been brought up several times already across this guide. To summarize, the first floor of the Cave of Bahamut is the ideal location for grinding. The enemies that appear here, Drakes(Pterosaur) and Grenades, are low risk with high experience point output. The largest encounter group I saw was two Drakes with three Grenades, which can net you 4750 experience points per character. Pacing on the first floor by the entrance allows quick access to the Invincible for healing and saving your progress. Grenades are probably the scariest monster of the pair, but as you get stronger, their explosions shouldn't kill a character and you'll kill them before they have a chance to do so. Using Syrcus(Sylx) Tower is not recommended because the encounter sizes aren't as big and the risk is greater (seriously... Kum Kums(QumQum) are the absolute worst).
+
 ## Miscellaneous Achievements
 
 ## Credits
