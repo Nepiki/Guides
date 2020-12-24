@@ -1,4 +1,5 @@
-***Show banner here***
+# Final Fantasy III (J)
+![Box art for the Famicom version of Final Fantasy III](https://retroachievements.org/Images/005697.png)
 
 ## About
 This is not an official manual, walkthrough or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/game/5553). This guide will give the player tips on earning the achievements, hash compatibility and any other necessary or useful information.
