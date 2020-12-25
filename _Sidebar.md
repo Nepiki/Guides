@@ -6,11 +6,11 @@ RAGuides Directory
 * [Lynx](https://github.com/RetroAchievements/guides/wiki/Atari-Lynx)
 
 ## Nintendo
-* [NES / Famicom](https://github.com/RetroAchievements/guides/wiki/NES)
-* [SNES / Super Famicom](https://github.com/RetroAchievements/guides/wiki/SNES)
+* [NES / FDS](https://github.com/RetroAchievements/guides/wiki/NES)
+* [SNES](https://github.com/RetroAchievements/guides/wiki/SNES)
 * [Nintendo 64 / 64DD](https://github.com/RetroAchievements/guides/wiki/Nintendo-64)
 * [GameBoy](https://github.com/RetroAchievements/guides/wiki/Game-Boy)
-* GameBoy Color
+* [GameBoy Color](https://github.com/RetroAchievements/guides/wiki/Game-Boy-Color)
 * GameBoy Advance
 * Nintendo DS
 * Virtual Boy
@@ -42,3 +42,4 @@ RAGuides Directory
 * Neo Geo Pocket / Color
 * Vectrex
 * WonderSwan / Color
+* Magnavox Odyssey 2
