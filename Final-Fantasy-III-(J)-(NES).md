@@ -12,14 +12,39 @@ It will appear like this, as an example:
 This is not an official manual, walkthrough or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/game/5553). This guide will give the player tips on earning the achievements, hash compatibility and any other necessary or useful information.
 
 ## Introduction	
+Final Fantasy III is a role-playing video game developed and published by Square for the Family Computer. Released in Japan in 1990, it was the third installment in the Final Fantasy series. It is the first numbered Final Fantasy game to feature the job-change system. The story revolves around four orphaned youths drawn to a crystal of light. The crystal grants them some of its power, and instructs them to go forth and restore balance to the world. Not knowing what to make of the crystal's pronouncements, but nonetheless recognizing the importance of its words, the four inform their adoptive families of their mission and set out to explore and bring back balance to the world.
 
-## Trivia	
+This game further establishes many of the Final Fantasy series norms that were set in Final Fantasy II, such as chocobos, expanded character classes, and familiar spells, while also bringing back the experience point system of the first game. Additionally, certain features of Final Fantasy IV, such as the limited inventory slots, Fat Chocobo, and summon spells, started in this game.
+
+## Trivia
+* Final Fantasy III was first officially released outside of Japan with the Nintendo DS 3D remake in 2006. The Famicom version was released on Wii and Wii U Virtual Consoles, but only in Japan. Therefore, the Famicom version with translation hacks is the only way to play the original game.
+* A 2D remake was initially in the works for the WonderSwan Color. However, due to cartridge storage sizes for the system and programming complications, Square was only able to produce remakes for Final Fantasy I and II for the system.
+* The game earned the third highest score in _Famitsu_ the year of its release, scoring a 36 out of 40, which was one point less than F-Zero and Dragon Quest IV.
+* The overworld theme, Eternal Wind, has appeared in several other Final Fantasy games, such as during the opening movie of the Shadowbringers expansion of Final Fantasy XIV and a bard in the Dead Dunes town of Ruffian sings a version with lyrics in Lightning Returns: Final Fantasy XIII.
 
 ## Save Support
+The game uses a battery to save game data across three slots. Players can save the game at any time while on the overworld map to any one of the three slots.
 
 ## Compatibility
+Currently this game has 14 unique ROM(s) registered for it with the following MD5s:
+
+03440bd306fb71bdd7603f766624501d
+08cb8dee02e371b2659316a78f36a258
+14c569e7d65c8f8a2a967f6bbaa5a52c - Chaos Rush w/ FF6 Font (this is what I mastered the set with)
+2e517105c0084e36a8e7d47f941a2c8c - Chaos Rush (original font)
+301ce423ffecdb1c4d6c94ce025ceaf1
+413c9600bc772410f85af5b034b99a78
+45a7d02ed0dc92665a30da1d9b4af35d - Untranslated
+928080eca8ebbe744f0cb3b618083d76
+94c6a27300859e0c88768690eaf3cf6f - 1999 SoM2Freak translation v2.0
+995255f37684fd53b4b1d6466462333d
+9d3721774f1423a58a9c9a9e30fb8f94 - Bra1.0
+a86bce72d54407e7e6e6fc952eef49df - Ita0.2
+b0fba7a0382c67e045d8b9fb70f8e01d - Fre1.0
+c0f52e4d575244bf1870e128c1e5e613
 
 ## Leaderboards
+There are no leaderboards currently associated with the game.
 
 ## Achievements Breakdown
 There are a total of 77 achievements, which can be broken down into the following categories:
