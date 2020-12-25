@@ -1,0 +1,5 @@
+List of Guides (Alphabetical) 
+|Game|Guide|RA Page|
+|:--|:--:|:--:|
+|Legend of Zelda, The: Link's Awakening DX|[[m]](https://github.com/RetroAchievements/guides/wiki/Legend-of-Zelda,-The:-Links-Awakening-DX-(Game-Boy-Color))|[5371](https://retroachievements.org/game/5371)|
+|Pokemon Pinball|[Full](https://github.com/RetroAchievements/guides/wiki/Pokemon-Pinball-(Game-Boy-Color))|[725](https://retroachievements.org/game/725)|
