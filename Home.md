@@ -20,6 +20,9 @@ List of platforms with guides
 * [Game Boy](https://github.com/RetroAchievements/guides/wiki/Game-Boy)
 * [Game Boy Color](https://github.com/RetroAchievements/guides/wiki/Game-Boy-Color)
 
+* Game Boy Advance
+> [~Pokemon Glazed~](https://github.com/RetroAchievements/guides/wiki/~Hack~-Pok%C3%A9mon-Glazed-(GameBoy-Advance)) - [RA Link](https://retroachievements.org/game/6353)
+
 * Game Gear
 > [Last Action Hero](https://github.com/RetroAchievements/guides/wiki/Last-Action-Hero-(Game-Gear)) - [RA Link](https://retroachievements.org/achievement/95081)  
 > [Tama and Friends Sanchoume Kouen - Tamalympic](https://github.com/RetroAchievements/guides/wiki/Tama-and-Friends-Sanchoume-Kouen---Tamalympic-(Game-Gear)) - [RA Link](http://retroachievements.org/game/12524)  
