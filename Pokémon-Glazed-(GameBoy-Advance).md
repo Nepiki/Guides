@@ -579,3 +579,96 @@ At the first screen of the Path of Victory, enter the house on your right and fi
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64882.png) [Egg Surprise (1)]( https://retroachievements.org/Achievement/61047)   
 _Receive an Egg as a gift from Mr. Pokemon_
+
+Head to Mr. Pokemon north from Cherrygrove City to receive an egg. Make sure to have at least one free space in your party.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64890.png) [Bell Toll (1)]( https://retroachievements.org/Achievement/61048)   
+_Obtain Bounce skill from Sprout Tower_
+
+Head to the top of the Sprout Tower in Violet City and have the guru learn Bounce to a Pokemon.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64888.png) [Sing Along (1)]( https://retroachievements.org/Achievement/61051)   
+_Obtain a prize by defeating the Kimono Girls_
+
+Defeat all of the Kimono Girls in Ecruteak City, then talk to the man sitting at a table. Approach him from the south as he's glitched.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64883.png) [Gambling Is Bad (1)]( https://retroachievements.org/Achievement/61059)   
+_Obtain A Rare Pokemon in a bet with a fisherman_
+
+After resolving the issues in Goldenrod City/Ilex Forest, take the north exit of Goldenrod City and talk with the fisherman near the water for a duel. Make to to have at least one free space in your party.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65794.png) [Bridge Challenge (1)]( https://retroachievements.org/Achievement/61059)   
+_Obtain A lucky egg from Bridgette_
+
+Upon entering the Cianwood Bridge, a woman will stop you and ask you to beat all trainers on the bridge. After doing so, return to her for your prize.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65784.png) [TM Burner (1)]( https://retroachievements.org/Achievement/61129)   
+_Burn A CD_
+
+Take a Blank CD to the house on the west side of Evergreen Town. These can be found all over the world, but the lady in the same building as the TM burner also gives you one.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65776.png) [Surf's Up (1)]( https://retroachievements.org/Achievement/61130)   
+_Place in a Surfing Race_
+
+Go to Evergreen Town and talk to the woman in the bottom left on the docks. She will place you in a surfing race which should unlock the achievement right away.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65754.png) [Hidden Powers (1)]( https://retroachievements.org/Achievement/61149)   
+_Obtain Hidden Power_
+
+Take the HM Cut with you and travel on the left side of the Lake of Rage to reach a house with a man inside who teaches Hidden Power.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65764.png) [Mega Change (1)]( https://retroachievements.org/Achievement/61204)   
+_Mega Evolve Charizard_
+
+Go to Nitro Isle and approach the mega monument from the right (the blue part) to obtain a Mega Stone X, and use this on Charizard. Charizard must become Mega Charizard X, otherwise the achievement won't unlock.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65799.png) [Finders Keepers (1)]( https://retroachievements.org/Achievement/61206)   
+_Steal A certain Pokemon in Rankor_
+
+Every Rankor gym leader has a Pokemon in their house that can be stolen, but the one for the achievement is on Kolo Isle.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65771.png) [Red Magma (10)]( https://retroachievements.org/Achievement/61304)   
+_Defeat Red_
+
+After catching Heatran, go back to Mt. Silver to fight Red. To initiate the Mt. Silver sidequest, you have to go to the top of the Johto Victory Road after being the Johto League and encounter Lance. Keep in mind that the ladder in the victory road are glitched and require Dive to be traversed. The HMs Surf and Rock Climb are also needed.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64865.png) [Lighthouse Champion (5)]( https://retroachievements.org/Achievement/60992)   
+_Complete the Lighthouse Challenge_
+
+Enter the Lighthouse Challenge on Serenity Isle and battle your way to the top. There are a total of eight trainers, with Pokemon levels around 20-23.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64887.png) [Olivine Lighthouse Champion (5)]( https://retroachievements.org/Achievement/61054)   
+_Complete the Lighthouse Challenge in Olivine City_
+
+Enter the Lighthouse Challenge in Olivine City and battle your way to the top. There are a total of eight trainers, with Pokemon levels around 60-65.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64884.png) [Another Starter... (1)]( https://retroachievements.org/Achievement/61057)   
+_Obtain a starter pokemon (Kanto Region)_
+
+Talk to Professor Oak in the trade building in Goldenrod City. Make sure to have at least one free space in your party.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65792.png) [A New Grand Champion (25)]( https://retroachievements.org/Achievement/61700)   
+_Defeat Grand Champion Percy with A single Pokemon (Tunod League Rematch)_
+
+See Soul Keeper Master (25)
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65791.png) [A New Grand Champion Again... (25)]( https://retroachievements.org/Achievement/61701)   
+_Defeat Grand Champion Kris with A single Pokemon (Johto League Rematch)_
+
+See Soul Keeper Master (25)
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65774.png) [Soul Keeper Master (25)]( https://retroachievements.org/Achievement/61702)   
+_Defeat The Champion Soul in a Rematch with A single Pokemon_
+
+For this achievement, you have to beat all three champions with a single Pokemon in your party. This means that you have to battle your way through the Elite Four for Tunod and Johto with one Pokemon as well. There are probably very easy methods to do this that I'm not aware of, but this is what I have done:
+
+I captured Arceus (a level 100 Pokemon) and made him obey me through the Obedience Master in Cianwood City. Then, I gave Arceus all the vitamins like Protein, HP UP etc. and also a Leftovers as the equipped item. The moves I learned Arceus was Thunderbolt, Flamethrower, Dragon Claw and Earthquake. I also bought all the stat-boosting items from the Goldenrod City Department Store (Dire Hit etc.). With all this prepared, the Elite Four and Champions were pretty easy to deal with. Make sure to bring a lot of Full Restore as well, as you probably have more than enough money by this point.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65800.png) [Gotta Catch em' All - Glazed (50)]( https://retroachievements.org/Achievement/61702)   
+_Open your pokedex inside Prof. Willow's lab once you obtain all 383 Pokemon_
+
+It probably sounds like a gruelling task, but it wasn't too bad. There are a maximum of 386 Pokemon, but Raikou, Entei and Suicune are glitched so therefore only 383 are required. Mega Evolutions and the Kalos Starters are not included in the Pokedex. Every Pokemon is obtainable in a single playthrough without any outside sources needed. For all Pokemon location, you can refer to the [Pokemon Glazed wiki](https://fanmadepokemonglazed.fandom.com/wiki/Pok%C3%A9mon_Locations). Here are a few more tips that I have:
+
+- Try to empty the Safari Zones first, as there are quite a good amount of Pokemon there, especially in the Johto Safari Zone.
+- Almost every Pokemon is catchable with the exception of a few evolutions (starter evolutions and a few others). This means that instead of training Pokemon to their evolutionary state, you can also decide to catch them instead to save yourself a lot of grinding. Why train a Deino to level 64 when you can just catch an Hydreigon?
+- Multiple Pokemon have become much easier to evolve. Feebas doesn't need beauty and can instead be given a Trade Stone to evolve. You don't need to level up Aipom during the night as there is no night in Pokemon Glazed. Only a few Pokemon are reliant on happiness to evolve, but most can be evolved by normal levelling or through stones.
