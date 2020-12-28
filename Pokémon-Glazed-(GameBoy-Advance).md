@@ -22,15 +22,15 @@ Pokémon Glazed is a [ROM hack](https://www.pokecommunity.com/showthread.php?t=2
 
 # 3) Walkthrough
 
-**Step 1: Story Achievements (2 missable)**
+[**Step 1: Story Achievements (2 missable)**](#step-1-story-achievements-2-missable--total-points-218)
 
 What you have to focus on first is just beating the game. Since there are no missable achievements aside from failing to catch the legendary Pokémon, this should pose no trouble and the guide is not mandatory up till that part. Do keep in mind that the missable achievements for miscellaneous Pokémon are the Mudkip at the very start, and the Miltank in Johto.
 
-**Step 2: Legendary Achievements (all missable)**
+[**Step 2: Legendary Achievements (all missable)**](#step-2-legendary-achievements-all-missable--total-points-240)
 
 After the game is beaten completely, you have access to all legendary Pokémon. These make up for most of the achievements, so have fun unlocking them!
 
-**Step 3: Miscellaneous Achievements + clean-up (not missable)**
+[**Step 3: Miscellaneous Achievements + clean-up (not missable)**](#step-3-miscellaneous-achievements--clean-up-no-missables--total-points-208)
 
 Miscellaneous achievements that you might have missed during your playthrough. None of these are missable. 
 
@@ -619,8 +619,7 @@ Upon meeting the requirements, make your way to Mt. Stratos and make your way to
 
 ***
 
-## Step 3: Miscellaneous Achievements + clean up (no missables)
-**Total points: 208**
+## Step 3: Miscellaneous Achievements + clean up (no missables) | **Total points: 208**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64854.png) [A Happy Sad Day (1)]( https://retroachievements.org/Achievement/60983)   
 _Obtain an Uncle's TM_
