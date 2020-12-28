@@ -243,7 +243,7 @@ Beat the champion of Rankor on Reign Island.
 ***
 
 ## Step 2: Legendary Achievements (All missable)
-**Total points: 218**
+**Total points: 240**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64872.png) [Put Those Pokeballs Down (10)]( https://retroachievements.org/Achievement/60987)   
 _Capture Jirachi_
@@ -486,3 +486,96 @@ _Capture Arceus_
 Darkrai can be obtained after having caught Cresselia. Go to Palmtree Resort and enter the VIP villa where Blake is waiting, and a cutscene will play. Victini can be obtained by defeating the trainer west of Seapray Town. Surf on the water until you reach a house at the end.
 
 Upon meeting the requirements, make your way to Mt. Stratos and make your way to the top. In the same room as the entrance to the Fusion Labs, take the other entrance to reach Arceus. **Important to note about Arceus is that he has the move Perish Song, and will therefore kill itself within 3 turns. A Master Ball is very highly recommended here.**
+
+***
+
+## Step 3: Miscellaneous Achievements + clean up (no missables)
+**Total points: 218**
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64854.png) [A Happy Sad Day (1)]( https://retroachievements.org/Achievement/60983)   
+_Obtain an Uncle's TM_
+
+Upon having a friendship with either minimum friendship or maximum friendship, head to the house in the south in Chocco Town and talk with the man inside to receive a TM.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64869.png) [Pink And Squishy (1)]( https://retroachievements.org/Achievement/60984)   
+_Obtain The stalker Pokemon_
+
+Enter the building next to the Pokemon Center in Oceanview City and talk with the girl to receive a Ditto. Make sure to have at least one free space in your party.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64866.png) [Mining Master (1)]( https://retroachievements.org/Achievement/61003)   
+_Become a Miner_
+
+In Geminite Village, get access to a shovel to unlock the achievement and the mining minigame.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64876.png) [Shard Trader (5)]( https://retroachievements.org/Achievement/61001)   
+_Trade any shard type for a fossil_
+
+In Geminite Village, exchange one of the shards you get from the mining minigame for a fossil.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64864.png) [I'm So Happy (1)]( https://retroachievements.org/Achievement/61005)   
+_Obtain an item from DR.Friendship_
+
+Upon reaching max friendship with a Pokemon, talk to Dr. Friendship in Stormy City to receive a Soothe Bell.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64871.png) [Proud Parent (1)]( https://retroachievements.org/Achievement/61006)   
+_Adopt A Pokemon from The Adoption Clinic_
+
+In Stormy City, go to the adoption clinic and talk with the Grovyle to have it join you. Make sure to have at least one free space in your party.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64862.png) [Glacier Of Luck (1)]( https://retroachievements.org/Achievement/61009)   
+_Receive a Glaceon as a gift_
+
+In Northcoast Town, go to the middle house below the Pokemon Center to receive a Glaceon from an elderly woman. Make sure to have at least one free space in your party.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64873.png) [Revival Of An Ancient (5)]( https://retroachievements.org/Achievement/61010)   
+_Revive any Fossil_
+
+In Northcoast Town, go to the building in the north to revive any fossil. You can obtain a fossil from the mining minigame in Geminite Village.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64874.png) [I want to ride my BicySki (1)]( https://retroachievements.org/Achievement/61011)   
+_Go Skiing_
+
+In Northcoast Town, take the ski lift to the mountain and talk to the woman next to nurse joy for skis. Equip them through the KEY ITEM inventory.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64877.png) [Ski Master (1)]( https://retroachievements.org/Achievement/61012)   
+_Obtain An A Plus Rating in the skiing challenge_
+
+In Northcoast Town, take the ski lift to the mountain and talk to the woman next to nurse joy for skis. Go outside and talk to the man who asks you for a time trial. There is only one true way down the mountain, so keep practising until you get a solid time. Keep in mind that the timer keeps running during wild encounters, so a repel may be necessary.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64875.png) [Safari Zone Expert (25)]( https://retroachievements.org/Achievement/61014)   
+_Receive an amazing price for catching 20 Pokemon in one safari_
+
+Easily the toughest achievement of this set--probably even unfair. You have to catch a total of 20 Pokemon in the Tunod Safari Zone in ONE run. You only have access to a total of 30 safari balls. I can't help you much as this is extremely RNG-heavy, but I do have a few tips.
+
+- There is no timer in the Safari Zone, and also no maximum amount of steps. You can take as long as you like with this achievement.
+- The easiest Pokemon in the Safari Zone to catch are the Psyduck in the water, which are also the only encounter in there.
+- Get close three times before you attempt to catch a Pokemon for the biggest chance of catching them. This of course does not guarantee a catch, but most of the time it should work.
+- What I personally found to work for me, was that I've thrown 10 safari balls at the start and then decide if I want to continue. If I've failed to catch less than three times I continue but if not, I reset the game and start over again.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64863.png) [Golden Scam (1)]( https://retroachievements.org/Achievement/61018)   
+_Buy A Golden Pokemon_
+
+On the beach south of Palmtree Resort, you can approach a fisherman and buy a Pokemon from him. Keep in mind that you need at least one free space in your party.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64867.png) [Master Of Balls (1)]( https://retroachievements.org/Achievement/61021)   
+_Obtain The Master Ball_
+
+In the Fusion Labs in the second room, take the west stairs down to reach the Master Ball.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64878.png) [Timber (1)]( https://retroachievements.org/Achievement/61024)   
+_Receive Timburr as a gift_
+
+After beating the angry Mew in the Fusion Labs, go down the waterfall in Mt. Stratus to reach a fighting man standing at the bottom of the waterfall, who will give you a Timburr. Keep in mind that you need at least one free space in your party.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64860.png) [Dojo Master (5)]( https://retroachievements.org/Achievement/61025)   
+_Obtain a prize from Cameron in the Dojo_
+
+In Darkwood Town, enter the Dojo and go down the stairs on the right and fight Cameron. After beating him, he will give you a Blaziken.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64881.png) [Game Hack (1)]( https://retroachievements.org/Achievement/61039)   
+_Obtain a prize from Lucbui the Creator_
+
+At the first screen of the Path of Victory, enter the house on your right and fight Lucbui. After beating him, he will give you a Quilava.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64882.png) [Egg Surprise (1)]( https://retroachievements.org/Achievement/61047)   
+_Receive an Egg as a gift from Mr. Pokemon_
