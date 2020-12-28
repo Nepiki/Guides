@@ -26,7 +26,6 @@ After the game is beaten completely, you have access to all legendary Pokémon. 
 
 Miscellaneous achievements that you might have missed during your playthrough. None of these are missable. 
 
-
 ***
 
 ## Step 1: Story Achievements (2 missable, search -=MISSABLE=- for them)
@@ -240,3 +239,250 @@ Beat the fourth Rankor gym on Reign Island (NOT Alpha Island).
 _Defeat The Champion Soul_
 
 Beat the champion of Rankor on Reign Island.
+
+***
+
+## Step 2: Legendary Achievements (All missable)
+**Total points: 218**
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64872.png) [Put Those Pokeballs Down (10)]( https://retroachievements.org/Achievement/60987)   
+_Capture Jirachi_
+
+-=MISSABLE=-
+
+**Requirements: Beat the first Tunod gym.**
+
+Jirachi can be captured as early on as the second gym of Tunod. To gain access to Jirachi, you need to finish a sidequest in Serenity Isle:
+
+1. Head to floor 2 in the Fusion Building and talk to Melanie.
+2. Go to Floor 4 and talk to Diana.
+3. Go to Floor 3 and talk to the girl in the hall. Go back to Floor 4 and talk to Diana again.
+4. Go to the bottom floor and talk to the chef, then go back to Diana on Floor 4.
+5. Go to Floor 2 and talk to Melanie, who will send you to the Pokemon Mart to buy 5 Poke Balls, 1 Potion and 1 Harbor Mail. Be sure to also buy a Super Potion for the next step.
+6. Go back to Floor 2 and talk to Melanie, who will send you to Diana on Floor 4. Talk to her twice to give her the items.
+7. Go back to Floor 2 and talk to Melanie, then go to Floor 4 to search for her missing swimsuit. On floor 4, go south 2 steps and then west 8 steps and examine the floor.
+8. Go back to Melanie on Floor 2 to obtain the Wish Ticket.
+
+This wish ticket can be used in Oceanview City to travel to the island where Jirachi is hiding.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65759.png) [Legendary Titans (10)]( https://retroachievements.org/Achievement/61303)   
+_Capture one of Regirock, Registeel or Regice_
+
+-=MISSABLE=-
+
+**Requirements: HM Waterfall.**
+
+The Regi trio can be found in Mt. Stratus. Enter from Geminite Village and go directly onto the water, and proceed from here.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65798.png) [Golem Creator (10)]( https://retroachievements.org/Achievement/61625)   
+_Capture Regigigas_
+
+-=MISSABLE=-
+
+**Requirements: HM Waterfall.**
+
+After capturing the Regi trio, go to the stone in the middle of the same room as the other Regis to reveal the entrance to Regigigas.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65766.png) [Not A Monster (10)]( https://retroachievements.org/Achievement/61148)   
+_Obtain Mew_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Tunod League. To access the Fusion Labs, the HMs Strength, Rock Smash, Surf, Waterfall and Rock Climb are needed.**
+
+Mew can be found at the Fusion Labs where you fought it before. Make sure to have one empty space in your party for it to join.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65752.png) [Green Hedgehog (10)]( https://retroachievements.org/Achievement/61627)   
+_Capture Shaymin_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Tunod League.**
+
+Go to Espo Forest to the shrine in the middle. A password is required, which is "THANK YOU…" (the … are in the "others" section). There will be an opening up north, where Shaymin is hiding.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65757.png) [Justice For All (10)]( https://retroachievements.org/Achievement/61296)   
+_Capture Keldeo_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Tunod League.**
+
+Go to Darkwood Town and head to the shrine in the far east to make a wish. A password is required, which is "JUSTICE!!!". A cave will open, where Keldeo is hiding.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65795.png) [Black And White (10)]( https://retroachievements.org/Achievement/61295)   
+_Capture one of Reshiram, Zekrom or Kyurem _
+
+-=MISSABLE=-
+
+**Requirements: Beat the Tunod League.**
+
+Only one capture is needed.
+1) Zekrom can be found in the Oceanview Power Plant. Head all the way to the top and upon reaching the roof, go to the right.
+2) Reshiram can be found in Mt. Furnace, which is the cave between Darkwood Town and the Path of Victory. To access this place, the HMs Surf, Waterfall and Rock Climb are needed.
+3) Kyurem can be found in Icicle Tunnel. To access this place, the HM Rock Climb is needed.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65778.png) [Sweet Dreams (10)]( https://retroachievements.org/Achievement/61626)   
+_Capture Cresselia_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Tunod League. A Pokémon that knows Roar is also required.**
+
+Once you have access to Johto, go to the sleeping man on the route west of Violet City, and wake him up with roar. After a battle, he will give you a Lunar Wing. Go to the inn in Cape Azure and go to sleep, where you will find Cresselia in your dreams.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65755.png) [Is It A Plane (10)]( https://retroachievements.org/Achievement/61628)   
+_Capture Latios_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Tunod League.**
+
+It is recommended to do this achievement after gaining access to the legendary research lab west of Violet City and talking to Lars, who will tell you where Latios is hiding. Latios can be found on a route and is not a random encounter, and will also not flee from battle.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65777.png) [No Legs (10)]( https://retroachievements.org/Achievement/61628)   
+_Capture Latias_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Tunod League.**
+
+It is recommended to do this achievement after gaining access to the legendary research lab west of Violet City and talking to Lars, who will tell you where Latias is hiding. Latias can be found on a route and is not a random encounter, and will also not flee from battle.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65796.png) [Creation Trio (10)]( https://retroachievements.org/Achievement/61623)   
+_Capture one of Dialgia, Palkia or Giratina_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Tunod League.**
+
+Only one capture is needed. To gain access to these three Pokémon, you need to go to the Ruins of Alph in Johto first. After taking care of Team Fusion, you should have a penthouse key. This can be used to gain access to the top floor in the Serenity Isle building. Fight your way through there to obtain the items required to access the legendary Pokémon.
+
+1) Dialgia can be found east of Chocco Town, when surfing towards the Temporal Tower. Get on land and the cave will open.
+2) Palkia can be found just before the Spacial Ruins. Upon seeing a small isle with a rock formation, land on there and the cave will open.
+3) Giratina can be found east of the Haunted Isle. Surf close to the isle, and the cave will open.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65783.png) [The Weather Trio (10)]( https://retroachievements.org/Achievement/61537)   
+_Capture one of Groudon, Kyogre or Rayquaza_
+
+-=MISSABLE=-
+
+**Requirements: Only the Tunod League and a few Johto gyms are needed, but I recommend waiting till after the Johto League. To access the Pokemon, the HMs Surf and Rock Climb are needed.**
+
+Only one capture is needed. What you have to do first of all is finishing the Ruins of Alph sidequest. To do this, go to the Ruins of Alph through the Union Cave east of Azalea Town, and enter the ruins with three braille tablets at the top. Stand in the middle, and then walk around the walls of the ruins counter-clockwise until you reach your original spot again, upon which a cave shall open.
+
+All legendaries are found in the same place, namely in a cave down the cliffs east of Evergreen Town.
+
+1) Kyogre requires the Sapphire, which is found at the bottom of the Slowpoke Well. Examine the braille tablet and you'll gain access to the item.
+2) Rayquaza requires the Emerald, which is found at the bottom of the Dragons Den. Examine the braille tablet and you'll gain access to the item.
+3) Ground requires the Ruby, which is a bit tougher to find. This requires the Johto league to be beaten. Go to the top of the Johto Victory Road (note: you can dive on the ladders in the victory road. This is a glitch.) where Lance will be waiting. Go to Mt. Silver through the train station in Goldenrod City, capture Heatran and then fight Red.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65775.png) [Stop Hitting Yourself (10)]( https://retroachievements.org/Achievement/61147)   
+_Capture Mewtwo_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Tunod League and seven Johto gyms. To access Mewtwo, the HMs Surf and Dive are also needed.**
+
+After seven gyms have been beaten in Johto, go to the route east of Cianwood City where a Dragonite will approach you. Then, go to Olivine City and dive south to where Mewtwo is hiding.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65772.png) [Sea Guardian (10)]( https://retroachievements.org/Achievement/61624)   
+_Capture Manaphy_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Tunod League and seven Johto gyms. Win the sea race in Evergreen Town to get the item for Manaphy. To access Manaphy, the HMs Surf, Dive ad Rock Climb are also needed.**
+
+After obtaining the item for Manaphy, go to the Spacial Ruins in Tunod where Manaphy will be swimming in the water. Dive to follow him.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65785.png) [Voice Of The Forest (10)]( https://retroachievements.org/Achievement/61302)   
+_Capture Celebi_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Johto League.**
+
+Go back to the now revitalized Ilex Forest, and talk to Celebi at his shrine.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65762.png) [Master Of Fire (10)]( https://retroachievements.org/Achievement/61299)   
+_Capture Moltres_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Johto League and make progress in the story on Rankor. It is also required to have caught Reshiram.**
+
+Go back to Mt. Tritorch after Moltres was released and also having obtained the Fire Plume from catching Reshiram.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65761.png) [Master Of Lightining (10)]( https://retroachievements.org/Achievement/61298)   
+_Capture Zapdos_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Johto League and make progress in the story on Rankor. It is also required to have caught Zekrom.**
+
+Go back to Mt. Dyno after Zapdos was released and also having obtained the Lightning Plume from catching Zekrom.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65760.png) [Master Of Ice (10)]( https://retroachievements.org/Achievement/61297)   
+_Capture Articuno_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Johto League and make progress in the story on Rankor. It is also required to have caught Kyurem.**
+
+Go back to Mt. Frozon after Articuno was released and also having obtained the Ice Plume from catching Kyurem.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65769.png) [Phoenix Master (10)]( https://retroachievements.org/Achievement/61300)   
+_Capture Ho-Oh_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Johto League and make progress in the story on Rankor.**
+
+Go back to the Brass Tower (NOT the Tin Tower where Ho-Oh was initially) and make your way to the top.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65768.png) [Ocean Master (10)]( https://retroachievements.org/Achievement/61301)   
+_Capture Lugia_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Johto League and make progress in the story on Rankor. To access Lugia, the HMs Surf and Dive are also needed.**
+
+Go west of Olivine City and talk to the sailor, who will bring you where to Lugia is.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65779.png) [Sword Of Justice Trio (10)]( https://retroachievements.org/Achievement/61294)   
+_Capture one of Cobalion, Terrakion, Virizion_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Johto League and make progress in the story on Rankor. To access them, the HM Rock Smash is needed.**
+
+Go back to Darkwood Town and enter the Darkwood Caves. Upon entrance, go east immediately and use Rock Smash to access a new cave where the trio is hiding. **Important to know beforehand is that there is no break between fighting each of the three, so you have to capture all three back to back. They also all have the move Take Down, so be careful with them killing themselves.**
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65797.png) [Extraterrestrial Virus (10)]( https://retroachievements.org/Achievement/61538)   
+_Capture Deoxys_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Johto League and make progress in the story on Rankor until you have access to the Peaks of Alpha. To access Deoxys, the HM Surf and Rock Climb are needed.**
+
+On the Peaks of Alpha, there is another interactable monument that you can insert a password into, this one being "NOT ALONE…" (the … are in the "others" section). A new path has opened at the beginning of the caves, which will lead to Deoxys.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65758.png) [Lake Guardians (10)]( https://retroachievements.org/Achievement/61622)   
+_Capture one of Uxie, Azelf or Mesprit_
+
+-=MISSABLE=-
+
+**Requirements: Beat the Rankor League.**
+
+At the end of the Peaks of Alpha, interact with the white stone which will bring you to each of the three lake guardians.
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65782.png) [The Original One (10)]( https://retroachievements.org/Achievement/61630)   
+_Capture Arceus_
+
+-=MISSABLE=-
+
+**Requirements: Having captured/seen EVERY Legendary. This includes Darkrai and Victini, but not Latios, Latias, Entei, Raikou and Suicune.**
+
+Darkrai can be obtained after having caught Cresselia. Go to Palmtree Resort and enter the VIP villa where Blake is waiting, and a cutscene will play. Victini can be obtained by defeating the trainer west of Seapray Town. Surf on the water until you reach a house at the end.
+
+Upon meeting the requirements, make your way to Mt. Stratos and make your way to the top. In the same room as the entrance to the Fusion Labs, take the other entrance to reach Arceus. **Important to note about Arceus is that he has the move Perish Song, and will therefore kill itself within 3 turns. A Master Ball is very highly recommended here.**
