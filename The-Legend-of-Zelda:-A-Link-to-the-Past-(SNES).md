@@ -488,7 +488,9 @@ _Defeat Kholdstare without being harmed._
 
 -=MISSABLE=-
 
-WIP.
+**Recommendations: Bombos Medallion, Fire Rod and/or Magic Cape, 1-2 Magic Potions**
+
+Upon entrance, use the Bombos Medallion immediately to get rid of Kholdstare's ice armour. From there, it really is up to you on how you want to beat him as Kholdstare isn't too difficult--you just need to beware of the falling snow. You can use the Fire Rod to do massive damage, or take it the safe way and just go invincible with the Magic Cape and then keep slashing with the sword.
 
 ***
 
@@ -497,7 +499,9 @@ _Defeat Vitreous without being harmed._
 
 -=MISSABLE=-
 
-WIP.
+**Recommendations: Magic Cape, 1-2 magic potions, Arrows**
+
+Magic Cape is your best friend for the first phase as you can just stand in front of Vitreous and keep slashing and the eyes that keep popping out. When he only has 4 eyes left, the big eye itself will pop out. Just stand in front of the door and keep shooting at him with arrows as he won't try to do anything except getting close to you.
 
 ***
 
