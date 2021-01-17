@@ -424,6 +424,8 @@ WIP.
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129289.png) [Bested Moldorm (10)]( https://retroachievements.org/achievement/2314)   
 _Defeat Moldorm without being harmed._
 
+-=MISSABLE=-
+
 **Recommendations: None**
 
 I unfortunately don't have much advice for Moldorm. The good thing about him is that he can't hurt you as long as you are charging your sword. The problem here isn't taking damage however, but falling down. Fortunately, falling down also means an easy reset, so you can try this boss over and over again. He definitely is an annoying boss, but he shouldn't really hurt you, so the achievement should be pretty easy to unlock. If the boss still gives you trouble, you can try pause buffering him by constantly opening and closing the menu until he is in a good position to strike.
