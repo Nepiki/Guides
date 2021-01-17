@@ -399,13 +399,16 @@ There are a total of 24 Heart Pieces to be found, making for a total of 6 comple
 ***
 
 ## Step 3: No-damage achievements (11 missable) | **Total points: 135**
+**REMEMBER TO BE FULL HEALTH WHEN YOU ENTER THE BOSS ROOM, OTHERWISE THE ACHIEVEMENT WON'T UNLOCK**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129287.png) [Bested Armos Knights (10)]( https://retroachievements.org/achievement/2285)   
 _Defeat all the Armos Knights without being harmed._
 
 -=MISSABLE=-
 
-WIP.
+**Recommendations: None. They can be harmed with a sword, but the arrows are definitely the better option here.**
+
+The Armos Knights most likely won't give you too much trouble. Just stay in one corner (I prefer south-east) and keep shooting arrows till only one Armos Knight remains. Every Armos Knight dies within 3 arrows, so use that to your advantage. The final Armos Knight will jump around and try to hit you from above, but this shouldn't be too much trouble if you keep walking around away from his landing position.
 
 ***
 
@@ -421,9 +424,9 @@ WIP.
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129289.png) [Bested Moldorm (10)]( https://retroachievements.org/achievement/2314)   
 _Defeat Moldorm without being harmed._
 
--=MISSABLE=-
+**Recommendations: None**
 
-WIP.
+I unfortunately don't have much advice for Moldorm. The good thing about him is that he can't hurt you as long as you are charging your sword. The problem here isn't taking damage however, but falling down. Fortunately, falling down also means an easy reset, so you can try this boss over and over again. He definitely is an annoying boss, but he shouldn't really hurt you, so the achievement should be pretty easy to unlock. If the boss still gives you trouble, you can try pause buffering him by constantly opening and closing the menu until he is in a good position to strike.
 
 ***
 
@@ -450,7 +453,9 @@ _Defeat Arrghus without being harmed._
 
 -=MISSABLE=-
 
-WIP.
+**Recommendations: None**
+
+Arrghus is a really easy boss, but you still have to be careful. ONLY Hookshot the minions off of him from the left- or right side, as doing it from above or below him has the chance for the minions to go too far into your sprite, damaging you when they're travelling back. When he does his swirl attack, go to the exact opposite of the room as he can't reach you. When all of the minions are gone, charge up your sword and keep walking around to make sure he doesn't land on you. Arrghus only moves diagonally, so that should make his movements predictable. 4 charged sword attacks should end him for good.
 
 ***
 
@@ -459,7 +464,9 @@ _Defeat Mothula without being harmed._
 
 -=MISSABLE=-
 
-WIP.
+**Recommendations: Magic Cape, Good Bee, 1-2 Magic Potions, Tempered Sword (or Golden Sword if you're killing Mothula after the 5th and 6th dungeon).**
+
+The easiest way to get rid of Mothula is by releasing the Good Bee and then going invincible with the Magic Cape while attacking with your sword. Keep good track of your magic meter and if necessary, drink a magic potion only when you are truly safe to do so as you won't be invincible during that time. Watch out for the moving floor, otherwise you'll run into a spike upon re-appearing.
 
 ***
 
@@ -468,7 +475,9 @@ _Defeat Blind without being harmed._
 
 -=MISSABLE=-
 
-WIP.
+**Recommendations: Magic Cape, Good Bee, 1-2 Magic Potions, Tempered Sword (or Golden Sword if you're killing Blind after the 5th and 6th dungeon).**
+
+The easiest way to get rid of Blind is by releasing the Good Bee and then going invincible with the Magic Cape while attacking with your sword. Keep good track of your magic meter and if necessary, drink a magic potion only when you are truly safe to do so as you won't be invincible during that time. Be extra careful with re-appearing as both the heads and their lasers will damage you.
 
 ***
 
