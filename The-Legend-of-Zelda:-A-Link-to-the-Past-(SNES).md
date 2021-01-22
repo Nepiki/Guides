@@ -17,7 +17,11 @@ Does Difficulty Affect Achievements?: N/A
 
 # 2) Introduction
 
+The Legend of Zelda: A Link to the Past is an action-adventure game developed and published by Nintendo for the Super Nintendo Entertainment System. It is the third game in The Legend of Zelda series and was released in 1991 in Japan and 1992 in North America and Europe.
 
+A Link to the Past focuses on Link as he journeys to save Hyrule, defeat the dark lord Ganon, and rescue the descendants of the Seven Sages. It returns to a top-down perspective similar to the original The Legend of Zelda, dropping the side-scrolling gameplay of Zelda II: The Adventure of Link. It introduced series staples such as parallel worlds and items including the Master Sword. 
+
+A Link to the Past has a total of 55 Achievements worth 435 points. The achievement set has been created by Retro Achievement developers [dude1286](https://retroachievements.org/User/dude1286), [HenrySwanson](https://retroachievements.org/User/HenrySwanson) and [https://retroachievements.org/User/AntTanGames](AndTanGames). The set of achievements are mostly designed to be achievable by the casual player, with the no-damage achievements for the more hardcore players. The game also has multiple leaderboards, including minigames and no-hit runs.
 
 # 3) Walkthrough
 
@@ -510,15 +514,18 @@ _Defeat Trinexx without being harmed._
 
 -=MISSABLE=-
 
-WIP.
+**Recommendations: Golden Sword, Magic Cape, 1-2 Magic Potions, Fire and Ice rod**
+
+This boss might look menacing, but it's not that bad. What you want to do first is getting rid of the ice head on the right. The head movements may be confusing at first, but if you have the Golden Sword you only need to hit it 3 times. You can hit 2 times per stun with the rod. If you do this flawlessly, you should be able to kill it before the main body attacks but if not, just back off for a bit as his only attack is very predictable: the head will lunge at you when the tail starts moving faster. This attack won't hit you if you keep walking in a straight line. After taking care of the ice head, repeat the same for the fire head. Once those are down, use the Magic Cape to go invincible and you've won.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129298.png) [Bested Ganon (25)]( https://retroachievements.org/achievement/2388)   
 _Defeat Ganon without being harmed._
 
--=MISSABLE=-
+**Recommendations: Golden Sword, 1 Full Heal Potion, 2-3 Magic Potions, Magic Cape
 
-WIP.
+Ganon's fight has 4 "phases", but the first 3 are pretty much insignificant as you can take care of all of them by just going invincible and slashing at him. You'll need to drink a magic potion on his 3rd phase, but that should pose no problem as a lot of his time is spent just teleporting around. The 4th phase is where it can get slightly tricky, and where you also need to be cautious. You need to light two beacons while Ganon is shooting a fire bat at you, so make sure to light them fast with the Fire Rod. When he's visible again, ONLY attack him when you know
+where exactly he will appear, and if you can hit him the moment he appears. If you're even a second late, he'll fire his bat at you which is hard to avoid when you're close to him. Hit him so he's stunned, fire a silver arrow at him and repeat this 4 times. Take your time for the final phase and you'll be just fine. If you do take damage, reset the game and drink a full heal potion as your health/magic bar won't be full upon restart to ensure you can try it again very easily.
 
 ***
