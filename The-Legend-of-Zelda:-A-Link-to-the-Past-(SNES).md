@@ -21,7 +21,7 @@ The Legend of Zelda: A Link to the Past is an action-adventure game developed an
 
 A Link to the Past focuses on Link as he journeys to save Hyrule, defeat the dark lord Ganon, and rescue the descendants of the Seven Sages. It returns to a top-down perspective similar to the original The Legend of Zelda, dropping the side-scrolling gameplay of Zelda II: The Adventure of Link. It introduced series staples such as parallel worlds and items including the Master Sword. 
 
-A Link to the Past has a total of 55 Achievements worth 435 points. The achievement set has been created by Retro Achievement developers [dude1286](https://retroachievements.org/User/dude1286), [HenrySwanson](https://retroachievements.org/User/HenrySwanson) and [https://retroachievements.org/User/AntTanGames](AndTanGames). The set of achievements are mostly designed to be achievable by the casual player, with the no-damage achievements for the more hardcore players. The game also has multiple leaderboards, including minigames and no-hit runs.
+A Link to the Past has a total of 55 Achievements worth 435 points. The achievement set has been created by Retro Achievement developers [dude1286](https://retroachievements.org/User/dude1286), [HenrySwanson](https://retroachievements.org/User/HenrySwanson) and [AntTanGames](https://retroachievements.org/User/AntTanGames). The set of achievements are mostly designed to be achievable by the casual player, with the no-damage achievements for the more hardcore players. The game also has multiple leaderboards, including minigames and no-hit runs.
 
 # 3) Walkthrough
 
@@ -421,7 +421,9 @@ _Defeat all three Lanmolas without being harmed._
 
 -=MISSABLE=-
 
-WIP.
+**Recommendations: Ice Rod.**
+
+Surprisingly one of the tougher bosses to no-damage since there isn't really an easy strategy, and I unfortunately don't have a lot of advice to give here either. The Ice Rod is a recommendation, but it won't necessarily save you--it will just do a bit more damage than your sword. The best advice I can give is to wait for the final Lanmolas to pop out and try to hit that one. The rocks they shoot out always go diagonally so take your time and be extra careful. Do keep in kind however, that the final undefeated Lanmolas will shoot out in eight directions. I definitely recommend keeping the Ice Rod for the final one to get rid of it easier. Patience really is key here, and should be your main priority.
 
 ***
 
@@ -441,7 +443,9 @@ _Defeat Agahnim in Hyrule Castle without being harmed._
 
 -=MISSABLE=-
 
-WIP.
+**Recommendations: None.**
+
+The worst part about Agahnim? Having to go through that entire dungeon again if you mess up. Joking aside, Agahnim isn't too bad of a boss. He has three different attacks, of which one is very easily predictable- and avoidable. Whenever he goes to the most northern-middle spot, he will use a lightning attack that can be avoided by going to the left or right wall. The other two aren't as easily identifiable, but shouldn't pose too much trouble either. The red shot can be reflected with the sword (or bug net) right at Agahnim, and it's recommended to stand straight across him to make sure it hits. The other attack is a bit trickier, as it is a blue circle that goes into 6 directions upon hitting a sword or a wall. You can hit it and hope the shield protects you if one of the directions is towards you, but I personally found that to be a bit too RNG-heavy for my liking. Avoiding the blue circle is definitely my preferred option. Keep this up for a bit and Agahnim is down.
 
 ***
 
@@ -450,7 +454,9 @@ _Defeat Helmasaur King without being harmed._
 
 -=MISSABLE=-
 
-WIP.
+**Recommendations: Bombs. If you're keeping this boss for later, you can also bring a Magic Cape/Upgraded Sword**
+
+The Helmasaur King is an interesting boss: he's not too difficult, but you have to be careful at all times. I recommend getting rid of the shield by dropping/throwing bombs (I prefer the former), as his movements are pretty predictable. It only takes 4 bombs to get rid of the shield, while it takes 16 hammer hits. The Helmasaur King only has two attacks to worry about: the first is where he spits out a fireball, that turns into three fireballs that implode diagonally. For this attack, it's best to go to the wall that's farthest away so you can easily dodge them. The other is his tail attack, indicated by when the tail starts moving faster. This is actually easily avoidable by standing directly in front of him. The only thing you need to be careful about here, especially in his second phase, is that he starts moving again right after the tail attack ends. If he runs into you, that obviously counts as damage. You can also avoid this by going to the wall that's farthest away, but I find standing in front of him easier.
 
 ***
 
