@@ -37,130 +37,115 @@ Miscellaneous achievements that usually ask you to play the game in a slightly d
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76113.png) [5 Stars 1-1 (5)]( https://retroachievements.org/achievement/71134)   
 _Complete 1-1 with 5 Stars_
 
-|||
-|:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
-
-WIP
+Pretty straightforward level. There are only 5 stars here, so be sure to collect them all. They're all on the route to the end. Jump before gravity switching to ensure there's no enemy that can hit you.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76116.png) [5 Stars 1-2 (5)]( https://retroachievements.org/achievement/71165)   
 _Complete 1-2 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
 | Star | Triangle |
 | Minus | Minus |
 
-WIP
+Pretty straightforward level. There are only 5 stars here, so be sure to collect them all. Most of them require gravity flipping. Be sure to jump before gravity switching to avoid getting hit by enemies.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76117.png) [5 Stars 1-3 (5)]( https://retroachievements.org/achievement/71166)   
 _Complete 1-3 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
+| Star | Plus |
+| Minus | Square |
 
-WIP
+There are multiple stars here, with 3 being close to the end. Watch out for the spikes there and be sure not to take unnecessary risk.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76132.png) [5 Stars World 1 Bonus Stage (5)]( https://retroachievements.org/achievement/71167)   
 _Complete World 1 Bonus Stage with 5 Stars_
 
-|||
-|:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
-
-WIP
+Since you can't view the entire screen, it's best to stay somewhere in the middle so you can see where the stars are, but most tend to be near the bottom. Near the end, there are 2 at the bottom. Be careful of enemies going upwards.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76118.png) [5 Stars 2-1 (10)]( https://retroachievements.org/achievement/71168)   
 _Complete 2-1 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
 | Star | Triangle |
-| Minus | Minus |
+| Plus | Circle |
 
-WIP
+2-1 is a single route to the end, with more than 5 on the way. This shouldn't be too difficult, but do watch out for the jumping slimes and toxic going along with gravity switching.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76119.png) [5 Stars 2-2 (10)]( https://retroachievements.org/achievement/71169)   
 _Complete 2-2 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
+| Star | Minus |
+| Minus | Plus |
 
-WIP
+Multiple stars on the way to the end, but be careful whenever there are bushes around. Make sure there are no enemies inside, otherwise a spear will go up and maybe catch you off-guard. After the bushes are done, there's one more star to get.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76120.png) [5 Stars 2-3 (10)]( https://retroachievements.org/achievement/71170)   
 _Complete 2-3 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
 | Star | Triangle |
-| Minus | Minus |
+| Circle | Plus |
 
-WIP
+It can be a tricky stage with the many jumping slimes, but there are multiple stars to recover yourself if you lose one. Be extra careful near the end though, as the enemy with the bomb can be particularly nasty. Once he drops the bomb, flip gravity so that he kills himself.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76131.png) [5 Stars World 2 Bonus Stage (10)]( https://retroachievements.org/achievement/71171)   
 _Complete World 2 Bonus Stage with 5 Stars_
 
-|||
-|:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
-
-WIP
+It's best to stay in the middle, but most stars in this stage are on the higher half. You'll find more than 5 there, so you should get it if you stay at the top.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76126.png) [5 Stars 3-1 (10)]( https://retroachievements.org/achievement/71172)   
 _Complete 3-1 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
+| Star | Square |
+| Square | Circle |
 
-WIP
+Multiple stars to get, especially near the halfway point where there's a long vertical shaft with multiple. Just be sure to flip gravity back before you hit the end, otherwise you'll have to deal with spikes and lose your chance. Near the end, be sure to walk on the ceiling so you don't have to worry about any of those spiked block enemies.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76127.png) [5 Stars 3-2 (10)]( https://retroachievements.org/achievement/71173)   
 _Complete 3-2 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
+| Star | Star |
+| Triangle | Plus |
 
-WIP
+3-2 is one of the few stages with multiple pathways. The lower pathway does have more stars and is perhaps also the easier one--just watch out for the spikes near the beginning of this pathway. For the end, take care of the skeletons, then walk on the ceiling, drop down and you're done.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76128.png) [5 Stars 3-3 (10)]( https://retroachievements.org/achievement/71174)   
 _Complete 3-3 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
 | Star | Triangle |
-| Minus | Minus |
+| Circle | Minus |
 
 WIP
 
@@ -169,22 +154,17 @@ WIP
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76130.png) [5 Stars World 3 Bonus Stage (10)]( https://retroachievements.org/achievement/71175)   
 _Complete the World 3 Bonus Stage with 5 Stars_
 
-|||
-|:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
-
-WIP
+Stay in the middle to get a good idea of where all the stars are. Most are near the middle/bottom. Watch out for the enemies going upwards.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76133.png) [5 Stars 4-1 (10)]( https://retroachievements.org/achievement/71176)   
 _Complete 4-1 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
+| Star | Square |
+| Square | Star |
 
 WIP
 
@@ -193,10 +173,10 @@ WIP
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76134.png) [5 Stars 4-2 (10)]( https://retroachievements.org/achievement/71177)   
 _Complete 4-2 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
+| Star | Circle |
+| Triangle | Square |
 
 WIP
 
@@ -205,34 +185,29 @@ WIP
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76135.png) [5 Stars 4-3 (10)]( https://retroachievements.org/achievement/71178)   
 _Complete 4-3 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
+| Star | Plus |
+| Triangle | Circle |
 
-WIP
+This one is very easy, because there's a long horizontal hallway near the end with tons of stars. When falling, strafe to the right first, then to the left, then choose either direction and you should easily have 5 stars.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76142.png) [5 Stars 4-4 (10)]( https://retroachievements.org/achievement/71179)   
 _Complete the final Stage with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
+| Square | Star |
+| Minus | Plus |
 
-WIP
+At the end of the stage right before the boss, there are 4 stars close to each other to grab. This means that you only need to worry about having at least 1 star before reaching that point. The boss itself is very easy; just go to the top or bottom and stay there until he fires a green stone, fire it back and flip gravity to hit him, then go nuts with the wand.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76138.png) [5 Stars Advance World 1 (10)]( https://retroachievements.org/achievement/71180)   
 _Complete Advance World 1 with 5 Stars_
-
-|||
-|:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
 
 WIP
 
@@ -241,10 +216,10 @@ WIP
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76139.png) [5 Stars Advance World 2 (10)]( https://retroachievements.org/achievement/71181)   
 _Complete Advance World 2 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
+| Plus | Minus |
+| Plus | Minus |
 
 WIP
 
@@ -253,10 +228,10 @@ WIP
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76140.png) [5 Stars Advance World 3 (10)]( https://retroachievements.org/achievement/71182)   
 _Complete Advance World 3 with 5 Stars_
 
-|||
+|Password||
 |:--:|:--:|
-| Star | Triangle |
-| Minus | Minus |
+| Square | Minus |
+| Star | Plus |
 
 WIP
 
@@ -295,7 +270,7 @@ WIP
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76260.png) [Hard Game Clear (Deathless) (50)]( https://retroachievements.org/achievement/71291)   
 _Clear the game on Hard without losing a life_
 
-WIP
+4.3 has seriously nasty spike placements.
 
 ***
 
@@ -318,35 +293,35 @@ WIP
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76239.png) [Wouldn't Hurt a Fly I (10)]( https://retroachievements.org/achievement/71277)   
 _Clear the first world without using your wand_
 
-WIP
+See _Wouldn't Hurt a Fly IV_
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76241.png) [Wouldn't Hurt a Fly II (10)]( https://retroachievements.org/achievement/71279)   
 _Clear the second world without using your wand_
 
-WIP
+See _Wouldn't Hurt a Fly IV_
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76242.png) [Wouldn't Hurt a Fly III (10)]( https://retroachievements.org/achievement/71280)   
 _Clear the third world without using your wand_
 
-WIP
+See _Wouldn't Hurt a Fly IV_
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76264.png) [Wouldn't Hurt a Fly IV (10)]( https://retroachievements.org/achievement/71281)   
 _Clear 4-1, 4-2 and 4-3 without using your wand_
 
-WIP
+Probably sounds like a set of menacing achievements, but they're actually pretty easy--especially on normal mode. Just get your life count up with stars and avoid enemies, that's all there is to it. Dying will not ruin progress on the achievement, and every enemy except for some in world 4 are avoidable. In case of the world 4 enemies, just damage boost through them.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76243.png) [Every Six Way (10)]( https://retroachievements.org/achievement/71282)   
 _Have 6 Lives_
 
-WIP
+This should come inevitably when you're going for the no-deaths achievements but if you are not: a new life is granted at 20000 points. It takes a while before you reach that amount if you're starting from the first level (somewhere around the 3rd world), and you also need to avoid dying before then. The only way to get score is from killing enemies and gathering stars, so take your time to explore everything a stage has to offer and then move on. The bonus stages are especially useful for getting your score up as there's a lot of enemies.
 
 ***
 
@@ -381,13 +356,25 @@ WIP
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76247.png) [Wendy the Fearless (10)]( https://retroachievements.org/achievement/71295)   
 _Clear the first world without picking up any stars and without dying_
 
-WIP
+A pretty easy achievement, just take your time and you'll be perfectly fine.
+
+1-1: Travel on the ceiling for the first part so you don't have to deal with any stars. The only thing you have to worry about is the purple enemy, but he won't cause much trouble.       
+1-2: The opposite of 1-1, stay on the floor and yet again, be wary of purple enemies. Most stars here are not on the main road so you don't have to worry about them.      
+1-3: Patience is key; wait for the snails to move, then kill them. Yet again, not many of the stars are on the main road.      
+1-4: Most of the stars are at the bottom, so fly to the top of the screen. The enemies are far easier to deal with higher up anyway.      
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76248.png) [Quick Witch (10)]( https://retroachievements.org/achievement/71294)   
 _Finish 4-1 with at least 330 seconds remaining (Hard only)_
 
-WIP
+|Password||
+|:--:|:--:|
+| Triangle | Plus |
+| Circle | Circle |
+
+With this guide, you'll be able to get around 333-335 seconds on your timer. Switch gravity right from the start and make your way to the ceiling, after which the floating bottle will revert gravity and makes you able to jump up. Keep making your way forward and don't change gravity when you see the next bottle, as it will do exactly what you want for you while you keep moving forward. When you're at the bottom of the vertical shaft, go to the ceiling and continue your way, damage boosting through that... eye thing. At the next bottle, wait 1 second with jumping as it will then flip gravity. Go to the top left and wait for it to shift gravity again so you can jump up. Shift gravity again so you can make your way up. This is the first checkpoint, but don't die as the checkpoint will automatically set you at 199 seconds.
+
+When at the top, shift gravity so you're on the ground and take the top road with the enemies. After killing the enemy, wait at the end of the platform for the bottle to shift gravity again. Jump over the spikes and quickly make your way to the block so that you won't get shifted into the spikes. Keep making your way down, but let the bottles do the gravity shifting work for you. When at the bottom, make sure you're walking on the floor. Platform on two of the elevator enemies, then shift gravity making you stand under the second block. Jump under the elevator, then make a small jump and shift gravity and your goal is in sight.
 
 ***
