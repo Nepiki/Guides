@@ -1,5 +1,6 @@
 # Final Fantasy III (J)
 Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
+
 ![Box art for the Famicom version of Final Fantasy III](https://retroachievements.org/Images/005697.png)
 
 :no_entry: **\*\* MAY CONTAIN MINOR SPOILERS \*\*** :no_entry:
