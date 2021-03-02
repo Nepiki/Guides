@@ -1,4 +1,5 @@
 # Final Fantasy III (J)
+Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 ![Box art for the Famicom version of Final Fantasy III](https://retroachievements.org/Images/005697.png)
 
 :no_entry: **\*\* MAY CONTAIN MINOR SPOILERS \*\*** :no_entry:
@@ -28,20 +29,20 @@ The game uses a battery to save game data across three slots. Players can save t
 ## Compatibility
 Currently this game has 14 unique ROM(s) registered for it with the following MD5s:
 
-03440bd306fb71bdd7603f766624501d
-08cb8dee02e371b2659316a78f36a258
-14c569e7d65c8f8a2a967f6bbaa5a52c - Chaos Rush w/ FF6 Font (this is what I mastered the set with)
-2e517105c0084e36a8e7d47f941a2c8c - Chaos Rush (original font)
-301ce423ffecdb1c4d6c94ce025ceaf1
-413c9600bc772410f85af5b034b99a78
-45a7d02ed0dc92665a30da1d9b4af35d - Untranslated
-928080eca8ebbe744f0cb3b618083d76
-94c6a27300859e0c88768690eaf3cf6f - 1999 SoM2Freak translation v2.0
-995255f37684fd53b4b1d6466462333d
-9d3721774f1423a58a9c9a9e30fb8f94 - Bra1.0
-a86bce72d54407e7e6e6fc952eef49df - Ita0.2
-b0fba7a0382c67e045d8b9fb70f8e01d - Fre1.0
-c0f52e4d575244bf1870e128c1e5e613
+03440bd306fb71bdd7603f766624501d<br>
+08cb8dee02e371b2659316a78f36a258<br>
+14c569e7d65c8f8a2a967f6bbaa5a52c - Chaos Rush w/ FF6 Font (this is what I mastered the set with)<br>
+2e517105c0084e36a8e7d47f941a2c8c - Chaos Rush (original font)<br>
+301ce423ffecdb1c4d6c94ce025ceaf1<br>
+413c9600bc772410f85af5b034b99a78<br>
+45a7d02ed0dc92665a30da1d9b4af35d - Untranslated<br>
+928080eca8ebbe744f0cb3b618083d76<br>
+94c6a27300859e0c88768690eaf3cf6f - 1999 SoM2Freak translation v2.0<br>
+995255f37684fd53b4b1d6466462333d<br>
+9d3721774f1423a58a9c9a9e30fb8f94 - Bra1.0<br>
+a86bce72d54407e7e6e6fc952eef49df - Ita0.2<br>
+b0fba7a0382c67e045d8b9fb70f8e01d - Fre1.0<br>
+c0f52e4d575244bf1870e128c1e5e613<br>
 
 ## Leaderboards
 There are no leaderboards currently associated with the game.
@@ -145,6 +146,3 @@ These achievements have been brought up several times already across this guide.
 |![Devout sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44151.png)<br>[Supreme Devout(Shaman)](https://retroachievements.org/Achievement/43065)<br>`Have every white magic spell on one character` | If you focus one character on white magic throughout the entire game, this should be easy to achieve when you buy the level 8 spells in Eureka. Otherwise, you will need to get all of the spells onto one character, purchase duplicates at Doga(Dorga)'s Village, and probably use a Fat Chocobo to juggle things. |
 |![Summoner sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44153.png)<br>[Supreme Summoner](https://retroachievements.org/Achievement/43066)<br>`Have every summon spell on one character` | I never used a summoner in my game, so I threw all of the summon spells onto my second character, who evolved from Monk to Black Belt(Karateka) to Magic Knight throughout the course of the game. Once I got Bahamut, I unlocked this achievement, and then put Bahamut on my Magus(Warlock) turned Sage during my post-game Onion equipment grind. Your mileage may vary but the point at which you unlock it remains the same. Don't forget to purchase the level 1-5 summon spells in Replito(Leprit)! |
 |![Goldor sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44154.png)<br>[There's a New Goldor in Town](https://retroachievements.org/Achievement/43071)<br>`Have 1,000,000 or more Gil` | You will probably get this amount during the course of a normal playthrough, even without hunting for achievements. However, grinding in the Cave of Bahamut or during the Onion equipment grind will definitely get you over this amount. |
-
-## Credits
-Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
