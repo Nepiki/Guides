@@ -11,7 +11,7 @@ It will appear like this, as an example:
 <br>Gysahl(Gisahl)
 
 ## About
-This is not an official manual, walkthrough or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/game/5553). This guide will give the player tips on earning the achievements, hash compatibility and any other necessary or useful information.
+This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/game/5553). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
 
 ## Introduction	
 Final Fantasy III is a role-playing video game developed and published by Square for the Family Computer. Released in Japan in 1990, it was the third installment in the Final Fantasy series. It is the first numbered Final Fantasy game to feature the job-change system. The story revolves around four orphaned youths drawn to a crystal of light. The crystal grants them some of its power, and instructs them to go forth and restore balance to the world. Not knowing what to make of the crystal's pronouncements, but nonetheless recognizing the importance of its words, the four inform their adoptive families of their mission and set out to explore and bring back balance to the world.
