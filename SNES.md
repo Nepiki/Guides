@@ -1,6 +1,7 @@
 List of Guides (Alphabetical) 
 |Game|Guide|RA Page|
 |:--|:--:|:--:|
+|Final Fantasy IV (J)|[Full](https://github.com/RetroAchievements/guides/wiki/Final-Fantasy-IV-(J)-(SNES))|[3528](https://retroachievements.org/game/3528)|
 |Illusion of Gaia|[[m]](https://github.com/RetroAchievements/guides/wiki/Illusion-of-Gaia-(SNES))|[945](https://retroachievements.org/game/945)|
 |Legend of Zelda, The: A Link to the Past|[Full](https://github.com/RetroAchievements/guides/wiki/The-Legend-of-Zelda:-A-Link-to-the-Past-(SNES))|[355](https://retroachievements.org/game/355)|
 |Shadowrun|[Full](https://github.com/RetroAchievements/guides/wiki/Shadowrun-(SNES))|[566](https://retroachievements.org/game/566)|
