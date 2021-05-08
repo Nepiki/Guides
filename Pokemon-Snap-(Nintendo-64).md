@@ -42,7 +42,7 @@ Step 2 is to just basically go back through the levels again and get stuff you d
 
 ## 4) Achievements
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75356.png) [Career Starter](https://retroachievements.org/Achievement/70551)  
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75356.png) Career Starter](https://retroachievements.org/Achievement/70551)  
 
 _Take your first photo!_
 
@@ -50,7 +50,7 @@ You cannot miss this, it is the first thing you have to do before you can freely
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74869.png) [Through Rock Tunnel](https://retroachievements.org/Achievement/70541)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74869.png) Through Rock Tunnel](https://retroachievements.org/Achievement/70541)
 
 _Unlock the Tunnel course_
 
@@ -58,7 +58,7 @@ All you need to do for this is take pictures of six Pokémon species.
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74870.png) [Over the Volcano](https://retroachievements.org/Achievement/70541)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74870.png) Over the Volcano](https://retroachievements.org/Achievement/70541)
 
 _Unlock the Volcano course_
 
@@ -66,7 +66,7 @@ This one you will need to unlock the Food in order to access it. When you have t
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74871.png) [River Rafting](https://retroachievements.org/Achievement/70543)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74871.png) River Rafting](https://retroachievements.org/Achievement/70543)
 
 _Unlock the River course_
 
@@ -74,7 +74,7 @@ To access this course, you need to take a picture of 22 species of Pokémon acro
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74872.png) [Cave Exploration](https://retroachievements.org/Achievement/70544)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74872.png) Cave Exploration](https://retroachievements.org/Achievement/70544)
 
 _Unlock the Cave course_
 
@@ -82,7 +82,7 @@ To unlock this course, you will need the Pesterball. When you have it, in the co
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74873.png) [Down Through the Valley](https://retroachievements.org/Achievement/70545)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74873.png) Down Through the Valley](https://retroachievements.org/Achievement/70545)
 
 _Unlock the Valley course_
 
@@ -90,13 +90,13 @@ This is the easiest to unlock as all you need to do is finish the Cave.
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74874.png) [At of End of the Rainbow Cloud](https://retroachievements.org/Achievement/70546)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74874.png) At of End of the Rainbow Cloud](https://retroachievements.org/Achievement/70546)
 
 _Unlock the the Rainbow Cloud course_
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75523.png) [Dinner Time!](https://retroachievements.org/Achievement/70547)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75523.png) Dinner Time!](https://retroachievements.org/Achievement/70547)
 
 _Unlock the Pokemon Food_
 
@@ -104,7 +104,7 @@ To unlock the Pokemon Food, you need your report score to total 24,000 points or
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75524.png) [Quit Pestering Me!](https://retroachievements.org/Achievement/70548)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75524.png) Quit Pestering Me!](https://retroachievements.org/Achievement/70548)
 
 _Unlock the Pesterball_
 
@@ -112,7 +112,7 @@ To unlock the Pesterball, you need to earn 72,500 points for your report score.
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75525.png) [Dashing Through!](https://retroachievements.org/Achievement/70549)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75525.png) Dashing Through!](https://retroachievements.org/Achievement/70549)
 
 _Unlock the Dash Engine_
 
@@ -120,7 +120,7 @@ To unlock the Dash Engine, you need to open an alternate route in the Valley. To
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75526.png)[The Musician's Lullaby](https://retroachievements.org/Achievement/70550)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75526.png) The Musician's Lullaby](https://retroachievements.org/Achievement/70550)
 
 _Unlock the Pokeflute_
 
@@ -128,7 +128,7 @@ To unlock the Pokeflute, you need to have your report score total 130,000 points
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76087.png)[Amateur Photographer](https://retroachievements.org/Achievement/70533)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76087.png) Amateur Photographer](https://retroachievements.org/Achievement/70533)
 
 _Get a picture of 20 different Pokemon._
 
@@ -136,7 +136,7 @@ See _Making My Name Known_.
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76088.png)[Making My Name Known](https://retroachievements.org/Achievement/70534)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76088.png) Making My Name Known](https://retroachievements.org/Achievement/70534)
 
 _Get a picture of 40 different Pokemon._
 
@@ -144,7 +144,7 @@ This one is earned just by playing through the game. Just take pictures of Pokem
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76014.png)[Kingler of the Beach](https://retroachievements.org/Achievement/70535)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76014.png) Kingler of the Beach](https://retroachievements.org/Achievement/70535)
 
 _Submit of photo of Kingler Rock sign._
 
@@ -152,7 +152,7 @@ This sign is on the Beach, it is near the beginning. On the left, you'll see som
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76015.png)[Pincered in a Shadow](https://retroachievements.org/Achievement/70536)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76015.png) Pincered in a Shadow](https://retroachievements.org/Achievement/70536)
 
 _Submit of photo of the Pincer Shadow sign._
 
@@ -160,7 +160,7 @@ This sign is in the tunnel. You will need to use both the Pokemon Food and the P
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76016.png)[Volcanic Gases](https://retroachievements.org/Achievement/70537)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76016.png) Volcanic Gases](https://retroachievements.org/Achievement/70537)
 
 _Submit of photo of the Koffing Smoke! sign._
 
@@ -168,7 +168,7 @@ The Koffing sign is in the volcano stage right at the beginning. On the left, yo
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76017.png)[The Orphaned Child](https://retroachievements.org/Achievement/70538)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76017.png) The Orphaned Child](https://retroachievements.org/Achievement/70538)
 
 _Submit a photo of the Cubone Tree! sign._
 
@@ -176,7 +176,7 @@ This is in the River course. On the right side, before the area with the Metapod
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76018.png)[Thanks to Science!](https://retroachievements.org/Achievement/70539)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76018.png) Thanks to Science!](https://retroachievements.org/Achievement/70539)
 
 _Submit of photo of the Mewtwo sign._
 
@@ -184,7 +184,7 @@ In the Cave, there are several large rooms. In the room with the Weepingbell, if
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76019.png)[A Trio of Humps](https://retroachievements.org/Achievement/70540)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76019.png) A Trio of Humps](https://retroachievements.org/Achievement/70540)
 
 _Submit of photo of the Mt. Dugtrio sign sign._
 
@@ -192,7 +192,7 @@ This one is in the Valley, as soon as you start, look straight ahead. You will s
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75564.png)[Strike A Pose](https://retroachievements.org/Achievement/70564)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75564.png) Strike A Pose](https://retroachievements.org/Achievement/70564)
 
 _Get a pose score of 1,250 points._
 
@@ -200,7 +200,7 @@ Pretty much for this, you will need to find special poses or do special things s
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75565.png)[Professional Photographer](https://retroachievements.org/Achievement/70565)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75565.png) Professional Photographer](https://retroachievements.org/Achievement/70565)
 
 _Take a picture worth more than 5,000 points._
 
@@ -208,7 +208,7 @@ This one can be a little tricky. The easiest way to do this is with Mew at the e
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75534.png)[A Highly Rated Salad](https://retroachievements.org/Achievement/70566)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75534.png) A Highly Rated Salad](https://retroachievements.org/Achievement/70566)
 
 _Submit a photo of a REAL Bulbasaur worth 4,000 points._
 
@@ -216,7 +216,7 @@ Do not confuse the Ditto Bulbasaur in the Cave for this, you can only get this a
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75535.png)[Charred Barbecue](https://retroachievements.org/Achievement/70567)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75535.png) Charred Barbecue](https://retroachievements.org/Achievement/70567)
 
 _Submit a photo of Charmander worth 4,000 points._
 
@@ -224,7 +224,7 @@ This is actually easier than it sounds. In the Volcano stage, get to the Moltres
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75536.png)[That Little Squirt!](https://retroachievements.org/Achievement/70568)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75536.png) That Little Squirt!](https://retroachievements.org/Achievement/70568)
 
 _Submit a photo of Squirtle worth 4,000 points._
 
@@ -232,7 +232,7 @@ In the Valley, you will see the Squirtle flowing down the river, you can hit the
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75537.png)[Beauty of the Sea](https://retroachievements.org/Achievement/70569)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75537.png) Beauty of the Sea](https://retroachievements.org/Achievement/70569)
 
 _Submit a photo of Larpris worth 3,000 points._
 
@@ -240,7 +240,7 @@ This one is very tricky because on the Beach, Lapras always seems so far out. Ho
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75538.png)[Could be Anything](https://retroachievements.org/Achievement/70570)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75538.png) Could be Anything](https://retroachievements.org/Achievement/70570)
 
 _Submit a photo of Ditto worth 4,000 points._
 
@@ -248,7 +248,7 @@ This one is pretty easy, at the start of the Cave level, you will see FAKE Bulba
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75539.png)[Digital Glitch](https://retroachievements.org/Achievement/70571)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75539.png) Digital Glitch](https://retroachievements.org/Achievement/70571)
 
 _Submit a photo of Porygon worth 4,000 points._
 
@@ -256,7 +256,7 @@ These guys are in the River. After the area with the Metapods, you'll see on the
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76109.png)[Icy Flight](https://retroachievements.org/Achievement/70572)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76109.png) Icy Flight](https://retroachievements.org/Achievement/70572)
 
 _Submit a photo of Articuno worth 4,500 points._
 
@@ -264,7 +264,7 @@ Articuno is in the Cave. You will eventually get to an area with some sleeping J
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75541.png)[Shocking](https://retroachievements.org/Achievement/70573)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75541.png) Shocking](https://retroachievements.org/Achievement/70573)
 
 _Submit a photo of Zapdos worth 4,500 points._
 
@@ -272,7 +272,7 @@ Zapdos is in the Cave in the first room past the doors. Lure Pikachu to the egg 
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75542.png)[Molten Hot](https://retroachievements.org/Achievement/70574)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75542.png) Molten Hot](https://retroachievements.org/Achievement/70574)
 
 _Submit a photo of Moltres worth 4,500 points._
 
@@ -280,7 +280,7 @@ Moltres is in the Volcano, you cannot miss it. You must knock its egg into the l
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75546.png)[The Genes of All](https://retroachievements.org/Achievement/70575)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75546.png) The Genes of All](https://retroachievements.org/Achievement/70575)
 
 _Submit a photo of Mew worth 10,000 points._
 
@@ -288,7 +288,7 @@ This is fairly hard to do. Mew is the only Pokemon in the Rainbow Cloud and you 
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75522.png)[Best Friends!](https://retroachievements.org/Achievement/70576)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75522.png) Best Friends!](https://retroachievements.org/Achievement/70576)
 
 _Submit a photo of Charmander worth over 1,000 Same Pokemon score._
 
@@ -296,7 +296,7 @@ See _Charred Barbeque_.
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75358.png)[Surfs up!](https://retroachievements.org/Achievement/70552)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75358.png) Surfs up!](https://retroachievements.org/Achievement/70552)
 
 _Submit a photo of Pikachu Surfing._
 
@@ -304,7 +304,7 @@ This is taken on the Beach, the first Pikachu you see on the right, use the Poke
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75359.png)[Rollin' Through](https://retroachievements.org/Achievement/70553)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75359.png) Rollin' Through](https://retroachievements.org/Achievement/70553)
 
 _Submit of photo of Pikachu on a Ball._
 
@@ -312,7 +312,7 @@ On the Tunnel, you'll see a Pikachu right at the start on the right. Snap pictur
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75360.png)[Totally Stumped](https://retroachievements.org/Achievement/70554)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75360.png) Totally Stumped](https://retroachievements.org/Achievement/70554)
 
 _Submit of Photo of Pikachu on a Stump._
 
@@ -320,7 +320,7 @@ On the Beach, in a grassy area on the left, you will also see some flower patche
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75361.png)[Pikachu, Use Agility!](https://retroachievements.org/Achievement/70555)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75361.png) Pikachu, Use Agility!](https://retroachievements.org/Achievement/70555)
 
 _Submit of Photo of a speeding Pikachu._
 
@@ -328,7 +328,7 @@ Close to the end of the River course, you will see a log with a Pikachu sticking
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75362.png)[Full of Hot Air](https://retroachievements.org/Achievement/70556)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75362.png) Full of Hot Air](https://retroachievements.org/Achievement/70556)
 
 _Submit a photo of a Balloon Pikachu._
 
@@ -336,7 +336,7 @@ In the Cave, you need to hit the Pikachu that is being carried by the Zubat, hit
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75363.png)[Soaring Through the Air](https://retroachievements.org/Achievement/70557)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75363.png) Soaring Through the Air](https://retroachievements.org/Achievement/70557)
 
 _Submit a photo of a flying Pikachu._
 
@@ -344,7 +344,7 @@ Similar to the Balloon Pikachu, you hit the Zubat, get Pikachu with its balloons
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75364.png)[Time For A Solo](https://retroachievements.org/Achievement/70558)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75364.png) Time For A Solo](https://retroachievements.org/Achievement/70558)
 
 _Submit of photo of one Jigglypuff on the stage._
 
@@ -352,7 +352,7 @@ There are 3 Jigglypuff in this stage being bullied by Koffing. You need to rescu
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75365.png)[Singing in a Trio](https://retroachievements.org/Achievement/70559)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75365.png) Singing in a Trio](https://retroachievements.org/Achievement/70559)
 
 _Submit of photo of a Trio of Jigglypuff on stage._
 
@@ -361,7 +361,7 @@ Just like _Time For A Solo_, you will need to rescue Jigglypuff, rescue all thre
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75366.png)[Hot Headed](https://retroachievements.org/Achievement/70560)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75366.png) Hot Headed](https://retroachievements.org/Achievement/70560)
 
 _Submit a photo of Fighting Magmar._
 
@@ -369,7 +369,7 @@ The best spot on the Volcano for this is after the Moltres Egg, you will see two
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75367.png)[Caught in the breeze](https://retroachievements.org/Achievement/70561)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75367.png) Caught in the breeze](https://retroachievements.org/Achievement/70561)
 
 _Submit of photo of Gust Using Pidgey._
 
@@ -377,7 +377,7 @@ This is done on the Beach, Meowth are chasing some Pidgey, free the Pidgey and t
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75368.png)[Getting My Groove On](https://retroachievements.org/Achievement/70562)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75368.png) Getting My Groove On](https://retroachievements.org/Achievement/70562)
 
 _Submit a photo of Dancing Graveller._
 
@@ -385,7 +385,7 @@ In the Valley, after you go down the big slope in the river, across from the wat
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75369.png)[The Treasure of the Rainbow](https://retroachievements.org/Achievement/70563)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75369.png) The Treasure of the Rainbow](https://retroachievements.org/Achievement/70563)
 
 _Submit a photo of the Rare Pokemon Mew._
 
@@ -393,7 +393,7 @@ Mew is the only Pokemon on the Rainbow Cloud, take it's picture but you need to 
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76023.png)[Mega Beach Party](https://retroachievements.org/Achievement/70577)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76023.png) Mega Beach Party](https://retroachievements.org/Achievement/70577)
 
 _Complete the Beach Challenge._
 
@@ -401,7 +401,7 @@ See _Challenging Valley Ride!_
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76024.png)[Tunnel Vision](https://retroachievements.org/Achievement/70578)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76024.png) Tunnel Vision](https://retroachievements.org/Achievement/70578)
 
 _Complete the Tunnel Challenge._
 
@@ -409,7 +409,7 @@ See _Challenging Valley Ride!_
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76025.png)[Hot Time on the Hill](https://retroachievements.org/Achievement/70579)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76025.png) Hot Time on the Hill](https://retroachievements.org/Achievement/70579)
 
 _Complete the Volcano Challenge._
 
@@ -417,7 +417,7 @@ See _Challenging Valley Ride!_
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76026.png)[River Rafting Blast!](https://retroachievements.org/Achievement/70580)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76026.png) River Rafting Blast!](https://retroachievements.org/Achievement/70580)
 
 _Complete the River Challenge._
 
@@ -425,7 +425,7 @@ See _Challenging Valley Ride!_
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76027.png)[Cave Adventurer](https://retroachievements.org/Achievement/70581)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76027.png) Cave Adventurer](https://retroachievements.org/Achievement/70581)
 
 _Complete the Cave Challenge._
 
@@ -433,7 +433,7 @@ See _Challenging Valley Ride!_
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76028.png)[Challenging Valley Ride!](https://retroachievements.org/Achievement/70582)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76028.png) Challenging Valley Ride!](https://retroachievements.org/Achievement/70582)
 
 _Complete the Valley Challenge._
 
@@ -441,7 +441,7 @@ These challenges are all about getting lots of pictures on your run though the c
 
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76029.png)[Rainbow Cloud Soaring](https://retroachievements.org/Achievement/70583)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76029.png) Rainbow Cloud Soaring](https://retroachievements.org/Achievement/70583)
 
 _Complete the Rainbow Cloud Challenge._
 
