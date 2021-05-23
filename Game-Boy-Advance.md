@@ -1,7 +1,4 @@
 List of Guides (Alphabetical) 
 |Game|Guide|RA Page|
 |:--|:--:|:--:|
-|Title|Type of guide with link to it|RA Game ID with link to page|
-
-**Currently nothing, but you can fix that.** \:\-\)  
-_Please replace the template line and remove all text below when you do. \<3_
+|\~Hack\~ Pokemon - Glazed|[Full](https://github.com/RetroAchievements/guides/wiki/Pokemon:-Glazed-(Hack)-(Game-Boy-Advance))|[6353](https://retroachievements.org/game/6353)|
