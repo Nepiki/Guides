@@ -39,7 +39,7 @@ List of platforms with guides
 
 ### Sony
 * PlayStation
-> [Rugrats: Search for Reptar](https://github.com/RetroAchievements/guides/wiki/Rugrats:-Search-for-Reptar-(PlayStation))  
+> [Rugrats: Search for Reptar](https://github.com/RetroAchievements/guides/wiki/Rugrats:-Search-for-Reptar-(PlayStation))   - [RA Link](https://retroachievements.org/game/826)  
 > [Suikoden](https://github.com/RetroAchievements/guides/wiki/Suikoden-(PlayStation)) - [RA Link](http://retroachievements.org/game/11255)  
 > [Tomba!](https://github.com/RetroAchievements/guides/wiki/Tomba!-(PlayStation)) - [RA Link](http://retroachievements.org/game/11276)  
 > [Tomba! 2: The Evil Swine Return](https://github.com/RetroAchievements/guides/wiki/Tomba!-2:-The-Evil-Swine-Return-(Playstation)) - [RA Link](http://retroachievements.org/game/11306)  
