@@ -19,9 +19,10 @@ List of platforms with guides
 * [Nintendo 64](https://github.com/RetroAchievements/guides/wiki/Nintendo-64)
 * [Game Boy](https://github.com/RetroAchievements/guides/wiki/Game-Boy)
 * [Game Boy Color](https://github.com/RetroAchievements/guides/wiki/Game-Boy-Color)
+* [Game Boy Advance](https://github.com/RetroAchievements/guides/wiki/Game-Boy-Advance)
 
-* Game Boy Advance
-> [Pokemon Glazed](https://github.com/RetroAchievements/guides/wiki/~Hack~-Pok%C3%A9mon-Glazed-(GameBoy-Advance)) - [RA Link](https://retroachievements.org/game/6353)
+* Sega Genesis / Mega Drive
+> [Shadowrun](https://github.com/RetroAchievements/guides/wiki/Shadowrun-(Mega-Drive)) - [RA Link](https://retroachievements.org/game/4748)  
 
 * Game Gear
 > [Last Action Hero](https://github.com/RetroAchievements/guides/wiki/Last-Action-Hero-(Game-Gear)) - [RA Link](https://retroachievements.org/achievement/95081)  
@@ -36,6 +37,3 @@ List of platforms with guides
 > [Tomba!](https://github.com/RetroAchievements/guides/wiki/Tomba!-(PlayStation)) - [RA Link](http://retroachievements.org/game/11276)  
 > [Tomba! 2: The Evil Swine Return](https://github.com/RetroAchievements/guides/wiki/Tomba!-2:-The-Evil-Swine-Return-(Playstation)) - [RA Link](http://retroachievements.org/game/11306)  
 > [Yu-Gi-Oh! Forbidden Memories](https://github.com/RetroAchievements/guides/wiki/Yu%E2%80%90Gi%E2%80%90Oh!-Forbidden-Memories-(PlayStation)) - [RA Link](http://retroachievements.org/game/11388)  
-
-* Sega Genesis / Mega Drive
-> [Shadowrun](https://github.com/RetroAchievements/guides/wiki/Shadowrun-(Mega-Drive)) - [RA Link](https://retroachievements.org/game/4748)  
