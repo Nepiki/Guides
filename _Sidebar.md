@@ -51,9 +51,9 @@
 * Arcade
 * Apple II
 * ColecoVision
+* Magnavox Odyssey 2
 * MSX / MSX2
 * Neo Geo Pocket / Color
 * Vectrex
+* Watara Supervision
 * WonderSwan / Color
-* Magnavox Odyssey 2
-
