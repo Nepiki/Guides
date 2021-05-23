@@ -16,10 +16,10 @@
 * [Nintendo 64 / 64DD](Nintendo-64)
 * [GameBoy](Game-Boy)
 * [GameBoy Color](Game-Boy-Color)
-* GameBoy Advance
-* Nintendo DS
-* Virtual Boy
-* Pokémon Mini
+* [GameBoy Advance](Game-Boy-Advance)
+* [Nintendo DS](Nintendo-DS)
+* [Virtual Boy](Virtual-Boy)
+* [Pokémon Mini](Pokemon-Mini)
 
 
 ## Sega
