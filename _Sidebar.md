@@ -1,22 +1,29 @@
-RAGuides Directory
+# [RAGuides Wiki Home Page](https://github.com/RetroAchievements/guides/wiki)
+
+
 ## Atari
-* [2600](https://github.com/RetroAchievements/guides/wiki/Atari-2600)
-* [7800](https://github.com/RetroAchievements/guides/wiki/Atari-7800)
-* [Jaguar](https://github.com/RetroAchievements/guides/wiki/Atari-Jaguar)
-* [Lynx](https://github.com/RetroAchievements/guides/wiki/Atari-Lynx)
+
+* [2600](Atari-2600)
+* [7800](Atari-7800)
+* [Jaguar](Atari-Jaguar)
+* [Lynx](Atari-Lynx)
+
 
 ## Nintendo
-* [NES / FDS](https://github.com/RetroAchievements/guides/wiki/NES)
-* [SNES](https://github.com/RetroAchievements/guides/wiki/SNES)
-* [Nintendo 64 / 64DD](https://github.com/RetroAchievements/guides/wiki/Nintendo-64)
-* [GameBoy](https://github.com/RetroAchievements/guides/wiki/Game-Boy)
-* [GameBoy Color](https://github.com/RetroAchievements/guides/wiki/Game-Boy-Color)
+
+* [NES / FDS](NES)
+* [SNES](SNES)
+* [Nintendo 64 / 64DD](Nintendo-64)
+* [GameBoy](Game-Boy)
+* [GameBoy Color](Game-Boy-Color)
 * GameBoy Advance
 * Nintendo DS
 * Virtual Boy
 * Pokémon Mini
 
+
 ## Sega
+
 * SG-1000
 * Master System
 * Mega Drive / Genesis
@@ -25,15 +32,21 @@ RAGuides Directory
 * Saturn
 * Game Gear
 
+
 ## NEC
+
 * PC-Engine / TurboGrafx-16 / CD
 * PC-FX
 * PC-8001/8801
 
+
 ## Sony
+
 * PlayStation
 
+
 ## Other
+
 * 3DO Interactive Multiplayer
 * Arcade
 * Apple II
@@ -43,3 +56,4 @@ RAGuides Directory
 * Vectrex
 * WonderSwan / Color
 * Magnavox Odyssey 2
+
