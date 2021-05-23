@@ -14,6 +14,10 @@ Any user or developer can add or improve guides here.
 ## Directory
 List of platforms with guides
 
+### Atari
+* [Atari 2600](https://github.com/RetroAchievements/guides/wiki/Atari-2600)
+
+### Nintendo
 * [NES](https://github.com/RetroAchievements/guides/wiki/NES)
 * [SNES](https://github.com/RetroAchievements/guides/wiki/SNES)
 * [Nintendo 64](https://github.com/RetroAchievements/guides/wiki/Nintendo-64)
@@ -21,6 +25,7 @@ List of platforms with guides
 * [Game Boy Color](https://github.com/RetroAchievements/guides/wiki/Game-Boy-Color)
 * [Game Boy Advance](https://github.com/RetroAchievements/guides/wiki/Game-Boy-Advance)
 
+### Sega
 * Sega Genesis / Mega Drive
 > [Shadowrun](https://github.com/RetroAchievements/guides/wiki/Shadowrun-(Mega-Drive)) - [RA Link](https://retroachievements.org/game/4748)  
 
@@ -28,9 +33,11 @@ List of platforms with guides
 > [Last Action Hero](https://github.com/RetroAchievements/guides/wiki/Last-Action-Hero-(Game-Gear)) - [RA Link](https://retroachievements.org/achievement/95081)  
 > [Tama and Friends Sanchoume Kouen - Tamalympic](https://github.com/RetroAchievements/guides/wiki/Tama-and-Friends-Sanchoume-Kouen---Tamalympic-(Game-Gear)) - [RA Link](http://retroachievements.org/game/12524)  
 
+### NEC
 * PC Engine
 > [Legend of Hero Tonma](https://github.com/RetroAchievements/guides/wiki/Legend-of-Hero-Tonma-(PC-Engine)) - [RA Link](https://retroachievements.org/game/2303)  
 
+### Sony
 * PlayStation
 > [Rugrats: Search for Reptar](https://github.com/RetroAchievements/guides/wiki/Rugrats:-Search-for-Reptar-(PlayStation))  
 > [Suikoden](https://github.com/RetroAchievements/guides/wiki/Suikoden-(PlayStation)) - [RA Link](http://retroachievements.org/game/11255)  
