@@ -6,5 +6,5 @@ List of Guides (Alphabetical
 |Final Fantasy III (J) | [Full](Final-Fantasy-III-(J)-(NES)) | [5553](https://retroachievements.org/game/5553)|
 |Ghoul School | [Full](Ghoul-School-(NES)) | [1711](https://retroachievements.org/game/1711)|
 |Kid Icarus | [Full](Kid-Icarus-(NES)) | [1478](https://retroachievements.org/game/1478)|
-|Robin Hood: Prince of Thieves | [Full](Robin-Hood:-Prince-of-Thieves-(NES)) | [1913](https://retroachievements.org/game/1913)|
+|Robin Hood: Prince of Thieves | [Full](Robin-Hood-Prince-of-Thieves-(NES)) | [1913](https://retroachievements.org/game/1913)|
 |\~Hack\~ Toadette's Christmas Adventure | [Full](Toadettes-Christmas-Adventure-(Hack)-(NES)) | [9112](https://retroachievements.org/game/9112)|
