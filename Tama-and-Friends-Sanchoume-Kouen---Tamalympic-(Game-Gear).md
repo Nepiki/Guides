@@ -81,7 +81,7 @@ Same concept as the others, play enough to get to the top. The amount of time it
 ![](http://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62011.png) [Hop Our Way To Victory](http://retroachievements.org/achievement/59271)   
 _Earn at least 75 points or more on the Tires (not in practice mode)._
 
-Basically hope your way around between each thing. The more you do consecutively, the most points you get. You also need to watch out for the scrolling screen and don’t let it catch up to you. This one is the easiest to determine your score because each successful hop is a point. So I recommend starting with this one and if you don’t do that well, then restart. I also recommend using this one to get [Was That a Fluke… or Skill?](http://retroachievements.org/achievement/59275) as I found it to be the easiest to get a consistent high score.
+Basically hop your way around between each thing. The more you do consecutively, the most points you get. You also need to watch out for the scrolling screen and don’t let it catch up to you. This one is the easiest to determine your score because each successful hop is a point. So I recommend starting with this one and if you don’t do that well, then restart. I also recommend using this one to get [Was That a Fluke… or Skill?](http://retroachievements.org/achievement/59275) as I found it to be the easiest to get a consistent high score.
 
 =-----------------------------------------------------------=
 
