@@ -1,4 +1,4 @@
-List of Guides (Alphabetical
+List of Guides (Alphabetical)
 
 |Game|Guide|RA Page|
 |:--|:--:|:--:|
