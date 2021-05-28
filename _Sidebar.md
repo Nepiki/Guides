@@ -20,7 +20,7 @@
 - [Game Gear](Game-Gear)
 - [Genesis/Mega Drive](Mega-Drive)
 - [Sega CD](Sega-CD)
-- [Sega 32X](Sega-32X)
+- [Sega 32X](32X)
 - [Sega Saturn](Saturn)
 
 
