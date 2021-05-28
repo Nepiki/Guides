@@ -46,7 +46,7 @@
 
 ## Other
 
-- [3DO](3DO)
+- [3DO](3DO-Interactive-Multiplayer)
 - [Arcade](Arcade)
 - [Apple II](Apple-II)
 - [ColecoVision](ColecoVision)
