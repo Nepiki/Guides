@@ -1,4 +1,5 @@
 List of Guides (Alphabetical) 
+
 |Game|Guide|RA Page|
 |:--|:--:|:--:|
 |Title|Type of guide with link to it|RA Game ID with link to page|
