@@ -69,7 +69,7 @@ There are a total of 130 achievements, which can be broken down into the followi
 
 The following is a breakdown of the order of achievements based on my personal playthrough. Note that your mileage may vary due to the path you may desire to take, such as getting Odin before going to the Moon.
 
-Each section is grouped under story achievements and hidden under a dropdown to avoid spoilers. If you want to see the achievements, **click on the arrow** next to each section to reveal the table. I have call outs to sections where a grind may be appropriate for the three grind achievements. If you want to see the entire thing, [click here!](https://github.com/RetroAchievements/guides/wiki/Final-Fantasy-IV-Achievement-Order)
+Each section is grouped under story achievements and hidden under a dropdown to avoid spoilers. If you want to see the achievements, **click on the arrow** next to each section to reveal the table. I have call outs to sections where a grind may be appropriate for the three grind achievements. If you want to see the entire thing, [click here!](Final-Fantasy-IV-Achievement-Order)
 
 :no_entry: **MINOR SPOILER SECTION** :no_entry:
 <br>The tables only reveal when achievements can be earned and possibly missed. No strategies on earning the achievements are provided here, just the order I earned them in.
