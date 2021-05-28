@@ -15,7 +15,7 @@
 
 ## Sega
 
-- [SG-100](SG-100)
+- [SG-1000](SG-1000)
 - [Master System](Master-System)
 - [Game Gear](Game-Gear)
 - [Genesis/Mega Drive](Mega-Drive)
