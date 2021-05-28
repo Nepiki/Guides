@@ -14,33 +14,23 @@ Any user or developer can add or improve guides here.
 ## Directory
 List of platforms with guides
 
-### Atari
-* [Atari 2600](https://github.com/RetroAchievements/guides/wiki/Atari-2600)
-
 ### Nintendo
-* [NES](https://github.com/RetroAchievements/guides/wiki/NES)
-* [SNES](https://github.com/RetroAchievements/guides/wiki/SNES)
-* [Nintendo 64](https://github.com/RetroAchievements/guides/wiki/Nintendo-64)
-* [Game Boy](https://github.com/RetroAchievements/guides/wiki/Game-Boy)
-* [Game Boy Color](https://github.com/RetroAchievements/guides/wiki/Game-Boy-Color)
-* [Game Boy Advance](https://github.com/RetroAchievements/guides/wiki/Game-Boy-Advance)
+* [NES](NES)
+* [SNES](SNES)
+* [Nintendo 64](Nintendo-64)
+* [GameBoy](Game-Boy)
+* [GameBoy Color](Game-Boy-Color)
+* [GameBoy Advance](Game-Boy-Advance)
 
 ### Sega
-* Sega Genesis / Mega Drive
-> [Shadowrun](https://github.com/RetroAchievements/guides/wiki/Shadowrun-(Mega-Drive)) - [RA Link](https://retroachievements.org/game/4748)  
+* [Genesis/Mega Drive](Mega-Drive)
+* [Game Gear](Game-Gear)
 
-* Game Gear
-> [Last Action Hero](https://github.com/RetroAchievements/guides/wiki/Last-Action-Hero-(Game-Gear)) - [RA Link](https://retroachievements.org/achievement/95081)  
-> [Tama and Friends Sanchoume Kouen - Tamalympic](https://github.com/RetroAchievements/guides/wiki/Tama-and-Friends-Sanchoume-Kouen---Tamalympic-(Game-Gear)) - [RA Link](http://retroachievements.org/game/12524)  
-
-### NEC
-* PC Engine
-> [Legend of Hero Tonma](https://github.com/RetroAchievements/guides/wiki/Legend-of-Hero-Tonma-(PC-Engine)) - [RA Link](https://retroachievements.org/game/2303)  
+### Atari
+* [Atari 2600](Atari-2600)
 
 ### Sony
-* PlayStation
-> [Rugrats: Search for Reptar](https://github.com/RetroAchievements/guides/wiki/Rugrats:-Search-for-Reptar-(PlayStation))   - [RA Link](https://retroachievements.org/game/826)  
-> [Suikoden](https://github.com/RetroAchievements/guides/wiki/Suikoden-(PlayStation)) - [RA Link](http://retroachievements.org/game/11255)  
-> [Tomba!](https://github.com/RetroAchievements/guides/wiki/Tomba!-(PlayStation)) - [RA Link](http://retroachievements.org/game/11276)  
-> [Tomba! 2: The Evil Swine Return](https://github.com/RetroAchievements/guides/wiki/Tomba!-2:-The-Evil-Swine-Return-(Playstation)) - [RA Link](http://retroachievements.org/game/11306)  
-> [Yu-Gi-Oh! Forbidden Memories](https://github.com/RetroAchievements/guides/wiki/Yu%E2%80%90Gi%E2%80%90Oh!-Forbidden-Memories-(PlayStation)) - [RA Link](http://retroachievements.org/game/11388)  
+* [PlayStation](PlayStation)
+
+### NEC
+* [PC Engine](PC-Engine)
