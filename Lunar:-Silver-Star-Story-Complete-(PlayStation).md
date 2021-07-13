@@ -64,7 +64,7 @@ Point of no return - Accepting Laike's help.
 ### [Kleenex Party](https://retroachievements.org/achievement/161686)
 
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181820.png)
-*Defeat Saline Slimer without anyone getting knocked out or using MP*
+*Defeat Saline Slimer without anyone getting knocked out*
 
 Self-explanatory.
 
@@ -338,7 +338,7 @@ Self-explanatory.
 ### [It's All Over Now, Baby Blue](https://retroachievements.org/achievement/161700)
 
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181845.png)
-*Defeat the Magic Emperor without anyone getting knocked out or using Dragon Spells*
+*Defeat the Magic Emperor without using Dragon Spells*
 
 Self-explanatory.
 
