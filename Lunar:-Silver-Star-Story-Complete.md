@@ -398,7 +398,7 @@ Hope you got that soap.
 
 Self-explanatory + soap.
 
-### (Girls Just Want to Have Fun](https://retroachievements.org/achievement/159785)
+### [Girls Just Want to Have Fun](https://retroachievements.org/achievement/159785)
 
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/179673.png)
 *Unlock and view both scenes at the ladies' hot spring*
