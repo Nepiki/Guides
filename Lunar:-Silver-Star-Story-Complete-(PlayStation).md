@@ -279,7 +279,7 @@ Self-explanatory.
 
 Self-explanatory.
 
-### [Friendly Memento](
+### [Friendly Memento](https://retroachievements.org/achievement/160002)
 
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181868.png)
 *Obtain the Rememberizer from Ramus for free*
