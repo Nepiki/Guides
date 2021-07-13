@@ -151,7 +151,7 @@ Point of no return - Accepting her help.
 ### [Alex Ain't No Cheater](https://retroachievements.org/achievement/161064)
 
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181014.png)
-*Clear Crystal Tower with no weapons equiped (aka No Dragonfly Wing glitch)*
+*Clear Crystal Tower with no weapons equipped (aka No Dragonfly Wing glitch)*
 
 While you're supposed to do this anyway, there's a glitch that will allow you to get through the tower with weapons equipped. This achievement is here to make sure you don't do that.
 
