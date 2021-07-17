@@ -7,7 +7,7 @@
 ### Difficulty Info
 
 **Set Difficulty:** Medium<br>
-**Approximate time to master:** A while<br>
+**Approximate time to master:** 25-ish hours if you know what to do<br>
 **Minimum Number of Playthroughs Needed:** 1 with well-placed back-up saves.<br>
 **Number of Missable Achievements:** 48-ish<br>
 **Note:** There's a late-game point-of-no-return where nearly everything becomes missable. This guide will only cover what is missable up to that point.<br>
