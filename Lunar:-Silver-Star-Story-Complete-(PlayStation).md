@@ -96,7 +96,7 @@ Self-explanatory.
 ### [Flushed Away](https://retroachievements.org/achievement/161695)
 
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181840.png)
-*Defeat the Water Dragon without anyone getting knocked out or using MP*
+*Defeat the Water Dragon without anyone getting knocked out*
 
 Self-explanatory.
 
@@ -187,7 +187,7 @@ Point of no return - Talking to Quark at White Dragon Cave while Ghaleon is in y
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181887.png)
 *Win 20 battles while Meribia is under attack without using an Althena Statue*
 
-Point of no return - Entering the manion in Meribia.
+Point of no return - Entering the mansion in Meribia.
 
 ### [Shelled and Deveined](https://retroachievements.org/achievement/161694)
 
@@ -331,7 +331,7 @@ Self-explanatory.
 ### [No Vile Warrior](https://retroachievements.org/achievement/160035)
 
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181895.png)
-*Defeat Royce without anyone getting knocked out or using Dragon Spells*
+*Defeat Xenobia without anyone getting knocked out or using Dragon Spells*
 
 Self-explanatory.
 
