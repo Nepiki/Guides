@@ -2,14 +2,12 @@
 
 This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/game/3652). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
 
-**Also, the current achievement set for this game is currently Unofficial. The achievements and points are subject to change, and getting them now won't count. When/If this set goes to core, This guide will be linked on the GBA hub page and this bolded part will be deleted.**
-
-((Insert some images here))
+![](https://retroachievements.org/Images/021426.png)
 
 ## Synopsis
 
 Set Difficulty: 4/10  
-Approximate time to Master: 10-15 hours  
+Approximate time to Master: 12-20 hours  
 Minimum Number of Playthroughs Needed: 1 (can earn every achievement on a single new file, without starting over)  
 Number of Missable Achievements: 0
 Does Difficulty Affect Achievements?: Minigames (5 achievements, hard difficulty required)
