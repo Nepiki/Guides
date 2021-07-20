@@ -310,7 +310,7 @@ The controls are all very similar. D-Pad Left/Right moves Moe at the bottom of t
 
 *Complete the bomb blasting minigame on hard difficulty.*
 
-Pretty straightforward. Just mash A to explode the bombs, but not too much, as there is a limit to the maximum number of projectiles you can have on the screen. Hard difficulty has some bombs that move differently, but this should still be an easy affair.
+Pretty straightforward. Just mash A to explode the bombs, but not too much, as there is a maximum number of projectiles you can have on the screen at one time. Hard difficulty has some bombs that move differently, but this should still be an easy affair.
 
 ![img](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/168681.png)Colorful Block Buster (5)
 
@@ -347,6 +347,8 @@ Clutching Those Pearls/Regular at Lovely's/Mad Shopper/The Whole Catalogue (22 t
 Here's where all that pearl grinding pays off. The pearl amount in the icon indicates the number of pearls required to buy everything in that batch. You must re-enter the shop after you've bought everything in that batch to move onto the next one. 
 
 In total, you need about 25,000 pearls to buy everything. If you've been collecting pearls and buying stuff at the shop regularly, you should have a good chunk of this requirement. As for good pearl grinding spots, there seems to be no definitive area that gives significantly more pearls. Some story areas with side paths, like 8-1, 8-5, 9-6, 11-4 and 11-5, have dead ends with lots of pearls, which may be your go-to. Postgame areas are generally hit-or-miss with pearl counts; I try to avoid any area with a slow vehicle section. Remember that re-entering a door reloads all the enemies, so you could also find a good spot to chain kills. Also, the START + SELECT exit to stage map automatically saves all of your pearls, so you can re-enter and collect them again and again without going all the way to the treasure chest at the end!
+
+Update: 8-5 seems to be the way to go. Thanks to the shortcut doors, there's almost no platforming involved and you can snag 50 pearls in each of the 4 side rooms pretty easily, totaling ~200 pearls per trip. My play-testing shows that I got roughly 5,000 pearls in 30 minutes.
 
 ![img](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/180651.png)Symphonic Sea Jams (10)
 
