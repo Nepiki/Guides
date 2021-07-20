@@ -480,6 +480,10 @@ Enter Stage 11-4 and enter the top-left door. Ride the Koala/Crocodile costume, 
 
 In Stage 7-1, make sure that you **talk** to these NPC's to record them in your picture book. They're some of the only NPC entries that are not "guaranteed" because there are no forced cutscenes involving these characters.
 
+![](https://www.starfywiki.org/images/5/59/DnS2_Z107.png)#107: Barrel Squid
+
+In Stage 6-3, this NPC is at the bottom-right of the first screen. There were a couple of these guys in the first game, but this seems to be the only Barrel Squid here...
+
 That's just about every hard-to-find enemy/NPC, so if you're missing any other enemy (particularly vehicle-exclusive ones), that's on you. You're *bound* to run into most other enemies if you're completing every area.
 
 ### Step 5: Area-Specific Challenges
