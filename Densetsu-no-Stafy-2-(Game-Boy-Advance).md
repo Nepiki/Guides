@@ -142,7 +142,7 @@ You'll reach a point where you'll have to answer a series of questions (see imag
 
 ![](https://cdn.discordapp.com/attachments/780609366947528716/854065128126808084/Densetsu_no_Stafy_2_Japan.png)
 
-Answer the second (bottom) option for the first question, then the first (top) option for the rest of them. If you mess up, move close to Moe to begin the cutscene again.
+Answer the second (bottom) option for the first question, then the first (top) option for the rest of them. If you mess up, move closer to Moe to begin the cutscene again.
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/180635.png)
 
@@ -492,7 +492,7 @@ The "retry factor" here is also minimal. In case you mess up (i.e. the challenge
 
 *Complete Stage 1-5 without collecting any pearls, taking damage, defeating any enemies, or disturbing any mermaids (retry from stage map)*
 
-Quite a lot going on here. The first screen has two tight maneuvers you must do. Perform a [well-timed Ultra Star Spin](https://cdn.discordapp.com/attachments/780609366947528716/853446902669770792/ezgif-3-4a13f59e738b.gif) to make it past the set of spikes on the ledge. Then, carefully [fall off this ledge](https://cdn.discordapp.com/attachments/780609366947528716/853449073099800576/ezgif-3-8452623a6102.gif) to avoid the pearls. I do a short hop to start falling faster.
+Quite a lot going on here. [Full Video Guide.](https://cdn.discordapp.com/attachments/780609366947528716/866872083182518302/Starfy21-5.webm) The first screen has two tight maneuvers you must do. Perform a [well-timed Ultra Star Spin](https://cdn.discordapp.com/attachments/780609366947528716/853446902669770792/ezgif-3-4a13f59e738b.gif) to make it past the set of spikes on the ledge. Then, carefully [fall off this ledge](https://cdn.discordapp.com/attachments/780609366947528716/853449073099800576/ezgif-3-8452623a6102.gif) to avoid the pearls. I do a short hop to start falling faster.
 
 On the second screen, use your Air Jump and Glide abilities to carefully avoid all the crabs and Voids. On the third screen, there are one enemy in the water and one near the water surface. Swim carefully around them. Then, when you climb up top to go to the maze, stay in the middle two holes to avoid any pearls.
 
@@ -514,7 +514,7 @@ Also straightforward. There are a couple of platforms where you need to be dashi
 
 *Complete Stage 6-6 without taking damage (retry from stage map)*
 
-Harder than it looks. Remember to keep the piranhas and big fish distracted with meat from the trees to sneak past them, and also that piranhas will try to move towards meat that is behind a wall! Avoid the pink floaty enemies, too, and be careful around those green sword enemies in the third screen; they can hit you through ceilings/floors.
+Harder than it looks. Remember to keep the piranhas and big fish distracted with meat from the trees to sneak past them, and also that piranhas will try to move towards meat that is behind a wall! Avoid the pink floaty enemies, too, and be careful around those green sword enemies in the third screen; they can hit you through ceilings/floors. [Video Guide](https://cdn.discordapp.com/attachments/780609366947528716/866872100605788190/Starfy26-6.webm)
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/180657.png)Plunder Ogura's Castle (5)
 
@@ -530,7 +530,7 @@ Fun fact: This area in the postgame has the most pearls out of any area, but, be
 
 *In the fourth map of Stage 11-10, defeat all 22 Kurubon in a row without breaking your combo or taking damage*
 
-Best shown with [this webm](https://cdn.discordapp.com/attachments/780609366947528716/853442298876657685/2021-06-12_20-54-08_1.webm). Essentially, you're chaining Shooting Stars and Air Jumps across every Kurobon. Notice how every Kurubon at the fifth one and after explodes into a big pearl. If you wait too long after killing and enemy, your combo resets (and the challenge indicator disappears), and they won't all drop big pearls anymore. Follow the webm closely; some combo kills are on a tight timer. One or two of the Kurobon are also "blind" jumps, requiring you to fall down before the camera scrolls all the way.
+Best shown with [this webm](https://cdn.discordapp.com/attachments/780609366947528716/866872090380206091/Starfy211-10.webm). Essentially, you're chaining Shooting Stars and Air Jumps across every Kurobon. Notice how every Kurubon at the fifth one and after explodes into a big pearl. If you wait too long after killing and enemy, your combo resets (and the challenge indicator disappears), and they won't all drop big pearls anymore. Follow the webm closely; some combo kills are on a tight timer. One or two of the Kurobon are also "blind" jumps, requiring you to fall down before the camera scrolls all the way.
 
 There's also a save Mermaid at the start of this map, so you can reset the game if you run out of hearts.
 
