@@ -7,7 +7,7 @@ Originally published by Ultravision in 1982 and later re-released by Froggo, Kar
 **Time Estimate**: 15 minutes  
 **Missable Achievements**: 0
 ## Gameplay
-The gameplay is very poor and requires more luck than skill. Strategising moves might be possible but generally mashing random moves and hoping you get luckier than the AI works better.     
+The gameplay is very poor and requires more luck than skill. Strategizing moves might be possible but generally mashing random moves and hoping you get luckier than the AI works better.     
 You control the fighter on the right. You can combine the fire button as well as a direction on the joystick to perform 5 different moves. Each move offers different points added to your score. Knockdowns can occur when the player connects a perfect up kick to the face. 
 The winner is determined by who has the most points after the two minute timer finishes or whoever reaches 900 first. Once a fighter wins this means they progress up a belt in this order:      
 > White -> Orange -> Green -> Yellow -> Black -> Tournament Champion       
@@ -19,6 +19,7 @@ The manual says that *Difficulty A* is slow mode and *Difficulty B* is fast mode
 ---
 
 **Move Set**
+
 | Button Combination     | Move        | 
 | :---                   |    :----:   | 
 | Neutral + Fire         | Up Punch    | 
@@ -28,6 +29,7 @@ The manual says that *Difficulty A* is slow mode and *Difficulty B* is fast mode
 | Left + Fire            | Up Kick |.         
     
 **Scoring System**
+
 | Move    | Points       | 
 | :---                   |    :----:   | 
 | Up Punch         | 10 | 
@@ -52,7 +54,7 @@ Here I will explain how to guarantee a win pretty much every time. Begin the gam
 | ![Image][2] | [Staring Contest][1]|
 | :---:                  |    :----  | 
 
-Load the game and press select to set it to mode 001. After a second or two the timer should automatically start counting and the players wont move. Simply wait (or fast forward) until you win the championship. If the opponent moves just reload the rom and try again. 
+Load the game and press select to set it to mode 001. After a second or two the timer should automatically start counting and the players wont move. Simply wait (or fast forward) until you win the championship. If the opponent moves just reload the ROM and try again. 
 
 | ![Image][4] | [Get Back Here!][3]|
 | :---:                  |    :----  |   
@@ -72,23 +74,23 @@ The aforementioned tactic is, believe it or not, too powerful for this achieveme
 
 
 
-[1]: http://retroachievements.org/achievement/142278
+[1]: https://retroachievements.org/achievement/142278
 [2]: https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/158869.png
-[3]: http://retroachievements.org/achievement/142280
+[3]: https://retroachievements.org/achievement/142280
 [4]: https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/158870.png
-[5]: http://retroachievements.org/achievement/142281
+[5]: https://retroachievements.org/achievement/142281
 [6]: https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/158871.png
-[7]: http://retroachievements.org/achievement/142283
+[7]: https://retroachievements.org/achievement/142283
 [8]: https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/158868.png
-[9]: http://retroachievements.org/achievement/142286
+[9]: https://retroachievements.org/achievement/142286
 [10]: https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/158866.png
-[11]: http://retroachievements.org/achievement/142284
+[11]: https://retroachievements.org/achievement/142284
 [12]: https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/158872.png
-[13]: http://retroachievements.org/achievement/142282
+[13]: https://retroachievements.org/achievement/142282
 [14]: https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/158861.png
-[15]: http://retroachievements.org/achievement/142279
+[15]: https://retroachievements.org/achievement/142279
 [16]: https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/158867.png
-[17]: http://retroachievements.org/achievement/142285
+[17]: https://retroachievements.org/achievement/142285
 [18]: https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/158873.png
-[19]: http://retroachievements.org/user/Schlim
-[20]: http://retroachievements.org/user/endtimes
+[19]: https://retroachievements.org/user/Schlim
+[20]: https://retroachievements.org/user/endtimes
