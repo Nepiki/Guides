@@ -2,8 +2,8 @@
 
 ### Achievement Info
 
-**Total Achievements:** 40  
-**Total Points:** 333  
+**Total Achievements:** 37  
+**Total Points:** 418  
 
 ### Difficulty Info
 
@@ -24,11 +24,11 @@ fbe20570c2e52c937a9395024069ba3c - USA - Used to make achievements
 
 # 2) Introduction
 
-![Game Badge](http://i.retroachievements.org/Images/024809.png)
+![Game Badge](https://retroachievements.org/Images/024809.png)
 
 [Pokémon Pinball](https://retroachievements.org/game/725) is a pinball game based on Pokémon for the Gameboy Color. As the title suggests, the gameplay is pinball-based, but with a uniquely Pokémon-inspired spin. For example, the game is divided into two tables, the Red Field and the Blue Field, each with different table designs, accessible map locations, and catchable wild Pokémon.
 
-# 3) Walkthrough
+# 3) Gameplay
 
 This game is pretty straight forward. This section will contain some of the basics for playing the game. Topics reated to specific achievements will be in that achievement's section.
 
@@ -76,7 +76,7 @@ See the following achievements for more information:
 
 ### [Starter Squad](https://retroachievements.org/achievement/29858)
 
-![Badge](http://i.retroachievements.org/Badge/58814.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58814.png) 10 points  
 *Catch and Fully evolve Bulbasaur, Squirtle, and Charmander.*
 
 The Pokémon can be found in the following locations:
@@ -90,7 +90,7 @@ The Pokémon can be found in the following locations:
 
 ### [Bug Specialist](https://retroachievements.org/Achievement/29859)
 
-![Badge](http://i.retroachievements.org/Badge/58815.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58815.png) 10 points  
 *Catch and Fully evolve Caterpie, Weedle, Pinsir and Venonat.*
 
 The Pokémon can be found in the following locations:
@@ -120,7 +120,7 @@ The Pokémon can be found in the following locations:
 
 ### [Thou Shalt Take Flight](https://retroachievements.org/achievement/29861)
 
-![Badge](http://i.retroachievements.org/Badge/58817.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58817.png) 10 points  
 *Catch and Fully evolve Pidgey, Spearow, and Farfetch'd.*
 
 The Pokémon can be found in the following locations:
@@ -149,7 +149,7 @@ The Pokémon can be found in the following locations:
 
 ### [Beauty and the Rhyhorn](https://retroachievements.org/achievement/29862)
 
-![Badge](http://i.retroachievements.org/Badge/61088.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/61088.png) 10 points  
 *Catch and Fully evolve Rattata, Rhyhorn, and both Nidorans.*
 
 The Pokémon can be found in the following locations:
@@ -171,7 +171,7 @@ The Pokémon can be found in the following locations:
 
 ### [Fight Club](https://retroachievements.org/achievement/29863)
 
-![Badge](http://i.retroachievements.org/Badge/58823.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58823.png) 10 points  
 Catch and Fully evolve Hitmonchan, Hitmonlee, Kangaskhan, and Machop.
 
 The Pokémon can be found in the following locations:
@@ -186,7 +186,7 @@ The Pokémon can be found in the following locations:
 
 ### [Dangerously Gooey](https://retroachievements.org/achievement/29864)
 
-![Badge](http://i.retroachievements.org/Badge/61089.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/61089.png) 10 points  
 Catch and Fully evolve Ekans, Zubat, Grimer, and Koffing.
 
 The Pokémon can be found in the following locations:
@@ -211,7 +211,7 @@ The Pokémon can be found in the following locations:
 
 ### [Blooming Beauties](https://retroachievements.org/achievement/29865)
 
-![Badge](http://i.retroachievements.org/Badge/58820.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58820.png) 10 points  
 Catch and Fully evolve Oddish, Paras, Bellsprout, Exeggcute, and Tangela.
 
 The Pokémon can be found in the following locations:
@@ -233,7 +233,7 @@ The Pokémon can be found in the following locations:
 
 ### [Mountain B O Y S](https://retroachievements.org/achievement/29866)
 
-![Badge](http://i.retroachievements.org/Badge/58825.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58825.png) 10 points  
 Catch and Fully evolve Diglett, Geodude, Cubone, Onix, and Sandshrew.
 
 The Pokémon can be found in the following locations:
@@ -257,7 +257,7 @@ The Pokémon can be found in the following locations:
 
 ### [Fossilized Salvation](https://retroachievements.org/achievement/29868)
 
-![Badge](http://i.retroachievements.org/Badge/61090.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/61090.png) 10 points  
 Catch and Fully evolve Lapras, Omanyte, Kabuto, and Aerodactyl.
 
 The Pokémon can be found in the following locations:
@@ -271,7 +271,7 @@ The Pokémon can be found in the following locations:
 
 ### [Psychicology for Dummies](https://retroachievements.org/achievement/29869)
 
-![Badge](http://i.retroachievements.org/Badge/58822.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58822.png) 10 points  
 Catch and Fully evolve Abra, Gastly, and Drowzee.
 
 The Pokémon can be found in the following locations:
@@ -286,7 +286,7 @@ The Pokémon can be found in the following locations:
 
 ### [Taste the Rainbow](https://retroachievements.org/achievement/29870)
 
-![Badge](http://i.retroachievements.org/Badge/61091.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/61091.png) 10 points  
 Catch Mr.Mime, Scyther, Jynx, Electabuzz, Magmar, Porygon, and Snorlax.
 
 The Pokémon can be found in the following locations:
@@ -304,7 +304,7 @@ The Pokémon can be found in the following locations:
 
 ### [Wet Pokeballs](https://retroachievements.org/achievement/30015)
 
-![Badge](http://i.retroachievements.org/Badge/58821.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58821.png) 10 points  
 Catch and Fully evolve all possible remaining Water Pokemon.
 
 The Pokémon can be found in the following locations:
@@ -349,7 +349,7 @@ The Pokémon can be found in the following locations:
 
 ### [Pokemon Catcher in the Rye](https://retroachievements.org/achievement/30016)
 
-![Badge](http://i.retroachievements.org/Badge/61092.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/61092.png) 10 points  
 Catch and Fully evolve Tauros, Pikachu, Meowth, Ponyta, and Doduo.
 
 The Pokémon can be found in the following locations:
@@ -368,7 +368,7 @@ The Pokémon can be found in the following locations:
 
 ### [Pokemon Hidden in the Leaves](https://retroachievements.org/achievement/30017)
 
-![Badge](http://i.retroachievements.org/Badge/61093.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/61093.png) 10 points  
 Catch and Fully evolve Mankey, Vulpix, Growlithe, and Lickitung.
 
 The Pokémon can be found in the following locations:
@@ -390,7 +390,7 @@ The Pokémon can be found in the following locations:
 
 ### [Who's that Pokemon](https://retroachievements.org/achievement/30018)
 
-![Badge](http://i.retroachievements.org/Badge/61094.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/61094.png) 10 points  
 Catch/Evolve - Clefairy, Jigglypuff, Ditto, Voltorb, Chansey, and Magnemite.
 
 The Pokémon can be found in the following locations:
@@ -406,10 +406,10 @@ The Pokémon can be found in the following locations:
 | Chansey | Both | Safari Zone | 3 | 0 |
 | Magnemite | Red | Lavender Town | 3 | 1 |
 
-### [Dragon Tamer](https://retroachievements.org/achievement/56344)
+### [Catching a Legacy](https://retroachievements.org/achievement/29867)
 
-![Badge](http://i.retroachievements.org/Badge/58827.png) 5 points  
-Catch and Fully evolve Dratini
+![Badge](http://i.retroachievements.org/Badge/58831.png) 25 points  
+Catch and Fully evolve Articuno, Zapdos, Moltres, Dratini, Mew, and Mewtwo.
 
 The Pokémon can be found in the following locations:
 
@@ -417,46 +417,16 @@ The Pokémon can be found in the following locations:
 | --- | --- | --- | :---: | :---: |
 | Dratini | Blue | Celadon City | 3 | 2 |
 | Dratini | Both | Safari Zone | 3 | 2 |
-
-### [Legendary Birds](https://retroachievements.org/achievement/56346)
-
-![Badge](http://i.retroachievements.org/Badge/58829.png) 5 points  
-Catch Articuno, Zapdos, and Moltres
-
-The Pokémon can be found in the following locations:
-
-| Pokémon | Table | Location | Arrows | Evolutions |
-| --- | --- | --- | :---: | :---: |
 | Articuno | Red | Seafoam Islands | 3 | 0 |
 | Zapdos | Red | Lavender Town | 3 | 0 |
 | Moltres | Blue | Indigo Plateau | 3 | 0 |
-
-### [Mewtwo](https://retroachievements.org/achievement/56347)
-
-![Badge](http://i.retroachievements.org/Badge/58831.png) 5 points  
-Catch Mewtwo
-
-The Pokémon can be found in the following locations:
-
-| Pokémon | Table | Location | Arrows | Evolutions |
-| --- | --- | --- | :---: | :---: |
 | Mewtwo | Both | Indigo Plateau | 3 | 0 |
-
-### [Mew](https://retroachievements.org/achievement/56348)
-
-![Badge](http://i.retroachievements.org/Badge/58833.png) 10 points  
-Register the mythical Mew in your Pokedex
-
-The Pokémon can be found in the following locations:
-
-| Pokémon | Table | Location | Arrows | Evolutions |
-| --- | --- | --- | :---: | :---: |
 | Mew | Both | Indigo Plateau | 3\* | 0 |
 
 \* *Mew can only appear if you have beaten [the Mewtwo Stage](#mewtwo-bonus) twice.*  
 *Additionally, Mew must be hit at least 20 times before the timer runs out.*
 
-### [Complete Pokedex](https://retroachievements.org/achievement/56318)
+### [Gotta Catch 'em PinbALL](https://retroachievements.org/achievement/56318)
 
 ![Badge](http://i.retroachievements.org/Badge/58801.png) 50 points  
 Register all 151 Pokemon in the dex  
@@ -564,21 +534,21 @@ Description is self-explanatory.
 
 ### [Super Ball](https://retroachievements.org/achievement/56311)
 
-![Badge](http://i.retroachievements.org/Badge/58794.png) 1 points  
+![Badge](http://i.retroachievements.org/Badge/58794.png) 1 point  
 Upgrade to a Great Ball
 
 See [Master Ball](#master-ball)
 
 ### [Hyper Ball](https://retroachievements.org/achievement/56312)
 
-![Badge](http://i.retroachievements.org/Badge/58795.png) 1 points  
+![Badge](http://i.retroachievements.org/Badge/58795.png) 1 point  
 Upgrade to an Ultra Ball
 
 See [Master Ball](#master-ball)
 
 ### [Master Ball](https://retroachievements.org/achievement/56313)
 
-![Badge](http://i.retroachievements.org/Badge/58796.png) 1 points  
+![Badge](http://i.retroachievements.org/Badge/58796.png) 1 point  
 Upgrade to a Master Ball
 
 Lighting up all three lights above the Voltorb (Red), or Shellder (Blue) will upgrade your Poke Ball in the order of Great, Ultra, Master
@@ -592,7 +562,7 @@ Description is self-explanatory.
 
 ### [Accelerated Evolution](https://retroachievements.org/achievement/56352)
 
-![Badge](http://i.retroachievements.org/Badge/58845.png) 5 points  
+![Badge](http://i.retroachievements.org/Badge/58845.png) 10 points  
 Evolve a Pokemon with at least 1m30s remaining
 
 Description is self-explanatory.
