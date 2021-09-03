@@ -1,4 +1,4 @@
-![](http://jc101.com/ra/bm-banner.jpg)
+![](https://jc101.com/ra/bm-banner.jpg)
 ## **About**
 This is **not** an official manual, official walk through or critical review. This document is a simple **guide** for the current achievement set available on [RetroAchievements](https://retroachievements.org/game/1459). This page will give the player tips on earning the achievements, hash compatibility and any other necessary or useful information.
 ## **Introduction**
