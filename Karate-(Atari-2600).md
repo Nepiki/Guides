@@ -20,29 +20,29 @@ The manual says that *Difficulty A* is slow mode and *Difficulty B* is fast mode
 
 **Move Set**
 
-| Button Combination     | Move        | 
-| :---                   |    :----:   | 
-| Neutral + Fire         | Up Punch    | 
-| Up + Fire             | Up Punch    | 
-| Down + Fire            | Straight Punch |
-| Right + Fire           | Straight Kick |
-| Left + Fire            | Up Kick |.         
+| Button Combination | Move |
+|:---|:---:|
+| Neutral + Fire | Up Punch |
+| Up + Fire | Up Punch |
+| Down + Fire | Straight Punch |
+| Right + Fire | Straight Kick |
+| Left + Fire | Up Kick |
     
 **Scoring System**
 
-| Move    | Points       | 
-| :---                   |    :----:   | 
-| Up Punch         | 10 | 
-| Straight Punch            | 10   | 
-| Straight Kick           | 15 |
-| Up kick to side of the head        | 20 |
-| Up kick to face           | 25 |
-| Knockdown | 60 |.  
+| Move | Points |
+|:---|:---:|
+| Up Punch | 10 |
+| Straight Punch | 10 |
+| Straight Kick | 15 |
+| Up kick to side of the head | 20 |
+| Up kick to face | 25 |
+| Knockdown | 60 |
    
 ## Achievement Guide
 
 | ![Image][8] | [Ichi-Ryu][7] |
-| :---:                  |    :----  | 
+|:---:|:---|
 | ![Image][10] | [**Rokui-Ryu**][9] |
 | ![Image][12] | [**Godan**][11] |
 | ![Image][14] | [**Hachidan**][13] |
@@ -52,22 +52,22 @@ Here I will explain how to guarantee a win pretty much every time. Begin the gam
 > TIP: Enable turbo fire on your *Fire* button to make this task even easier and consistent. This also works well with fast forward. 
 
 | ![Image][2] | [Staring Contest][1]|
-| :---:                  |    :----  | 
+|:---:|:---|
 
 Load the game and press select to set it to mode 001. After a second or two the timer should automatically start counting and the players wont move. Simply wait (or fast forward) until you win the championship. If the opponent moves just reload the ROM and try again. 
 
 | ![Image][4] | [Get Back Here!][3]|
-| :---:                  |    :----  |   
+|:---:|:---|
 
 Once a fight begins hold left until you reach the other side and the achievement will appear. 
 
 | ![Image][6] | [Sweep the leg by kicking the face][5]|
-| :---:                  |    :----  |   
+|:---:|:---|
 
 Should be achieved in casual gameplay. Perform an Up kick ( Left + Fire ) on the opponent and they should eventually be knocked down. In my experience this is more common when you’re completely horizontal to the opponent.  
 
 | ![Image][18] | [Hiraki-Ashi Master][17]|
-| :---:                  |    :----  |
+|:---:|:---|
     
 The aforementioned tactic is, believe it or not, too powerful for this achievement. The achievement requires you to win on the timer and the previous tactic usually results in a knockout. Simply walk back as far as possible then go down and perform the tactic from there and you should get just under 900 before the timer runs out. The opponent might strike first, if this occurs then simply reset against another white belt until you get them in the up kick ‘stun lock’. 
 
