@@ -19,19 +19,19 @@ Total: 12
 
 * 3 Misc that are pretty easy to figure out if you look at them.
 
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21555.png)](http://retroachievements.org/Achievement/21785) (7)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21562.png)](http://retroachievements.org/Achievement/21778) (8)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21615.png)](http://retroachievements.org/Achievement/21755) (9)
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21555.png)](https://retroachievements.org/Achievement/21785) (7)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21562.png)](https://retroachievements.org/Achievement/21778) (8)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21615.png)](https://retroachievements.org/Achievement/21755) (9)
 
 * Red Jewel related 
   * Many of the jewels are permanently missable so following a guide like [Red Jewel Guide](http://www.flyingomelette.com/faqs/gaiafaq.html) is recommended.
 
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21646.png)](http://retroachievements.org/Achievement/21746) (10*)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21559.png)](http://retroachievements.org/Achievement/21764) (11*)
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21646.png)](https://retroachievements.org/Achievement/21746) (10*)
+[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21559.png)](https://retroachievements.org/Achievement/21764) (11*)
 
 * 1 Max Stat
 
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21641.png)](http://retroachievements.org/Achievement/21737) (12*)
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21641.png)](https://retroachievements.org/Achievement/21737) (12*)
 
 ## Spoilers! 
 Only expand the following if you don't care
