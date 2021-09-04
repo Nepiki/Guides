@@ -10,7 +10,7 @@ Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, an
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
-| Story | [![Distant castle overlooked by two moons in the sky](https://s3-eu-west-1.amazonaws.com/i.retroachievements. org/Badge/110761.png "The Departure")](https://retroachievements.org/achievement/108622) | [The Departure](https://retroachievements.org/achievement/108622) | No |
+| Story | [![Distant castle overlooked by two moons in the sky](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/110761.png "The Departure")](https://retroachievements.org/achievement/108622) | [The Departure](https://retroachievements.org/achievement/108622) | No |
 | Command | [![Dragoon knight jumping onto an enemy](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/109786.png "Deadly Acrobatics")](https://retroachievements.org/achievement/108659) | [Deadly Acrobatics](https://retroachievements.org/achievement/108659)                  | No |
 | Chicobo | [![Chocobo next to a waterfall](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/109917.png "Chicobo Quest I: Great Baron Falls")](https://retroachievements.org/achievement/108737) | [Chicobo Quest I: Great Baron Falls](https://retroachievements.org/achievement/108737) | No |
 | Dancer | [![Dancer in a red dress with yellow bow on her head](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/110762.png "Dancer in Red")](https://retroachievements.org/achievement/108721) | [Dancer in Red](https://retroachievements.org/achievement/108721) | No |
