@@ -4,32 +4,32 @@ Pokémon [Blue Kaizo](https://retroachievements.org/game/6690) game page
 
 # **Missable Achievements: 7**
 
-* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86604.png)](http://retroachievements.org/achievement/80524)
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86604.png)](https://retroachievements.org/achievement/80524)
 
 Just defeat your first Rival in Professor Oak's House otherwise he's gone if you lost battle against him.
 
 
-* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86721.png)](http://retroachievements.org/achievement/80536)
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86721.png)](https://retroachievements.org/achievement/80536)
 
 Just lose against your first Rival in Professor Oak's House otherwise he's gone if you won battle against him.
 
 
-* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86605.png)](http://retroachievements.org/achievement/80525)
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86605.png)](https://retroachievements.org/achievement/80525)
 
 Just defeat your second Rival in Route 22 otherwise he's gone if you went to Pewter City.
 
 
-* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86965.png)](http://retroachievements.org/achievement/80550)
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86965.png)](https://retroachievements.org/achievement/80550)
 
 Just defeat all 3 Trainers in Viridian Forest without leaving the area otherwise achievement will disable if you leaved the area after defeating one or two Trainers.
 
 
-* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86967.png)](http://retroachievements.org/achievement/80553)
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86967.png)](https://retroachievements.org/achievement/80553)
 
 Just pick up either Dome or Helix Fossil and get through Mt. Moon without using Repel.
 
 
-* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86966.png)](http://retroachievements.org/achievement/80552)
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86966.png)](https://retroachievements.org/achievement/80552)
 
 Just defeat all 6 Trainers (except Rival) in Cerulean's Nugget Bridge (Route 24) without moving down or losing a battle against one of them. Just don't move down after defeating first Trainer.
 
