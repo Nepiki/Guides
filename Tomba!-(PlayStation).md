@@ -14,9 +14,9 @@
 
 # 2) Introduction
 
-![Game Badge](http://i.retroachievements.org/Images/026619.png)
+![Game Badge](https://retroachievements.org/Images/035652.png)
 
-[Tomba!](http://retroachievements.org/game/11276) is a two-dimensional platforming game, which contains some RPG elements. The main character, Tomba, is on a quest to retrieve a golden bracelet given to him by his grandfather, which was stolen by some anthropomorphic pigs, called Koma Pigs, in a fight. He makes his way over to the civilization, only to see that the leaders of the Koma Pigs, the Evil Pigs, has cursed the whole continent. Now Tomba must free all the different lands and towns from the curse and defeat the Evil Pigs in order to retrieve the lost bracelet.
+[Tomba!](https://retroachievements.org/game/11276) is a two-dimensional platforming game, which contains some RPG elements. The main character, Tomba, is on a quest to retrieve a golden bracelet given to him by his grandfather, which was stolen by some anthropomorphic pigs, called Koma Pigs, in a fight. He makes his way over to the civilization, only to see that the leaders of the Koma Pigs, the Evil Pigs, has cursed the whole continent. Now Tomba must free all the different lands and towns from the curse and defeat the Evil Pigs in order to retrieve the lost bracelet.
 
 # 3) Gameplay
 
@@ -37,9 +37,9 @@ Enemies can be attacked by either jumping on them, or attacking them with a weap
 
 # 4) Achievements (WIP)
 
-### [Treasure Collector](http://retroachievements.org/achievement/83159) (Missable)
+### [Treasure Collector](https://retroachievements.org/achievement/83159) (Missable)
 
-![Badge](http://i.retroachievements.org/Badge/89742.png) 50 points  
+![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89742.png) 50 points  
 *Open every treasure chest*
 
 There are 87 treasure chests of four different varieties. Here's a breakdown of what you can find, and where
