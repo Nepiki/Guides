@@ -40,7 +40,7 @@
 ## NEC
 
 - [PC Engine/TurboGrafx-16](PC-Engine)
-- [PC-8000/8800](PC-8000-8800)
+- [PC-8000/8800](PC-88)
 - [PC-FX](PC-FX)
 
 
