@@ -34,7 +34,7 @@ Just pick up either Dome or Helix Fossil and get through Mt. Moon without using 
 Just defeat all 6 Trainers (except Rival) in Cerulean's Nugget Bridge (Route 24) without moving down or losing a battle against one of them. Just don't move down after defeating first Trainer.
 
 
-* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86970.png)](http://retroachievements.org/achievement/80554)
+* [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86970.png)](https://retroachievements.org/achievement/80554)
 
 Just defeat all Trainers in Saffron City Gym (left) without leaving the area otherwise achievement will disable if you leaved the area after defeating the first Trainer.
 
