@@ -15,7 +15,7 @@
 
 ![Game Badge](https://retroachievements.org/Images/026467.png)
 
-[Suikoden](http://retroachievements.org/game/11255) is a role-playing video game published by Konami as the first installment of the Suikoden series. Developed by Konami Computer Entertainment Tokyo, it was released initially in 1995 for the PlayStation in Japan. A North American would release followed one year later, and a mainland European release came the following April. The game was also released for the Sega Saturn in 1998 only in Japan, and for Microsoft Windows in 1998 in Japan.
+[Suikoden](https://retroachievements.org/game/11255) is a role-playing video game published by Konami as the first installment of the Suikoden series. Developed by Konami Computer Entertainment Tokyo, it was released initially in 1995 for the PlayStation in Japan. A North American would release followed one year later, and a mainland European release came the following April. The game was also released for the Sega Saturn in 1998 only in Japan, and for Microsoft Windows in 1998 in Japan.
 
 The game centers on the political struggles of the Scarlet Moon Empire. The player controls a Scarlet Moon Empire general's son who is destined to seek out 108 warriors (referred to as the 108 Stars of Destiny) in order to revolt against the corrupt sovereign state and bring peace to a war-torn land. The game is loosely based on the Chinese novel Shui Hu Zhuan (a.k.a. "Outlaws of the Marsh" and "The Water Margin"), and features a vast array of characters both controllable and not, with over ninety characters usable in combat and many more able to help or hinder the hero in a variety of ways.
 
