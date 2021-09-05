@@ -1,4 +1,4 @@
-[Yu-Gi-Oh! Forbidden Memories](http://retroachievements.org/game/11388) game page.<br>_Guide made by SporyTike, if there are any issues or something is missing feel free to contact me._
+[Yu-Gi-Oh! Forbidden Memories](https://retroachievements.org/game/11388) game page.<br>_Guide made by SporyTike, if there are any issues or something is missing feel free to contact me._
 
 **Note:** _The guide is still Work In Progress!_
 
