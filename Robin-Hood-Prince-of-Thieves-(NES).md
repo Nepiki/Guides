@@ -16,48 +16,48 @@ Robin Hood - Prince of Thieves is an action/RPG/adventure game for the NES relea
 
 The first step is the play the game. Playing through the game will earn you most of your achievements as many of them are story related. Doing this step of just playing the game will unlock the following achievements:  
 
-[Prison Break](http://retroachievements.org/Achievement/38343)  
-[Welcome Home?](http://retroachievements.org/Achievement/38344)  
-[Forbidden Love](http://retroachievements.org/Achievement/38345)  
-[Camping](http://retroachievements.org/Achievement/38346)  
-[Wedding Crashers](http://retroachievements.org/Achievement/38347)  
-[Hunting for Bacon](http://retroachievements.org/Achievement/38348)  
-[Missing Man](http://retroachievements.org/Achievement/38349)  
-[Magical Dagger](http://retroachievements.org/Achievement/38350)  
-[Robin Hood and His Merry Men](http://retroachievements.org/Achievement/38342)  
-[Master of Fighting](http://retroachievements.org/Achievement/38351)  
-[Mystical Water](http://retroachievements.org/Achievement/38352)  
-[To War!](http://retroachievements.org/Achievement/38353)  
-[To The Town](http://retroachievements.org/Achievement/38354)  
-[Storm The Castle!](http://retroachievements.org/Achievement/38355)  
-[Happily Ever After](http://retroachievements.org/Achievement/38356)  
+[Prison Break](https://retroachievements.org/Achievement/38343)  
+[Welcome Home?](https://retroachievements.org/Achievement/38344)  
+[Forbidden Love](https://retroachievements.org/Achievement/38345)  
+[Camping](https://retroachievements.org/Achievement/38346)  
+[Wedding Crashers](https://retroachievements.org/Achievement/38347)  
+[Hunting for Bacon](https://retroachievements.org/Achievement/38348)  
+[Missing Man](https://retroachievements.org/Achievement/38349)  
+[Magical Dagger](https://retroachievements.org/Achievement/38350)  
+[Robin Hood and His Merry Men](https://retroachievements.org/Achievement/38342)  
+[Master of Fighting](https://retroachievements.org/Achievement/38351)  
+[Mystical Water](https://retroachievements.org/Achievement/38352)  
+[To War!](https://retroachievements.org/Achievement/38353)  
+[To The Town](https://retroachievements.org/Achievement/38354)  
+[Storm The Castle!](https://retroachievements.org/Achievement/38355)  
+[Happily Ever After](https://retroachievements.org/Achievement/38356)  
 
 **Step 2**
 
 Pretty much the clean-up, some of these you should have gotten just from normal play. You should be able to gain one level; in fact, I don't think it is possible to complete the game without gaining at least one. Now, if you have missed some achievements thus far, you can grind the rest out in the last castle. So, before completing the game, you should grind out these last few achievements:
 
-[Got a Good Supply](http://retroachievements.org/Achievement/38333)  
-[Why use the bow?](http://retroachievements.org/Achievement/38334)  
-[Should be enough to pay taxes](http://retroachievements.org/Achievement/38335)  
-[Wait, shouldn't this be given to the poor?](http://retroachievements.org/Achievement/38336)  
-[I feel a little stronger](http://retroachievements.org/Achievement/38337)  
-[Powering Up](http://retroachievements.org/Achievement/38338)  
-[I am Robin Hood!](http://retroachievements.org/Achievement/38339)  
-[Carrying a Burden](http://retroachievements.org/Achievement/38340) **-=Missable=-**  
-[Gotta go fast](http://retroachievements.org/Achievement/38341)  
+[Got a Good Supply](https://retroachievements.org/Achievement/38333)  
+[Why use the bow?](https://retroachievements.org/Achievement/38334)  
+[Should be enough to pay taxes](https://retroachievements.org/Achievement/38335)  
+[Wait, shouldn't this be given to the poor?](https://retroachievements.org/Achievement/38336)  
+[I feel a little stronger](https://retroachievements.org/Achievement/38337)  
+[Powering Up](https://retroachievements.org/Achievement/38338)  
+[I am Robin Hood!](https://retroachievements.org/Achievement/38339)  
+[Carrying a Burden](https://retroachievements.org/Achievement/38340) **-=Missable=-**  
+[Gotta go fast](https://retroachievements.org/Achievement/38341)  
 
-Upon the last dungeon, you should be able to get the rest of these if you never got them during normal play. **However, [Carrying a Burden](http://retroachievements.org/Achievement/38340) is potentially missable at this point depending on how much stuff you dropped when you got to town.** This normally shouldn't be a problem but if you dropped too much, you may not be able to get enough supplies to be able to increase your load large enough to meet the conditions of this achievement.
+Upon the last dungeon, you should be able to get the rest of these if you never got them during normal play. **However, [Carrying a Burden](https://retroachievements.org/Achievement/38340) is potentially missable at this point depending on how much stuff you dropped when you got to town.** This normally shouldn't be a problem but if you dropped too much, you may not be able to get enough supplies to be able to increase your load large enough to meet the conditions of this achievement.
 
 ## 4) Achievements
 
-![](http://i.retroachievements.org/Badge/39297.png) [Got a Good Supply](http://retroachievements.org/Achievement/38333)  
+![](http://i.retroachievements.org/Badge/39297.png) [Got a Good Supply](https://retroachievements.org/Achievement/38333)  
 _Have 250 arrows on hand._
 
 See "Why use the bow?" for more details.
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39326.png) [Why use the bow?](http://retroachievements.org/Achievement/38334)  
+![](http://i.retroachievements.org/Badge/39326.png) [Why use the bow?](https://retroachievements.org/Achievement/38334)  
 _Have 500 arrows on hand._
 
 
@@ -66,42 +66,42 @@ This is a pretty simple achievement to get, a little grindy. Arrows can be found
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39296.png) [Should be enough to pay taxes](http://retroachievements.org/Achievement/38335)  
+![](http://i.retroachievements.org/Badge/39296.png) [Should be enough to pay taxes](https://retroachievements.org/Achievement/38335)  
 _Acquire 200 gold._
 
 See "Wait, shouldn't this be given to the poor?" for more details.
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39291.png) [Wait, shouldn't this be given to the poor?](http://retroachievements.org/Achievement/38336)  
+![](http://i.retroachievements.org/Badge/39291.png) [Wait, shouldn't this be given to the poor?](https://retroachievements.org/Achievement/38336)  
 _Acquire 500 gold._
 
 This is very similar to the arrows achievements, kill the soldiers and they will drop gold. There is also a mission where you will be given gold to hire a fighting instructor which will be a great help however, at the end of the mission, you will lose the gold so try and get these achievements before you spend the gold on the instructor.
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39295.png) [I feel a little stronger](http://retroachievements.org/Achievement/38337)  
+![](http://i.retroachievements.org/Badge/39295.png) [I feel a little stronger](https://retroachievements.org/Achievement/38337)  
 _Gain a level._
 
 This one is simple, just kill some enemies and you'll eventually gain a level (100 EXP). You will usually get this sometime in the sewers or when you get to Hadrian's Wall.
 
 =-----------------------------------------------------------=
 
-![]( http://i.retroachievements.org/Badge/39293.png) [Powering Up](http://retroachievements.org/Achievement/38338)  
+![]( http://i.retroachievements.org/Badge/39293.png) [Powering Up](https://retroachievements.org/Achievement/38338)  
 _Get Robin to Level 4._
 
 Just keep killing things and you'll eventually get to level 4.
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39292.png) [I am Robin Hood!](http://retroachievements.org/Achievement/38339)  
+![](http://i.retroachievements.org/Badge/39292.png) [I am Robin Hood!](https://retroachievements.org/Achievement/38339)  
 _Get Robin to Max Level._
 
 This one can be a bit of a grind. You can keep killing enemies and you will eventually get this however, there is a much easier way that is less grinding. On the mission where you are fighting the boar, if you equip the staff you get when Little John joins your party, you can just hold the attack button down and the staff will always spin. When the boar charges down, it will run into you and with you spinning the staff, it will be killed very, very quickly. When the boar begins to explode, you will see you gained your EXP and if you leave before the boar finishes blowing up, you can re-enter and the boar will be alive again. You do this again and just repeat until you are max level. It is still grindy but it is much faster than killing regular soldier. 
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39300.png) [Carrying a Burden](http://retroachievements.org/Achievement/38340)  
+![](http://i.retroachievements.org/Badge/39300.png) [Carrying a Burden](https://retroachievements.org/Achievement/38340)  
 _Have someone carry a load of 100 or more and look at their page._
 
 **-=MISSABLE=-**
@@ -110,14 +110,14 @@ This one isn't too hard to do, it is better when you are max level and later in 
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39301.png) [Gotta go fast](http://retroachievements.org/Achievement/38341)  
+![](http://i.retroachievements.org/Badge/39301.png) [Gotta go fast](https://retroachievements.org/Achievement/38341)  
 _Have Robin's agility 180 or higher._
 
 This is another one that is best done at max level. As you level, your speed will increase. Once you are max level, strip Robin from all his items and you should get this achievement. Don't forget to give hi his stuff back after you do this, otherwise you may be unprepared later.
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39290.png) [Prison Break](http://retroachievements.org/Achievement/38343)  
+![](http://i.retroachievements.org/Badge/39290.png) [Prison Break](https://retroachievements.org/Achievement/38343)  
 _Escape prison and make it to the Hadrian's Wall._
 
 **{Story related}**
@@ -126,7 +126,7 @@ Just get out of prison, make it through the sewer and make it to Hadrian's wall,
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39304.png) [Welcome Home?](http://retroachievements.org/Achievement/38344)  
+![](http://i.retroachievements.org/Badge/39304.png) [Welcome Home?](https://retroachievements.org/Achievement/38344)  
 _Make it to Locksley Castle._
 
 **{Story related}**
@@ -135,7 +135,7 @@ Make your way through the forest until you see Guy, he will welcome you home but
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39303.png) [Forbidden Love](http://retroachievements.org/Achievement/38345)  
+![](http://i.retroachievements.org/Badge/39303.png) [Forbidden Love](https://retroachievements.org/Achievement/38345)  
 _Meet Maid Marian._
 
 **{Story related}**
@@ -144,7 +144,7 @@ Maid Marian is in Dubois Manor, just talk to her and this will pop. Watch out fo
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39305.png) [Camping](http://retroachievements.org/Achievement/38346)  
+![](http://i.retroachievements.org/Badge/39305.png) [Camping](https://retroachievements.org/Achievement/38346)  
 _Arrive at the Camp._
 
 **{Story related}**
@@ -153,7 +153,7 @@ After your horse chase, you will need to make your way through the forest. You w
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39307.png) [Wedding Crashers](http://retroachievements.org/Achievement/38347)  
+![](http://i.retroachievements.org/Badge/39307.png) [Wedding Crashers](https://retroachievements.org/Achievement/38347)  
 _Stop the illegal wedding._
 
 **{Story related}**
@@ -162,7 +162,7 @@ When you arrive at the Castle where the wedding is taking place, there is a hole
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39306.png) [Hunting for Bacon](http://retroachievements.org/Achievement/38348)  
+![](http://i.retroachievements.org/Badge/39306.png) [Hunting for Bacon](https://retroachievements.org/Achievement/38348)  
 _Kill the Boar._  
 
 **{Story related}**
@@ -173,7 +173,7 @@ Note: **This is the mission where it is best to grind your EXP.**
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39308.png) [Missing Man](http://retroachievements.org/Achievement/38349)  
+![](http://i.retroachievements.org/Badge/39308.png) [Missing Man](https://retroachievements.org/Achievement/38349)  
 _Learn what happened to the missing man._
 
 **{Story related}**
@@ -182,7 +182,7 @@ Wander through the forest and you will come across a well with a dead person by 
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39309.png) [Magical Dagger](http://retroachievements.org/Achievement/38350)  
+![](http://i.retroachievements.org/Badge/39309.png) [Magical Dagger](https://retroachievements.org/Achievement/38350)  
 _Get Druids Dagger from Marian._
 
 **{Story related}**
@@ -193,7 +193,7 @@ Note: **Do not mix this dagger up with other knives or daggers. NEVER throw this
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39302.png) [Robin Hood and His Merry Men](http://retroachievements.org/Achievement/38342)  
+![](http://i.retroachievements.org/Badge/39302.png) [Robin Hood and His Merry Men](https://retroachievements.org/Achievement/38342)  
 _Find all companions._
 
 **{Story related}**
@@ -202,7 +202,7 @@ This one is story related, once you do the tax wagon mission. Pretty much travel
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39310.png) [Master of Fighting](http://retroachievements.org/Achievement/38351)  
+![](http://i.retroachievements.org/Badge/39310.png) [Master of Fighting](https://retroachievements.org/Achievement/38351)  
 _Hire the Master Fighter._
 
 **{Story related}**
@@ -211,7 +211,7 @@ You will be given money here to higher an instructor. Go through the forest unti
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39311.png) [Mystical Water](http://retroachievements.org/Achievement/38352)  
+![](http://i.retroachievements.org/Badge/39311.png) [Mystical Water](https://retroachievements.org/Achievement/38352)  
 _Solve the issue with the water (and make it back to camp)._
 
 **{Story related}**
@@ -222,7 +222,7 @@ Note: If you have a water flask, you can fill it to use for healing later.
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39313.png) [To War!](http://retroachievements.org/Achievement/38353)  
+![](http://i.retroachievements.org/Badge/39313.png) [To War!](https://retroachievements.org/Achievement/38353)  
 _Win the battle when the camp is attacked._
 
 **{Story related}**
@@ -233,7 +233,7 @@ Note: After you win the battle, you will have the opportunity to get a disguise,
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39327.png) [To The Town](http://retroachievements.org/Achievement/38354)  
+![](http://i.retroachievements.org/Badge/39327.png) [To The Town](https://retroachievements.org/Achievement/38354)  
 _Make it to town._
 
 **{Story related}**
@@ -242,7 +242,7 @@ Your friends are about to be executed so you need to make it to town. Wander thr
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39316.png) [Storm The Castle!](http://retroachievements.org/Achievement/38355)  
+![](http://i.retroachievements.org/Badge/39316.png) [Storm The Castle!](https://retroachievements.org/Achievement/38355)  
 _Break/Sneak into the Castle._
 
 **{Story related}**
@@ -251,7 +251,7 @@ You need to be careful here, if you are discovered, there will be a battle. So m
 
 =-----------------------------------------------------------=
 
-![](http://i.retroachievements.org/Badge/39289.png) [Happily Ever After](http://retroachievements.org/Achievement/38356)  
+![](http://i.retroachievements.org/Badge/39289.png) [Happily Ever After](https://retroachievements.org/Achievement/38356)  
 _Get married (Complete the game)._
 
 **{Story related}**
