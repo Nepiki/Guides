@@ -140,12 +140,12 @@ See [Master Farmer]( https://retroachievements.org/achievement/99519)
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138301.png) [Veteran Farmer]( https://retroachievements.org/achievement/99518)  
-_ Accumulate 50,000 Gold._
+_ Accumulate 50,000 Gold._  
 See [Master Farmer]( https://retroachievements.org/achievement/99519)  
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138300.png) [Master Farmer]( https://retroachievements.org/achievement/99519)  
-_ Accumulate 100,000 Gold._
+_ Accumulate 100,000 Gold._  
 Money is something you will earn throughout the game as you ship crops and animal goods. Just save your money and plant as much as possible and get your farm animals when you can. The more you ship, the more cash you get, eventually you will earn the money achievements as you go.
 
