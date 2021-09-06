@@ -11,6 +11,7 @@ Welcome to the achievement guide for [-Prototype- Biohazard 2 | Resident Evil 1.
  
 There are currently **86 achievements** worth a total of **1085 points**.
 
+
  ## Save Support
 
 The game currently lacks any sort of save support so if you die in the game you need to start from the beginning all over again, making these challenges more hard to get than in any other Resident Evil game, this is reflected in their values being double what the would normally be plus the game difficulty is increased due to the amount of hits it takes to kill any enemy so beware.
