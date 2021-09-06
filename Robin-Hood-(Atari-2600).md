@@ -14,7 +14,7 @@ Robin Hood for the Atari 2600 is a fairly simple game, It consists of 3 location
 
 **Step 1**
 
-The first step is the play the game. Playing through the game will earn you most of your achievements as many of them are story related. Doing this step of just playing the game will unlock the following achievements:  
+The first step is the play the game. Playing through the game will earn you your story ones at least, there are not many story ones but they are a good start. Doing this step of just playing the game will unlock the following achievements:  
 
 [Robin of the Wood](https://retroachievements.org/achievement/103391)  
 [Storming the Castle](https://retroachievements.org/achievement/103390)  
