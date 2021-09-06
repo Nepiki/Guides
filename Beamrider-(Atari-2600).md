@@ -1,6 +1,6 @@
 ## 1) Synopsis
 
-Set Difficulty: 5/10  
+Set Difficulty: 6/10  
 Approximate time to Master: 1-2 Hours  
 Minimum Number of Playthroughs Needed: 1  
 Number of Missable Achievements: None  
