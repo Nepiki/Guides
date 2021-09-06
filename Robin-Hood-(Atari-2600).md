@@ -1,7 +1,7 @@
 ## 1) Synopsis
 
 Set Difficulty: 2/10  
-Approximate time to Master: 1 Hours  
+Approximate time to Master: 1 Hour  
 Minimum Number of Playthroughs Needed: Multiple  
 Number of Missable Achievements: None  
 Does Difficulty Affect Achievements?: Yes
