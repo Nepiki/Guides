@@ -11,6 +11,9 @@ Welcome to the achievement guide for [-Prototype- Biohazard 2 | Resident Evil 1.
  
 There are currently **86 achievements** worth a total of **1085 points**.
 
+ ## Debug Protection
+
+Due to this game being a Prototype it has easily accessed debug features that the original developers used to easily test their code ingame, due to the nature of these features the achievement set has protection against all of them, If you noticed an achievement didn't trigger when it was supposed to it most likely was this protection kicking in and pausing it. The easiest way to not trigger them when you don't want to by mistake is disabling the input for the **Select** button in your emulator of choice, Don't worry you don't actually need them to finish the game with either character. If you did trigger them however you can unpause them by starting a new game with either character normally.
 
  ## Save Support
 
