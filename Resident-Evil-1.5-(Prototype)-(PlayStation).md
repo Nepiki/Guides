@@ -436,8 +436,6 @@ There are a total of 86 achievements, which can be broken down into the followin
 * Detention Block
 * Detention Cells
 * B1 Corridor Light
-* Intro Slides
-* Ending Slides
 
 ## Sewers
 ***
@@ -509,16 +507,21 @@ There are a total of 86 achievements, which can be broken down into the followin
 * F D-2 Corridor
 * F C-2 Corridor
 
-**Underground Train**
+## Underground Train
 ***
--Gate Platform
--Main Platform
--Fuel Control
--Train Cabin
--Train Main Car
--Train Car A
--Train Car B
--Train Car C
+* Gate Platform
+* Main Platform
+* Train Cabin
+* Train Main Car
+* Train Car A
+* Train Car B
+* Train Car C
+
+## Misc
+***
+* Intro Slides
+* Ending Slides
+
 </details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184373.png) **[It's Not Too Late to Go Green [m]](https://retroachievements.org/achievement/163505)** _~Clear the game without using any healing item_
