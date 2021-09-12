@@ -62,7 +62,7 @@ There are `((number))` leaderboards currently associated with the game.
 
 - [Title](https://retroachievements.org/leaderboardinfo.php?i=1) - description
 
-***
+# ***
 ***
 ***
 
