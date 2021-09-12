@@ -1,81 +1,70 @@
-**WIP** pls no touch 🥺 
+**WIP** pls no touch 🥺  
+`soon(tm)`
 
 ***
-# 1) Guide Information
+***
 
-## About
-
-This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
-
-Guide written by [username](https://retroachievements.org/User/Example)
-
-## Potential Spoilers :no_entry:
-:no_entry: **\*\* NOTE: CONTAINS SPOILERS FOR THE FOLLOWING\*\*** :no_entry:
-Major
-* something
-* something
-* something
-* dark side
-Minor
-* something
-* something
-* complete
+Notes for creating new RAGuides
+- titles
+- tables
+- `(())`
+- wip
+- console
+- v2wen
+- preview
+- double space br
+- ???
+- profit
 
 ***
 
-Names of characters, places, etc. used in this guide are based off of the [Namingway Edition romhack](https://www.romhacking.net/hacks/2337/), which is an update of the Final Fantasy II (US) ROM to bring it closer to Final Fantasy IV (J). The hack brings the names of people, places, items, etc. are as close as possible to the current naming conventions used by Square Enix in modern re-releases of this game.
+//`((Remove this line and everything above when creating a new guide.))`//
+> This is not an official manual, walkthrough, or critical review. This document is a simple guide for the Game Title achievement set available on [RetroAchievements](https://retroachievements.org/game/0)`((Replace with the game's URL))`. This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
 
-The [Namingway Edition romhack](https://www.romhacking.net/hacks/2337/) is **THE** recommended way to play the game for these achievements as one or two of them seem to be designed with this particular romhack in mind (in particular, the [Salve of Salvation](https://retroachievements.org/achievement/108663) achievement).
+This guide contains no spoilers. `((or))` :no_entry: **\*\* NOTE: CONTAINS SPOILERS FOR THE FOLLOWING\*\*** :no_entry:
+
+`((list potentional types of spoilers if your guide has any))`
+- something
+- something
+- something
+- dark side
+
+# About Game Title
+`((Replace "Game Title" with the title as written on-site))`
+soon(tm) \~
+
+boxart soon(tm)
 
 ## Introduction
 
-Final Fantasy IV is a role-playing video game developed and published by Square for the Super Famicom. Released in Japan in 1991, it is the fourth installment in the Final Fantasy series. This game features a more story-driven approach (a la Final Fantasy II), centered around the dark knight Cecil. However, many of the mechanics introduced in Final Fantasy III make their return here: character job classes (though they are fixed for the most part), the Fat Chocobo, many vehicle options, graphic designs, and some dungeons that require specific mechanics to traverse. The similarities to Final Fantasy III are probably due to the game being initially designed for the Famicom/NES [(source)](https://web.archive.org/web/20161216181140/http://matotree.com/2012/08/final-fantasy-iv-for-the-famicom-was-80-complete/).
-
-With the focus on plot, Final Fantasy IV will push you into situations that can lock you out of areas, characters, and abilities as you progress. As a result, many achievements for this game will become missable if you are not diligent. However, all achievements can be earned in one playthrough. This guide will attempt to help you in identifying the missable achievements if you'd rather not play this fantastic, but lengthy, game multiple times.
-
-## Trivia
-
-- This achievement set, created by [MrGauss](https://retroachievements.org/User/MrGauss), uses lines from Dante's Divine Comedy for the story achievements. The demons known as "Malebranches" in the Divine Comedy are the inspiration for the Four Arch-Fiends.
-- Final Fantasy IV has had numerous ports and remakes. Notoriously, the US version released on the Super NES was censored and made easier for the American market. In Japan, Square re-released Final Fantasy IV on the Super Famicom, called "Final Fantasy IV Easy Type". Many refer to "Easy Type" as the US version, but it is actually another iteration that builds off the US Version. You can read more about the many versions for the SNES/Super Famicom [here](https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV_version_differences), as well as all of the numerous other ports and their differences.
-- A sequel game was developed for Japanese mobile phones, subtitled "The After Years". This game was eventually ported and released worldwide on the WiiWare service of the Nintendo Wii system and also experienced it's own share of ports and remakes.
-- A 3D remake was released on the 3DS, similar in appearance to the Final Fantasy III remake and made by the same studio, Matrix Software.
-
-## Save Support
-
-The game uses a battery to save game data across four slots. Players can save the game at any time while on the overworld map or in certain safe spots in dungeons to any one of the slots.
+soon(tm)
 
 ## Compatibility
 
-Currently this game has 4 unique ROM(s) registered for it with the following MD5s:
+Currently this game has `((number))` unique ROM(s)`((remove "(s)" if there is one has linked))` registered for it with the following MD5s:
 
-7981c47e3b3e957be5b352f8508c3f6e<br>
-7f2c8d00101bd3ee2f4ef739e499a302 - Namingway Edition (**recommended**)<br>
-936ce8c534346e61d8e21efba9177184<br>
-a2959ad8c1ff5f2719264ab4c7e40464
-
-Please view the [Final Fantasy IV Official Thread](https://retroachievements.org/viewtopic.php?t=10172) for more details on setting up the ROM with the preferred Namingway Edition patch.
-
-## Leaderboards
-
-There are two leaderboards currently associated with the game.
-
-- [Game Speed Run](https://retroachievements.org/leaderboardinfo.php?i=8113) - The fastest time needed to finish the game
-- [Sum of party level](https://retroachievements.org/leaderboardinfo.php?i=8114) - The lowest level of all characters at game's end
+`00000000000000000000000000000000` - soon(tm)<br>
+`ffffffffffffffffffffffffffffffff`
 
 ## Achievements
 
-There are a total of 130 achievements, which can be broken down into the following categories:
+There are a total of `((number))` achievements, worth which can be broken down into the following categories:
 
-- **Story**: 14 achievements earned naturally through the course of gameplay
-- **Summons**: 4 achievements related to summons for Rydia earned by going to out-of-the-way locations (**1 is missable**)
-- **Boss Challenge**: 18 achievements (**17 are missable**) that require special action during boss fights by the player to successfully earn the achievement
-- **Commands**: 24 achievements (**15 are missable**) that require use of the special commands of characters in certain situations or completion of a specific objective in one gameplay session
-- **Treasure**: 33 achievements (**4 are missable**) which require finding all treasure, including hidden items, in a specified location
-- **Dancer**: 8 achievements which require talking to specific NPCs
-- **Chicobo Quest**: 15 achievements which require you to find a specific, out-of-the-way, location hinted in the achievement description and pressing the [Y] button.
-- **Endgame Items**: 3 achievements (**1 is marked as missable for it's difficulty**) for items which are earned by events and grinding
-- **Miscellaneous**: 11 achievements (**1 is missable**) that don't fit in the above categories, including 2 related to a specific endgame item to help avoid missing it
-- Out of all of the achievements, **39 are missable**
+|Category|Amount|Missables|Notes|
+|:---:|:---:|:---:|:---|
+|Category 1|x|x[m]|reasons|
+
+Out of all achievements, x is/are missable
+
+## Leaderboards
+
+There are `((number))` leaderboards currently associated with the game.
+
+- [Title](https://retroachievements.org/leaderboardinfo.php?i=1) - description
+
+***
+***
+***
 
 ## Potential Order
 
@@ -500,3 +489,15 @@ The achievement set creator, [MrGauss](https://retroachievements.org/User/MrGaus
 | [![A robotic floating eyeball](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118865.png "Alert!")](https://retroachievements.org/achievement/108732) | [Alert!](https://retroachievements.org/achievement/108732) | Announces the ideal place to repeatedly steal the Siren item from Searcher enemies. This location is the head of the Giant of Babil. |
 | [![A falling meteor with the number "9999" over it](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117124.png "Maximum Damage!")](https://retroachievements.org/achievement/108683) | [Maximum Damage!](https://retroachievements.org/achievement/108683) | The ideal way to get this early on is to have Rydia use a "-ga" level spell on an enemy that has an elemental weakness. I got this during the Arch Fiend refights in the Giant of Babil. |
 | [![A pink gelatenous monster](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118866.png "Avatar of Patience")](https://retroachievements.org/achievement/108733) | [Avatar of Patience](https://retroachievements.org/achievement/108733) | Announces the location to use the Sirens farmed in the Giant of Babil or purchased at the Hummingway Haven store to grind for the Pink Tail. |
+
+# Credits
+- Guide written by [Example](https://retroachievements.org/User/Example) `((Replace Example with your username))`
+- dev
+
+## RA Links
+- game
+- forum
+
+## Sources
+
+## Special Thanks
