@@ -1,25 +1,31 @@
 **WIP** pls no touch 🥺 
 
 ***
+# 1) Guide Information
 
-# Final Fantasy IV (J)
+## About
 
-Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
+This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
 
-v1.1: Added details on how to get both Cosmic Duel AND Shadow Hands achievements in only one battle with Zeromus. A HUGE thanks to [Kencussion](https://retroachievements.org/user/Kencussion) for the strategy!
+Guide written by [username](https://retroachievements.org/User/Example)
 
-![Box art for the Super Famicom version of Final Fantasy IV](https://retroachievements.org/Images/031517.png)
+## Potential Spoilers :no_entry:
+:no_entry: **\*\* NOTE: CONTAINS SPOILERS FOR THE FOLLOWING\*\*** :no_entry:
+Major
+* something
+* something
+* something
+* dark side
+Minor
+* something
+* something
+* complete
 
-:no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
-<br>Spoiler solutions for the boss strategies and a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
+***
 
 Names of characters, places, etc. used in this guide are based off of the [Namingway Edition romhack](https://www.romhacking.net/hacks/2337/), which is an update of the Final Fantasy II (US) ROM to bring it closer to Final Fantasy IV (J). The hack brings the names of people, places, items, etc. are as close as possible to the current naming conventions used by Square Enix in modern re-releases of this game.
 
 The [Namingway Edition romhack](https://www.romhacking.net/hacks/2337/) is **THE** recommended way to play the game for these achievements as one or two of them seem to be designed with this particular romhack in mind (in particular, the [Salve of Salvation](https://retroachievements.org/achievement/108663) achievement).
-
-## About
-
-This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/game/3528). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
 
 ## Introduction
 
