@@ -401,7 +401,7 @@ There are a total of 86 achievements, which can be broken down into the followin
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/183994.png) **[Urban Explorer [m]](https://retroachievements.org/achievement/163510)** _~Visit all unique rooms in one playthrough_
  
-<details><summary>Spoilers</summary>There’s a total of 105 unique rooms you can visit in a playthrough, with only one being restricted to Elza which the achievement accounts for, Also the Intro Slides and Ending Slides count as rooms in the logic so be sure you visited all other rooms before finishing the game, It’s recommended you use the in-game map to keep track of the rooms you are currently and the rooms you haven’t visited. The list is as follows: 
+<details><summary>Spoilers</summary>There’s a total of 103 unique rooms you can visit in a playthrough, with only one being restricted to Elza which the achievement accounts for, Also the Intro Slides and Ending Slides count as rooms in the logic so be sure you visited all other rooms before finishing the game, It’s recommended you use the in-game map to keep track of the rooms you are currently and the rooms you haven’t visited. The list is as follows: 
 
 ## R.P.D. Station
 ***
