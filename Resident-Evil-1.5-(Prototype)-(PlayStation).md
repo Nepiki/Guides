@@ -9,7 +9,7 @@ Welcome to the achievement guide for [-Prototype- Biohazard 2 | Resident Evil 1.
 
 ## Achievement Summary
  
-There are currently **86 achievements** worth a total of **1085 points**.
+There are currently **84 achievements** worth a total of **1015 points**.
 
  ## Debug Protection
 
@@ -42,14 +42,14 @@ There are six leaderboards currently associated with the game.
 
 ## Achievements Guide (Spoilers)
 
-There are a total of 86 achievements, which can be broken down into the following categories:
+There are a total of 84 achievements, which can be broken down into the following categories:
 
 - **Leon’s Scenario**: 17 achievements (**2 are missable**) earned naturally through the course of Leon’s story
 - **Elza’s Scenario**: 18 achievements (**3 are missable**) earned naturally through the course of Elza’s story
 - **Interactions**: 9 achievements (**4 are missable**) Interactions that can be achieved regardless of the scenario chosen
 - **Loot**: 6 achievements (**All 6 are missable**) Compassing both easter eggs and the four guns you can find along the story
 - **Enemies**: 24 achievements (**All 24 are missable**) Compassing both easter eggs and the four guns you can find along the story
-- **Challenges**: 12 achievements (**10 are missable**) which require specific conditions to finish the game
+- **Challenges**: 10 achievements (**8 are missable**) which require specific conditions to finish the game
 - Out of all of the achievements, **48 are missable**
 
 
@@ -57,15 +57,15 @@ There are a total of 86 achievements, which can be broken down into the followin
  
 ![Image]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184341.png) **[Reporting for Duty!](https://retroachievements.org/achievement/163044)** _~Leon: Meet Brian Irons_
  
-<details><summary>Spoilers</summary>Most likely the first achievement you will get, just get to the Chief’s Office and talk to Brian who’s resting on a couch. The office is located directly across the door to the lobby you enter through from the Heliport Access.</details>
+<details><summary>Spoilers</summary>Most likely the first achievement you will get, just get to the Chief’s Office and talk to Brian who’s resting on a couch. The office is located directly across the door to the hallway door you enter through from the Heliport Access.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184342.png) **[Marvin!](https://retroachievements.org/achievement/163045)** _~Leon: Meet Marvin Branagh _
  
-<details><summary>Spoilers</summary>To meet Marvin you need to open the shutters in the lobby using the lock to the left of the shutter. Be warned you can softlock the game if you entered through the air vent behind Marvin before unlocking the shutters.</details>
+<details><summary>Spoilers</summary>To meet Marvin you need to open the shutters in the hallway using the lock to the left of the shutter. **Be warned you can softlock the game if you entered through the air vent behind Marvin before unlocking the shutters.**</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184343.png) **[You Have My Gratitude]( https://retroachievements.org/achievement/163046)** _~Leon: Meet Ada_
  
-<details><summary>Spoilers</summary>To meet Ada properly first you need to get the Fire Extinguisher which is located in a locker on the lobby before you open the shutters to the Outback with the Flaming truck, next you need to interact with the fire which prompts you to extinguish the flames followed by you meeting Ada.</details>
+<details><summary>Spoilers</summary>To meet Ada properly first you need to get the Fire Extinguisher which is located in a locker on the hallway before you open the shutters to the Outback with the Flaming truck, next you need to interact with the fire which prompts you to extinguish the flames followed by you meeting Ada.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184344.png) **[It's the R.P.D. officer, Roy...](https://retroachievements.org/achievement/163047)** _~Leon: Find Roy_
  
@@ -81,7 +81,7 @@ There are a total of 86 achievements, which can be broken down into the followin
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184348.png) **[Let's Get Out of Here!](https://retroachievements.org/achievement/163051)** _~Leon: Escape the R.P.D. Station_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>After you killed both gorrillas go to the right side of the parking lot where there are police cars and a police van which you must interact with for the cutscene to trigger and leave the R.P.D proper.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184390.png) **[Needle in a Haystack [m]](https://retroachievements.org/achievement/163822)** _~Leon: Find the Pocket Watch in the Sewers_
  
@@ -109,42 +109,41 @@ There are a total of 86 achievements, which can be broken down into the followin
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184353.png) **[Goodbye...](https://retroachievements.org/achievement/163056)** _~Leon: Witness the fate of Ada_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>You need to get to the Hangar to	.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184391.png) **[End of the Line](https://retroachievements.org/achievement/163823)** _~Leon: Reach the Underground Train_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>After the cutscene with Ada you can interact with the Lift in the same room and get to the Underground Train which triggers the achievement.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184363.png) **[Come On!](https://retroachievements.org/achievement/163066)** _~Leon: Meet Annete Birkin_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>When you first enter the Underground Train throught the lift you'll meet Annete in a cutscene which will trigger the achievement.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184369.png) **[Live to Fight Another Day](https://retroachievements.org/achievement/163072)** _~Leon: Clear the game_
 
+<details><summary>Spoilers</summary>To finish the game you just need to travel down the train carts in the Underground Train until you reach Annete in the last cart, which will trigger the ending slides and complete the game.</details>
 
 > ### Elza’s Scenario
 
-<details><summary>Spoilers</summary>	.</details>
-
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184347.png) **[Poor Thing... [m]](https://retroachievements.org/achievement/163050)** _~Elza: Check your bike_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>After you start Elza's story you can interact with her bike, to learn how did you end up here.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184349.png) **[How Horrible...](https://retroachievements.org/achievement/163052)** _~Elza: Meet Roy_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>To meet Roy you must make your way through the left side of the Lobby, open the shutters in the West Corridor, go through the back of Office B and into the Mirror Room , which will trigger the cutscene.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184365.png) **[Ughh...](https://retroachievements.org/achievement/163068)** _~Elza: Meet Jhon_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>To meet Jhon you first need to have met Roy so you can interact with him and get the Prison Key, now make your way through the Lobby again and now enter the East Corridor, Open the shutters to the front desk and go through the door to the left, make your way down to the Basement and throught the Door in the back you can enter the Prison Block which if you go all the way to the back you'll enter a cutscene and meet Jhon.</details>
 
  ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184352.png) **[Poor Roy...](https://retroachievements.org/achievement/163055)** _~Elza: Witness the fate of Roy_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>After meeting Jhon in the Prison Block make your way back to Office B and watch the cutscene that follows.</details>
 
  ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184356.png) **[Just Worry About Yourself for Now](https://retroachievements.org/achievement/163059)** _~Elza: Meet Brian Irons_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To meet Brian first enter the staircase (or the elevator if you turned on the power to the R.P.D. Station) in the West Corridor and go all the way up, enter through the corridor into the Chief's Office and interact with Brian.</details>
 
  ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184350.png) **[That's a Cute Name](https://retroachievements.org/achievement/163053)** _~Elza: Meet Sherry_
  
@@ -321,7 +320,14 @@ There are a total of 86 achievements, which can be broken down into the followin
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189134.png) **[Reaper of Souls I [m]](https://retroachievements.org/achievement/168020)** _~Leon: Kill all the creatures in the R.P.D Station_
  
-<details><summary>Spoilers</summary>The achievement is there to notify you how many enemies you have left in the R.P.D Station before moving to the next stage, there’s a total of **105** enemies you’ll need to kill for this achievement, which makes critical use of every ammunition box you’ll find at the R.P.D Station with great accuracy so as to not miss any. It’s recommend to use the knife whenever possible to not waste good ammo you’ll need later</details>
+<details><summary>Spoilers</summary>The achievement is there to notify you how many enemies you have left in the R.P.D Station before moving to the next stage, there’s a total of **105** enemies you’ll need to kill for this achievement, which makes critical use of every ammunition box you’ll find at the R.P.D Station with great accuracy so as to not miss any. It’s recommended to use the knife whenever possible to not waste good ammo you’ll need later and also you can backtrack after getting more ammo the later stages.
+
+The list of enemies includes:
+- All 20 zombies in the Lobby
+- All 20 zombies in the West Corridor
+- All the Crows
+- All the zombie dogs
+- Both Giant Gorrilas</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189133.png) **[Reaper of Souls II [m]](https://retroachievements.org/achievement/168021)** _~Leon: Kill all the creatures in the Sewers_
  
@@ -359,15 +365,7 @@ There are a total of 86 achievements, which can be broken down into the followin
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/187937.png) **[Grim Reaper [m]](https://retroachievements.org/achievement/167122)** _~Leon: Clear the game after killing every single creature_
- 
-<details><summary>Spoilers</summary>Pretty self explanatory, you need to finish the game after killing all enemies through the game, If you have gotten all previous **Reaper of Souls** achievements in the same run then you only need to finish the game.</details>
- 
-![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/187938.png) **[Lady Death [m]](https://retroachievements.org/achievement/167123)** _~Elza: Clear the game after killing every single creature_
- 
-<details><summary>Spoilers</summary>Pretty self explanatory, you need to finish the game after killing all enemies through the game, If you have gotten all previous **Matriarch of the Dead** achievements in the same run then you only need to finish the game.</details>
- 
-![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184394.png) **[One Man Army [m]](https://retroachievements.org/achievement/163826)** _~Leon: Get every gun in one playthrough_
+ ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184394.png) **[One Man Army [m]](https://retroachievements.org/achievement/163826)** _~Leon: Get every gun in one playthrough_
  
 <details><summary>Spoilers</summary>You’ll need to get the four guns that can be obtained in Leon's scenario in the same run, that being the **H&K MC51** ,the **Remington M870**, the**Super Redhawk**and the **Flamethrower** please check their individual achievements for their exact location.</details>
  
@@ -385,15 +383,15 @@ There are a total of 86 achievements, which can be broken down into the followin
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184661.png) **[Close Combat Specialist [m]](https://retroachievements.org/achievement/164098)** _~Leon: Clear the game without firing a single bullet or picking up a single gun_
  
-<details><summary>Spoilers</summary>This is one of the hardest achievements on the set, You’ll need to finish the game basically only using the knife for means of defending yourself. You should learn enemy patterns,a fast route and avoid conflict as much as possible to be able to earn this achievement .</details>
+<details><summary>Spoilers</summary>This is one of the hardest achievements on the set, You’ll need to finish the game basically only using the knife for means of defending yourself. You should learn enemy patterns,a fast route and avoid conflict as much as possible to be able to earn this achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184662.png) **[Who Needs Guns Anyway? [m]](https://retroachievements.org/achievement/164099)** _~Elza: Clear the game without firing a single bullet or picking up a single gun_
  
-<details><summary>Spoilers</summary>This is one of the hardest achievements on the set, You’ll need to finish the game basically only using the knife for means of defending yourself. You should learn enemy patterns,a fast route and avoid conflict as much as possible to be able to earn this achievement .</details>
+<details><summary>Spoilers</summary>This is one of the hardest achievements on the set, You’ll need to finish the game basically only using the knife for means of defending yourself. You should learn enemy patterns, a fast route and avoid conflict as much as possible to be able to earn this achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188498.png) **[Saviour of the Damned [m]](https://retroachievements.org/achievement/167606)** _~Leon: Clear the game without killing any creature [Excluding forced encounters]_
  
-<details><summary>Spoilers</summary>There’s only two forced encounters in which you need to kill to progress, that being the two Giant Gorillas in the R.P.D. 's Parking Lot and the first encounter with G-Birkin in the Factory, killing any other creature will lock the achievement until a new run is started, you get notified via the Trigger function in the right bottom corner while the achievement is still active .</details>
+<details><summary>Spoilers</summary>There’s only threee forced encounters in which you need to kill to progress, that being the two Giant Gorillas in the R.P.D. 's Parking Lot*, the first encounter with G-Birkin in the Factory and the fight with the two Gorillas in the Underground Sublevels's Hangar, killing any other creature will lock the achievement until a new run is started, you get notified via the Trigger function in the right bottom corner while the achievement is still active .</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188499.png) **[St. Elza [m]](https://retroachievements.org/achievement/167607)** _~Elza: Clear the game without killing any creature [Excluding forced encounters]_
  
@@ -401,7 +399,7 @@ There are a total of 86 achievements, which can be broken down into the followin
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/183994.png) **[Urban Explorer [m]](https://retroachievements.org/achievement/163510)** _~Visit all unique rooms in one playthrough_
  
-<details><summary>Spoilers</summary>There’s a total of 103 unique rooms you can visit in a playthrough, with only one being restricted to Elza which the achievement accounts for, Also the Intro Slides and Ending Slides count as rooms in the logic so be sure you visited all other rooms before finishing the game, It’s recommended you use the in-game map to keep track of the rooms you are currently and the rooms you haven’t visited. The list is as follows: 
+<details><summary>Spoilers</summary>There’s a total of 103 unique rooms you can visit in a playthrough, with only one being restricted to Elza which the achievement accounts for; Also the Intro Slides and Ending Slides count as rooms in the logic so be sure you visited all other rooms before finishing the game by checking if you have 99% in the achievement progression, It’s recommended you use the in-game map to keep track of the rooms you are in currently and the rooms you haven’t visited. The list is as follows: 
 
 ## R.P.D. Station
 ***
