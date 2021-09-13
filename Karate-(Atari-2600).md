@@ -1,3 +1,8 @@
+
+|⭐ This guide has been featured in [RANews](https://news.retroachievements.org/) ⭐|
+|:---:|
+|[September 2021 (Vol. 109)](https://news.retroachievements.org/issues/2021-09/guide.html)|
+
 # Karate (Atari 2600)
 Originally published by Ultravision in 1982 and later re-released by Froggo, Karate is considered one of the worst Atari 2600 games ever released. The game was supposedly designed by black belt Joseph Amelio however upon release it received poor reviews. 
 * **Set by**: [endtimes][20]
