@@ -17,8 +17,8 @@ You can also find an on-site hub containing all games [here](https://retroachiev
 |[January (101)](https://news.retroachievements.org/issues/2021-01/)|[Suikoden (PlayStation)](https://retroachievements.org/game/11255)|[RANews](https://news.retroachievements.org/issues/2021-01/guide.html)|[RAGuide](Suikoden-(PlayStation))|
 |[February (102)](https://news.retroachievements.org/issues/2021-02/)|[Gradius (PC Engine)](https://retroachievements.org/game/8979)|[RANews](https://news.retroachievements.org/issues/2021-02/guide.html)|None|
 |[March (103)](https://news.retroachievements.org/issues/2021-03/)|[Final Fantasy IV (SNES)](https://retroachievements.org/game/3528)|[RANews](https://news.retroachievements.org/issues/2021-03/guide.html)|[RAGuide](Final-Fantasy-IV-(J)-(SNES))|
-|[April (104)](https://news.retroachievements.org/issues/2021-04/)|Game|RANews|RAGuide|
-|[May (105)](https://news.retroachievements.org/issues/2021-05/)|Game|RANews|RAGuide|
+|[April (104)](https://news.retroachievements.org/issues/2021-04/)|[Final Fantasy III (J) (NES)](https://retroachievements.org/game/5553)|[RANews](https://news.retroachievements.org/issues/2021-04/guide.html)|[RAGuide](Final-Fantasy-III-(J)-(NES))|
+|[May (105)](https://news.retroachievements.org/issues/2021-05/)|[Pokemon Snap (Nintendo 64)](https://retroachievements.org/game/10155)|[RANews](https://news.retroachievements.org/issues/2021-05/guide.html)|[RAGuide](Pokemon-Snap-(Nintendo-64))|
 |[June (106)](https://news.retroachievements.org/issues/2021-06/)|Game|RANews|RAGuide|
 |[July (107)](https://news.retroachievements.org/issues/2021-07/)|Game|RANews|RAGuide|
 |[August (108)](https://news.retroachievements.org/issues/2021-08/)|Game|RANews|RAGuide|
