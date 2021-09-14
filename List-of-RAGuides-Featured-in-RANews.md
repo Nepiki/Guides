@@ -19,9 +19,9 @@ You can also find an on-site hub containing all games [here](https://retroachiev
 |[March (103)](https://news.retroachievements.org/issues/2021-03/)|[Final Fantasy IV (SNES)](https://retroachievements.org/game/3528)|[RANews](https://news.retroachievements.org/issues/2021-03/guide.html)|[RAGuide](Final-Fantasy-IV-(J)-(SNES))|
 |[April (104)](https://news.retroachievements.org/issues/2021-04/)|[Final Fantasy III (J) (NES)](https://retroachievements.org/game/5553)|[RANews](https://news.retroachievements.org/issues/2021-04/guide.html)|[RAGuide](Final-Fantasy-III-(J)-(NES))|
 |[May (105)](https://news.retroachievements.org/issues/2021-05/)|[Pokemon Snap (Nintendo 64)](https://retroachievements.org/game/10155)|[RANews](https://news.retroachievements.org/issues/2021-05/guide.html)|[RAGuide](Pokemon-Snap-(Nintendo-64))|
-|[June (106)](https://news.retroachievements.org/issues/2021-06/)|Game|RANews|RAGuide|
-|[July (107)](https://news.retroachievements.org/issues/2021-07/)|Game|RANews|RAGuide|
-|[August (108)](https://news.retroachievements.org/issues/2021-08/)|Game|RANews|RAGuide|
+|[June (106)](https://news.retroachievements.org/issues/2021-06/)|Bomberman Quest|RANews|RAGuide|
+|[July (107)](https://news.retroachievements.org/issues/2021-07/)|Blaster Master|RANews|RAGuide|
+|[August (108)](https://news.retroachievements.org/issues/2021-08/)|Kid Icarus|RANews|RAGuide|
 |[September (109)](https://news.retroachievements.org/issues/2021-09/)|[Karate (Atari 2600)](https://retroachievements.org/game/17461)|[RANews](https://news.retroachievements.org/issues/2021-09/guide.html)|[RAGuide](Karate-(Atari-2600))|
 |October (110)|\*TBA\*|RANews|RAGuide|
 |November (111)|\*TBA\*|RANews|RAGuide|
