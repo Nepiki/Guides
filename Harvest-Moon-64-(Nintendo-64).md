@@ -12,6 +12,8 @@ Does Difficulty Affect Achievements?: N/A
 
 Harvest Moon 64 can be argued to be one of the best Harvest Moon games out there. The primary goal is to raise a farm and do well enough by year 3 to be allowed to continue. In the game you will grow crops, raise farm animals, you can get married and have kids and compete in festivals. Along with various other side quests in the game.
 
+Due to this game having so many mechanics for dating and such, I will be including some information at the end of this guide for each of the marriage candidates and other information.
+
 ## 3) Walkthrough
 
 **Step 1**
@@ -403,3 +405,160 @@ _Have your farm evaluated in Year 3 and be allowed to continue._
 **-=Missable=-**  
 
 This is very hard not to do and you would have to pretty not do anything all, no animals, no wife, if you don’t talk to people, don’t sell crops or make any money, then you will get the bad ending. This however, can basically lock you out from continuing and if your most recent save is today, well… I hope you have earlier ones or you are starting over. If you want to make sure you get past this, make sure you at least are married or have some animals.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138319.png) [Dog Lover]( https://retroachievements.org/achievement/125545)  
+_Max your dog's affection._  
+
+This will be done over time. The max affect for your dog is 255 and it starts with 0. To increase its affection, you can do so by picking it up, whistling for it and feeding it. Just do these things and it will be maxed at some point through your game. Keep in mind that if you hit your dog, you are a bad person and you will lose affection.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138319.png) [Horse Lover]( https://retroachievements.org/achievement/125546)  
+_Max your horse's affection._  
+Just like the dog, this will be done over time so long as you interact with your horse. You can gain affection with horse by talking to it, riding it and brushing it. Also, if you hit the horse, you will lose affection.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138309.png) [Box Full of Music]( https://retroachievements.org/achievement/125556)  
+_Dig up the Music Box._  
+
+The Music Box is dug up in your field but can be hard to find if you don’t know where to look. First, you need to go to the tree on your farm and press A on it and you’ll find a treasure map, then you need to dig with your hoe and it is on the right side of the field from your dog house or if you go to the tree on your farm and go down. Really it is about the spot where the two intercept. You need to dig with your hoe at least 10 times and you will dig it up. Refer to the picture below.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138251.png) [Underground Weather]( https://retroachievements.org/achievement/125579)  
+_Find the weathervane in the mines._  
+
+In Winter, you can go to the mines and to find the weathervane, you need to get down to the 4th floor and dig. I recommend bringing something to eat or refill your stamina as the way to the next floor is not always the same and is random, same with finding the weathervane.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138267.png) [Nature's Precious Critters]( https://retroachievements.org/achievement/125562)  
+_Go with Ann to see the Pika Bunny and get the photo._  
+**-=Missable=-**  
+
+There are a few things that need to happen for this. First, you will need to get Ann’s affection up for this. Then in Winter on a day where it is snowing, so long as you are not married and Ann’s affection is at least 200, she will arrive at your house and ask you to follow her, you will see an event with the Pika Bunny. This will award you the picture giving you the achievement.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138266.png) [A Memorable Night]( https://retroachievements.org/achievement/125563)  
+_Go with Maria to watch the fireflies and get the photo._  
+**-=Missable=-**  
+
+There are a few things that need to happen for this. First, you will need to get Maria’s affection up for this. In Summer, as long as it is not raining, you are not married and her affection is up 200 or more, she come by your farm at 6:00pm and she will be there and ask you to follow her. Do so and you will see an event, which will unlock this photo and give you your achievement.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138265.png) [A Fairy's Blessing]( https://retroachievements.org/achievement/125564)  
+_Get the photo with Karen of the Fairies blessing the Vineyard._  
+**-=Missable=-**  
+
+This one involves a bit more than the others because not only do you need Karen’s affection higher, you need to have saved the vineyard as well. So, if the vineyard is saved (Outlined below), you are not married and it is Fall 7, she will show up to your hours at 9:00pm. Talk to her and you will go to her photo event and get this achievement.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138264.png) [The Essence of the Moondrop]( https://retroachievements.org/achievement/125565)  
+_Go with Elli to make Moon Essence in the mountains and get the photo._  
+**-=Missable=-**  
+
+Similar to the other girls. You will need to get your affection up to at least 200 with Elli first. Once you have that and you are not married, on Fall 9, Elli will show up on your farm at 6:00pm. Talk to her and she will take you on her photo event and you will be awarded this achievement.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138268.png) [The Treasures of the Blue Mist]( https://retroachievements.org/achievement/125561)  
+_Plant a Blue Mist flower with Popuri and see the Rare Butterfly and get the photo._  
+**-=Missable=-**  
+
+This one is a little different as affection does not seem to be important here. On the Spring of your second year, the shop will carry blue mist seeds. When you buy them, You and Popuri will plant them near the goddess pond. You need to water these every day and after about a week or so, they will bloom. This will trigger the photo event with Popuri. 
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138299.png) [Vineyard's Finest]( https://retroachievements.org/achievement/99520)  
+_Get married to Karen._  
+**-=Missable=-**  
+
+To get married to the girls, you need to have their affection up to a Pink Heart (208 affection), at Rick’s shop, you will see a blue feather appear for 980G. Buy the feather and give it to the girl you wish to marry and they should say yes. Now, this that said, not all the girls are the same, girl’s like Karen. With Karen you also will have needed to save the Vineyard (Outlined below). So to marry Karen, save the vineyard, get the affection up to pink heart and then give her the Blue Feather. This will trigger the marrying process and lead you to your achievement.
+
+**If you need her with Karen, refer to the section at the end of the guide for tips with Karen.**
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138298.png) [Sweet Baker]( https://retroachievements.org/achievement/99521)  
+_Get married to Elli._  
+**-=Missable=-**  
+
+To get married to Elli, you need to get her affection up to a Pink Heart, give her gifts, attend her events, etc. Once her heart is at a pink, you can buy the Blue Feather from Rick’s which costs 980G. You will also need the Kitchen extension. But give the feather to her and she will agree to marry you.
+
+**If you need her with Elli, refer to the section at the end of the guide for tips with Elli.**
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138297.png) [Cheerful Rancher]( https://retroachievements.org/achievement/99522)  
+_Get married to Ann._  
+**-=Missable=-**  
+
+To get married to Ann, you need to get her affection up to a Pink Heart, give her gifts, attend her events, etc. Once her heart is at a pink, you can buy the Blue Feather from Rick’s which costs 980G. You will also need the Kitchen extension. But give the feather to her and she will agree to marry you.
+
+**If you need her with Ann, refer to the section at the end of the guide for tips with Ann.**
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138296.png) [The Childish Flower Girl]( https://retroachievements.org/achievement/99523)  
+_Get married to Popuri._  
+**-=Missable=-**  
+
+To get married to Popuri, you need to get her affection up to a Pink Heart, give her gifts, attend her events, etc. Once her heart is at a pink, you can buy the Blue Feather from Rick’s which costs 980G. You will also need the Kitchen extension. But give the feather to her and she will agree to marry you.
+
+**If you need her with Popuri, refer to the section at the end of the guide for tips with Popuri.**
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138307.png) [Nerdy Librarian]( https://retroachievements.org/achievement/99524)  
+_Get married to Maria._  
+**-=Missable=-**  
+
+To get married to Mary, you need to get her affection up to a Pink Heart, give her gifts, attend her events, etc. Once her heart is at a pink, you can buy the Blue Feather from Rick’s which costs 980G. You will also need the Kitchen extension. But give the feather to her and she will agree to marry you.
+
+**If you need her with Maria, refer to the section at the end of the guide for tips with Maria.**
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138287.png) [A Nomadic Friend]( https://retroachievements.org/achievement/125588)  
+_Watch Ann and Cliff get married._    
+**-=Missable=-**   
+
+This involves befriending Cliff while keeping Ann’s affection lower. If Ann’s affection gets too high, you will not be able to trigger the wedding between these two. So work primarily on Cliff. The easiest way I found to get Cliff’s affection up is to give him eggs. If you are raising chickens, then you should get these daily. After his affection gets to a certain point, he will meet you outside and invite you to his wedding. 
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138286.png) [Sweetest Things]( https://retroachievements.org/achievement/125589)  
+_Watch Elli and Jeff get married._    
+**-=Missable=-**   
+
+This one will involve becoming friends with Jeff while keeping Elli’s affection down as if it gets too high, like the others, you won’t be able to trigger the marriage. Jeff likes milk and absolutely loves gold milk. So if you are trying to get his affection up and you have milk producing cows, give him some. He will eventually meet you on the farm and invite you to his wedding.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138285.png) [A Friendship of Little Words]( https://retroachievements.org/achievement/125590)  
+_Watch Popuri and Gray get married._    
+**-=Missable=-**   
+
+Like the others, this one involves getting your affection up with Gray while keeping it down with Popuri. Gray is a quiet guy, doesn’t talk much and he is kind of shy, even when he invites you to his wedding though he’ll drop hints and such when he is close in the bar. However, all you need to do is get his affection up and the best way I found for that is to using eggs. He also likes eggs which are easy enough to come by. If for some reason you don’t have them, he also likes you showing him his dog. Once his affection is up enough, he will show up on your farm and invite you to the wedding.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138272.png) [The Nerdy Buds]( https://retroachievements.org/achievement/125591)  
+_Watch Maria and Harris get married._    
+**-=Missable=-**   
+
+This one involves getting Harris’ affection up while keeping Maria’s down. Harris will tell you through out that he has feelings for her but doesn’t know what to do about them. The best way to get his affection up is to give him flowers and milk. I used milk myself since it was easier to get since I had cows. Once the affection is high enough, he will show up on your farm and invite you to the wedding.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138283.png) [A "Winey" Couple]( https://retroachievements.org/achievement/125592)  
+_Watch Karen and Kai get married._    
+**-=Missable=-**   
+
+This one involves a little more because you will need to save the vineyard first (outlined below) while getting Kai’s affection up. If you do not save the Vineyard, Karen will leave making this impossible so make sure you save the Vineyard. The best way I found to get Kai’s affection up is to give him berries. He seems to love them. Once his affection is high enough and the Vineyard is saved, Kai will show up to your farm and invite you to the wedding.
