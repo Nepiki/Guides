@@ -196,117 +196,117 @@ There are a total of 84 achievements, which can be broken down into the followin
 
 > ### Interactions
 
-![Image](        	) **[That's Art](https://retroachievements.org/achievement/163821)** _~Solve the Statues Puzzle in the R.P.D Station_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184388.png) **[That's Art](https://retroachievements.org/achievement/163821)** _~Solve the Statues Puzzle in the R.P.D Station_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Let There Be Light!](https://retroachievements.org/achievement/164089)** _~Restore the power to the R.P.D. Station_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184652.png) **[Let There Be Light!](https://retroachievements.org/achievement/164089)** _~Restore the power to the R.P.D. Station_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Who Needs These Anyway?](https://retroachievements.org/achievement/163817)** _~Disable the Safety Lock in the R.P.D. Station_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184384.png) **[Who Needs These Anyway?](https://retroachievements.org/achievement/163817)** _~Disable the Safety Lock in the R.P.D. Station_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[A Typewriter!...With a Screen? [m]](https://retroachievements.org/achievement/163076)** _~Try to save your progress in the R.P.D. Station_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184372.png) **[A Typewriter!...With a Screen? [m]](https://retroachievements.org/achievement/163076)** _~Try to save your progress in the R.P.D. Station_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Let Me Innnnnn!!! [m]](https://retroachievements.org/achievement/164090)** _~Unlock the R.P.D. Station's Weapon Storage Room_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184653.png) **[Let Me Innnnnn!!! [m]](https://retroachievements.org/achievement/164090)** _~Unlock the R.P.D. Station's Weapon Storage Room_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Open the Archive Room Doors, VUS [m]](https://retroachievements.org/achievement/163819)** _~Unlock the Archive Room in the R.P.D. Station_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184386.png) **[Open the Archive Room Doors, VUS [m]](https://retroachievements.org/achievement/163819)** _~Unlock the Archive Room in the R.P.D. Station_
  
 <details><summary>Spoilers</summary>To unlock the Archive Room you need to first get the  Minidisc Player w/ Disc which you can get after disabling the Safety Lock in the Corridor which lets you get access to Morgue where in the last cabinet to the back of the room you can find the Minidisc Player w/ Disc.</details>
  
-![Image](        	) **[Now I'm Ready! [m]](https://retroachievements.org/achievement/167242)** _~Have in your inventory at the same time: 255 9 mm Parabellum Ammo, 35 Shotguns Shells, 2 First Aid Spray and an Antidote Spray before leaving the R.P.D. Station_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188138.png) **[Now I'm Ready! [m]](https://retroachievements.org/achievement/167242)** _~Have in your inventory at the same time: 255 9 mm Parabellum Ammo, 35 Shotguns Shells, 2 First Aid Spray and an Antidote Spray before leaving the R.P.D. Station_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Where Does This Go?](https://retroachievements.org/achievement/163064)** _~Use the Crank in the Sewers_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184361.png) **[Where Does This Go?](https://retroachievements.org/achievement/163064)** _~Use the Crank in the Sewers_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[The Lightbringer](https://retroachievements.org/achievement/164091)** _~Restore the power to the Umbrella Laboratory_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184654.png) **[The Lightbringer](https://retroachievements.org/achievement/164091)** _~Restore the power to the Umbrella Laboratory_
  
 <details><summary>Spoilers</summary>        	.</details>
 
 
 > ### Loot
  
-![Image](        	) **[Heckler & Koch Special [m]](https://retroachievements.org/achievement/163058)** _~Get the H&K MC51_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184355.png) **[Heckler & Koch Special [m]](https://retroachievements.org/achievement/163058)** _~Get the H&K MC51_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Pumped Up! [m]](https://retroachievements.org/achievement/163060)** _~Get the Remington M870_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184357.png) **[Pumped Up! [m]](https://retroachievements.org/achievement/163060)** _~Get the Remington M870_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Handle With Care! [m]](https://retroachievements.org/achievement/163067)** _~Get the Super Redhawk_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184364.png) **[Handle With Care! [m]](https://retroachievements.org/achievement/163067)** _~Get the Super Redhawk_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Flame On! [m]](https://retroachievements.org/achievement/163061)** _~Leon: Get the Flamethrower_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184389.png) **[Flame On! [m]](https://retroachievements.org/achievement/163061)** _~Leon: Get the Flamethrower_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Merry Christmas 2020 [m]](https://retroachievements.org/achievement/163062)** _~Find the Christmas Easter Egg_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184359.png) **[Merry Christmas 2020 [m]](https://retroachievements.org/achievement/163062)** _~Find the Christmas Easter Egg_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[My Fists Are Forged in the Flames of Murder! [m]](https://retroachievements.org/achievement/163065)** _~Find the Akuma Easter Egg_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184362.png) **[My Fists Are Forged in the Flames of Murder! [m]](https://retroachievements.org/achievement/163065)** _~Find the Akuma Easter Egg_
  
 <details><summary>Spoilers</summary>        	.</details>
 
 
 > ### Enemies
  
-![Image](        	) **[They Just Keep Coming! [m]](https://retroachievements.org/achievement/163069)** _~Elza: Kill all the zombies at the barred gate in the R.P.D. Station's Lobby_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184366.png) **[They Just Keep Coming! [m]](https://retroachievements.org/achievement/163069)** _~Elza: Kill all the zombies at the barred gate in the R.P.D. Station's Lobby_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[And They Don't Stop Coming! [m]](https://retroachievements.org/achievement/166277)** _~Leon: Kill all the zombies in the R.P.D Station's West Corridor_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189121.png) **[And They Don't Stop Coming! [m]](https://retroachievements.org/achievement/166277)** _~Leon: Kill all the zombies in the R.P.D Station's West Corridor_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Ornithophobia [m]](https://retroachievements.org/achievement/164998)** _~Leon: Kill all the crows in the R.P.D. Station_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185729.png) **[Ornithophobia [m]](https://retroachievements.org/achievement/164998)** _~Leon: Kill all the crows in the R.P.D. Station_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Cynophobia [m]](https://retroachievements.org/achievement/164999)** _~Elza: Kill all the zombie dogs in the R.P.D. Station_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185730.png) **[Cynophobia [m]](https://retroachievements.org/achievement/164999)** _~Elza: Kill all the zombie dogs in the R.P.D. Station_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Arachnophobia [m]](https://retroachievements.org/achievement/165002)** _~Leon: Kill all the mutated spiders in the Sewers_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185733.png) **[Arachnophobia [m]](https://retroachievements.org/achievement/165002)** _~Leon: Kill all the mutated spiders in the Sewers_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[My Spider Senses Are Starting to Tingle! [m]](https://retroachievements.org/achievement/165120)** _~Elza: Kill all the Man-Spiders in the Underground Sublevels_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185892.png) **[My Spider Senses Are Starting to Tingle! [m]](https://retroachievements.org/achievement/165120)** _~Elza: Kill all the Man-Spiders in the Underground Sublevels_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Nice to See You](https://retroachievements.org/achievement/165121)** _~Defeat G-Birkin in the Factory_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185893.png) **[Nice to See You](https://retroachievements.org/achievement/165121)** _~Defeat G-Birkin in the Factory_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Nice Seeing You Again [m]](https://retroachievements.org/achievement/165122)** _~Defeat G-Birkin in the Underground Sublevels_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185894.png) **[Nice Seeing You Again [m]](https://retroachievements.org/achievement/165122)** _~Defeat G-Birkin in the Underground Sublevels_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[The Bigger They Are... [m]](https://retroachievements.org/achievement/168147)** _~Defeat G-Birkin in the Factory without taking damage and not using special weapons_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188974.png) **[The Bigger They Are... [m]](https://retroachievements.org/achievement/168147)** _~Defeat G-Birkin in the Factory without taking damage and not using special weapons_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[...The Harder They Fall [m]](https://retroachievements.org/achievement/168148)** _~Defeat G-Birkin in the Underground Sublevels without taking damage and not using special weapons_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188975.png) **[...The Harder They Fall [m]](https://retroachievements.org/achievement/168148)** _~Defeat G-Birkin in the Underground Sublevels without taking damage and not using special weapons_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[It's That All You Got? [m]](https://retroachievements.org/achievement/168042)** _~Defeat G-Birkin in the Factory in under one minute_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188895.png) **[It's That All You Got? [m]](https://retroachievements.org/achievement/168042)** _~Defeat G-Birkin in the Factory in under one minute_
  
 <details><summary>Spoilers</summary>        	.</details>
  
-![Image](        	) **[Disappointing [m]](https://retroachievements.org/achievement/168043)** _~Defeat G-Birkin in the Underground Sublevels in under one minute_
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188896.png) **[Disappointing [m]](https://retroachievements.org/achievement/168043)** _~Defeat G-Birkin in the Underground Sublevels in under one minute_
  
 <details><summary>Spoilers</summary>        	.</details>
  
@@ -323,6 +323,7 @@ There are a total of 84 achievements, which can be broken down into the followin
 <details><summary>Spoilers</summary>The achievement is there to notify you how many enemies you have left in the R.P.D Station before moving to the next stage, there’s a total of **105** enemies you’ll need to kill for this achievement, which makes critical use of every ammunition box you’ll find at the R.P.D Station with great accuracy so as to not miss any. It’s recommended to use the knife whenever possible to not waste good ammo you’ll need later and also you can backtrack after getting more ammo the later stages.
 
 The list of enemies includes:
+- 3 Missable zombies in B1 Corridor before you turn on the power
 - All 20 zombies in the Lobby
 - All 20 zombies in the West Corridor
 - All the Crows
@@ -528,7 +529,7 @@ The list of enemies includes:
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184373.png) **[It's Not Too Late to Go Green [m]](https://retroachievements.org/achievement/163505)** _~Clear the game without using any healing item_
  
-<details><summary>Spoilers</summary>To get this achievement you must clear the game with either character without healing at any point in the game, which gives you a limited health bar to work with, I recommend learning a fast route and enemy patterns before trying this achievement.Only doing what's necessary to progess the story as to not expose yourself to more danger.</details>
+<details><summary>Spoilers</summary>To get this achievement you must clear the game with either character without healing at any point in the game, which gives you a limited health bar to work with, I recommend learning a fast route and enemy patterns before trying this achievement. Only doing what's necessary to progess the story as to not expose yourself to more danger.</details>
  
 ## End
 I hope that the guide has been useful for navigating this forgotten game in Resident Evil history!, Made with love for the RetroAchievements community.
