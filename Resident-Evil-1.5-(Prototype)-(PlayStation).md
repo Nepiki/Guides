@@ -159,7 +159,7 @@ There are a total of 84 achievements, which can be broken down into the followin
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184375.png) **[What a Cesspool!](https://retroachievements.org/achievement/163507)** _~Elza: Escape the Sewers_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>Escaping the Sewers is pretty straight forward, just follow the path that takes you thought both Zombie Tunnels then hop into the open area in Spider Tunnel 2 and go to the back of it to take the ladder to the Factory.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184371.png) **[Where Are You Going Little Girl?](https://retroachievements.org/achievement/163074)** _~Elza: Watch Sherry sneak into the Factory_
  
@@ -202,85 +202,85 @@ There are a total of 84 achievements, which can be broken down into the followin
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184388.png) **[That's Art](https://retroachievements.org/achievement/163821)** _~Solve the Statues Puzzle in the R.P.D Station_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To solve the statues puzzle and unlock the door to the Conference Room just push both statues until you get them to both cornes in the interection of the hallway, each giving their backs to the wall so  if you have them facing front you did it backwards and can exit the room and reenter to try again.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184652.png) **[Let There Be Light!](https://retroachievements.org/achievement/164089)** _~Restore the power to the R.P.D. Station_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To restore the power to the R.P.D. make your way to the B2 Corridor using the Stairs found to the door immediately left after opening the shutters in the East Corridor, then go to the far end to enter the Boiler room where you would find the generator and after interacting with it prompts you to start it and restore power to the R.P.D triggering the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184384.png) **[Who Needs These Anyway?](https://retroachievements.org/achievement/163817)** _~Disable the Safety Lock in the R.P.D. Station_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To disable the Safety Lock located in the B2 Corridor you must have gotten the Pliers in the Garage floor first, then you can come back and use them to disable the lock and allow access to the Morgue.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184372.png) **[A Typewriter!...With a Screen? [m]](https://retroachievements.org/achievement/163076)** _~Try to save your progress in the R.P.D. Station_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To find one of the many unusable save points throught the game just go to the the First Aid room located in the 2F of R.P.D. Station and interact with the computer, which will trigger the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184653.png) **[Let Me Innnnnn!!! [m]](https://retroachievements.org/achievement/164090)** _~Unlock the R.P.D. Station's Weapon Storage Room_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To get access to the Weapon Room you must first restore power to the R.P.D Station in the Boiler Room after which you can enter the Shooting Range where depending of your character the puzzle is different, Odds out Even in for Elza ,and Odds in Even out for Leon, after doing so a cutscene of the lock unlocking will follow, then you can enter the room which will trigger the achievement when you first enter it.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184386.png) **[Open the Archive Room Doors, VUS [m]](https://retroachievements.org/achievement/163819)** _~Unlock the Archive Room in the R.P.D. Station_
  
-<details><summary>Spoilers</summary>To unlock the Archive Room you need to first get the  Minidisc Player w/ Disc which you can get after disabling the Safety Lock in the Corridor which lets you get access to Morgue where in the last cabinet to the back of the room you can find the Minidisc Player w/ Disc.</details>
+<details><summary>Spoilers</summary>To unlock the Archive Room you need to first get the Minidisc Player w/ Disc which you can get after disabling the Safety Lock in the B2 Corridor which lets you get access to Morgue where in the last cabinet to the back of the room you can find the Minidisc Player w/ Disc, then come back to the Archive Corridor located on the 2F of the station and interact with the lock, which will prompt to use the player and trigger the achievemnt when you do so.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188138.png) **[Now I'm Ready! [m]](https://retroachievements.org/achievement/167242)** _~Have in your inventory at the same time: 255 9 mm Parabellum Ammo, 35 Shotguns Shells, 2 First Aid Spray and an Antidote Spray before leaving the R.P.D. Station_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>While there's plenty of ammo in the R.P.D. Station you can make this achievement missable if you use the First Aids or use too much Ammo from either the Gun or the Shotgun, so try to use the knife or the H&K if you got it, now you can find the Ammo primarly in the Weapon Storage room and get the rest from all across the R.P.D., the shotgun shells can be found in the Morgue or the Garage, the Sprays can both be found in the First Aid room.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184361.png) **[Where Does This Go?](https://retroachievements.org/achievement/163064)** _~Use the Crank in the Sewers_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>If you already picked up the Crank located in the middle table of the Safe Room then make your way to the Spider Tunnel and follow this path until you find a blockade in the way in the next room, You can now interact with the square hole in the wall which will prompt you to use the crank and triggering the achievement if you do so.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184654.png) **[The Lightbringer](https://retroachievements.org/achievement/164091)** _~Restore the power to the Umbrella Laboratory_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To restore the power to the laboratory you must first find the Spark Plug located in the low end of the Right Corridor in a utility stand you must interact with to get it, now take it to the Main Shaft and interact with the machinery in the middle of the room which prompts you to use it and triggering the achievemnt when you do so.</details>
 
 
 > ### Loot
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184355.png) **[Heckler & Koch Special [m]](https://retroachievements.org/achievement/163058)** _~Get the H&K MC51_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>If you already got access to the Weapon Storage Room just make your way to the end of the room with the lockers and pickup the H&K MC51 located in one of them.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184357.png) **[Pumped Up! [m]](https://retroachievements.org/achievement/163060)** _~Get the Remington M870_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To get the Remington make your way to the First Aid room located in the 2F Hallway of the R.P.D. Station, then if you interact with the body in the middle of the room you can obtain the Remington and trigger the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184364.png) **[Handle With Care! [m]](https://retroachievements.org/achievement/163067)** _~Get the Super Redhawk_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>The Super Redhawk is located on top of some boxes in the Factory, so make your way to the Box in the catwalk ontop and push it all the way down and into the Redhawk to be able to pick it up triggering the achievent in the process.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184389.png) **[Flame On! [m]](https://retroachievements.org/achievement/163061)** _~Leon: Get the Flamethrower_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>The Flamethrower is located in the Forklift Room, which is located right before the Warehouse room where you fight G-Birkin, now interact with the closed safebox and pick up the Flamethrower to trigger the achievement. You can only obtain it if you are playing with Leon and also beware that refusing to pick up the Flamethrower or trying to do so with no spare slots will make the Flamethrower dissapear.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184359.png) **[Merry Christmas 2020 [m]](https://retroachievements.org/achievement/163062)** _~Find the Christmas Easter Egg_
  
-<details><summary>Spoilers</summary>You can find this easter egg in the R.P.D. Station's 2F Hallway where you must interact with the bench in which the doll sits upon, which will grant the achievement..</details>
+<details><summary>Spoilers</summary>You can find this easter egg in the R.P.D. Station's 2F Hallway where you must interact with the bench in which the doll sits upon, which will grant the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184362.png) **[My Fists Are Forged in the Flames of Murder! [m]](https://retroachievements.org/achievement/163065)** _~Find the Akuma Easter Egg_
  
-<details><summary>Spoilers</summary>The Akuma Head is found in the Sewers's Spider Tunnel 2, you need to push the box to the end of the hallway and into the vent where there was a spider before, if you get on top of the box and interact with the vent you get prompted to pick up the Head of Akuma, saying yes will grant the achievemenet.</details>
+<details><summary>Spoilers</summary>The Akuma Head is found in the Sewers's Spider Tunnel 2, you need to push the box to the end of the hallway and into the vent where there was a spider before, if you get on top of the box and interact with the vent you get prompted to pick up the Head of Akuma, saying yes will grant the achievement.</details>
 
 
 > ### Enemies
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184366.png) **[They Just Keep Coming! [m]](https://retroachievements.org/achievement/163069)** _~Elza: Kill all the zombies at the barred gate in the R.P.D. Station's Lobby_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 20 zombies you must kill here to get the achievement, only six can be on screen at a time.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189121.png) **[And They Don't Stop Coming! [m]](https://retroachievements.org/achievement/166277)** _~Leon: Kill all the zombies in the R.P.D Station's West Corridor_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 20 zombies you must kill here to get the achievement, only six can be on screen at a time.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185729.png) **[Ornithophobia [m]](https://retroachievements.org/achievement/164998)** _~Leon: Kill all the crows in the R.P.D. Station_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185730.png) **[Cynophobia [m]](https://retroachievements.org/achievement/164999)** _~Elza: Kill all the zombie dogs in the R.P.D. Station_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of *111* enemies in total that you must kill in the R.P.D. Station making the use of the knife and all the ammo available critical.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185733.png) **[Arachnophobia [m]](https://retroachievements.org/achievement/165002)** _~Leon: Kill all the mutated spiders in the Sewers_
  
@@ -292,35 +292,35 @@ There are a total of 84 achievements, which can be broken down into the followin
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185893.png) **[Nice to See You](https://retroachievements.org/achievement/165121)** _~Defeat G-Birkin in the Factory_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>This fight starts the moment you interact with the console besides the lift in the Factory's Warehouse, so you must defeat him to get the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185894.png) **[Nice Seeing You Again [m]](https://retroachievements.org/achievement/165122)** _~Defeat G-Birkin in the Underground Sublevels_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To find G-Birkin in the Sublevels deppends ont he character you are playing as but both encounters are located in the B3 subfloor, he can be located with Leon if you get to B3 Platform A and interact with the Console in the middle or with Elza in B4 Platform B if you go past the middle console, both will trigger a cutscene and the boss fight follows, just defeat him as either to get the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188974.png) **[The Bigger They Are... [m]](https://retroachievements.org/achievement/168147)** _~Defeat G-Birkin in the Factory without taking damage and not using special weapons_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>Pretty self explainatory, you must use only the default pistol to defeat G-Birkin so the strategy is to keep firing at him until he staggers and move to a safe position, never go near him as he has a quick attack that can null the achievemnt if he hits you, you repeat this strategy until he falls down and you will get the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188975.png) **[...The Harder They Fall [m]](https://retroachievements.org/achievement/168148)** _~Defeat G-Birkin in the Underground Sublevels without taking damage and not using special weapons_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>Pretty self explainatory, you must use only the default pistol to defeat G-Birkin so the strategy is to keep firing at him until he staggers and move to a safe position, never go near him as he has a quick attack that can null the achievemnt if he hits you, you repeat this strategy until he falls down and you will get the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188895.png) **[It's That All You Got? [m]](https://retroachievements.org/achievement/168042)** _~Defeat G-Birkin in the Factory in under one minute_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>The easiest way to get the achievement is to get the Super Redhawk before doing it, now the moment you can start attacking fire all six shots into him , then quickly change to a full reloaded Shotgun and finishing him using it.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188896.png) **[Disappointing [m]](https://retroachievements.org/achievement/168043)** _~Defeat G-Birkin in the Underground Sublevels in under one minute_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>This achievement is way more easy than the fight in the Factory as you can find two full reloads to the Super Redhawk here, one in the Crago Room if you are playing with Leon and one in the Laboratory in one of the tables, now go and start the fight with G-Birkin and fire all these shots until he goes down.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188976.png) **[Knife Knowing You! [m]](https://retroachievements.org/achievement/168149)** _~Defeat G-Birkin in the Factory using only the knife_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>The moment you enter the warehouse if you fire a weapon you will block the achievement so use it with care, now the strategy used with the knife is doing circles with G-Birkin as he has very slow turning, if you see him doing the overhead swing attack move out of the way as that's a one hit kill, but other than that bring some First Aid Sprays and persevere with the knife attacks until you defeat him.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188977.png) **[Where Have You Been All My Knife?! [m]](https://retroachievements.org/achievement/168150)** _~Defeat G-Birkin in the Underground Sublevels using only the knife_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>Same as the previous fight if you fire a weapon you will block the achievement so use it with care, now the strategy is the same: equipped with the knife start doing circles with G-Birkin as he has very slow turning, if you see him doing the overhead swing attack move out of the way as that's a one hit kill, but other than that bring some First Aid Sprays and persevere with the knife attacks until you defeat him.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189134.png) **[Reaper of Souls I [m]](https://retroachievements.org/achievement/168020)** _~Leon: Kill all the creatures in the R.P.D Station_
  
@@ -336,7 +336,7 @@ The list of enemies includes:
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189133.png) **[Reaper of Souls II [m]](https://retroachievements.org/achievement/168021)** _~Leon: Kill all the creatures in the Sewers_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 17 cretures you must kill in the sewers.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189132.png) **[Reaper of Souls III [m]](https://retroachievements.org/achievement/168022)** _~Leon: Kill all the creatures in the Factory_
  
