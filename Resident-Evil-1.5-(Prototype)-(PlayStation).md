@@ -13,7 +13,7 @@ There are currently **84 achievements** worth a total of **1015 points**.
 
  ## Debug Protection
 
-Due to this game being a Prototype it has easily accessed debug features that the original developers used to easily test their code ingame, due to the nature of these features the achievement set has protection against all of them, If you noticed an achievement didn't trigger when it was supposed to it most likely was this protection kicking in and pausing it. The easiest way to not trigger them when you don't want to by mistake is disabling the input for the **Select** button in your emulator of choice, Don't worry you don't actually need them to finish the game with either character. If you did trigger them however you can unpause them by starting a new game with either character normally.
+Due to this game being a Prototype it has easily accessed debug features that the original developers used to easily test their code ingame, due to the nature of these features the achievement set has protection against all of them, If you noticed an achievement didn't trigger when it was supposed to it most likely was this protection kicking in and pausing it. The easiest way to not trigger them when you don't want to by mistake is disabling the input for the **Select** button in your emulator of choice, Don't worry you don't actually need them to finish the game with either character. If you did use the debug functions however you can unpause the achievements by starting a new game with either character normally.
 
  ## Save Support
 
@@ -44,13 +44,13 @@ There are six leaderboards currently associated with the game.
 
 There are a total of 84 achievements, which can be broken down into the following categories:
 
-- **Leon’s Scenario**: 17 achievements (**2 are missable**) earned naturally through the course of Leon’s story
-- **Elza’s Scenario**: 18 achievements (**3 are missable**) earned naturally through the course of Elza’s story
+- **Leon’s Scenario**: 17 achievements (**2 are missable**) Earned naturally through the course of Leon’s story
+- **Elza’s Scenario**: 18 achievements (**3 are missable**) Earned naturally through the course of Elza’s story
 - **Interactions**: 9 achievements (**4 are missable**) Interactions that can be achieved regardless of the scenario chosen
 - **Loot**: 6 achievements (**All 6 are missable**) Compassing both easter eggs and the four guns you can find along the story
-- **Enemies**: 24 achievements (**All 24 are missable**) Compassing both easter eggs and the four guns you can find along the story
-- **Challenges**: 10 achievements (**8 are missable**) which require specific conditions to finish the game
-- Out of all of the achievements, **48 are missable**
+- **Enemies**: 24 achievements (**All 23 are missable**) Related to the enemies found all across the game
+- **Challenges**: 10 achievements (**8 are missable**) Which require specific conditions to finish the game
+- Out of all of the achievements, **46 are missable**
 
 
 > ### Leon’s Scenario
@@ -253,11 +253,11 @@ There are a total of 84 achievements, which can be broken down into the followin
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184359.png) **[Merry Christmas 2020 [m]](https://retroachievements.org/achievement/163062)** _~Find the Christmas Easter Egg_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>You can find this easter egg in the R.P.D. Station's 2F Hallway where you must interact with the bench in which the doll sits upon, which will grant the achievement..</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184362.png) **[My Fists Are Forged in the Flames of Murder! [m]](https://retroachievements.org/achievement/163065)** _~Find the Akuma Easter Egg_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>The Akuma Head is found in the Sewers's Spider Tunnel 2, you need to push the box to the end of the hallway and into the vent where there was a spider before, if you get on top of the box and interact with the vent you get prompted to pick up the Head of Akuma, saying yes will grant the achievemenet.</details>
 
 
 > ### Enemies
@@ -365,14 +365,17 @@ The list of enemies includes:
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189126.png) **[Matriarch of the Dead V [m]](https://retroachievements.org/achievement/168029)** _~Elza: Kill all the creatures in the Underground Sublevels_
  
 <details><summary>Spoilers</summary>        	.</details>
+
+
+> ### Challenges
  
  ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184394.png) **[One Man Army [m]](https://retroachievements.org/achievement/163826)** _~Leon: Get every gun in one playthrough_
  
-<details><summary>Spoilers</summary>You’ll need to get the four guns that can be obtained in Leon's scenario in the same run, that being the **H&K MC51** ,the **Remington M870**, the**Super Redhawk**and the **Flamethrower** please check their individual achievements for their exact location.</details>
+<details><summary>Spoilers</summary>You’ll need to get the four guns that can be obtained in Leon's scenario in the same run, that being the **H&K MC51** ,the **Remington M870**, the **Super Redhawk** and the **Flamethrower** please check their individual achievements for their exact location.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184395.png) **[Armed to the Teeth [m]](https://retroachievements.org/achievement/163827)** _~Elza: Get every gun in one playthrough_
  
-<details><summary>Spoilers</summary>You’ll need to get the three guns that can be obtained in Elza's scenario in the same run, that being the **H&K MC51** ,the **Remington M870** and the **Super Redhawk**, please check their individual achievements for their exact location.</details>
+<details><summary>Spoilers</summary>You’ll need to get the three guns that can be obtained in Elza's scenario in the same run, that being the **H&K MC51**, the **Remington M870** and the **Super Redhawk**, please check their individual achievements for their exact location.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184379.png) **[Rapid Reaction Force](https://retroachievements.org/achievement/163812)** _~Leon: Clear the game in under one hour_
  
@@ -392,11 +395,14 @@ The list of enemies includes:
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188498.png) **[Saviour of the Damned [m]](https://retroachievements.org/achievement/167606)** _~Leon: Clear the game without killing any creature [Excluding forced encounters]_
  
-<details><summary>Spoilers</summary>There’s only threee forced encounters in which you need to kill to progress, that being the two Giant Gorillas in the R.P.D. 's Parking Lot*, the first encounter with G-Birkin in the Factory and the fight with the two Gorillas in the Underground Sublevels's Hangar, killing any other creature will lock the achievement until a new run is started, you get notified via the Trigger function in the right bottom corner while the achievement is still active .</details>
+<details><summary>Spoilers</summary>There’s only threee forced encounters in which you need to kill to progress, that being the two Giant Gorillas in the R.P.D.'s Parking Lot*, the first encounter with G-Birkin in the Factory and the fight with the two Gorillas in the Underground Sublevels's Hangar, killing any other creature will lock the achievement until a new run is started, you get notified via the Trigger function in the right bottom corner while the achievement is still active.
+
+* You can also skip this fight if you enter the sewers early.
+</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/188499.png) **[St. Elza [m]](https://retroachievements.org/achievement/167607)** _~Elza: Clear the game without killing any creature [Excluding forced encounters]_
  
-<details><summary>Spoilers</summary>Elza’s scenario only has one forced encounter and that's the fight with G-Birkin in the Factory, killing any other creature will lock the achievement until a new run is started, you get notified via the Trigger function in the right bottom corner while the achievement is still active .</details>
+<details><summary>Spoilers</summary>Elza’s scenario only has one forced encounter and that's the fight with G-Birkin in the Factory, killing any other creature will lock the achievement until a new run is started, you get notified via the Trigger function in the right bottom corner while the achievement is still active.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/183994.png) **[Urban Explorer [m]](https://retroachievements.org/achievement/163510)** _~Visit all unique rooms in one playthrough_
  
