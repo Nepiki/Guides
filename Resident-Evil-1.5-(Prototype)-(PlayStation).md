@@ -89,15 +89,15 @@ There are a total of 84 achievements, which can be broken down into the followin
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184374.png) **[Old Fashioned Drainage](https://retroachievements.org/achievement/163506)** _~Leon: Escape the Sewers_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>Escaping the Sewers is pretty straight forward, just follow the path that takes you thought both Zombie Tunnels then hop into the open area in Spider Tunnel 2 and go to the back of it to take the ladder to the Factory.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184346.png) **[Wait!](https://retroachievements.org/achievement/163049)** _~Leon: Find Sherry in the Factory_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>To trigger the cutscene in which you will earn the achievemnt you must enter the Factory though the stairs in the Main Hallway and follow this path until you enter Factory Line B, which then Leon will see Sherry in the cutscene.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184655.png) **[What Is This Place?](https://retroachievements.org/achievement/164092)** _~Leon: Escape the Factory_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>To leave the Factory, first you need to obtain the Green Keycard located on the last Desk in one of the Offices, You must enter these rooms after meeting Marvin as to not lock yourself out, now make you way into the locked door in the Site C with the keycard to unlock it, then you can enter the Forklift room and enter the Warehouse from there, then you can interact with the console which triggers the Boss fight with G-Marvin. After defeating him leave again into the Forklift room to trigger the cutscene to meet Ada again,now leave and come back to the same room to trigger a cutscene with Ada and Marvin after which you can go back to the lift in the Warehouse and use it, prompting a cutscene in which you will enter the Umbrella Laboratory proper and trigger the achievement.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184376.png) **[Descent Into Madness](https://retroachievements.org/achievement/163508)** _~Leon: Reach the Underground Sublevels_
  
@@ -276,19 +276,37 @@ There are a total of 84 achievements, which can be broken down into the followin
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185729.png) **[Ornithophobia [m]](https://retroachievements.org/achievement/164998)** _~Leon: Kill all the crows in the R.P.D. Station_
  
-<details><summary>Spoilers</summary>There's a total.</details>
+<details><summary>Spoilers</summary>There's a total of 17 crows in the R.P.D. Station which are:
+
+-Seven in the Helipad, that spawn whn you come back to it
+-Seven in the Outdoor Back, which will spawn when coming back after saving Ada, three can only be reached if you exit throught the Communications Room vent into the Outdoor
+-And Three in 2F Corridor.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185730.png) **[Cynophobia [m]](https://retroachievements.org/achievement/164999)** _~Elza: Kill all the zombie dogs in the R.P.D. Station_
  
-<details><summary>Spoilers</summary>There's a total of *111* enemies in total that you must kill in the R.P.D. Station making the use of the knife and all the ammo available critical.</details>
+<details><summary>Spoilers</summary>There's a total of 8 zombie dogs in the R.P.D. Station which are:
+
+-Three in the Kennel
+-Three in the Shooting Range which spawn after solving the puzzle
+-And Two in the B1 Corridor after you turned on the power to the station.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185733.png) **[Arachnophobia [m]](https://retroachievements.org/achievement/165002)** _~Leon: Kill all the mutated spiders in the Sewers_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 7 mutated spiders in the Sewers which are:
+
+-Two in the L Tunnel
+-Two in the Alligator Pool after lowering the water level using the computer in the Pool Control Room
+-Two in the Spider Tunnel
+-And one in the Spider Tunnel 2
+.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185892.png) **[My Spider Senses Are Starting to Tingle! [m]](https://retroachievements.org/achievement/165120)** _~Elza: Kill all the Man-Spiders in the Underground Sublevels_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 5 Man-Spiders in the Underground Sublevels which are:
+
+-Two in the D-2 Corridor
+-Two in Fire Monitor Room after giving the vaccine to Sherry
+-And one in the B-2 Corridor</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185893.png) **[Nice to See You](https://retroachievements.org/achievement/165121)** _~Defeat G-Birkin in the Factory_
  
@@ -336,39 +354,106 @@ The list of enemies includes:
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189133.png) **[Reaper of Souls II [m]](https://retroachievements.org/achievement/168021)** _~Leon: Kill all the creatures in the Sewers_
  
-<details><summary>Spoilers</summary>There's a total of 17 cretures you must kill in the sewers.</details>
+<details><summary>Spoilers</summary>There's a total of 17 creatures you must kill in the sewers. This includes:
+
+-Two Zombies in the L Tunnel
+-Four zombies in the Zombie Tunnel
+-Four zombies in the L Tunnel 2
+-Two Spiders in the Spider Tunnel
+-Two Spiders in Spider Tunnel 2
+-Two Spiders in the Alligator Pool
+-One Spider in Spider Tunnel 2</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189132.png) **[Reaper of Souls III [m]](https://retroachievements.org/achievement/168022)** _~Leon: Kill all the creatures in the Factory_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 28 creatures you must kill in the Factory. The list includes:
+
+-Twenty two zombies
+-Two gorillas
+-Three zombie dogs
+-G-Birkin</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189131.png) **[Reaper of Souls IV [m]](https://retroachievements.org/achievement/168023)** _~Leon: Kill all the creatures in the Umbrella Laboratory_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 5 creatures you must kill in the Umbrella Laboratory. The list includes:
+
+-Two gorillas in the Cell Cultivation Room after registering yourself in the computer in the Underground Sublevels's Server Room 
+-One gorrila in the Left Corridor
+-One gorrila in the Right Corridor
+-One gorilla in the Laboratory Entrance</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189130.png) **[Reaper of Souls V [m]](https://retroachievements.org/achievement/168024)** _~Leon: Kill all the creatures in the Underground Sublevels_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 24 creatures you must kill in the Underground Sublevels. The list includes:
+
+-One Man-Spider in B-2 Corridor
+-Two Man-Spiders in D-2 Corridor
+-Two Man-Spiders in F Monitor Room
+-One Gorilla in A-2 Entrance
+-Two Gorillas in B-3 Corridor
+-Two Gorillas in C-2 Corridor
+-Two Gorillas in C-2 Hangar
+-Five zombies in P4 Laboratory
+-Two zombies in flames in F B-2 Corridor
+-Four zombies in flames in F C-2 Corridor
+-G-Birkin</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189125.png) **[Matriarch of the Dead I [m]](https://retroachievements.org/achievement/168025)** _~Elza: Kill all the creatures in the R.P.D Station_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of *111* enemies in total that you must kill in the R.P.D. Station making the use of the knife and all the ammo available critical.
+
+The list of enemies includes:
+- 3 Missable zombies in B1 Corridor before you turn on the power
+- All 20 zombies in the Lobby
+- All 20 zombies in the West Corridor
+- All the Crows
+- All the zombie dogs
+- Both Giant Gorrilas.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189129.png) **[Matriarch of the Dead II [m]](https://retroachievements.org/achievement/168026)** _~Elza: Kill all the creatures in the Sewers_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 17 creatures you must kill in the Sewers. That includes:
+ 
+-Two Zombies in the L Tunnel
+-Four zombies in the Zombie Tunnel
+-Four zombies in the L Tunnel 2
+-Two Spiders in the Spider Tunnel
+-Two Spiders in Spider Tunnel 2
+-Two Spiders in the Alligator Pool
+-One Spider in Spider Tunnel 2.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189128.png) **[Matriarch of the Dead III [m]](https://retroachievements.org/achievement/168027)** _~Elza: Kill all the creatures in the Factory_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 28 creatures you must kill in the Factory. The list includes:
+
+-Twenty two zombies
+-Two gorillas
+-Three zombie dogs
+-G-Birkin</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189127.png) **[Matriarch of the Dead IV [m]](https://retroachievements.org/achievement/168028)** _~Elza: Kill all the creatures in the Umbrella Laboratory_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 5 creatures you must kill in the Factory. The list includes:
+
+-Two gorillas in the Cell Cultivation Room after registering yourself in the computer in the Underground Sublevels's Server Room 
+-One gorrila in the Left Corridor
+-One gorrila in the Right Corridor
+-One gorilla in the Laboratory Entrance</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/189126.png) **[Matriarch of the Dead V [m]](https://retroachievements.org/achievement/168029)** _~Elza: Kill all the creatures in the Underground Sublevels_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>There's a total of 22 creatures you must kill in the Underground Sublevels. The list includes:
+
+-One Man-Spider in B-2 Corridor
+-Two Man-Spiders in D-2 Corridor
+-Two Man-Spiders in F Monitor Room
+-One Gorilla in A-2 Entrance
+-Two Gorillas in B-3 Corridor
+-Two Gorillas in C-2 Corridor
+-Five zombies in P4 Laboratory
+-Two zombies in flames in F B-2 Corridor
+-Four zombies in flames in F C-2 Corridor
+-G-Birkin.</details>
 
 
 > ### Challenges
