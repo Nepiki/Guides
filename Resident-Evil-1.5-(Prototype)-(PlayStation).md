@@ -101,15 +101,15 @@ There are a total of 84 achievements, which can be broken down into the followin
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184376.png) **[Descent Into Madness](https://retroachievements.org/achievement/163508)** _~Leon: Reach the Underground Sublevels_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>Pretty self explanatory just get to the lower levels of the Umbrella Laboratory using either the staircase or the Elevator if you already turned on the power.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184659.png) **[T-Virus '98](https://retroachievements.org/achievement/164096)** _~Leon: Synthesize the T-Vaccine_
  
-<details><summary>Spoilers</summary>	.</details>
+<details><summary>Spoilers</summary>To synthesize the vaccine first you need to have turned on the power to the laboratory, now go to the B1 Sublevel and make your way into Labortory Corridor.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184353.png) **[Goodbye...](https://retroachievements.org/achievement/163056)** _~Leon: Witness the fate of Ada_
  
-<details><summary>Spoilers</summary>You need to get to the Hangar to	.</details>
+<details><summary>Spoilers</summary>You need to get to the Hangar after giving the vaccine to Marvin in the Security Room, now the way to the C-Hangar it's opened and you can enter the room, then you must fight the gorillas in the room and watch the cutscene that follows to get the achievement.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184391.png) **[End of the Line](https://retroachievements.org/achievement/163823)** _~Leon: Reach the Underground Train_
  
@@ -131,7 +131,7 @@ There are a total of 84 achievements, which can be broken down into the followin
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184349.png) **[How Horrible...](https://retroachievements.org/achievement/163052)** _~Elza: Meet Roy_
  
-<details><summary>Spoilers</summary>To meet Roy you must make your way through the left side of the Lobby, open the shutters in the West Corridor, go through the back of Office B and into the Mirror Room , which will trigger the cutscene.</details>
+<details><summary>Spoilers</summary>To meet Roy you must make your way through the left side of the Lobby, open the shutters in the West Corridor, go through the back of Office B and into the Mirror Room, which will trigger the cutscene with Roy which after the cutscene you will get the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184365.png) **[Ughh...](https://retroachievements.org/achievement/163068)** _~Elza: Meet Jhon_
  
@@ -147,51 +147,55 @@ There are a total of 84 achievements, which can be broken down into the followin
 
  ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184350.png) **[That's a Cute Name](https://retroachievements.org/achievement/163053)** _~Elza: Meet Sherry_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To Meet Sherry you must make your way in to the Garage at the end of B1 Corridor which you can activate the power to be more easier to see, when you enter the garage you must interact with the pliers in the floor to activate the cutscene and get the achievement.</details>
 
  ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/185732.png) **[Giant Gorillas! [m]](https://retroachievements.org/achievement/165001)** _~Elza: Kill the mutated Gorillas in the R.P.D. Station's Conference Room_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>For this achievement you must have first meet both Roy and Jhon and triggered the cutscene with both on Office B, now make you way into the 3F Corridor and solve the Statues Puzzle to get access into the Conference Room, then you'll trigger the cutscene and the fight starts, you must kill the Gorillas to get the achievement.</details>
 
  ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184378.png) **[Last Escape!](https://retroachievements.org/achievement/163511)** _~Elza: Escape the R.P.D. Station_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>After escaping from the Conference Room make your way into the Helipad and follow Jhon into the Sewers and into the R.P.D's Garage again to look for Sherry, now enter the manhole again to trigger the cutscene with Sherry and get the achievement.</details>
 
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184375.png) **[What a Cesspool!](https://retroachievements.org/achievement/163507)** _~Elza: Escape the Sewers_
  
 <details><summary>Spoilers</summary>        	.</details>
+
+![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184371.png) **[Where Are You Going Little Girl?](https://retroachievements.org/achievement/163074)** _~Elza: Watch Sherry sneak into the Factory_
+ 
+<details><summary>Spoilers</summary>After you get to the Factory make your way to the back of the Factory Alley and interact with the door, a cutscene will follow where you watch Sherry sneak into the Factory on her own, after this recreation of a segment where you would play as Sherry ends you regain control of Elza on which you get the achievement after the cutscene.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184351.png) **[Who Are You?](https://retroachievements.org/achievement/163054)** _~Elza: Meet Marvin Branagh_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>Following the previous cutscene inside the Factory open the door ant meet Marvin which is on the other side, after cutscene the achievement will trigger.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184656.png) **[Wait for Me!](https://retroachievements.org/achievement/164093)** _~Elza: Escape the Factory_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To leave the Factory, first you need to obtain the Green Keycard located on the last Desk in one of the Offices, You must enter these rooms after meeting Marvin as to not lock yourself out, now make you way into the locked door in the Site C with the keycard to unlock it, then you can enter the Forklift room and enter the Warehouse from there, then you can interact with the console which triggers the Boss fight with G-Marvin. After defeating him leave again into the Forklift room to trigger the cutscene to meet John and Sherry again, now you can go back to the lift in the Warehouse and use it, after which cutscene you will enter the Umbrella Laboratory proper and trigger the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184377.png) **[Down The Rabbit Hole](https://retroachievements.org/achievement/163509)** _~Elza: Reach the Underground Sublevels_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>Pretty self explanatory achievement, you can get to the Sublevels using the staircase or using the Elevator after you return the power to the Laboratory.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184360.png) **[Do It for Her](https://retroachievements.org/achievement/163063)** _~Elza: Find Sherry in the Umbrella Laboratory_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>To progress the story you must find Sherry in the laboratory complex, you can find her in the B1 Sublevel in the Cargo Room which you is directly left if you get here using the Elevator, inside the cargo room push the Box upstairs so you can use it to get to the back of the room and find Sherry, after which cutscene you'll get the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184660.png) **[G-Virus '98](https://retroachievements.org/achievement/163063)** _~Elza: Synthesize the G-Vaccine_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>After finding Sherry you must now get the vaccine, to make this vaccine you firsnt need to turn on the power to the laboratory using the Spark Plug in the the Main Shaft,now make your way into the B1 Sublevel and enter the Laboratory Hall, and in here take a left into the Laboratory itself, make your way to the back of the room into the vaccine syntethizer machine and interact with it to make the vaccine and the achievement will trigger, now take this vaccine back to the Security Room to continue the story.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184354.png) **[Good Riddance [m]](https://retroachievements.org/achievement/163056)** _~Elza: Find Ada_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>After giving the vaccine to Sherry you must leave the complex so make your way into the now in flames C-2 Corridor and enter the C2- Hangar that's now accesible, there you can find the body of Ada to interact with it and get the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184392.png) **[Last Stop](https://retroachievements.org/achievement/163824)** _~Elza: Reach the Underground Train_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>Inside the C-2 Hangar there's a lift you can interact with, using it will get you to the Underground Train Platform and get the achievement.</details>
  
 ![Image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/184370.png) **[The Day That Never Dawned](https://retroachievements.org/achievement/163073)** _~Elza: Clear the game_
  
-<details><summary>Spoilers</summary>        	.</details>
+<details><summary>Spoilers</summary>Simply enter the Train and travel down the carts until you meet Annete at the back of Train Car C which will trigger the cutscene and the end credits, which mark the end of Elza's story and trigger the achievement.</details>
 
 
 > ### Interactions
