@@ -1,11 +1,7 @@
-**(WIP)**
-
-***
-
 ## Introduction
 ![Image](https://retroachievements.org/Images/045872.png)
  
-Welcome to the achievement guide for [-Prototype- Biohazard 2 | Resident Evil 1.5]( https://retroachievements.org/game/17454)! This guide was made on the fact that the game is highly undocumented and would prove difficult to get all the achievements only by trial and error, let alone progress the story normally. This guide will cover all the achievements currently on the set and if the set gets updated to include more achievements this guide will also be updated. **Guide is still WIP**.
+Welcome to the achievement guide for [-Prototype- Biohazard 2 | Resident Evil 1.5]( https://retroachievements.org/game/17454)! This guide was made on the fact that the game is highly undocumented and would prove difficult to get all the achievements only by trial and error, let alone progress the story normally. This guide will cover all the achievements currently on the set and if the set gets updated to include more achievements this guide will also be updated.
 
 ## Achievement Summary
  
