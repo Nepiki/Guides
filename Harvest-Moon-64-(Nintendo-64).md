@@ -557,8 +557,79 @@ This one involves getting Harris’ affection up while keeping Maria’s down. H
 
 =-----------------------------------------------------------=
 
-![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138283.png) [A "Winey" Couple]( https://retroachievements.org/achievement/125592)  
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138283.png) [A "Winey" Couple]( https://retroachievements.org/achievement/125592)    
 _Watch Karen and Kai get married._    
 **-=Missable=-**   
 
 This one involves a little more because you will need to save the vineyard first (outlined below) while getting Kai’s affection up. If you do not save the Vineyard, Karen will leave making this impossible so make sure you save the Vineyard. The best way I found to get Kai’s affection up is to give him berries. He seems to love them. Once his affection is high enough and the Vineyard is saved, Kai will show up to your farm and invite you to the wedding.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138282.png) [A Scentful Gift]( https://retroachievements.org/achievement/125593)  
+_Receive a gift from Popuri on your birthday._    
+**-=Missable=-**   
+
+Once Popuri gets to about midway through green (Affection needs to be above 160), Popuri will arrive at your farm on your birthday and give you a gift, in Popuri’s case, it is Potpurri. You cannot be married for this to happen and if you are below 160, you will get something else. If you are married, instead your current wife will bake you something.
+
+**Note:** You can only get one gift on your birthday. If all the girls are over 160 affection, then the girl that shows up will be the one with the highest affection.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138281.png) [A Knitted Surprise]( https://retroachievements.org/achievement/125594)   
+_Receive a gift from Ann on your birthday._    
+**-=Missable=-**   
+
+Once Ann gets to about midway through green (Affection needs to be above 160), Ann will arrive at your farm on your birthday and give you a gift, in Ann’s case, it is socks. You cannot be married for this to happen and if you are below 160, you will get something else. If you are married, instead your current wife will bake you something.
+
+**Note:** You can only get one gift on your birthday. If all the girls are over 160 affection, then the girl that shows up will be the one with the highest affection.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138280.png) [Shy Beauty Landscape]( https://retroachievements.org/achievement/125595)  
+_Receive a gift from Maria on your birthday and enter your house to view it!_    
+**-=Missable=-**   
+
+Once Maria gets to about midway through green (Affection needs to be above 160), Ann will arrive at your farm on your birthday and give you a gift, in Ann’s case, it is picture. Now, in this one, you will also need to enter your house before it triggers. Just enter your house and you will see the new pictureover by your bed. You cannot be married for this to happen and if you are below 160, you will get something else. If you are married, instead your current wife will bake you something.
+
+**Note:** You can only get one gift on your birthday. If all the girls are over 160 affection, then the girl that shows up will be the one with the highest affection.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138279.png) [A Gift of Cleanliness]( https://retroachievements.org/achievement/125596)  
+_Receive a gift from Elli on your birthday._    
+**-=Missable=-**   
+
+Once Elli gets to about midway through green (Affection needs to be above 160), Elli will arrive at your farm on your birthday and give you a gift, in Elli’s case, it is a handkerchief. You cannot be married for this to happen and if you are below 160, you will get something else. If you are married, instead your current wife will bake you something.
+
+**Note:** You can only get one gift on your birthday. If all the girls are over 160 affection, then the girl that shows up will be the one with the highest affection.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138278.png) [Birthday Jewelry]( https://retroachievements.org/achievement/125597)  
+_Receive a gift from Karen on your birthday._    
+**-=Missable=-**   
+
+Once Karen Doesn’t need as high affections as the others, only 120 which is somewhere in the green range. Karen will arrive at your farm on your birthday and give you a gift, in Karen’s case, it is a Bracelet. You cannot be married for this to happen and if you are below 120, you will get something else. If you are married, instead your current wife will bake you something.
+
+**Note:** You can only get one gift on your birthday. If all the girls are over 160 affection, then the girl that shows up will be the one with the highest affection. Also, in Karen’s case, if she leaves because you did not save the vineyard, you cannot get their either.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138271.png) [My Best Pal]( https://retroachievements.org/achievement/125558)    
+_Win the Dog race with your dog._    
+
+The Dog race is on Winter 19 and there is only one per year. Like in the previous achievement, it is a dog race however, you can enter your own dog in. All you need to do is enter it and win the race, you’ll get a picture, and the achievement will unlock. However, if you don’t train your dog, then he will not do well. The best ways to train him are pretty much raise his affection and feed him every day. His dish is outside the doghouse, put food in it, plus give him attention and he will perform better in the races.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138269.png) [Off to the Races]( https://retroachievements.org/achievement/125560)  
+_Win the Horse Race with your horse and get the picture._    
+
+The Horse Race is on Spring 17 and Fall 28, there are two horse races a year. Like your dog, you can train your horse to do better in the race. Essentially you need to brush it, whistle to is and riding it a little each day will train it to perform better in the race. The horse also needs to be fully grown meaning this achievement cannot be done on the first race in the game. But, enter your horse after it is fully grown and trained, watch it win and you will be awarded the picture and the achievement.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138262.png) [The Great Harvest King]( https://retroachievements.org/achievement/125567)  
+_Become the Harvest King and spread the seed all over 'your kingdom.'_    
+
+This achievement actually requires two stages, first is actually becoming the Harvest King which is done in the Harvest Festival on Fall 12. The second is to attend the Sowing Festival in Spring 8. The challenge more comes getting chosen as Harvest King. To do so, At the Harvest Festival, Elli has cakes and towards the end you need to eat one of them, you need to get the one with the coin. If you get the coin, you will be awarded the title for the next year and will get to spread the seeds on the Sowing Festival on the 8th of Spring. Meet these and you’ll be award the achievement.
