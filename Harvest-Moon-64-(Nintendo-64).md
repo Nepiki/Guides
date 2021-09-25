@@ -5,7 +5,7 @@
 Set Difficulty: 5/10  
 Approximate time to Master: 60 hours or more.   
 Minimum Number of Playthroughs Needed: Up to 5  
-Number of Missable Achievements: 31  
+Number of Missable Achievements: 32  
 Does Difficulty Affect Achievements?: N/A  
 
 ## 2) Introduction
@@ -699,4 +699,58 @@ Saving the vineyard is a rather long process and is needed for a variety of even
 
 6.	This step is not really needed however, if you have your affection up with Karen (At least 120), she will come to your farm the next day and ask you to come, with the Vineyard restored and the Keif Fairies back, you will see a little cutscene and you will get her picture.
 
+=-----------------------------------------------------------=
 
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138277.png) [Climbing to the Moon]( https://retroachievements.org/achievement/125598)  
+_Getting to Moon Mountain Restaurant before bridge is built._   
+**-=Missable=-**   
+
+This is easy, there is a tree at the base of the cliff in Moon Mountain. Go around back and press A and you will climb the tree and get up to the ledge. Enter the restaurant and it will unlock the achievement. Keep in mind that the bridge starts being build on Fall 22 so be sure to do this before them.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138274.png) [Lumberjack Placement Program]( https://retroachievements.org/achievement/125601)  
+_Help the Lumberjacks build the bridge (must help every day of the project and must be done in a single session)._   
+**-=Missable=-**   
+
+On Fall 22, a carpenter will visit your home and ask you for help to build a bridge. You have until 3:00 to show up and it will always advance the day to 3:00 and you will get paid for each day. The days to help go from Fall 23 to Fall 27. As long as you help each day, you will unlock this achievement. If you miss a day you will be locked out from earning this so don’t forget. Not only that but this MUST be done in a single session so do not save and quit.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138273.png) [The Town Drunk]( https://retroachievements.org/achievement/125602)  
+_Out-drink everyone at the New Year's Day Party and send them home. (Everyone must be present)_   
+**-=Missable=-**   
+
+At the New Year’s Party, there are several villagers there and every time you talk to them, you’ll take a drink. Each drink with reduce your tolerance. In order to out drink them all, you will need your tolerance up… a lot, at least 28 in alcohol tolerance. When you first start, you might be able to do one or two drinks before you pass out so you will need to get your tolerance up. The way you do it is pretty much buy and drink alcohol, usually from the bar. There is a better way however, buy a glass bottle from Rick at the flower festival, with this you can get wine for free at the vineyard in the shed. You can fill up the bottle and drink it and with you being inside the shed, time does not move making it so you can max your tolerance pretty much in a day.
+
+Note: Everyone must be present so if either anyone is gone forever, for example Karen, then you will be locked from getting this achievement.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138292.png) [Heavyweight Drinker]( https://retroachievements.org/achievement/125583)  
+_Max out your alcohol tolerance._   
+This one is actually pretty easy, though grindy. You can do this two ways, buy and drink alcohol, usually from the bar and build it up over time. Or buy a glass bottle from Rick at the flower festival, with this you can get wine for free at the vineyard in the shed. You can fill up the bottle and drink it and with you being inside the shed, time does not move making it so you can max your tolerance pretty much in a day.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138248.png) [Heading For The Bottom]( https://retroachievements.org/achievement/125578)  
+_Get to the 5th level of the mines._   
+
+This one can be a bit tricky and a bit luck dependent. The mines open in during Winter. TO get this achievement, you need to dig in the mines and get to the 5th floor. Of course, the stairs down is random so it may take a few tries. It is also recommended to bring some food to increase your stamina. But dig away, once you reach the 5th floor, this achievement will unlock.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138320.png) [Player!]( https://retroachievements.org/achievement/125544)
+_Get all the girls' affection to a pink heart without being married._   
+**-=Missable=-**   
+
+This one is pretty self explanatory, just get all the girls to a pink heart before you get married and you will unlock this. Speak to them everyday and give them gifts and you shouldn’t have any trouble getting this. Keep in mind that Karen will leave if the right conditions are not met so be careful there, also, don’t get married until after you have this.
+
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138288.png) [Awesome Upgrades]( https://retroachievements.org/achievement/125587)  
+_Upgrade your Dog House and Stable._  
+
+These two upgrades cannot be bought, in order to get them, you will need to enter your Dog and your Horse in the races. If they win first place then they will get their upgraded building. When you get both upgrades, you will be awarded this achievement. 
+
+=-----------------------------------------------------------=
