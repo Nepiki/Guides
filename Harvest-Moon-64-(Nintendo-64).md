@@ -744,7 +744,7 @@ This one can be a bit tricky and a bit luck dependent. The mines open in during 
 _Get all the girls' affection to a pink heart without being married._   
 **-=Missable=-**   
 
-This one is pretty self explanatory, just get all the girls to a pink heart before you get married and you will unlock this. Speak to them everyday and give them gifts and you shouldn’t have any trouble getting this. Keep in mind that Karen will leave if the right conditions are not met so be careful there, also, don’t get married until after you have this.
+This one is pretty self explanatory, just get all the girls to a pink heart before you get married and you will unlock this. Speak to them everyday and give them gifts and you shouldn’t have any trouble getting this. Keep in mind that Karen will leave if the right conditions are not met so be careful there, also, don’t get married until after you have this. If you are having trouble with knowing what each girl likes and such, At the end of this guide, there is plenty of information and resources.
 
 =-----------------------------------------------------------=
 
