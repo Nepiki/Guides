@@ -8,7 +8,7 @@ For everything me related, here are some links you can check out:
 
 # 1) Synopsis
 
-Set Difficulty: 3/10        
+Set Difficulty: 2/10        
 Approximate time to Master: 13-15 hours        
 Minimum Number of Playthroughs Needed: 1    
 Number of Missable Achievements: 0        
@@ -26,17 +26,17 @@ This achievement set was created by [voiceofautumn](https://retroachievements.or
 
 [**Step 1: Story Achievements (including alternate paths)**](#step-1-story-achievements-including-alternate-paths--total-points-80)
 
-This covers the story of the game, as well as every alternate path to find. After beating the game for the first time, a stage select appears with an easy replay button, showing what stages lead to alternate exits. Don't worry too much about achievements for this part and just focus on having fun and beating the game, as nothing is missable.
+This covers the story of the game, as well as every alternate path to find. After beating the game for the first time, a stage select appears with an easy replay button, showing what stages lead to alternate exits. Don't worry too much about achievements for this part and just focus on having fun and beating the game, as nothing is missable. Do make sure to do every end-of-level minigame and also try to find every treasure to save time though.
 
 [**Step 2: Power-up Achievements**](#step-2-power-up-achievements--total-points-14)
 
 These will almost all come naturally as you're playing through the game, though some only appear at specific places and have to do with bosses. This part covers where the power-ups appear and what to do to trigger them.
 
-[**Step 3: Hitless Boss Achievements**](#step-3-hitless-boss-achievements--total-points-tbd)
+[**Step 3: Hitless Boss Achievements**](#step-3-hitless-boss-achievements--total-points-60)
 
-These achievements require you to do the bosses without taking a single hit. I recommend doing these on your first try (as ''losing'' does reset hit progress), or waiting with these until after you've completed the game, because you can instantly go to the boss by pressing down + a after selecting the stage.
+These achievements require you to do the bosses without taking a single hit. I recommend doing these on your first try (as ''losing'' does reset hit progress), or waiting with these until after you've completed the game, because you can instantly go to the boss by pressing (down + A) when the prompt is shown after selecting the stage.
 
-[**Step 4: Miscellaneous Achievements**](#step-4-miscellaneous-achievements--total-points-tbd)
+[**Step 4: Miscellaneous Achievements**](#step-4-miscellaneous-achievements--total-points-225)
 
 This part covers completion, coins, the infamous post-game time trial, and the post-game minigame.
 
@@ -255,20 +255,132 @@ Activates when Awabo swallows Wario, who is the final boss of alternate chapter 
 
 ***
 
-## Step 3: Hitless Boss Achievements | **Total points: tbh**
+## Step 3: Hitless Boss Achievements | **Total points: 60**
 
-![](achievement image link) [achievement name (achievement points)]( achievement link)   
-_achievement description_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181795.png) [Featherless (10)]( https://retroachievements.org/achievement/161467)   
+_Defeat Bobo without getting hit_
 
-WIP
+Bobo is found in Chapter 2, Story 5. The best tactic for this boss is to just remain in the bottom-left corner and then jump on his head when he is approaching you. When he uses his whirlwind attack, just duck and you'll be fine. Remember that if you do get hit, just let the fight end itself for an easy retry.
 
 ***
 
-## Step 4: Miscellaneous Achievements | **Total points: tbh**
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181796.png) [White Wario's Can't Jump (10)]( https://retroachievements.org/achievement/161470)   
+_Defeat Dunk with a score of 3-0 without getting hit_
 
-![](achievement image link) [achievement name (achievement points)]( achievement link)   
-_achievement description_
+Bobo is found in Chapter 4, Story 5. Dunk has a single jumping pattern so use that to your advantage. When you can't jump on him, just jump into him and it's highly unlikely that you'll get damage. Do watch out for his little basketball he throws at you though, as that counts as a hit. Remember that if you do get hit, just let the fight end itself for an easy retry.
 
-WIP
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181797.png) [Conqueror Of The Flaming Sea (25)]( https://retroachievements.org/achievement/161472)   
+_Defeat Captain Syrup in Chapter 5 without getting hit_
+
+The only thing you really have to watch out for in this fight is the rising fire that goes left/right by one pillar for the whole fight, and that when you throw a bomb on the ground, it unleashes two smaller fire pillars. Aside from that, just keep throwing the two spearmen back at her in phase two, and the bombs into the fire pillars when they are underneath her. Remember that if you do get hit, just let the fight end itself for an easy retry.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181794.png) [Mecha Short Circuit (5)]( https://retroachievements.org/achievement/161474)   
+_Defeat the Mecha Goom without getting hit_
+
+This boss is found at the end of the alternative chapter when not waking up in the first level. The mecha goom runs around quickly at first so be prepared for that, but will slow down quickly. The first two hits are a repeat until he turns red. Be wary that he jumps and ground pounds, stunning you and most likely resulting in a hit. Wait till he slows down again and hit him from the front. Be wary of the thunderbolt Syrup shoots at you though. Throw the mecha goom at her and the fight is over. Remember that if you do get hit, just let the fight end itself for an easy retry.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181798.png) [Baited And Outsmarted! (10)]( https://retroachievements.org/achievement/161477)   
+_Defeat the Big Kamukamu without getting hit_
+
+This boss is found at the end of the alternative chapter when taking the alternative exit in ''Drop the Anchor''. Stay high in the water at all times on the opposite side of Kamukamu. He will eventually swim towards you, which is the perfect time to dive and then rise to hit him from underneath. Do it three times and the fight is over. Remember that if you do get hit, just let the fight end itself for an easy retry.
+
+***
+
+## Step 4: Miscellaneous Achievements | **Total points: 225**
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181554.png) [Shake That Booty (50)]( https://retroachievements.org/achievement/161508)   
+_Obtain all treasure_
+
+Every single level in the game has a door hidden somewhere in the level where you have to play a memory game. You need to collect a total of 50/100/200 coins in that level to get a chance at the minigame, going from hard to easy difficulty respectively. I personally recommend doing them on normal difficulty, but the choice is yours. Win it and the treasure is yours. After the game has been beaten once, you can see what levels you still need to get the treasure in (indicated by the treasure chest icon). It would take far too long for me to describe where every treasure is found, so just browse the [Mario Wiki](https://www.mariowiki.com/Wario_Land_II).
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181555.png) [X Marks The Spot (50)]( https://retroachievements.org/achievement/161509)   
+_Obtain all pieces and complete the Treasure Map_
+
+Every single level in the game ends with a digit puzzle. From your total coin stack gathered across all levels, 50 are used to flip a tile. Keep flipping tiles until you are certain which number it's going to be. Win it and you get one of 50 pieces. After the game has been beaten once, you can see what levels you still need to get the treasure in (indicated by the empty block next to a level).
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181552.png) [Airport Commander (25)]( https://retroachievements.org/achievement/161506)   
+_Obtain 25 points in the Flagman D-D minigame_
+
+See _Neo Airport Commander_. Needs 100% completion to unlock.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181553.png) [Neo Airport Commander (25)]( https://retroachievements.org/achievement/161507)   
+_Obtain 25 points in the Flagman D-D minigame without getting a single miss_
+
+This minigame is unlocked after 100% completion. A remake of Game & Watch's Flagman, you have to mimic the moves portrayed by the duck pirate. He'll go in four directions at first (1 = up, 2 = right, 3 = down, 4 = left), after 10 waves the B button is introduced, and the A button 5 waves later. He'll start with just one direction which you have to mimic, then two, then three etcetera.
+
+There's unfortunately not much advice I can give for this one; either you have a good memory or you don't. You have to get up to 25 points and not make a single mistake. Fortunately, the time after each press is pretty forgiving.
+
+Frankly, if you have a bad memory like me, just write down what button you have to press after every wave. You can even pause the emulator while doing so.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181567.png) [Just One More Time (10)]( https://retroachievements.org/achievement/161503)   
+_Clear the Really Final Chapter_
+
+See _Up To Modern Standards_. Needs all 50 Treasure Map Pieces to be found.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181551.png) [The Classic Challenge (10)]( https://retroachievements.org/achievement/161504)   
+_Clear the Really Final Chapter in under 10 minutes_
+
+See _Up To Modern Standards_. Needs all 50 Treasure Map Pieces to be found.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181551.png) [Up To Modern Standards (25)]( https://retroachievements.org/achievement/161505)   
+_Clear the Really Final Chapter in under 6 minutes_
+
+Easily the most difficult achievement in the game, but the most difficult achievement of this set is still pretty easy. This level is unlocked after getting all 50 Treasure Map Pieces. The level might look menacing at first, but there is an easy tactic to getting this achievement without too much sweat. But before I go into that tactic, allow me to describe every room first. If the written explanation does not suffice, using this [Video Footage](https://youtu.be/Z1-DV8_huik) should do the job.
+
+**Room 1:** A ''maze-like'' room. Go close to the middle and ground pound your way down, then charge to the left and ground pound again to get to the bottom. Be wary of this end part though, as there is a snowman waiting at the end that you cannot avoid. A well-timed charge or a ground pound is required.           
+**Room 2:** This room features three platforming challenges over water, with an annoying flying spike. The easiest way to get through these is by crouch-jumping; holding down on the D-Pad and then jumping. The most annoying part of this room really, is the ''stairway'' in the middle and at the end. I don't really have a tactic for this, but keep up on the D-Pad pressed in at all times when trying to jump to the higher level.     
+**Intermission:** Pretty straightforward, just jump up and do a dash-jump to make it to the next room.            
+**Room 3:** Go to the left instantly and grab the enemy. You need to carry him with you all the way to the end of this room, so keep holding the throw button and launch him forward in hallways where you are unable to carry him. In the final throwing section, throw him inside the small hallway, get near him, wait for him to get up and then bounce him towards the end of that hallway. The remained of this room is self-explanatory.    
+**Room 4:** A platforming challenge where you have to bounce on spearmen to get to the end of the ledge. Don't throw the spearmen too far onto the ledge, otherwise you probably won't make the jump and grab them instead of jumping off of them. While trying to bounce on them, keep up on the D-Pad pressed at all times, and press the jump button just when you're about to hit the enemy.      
+**Room 5:** The most annoying !@#$% room in the entire level. It's yet again another stairway that goes up for a long time. Yet again, have up on the D-Pad pressed up at all times and make your way up. I wish I had more advice, but you just have to get a feel for this.    
+**Room 6:** One of the more easier rooms. Just lure the birds towards you and jump off of them to reach the next platform. If you made it this far, this shouldn't be an issue.    
+**Room 7:** An entire room dedicated to a mechanic that is literally only used in this room. You have to charge-slide, meaning that you charge forward and then duck to make your way forward while ducking. This is also used at the end of this room over the spikes, though feel free to damage boost through them as you don't have to worry about coins in this level anyway.    
+**Room 8:** Another relatively easy room. Just get flattened and then go up. At the first jumping challenge, get near the edge and do a jump without having the up on the D-Pad pressed in.      
+**Room 9:** The boss! This might look tricky at first, but there's a pretty easy tactic to it. Ground pound on the goom on one side, then jump up high on the other side of the goom, repeat until he's dead.
+
+Now, you may have trouble getting beyond that 6-minute mark in one run. I'm here to tell you that... you don't have to do it in one run. After you've done a room, just use the save button in the select screen, as it will save your progress in the level. Then, proceed through the next room and if you feel it's going terrible, just reset the game and start at the save point again. The achievement will unlock after the stage is done with less than 6 minutes on the timer.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181801.png) [TAKE. EVERYTHING. COLORIZED. (10)]( https://retroachievements.org/achievement/161681)   
+_Collect 999 coins in a single level_
+
+To my knowledge, it is impossible to get 999 coins in a single level by only collecting the coins. You are forced to kill enemies and hope for silver coins, which are worth a total of 100. Fortunately, enemies do respawn upon re-entering the room, so use that to your advantage.
+
+Silver coin spawns aren't very high, so I recommend doing the stage ''Don't Shock The Owl'', which is in the factory alternative chapter. Getting every single coin in this level should net you about ~700 coins, so at that point you only have to grind for 2-3 silver coins. There's a spearman near the end of the level, so keep re-entering that room and kill him for a chance at the silver coin.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181802.png) [Wario's Favorite Colorized Thing (10)]( https://retroachievements.org/achievement/161682)   
+_Collect 5.000 coins_
+
+See _Make It Rain With Colors_.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/181803.png) [Make It Rain With Colors (10)]( https://retroachievements.org/achievement/161683)   
+_Collect 10.000 coins_
+
+After completing the game and getting pretty much every other achievement, you'll have about 2000-3000 coins most likely, probably a bit more. Not a bad amount, but you'll need a lot more.
+
+There are arguably better levels out there for getting all coins, but I found the first level in the game to be the most time-efficient. It only takes 2-3 minutes to beat this level, and you can get 500 coins at the very least by doing the entire level and finding all secrets. Most levels in the game allow you to get a nice stack of coins, but this one is the quickest to do. Don't forget to kill every enemy that's on your path and destroying every block for the chance of a silver coin, which makes the grinding a bit more bearable.
 
 ***
