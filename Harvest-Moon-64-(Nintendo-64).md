@@ -754,3 +754,9 @@ _Upgrade your Dog House and Stable._
 These two upgrades cannot be bought, in order to get them, you will need to enter your Dog and your Horse in the races. If they win first place then they will get their upgraded building. When you get both upgrades, you will be awarded this achievement. 
 
 =-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138322.png) [Healthy Habits]( https://retroachievements.org/achievement/125542)  
+_Work your first year without getting sick._  
+
+Fatigue is a hidden stat your character has. It maxes at 100 and you start at 0. Fatigue increases if you use your tool during the rain or snow, using your tools after 6:00 will also increase it so try and get your day work done early. It can be decreased by a variety of ways, using the restroom, taking a bath, using the hot springs and such. Also, there are multiple medicines you can use as well. If you can keep an eye on it, I recommend doing so, if you have a hard time, just try not to use the tool when it will increase it. All you need to do it make sure it does not get to 100 by the time the first year ends. If it hits 100, you will be sick the next day and will be locked from the achievement. So don’t get sick! If you can accomplish that, you will get the achievement on Spring 1 of year 2.
+
