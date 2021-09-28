@@ -760,3 +760,30 @@ _Work your first year without getting sick._
 
 Fatigue is a hidden stat your character has. It maxes at 100 and you start at 0. Fatigue increases if you use your tool during the rain or snow, using your tools after 6:00 will also increase it so try and get your day work done early. It can be decreased by a variety of ways, using the restroom, taking a bath, using the hot springs and such. Also, there are multiple medicines you can use as well. If you can keep an eye on it, I recommend doing so, if you have a hard time, just try not to use the tool when it will increase it. All you need to do it make sure it does not get to 100 by the time the first year ends. If it hits 100, you will be sick the next day and will be locked from the achievement. So don’t get sick! If you can accomplish that, you will get the achievement on Spring 1 of year 2.
 
+=-----------------------------------------------------------=
+
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138263.png) [A Fruitful Life]( https://retroachievements.org/achievement/125566)  
+_Get the Party Picture._  
+**-=Missable=-**   
+
+This achievement is probably the easiest to miss and one of the most involved. It is given to you at the end of game where you have your farm evaluated by your father. If you went for pretty much everything in the achievement list in one playthrough, then you will probably already get this or at least be close. You pretty much need to be friends with everyone and do everything to get this picture, fill your fields (with grass), get most of the Power nuts, etc. The exact list of stuff you need for this are as follows:
+
+
+1.	Eat 6 (of the 10) red power nuts. The blue power nut does not count toward this total!  
+2.	Must have 250 happiness.  
+3.	Your dog’s affection must be 200 or higher.  
+4.	Must be married and have a child.  
+5.	Wife’s affection is 250 or higher.  
+6.	Combined affection between all villagers is 2,494 or higher.  
+7.	One non-starved adult chicken.  
+8.	Have all 6 home extensions.  
+9.	Have 80% of farmland be grass in any stage (384 squares of outdoor farmland).    
+
+If even one of these is missed, you will not get the picture at your evaluation so make sure you do not miss any!
+
+
+=-----------------------------------------------------------=
+
+### Resources
+
+Listed below are several resources that you can use to help you along. I have provided information about each of the marriage candidates and the rivals. As well as tables for crops, festival dates and even screenshots that can help lead you along the way. The hope is that you won't need to use too many guides or flip through other pages to find the information you are looking for. If there is stuff I needed to add or would be good, sent me a DM on the site and click my name link here to get to my page: [ikki5]( https://retroachievements.org/user/ikki5)  
