@@ -784,6 +784,48 @@ If even one of these is missed, you will not get the picture at your evaluation 
 
 =-----------------------------------------------------------=
 
-### Resources
+# Resources
 
-Listed below are several resources that you can use to help you along. I have provided information about each of the marriage candidates and the rivals. As well as tables for crops, festival dates and even screenshots that can help lead you along the way. The hope is that you won't need to use too many guides or flip through other pages to find the information you are looking for. If there is stuff I needed to add or would be good, sent me a DM on the site and click my name link here to get to my page: [ikki5]( https://retroachievements.org/user/ikki5)  
+Listed below are several resources that you can use to help you along. I have provided information about each of the marriage candidates and the rivals. As well as tables for crops, festival dates and even screenshots that can help lead you along the way. The hope is that you won't need to use too many guides or flip through other pages to find the information you are looking for. Keep in mind that I will not be adding the photo information on here as they are outlined in the achievement guide. If there is stuff I needed to add or would be good, sent me a DM on the site and click my name link here to get to my page: [ikki5]( https://retroachievements.org/user/ikki5)  
+
+# Marriage Candidates 
+
+## Karen  
+
+![Karen’s Sprite]( https://i.imgur.com/1L1clV1.png)  
+![Karen's Portrait](https://i.imgur.com/6qBFfc5.png)   
+
+The Simplest way to get her affection up is really talking to her. This involves nothing except talking to her. If you are looking for her, her common locations are:
+-In front of the Carpenter’s house.
+-On rainy or snowy days, you can often find her in the Vineyard cellar
+-Sundays she is on the beach
+-Nearly every night you can find her in the bar.
+
+**Gifts**
+|Loves|Likes|**Avoid**|
+|:--|:--:|:--:|
+|Strawberries|Your Dog|Fish|
+|Wild Grapes|Wine||
+|Veryberry Fruit|Tomatoes||
+
+### Heart Events
+
+**Green Heart:** Karen is sick. When you reach green heart rating with Karen and it is a rainy day, go to the Vineyard and visit her. The event will trigger. She will be lying in bed and you will talk to her. Doing this will also increase her affection.  
+
+**Yellow Heart:** When you reach yellow heart with Karen, it will trigger a dream event. There is not much to this other than just reading. It obviously only happens after you go to sleep at night.
+
+**Yellow Heart:** Karen’s sprained ankle. When Karen is at yellow heart and it is a sunny day, head to the Vineyard. You will find Karen near the tree on the ground. You will be given the option to help her or go get help, if you help her, you will gain affection.
+
+**Red Heart:** Blue Feather. If you have her affection pretty much maxed, she will ask you if you love her, if you respond with “Yes,” she will ask you for a Blue Feather.
+
+**Special:** New Year’s Festival. If you out drink her at the festival, you will increase affection with her. You do not need any heart requirements, just out drink her, though I only observed this on Year 2.
+
+### Little Secrets/Tips
+
+1.	If you want to get her affection up quickly, grab your dog, go to the bar at night and just keep showing her. For some reason, she likes your dog even if the dialogue doesn’t sound like it. You can do this repeatedly and every time it raises it so you can max her affection in a single day. Of course, you may miss out on many of the heart events.  
+
+2.	If you do not talk to Karen or befriend her much, you may not see her much at festivals, if you get her affection up, she will show up more meaning more opportunity to raise her affection.  
+
+***
+
+## Elli  
