@@ -792,7 +792,7 @@ Listed below are several resources that you can use to help you along. I have pr
 
 ## Karen  
 
-![Karen’s Sprite]( https://i.imgur.com/1L1clV1.png)  
+![Karen’s Sprite](https://i.imgur.com/1L1clV1.png)  
 ![Karen's Portrait](https://i.imgur.com/6qBFfc5.png)  
 
 
@@ -833,7 +833,7 @@ The simplest way to get her affection up is really talking to her. This involves
 
 ## Elli  
 
-![Elli’s Sprite]( https://i.imgur.com/gcUa04Q.png)  
+![Elli’s Sprite](https://i.imgur.com/gcUa04Q.png)  
 ![Elli's Portrait](https://i.imgur.com/T84HIEc.png)  
 
 
@@ -869,7 +869,7 @@ The simplest way to get her affection up is really talking to her. This involves
 
 ## Ann 
 
-![Ann’s Sprite]( https://i.imgur.com/SBYr2Eu.png)  
+![Ann’s Sprite](https://i.imgur.com/SBYr2Eu.png)  
 ![Ann's Portrait](https://i.imgur.com/4hr2tAa.png)  
 
 
@@ -904,7 +904,7 @@ The simplest way to get her affection up is really talking to her. This involves
 
 ## Popuri 
 
-![Popuri’s Sprite]( https://i.imgur.com/Fusg1iN.png)  
+![Popuri’s Sprite](https://i.imgur.com/Fusg1iN.png)  
 ![Popuri's Portrait](https://i.imgur.com/I3zVifU.png)  
 
 
@@ -938,7 +938,7 @@ The simplest way to get her affection up is really talking to her. This involves
 
 ## Maria
 
-![Maria’s Sprite]( https://i.imgur.com/ncJ3eY3.png)  
+![Maria’s Sprite](https://i.imgur.com/ncJ3eY3.png)  
 ![Maria's Portrait](https://i.imgur.com/O87GsXo.png)  
 
 
@@ -968,4 +968,66 @@ The simplest way to get her affection up is really talking to her. This involves
 
 ***
 
-# Rivals
+# Rivals  
+
+## Cliff
+
+![Cliff’s Sprite](https://i.imgur.com/u2mfyo7.png)  
+![Cliff's Portrait](https://i.imgur.com/l2oogov.png)  
+
+
+**Birthday:** Unknown  
+
+Cliff is more your nomad/adventurer type. If you are looking for him, his common locations are:  
+- During the day, you can often find him in the wilderness or around Green Ranch.
+- Rainy days you can find him in the craftsman house or in the cave.
+- At night, you can find him usually in the bar.
+
+**Gifts**
+|Loves|Likes|**Avoid**|
+|:--|:--:|:--:|
+| |Eggs| |
+| |Milk| |
+| |Fish| |  
+
+**Rival Events**
+
+- Bumping into Ann: One morning when you get up, Cliff will visit you and say he caught some fish. When he leaves, he will bump into Ann and you will watch a scene unfold.  
+- Cliff petting the Horse: One day when you enter Green Ranch, an event will trigger where Cliff will come out and pet one of the horses, Ann will of course get mad at him.  
+- Hawk's Food: One day in the mountains, near the cave, you can witness an event between Cliff and Ann where Cliff is about to feed a rabbit to his hawk, Ann thinks it is cruel.  
+-  In winter, Cliff will meet you in the crossroads and tell you he is thinking of leaving because he does not want to be betrayed. Ann will come out upset and crying calling him a coward.
+
+### Little Secrets/Tips
+
+1.	Cliff will permanently leave if you do not become friends with him by Winter of Year 1, if your affection is 50 or lower, he leaves. Or if you marry Ann and then get your affection up too high with him, he will leave forever. Keep this in mind if you want him to stay. 
+
+***
+
+## Jeff  
+
+![Cliff’s Sprite](https://i.imgur.com/J10hVZ8.png)  
+![Cliff's Portrait](https://i.imgur.com/bryWqHh.png)  
+
+
+**Birthday:** Unknown  
+
+Jeff is typically pretty easy to find as he is your typical bar person and he works at the Bakery. If you are looking for him, his common locations are:  
+- Every day except Monday, he is behind the counter at the Bakery
+- Nights he is at the Bar
+- On Monday he is in the mountains fishing if it is fishing, if raining his location is unknown.
+
+**Gifts**
+|Loves|Likes|**Avoid**|
+|:--|:--:|:--:|
+| |Eggs| |
+| |Milk| |
+| |Fish| |  
+
+**Rival Events**
+
+- Girl Talk: When you enter the Bakery, you will find Popuri and Elli talking and Elli is a bit jealous of Popuri and she says she wants to lose weight, Of course Cliff overhears and comes and says that he likes more "Plump girls."
+- One day in the mountains you will come across them both fishing and a big one gets away and splashes him, Elli tells him he looks younger with his bangs down.
+
+***
+
+## Gray
