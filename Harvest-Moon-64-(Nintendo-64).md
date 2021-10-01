@@ -793,13 +793,16 @@ Listed below are several resources that you can use to help you along. I have pr
 ## Karen  
 
 ![Karen’s Sprite]( https://i.imgur.com/1L1clV1.png)  
-![Karen's Portrait](https://i.imgur.com/6qBFfc5.png)   
+![Karen's Portrait](https://i.imgur.com/6qBFfc5.png)  
 
-The Simplest way to get her affection up is really talking to her. This involves nothing except talking to her. If you are looking for her, her common locations are:
--In front of the Carpenter’s house.
--On rainy or snowy days, you can often find her in the Vineyard cellar
--Sundays she is on the beach
--Nearly every night you can find her in the bar.
+
+**Birthday:** Winter 29   
+
+The Simplest way to get her affection up is really talking to her. This involves nothing except talking to her. If you are looking for her, her common locations are:  
+-In front of the Carpenter’s house.  
+-On rainy or snowy days, you can often find her in the Vineyard cellar.  
+-Sundays she is on the beach.  
+-Nearly every night you can find her in the bar.  
 
 **Gifts**
 |Loves|Likes|**Avoid**|
