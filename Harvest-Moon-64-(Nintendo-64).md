@@ -798,11 +798,11 @@ Listed below are several resources that you can use to help you along. I have pr
 
 **Birthday:** Winter 29   
 
-The Simplest way to get her affection up is really talking to her. This involves nothing except talking to her. If you are looking for her, her common locations are:  
--In front of the Carpenter’s house.  
--On rainy or snowy days, you can often find her in the Vineyard cellar.  
--Sundays she is on the beach.  
--Nearly every night you can find her in the bar.  
+The simplest way to get her affection up is really talking to her. This involves nothing except talking to her. If you are looking for her, her common locations are:  
+- In front of the Carpenter’s house.  
+- On rainy or snowy days, you can often find her in the Vineyard cellar.  
+- Sundays she is on the beach.  
+- Nearly every night you can find her in the bar.  
 
 **Gifts**
 |Loves|Likes|**Avoid**|
@@ -819,7 +819,7 @@ The Simplest way to get her affection up is really talking to her. This involves
 
 **Yellow Heart:** Karen’s sprained ankle. When Karen is at yellow heart and it is a sunny day, head to the Vineyard. You will find Karen near the tree on the ground. You will be given the option to help her or go get help, if you help her, you will gain affection.
 
-**Red Heart:** Blue Feather. If you have her affection pretty much maxed, she will ask you if you love her, if you respond with “Yes,” she will ask you for a Blue Feather.
+**Pink Heart:** Blue Feather. If you have her affection pretty much maxed, she will ask you if you love her, if you respond with “Yes,” she will ask you for a Blue Feather.
 
 **Special:** New Year’s Festival. If you out drink her at the festival, you will increase affection with her. You do not need any heart requirements, just out drink her, though I only observed this on Year 2.
 
@@ -827,8 +827,145 @@ The Simplest way to get her affection up is really talking to her. This involves
 
 1.	If you want to get her affection up quickly, grab your dog, go to the bar at night and just keep showing her. For some reason, she likes your dog even if the dialogue doesn’t sound like it. You can do this repeatedly and every time it raises it so you can max her affection in a single day. Of course, you may miss out on many of the heart events.  
 
-2.	If you do not talk to Karen or befriend her much, you may not see her much at festivals, if you get her affection up, she will show up more meaning more opportunity to raise her affection.  
+2.	If you do not talk to Karen or befriend her much, you may not see her much at festivals. If you get her affection up, she will show up more meaning more opportunity to raise her affection.  
 
 ***
 
 ## Elli  
+
+![Elli’s Sprite]( https://i.imgur.com/gcUa04Q.png)  
+![Elli's Portrait](https://i.imgur.com/T84HIEc.png)  
+
+
+**Birthday:** Fall 1  
+
+The simplest way to get her affection up is really talking to her. This involves nothing except talking to her. Her schedule is a little more involved than some and a lot can depend on the day. If you are looking for her, her common locations are:  
+- On Monday, you can usually find her in the mountains near the carpenters, the Bakery is closed so check there. Sometimes I have seen her on the Beach or Flower Shop
+- Tuesday to Saturday is the best place to find her. in the early parts of the day, you can find her at the bakery, this is really the best time to meet with her. later in the day, mountains or Flower Shop.
+-Sundays she is gone, just gone. Don't even try to look for her, if you do find her, let me know where please.  
+
+**Gifts**
+|Loves|Likes|**Avoid**|
+|:--|:--:|:--:|
+|Eggs|Your Dog|Bugs|
+|Cake|Baked Things|Wild Animals (Squirrels)|
+|Milk|Fish|Garbage (Weeds, Rocks)|  
+
+**Green Heart:** If you have a green Heart with Elli, and the day is raining, go visit her at her place, she will be sick. Go through the scene and you will gain some affection with her.  
+
+**Yellow Heart:** At Yellow Heart, you will have a dream when you go to bed. There is really nothing to do for this but just read the dialogue and the Heart rating is the only requirement.  
+
+**Yellow Heart:** Another Yellow Heart event, head up to the mountains near the bridge, you will see her sitting there, she sprained her ankle. Help her and you will gain some affection.  
+
+**Pink Heart:** When you nearly max her affection, she will give you a confession of her love to you. This can only be done at Pink Heart and can only be done before 5pm. You must enter the bakery and the event will trigger. This will also make the day go to evening so do your chores first.
+
+### Little Secrets/Tips
+
+1.	If you decide to marry Elli, she will actually help with the chickens on your farm. She will feed them and even ship the eggs for you saving some time. When she feeds them, it does not take from your current amount of feed so it doesn't cost you anything.  
+
+2.	Ellen will eventually die (Elli's Grandmother), you will notice this getting close if you talk to her at festivals and she is sleeping. When this happens, Elli will be sad but do not worry, she will eventually come around.  
+
+***
+
+## Ann 
+
+![Ann’s Sprite]( https://i.imgur.com/SBYr2Eu.png)  
+![Ann's Portrait](https://i.imgur.com/4hr2tAa.png)  
+
+
+**Birthday:** Summer 14   
+
+The simplest way to get her affection up is really talking to her. This involves nothing except talking to her. Her schedule is quite simple for the most part. If you are looking for her, her common locations are:  
+- Sunny days you can find her in the pasture at the Ranch most times most days except Thursday. 
+- Rainy days she is probably in the barn on the ranch most days except Thursday.
+- Thursday, you can find her near the goddess pond, or close to the fisherman's tent, or you may find her in the shop. If the day is raining, she is in her room which you cannot get to.  
+**Note:** Sometimes she will appear in random locations but generally, the above spots are where you will find her.   
+
+**Gifts**
+|Loves|Likes|**Avoid**|
+|:--|:--:|:--:|
+|CHICKENS!|Corn|Bugs|
+|Wool|Potatos|Wild Animals (Squirrels)|
+|Your Dog||Your animals dying|  
+
+**Green Heart:** If you have a green Heart with Ann, and the day is raining, go visit her at her place, she will be sick, just like everyone seems to be when these conditions are met. Go through the scene and you will gain some affection with her.  
+
+**Yellow Heart:** At Yellow Heart, you will have a dream when you go to bed. There is really nothing to do for this but just read the dialogue and the Heart rating is the only requirement.  
+
+**Yellow Heart:** Another Yellow Heart event, head to the crossroads outside your farm, you will see her sitting there, she sprained her ankle. Help her and you will gain some affection.  
+
+**Pink Heart:** When you nearly max her affection, she will give you a confession of her love to you. This can only be done at Pink Heart and this happens at night when you enter the ranch. 
+
+### Little Secrets/Tips
+
+1.	If you marry Ann, she will help out with your chickens, she will either feed them or she will ship the eggs.   
+
+***
+
+## Popuri 
+
+![Popuri’s Sprite]( https://i.imgur.com/Fusg1iN.png)  
+![Popuri's Portrait](https://i.imgur.com/I3zVifU.png)  
+
+
+**Birthday:** Spring 22  
+
+The simplest way to get her affection up is really talking to her. This involves nothing except talking to her. Her schedule is not too bad though she can be all over the place through the days. If you are looking for her, her common locations are:  
+- Most days, you can find her outside the flower shop, between the shop and the church. if it is raining or in Winter, she will be in the shop.
+- Sunday mornings, you may find her in the mountain clearing where you can climb the tree, or at Green Ranch.
+- Friday mornings, you can find her at the Moon Restaurant.  
+
+**Gifts**
+|Loves|Likes|**Avoid**|
+|:--|:--:|:--:|
+|Pink Cat Mint Flowers|Flowers|Bugs|
+| |Strawberries| |
+| |Cake||  
+
+**Green Heart:** If you have a green Heart with Popuri, and the day is raining, go visit her at her place, she will be sick, just like everyone seems to be when these conditions are met. Go through the scene and you will gain some affection with her.  
+
+**Yellow Heart:** At Yellow Heart, you will have a dream when you go to bed. There is really nothing to do for this but just read the dialogue and the Heart rating is the only requirement.  
+
+**Yellow Heart:** Another Yellow Heart event, head to the mountains and outside the cave, you will see her sitting there, she sprained her ankle. Help her and you will gain some affection.  
+
+**Pink Heart:** When you nearly max her affection, she will give you a confession of her love to you. This can only be done at Pink Heart and this has to happen on a sunny day. Head to the mountains where you found her with a sprained ankle and talk to her.  
+
+### Little Secrets/Tips
+
+1.	If you marry Popuri, plant flowers in the field, she will water them for you as she really likes flowers.   
+
+***
+
+## Maria
+
+![Maria’s Sprite]( https://i.imgur.com/ncJ3eY3.png)  
+![Maria's Portrait](https://i.imgur.com/O87GsXo.png)  
+
+
+**Birthday:** Winter 11  
+
+The simplest way to get her affection up is really talking to her. This involves nothing except talking to her. Her schedule is probably the easiest to do. If you are looking for her, her common locations are:  
+- Most of the time you can find her in the Library.
+- When the Library is closed, she will either be beside the church or in the mountains by the carpenter's home.  
+
+**Gifts**
+|Loves|Likes|**Avoid**|
+|:--|:--:|:--:|
+|Cabbage|Bugs|Your Dog|
+| |You reading books|Wild Animals|  
+
+**Green Heart:** If you have a green Heart with Maria, and the day is raining, go visit her at her place, she will be sick, just like everyone seems to be when these conditions are met. Go through the scene and you will gain some affection with her.  
+
+**Yellow Heart:** At Yellow Heart, you will have a dream when you go to bed. There is really nothing to do for this but just read the dialogue and the Heart rating is the only requirement.  
+
+**Yellow Heart:** Another Yellow Heart event, head to the Library on a sunny day, you will see her sitting there, she sprained her ankle. Help her and you will gain some affection.  
+
+**Pink Heart:** When you nearly max her affection, she will give you a confession of her love to you. This can only be done at Pink Heart. Head to the library, when you leave, she will tell you she likes you.  
+
+### Little Secrets/Tips
+
+1.	Whatever you do, do not show her your dog. For some reason, she doesn't like it, even when you're married. It is odd because she likes bugs but hates your dog.  
+
+***
+
+# Rivals
