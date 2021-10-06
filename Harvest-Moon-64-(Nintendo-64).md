@@ -1000,6 +1000,7 @@ Cliff is more your nomad/adventurer type. If you are looking for him, his common
 ### Little Secrets/Tips
 
 1.	Cliff will permanently leave if you do not become friends with him by Winter of Year 1, if your affection is 50 or lower, he leaves. Or if you marry Ann and then get your affection up too high with him, he will leave forever. Keep this in mind if you want him to stay. 
+2.	If you give Cliff milk or an egg, he will give you the recipe for Spiced Tea.
 
 ***
 
@@ -1026,8 +1027,137 @@ Jeff is typically pretty easy to find as he is your typical bar person and he wo
 **Rival Events**
 
 - Girl Talk: When you enter the Bakery, you will find Popuri and Elli talking and Elli is a bit jealous of Popuri and she says she wants to lose weight, Of course Cliff overhears and comes and says that he likes more "Plump girls."
-- One day in the mountains you will come across them both fishing and a big one gets away and splashes him, Elli tells him he looks younger with his bangs down.
+- One day in the mountains you will come across them both fishing and a big one gets away and splashes him, Elli tells him he looks younger with his bangs down.  
+
+### Little Secrets/Tips
+
+1.	Giving Jeff an egg will get you the recipe for the Cinnamon Milk. 
+
 
 ***
 
-## Gray
+## Gray  
+
+![Gray’s Sprite]( https://i.imgur.com/jS8hWth.png)  
+![Gray's Portrait]( https://i.imgur.com/WWNyPuy.png)  
+
+
+**Birthday:** Unknown  
+
+I found Gray to be one of the easiest to find and his schedule easiest, mostly because he spends a lot of time at the ranch and it is easy to swing by when you leave your farm. If you are looking for him, his common locations are:  
+- Mornings and rainy days you can find him in the barn in Green Ranch
+- Thursdays and Sundays he is over in the carpenters area in the mountains
+- Evenings you can find him in the bar.
+
+**Gifts**
+|Loves|Likes|**Avoid**|
+|:--|:--:|:--:|
+| |Eggs| |
+| |Your Dog | |
+
+**Rival Events**
+
+- Some Flowers Seeds: One day when you are heading into the Flower Shop, you will witness a scene with Gray and Popuri and that he forgot to purchase his seeds.  
+- Green Ranch Flower Garden: In Green Ranch, you will see some dialogue between Ann and Popuri about some flowers growing, Ann will tell her that Gray planted them.  
+- Mucking out the Barn: When you enter Green Ranch at night, you will see a scene with Gray and Popuri where Gray is cleaning out the barn, he doesn’t want Popuri to get too close because of the manure smell but Popuri says she does not mind as it smells like the fertilizer she uses.  
+
+### Little Secrets/Tips
+
+1.	Giving Gray an egg will get you the recipe for the Stuffed Omelet.   
+
+***
+
+## Harris  
+
+![Harris’ Sprite]( https://i.imgur.com/FOV2Ark.png)  
+![Harris' Portrait]( https://i.imgur.com/Ch5mkDu.png)  
+
+
+**Birthday:** Unknown  
+
+Harris can be a little annoying as he seems to not be around many places and well, it is because he isn’t. If you are looking for him, his common locations are:  
+- Sundays you can find him in the Library
+- At night you can find him in the bar.
+
+**Gifts**
+|Loves|Likes|**Avoid**|
+|:--|:--:|:--:|
+| Potatoes| Mostly anything else | |
+
+**Rival Events**
+
+- Visit from Harris: One day he’ll show up and give you a mushroom.
+- Gift from Maria: When you outside the library, you will see Harris check the mail box and Maria will come out and give him something, he’ll say there is no address and she will tell him it is for him.
+- Salesman: A salesman will show up at the library and ask Maria to buy some beauty products and keep pestering her. Harris will tell him to go away.
+- Bar Chat: One night when your affection is really high, he will tell you that he wants to marry Maria.  
+
+### Little Secrets/Tips
+
+1.	Giving Harris a potato will get you the recipe for the Garlic Potato Beef.   
+
+***
+
+## Kai  
+
+![Kai’s Sprite]( https://i.imgur.com/0cwKoN6.png)  
+![Kai's Portrait]( https://i.imgur.com/Fy4LRzh.png)  
+
+
+**Birthday:** Unknown  
+
+Kai is another easy one to find, he is really either at the bar or the vineyard. If you are looking for him, his common locations are:  
+- Outside in the vineyard if it is sunny.
+- Inside the cellar is the day is raining.
+- At night you can find him in the bar.
+
+**Gifts**
+|Loves|Likes|**Avoid**|
+|:--|:--:|:--:|
+| | Verry Berries | |
+| | Wild Grapes | |
+
+
+**Rival Events**
+
+- Fight with Father: When you enter the vineyard, you will see Kai and Karen talking and learn she had a fight with her father, Kai will tell her she should try and reconcile. 
+- Karen Drinking: When you enter the bar, you will see Karen on the floor and Kai trying to help her, you will find she is drunk and Kai will end up helping her home.
+- Beach Talk: When you enter the beach, you will see a dialogue between Kai and Karen, Kai will be lying on the sand muttering on how to tell her his feelings and gets startled when he sees that Karen was listening. Karen will tell him that she thinks she will stay.  
+
+### Little Secrets/Tips
+
+1.	Giving Kai a Veryberry will get you the recipe for the Veryberry Wine. 
+
+2.	Kai will leave if Karen leaves, and your friendship is not high enough with him. Him leaving can lock you out of some achievements for be careful.
+
+***
+
+### Farm and Shipping Goods
+
+## Crops
+Listed below are the crops you can purchase and grow to sell on your farm
+|Crop|Season|Seed Price|Days to Grow|Regrow?|Sell Price|
+|:--|:--:|:--:|:--:|:--:|:--:|
+| Turnip | Spring | 200G | 4 Days | No | 60G|
+| Potato | Spring | 200G | 6 Days | No | 80G|
+| Cabbage | Spring | 200G | 9 Days | No | 90G|
+| Tomato | Summer | 300G | 9 Days | Yes (3 Days) | 90G|
+| Corn | Summer | 300G | 13 Days | Yes (4 Days) | 120G|
+| Egg Plant | Fall | 300G | 7 Days | No | 80G|
+| Strawberry | Winter | 500G | 6 Days | No | 150G|
+| Grass | Any Except Winter | 300G | 9 Days | Yes (7 Days) ||
+
+## Mountain Forging  and Mine  
+Please note that the mine is only open during the winter. 
+|Item|Season|Price|
+|:--|:--:|:--:|
+| Edible Herbs | Any Except Winter | 30G |
+| Medicianl Herbs | Any Except Winter | 70G |
+| Veryberry | Spring | 40G |
+| Tropical Fruit | Summer | 40G |
+| Mushroom | Fall | 70G |
+| Poisonous Mushroom | Fall | 30G |
+| Wild Grape | Fall | 40G |
+| Iron Ore | Winter | 100G |
+| Moonlight Stone | Winter | 500G |
+| Blue Stone | Winter | 700G |
+| Rare Stone | Winter | 1000G |
