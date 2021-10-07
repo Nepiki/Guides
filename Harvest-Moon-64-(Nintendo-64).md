@@ -786,7 +786,7 @@ If even one of these is missed, you will not get the picture at your evaluation 
 
 # Resources
 
-Listed below are several resources that you can use to help you along. I have provided information about each of the marriage candidates and the rivals. As well as tables for crops, festival dates and even screenshots that can help lead you along the way. The hope is that you won't need to use too many guides or flip through other pages to find the information you are looking for. Keep in mind that I will not be adding the photo information on here as they are outlined in the achievement guide. If there is stuff I needed to add or would be good, sent me a DM on the site and click my name link here to get to my page: [ikki5]( https://retroachievements.org/user/ikki5)  
+Listed below are several resources that you can use to help you along. I have provided information about each of the marriage candidates and the rivals. As well as tables for crops, festival dates and even screenshots that can help lead you along the way. The hope is that you won't need to use too many guides or flip through other pages to find the information you are looking for. Keep in mind that I will not be adding the photo information on here as they are outlined in the achievement guide. If there is stuff I need to add or would be good, sent me a DM on the site and click my name link here to get to my page: [ikki5]( https://retroachievements.org/user/ikki5)  
 
 # Marriage Candidates 
 
@@ -1140,8 +1140,8 @@ Listed below are the crops you can purchase and grow to sell on your farm
 | Turnip | Spring | 200G | 4 Days | No | 60G|
 | Potato | Spring | 200G | 6 Days | No | 80G|
 | Cabbage | Spring | 200G | 9 Days | No | 90G|
-| Tomato | Summer | 300G | 9 Days | Yes (3 Days) | 90G|
-| Corn | Summer | 300G | 13 Days | Yes (4 Days) | 120G|
+| Tomato | Summer | 300G | 9 Days | Yes (3 Days) | 120G|
+| Corn | Summer | 300G | 13 Days | Yes (4 Days) | 90G|
 | Egg Plant | Fall | 300G | 7 Days | No | 80G|
 | Strawberry | Winter | 500G | 6 Days | No | 150G|
 | Grass | Any Except Winter | 300G | 9 Days | Yes (7 Days) ||
@@ -1161,3 +1161,41 @@ Please note that the mine is only open during the winter.
 | Moonlight Stone | Winter | 500G |
 | Blue Stone | Winter | 700G |
 | Rare Stone | Winter | 1000G |
+
+## Barn Animals  
+While yes, the sell prices for the Cows and Sheep are higher than the buy prices, keep in mind these are fully grown animals. When you buy them, they are not fully grown and you will need to wait close to a month for them to be fully grown and producing products.
+|Name|Animal Cost|Product|Sell Price|
+|:--|:--:|:--:|:--:|
+|Chicken|1,500G| |500G|
+| | | Egg|50G|
+|Cow|6,000G| |6,500G (Higher with more affection|
+| | |Small Milk|100G|
+| | |Medium Milk|150G|
+| | |Large Milk|300G|
+| | |Gold Milk|500G|
+|Sheep|4,000G| |4,200G (Higher with more affection|
+| | |Wool|900G|
+| | |Quality Wool|1800G|
+
+## Festivals  
+  |Season|Name|Date|
+|:--|:--:|:--:|
+|Spring|New Years Festival|Day 1|
+| |Sowing Festival|Day 8|
+| |Horse Race|Day 17|
+| |Flower Festival Voting|Day 19 to Day 22|
+| |Flower Festival|Day 23|
+|Summer|Fireworks Festival|Day 1|
+| |Vegetable|Day 9|
+| |Firefly Festival|Day 17|
+| |Swimming Festival|Day 24|
+|Fall|Cow Festival|Day 4|
+| |Harvest Festival|Day 12|
+| |Egg Festival|Day 20|
+| |Horse Race|Day 28|
+|Winter|Mine Opens|Day 8|
+| |Thanksgiving|Day 10|
+| |Dog Race|Day 19|
+| |Starry Night Festival|Day 24|
+| |Spirit’s Eve Festival|Day 27|
+| |New Year’s Eve|Day 30|
