@@ -742,7 +742,7 @@ This one can be a bit tricky and a bit luck dependent. The mines open in during 
 
 =-----------------------------------------------------------=
 
-![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138320.png) [Player!]( https://retroachievements.org/achievement/125544)
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138320.png) [Player!]( https://retroachievements.org/achievement/125544)   
 _Get all the girls' affection to a pink heart without being married._   
 **-=Missable=-**   
 
