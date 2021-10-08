@@ -314,7 +314,7 @@ It is possible to get your tools to gold at the start of the game in a single ni
 
 =-----------------------------------------------------------=
 
-![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138261.png) [Continuing the Family Name]( https://retroachievements.org/achievement/125580)
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138261.png) [Continuing the Family Name]( https://retroachievements.org/achievement/125580)   
 _Have your child and get your picture._   
 **-=Missable=-**   
 
