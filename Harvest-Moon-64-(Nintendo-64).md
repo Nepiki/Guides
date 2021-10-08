@@ -132,49 +132,49 @@ Very easy, if you just stand there and waste away your time not moving, you will
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138303.png) [Fresh Farmer]( https://retroachievements.org/achievement/99516)  
-_ Accumulate 2,000 Gold._  
+_Accumulate 2,000 Gold._  
 
 See [Master Farmer]( https://retroachievements.org/achievement/99519)  
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138302.png) [Seasoned Farmer]( https://retroachievements.org/achievement/99517)  
-_ Accumulate 10,000 Gold._  
+_Accumulate 10,000 Gold._  
 
 See [Master Farmer]( https://retroachievements.org/achievement/99519)  
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138301.png) [Veteran Farmer]( https://retroachievements.org/achievement/99518)  
-_ Accumulate 50,000 Gold._  
+_Accumulate 50,000 Gold._  
 
 See [Master Farmer]( https://retroachievements.org/achievement/99519)  
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138300.png) [Master Farmer]( https://retroachievements.org/achievement/99519)  
-_ Accumulate 100,000 Gold._  
+_Accumulate 100,000 Gold._  
 
 Money is something you will earn throughout the game as you ship crops and animal goods. Just save your money and plant as much as possible and get farm animals when you can. The more you ship, the more cash you get, and eventually you will earn the money achievements as you go.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138324.png) [Giddy Up!]( https://retroachievements.org/achievement/99529)   
-_ Get and name your horse._  
+_Get and name your horse._  
 
 This can be gotten as soon as your first day. You will need to trigger the cutscene anyway if you wanted to get farm animals. All you need to do is head to Green Ranch. Leave your farm and go south, and once you get there, it will trigger the scene. Get it, name it, and you’ll get the achievement.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138327.png) [The Bird is the Word]( https://retroachievements.org/achievement/99526)  
-_ Get and name your first chicken._  
+_Get and name your first chicken._  
 
 This one is simple enough. Head to Green Ranch and enter the far-right building. You will have the option to buy livestock. Buy one, name it and you’ll get your achievement.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138295.png) [Poultry Farmer]( https://retroachievements.org/achievement/99449)  
-_ Acquire 6 Chickens._  
+_Acquire 6 Chickens._  
 
 Just as you did with the first chicken, you can buy all your chickens at Green Ranch until you have a coop with 6 chickens. Alternatively, if you want to save money, you can put them in the nesting spot in your coop and they will hatch into baby chicks over time. If you are buying, you can only get one chicken per day.  Also note, do not leave your chickens outside in the winter or rain, and if you do not feed them, they can become sick and eventually die. 
 
