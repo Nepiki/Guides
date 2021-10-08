@@ -731,6 +731,7 @@ Note: Everyone must be present so if either anyone is gone forever, for example 
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138292.png) [Heavyweight Drinker]( https://retroachievements.org/achievement/125583)  
 _Max out your alcohol tolerance._   
+
 This one is actually pretty easy, though grindy. You can do this two ways, buy and drink alcohol, usually from the bar and build it up over time. Or buy a glass bottle from Rick at the flower festival, with this you can get wine for free at the vineyard in the shed. You can fill up the bottle and drink it and with you being inside the shed, time does not move making it so you can max your tolerance pretty much in a day.
 
 =-----------------------------------------------------------=
