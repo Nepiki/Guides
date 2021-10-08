@@ -260,7 +260,7 @@ For this, you will need chickens. The more chickens you have, the more eggs you 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138310.png) [Got Milk?]( https://retroachievements.org/achievement/125555)  
 _Ship a total of 100 Milk._  
 
-For Milk, you will need cows. Only cows can be milked, so don’t bother trying to milk your sheep (or other animals…). You can get 1 milk per day per cow, so the more cows you get, the faster you will get this. Ship 100 milk over the course of your game and you will be awarded this achievement.
+For Milk, you will need cows. Only cows can be milked, so don’t bother trying to milk your sheep (or other animals). You can get 1 milk per day per cow, so the more cows you get, the faster you will get this. Ship 100 milk over the course of your game and you will be awarded this achievement.
 
 =-----------------------------------------------------------=
 
@@ -1136,7 +1136,7 @@ Kai is another easy one to find, he is really either at the bar or the vineyard.
 
 1.	Giving Kai a Veryberry will get you the recipe for the Veryberry Wine. 
 
-2.	Kai will leave if Karen leaves, and your friendship is not high enough with him. Him leaving can lock you out of some achievements for be careful.
+2.	Kai will leave if Karen leaves, and your friendship is not high enough with him. Him leaving can lock you out of some achievements so be careful.
 
 ***
 
@@ -1160,7 +1160,7 @@ Please note that the mine is only open during the winter.
 |Item|Season|Price|
 |:--|:--:|:--:|
 | Edible Herbs | Any Except Winter | 30G |
-| Medicianl Herbs | Any Except Winter | 70G |
+| Medicinal Herbs | Any Except Winter | 70G |
 | Veryberry | Spring | 40G |
 | Tropical Fruit | Summer | 40G |
 | Mushroom | Fall | 70G |
@@ -1212,7 +1212,7 @@ While yes, the sell prices for the Cows and Sheep are higher than the buy prices
 ## Screenshots
 
 ![Climbing Tree]( https://i.imgur.com/mYNGz1V.png)  
-This is the tree you can climb to get the Moon Restaurant early before the bridge is built. In is right beside the cave in the mountain.  
+This is the tree you can climb to get the Moon Restaurant early before the bridge is built. It is right beside the cave in the mountain.  
 
 ***
 
