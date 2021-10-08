@@ -634,21 +634,21 @@ The Horse Race is on Spring 17 and Fall 28 (there are two horse races a year). L
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138247.png) [The Great Harvest King]( https://retroachievements.org/achievement/125567)  
 _Become the Harvest King and spread the seed all over 'your kingdom.'_    
 
-This achievement actually requires two stages, first is actually becoming the Harvest King which is done in the Harvest Festival on Fall 12. The second is to attend the Sowing Festival in Spring 8. The challenge more comes getting chosen as Harvest King. To do so, At the Harvest Festival, Elli has cakes and towards the end you need to eat one of them, you need to get the one with the coin. If you get the coin, you will be awarded the title for the next year and will get to spread the seeds on the Sowing Festival on the 8th of Spring. Meet these and you’ll be award the achievement.
+This achievement actually requires two stages. First is actually becoming the Harvest King, which is done in the Harvest Festival on Fall 12. The second is to attend the Sowing Festival in Spring 8. The challenge comes more from getting chosen as Harvest King. To do so, at the Harvest Festival, Elli has cakes, and towards the end, you need to eat one of them. You need to get the one with the coin. If you get the coin, you will be awarded the title for the next year and will get to spread the seeds on the Sowing Festival on the 8th of Spring. Meet these and you’ll be award the achievement.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138262.png) [A Cattle Photo Op Victory]( https://retroachievements.org/achievement/125568)  
 _Win the cow festival and get the photo._    
 
-This festival takes place on the 4th of Fall. To win the cow festival, it is about how much milk you have shipped and how high the affection is for your cow. The milk can come from any cow but the cow’s affection must be at least 240. So when you have met these conditions, enter your cow and you will win the festival, getting the picture and the achievement.
+This festival takes place on the 4th of Fall. To win the cow festival, it is about how much milk you have shipped and how high the affection is for your cow. The milk can come from any cow, but the cow’s affection must be at least 240. So when you have met these conditions, enter your cow and you will win the festival, getting the picture and the achievement.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138260.png) [The Aquatic Farmer]( https://retroachievements.org/achievement/125569)  
 _Win the Swimming Race and get your picture the next day._    
 
-On the 24th of Summer, the Swimming festival will be held. Here you can enter a race against the other bachelors and if you win, you will be awarded a picture and an invincible katori. The race is essentially pressing the A button. I had a fair amount of difficulty as mashing it don’t seem to consistently work. You need to press the button rapidly as well within the timing. I found it best to keep the mashing as a consistent speed while trying to keep it rapid. Make sure you save the day before otherwise, you will need to wait an entire year.
+On the 24th of Summer, the Swimming festival will be held. Here you can enter a race against the other bachelors and if you win, you will be awarded a picture and an invincible katori. The race is essentially pressing the A button. I had a fair amount of difficulty, as mashing it don’t seem to consistently work. You need to press the button rapidly as well as within the timing. I found it best to keep the mashing as a consistent speed while trying to keep it rapid. Make sure you save the day before, otherwise you will need to wait an entire year.
 
 =-----------------------------------------------------------=
 
@@ -656,21 +656,21 @@ On the 24th of Summer, the Swimming festival will be held. Here you can enter a 
 _Help the carpenters to build the Hot Springs and get the picture._    
 **-=Missable=-**   
 
-This one is rather easy, in Winter of your first year, you will hear an earthquake in the middle of the night. On the day 11 of the month, the carpenters will arrive at your house and ask if you will help as they are making the hot springs, say YES. This will eat up most of your day and 1,000G but it will award you a picture and this achievement.
+This one is rather easy. In Winter of your first year, you will hear an earthquake in the middle of the night. On the 11th day of the month, the carpenters will arrive at your house and ask if you will help as they are making the hot springs, so say YES. This will eat up most of your day and 1,000G, but it will award you a picture and this achievement.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138293.png) [Vegtory!]( https://retroachievements.org/achievement/125582)  
 _Win the Vegetable Festival._    
 
-This is actually really easy. The festival is on day 9 of Summer and all you need to do is enter any crop. To win, you need to have shipped 100 or more of that crop which really isn’t that hard to do, provided to planted crops in your fields.
+This is actually really easy. The festival is on day 9 of Summer and all you need to do is enter any crop. To win, you need to have shipped 100 or more of that crop, which really isn’t that hard to do, provided to planted crops in your fields.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138294.png) [Eggstatic Victory]( https://retroachievements.org/achievement/125581)  
 _Win the Egg Festival._    
 
-The Egg Festival is on Fall 20 and while some may assume that this is a festival where you bring eggs, this isn’t the case. It feels more like an Easter festival as you more need to hunt for eggs. Go to the town square and talk to everyone and the mayor will start the event. In this event, the mayor will show a coloured egg and you need to go to locations where these boxes are and check to see if there is an egg. If you pick one that is not the right colour, remember that colour as it may appear later. But match the colours and the person who gets the most, is the winner.
+The Egg Festival is on Fall 20 and while some may assume that this is a festival where you bring eggs, this isn’t the case. It feels more like an Easter festival as you more need to hunt for eggs. Go to the town square and talk to everyone and the mayor will start the event. In this event, the mayor will show a colored egg and you need to go to locations where these boxes are and check to see if there is an egg. If you pick one that is not the right color, remember that color as it may appear later. But match the colors and the person who gets the most is the winner.
 
 **-=To the left of the Church=-**  
 **-=Between the Bakery and Tool Shop=-**   
@@ -680,7 +680,7 @@ The Egg Festival is on Fall 20 and while some may assume that this is a festival
 **-=Next to the Greenhouse by the Flower Shop=-**  
 **-=By the barrels behind the bar=-**  
 
-I highly recommend saving before you do this as if you get unlucky and the egg is in say the last chest you look, then you will most likely lose.
+I highly recommend saving before you do this, as if you get unlucky and the egg is in, say,  the last chest you look, then you will most likely lose.
 
 =-----------------------------------------------------------=
 
@@ -688,18 +688,18 @@ I highly recommend saving before you do this as if you get unlucky and the egg i
 _Save the Vineyard._   
 **-=Missable=-**   
 
-Saving the vineyard is a rather long process and is needed for a variety of events, and achievements. Without restoring the Vineyard, you cannot marry Karen, get Karen’s picture, cannot get the achievement for out drinking everyone and so forth and she will leave in Winter of year 2 and will be gone forever. So saving the Vineyard is actually a pretty important things to do. Follow these steps and you should save the Vineyard, keep in mind this is a long process:
+Saving the vineyard is a rather long process and is needed for a variety of events and achievements. Without restoring the Vineyard, you cannot marry Karen, get Karen’s picture, cannot get the achievement for out-drinking everyone and so forth and she will leave in Winter of year 2 and will be gone forever. So saving the Vineyard is actually a pretty important things to do. Follow these steps and you should save the Vineyard, keep in mind this is a long process:
 1.	The first step is to really go to the Vineyard, watch the initial cutscene of Kai and Karen fighting.
 
-2.	You next step is you need to befriend Duke. Duke is the Bartender, his favorite gift is Wild Grapes... however, those are not available until Fall. So you can essentially just give him gifts other gifts and talk to him. Even just talking to him will increase his affection high enough and he’ll give you a wine called “The Door of Heaven,” a wine that your grandfather wanted to give you.
+2.	You next step is to befriend Duke. Duke is the Bartender and his favorite gift is Wild Grapes... however, those are not available until Fall. So you can essentially just give him other gifts and talk to him. Even just talking to him will increase his affection high enough and he’ll give you a wine called “The Door of Heaven,” a wine that your grandfather wanted to give you.
 
-3.	The next step is to befriend the Harvest Sprites. Now, I kind of recommend doing this at the same time as the previous step if you can. They take a little more affection than Duke does which is why just talking to Duke should be enough. Now, the Harvest Sprites are located in the cave under Moon Mountain. When you start talking to them, they will not be able to be understood. Just talk to them, give them gifts, anything really works, I usually used foraged goods. Eventually he will begin speaking in English. Keep befriending them and talking to them. Once you see them mention something about wine, speak to them again and they will tell you about the Harvest Goddess and to go and talk to her.
+3.	The next step is to befriend the Harvest Sprites. Now, I kind of recommend doing this at the same time as the previous step if you can. They take a little more affection than Duke does, which is why just talking to Duke should be enough. Now, the Harvest Sprites are located in the cave under Moon Mountain. When you start talking to them, they will not be able to be understood. Just talk to them, give them gifts, anything really works, I usually used foraged goods. Eventually he will begin speaking in English. Keep befriending them and talking to them. Once you see them mention something about wine, speak to them again and they will tell you about the Harvest Goddess and to go and talk to her.
 
 4.	In this step, you need to have a crop or animal product saved, I used an egg. With this crop or product, head to the Harvest Goddess’ Pond and throw it in. She will appear and where she normally gives you three choices, you will see the option that says “Grape Spirit.” Choose that option and you will see a cutscene where the Harvest Goddess prays to the dead looking tree in the Vineyard.
 
-5.	This step really involves you doing nothing except for going to bed on the night of Fall 6. When you go to bed that night, the Harvest Goddess will appear to you in a dream and tell you that Vineyard has been restored and that the Keif Fairies have come.
+5.	This step really involves you doing nothing except for going to bed on the night of Fall 6. When you go to bed that night, the Harvest Goddess will appear to you in a dream and tell you that the Vineyard has been restored and that the Keif Fairies have come.
 
-6.	This step is not really needed however, if you have your affection up with Karen (At least 120), she will come to your farm the next day and ask you to come, with the Vineyard restored and the Keif Fairies back, you will see a little cutscene and you will get her picture.
+6.	This step is not really needed, however, if you have your affection up with Karen (At least 120), she will come to your farm the next day and ask you to come, with the Vineyard restored and the Keif Fairies back, you will see a little cutscene and you will get her picture.
 
 =-----------------------------------------------------------=
 
@@ -715,7 +715,7 @@ This is easy, there is a tree at the base of the cliff in Moon Mountain. Go arou
 _Help the Lumberjacks build the bridge (must help every day of the project and must be done in a single session)._   
 **-=Missable=-**   
 
-On Fall 22, a carpenter will visit your home and ask you for help to build a bridge. You have until 3:00 to show up and it will always advance the day to 3:00 and you will get paid for each day. The days to help go from Fall 23 to Fall 27. As long as you help each day, you will unlock this achievement. If you miss a day you will be locked out from earning this so don’t forget. Not only that but this MUST be done in a single session so do not save and quit.
+On Fall 22, a carpenter will visit your home and ask you for help to build a bridge. You have until 3:00 to show up and it will always advance the day to 3:00 and you will get paid for each day. The days to help go from Fall 23 to Fall 27. As long as you help each day, you will unlock this achievement. If you miss a day you will be locked out from earning this, so don’t forget. Not only that but this MUST be done in a single session, so do not save and quit.
 
 =-----------------------------------------------------------=
 
