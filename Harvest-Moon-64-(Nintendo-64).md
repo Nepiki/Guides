@@ -420,7 +420,7 @@ This will be done over time. The max affection for your dog is 255 and it starts
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138319.png) [Horse Lover]( https://retroachievements.org/achievement/125546)  
 _Max your horse's affection._  
 
-Just like the dog, this will be done over time so long as you interact with your horse. You can gain affection with horse by talking to it, riding it and brushing it. Also, if you hit the horse, you will lose affection.
+Just like the dog, this will be done over time so long as you interact with your horse. You can gain affection with your horse by talking to it, riding it and brushing it. Also, if you hit the horse, you will lose affection.
 
 =-----------------------------------------------------------=
 
