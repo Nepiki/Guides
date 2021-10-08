@@ -1,5 +1,3 @@
-### **Work in Progress**
-
 ## 1) Synopsis
 
 Set Difficulty: 5/10  
@@ -793,8 +791,9 @@ Listed below are several resources that you can use to help you along. I have pr
 ## Karen  
 
 ![Karen’s Sprite](https://i.imgur.com/1L1clV1.png)  
-![Karen's Portrait](https://i.imgur.com/6qBFfc5.png)  
+![Karen's Portrait](https://i.imgur.com/6qBFfc5.png)   
 
+Karen is the typical alcohol girl in the game. She has long blond hair and green eyes. She lives on the vineyard with her father and can have a bit of an attitude though she tends to open up more as you get to know her. She has a bad family life and often gets into fights with her father. She is good friends with Kai and can get married to either him or you.
 
 **Birthday:** Winter 29   
 
@@ -836,6 +835,7 @@ The simplest way to get her affection up is really talking to her. This involves
 ![Elli’s Sprite](https://i.imgur.com/gcUa04Q.png)  
 ![Elli's Portrait](https://i.imgur.com/T84HIEc.png)  
 
+Elli is a very kind girl who loves her sweets. She works at the bakery along side with Jeff who she can marry. She has short brown hair and brown eyes and dresses mostly in blue. She is a caring woman who cares a lot for her grandmother who will pass away at some point in the game.  
 
 **Birthday:** Fall 1  
 
@@ -872,6 +872,7 @@ The simplest way to get her affection up is really talking to her. This involves
 ![Ann’s Sprite](https://i.imgur.com/SBYr2Eu.png)  
 ![Ann's Portrait](https://i.imgur.com/4hr2tAa.png)  
 
+Ann is one of the more energetic bachelorettes. She has red hair and blue eyes and dresses in overalls and is a tomboy. She loves animals and farm animals and is almost always in a good mood. She lives on the farm with her brother and father who seem to all get along. She will marry Cliff if you meet the requirements to do so.
 
 **Birthday:** Summer 14   
 
@@ -907,6 +908,7 @@ The simplest way to get her affection up is really talking to her. This involves
 ![Popuri’s Sprite](https://i.imgur.com/Fusg1iN.png)  
 ![Popuri's Portrait](https://i.imgur.com/I3zVifU.png)  
 
+Popuri is a girl who seems to never stop smiling. She has pink hair and pink eyes, she also wears a lot of pink. She loves flowers and mostly anything that has to do with nature. She lives at the Flower Shop with her parents and spends most of her time there or near there and loves her family. She will marry Gray if the requirements are met.
 
 **Birthday:** Spring 22  
 
@@ -941,6 +943,7 @@ The simplest way to get her affection up is really talking to her. This involves
 ![Maria’s Sprite](https://i.imgur.com/ncJ3eY3.png)  
 ![Maria's Portrait](https://i.imgur.com/O87GsXo.png)  
 
+Maria is your shy girl in the game. She works in the library and is very quiet. She has longer brown hair with brown eyes and wears glasses. She is the mayor’s daughter and lives with them. Her favourite things to do are reading, listening to music, and studying. She will marry Harris if the requirements are met.
 
 **Birthday:** Winter 11  
 
@@ -1199,3 +1202,24 @@ While yes, the sell prices for the Cows and Sheep are higher than the buy prices
 | |Starry Night Festival|Day 24|
 | |Spirit’s Eve Festival|Day 27|
 | |New Year’s Eve|Day 30|
+
+## Screenshots
+
+![Climbing Tree]( https://i.imgur.com/mYNGz1V.png)  
+This is the tree you can climb to get the Moon Restaurant early before the bridge is built. In is right beside the cave in the mountain.  
+
+***
+
+![Treasure Tree]( https://i.imgur.com/9FSW31w.png)  
+This tree is in the northeast of your farm, you need to get this treasure map before you can dig up the Old Music Box in the spot below.  
+
+***  
+
+![Old Music Box]( https://i.imgur.com/Y2xS3x0.png)  
+The Music Box is in your field. The best way to do it, is look at where your doghouse and the tree where the treasure map was, draw straight lines and dig where the lines intersect.
+
+***  
+
+![Wine Cellar Trick]( https://i.imgur.com/AT9obQD.png)  
+Once you have the glass bottle, which you can buy from Rick at the Flower Festival for 200G, you can head down to the wine cellar in the vineyard, use your bottle on the large barrels and you can get free wine. With this, you can drink to your heart’s content and max your tolerance in a single day.
+
