@@ -1179,12 +1179,12 @@ While yes, the sell prices for the Cows and Sheep are higher than the buy prices
 |:--|:--:|:--:|:--:|
 |Chicken|1,500G| |500G|
 | | | Egg|50G|
-|Cow|6,000G| |6,500G (Higher with more affection|
+|Cow|6,000G| |6,500G (Higher with more affection)|
 | | |Small Milk|100G|
 | | |Medium Milk|150G|
 | | |Large Milk|300G|
 | | |Gold Milk|500G|
-|Sheep|4,000G| |4,200G (Higher with more affection|
+|Sheep|4,000G| |4,200G (Higher with more affection)|
 | | |Wool|900G|
 | | |Quality Wool|1800G|
 
