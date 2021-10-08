@@ -618,6 +618,7 @@ _Receive a gift from Karen on your birthday._
 Karen doesn’t need as high affections as the others. Only 120 (which is somewhere in the green range). Karen will arrive at your farm on your birthday and give you a gift. In Karen’s case, it is a Bracelet. You cannot be married for this to happen and if you are below 120, you will get something else. If you are married, instead your current wife will bake you something.
 
 **Note:** You can only get one gift on your birthday. If all the girls are over 160 affection, then the girl that shows up will be the one with the highest affection. Also, in Karen’s case, if she leaves because you did not save the vineyard (see The Importance of Viticulture), you cannot get this.
+
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138271.png) [My Best Pal]( https://retroachievements.org/achievement/125558)    
@@ -702,6 +703,7 @@ Saving the vineyard is a rather long process and is needed for a variety of even
 5.	This step really involves you doing nothing except for going to bed on the night of Fall 6. When you go to bed that night, the Harvest Goddess will appear to you in a dream and tell you that the Vineyard has been restored and that the Keif Fairies have come.
 
 6.	You should already have the achievement by now, however, if you have your affection up with Karen (At least 120), she will come to your farm the next day and ask you to come. With the Vineyard restored and the Keif Fairies back, you will see a little cutscene and you will get her picture.
+
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138277.png) [Climbing to the Moon]( https://retroachievements.org/achievement/125598)  
