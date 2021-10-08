@@ -59,7 +59,11 @@ The first step is the play the game. There is a lot to this game, as it is a gam
 [A Father and Son’s Reunion]( https://retroachievements.org/achievement/125572) **-=Missable=-**  
 
 **Step 2**
-In this step, is basically everything that can be missed, or you can choose not to do. Typically, if you miss these in your first playthrough, you can start over and go strictly for them however since there is so much missible and you only have a single chance to get them, or you have to make choices, I recommend using another save file or, especially for the girls, get their affection up all around the same time, same with the rivals. That way you can trigger their marriages, then reset and reload your game and go for the next one. Therefore I am saying step two is your marriages because there are a lot of achievements that are affected by your marriage and who you marry. This method will cut down greatly on the time needed and the number of play throughs. If you don’t do this method, expect at least 5 play throughs. So as for the “cleanup,” the achievements are as follows: 
+This step covers basically everything that can be missed, or that you can choose not to do. Typically, if you miss these in your first playthrough, you can start over and aim strictly for them. However, since there is so much missible content, you only have a single chance to get them, and you have to make choices, I recommend using another save file. 
+
+For the girls, get their affection up all around the same time, same with the rivals. That way you can trigger their marriages, then reset and reload your game and go for the next one. I am saying step two is your marriages because there are a lot of achievements that are affected by your marriage and who you marry. This method will cut down greatly on the time needed and the number of playthroughs. If you don’t do this method, expect at least 5 play throughs. 
+
+So as for the “cleanup,” the achievements are as follows: 
 
 [Dog Lover]( https://retroachievements.org/achievement/125545)  
 [Horse Lover]( https://retroachievements.org/achievement/125546)  
@@ -687,9 +691,9 @@ _Save the Vineyard._
 Saving the vineyard is a rather long process and is needed for a variety of events, and achievements. Without restoring the Vineyard, you cannot marry Karen, get Karen’s picture, cannot get the achievement for out drinking everyone and so forth and she will leave in Winter of year 2 and will be gone forever. So saving the Vineyard is actually a pretty important things to do. Follow these steps and you should save the Vineyard, keep in mind this is a long process:
 1.	The first step is to really go to the Vineyard, watch the initial cutscene of Kai and Karen fighting.
 
-2.	You next step is you need to befriend Duke. Duke is the Bartender, his favourite gift is Wild Grapes... however, those are not available until Fall. So you can essentially just give him gifts other gifts and talk to him. Even just talking to him will increase his affection high enough and he’ll give you a wine called “The Door of Heaven,” a wine that your grandfather wanted to give you.
+2.	You next step is you need to befriend Duke. Duke is the Bartender, his favorite gift is Wild Grapes... however, those are not available until Fall. So you can essentially just give him gifts other gifts and talk to him. Even just talking to him will increase his affection high enough and he’ll give you a wine called “The Door of Heaven,” a wine that your grandfather wanted to give you.
 
-3.	The next step is to befriend the Harvest Sprites. Now, I kind of recommend doing this in conjunction as the previous step if you can. They take a little more affection than Duke does which is why just talking to Duke should be enough. Now, the Harvest Sprites are located in the cave under Moon Mountain. When you start talking to them, they will not be able to be understood. Just talk to them, give them gifts, anything really works, I usually used foraged goods. Eventually he will begin speaking in English. Keep befriending them and talking to them. Once you see them mention something about wine, speak to them again and they will tell you about the Harvest Goddess and to go and talk to her.
+3.	The next step is to befriend the Harvest Sprites. Now, I kind of recommend doing this at the same time as the previous step if you can. They take a little more affection than Duke does which is why just talking to Duke should be enough. Now, the Harvest Sprites are located in the cave under Moon Mountain. When you start talking to them, they will not be able to be understood. Just talk to them, give them gifts, anything really works, I usually used foraged goods. Eventually he will begin speaking in English. Keep befriending them and talking to them. Once you see them mention something about wine, speak to them again and they will tell you about the Harvest Goddess and to go and talk to her.
 
 4.	In this step, you need to have a crop or animal product saved, I used an egg. With this crop or product, head to the Harvest Goddess’ Pond and throw it in. She will appear and where she normally gives you three choices, you will see the option that says “Grape Spirit.” Choose that option and you will see a cutscene where the Harvest Goddess prays to the dead looking tree in the Vineyard.
 
@@ -943,7 +947,7 @@ The simplest way to get her affection up is really talking to her. This involves
 ![Maria’s Sprite](https://i.imgur.com/ncJ3eY3.png)  
 ![Maria's Portrait](https://i.imgur.com/O87GsXo.png)  
 
-Maria is your shy girl in the game. She works in the library and is very quiet. She has longer brown hair with brown eyes and wears glasses. She is the mayor’s daughter and lives with them. Her favourite things to do are reading, listening to music, and studying. She will marry Harris if the requirements are met.
+Maria is your shy girl in the game. She works in the library and is very quiet. She has longer brown hair with brown eyes and wears glasses. She is the mayor’s daughter and lives with them. Her favorite things to do are reading, listening to music, and studying. She will marry Harris if the requirements are met.
 
 **Birthday:** Winter 11  
 
