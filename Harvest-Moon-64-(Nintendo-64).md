@@ -630,7 +630,7 @@ The Dog race is on Winter 19 and there is only one per year. Like in the previou
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138269.png) [Off to the Races]( https://retroachievements.org/achievement/125560)  
 _Win the Horse Race with your horse and get the picture._    
 
-The Horse Race is on Spring 17 and Fall 28 (there are two horse races a year). Like your dog, you can train your horse to do better in the race. Essentially you need to brush it, whistle to is and riding it a little each day will train it to perform better in the race. The horse also needs to be fully grown meaning this achievement cannot be done on the first race in the game. But, enter your horse after it is fully grown and trained, watch it win and you will be awarded the picture and the achievement.
+The Horse Race is on Spring 17 and Fall 28 (there are two horse races a year). Like your dog, you can train your horse to do better in the race. Essentially, brushing it, whistling to it and riding it a little each day will train it to perform better in the race. The horse also needs to be fully grown, meaning this achievement cannot be done on the first race in the game. But, enter your horse after it is fully grown and trained, watch it win and you will be awarded the picture and the achievement.
 
 =-----------------------------------------------------------=
 
@@ -666,14 +666,13 @@ This one is rather easy. In Winter of your first year, you will hear an earthqua
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138293.png) [Vegtory!]( https://retroachievements.org/achievement/125582)  
 _Win the Vegetable Festival._    
 
-This is actually really easy. The festival is on day 9 of Summer and all you need to do is enter any crop. To win, you need to have shipped 100 or more of that crop, which really isn’t that hard to do, provided to planted crops in your fields.
-
+This is actually really easy. The festival is on day 9 of Summer and all you need to do is enter any crop. To win, you need to have shipped 100 or more of that crop, which really isn’t that hard to do, provided you planted crops in your fields.
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138294.png) [Eggstatic Victory]( https://retroachievements.org/achievement/125581)  
 _Win the Egg Festival._    
 
-The Egg Festival is on Fall 20 and while some may assume that this is a festival where you bring eggs, this isn’t the case. It feels more like an Easter festival as you more need to hunt for eggs. Go to the town square and talk to everyone and the mayor will start the event. In this event, the mayor will show a colored egg and you need to go to locations where these boxes are and check to see if there is an egg. If you pick one that is not the right color, remember that color as it may appear later. But match the colors and the person who gets the most is the winner.
+The Egg Festival is on Fall 20 and while some may assume that this is a festival where you bring eggs, this isn’t the case. IIt feels more like an Easter festival as you need to hunt for hidden eggs. Go to the town square and talk to everyone and the mayor will start the event. In this event, the mayor will show a colored egg and you need to go to locations where these boxes are and check to see if there is an egg. If you pick one that is not the right color, remember that color as it may appear later. But match the colors and the person who gets the most is the winner.
 
 **-=To the left of the Church=-**  
 **-=Between the Bakery and Tool Shop=-**   
@@ -692,9 +691,9 @@ _Save the Vineyard._
 **-=Missable=-**   
 
 Saving the vineyard is a rather long process and is needed for a variety of events and achievements. Without restoring the Vineyard, you cannot marry Karen, get Karen’s picture, cannot get the achievement for out-drinking everyone and so forth and she will leave in Winter of year 2 and will be gone forever. So saving the Vineyard is actually a pretty important things to do. Follow these steps and you should save the Vineyard, keep in mind this is a long process:
-1.	The first step is to really go to the Vineyard, watch the initial cutscene of Kai and Karen fighting.
+1.	The first step is to go to the Vineyard, watch the initial cutscene of Kai and Karen fighting.
 
-2.	You next step is to befriend Duke. Duke is the Bartender and his favorite gift is Wild Grapes... however, those are not available until Fall. So you can essentially just give him other gifts and talk to him. Even just talking to him will increase his affection high enough and he’ll give you a wine called “The Door of Heaven,” a wine that your grandfather wanted to give you.
+2.	Your next step is to befriend Duke. Duke is the Bartender and his favorite gift is Wild Grapes... however, those are not available until Fall. So you can essentially just give him other gifts and talk to him. Even just talking to him will increase his affection high enough and he’ll give you a wine called “The Door of Heaven,” a wine that your grandfather wanted to give you.
 
 3.	The next step is to befriend the Harvest Sprites. Now, I kind of recommend doing this at the same time as the previous step if you can. They take a little more affection than Duke does, which is why just talking to Duke should be enough. Now, the Harvest Sprites are located in the cave under Moon Mountain. When you start talking to them, they will not be able to be understood. Just talk to them, give them gifts, anything really works, I usually used foraged goods. Eventually he will begin speaking in English. Keep befriending them and talking to them. Once you see them mention something about wine, speak to them again and they will tell you about the Harvest Goddess and to go and talk to her.
 
@@ -702,15 +701,14 @@ Saving the vineyard is a rather long process and is needed for a variety of even
 
 5.	This step really involves you doing nothing except for going to bed on the night of Fall 6. When you go to bed that night, the Harvest Goddess will appear to you in a dream and tell you that the Vineyard has been restored and that the Keif Fairies have come.
 
-6.	This step is not really needed, however, if you have your affection up with Karen (At least 120), she will come to your farm the next day and ask you to come, with the Vineyard restored and the Keif Fairies back, you will see a little cutscene and you will get her picture.
-
+6.	You should already have the achievement by now, however, if you have your affection up with Karen (At least 120), she will come to your farm the next day and ask you to come. With the Vineyard restored and the Keif Fairies back, you will see a little cutscene and you will get her picture.
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138277.png) [Climbing to the Moon]( https://retroachievements.org/achievement/125598)  
 _Getting to Moon Mountain Restaurant before bridge is built._   
 **-=Missable=-**   
 
-This is easy, there is a tree at the base of the cliff in Moon Mountain. Go around back and press A and you will climb the tree and get up to the ledge. Enter the restaurant and it will unlock the achievement. Keep in mind that the bridge starts being build on Fall 22 so be sure to do this before them.
+This is easy, there is a tree at the base of the cliff in Moon Mountain. Go around back and press A and you will climb the tree and get up to the ledge. Enter the restaurant and it will unlock the achievement. Keep in mind that the bridge starts being built on Fall 22, so be sure to do this before then.
 
 =-----------------------------------------------------------=
 
@@ -750,7 +748,7 @@ This one can be a bit tricky and a bit luck dependent. The mines open in during 
 _Get all the girls' affection to a pink heart without being married._   
 **-=Missable=-**   
 
-This one is pretty self explanatory, just get all the girls to a pink heart before you get married and you will unlock this. Speak to them everyday and give them gifts and you shouldn’t have any trouble getting this. Keep in mind that Karen will leave if the right conditions are not met so be careful there, also, don’t get married until after you have this. If you are having trouble with knowing what each girl likes and such, At the end of this guide, there is plenty of information and resources.
+This one is pretty self explanatory, just get all the girls to a pink heart before you get married and you will unlock this. Speak to them everyday and give them gifts and you shouldn’t have any trouble getting this. Keep in mind that Karen will leave if the right conditions are not met so be careful there, also, don’t get married until after you have this. If you are having trouble with knowing what each girl likes and such, see Marriage Candidates in the Resources section of this guide. 
 
 =-----------------------------------------------------------=
 
@@ -764,7 +762,7 @@ These two upgrades cannot be bought, in order to get them, you will need to ente
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138322.png) [Healthy Habits]( https://retroachievements.org/achievement/125542)  
 _Work your first year without getting sick._  
 
-Fatigue is a hidden stat your character has. It maxes at 100 and you start at 0. Fatigue increases if you use your tool during the rain or snow, using your tools after 6:00 will also increase it so try and get your day work done early. It can be decreased by a variety of ways, using the restroom, taking a bath, using the hot springs and such. Also, there are multiple medicines you can use as well. If you can keep an eye on it, I recommend doing so, if you have a hard time, just try not to use the tool when it will increase it. All you need to do it make sure it does not get to 100 by the time the first year ends. If it hits 100, you will be sick the next day and will be locked from the achievement. So don’t get sick! If you can accomplish that, you will get the achievement on Spring 1 of year 2.
+Fatigue is a hidden stat your character has. It maxes at 100 and you start at 0. Fatigue increases if you use your tool during the rain or snow, using your tools after 6:00 will also increase it so try and get your day work done early. It can be decreased by a variety of ways, using the restroom, taking a bath, using the hot springs and such. Also, there are multiple medicines you can use as well. If you can keep an eye on it, I recommend doing so, but if you have a hard time, just try not to use the tool when it will increase your fatigue. All you need to do it make sure it does not get to 100 by the time the first year ends. If it hits 100, you will be sick the next day and will be locked from the achievement. So don’t get sick! If you can accomplish that, you will get the achievement on Spring 1 of year 2.
 
 =-----------------------------------------------------------=
 
@@ -772,10 +770,10 @@ Fatigue is a hidden stat your character has. It maxes at 100 and you start at 0.
 _Get the Party Picture._  
 **-=Missable=-**   
 
-This achievement is probably the easiest to miss and one of the most involved. It is given to you at the end of game where you have your farm evaluated by your father. If you went for pretty much everything in the achievement list in one playthrough, then you will probably already get this or at least be close. You pretty much need to be friends with everyone and do everything to get this picture, fill your fields (with grass), get most of the Power nuts, etc. The exact list of stuff you need for this are as follows:
+This achievement is probably the easiest to miss and one of the most involved. It is given to you at the end of the game where you have your farm evaluated by your father. If you went for pretty much everything in the achievement list in one playthrough, then you will probably already get this or at least be close. You pretty much need to be friends with everyone and do everything to get this picture, fill your fields (with grass), get most of the Power nuts, etc. The exact list of stuff you need for this is as follows:
 
 
-1.	Eat 6 (of the 10) red power nuts. The blue power nut does not count toward this total!  
+1.	Eat 6 (of the 9) red power nuts. The blue power nut does not count toward this total!
 2.	Must have 250 happiness.  
 3.	Your dog’s affection must be 200 or higher.  
 4.	Must be married and have a child.  
@@ -790,9 +788,9 @@ If even one of these is missed, you will not get the picture at your evaluation 
 
 =-----------------------------------------------------------=
 
-# Resources
+# 5) Resources
 
-Listed below are several resources that you can use to help you along. I have provided information about each of the marriage candidates and the rivals. As well as tables for crops, festival dates and even screenshots that can help lead you along the way. The hope is that you won't need to use too many guides or flip through other pages to find the information you are looking for. Keep in mind that I will not be adding the photo information on here as they are outlined in the achievement guide. If there is stuff I need to add or would be good, sent me a DM on the site and click my name link here to get to my page: [ikki5]( https://retroachievements.org/user/ikki5)  
+Listed below are several resources that you can use to help you along. I have provided information about each of the marriage candidates and the rivals, as well as tables for crops, festival dates and even screenshots that can help lead you along the way. The hope is that you won't need to use too many guides or flip through other pages to find the information you are looking for. Keep in mind that I will not be adding the photo information on here as they are outlined in the achievement guide. If there is anything you think I've missed or would be useful, send me a DM on the RA site. You can click my name link here to get to my RA page: [ikki5]( https://retroachievements.org/user/ikki5)  
 
 # Marriage Candidates 
 
@@ -828,7 +826,7 @@ The simplest way to get her affection up is really talking to her. This involves
 
 **Pink Heart:** Blue Feather. If you have her affection pretty much maxed, she will ask you if you love her, if you respond with “Yes,” she will ask you for a Blue Feather.
 
-**Special:** New Year’s Festival. If you out drink her at the festival, you will increase affection with her. You do not need any heart requirements, just out drink her, though I only observed this on Year 2.
+**Special:** New Year’s Festival. If you outdrink her at the festival, you will increase affection with her. You do not need any heart requirements, just outdrink her, though I only observed this on Year 2.
 
 ### Little Secrets/Tips
 
@@ -843,7 +841,7 @@ The simplest way to get her affection up is really talking to her. This involves
 ![Elli’s Sprite](https://i.imgur.com/gcUa04Q.png)  
 ![Elli's Portrait](https://i.imgur.com/T84HIEc.png)  
 
-Elli is a very kind girl who loves her sweets. She works at the bakery along side with Jeff who she can marry. She has short brown hair and brown eyes and dresses mostly in blue. She is a caring woman who cares a lot for her grandmother who will pass away at some point in the game.  
+Elli is a very kind girl who loves her sweets. She works at the bakery alongside with Jeff who she can marry. She has short brown hair and brown eyes and dresses mostly in blue. She is a caring woman who cares a lot for her grandmother who will pass away at some point in the game.  
 
 **Birthday:** Fall 1  
 
@@ -880,7 +878,7 @@ The simplest way to get her affection up is really talking to her. This involves
 ![Ann’s Sprite](https://i.imgur.com/SBYr2Eu.png)  
 ![Ann's Portrait](https://i.imgur.com/4hr2tAa.png)  
 
-Ann is one of the more energetic bachelorettes. She has red hair and blue eyes and dresses in overalls and is a tomboy. She loves animals and farm animals and is almost always in a good mood. She lives on the farm with her brother and father who seem to all get along. She will marry Cliff if you meet the requirements to do so.
+Ann is one of the more energetic bachelorettes. She has red hair and blue eyes, dresses in overalls, and is a tomboy. She loves animals and farm animals and is almost always in a good mood. She lives on the farm with her brother and father who seem to all get along. She will marry Cliff if you meet the requirements to do so.
 
 **Birthday:** Summer 14   
 
@@ -951,7 +949,7 @@ The simplest way to get her affection up is really talking to her. This involves
 ![Maria’s Sprite](https://i.imgur.com/ncJ3eY3.png)  
 ![Maria's Portrait](https://i.imgur.com/O87GsXo.png)  
 
-Maria is your shy girl in the game. She works in the library and is very quiet. She has longer brown hair with brown eyes and wears glasses. She is the mayor’s daughter and lives with them. Her favorite things to do are reading, listening to music, and studying. She will marry Harris if the requirements are met.
+Maria is your shy girl in the game. She works in the library and is very quiet. She has longer brown hair with brown eyes and wears glasses. She is the mayor’s daughter and lives with him. Her favorite things to do are reading, listening to music, and studying. She will marry Harris if the requirements are met.
 
 **Birthday:** Winter 11  
 
@@ -1037,7 +1035,7 @@ Jeff is typically pretty easy to find as he is your typical bar person and he wo
 
 **Rival Events**
 
-- Girl Talk: When you enter the Bakery, you will find Popuri and Elli talking and Elli is a bit jealous of Popuri and she says she wants to lose weight, Of course Cliff overhears and comes and says that he likes more "Plump girls."
+- Girl Talk: When you enter the Bakery, you will find Popuri and Elli talking. Elli is a bit jealous of Popuri and she says she wants to lose weight. Of course Cliff overhears and comes and says that he likes more "Plump girls."
 - One day in the mountains you will come across them both fishing and a big one gets away and splashes him, Elli tells him he looks younger with his bangs down.  
 
 ### Little Secrets/Tips
@@ -1224,7 +1222,7 @@ This tree is in the northeast of your farm, you need to get this treasure map be
 ***  
 
 ![Old Music Box]( https://i.imgur.com/Y2xS3x0.png)  
-The Music Box is in your field. The best way to do it, is look at where your doghouse and the tree where the treasure map was, draw straight lines and dig where the lines intersect.
+The Music Box is in your field. The best way to do it, is look at where your doghouse and the treasure map tree are, draw straight lines, and dig where the lines intersect.
 
 ***  
 
