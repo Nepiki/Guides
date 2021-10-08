@@ -180,7 +180,7 @@ Just as you did with the first chicken, you can buy all your chickens at Green R
 
 =-----------------------------------------------------------=
 
-![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138326.png) [Lively Livestock]( https://retroachievements.org/achievement/99527)
+![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138326.png) [Lively Livestock]( https://retroachievements.org/achievement/99527)  
 _Get and name your first barn animal._
 
 Just like with the chickens, you can buy sheep or cows from Green Ranch. They are more expensive, but their by products are worth more. Go to the ranch and buy either a sheep or a cow, name it, and you’ll get the achievement.
