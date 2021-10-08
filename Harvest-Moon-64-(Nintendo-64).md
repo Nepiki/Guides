@@ -113,14 +113,14 @@ So as for the “cleanup,” the achievements are as follows:
 _Have the Mayor show you around town and introduce you to the villagers._  
 **-=Missable=-**
 
-This one is rather simple and just takes time. When you first start, when you leave your house, the mayor will be standing there, and you will talk to him. He offers to show you around town, accept and watch it play out. It will use up a few in game hours but it is not big deal. You will be awarded the achievement when the event is over.
+This one is rather simple and just takes time. When you first start and leave your house, the mayor will be standing there, and you will talk to him. He offers to show you around town, accept and watch it play out. It will use up a few in game hours but it's not big deal. You will be awarded the achievement when the event is over.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138305.png) [Binge Watcher]( https://retroachievements.org/achievement/99514)  
 _Turn on the TV and watch all the channels._  
 
-Quick and easy, in your house is a TV, the most useful thing for me is the weather but there are multiple channels. Essentially turn it on and flip through them and you’ll be awarded the achievement.
+Quick and easy, in your house is a TV. The most useful thing for me is the weather, but there are multiple channels. Essentially turn it on and flip through them and you’ll be awarded the achievement.
 
 =-----------------------------------------------------------=
 
@@ -155,42 +155,42 @@ See [Master Farmer]( https://retroachievements.org/achievement/99519)
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138300.png) [Master Farmer]( https://retroachievements.org/achievement/99519)  
 _ Accumulate 100,000 Gold._  
 
-Money is something you will earn throughout the game as you ship crops and animal goods. Just save your money and plant as much as possible and get your farm animals when you can. The more you ship, the more cash you get, eventually you will earn the money achievements as you go.
+Money is something you will earn throughout the game as you ship crops and animal goods. Just save your money and plant as much as possible and get farm animals when you can. The more you ship, the more cash you get, and eventually you will earn the money achievements as you go.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138324.png) [Giddy Up!]( https://retroachievements.org/achievement/99529)   
 _ Get and name your horse._  
 
-This can be gotten as soon as your first day and I recommend getting it then as well. You will need to trigger the cutscene anyway if you wanted to get farm animals anyway. All you need to do is head to Green Ranch, leave your farm and go south, and once you get there, it will trigger the scene. Get it, name it and you’ll get the achievement.
+This can be gotten as soon as your first day. You will need to trigger the cutscene anyway if you wanted to get farm animals. All you need to do is head to Green Ranch. Leave your farm and go south, and once you get there, it will trigger the scene. Get it, name it, and you’ll get the achievement.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138327.png) [The Bird is the Word]( https://retroachievements.org/achievement/99526)  
 _ Get and name your first chicken._  
 
-This one is simply enough, head to Green Ranch and in the far-right building, enter it and you will have the option to buy livestock. Buy one, name it and you’ll get your achievement.
+This one is simple enough. Head to Green Ranch and enter the far-right building. You will have the option to buy livestock. Buy one, name it and you’ll get your achievement.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138295.png) [Poultry Farmer]( https://retroachievements.org/achievement/99449)  
 _ Acquire 6 Chickens._  
 
-Just as you did with the first chicken, you can buy all your chickens at Green Ranch until you have a coop with 6 chickens. Alternatively, if you want to save money, you can put them in the nesting spot in your coop and they will hatch into baby chicks over time. If you are buying, you can only get one chicken per day.  Also note, do not leave your chickens outside in the winter or rain, or you do not feed them,  they can become sick and eventually die. 
+Just as you did with the first chicken, you can buy all your chickens at Green Ranch until you have a coop with 6 chickens. Alternatively, if you want to save money, you can put them in the nesting spot in your coop and they will hatch into baby chicks over time. If you are buying, you can only get one chicken per day.  Also note, do not leave your chickens outside in the winter or rain, and if you do not feed them, they can become sick and eventually die. 
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138326.png) [Lively Livestock]( https://retroachievements.org/achievement/99527)
 _Get and name your first barn animal._
 
-Just like with the chickens, you can buy sheep or cows from Green Ranch. They are more expensive but their by products are worth more. Go to the ranch and buy either a sheep or a cow, name it and you’ll get the achievement.
+Just like with the chickens, you can buy sheep or cows from Green Ranch. They are more expensive, but their by products are worth more. Go to the ranch and buy either a sheep or a cow, name it, and you’ll get the achievement.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138323.png) [Livestock Farmer]( https://retroachievements.org/achievement/99530)  
 _Have a full barn of livestock._
 
-Like others, you can head to Green Ranch and buy all your livestock, either cows or sheep, or a mixture of them will work. I find it easier to buy them as raising them from birth can take a very long time and close to two months before the calf is born and grown to be able to produce products. Also, like with the chickens, do not leave them out in the rain, or in winter and always feed them. Also note that you can only buy sheep, only cows can be impregnated.
+Like others, you can head to Green Ranch and buy all your livestock, either cows or sheep, or a mixture of them will work. I find it easier to buy them, as raising them from birth can take a very long time and close to two months before the calf is born and grown to be able to produce products. Also, like with the chickens, do not leave them out in the rain, or in winter, and always feed them. Also note that you can only buy sheep, and only cows can be impregnated.
 
 =-----------------------------------------------------------=
 
@@ -204,7 +204,7 @@ Get 6 chickens and 8 barn animals either through buying or from eggs/impregnatin
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138318.png) [Cabbage Patch]( https://retroachievements.org/achievement/125547)  
 _Ship a total of 100 cabbages._
 
-Cabbages are a Spring crop and takes 9 days to grow and seeds cost 200G. They take a longest in the season to grow but once you ship 100, the achievement will trigger.
+Cabbages are a Spring crop and takes 9 days to grow and seeds cost 200G. They take the longest in the season to grow, but once you ship 100, the achievement will trigger.
 
 =-----------------------------------------------------------=
 
@@ -225,7 +225,7 @@ Turnips are a Spring crop that takes 4 days to grow and the seeds cost 200G.  Th
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138315.png) [Corn Maize]( https://retroachievements.org/achievement/125550)  
 _Ship a total of 100 corn._
 
-Corn is a Summer crop that will take 13 days to grow and costs 300G for the seeds. The nice thing about corn is that it will regrow after 4 days making. So while it takes a long time to grow, you will get a continuous crop of it until the end of the season. Ship 100 and you will get the achievement.
+Corn is a Summer crop that will take 13 days to grow and costs 300G for the seeds. The nice thing about corn is that it will regrow after 4 days. So while it takes a long time to grow, you will get a continuous crop of it until the end of the season. Ship 100 and you will get the achievement.
 
 =-----------------------------------------------------------=
 
@@ -239,28 +239,28 @@ Tomatoes are a Summer crop, they take 9 days to grow and cost 300G. Like corn, t
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138313.png) [Egg Head]( https://retroachievements.org/achievement/125552)  
 _Ship a total of 100 Eggplants._  
 
-Eggplant is a Fall crop and is really the only Fall crop there is. It takes 7 days to grow, costs 300G for the seeds. Like corn and tomatoes, it will regrow and will do so after 3 days. Ship 100 of these and the achievement will trigger.
+Eggplant is a Fall crop and is really the only Fall crop there is. It takes 7 days to grow and costs 300G for the seeds. Like corn and tomatoes, it will regrow and will do so after 3 days. Ship 100 of these and the achievement will trigger.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138312.png) [Very Berry]( https://retroachievements.org/achievement/125553)  
 _Ship a total of 100 Strawberries._  
 
-You can buy Strawberry seeds in Winter. However, to grow them you will need a greenhouse. They will only grow in the greenhouse. The seeds cost 500G to buy and they will grow after 5 days. They will not regrow. Once you grow and ship 100 of them, the achievement will trigger.
+You can buy Strawberry seeds in Winter. However, to grow them, you will need a greenhouse, as they will only grow there. The seeds cost 500G to buy and grow after 5 days. They will not regrow. Once you grow and ship 100 of them, the achievement will trigger.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138311.png) [Shipped for Breakfast]( https://retroachievements.org/achievement/125554)  
 _Ship a total of 100 Eggs._  
 
-For this, you will need chickens. The more chickens the more eggs you will get. You will get one egg per chicken each day. Keep in mind that not feeding them or leaving them out in the winter or rain, can make the sick and they will not produce any eggs. But once you get 100 and ship them, you will get the achievement.
+For this, you will need chickens. The more chickens you have, the more eggs you will get. You will get one egg per chicken each day. Keep in mind that not feeding them, or leaving them out in the winter or rain can make the sick and they will not produce any eggs. Once you get 100 and ship them, you will get the achievement.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138310.png) [Got Milk?]( https://retroachievements.org/achievement/125555)  
 _Ship a total of 100 Milk._  
 
-For Milk, you will need cows. Only cows can be milked, so don’t bother trying to milk your sheep (or other animals…). You can get 1 milk per day per cow so the more cows you get, the faster you will get this. Ship 100 milk over the course of your game and you will be awarded this achievement.
+For Milk, you will need cows. Only cows can be milked, so don’t bother trying to milk your sheep (or other animals…). You can get 1 milk per day per cow, so the more cows you get, the faster you will get this. Ship 100 milk over the course of your game and you will be awarded this achievement.
 
 =-----------------------------------------------------------=
 
@@ -310,7 +310,7 @@ All of your tools will upgrade over time as you use them. Essentially each tool 
 **Watering Can:** 600 uses to silver, another 600 to gold.  
 **Sickle:** 350 to silver, another 350 to gold.  
 
-It is possible to get your tools to gold at the start of the game in a single night. If you head to the bar, time will freeze and you can jus go keep using your tools in the bar and they will get use towards their level up. Once you run out of stamina, you can order water and then keep going. This is tedious and time consuming but can be done. Personally, I would just let them level up naturally as you play but if you want them right from the start, you can do this.
+It is possible to get your tools to gold at the start of the game in a single night. If you head to the bar, time will freeze and you can just keep using your tools in the bar and they will get used towards their level up. Once you run out of stamina, you can order water and then keep going. This is tedious and time consuming but can be done. Personally, I would just let them level up naturally as you play but if you want them right from the start, you can do this.
 
 =-----------------------------------------------------------=
 
@@ -318,9 +318,9 @@ It is possible to get your tools to gold at the start of the game in a single ni
 _Have your child and get your picture._   
 **-=Missable=-**   
 
-To have a child you need to get married and maintain your high affection with your wife for at least a month so keep giving her gifts every day to keep her happy (Pretty sad… you gotta buy her happiness). Over time, you can tell she is pregnant as she will change what she talks about and eventually she will tell you she is pregnant. During the pregnancy, you want to keep her happy, otherwise the pregnancy will last longer. After the pregnancy happens and your child is born, you will get the picture in your album and this achievement will trigger.
+To have a child, you need to get married and maintain your high affection with your wife for at least a month. So keep giving her gifts every day to keep her happy (Pretty sad… you gotta buy her happiness). Over time, you can tell she is pregnant as she will change what she talks about and eventually she will tell you she is pregnant. During the pregnancy, you want to keep her happy, otherwise the pregnancy will last longer. After the pregnancy happens and your child is born, you will get the picture in your album and this achievement will trigger.
 
-**Note:** While typically everyone gets married when they play this game, it is possible to not get married at all and have all your rivals get married taking all the girls making this achievement impossible to get!
+**Note:** While typically everyone gets married when they play this game, it is possible to not get married at all and have all your rivals get married, taking all the girls making this achievement impossible to get!
 
 =-----------------------------------------------------------=
 
@@ -336,11 +336,11 @@ _Get all the Power Nuts._
 
 Power Nuts, also called a Power Berry, in this game are what will increase your stamina. There are 10 in total, and they can be found in various locations and through various methods. The methods are as follows:
 
-**First Power Nut:** You will naturally get one just from working in your field with the hoe. It is random when it happens so there is no longing for it. It can be even on tilled soil though unless you are just grinding for it, it is better to just let it come naturally and only grind if it is the last one you are trying to get.
+**First Power Nut:** You will naturally get one just from working in your field with the hoe. It is random when it happens so there is no actual looking for it. It can even be on tilled soil, though unless you are just grinding for it, it is better to just let it come naturally and only grind if it is the last one you are trying to get.
 
 **Second Power Nut:** Fishing can get you a few. One is simply fish, one will eventually be caught.
 
-**Third Power Nut:** If you catch a large fish, there is a pond in the forest by the tent, if you throw it in, an Imp will appear and give you a Power Nut.
+**Third Power Nut:** If you catch a large fish, there is a pond in the forest by the tent. If you throw it in, an Imp will appear and give you a Power Nut.
 
 **Fourth Power Nut:** If you catch a small fish, you can go to the pond in the mountains by the tent and the Imp will give you another one. This one is blue and you will use less stamina in rainy weather after eating it.
 
@@ -350,40 +350,40 @@ Power Nuts, also called a Power Berry, in this game are what will increase your 
 
 **Seventh Power Nut:** During the Flower Festival, there is a travelling merchant dressed in black. You can buy one from him for 1000G
 
-**Eighth Power Nut:** If you go to the Harvest Goddess and offer a vegetable to her in the morning, she will ask you a question, answer with Strength and she will give you a Power Nut.
+**Eighth Power Nut:** If you go to the Harvest Goddess and offer a vegetable to her in the morning, she will ask you a question. Answer with Strength and she will give you a Power Nut.
 
-**Ninth Power Nut:** In Winter, the fisherman’s pond is froze, there is a rock, go and hit it with your golden hammer as hard as you can.
+**Ninth Power Nut:** In Winter, when the fisherman’s pond is froze, there is a rock. Go and hit it with your golden hammer as hard as you can.
 
-**Tenth Power Nut:** You will need to plant flowers in your fields, you will need at least 8, I just planted one patch. Eventually a boy named Stu will ask for one but have no money so he will offer you marbles, take them. Afterwards, if you have not already, go make friends with the harvest sprites. When you get their friendship up enough, the one at the table will offer to trade a Power Nut for the marbles.
+**Tenth Power Nut:** You will need to plant flowers in your fields. You will need at least 8 (I just planted one patch). Eventually a boy named Stu will ask for one but have no money. He will offer you marbles, so take them. Afterwards, if you have not already, go make friends with the harvest sprites. When you get their friendship up enough, the one at the table will offer to trade a Power Nut for the marbles.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138284.png) [Horse Track Gambling]( https://retroachievements.org/achievement/125557)  
 _Bet on one horse at the races and have it win (cannot enter your own horse)._   
 
-The Horse Race is on Spring 17 and Fall 28, there are two horse races a year. There are 3 races in the day and I recommend getting there earlier than later because if you get there later, you may only get to do 1 or 2 of the races. Simply talk to the people at the desk and you will be able to bet on horses. Now, you can only bet on one, otherwise the achievement will not work. So bet on the horse that you think will win and watch the race. If your horse wins, you will get the achievement. If you don’t get it, you can always reload the day or wait until next race. Also note that you cannot have your own horse in the race, there is a separate achievement for that.
+The Horse Race is on Spring 17 and Fall 28 (there are two horse races a year). There are 3 races in the day and I recommend getting there earlier than later because if you get there later, you may only get to do 1 or 2 of the races. Simply talk to the people at the desk and you will be able to bet on horses. Now, you can only bet on one, otherwise the achievement will not work. So bet on the horse that you think will win and watch the race. If your horse wins, you will get the achievement. If you don’t get it, you can always reload the day or wait until next race. Also note that you cannot have your own horse in the race, there is a separate achievement for that.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138270.png) [The Doggy Derby]( https://retroachievements.org/achievement/125559)  
 _Bet on one dog at the races and have it win (cannot enter your own dog)._   
 
-The Dog race is on Winter 19 and there is only one per year. Like the horse races, you bet on a dog, you watch it and if you win, you get the achievement. There are also 3 races throughout the day so it is recommended to be there early. 
+The Dog race is on Winter 19 and there is only one per year. Like the horse races, you bet on a dog, you watch it and if you win, you get the achievement. There are also 3 races throughout the day, so it is recommended to be there early. 
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138259.png) [A Luxury House]( https://retroachievements.org/achievement/125570)  
 _Fully expand your house as well as have your Baby Bed, Cabinet and cloth your table._   
 
-The Head Carpenter can be found in the mountains. You can speak with him, and he can give you extensions to your house for the cost of lumber and gold. You get the lumber from breaking tree stumps. For all the upgrades you are going to need over 2,000 lumber and will cost you close to 50,000G.  Just talk to him and choose the upgrades you want and eventually you will have all your upgrades. 
-Not only do you need these upgrades, but you also need the tablecloth and the run in your house. You will need to go to the Flower Bud Bakery and enter a raffle at the end of Winter. When you buy a cake there, you will be awarded a point and the raffle costs 10 points to enter. So buy your cakes! You can also get the carpet (or rug) from Rick’s for 3,000GP.
+The Head Carpenter can be found in the mountains. You can speak with him, and he can give you extensions to your house for the cost of lumber and gold. You get the lumber from breaking tree stumps. For all the upgrades, you are going to need over 2,000 lumber and will cost you close to 50,000G.  Just talk to him and choose the upgrades you want and eventually you will have all your upgrades. 
+Not only do you need these upgrades, but you also need the tablecloth and the rug in your house. You will need to go to the Flower Bud Bakery and enter a raffle at the end of Winter. When you buy a cake there, you will be awarded a point and the raffle costs 10 points to enter. So buy your cakes! You can also get the carpet (or rug) from Rick’s for 3,000GP.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138275.png) [Bountiful Offering]( https://retroachievements.org/achievement/125600)  
 _Make an offering to the Goddess._   
 
-To find the Harvest Goddess, you must go to the mountains, there is a clearing east of the carpenters with a little pond and a bridge in front of it. Bring a vegetable or an egg to the pond and throw it in. She should appear. The items must also be from your farm. Bought items or foraged items will not work.
+To find the Harvest Goddess, you must go to the mountains. There is a clearing east of the carpenters with a little pond and a bridge in front of it. Bring a vegetable or an egg to the pond and throw it in. She should appear. The items must also be from your farm. Bought items or foraged items will not work.
 
 =-----------------------------------------------------------=
 
@@ -391,7 +391,7 @@ To find the Harvest Goddess, you must go to the mountains, there is a clearing e
 _Feed Cliff when he arrives._   
 **-=Missable=-**  
 
-On Spring 18 of your first year. Cliff will be at your door with his bird, and he will be very hungry and ask for food. If you have some food on feed him, if you don’t HE DIES! (Just kidding). Feed him some berries or something and you will gain more affection from him and get the achievement. If you don’t, it will be lost forever until you start over again.
+On Spring 18 of your first year, Cliff will be at your door with his bird, and he will be very hungry and ask for food. If you have some food, feed him, if you don’t HE DIES! (Just kidding). Feed him some berries or something and you will gain more affection from him and get the achievement. If you don’t, it will be lost forever until you start over again.
 
 =-----------------------------------------------------------=
 
@@ -406,14 +406,14 @@ This one is simple, you cannot miss this unless you stop playing… but of cours
 _Have your farm evaluated in Year 3 and be allowed to continue._  
 **-=Missable=-**  
 
-This is very hard not to do and you would have to pretty not do anything all, no animals, no wife, if you don’t talk to people, don’t sell crops or make any money, then you will get the bad ending. This however, can basically lock you out from continuing and if your most recent save is today, well… I hope you have earlier ones or you are starting over. If you want to make sure you get past this, make sure you at least are married or have some animals.
+This is very hard not to do and you would have to pretty not do anything all, no animals, no wife, if you don’t talk to people, don’t sell crops or make any money, then you will get the bad ending. This, however, can basically lock you out from continuing and if your most recent save is today, well… I hope you have earlier ones or you are starting over. If you want to make sure you get past this, make sure you at least are married or have some animals.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138319.png) [Dog Lover]( https://retroachievements.org/achievement/125545)  
 _Max your dog's affection._  
 
-This will be done over time. The max affect for your dog is 255 and it starts with 0. To increase its affection, you can do so by picking it up, whistling for it and feeding it. Just do these things and it will be maxed at some point through your game. Keep in mind that if you hit your dog, you are a bad person and you will lose affection.
+This will be done over time. The max affection for your dog is 255 and it starts with 0. To increase its affection, you can do so by picking it up, whistling for it and feeding it. Just do these things and it will be maxed at some point through your game. Keep in mind that if you hit your dog, you are a bad person and you will lose affection.
 
 =-----------------------------------------------------------=
 
@@ -441,7 +441,7 @@ In Winter, you can go to the mines and to find the weathervane, you need to get 
 _Go with Ann to see the Pika Bunny and get the photo._  
 **-=Missable=-**  
 
-There are a few things that need to happen for this. First, you will need to get Ann’s affection up for this. Then in Winter on a day where it is snowing, so long as you are not married and Ann’s affection is at least 200, she will arrive at your house and ask you to follow her, you will see an event with the Pika Bunny. This will award you the picture giving you the achievement.
+There are a few things that need to happen for this. First, you will need to get Ann’s affection up. Then in Winter on a day where it is snowing, so long as you are not married and Ann’s affection is at least 200, she will arrive at your house and ask you to follow her, you will see an event with the Pika Bunny. This will award you the picture, giving you the achievement.
 
 =-----------------------------------------------------------=
 
@@ -481,7 +481,7 @@ This one is a little different as affection does not seem to be important here. 
 _Get married to Karen._  
 **-=Missable=-**  
 
-To get married to the girls, you need to have their affection up to a Pink Heart (208 affection), at Rick’s shop, you will see a blue feather appear for 980G. Buy the feather and give it to the girl you wish to marry and they should say yes. Now, this that said, not all the girls are the same, girl’s like Karen. With Karen you also will have needed to save the Vineyard (Outlined below). So to marry Karen, save the vineyard, get the affection up to pink heart and then give her the Blue Feather. This will trigger the marrying process and lead you to your achievement.
+To get married to the girls, you need to have their affection up to a Pink Heart (208 affection), at Rick’s shop, you will see a blue feather appear for 980G. Buy the feather and give it to the girl you wish to marry and they should say yes. Now, this being said, not all the girls are the same as Karen. With Karen you also will have needed to save the Vineyard (Outlined below). So to marry Karen, save the vineyard, get the affection up to pink heart and then give her the Blue Feather. This will trigger the marrying process and lead you to your achievement.
 
 **If you need her with Karen, refer to the section at the end of the guide for tips with Karen.**
 
@@ -547,7 +547,7 @@ This one will involve becoming friends with Jeff while keeping Elli’s affectio
 _Watch Popuri and Gray get married._    
 **-=Missable=-**   
 
-Like the others, this one involves getting your affection up with Gray while keeping it down with Popuri. Gray is a quiet guy, doesn’t talk much and he is kind of shy, even when he invites you to his wedding though he’ll drop hints and such when he is close in the bar. However, all you need to do is get his affection up and the best way I found for that is to using eggs. He also likes eggs which are easy enough to come by. If for some reason you don’t have them, he also likes you showing him his dog. Once his affection is up enough, he will show up on your farm and invite you to the wedding.
+Like the others, this one involves getting your affection up with Gray while keeping it down with Popuri. Gray is a quiet guy, doesn’t talk much and he is kind of shy, even when he invites you to his wedding though he’ll drop hints and such when he is close in the bar. However, all you need to do is get his affection up and the best way I found for that is to using eggs. He also likes eggs, which are easy enough to come by. If for some reason you don’t have them, he also likes you showing him his dog. Once his affection is up enough, he will show up on your farm and invite you to the wedding.
 
 =-----------------------------------------------------------=
 
@@ -555,7 +555,7 @@ Like the others, this one involves getting your affection up with Gray while kee
 _Watch Maria and Harris get married._    
 **-=Missable=-**   
 
-This one involves getting Harris’ affection up while keeping Maria’s down. Harris will tell you through out that he has feelings for her but doesn’t know what to do about them. The best way to get his affection up is to give him flowers and milk. I used milk myself since it was easier to get since I had cows. Once the affection is high enough, he will show up on your farm and invite you to the wedding.
+This one involves getting Harris’ affection up while keeping Maria’s down. Harris will tell you through out that he has feelings for her but doesn’t know what to do about them. The best way to get his affection up is to give him flowers and milk. I used milk myself because it was easier to get since I had cows. Once the affection is high enough, he will show up on your farm and invite you to the wedding.
 
 =-----------------------------------------------------------=
 
@@ -563,7 +563,7 @@ This one involves getting Harris’ affection up while keeping Maria’s down. H
 _Watch Karen and Kai get married._    
 **-=Missable=-**   
 
-This one involves a little more because you will need to save the vineyard first (outlined below) while getting Kai’s affection up. If you do not save the Vineyard, Karen will leave making this impossible so make sure you save the Vineyard. The best way I found to get Kai’s affection up is to give him berries. He seems to love them. Once his affection is high enough and the Vineyard is saved, Kai will show up to your farm and invite you to the wedding.
+This one involves a little more because you will need to save the vineyard first (outlined below) while getting Kai’s affection up. If you do not save the Vineyard, Karen will leave (making this impossible), so make sure you save the Vineyard. The best way I found to get Kai’s affection up is to give him berries. He seems to love them. Once his affection is high enough and the Vineyard is saved, Kai will show up to your farm and invite you to the wedding.
 
 =-----------------------------------------------------------=
 
@@ -591,7 +591,7 @@ Once Ann gets to about midway through green (Affection needs to be above 160), A
 _Receive a gift from Maria on your birthday and enter your house to view it!_    
 **-=Missable=-**   
 
-Once Maria gets to about midway through green (Affection needs to be above 160), Ann will arrive at your farm on your birthday and give you a gift, in Ann’s case, it is picture. Now, in this one, you will also need to enter your house before it triggers. Just enter your house and you will see the new pictureover by your bed. You cannot be married for this to happen and if you are below 160, you will get something else. If you are married, instead your current wife will bake you something.
+Once Maria gets to about midway through green (Affection needs to be above 160), Ann will arrive at your farm on your birthday and give you a gift, in Ann’s case, it is picture. Now, in this one, you will also need to enter your house before it triggers. Just enter your house and you will see the new picture over by your bed. You cannot be married for this to happen and if you are below 160, you will get something else. If you are married, instead your current wife will bake you something.
 
 **Note:** You can only get one gift on your birthday. If all the girls are over 160 affection, then the girl that shows up will be the one with the highest affection.
 
@@ -611,7 +611,7 @@ Once Elli gets to about midway through green (Affection needs to be above 160), 
 _Receive a gift from Karen on your birthday._    
 **-=Missable=-**   
 
-Once Karen Doesn’t need as high affections as the others, only 120 which is somewhere in the green range. Karen will arrive at your farm on your birthday and give you a gift, in Karen’s case, it is a Bracelet. You cannot be married for this to happen and if you are below 120, you will get something else. If you are married, instead your current wife will bake you something.
+Karen doesn’t need as high affections as the others. Only 120 (which is somewhere in the green range). Karen will arrive at your farm on your birthday and give you a gift. In Karen’s case, it is a Bracelet. You cannot be married for this to happen and if you are below 120, you will get something else. If you are married, instead your current wife will bake you something.
 
 **Note:** You can only get one gift on your birthday. If all the girls are over 160 affection, then the girl that shows up will be the one with the highest affection. Also, in Karen’s case, if she leaves because you did not save the vineyard, you cannot get their either.
 
@@ -620,14 +620,14 @@ Once Karen Doesn’t need as high affections as the others, only 120 which is so
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138271.png) [My Best Pal]( https://retroachievements.org/achievement/125558)    
 _Win the Dog race with your dog._    
 
-The Dog race is on Winter 19 and there is only one per year. Like in the previous achievement, it is a dog race however, you can enter your own dog in. All you need to do is enter it and win the race, you’ll get a picture, and the achievement will unlock. However, if you don’t train your dog, then he will not do well. The best ways to train him are pretty much raise his affection and feed him every day. His dish is outside the doghouse, put food in it, plus give him attention and he will perform better in the races.
+The Dog race is on Winter 19 and there is only one per year. Like in the previous achievement, it is a dog race. However, you can enter your own dog in it. All you need to do is enter it and win the race, you’ll get a picture, and the achievement will unlock. However, if you don’t train your dog, then he will not do well. The best ways to train him are pretty much raise his affection and feed him every day. His dish is outside the doghouse. Put food in it, plus give him attention and he will perform better in the races.
 
 =-----------------------------------------------------------=
 
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138269.png) [Off to the Races]( https://retroachievements.org/achievement/125560)  
 _Win the Horse Race with your horse and get the picture._    
 
-The Horse Race is on Spring 17 and Fall 28, there are two horse races a year. Like your dog, you can train your horse to do better in the race. Essentially you need to brush it, whistle to is and riding it a little each day will train it to perform better in the race. The horse also needs to be fully grown meaning this achievement cannot be done on the first race in the game. But, enter your horse after it is fully grown and trained, watch it win and you will be awarded the picture and the achievement.
+The Horse Race is on Spring 17 and Fall 28 (there are two horse races a year). Like your dog, you can train your horse to do better in the race. Essentially you need to brush it, whistle to is and riding it a little each day will train it to perform better in the race. The horse also needs to be fully grown meaning this achievement cannot be done on the first race in the game. But, enter your horse after it is fully grown and trained, watch it win and you will be awarded the picture and the achievement.
 
 =-----------------------------------------------------------=
 
