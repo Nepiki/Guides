@@ -427,7 +427,7 @@ Just like the dog, this will be done over time so long as you interact with your
 ![]( https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/138309.png) [Box Full of Music]( https://retroachievements.org/achievement/125556)  
 _Dig up the Music Box._  
 
-The Music Box is dug up in your field but can be hard to find if you don’t know where to look. First, you need to go to the tree on your farm and press A on it and you’ll find a treasure map, then you need to dig with your hoe and it is on the right side of the field from your dog house or if you go to the tree on your farm and go down. Really it is about the spot where the two intercept. You need to dig with your hoe at least 10 times and you will dig it up. Refer to the picture below.
+The Music Box is dug up in your field but can be hard to find if you don’t know where to look. First, you will need to go to the tree on your farm and interact with it using A. You’ll find a treasure map. It will lead you to the right side of the field from your dog house, another way being if you go to the tree on your farm and go down. Really it is about the spot where the two intercept. From there, you need to dig with your hoe at least 10 times and you will dig it up. Refer to the picture below.
 
 =-----------------------------------------------------------=
 
