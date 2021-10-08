@@ -1,14 +1,14 @@
 ## 1) Synopsis
 
 Set Difficulty: 5/10  
-Approximate time to Master: 60 hours or more.   
+Approximate Time to Master: 60 hours or more.   
 Minimum Number of Playthroughs Needed: Up to 5  
 Number of Missable Achievements: 32  
 Does Difficulty Affect Achievements?: N/A  
 
 ## 2) Introduction
 
-Harvest Moon 64 can be argued to be one of the best Harvest Moon games out there. The primary goal is to raise a farm and do well enough by year 3 to be allowed to continue. In the game you will grow crops, raise farm animals, you can get married and have kids and compete in festivals. Along with various other side quests in the game.
+Harvest Moon 64 can be argued to be one of the best Harvest Moon games out there. The primary goal is to raise a farm and do well enough by Year 3 to be allowed to continue. In the game you will grow crops, raise farm animals, get married, have kids, and compete in festivals (along with various other side quests in the game).
 
 Due to this game having so many mechanics for dating and such, I will be including some information at the end of this guide for each of the marriage candidates and other information.
 
@@ -16,7 +16,7 @@ Due to this game having so many mechanics for dating and such, I will be includi
 
 **Step 1**
 
-The first step is the play the game. There is a lot to this game, it is a game to be played over a long period of time The following achievements you should be able to get through normal play through, if you miss them before your evaluation, you should be able to get them as you continue. They are as follows:
+The first step is the play the game. There is a lot to this game, as it is a game to be played over a long period of time. You should be able to get the following achievements through normal playthrough. If you miss them before your evaluation, you should be able to get them as you continue. They are as follows:
 
 [Town Introduction]( https://retroachievements.org/achievement/99513)  **-=Missable=-**  
 [Binge Watcher]( https://retroachievements.org/achievement/99514)  
