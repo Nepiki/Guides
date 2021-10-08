@@ -113,7 +113,7 @@ So as for the “cleanup,” the achievements are as follows:
 _Have the Mayor show you around town and introduce you to the villagers._  
 **-=Missable=-**
 
-This one is rather simple and just takes time. When you first start and leave your house, the mayor will be standing there, and you will talk to him. He offers to show you around town, accept and watch it play out. It will use up a few in game hours but it's not big deal. You will be awarded the achievement when the event is over.
+This one is rather simple and just takes time. When you first start and leave your house, the mayor will be standing there, and you will talk to him. He offers to show you around town, accept and watch it play out. It will use up a few in game hours but it's not a big deal. You will be awarded the achievement when the event is over.
 
 =-----------------------------------------------------------=
 
