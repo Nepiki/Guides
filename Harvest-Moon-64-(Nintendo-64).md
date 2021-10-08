@@ -1,3 +1,5 @@
+Achievement Guide Author: _ikki5_
+
 ## 1) Synopsis
 
 Set Difficulty: 5/10  
