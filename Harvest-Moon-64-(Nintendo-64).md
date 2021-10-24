@@ -812,6 +812,7 @@ The simplest way to get her affection up is really talking to her. This involves
 - Nearly every night you can find her in the bar.  
 
 **Gifts**
+
 |Loves|Likes|**Avoid**|
 |:--|:--:|:--:|
 |Strawberries|Your Dog|Fish|
@@ -853,6 +854,7 @@ The simplest way to get her affection up is really talking to her. This involves
 -Sundays she is gone, just gone. Don't even try to look for her, if you do find her, let me know where please.  
 
 **Gifts**
+
 |Loves|Likes|**Avoid**|
 |:--|:--:|:--:|
 |Eggs|Your Dog|Bugs|
@@ -891,6 +893,7 @@ The simplest way to get her affection up is really talking to her. This involves
 **Note:** Sometimes she will appear in random locations but generally, the above spots are where you will find her.   
 
 **Gifts**
+
 |Loves|Likes|**Avoid**|
 |:--|:--:|:--:|
 |CHICKENS!|Corn|Bugs|
@@ -926,6 +929,7 @@ The simplest way to get her affection up is really talking to her. This involves
 - Friday mornings, you can find her at the Moon Restaurant.  
 
 **Gifts**
+
 |Loves|Likes|**Avoid**|
 |:--|:--:|:--:|
 |Pink Cat Mint Flowers|Flowers|Bugs|
@@ -960,6 +964,7 @@ The simplest way to get her affection up is really talking to her. This involves
 - When the Library is closed, she will either be beside the church or in the mountains by the carpenter's home.  
 
 **Gifts**
+
 |Loves|Likes|**Avoid**|
 |:--|:--:|:--:|
 |Cabbage|Bugs|Your Dog|
@@ -995,6 +1000,7 @@ Cliff is more your nomad/adventurer type. If you are looking for him, his common
 - At night, you can find him usually in the bar.
 
 **Gifts**
+
 |Loves|Likes|**Avoid**|
 |:--|:--:|:--:|
 | |Eggs| |
@@ -1029,6 +1035,7 @@ Jeff is typically pretty easy to find as he is your typical bar person and he wo
 - On Monday he is in the mountains fishing if it is fishing, if raining his location is unknown.
 
 **Gifts**
+
 |Loves|Likes|**Avoid**|
 |:--|:--:|:--:|
 | |Eggs| |
@@ -1061,6 +1068,7 @@ I found Gray to be one of the easiest to find and his schedule easiest, mostly b
 - Evenings you can find him in the bar.
 
 **Gifts**
+
 |Loves|Likes|**Avoid**|
 |:--|:--:|:--:|
 | |Eggs| |
@@ -1091,6 +1099,7 @@ Harris can be a little annoying as he seems to not be around many places and wel
 - At night you can find him in the bar.
 
 **Gifts**
+
 |Loves|Likes|**Avoid**|
 |:--|:--:|:--:|
 | Potatoes| Mostly anything else | |
@@ -1122,6 +1131,7 @@ Kai is another easy one to find, he is really either at the bar or the vineyard.
 - At night you can find him in the bar.
 
 **Gifts**
+
 |Loves|Likes|**Avoid**|
 |:--|:--:|:--:|
 | | Verry Berries | |
@@ -1146,6 +1156,7 @@ Kai is another easy one to find, he is really either at the bar or the vineyard.
 
 ## Crops
 Listed below are the crops you can purchase and grow to sell on your farm
+
 |Crop|Season|Seed Price|Days to Grow|Regrow?|Sell Price|
 |:--|:--:|:--:|:--:|:--:|:--:|
 | Turnip | Spring | 200G | 4 Days | No | 60G|
@@ -1159,6 +1170,7 @@ Listed below are the crops you can purchase and grow to sell on your farm
 
 ## Mountain Forging  and Mine  
 Please note that the mine is only open during the winter. 
+
 |Item|Season|Price|
 |:--|:--:|:--:|
 | Edible Herbs | Any Except Winter | 30G |
@@ -1175,6 +1187,7 @@ Please note that the mine is only open during the winter.
 
 ## Barn Animals  
 While yes, the sell prices for the Cows and Sheep are higher than the buy prices, keep in mind these are fully grown animals. When you buy them, they are not fully grown and you will need to wait close to a month for them to be fully grown and producing products.
+
 |Name|Animal Cost|Product|Sell Price|
 |:--|:--:|:--:|:--:|
 |Chicken|1,500G| |500G|
@@ -1189,7 +1202,8 @@ While yes, the sell prices for the Cows and Sheep are higher than the buy prices
 | | |Quality Wool|1800G|
 
 ## Festivals  
-  |Season|Name|Date|
+
+|Season|Name|Date|
 |:--|:--:|:--:|
 |Spring|New Years Festival|Day 1|
 | |Sowing Festival|Day 8|
