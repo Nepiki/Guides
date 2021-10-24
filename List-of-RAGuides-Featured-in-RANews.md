@@ -20,8 +20,8 @@ You can also find an on-site hub containing all games [here](https://retroachiev
 |[April (104)](https://news.retroachievements.org/issues/2021-04/)|[Final Fantasy III (J) (NES)](https://retroachievements.org/game/5553)|[RANews](https://news.retroachievements.org/issues/2021-04/guide.html)|[RAGuide](Final-Fantasy-III-(J)-(NES))|
 |[May (105)](https://news.retroachievements.org/issues/2021-05/)|[Pokemon Snap (Nintendo 64)](https://retroachievements.org/game/10155)|[RANews](https://news.retroachievements.org/issues/2021-05/guide.html)|[RAGuide](Pokemon-Snap-(Nintendo-64))|
 |[June (106)](https://news.retroachievements.org/issues/2021-06/)|[Bomberman Quest](https://retroachievements.org/game/5108)|[RANews](https://news.retroachievements.org/issues/2021-06/guide.html)|[RAGuide](Bomberman-Quest-(Game-Boy-Color))|
-|[July (107)](https://news.retroachievements.org/issues/2021-07/)|Blaster Master|RANews|RAGuide|
-|[August (108)](https://news.retroachievements.org/issues/2021-08/)|Kid Icarus|RANews|RAGuide|
+|[July (107)](https://news.retroachievements.org/issues/2021-07/)|[Blaster Master](https://retroachievements.org/game/1459)|[RANews](https://news.retroachievements.org/issues/2021-07/guide.html)|[RAGuide](Blaster-Master-(NES))|
+|[August (108)](https://news.retroachievements.org/issues/2021-08/)|[Kid Icarus](https://retroachievements.org/game/1478)|[RANews](https://news.retroachievements.org/issues/2021-08/guide.html)|[RAGuide](Kid-Icarus-(NES))|
 |[September (109)](https://news.retroachievements.org/issues/2021-09/)|[Karate (Atari 2600)](https://retroachievements.org/game/17461)|[RANews](https://news.retroachievements.org/issues/2021-09/guide.html)|[RAGuide](Karate-(Atari-2600))|
 |[October (110)](https://news.retroachievements.org/issues/2021-10/)|[\~Prototype\~ Biohazard 2 \| Resident Evil 1.5 (PlayStation)](https://retroachievements.org/game/17454)|[RANews](https://news.retroachievements.org/issues/2021-10/guide.html)|[RAGuide](Resident-Evil-1.5-(Prototype)-(PlayStation))|
 |November (111)|\*TBA\*|RANews|RAGuide|
