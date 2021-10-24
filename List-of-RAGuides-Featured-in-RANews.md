@@ -23,6 +23,6 @@ You can also find an on-site hub containing all games [here](https://retroachiev
 |[July (107)](https://news.retroachievements.org/issues/2021-07/)|Blaster Master|RANews|RAGuide|
 |[August (108)](https://news.retroachievements.org/issues/2021-08/)|Kid Icarus|RANews|RAGuide|
 |[September (109)](https://news.retroachievements.org/issues/2021-09/)|[Karate (Atari 2600)](https://retroachievements.org/game/17461)|[RANews](https://news.retroachievements.org/issues/2021-09/guide.html)|[RAGuide](Karate-(Atari-2600))|
-|October (110)|\*TBA\*|RANews|RAGuide|
+|[October (110)](https://news.retroachievements.org/issues/2021-10/)|[\~Prototype\~ Biohazard 2 \| Resident Evil 1.5 (PlayStation)](https://retroachievements.org/game/17454) | [RANews](https://news.retroachievements.org/issues/2021-10/guide.html)|[RAGuide](Resident-Evil-1.5-(Prototype)-(PlayStation))|
 |November (111)|\*TBA\*|RANews|RAGuide|
 |December (112)|\*TBA\*|RANews|RAGuide|
