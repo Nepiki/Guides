@@ -368,7 +368,16 @@ There are four chests that require the Glasses (Crystal Demon, cave 6-D) to be f
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/112377.png) [Shovel Scavenger (25)]( https://retroachievements.org/achievement/102731)   
 _Find all 8 buried items!_
 
-After obtaining the shovel (Digadug, 2-E), there are a total of eight places where you can dig up hidden stuff: 1-G (inside the dark cave), 4-C, 4-D, 6-B, 6-C, 6-G, 7-E (inside the water area, get there with the Teleport Armour).
+After obtaining the shovel (Digadug, 2-E), there are a total of eight places where you can dig up hidden stuff:  
+
+ - 1-G [Rubber] (inside the dark cave)
+ - 4-A [Fire Up]
+ - 4-C [Explosive Core]
+ - 4-D [Fire Up]
+ - 6-C [Ice]
+ - 6-B [Skull]
+ - 7-E [Boomerang] (inside the water area, get there with the Teleport Armour)
+ - 6-G [Poison Ivy]
 
 ***
 
