@@ -35,6 +35,7 @@
 ## Sony
 
 - [PlayStation](PlayStation)
+- [PlayStation Portable](PlayStation-Portable)
 
 
 ## NEC
