@@ -1,4 +1,3 @@
-# How to get all monsters
 ## Introduction
 The purpose of this guide is to help to get each monster in Monster Rancher Advance 2, because the information is spread between Gamefaqs, old posts in Neoseeker or in websites only accesible using wayback machine.
 ## Some notes
