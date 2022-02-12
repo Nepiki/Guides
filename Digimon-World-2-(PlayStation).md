@@ -72,4 +72,4 @@ Work in progress...
 
 ---
 ### Credits
-Achievement Guide by shauntmw
+Achievement Guide by ~Zero (shauntmw)
