@@ -36,16 +36,16 @@ Image | Descriptions  | Remarks
 
 - Any team is fine. It only affects the beginning of the game.
 - Be sure to check the `Digimon Center` every time you progress thru the story, and try to trade them as soon as possible.
-- When you reach `Disk Domain`, be prepared for the "Angemon's Gift" missable achievement.
-- When you reach `BIOS Domain`, be prepared for the "MetalGreymon" missable achivement.
-- The `BIOS Domain` is also your final chance at trading the `ToyAgumon` for `SnowAgumon` missable achievement.
+- When you reach `Disk Domain`, be prepared for the "**Angemon's Gift**" missable achievement.
+- When you reach `BIOS Domain`, be prepared for the "**MetalGreymon**" missable achivement.
+- The `BIOS Domain` is also your final chance at trading the `ToyAgumon` for the "**So Many Different Agumon**" missable achievement.
     - This achievement can be a problem if you did not join `Gold Hawk` (as you need to recruit `ToyAgumon`).
     - Save up the `Toy Car` you find and use those. You can find more in `BIOS Domain`.
     - Or if you don't care about keeping the `SnowAgumon`, you can use the `Toy Plane` that you received from an NPC, then reload from save.
-- When you reach `Device Dome`, you will gain access to buy the `PegasusEG1`. Keep this engine and fully upgrade it before selling, for the "Pegasus Engine" missable achievement.
-- When you reach `File Island`, the first domain there is `Power Domain`. Be prepared for the "Jurassic Park" achievement.
+- When you reach `Device Dome`, you will gain access to buy the `PegasusEG1`. Keep this engine and fully upgrade it before selling, for the "**Pegasus Engine**" missable achievement.
+- When you reach `File Island`, the first domain there is `Power Domain`. Be prepared for the "**Jurassic Park**" achievement.
     - If you don't have a team, just recruit `Monochromon, Greymon and Tyrannomon` in this domain, train them up a few levels, bring some healings and you should be fine. The boss is only 1 single `M-Tyrannomon`.
-- When you reach `Core Tower`, make sure you are prepared for the missable "Proven Your Worth" achievement.
+- When you reach `Core Tower`, make sure you are prepared for the missable "**Proven Your Worth**" achievement.
 - Continue until you beat the game, watch the credits, and you will be back to the world. Complete the rest of your achievements via the final `Tera Domain` grind.
 - The final grind will be recruiting every Digimons listed in the achievements set. Most can be found in the `Tera Domain`. Some of them are very hard or impossible to recruit, so manually digivolving them might be easier.
 - Tips for `I-dramon`
