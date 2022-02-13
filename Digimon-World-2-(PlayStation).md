@@ -140,12 +140,6 @@ Image | Descriptions  | Image | Descriptions | Image | Descriptions
 ### Digivolution Achievements
 ---
 
-Most of the Mega Digimons can be found and recruited in `Tera Domain`, which will open up post-endgame.
-Some are easier than others, and some will require a little bit more luck.
-Use MetalKid's Digipedia to find out where they are.
-
-I have a few notable mentions here, they are pretty much impossible/near-impossible to recruit, so digivolving them might be easier.
-
 ### The Veemon -tree
 
 Image | Descriptions  | Image | Descriptions | Image | Descriptions 
@@ -188,6 +182,9 @@ Steps for obtaining all 3 achievements above:
 - `Okuwamon` will digivolve into `Diaboromon` (achievement pop!).
 
 ### Rest of the Megas
+
+They can all be found in the `Tera Domain` that opens up after endgame.
+You can find where they are in MetalKid's Digipedia. Some are easier, and some requires a bit more luck.
 
 Image | Descriptions  | Image | Descriptions | Image | Descriptions 
 ----- | ------------- | ----- | ------------ | ----- | ------------
