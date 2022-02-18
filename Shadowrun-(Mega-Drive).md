@@ -14,33 +14,38 @@ Achievement Guide for Shadowrun (1994) for the Mega Drive (aka. Sega Genesis).
 
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72997.png) | **SLOT OFF, FRAG-FACE!!**<br>_Enter Matchsticks alone and unarmed and defeat Ito Ogami and his thugs using just your fists (hand razors and spurs are ok)_ | He can only be killed once.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73021.png) | **You and Your Johnson**<br>_Take on a job for every Johnson on the game in one play session_ | One of the Johnson will be unavailable after some point in the game.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73023.png) | **Address Book**<br>_Acquire All Contacts_ | One of the Johnson will be unavailable after some point in the game. You need to get his contact before that.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73028.png) | **Bad Security**<br>_Obtain corporate security badges_ | One of the Johnson will be unavailable after some point in the game. You can only get this item from his contact.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214234.png) | **SLOT OFF, FRAG-FACE!!**<br>_Enter Matchsticks alone and unarmed and defeat Ito Ogami and his thugs using just your fists (hand razors and spurs are ok)_ | He can only be killed once.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214263.png) | **You and Your Johnson**<br>_Take on a job for every Johnson on the game in one play session_ | One of the Johnson will be unavailable after some point in the game.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214268.png) | **My Little Black Book**<br>_Acquire All Contacts_ | One of the Johnson will be unavailable after some point in the game. You need to get his contact before that.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214258.png) | **Bad Security**<br>_Obtain corporate security badges_ | One of the Johnson will be unavailable after some point in the game. You can only get this item from his contact.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214288.png) | **The Day May Come When the Courage of Men Fails**<br>_Get into the Mitsuhama building, rescue Aragorn and get out without raising an alert or using invisibility_ | This is a story mission with special requirements.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214289.png) | **Kept You Waiting, Huh?**<br>_Get into the Fuchi building, get the Cyber-Heart and get out without raising an alert or using invisibility_ | This is a story mission with special requirements.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214290.png) | **Safe and Sound**<br>_Get into Renraku Office and get the map without raising an alert or using invisibility and escape in one piece_ | This is a story mission with special requirements.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214291.png) | **Get Busy Living Or Get Busy Dying**<br>_Get into Hollywood Correctional, rescue Ilene and get out without raising an alert or using invisibility_ | This is a story mission with special requirements.
 
 ---
 # Overview
 
 ### The achievements can be grouped into a few types.
 
-- Story Achievements (these cannot be missed.)
-- Side Quests (There are 2 side quests in the game. They can be attempted at any time in the game.)
-- Shadowruns related
-- Matrix related
-- Other miscellaneous types (Like collect all contacts, buy specific items, etc.)
+- Story Achievements (these cannot be missed).
+- Side Quests (There are 2 side quests in the game. They can be attempted at any time in the game).
+- Shadowruns related.
+- Matrix related.
+- Other miscellaneous types (Like collect all contacts, buy specific items, etc.).
 
-### General Roadmap / Walkthrough
+### General Roadmap / Missable Achievements Walkthrough
 
 - Any starting class is fine, it only affects the very early stage of the game. You can always hire companions to complement your team.
 - Hire any shadowrunner for the short term, then sell their items for easy money.
-- Buy the `Predator Pistol` and `Armor Jacket` as soon as possible.
+- Grind `Gunderson` and buy the `Predator Pistol` and `Armor Jacket` as soon as possible.
 - Try to raise your `Reputation` to 5, then buy the `Ork Armband` as soon as possible.
 - Try to raise your `Electronics` to 5. Buy `Invisibility` (or hire `Ricky`) to repeat early Corp Runs from `Mortimer Reed`.
-- If you are feeling adventurous, you can try to complete the `Stark` side quest and get him to join your party.
-- Buy the contact from `Mortimer Reed`, and save up 20,000¥ and buy the `Lvl 5 Maglock Passkey`.
+- Next, target to raise your `Electronics`, `Charisma`, and `Reputation` to 6. And earn the money to buy `Electronic Kit` and `Security Pass` (aka. Corp badges).
+- You should be able to complete all the stealth runs at this point. You don't have to do it now, but just keep this in mind: Every main mission that involves a corp run, there is a stealth achievement for it.
+- You should already have a permanent team by now, let them stay in the team while grinding so they can earn karma too.
 - You should be able to clear all the missable achievements by this point. Make sure to do it before proceeding too far into the main plot!
-- Grind mid-level Corp Runs (from `Celeb` or `Julius`), and save up to buy the `Fuchi Cyber-5` Cyberdeck. You should have a full permanent party member by now, let them stay in party to earn karma for them too.
+- Grind mid-level Corp Runs (from `Celeb` or `Julius`), and save up to buy the `Fuchi Cyber-5` Cyberdeck.
 - Depending on your confidence level, either repeat the mid-level Matrix Run or the Renraku Corp Run from `Celeb` to earn money and karma while upgrading your deck.
 - Focus on the Cyberdeck's `Response` and `Masking`. Once you are confident enough, start grinding high-level Matrix Run (from `Celeb`) for money and karma. You will need a lot of money and karma to complete all the achievements.
 - Just grind the high-level Matrix Run until you are feeling confident to finish the main plot of the game. It is up to you whether to grind for all the achievements first, or finish the game first and come back. If you think the grind is too much, you could grind just enough for the most expensive item in the game (the `Fairlight Excalibur`), then just save-buy-load for the rest of the items.
@@ -48,26 +53,44 @@ Image | Descriptions  | Remarks
 ---
 # Story Achievements
 
-You will earn these just by progressing through the story. With the exception of ***TWO*** special ones listed first.
+You will earn these just by progressing through the story. With the exception of ***SIX*** special ones listed first.
 
 ### Special Story Achievements
 
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72997.png) | **SLOT OFF, FRAG-FACE!!**<br>_Enter Matchsticks alone and unarmed and defeat Ito Ogami and his thugs using just your fists (hand razors and spurs are ok)_ | **:warning::warning: MISSABLE :warning::warning:**<br>Make a save before confronting him in the `Matchsticks`. Arm yourself with `Spurs`, dismiss all your companions, and then go in and punch everyone to death. Just load your game after that.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73013.png) | **This One's Personal**<br>_Go to Elysia's Tomb alone and unarmed and defeat Thon and his thugs using only your fists (hand razors and spurs are ok)_ | This is the final boss, you can always reload the game after you beat him, so I wouldn't consider this missable.<br><br>- Get the `Spurs` if you do not already have it.<br>- Wear the best armor you can.<br>- Bring a full inventory of `Medkits`, and spam heal every time your HP drop below half.<br>- Having high `Body`, `Strength`, and `Melee Combat` is a must.<br>- Having high `Biotech` helps on healing.<br>- Maxing these stats will make it very easy.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214234.png) | **SLOT OFF, FRAG-FACE!!**<br>_Enter Matchsticks alone and unarmed and defeat Ito Ogami and his thugs using just your fists (hand razors and spurs are ok)_ | **:warning::warning: MISSABLE :warning::warning:**<br>Make a save before confronting him in the `Matchsticks`. Arm yourself with `Spurs`, dismiss all your companions, and then go in and punch everyone to death. Just load your game after that.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214250.png) | **This One's Personal**<br>_Go to Elysia's Tomb alone and unarmed and defeat Thon and his thugs using only your fists (hand razors and spurs are ok)_ | This is the final boss, you can always reload the game after you beat him, so I wouldn't consider this missable.<br><br>- Get the `Spurs` if you do not already have it.<br>- Wear the best armor you can.<br>- Bring a full inventory of `Medkits`, and spam heal every time your HP drop below half.<br>- Having high `Body`, `Strength`, and `Melee Combat` is a must.<br>- Having high `Biotech` helps on healing.<br>- Maxing these stats will make it very easy.
+
+### Stealth Achievements for Story Missions
+
+When progressing thru the story, there are some missions require you to enter a corp run to extract either a package or a person. Below achievements are unlocked if you managed to complete these without triggering any alarm.
+
+Tips:
+- Raise your `Electronics` and `Charisma` to 6.
+- Buy `Electronic Kit`, or better yet, `Level 5 Maglock Passkey`.
+- Buy `Security Pass` (aka Corp Badges).
+- Save before entering, and reload a save if you failed.
+- Just choose "Walk Away" for every random encounters.
+
+Image | Descriptions  | Remarks 
+----- | ------------- | --------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214288.png) | **The Day May Come When the Courage of Men Fails**<br>_Get into the Mitsuhama building, rescue Aragorn and get out without raising an alert or using invisibility_ | **:warning::warning: MISSABLE :warning::warning:**<br>Part of a main quest.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214289.png) | **Kept You Waiting, Huh?**<br>_Get into the Fuchi building, get the Cyber-Heart and get out without raising an alert or using invisibility_ | **:warning::warning: MISSABLE :warning::warning:**<br>Part of the `Stark` side quest.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214290.png) | **Safe and Sound**<br>_Get into Renraku Office and get the map without raising an alert or using invisibility and escape in one piece_ | **:warning::warning: MISSABLE :warning::warning:**<br>Part of a main quest. Note that when opening the safe containing the package, the alarm will be forcibly triggered. Don't worry about it, just be sure to be stealthy on your way to the safe.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214291.png) | **Get Busy Living Or Get Busy Dying**<br>_Get into Hollywood Correctional, rescue Ilene and get out without raising an alert or using invisibility_ | **:warning::warning: MISSABLE :warning::warning:**<br>Part of a main quest. Safer to just buy your way in. Cheapest is to buy from `Sgt. Chillicutt`.
 
 ### Normal Story Achievements
 
 Image | Descriptions  | Image | Descriptions | Image | Descriptions 
 ----- | ------------- | ----- | ------------ | ----- | ------------
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72990.png) | **On the Trail**<br>_Recover Michael's Stuff from Stoker_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72991.png) | **Delivering the News**<br>_Tell Dr Haversheen of Michael's Death_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72992.png) | **Tabatha Shale**<br>_Track down Tabatha_
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72993.png) | **If Kung Lao Was a Pimp**<br>_Find out what Boris Erascoe knows about Michael_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72994.png) | **The Horse's Mouth**<br>_Meet Caleb Brightmore and find out what he knows_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72995.png) | **Barfight**<br>_Hunt down Mako Sochou and make him to squeal_
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72996.png) | **Retirement**<br>_Find and kill Ito Ogami and his thugs_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72998.png) | **The Lion's Den**<br>_Obtain the map overlay from Renraku and escape with your hide intact_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/72999.png) | **He's One of Them Rangers**<br>_Meet David Owlfeather and make a deal with him_
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73000.png) | **The Day the Courage of Men Fails**<br>_Rescue Owlfearher's drek-head brother and return to David_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73003.png) | **Horny**<br>_Obtain a gargoyle horn and return it to the most wise one_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73004.png) | **Sit, Boy!**<br>_Obtain a hellhound pelt and take it back to the wise guy_
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73005.png) | **Licourtrix**<br>_Befriend a feathered serpent_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73006.png) | **The Face of Your Enemy**<br>_Return to Spirit Eyes one last time to learn the identity of Michael's killer_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73007.png) | **Santa**<br>_Complete the Trial of Friendship_
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73008.png) | **Jailbreak**<br>_Rescue Ilene Two-Fists to complete the Trial of Fellowship_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73009.png) | **Frosty the Snowelf**<br>_Complete the 'Trial' of Faithfulness and meet Frosty_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73010.png) | **The Puppet Master**<br>_Meet the man who's been pulling the strings_
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73011.png) | **Sniffing Out a Rat**<br>_Locate the Landmark Map_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73012.png) | **A Crushing Defeat**<br>_Defeat Thon and avenge your brother_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214228.png) | **On the Trail**<br>_Recover Michael's Stuff from Stoker_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214229.png) | **Doctor, Doctor, Gimme the News**<br>_Tell Dr Haversheen of Michael's Death_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214230.png) | **Tabatha Shale**<br>_Track down Tabatha_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214231.png) | **If Kung Lao Was a Pimp**<br>_Find out what Boris Erascoe knows about Michael_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214232.png) | **The Horse's Mouth**<br>_Meet Caleb Brightmore and find out what he knows_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214233.png) | **Barfight**<br>_Hunt down Mako Sochou and make him to squeal_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214292.png) | **Retirement**<br>_Find and kill Ito Ogami and his thugs_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214235.png) | **The Lion's Den**<br>_Obtain the map overlay from Renraku and escape with your hide intact_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214236.png) | **He's One of Them Rangers**<br>_Meet David Owlfeather and make a deal with him_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214237.png) | **Return of the King**<br>_Rescue Owlfearher's drek-head brother and return to David_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214240.png) | **Horny**<br>_Obtain a gargoyle horn and return it to the most wise one_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214241.png) | **Sit, Boy!**<br>_Obtain a hellhound pelt and take it back to the wise guy_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214242.png) | **I Kill Where I Wish and None Dare Resist**<br>_Befriend a feathered serpent_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214243.png) | **The Face of Your Enemy**<br>_Return to Spirit Eyes one last time to learn the identity of Michael's killer_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214244.png) | **Making a List, Checking it Twice**<br>_Complete the Trial of Friendship_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214245.png) | **I'm Telling You, These Walls Are Funny**<br>_Rescue Ilene Two-Fists to complete the Trial of Fellowship_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214246.png) | **Frosty the Snowelf**<br>_Complete the 'Trial' of Faithfulness and meet Frosty_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214247.png) | **The Puppet Master**<br>_Meet the man who's been pulling the strings_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214248.png) | **Sniffing Out a Rat**<br>_Locate the Landmark Map_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214249.png) | **A Crushing Defeat**<br>_Defeat Thon and avenge your brother_
 
 ### Stark Side Quest
 
@@ -151,5 +174,8 @@ Image | Descriptions  | Remarks
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73032.png) | **Yer a Wizard, Joshua**<br>_Learn all spells as Joshua or any Shadowrunner_ | Buy all the level 1 spells from the magic shops, including from `Merlin's Lore` in `Renraku Arcology`, `Riannon's` in `Puyallup Barrens`, and `The Medicine Lodge` in `Council Island`.
 
 ---
+TO BE CONTINUED... (Overhaul in progress...)
+
+---
 ### Credits
-Achievement Guide by shauntmw
+Achievement Guide by ~Zero (shauntmw)
