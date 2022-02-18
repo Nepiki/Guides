@@ -98,7 +98,7 @@ You will get these when you rescue `Stark`. Just find online for the walkthrough
 
 Image | Descriptions  | Image | Descriptions
 ----- | ------------- | ----- | ------------
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73001.png) | **I Am Iron Man**<br>_Find an old friend in need of your help_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73002.png) | **Ya Got Heart, Chummer**<br>_Steal the cyber-heart and save Stark_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214238.png) | **I Am Iron Man**<br>_Find an old friend in need of your help_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214239.png) | **Ya Got Heart, Chummer**<br>_Steal the cyber-heart and save Stark_
 
 ---
 # Shadowrun Related Achievements
@@ -107,14 +107,34 @@ You earn these by completing shadowruns from Johnsons.
 
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73015.png) | **And I~I Will Always Love Youuuuu**<br>_Complete any bodyguard shadowrun_ | You'll probably get this during one of the earliest run from `Gunderson`.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73016.png) | **Mailman**<br>_Complete any courier shadowrun_ | You'll probably get this during one of the earliest run from `Gunderson`.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73017.png) | **Cowboy Diplomacy**<br>_Complete any enforcement shadowrun_ | You can get this from `Mortimer Reed` or `Julius`, where they send you to beat up one of the 3 gangs in the game.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73018.png) | **Distgruntled Postal Worker**<br>_Complete any acquisition shadowrun_ | You can get this from any Johnson other than `Gunderson`, where they send you to a Corp Run to extract a package.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73019.png) | **Career Change**<br>_Complete any extraction shadowrun_ | You can get this from any Johnson other than `Gunderson`, where they send you to a Corp Run to extract an employee.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73020.png) | **Tron**<br>_Complete any matrix shadowrun_ | `Celeb` gives out this run all the time. `Mortimer Reed` gives out simple run occasionally.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73014.png) | **No Job Is Too Big. No Fee Is Too Big**<br>_Take a ghoul bounty job for at least 100 nuyen per ghoul and kill at least 20 ghouls and claim your reward_ | It is only possible to get this from `Gunderson` or `Mortimer Reed`. You will need to raise your `Negotiation` quite a lot. Just keep asking for job until you get offered 100¥ per ghoul, and then kill more than 20 ghouls before returning to them.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73021.png) | **You and Your Johnson**<br>_Take on a job for every Johnson on the game in one play session_ | **:warning::warning: MISSABLE :warning::warning:**<br>You have to complete one job from each Johnson in one play session (meaning once you save/load, the counter resets). One of the Johnson will be unavailable after some point in the game, so I recommend getting this as soon as you can manage a moderate-level Corp Run.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214252.png) | **And I~I Will Always Love Youuuuu**<br>_Complete any bodyguard shadowrun_ | You'll probably get this during one of the earliest run from `Gunderson`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214253.png) | **Mailman**<br>_Complete any courier shadowrun_ | You'll probably get this during one of the earliest run from `Gunderson`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214255.png) | **Cowboy Diplomacy**<br>_Complete any enforcement shadowrun_ | You can get this from `Mortimer Reed` or `Julius`, where they send you to beat up one of the 3 gangs in the game.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214257.png) | **Distgruntled Postal Worker**<br>_Complete any acquisition shadowrun_ | You can get this from any Johnson other than `Gunderson`, where they send you to a Corp Run to extract a package.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214259.png) | **Career Change**<br>_Complete any extraction shadowrun_ | You can get this from any Johnson other than `Gunderson`, where they send you to a Corp Run to extract an employee.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214261.png) | **Tron**<br>_Complete any matrix shadowrun_ | `Celeb` gives out this run all the time. `Mortimer Reed` gives out simple run occasionally.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214251.png) | **No Job Is Too Big. No Fee Is Too Big**<br>_Take a ghoul bounty job for at least 100 nuyen per ghoul and kill at least 20 ghouls and claim your reward_ | It is only possible to get this from `Gunderson` or `Mortimer Reed`. You will need to raise your `Negotiation` quite a lot. Just keep asking for job until you get offered 100¥ per ghoul, and then kill more than 20 ghouls before returning to them.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214263.png) | **You and Your Johnson**<br>_Take on a job for every Johnson on the game in one play session_ | **:warning::warning: MISSABLE :warning::warning:**<br>You have to complete one job from each Johnson in one play session (meaning once you save/load, the counter resets). One of the Johnson will be unavailable after some point in the game, so I recommend getting this as soon as you can manage a moderate-level Corp Run.
+
+### Stealth Achievements
+
+Complete any corp runs without triggering any alarm of using invisibility.
+
+Tips:
+- Raise your `Electronics` and `Charisma` to 6.
+- Buy `Electronic Kit`, or better yet, `Level 5 Maglock Passkey`.
+- Buy `Security Pass` (aka Corp Badges).
+- Save before entering, and reload a save if you failed.
+- Just choose "Walk Away" for every random encounters.
+- You will pop the achievement when you return to the Johnson to claim your reward.
+
+Image | Descriptions  | Remarks 
+----- | ------------- | --------
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214283.png) | **Solidus Snake**<br>_Complete any Shadowrun in the Mitsuhama Office without raising an alert or using invisibility_ | Run can be accepted from `Mortimer Reed` and `Julius`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214284.png) | **Naked Snake**<br>_Complete any Shadowrun in the Fuchi Office without raising an alert or using invisibility_ | Run can be accepted from `Mortimer Reed` and `Julius`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214285.png) | **Venom Snake**<br>_Complete any Shadowrun in the Ares Office without raising an alert or using invisibility_ | Run can be accepted from `Caleb` and `Vigore & Jarl`, and sometimes rarely given out by `Julius`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214286.png) | **Liquid Snake**<br>_Complete any Shadowrun in the Lone Star Office without raising an alert or using invisibility_ | Run can be accepted from `Caleb` and `Vigore & Jarl`, and sometimes rarely given out by `Julius`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214287.png) | **Solid Snake**<br>_Complete any Shadowrun in the Renraku Office without raising an alert or using invisibility_ | Run can be accepted from `Caleb` and `Vigore & Jarl`.
 
 ---
 # Matrix Side Quest
@@ -135,7 +155,7 @@ Search online for more in-depth Matrix run strategies.
 
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73033.png) | **Interrogating Him**<br>_Deck into Ito's matrix, obtain all interesting datafiles then crash the CPU_ | Passcode will be obtained during main story progression. Beware the first node contains a guaranteed `Tar Pit`, so get your fodder ready.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214267.png) | **Interrogating Him**<br>_Deck into Ito's matrix, obtain all interesting datafiles then crash the CPU_ | Passcode will be obtained during main story progression. Beware the first node contains a guaranteed `Tar Pit`, so get your fodder ready.
 
 ## Matrix Run
 
@@ -143,10 +163,10 @@ You can keep asking `Celeb` for Matrix run, accept them to store the system pass
 
 Image | Descriptions  | Image | Descriptions | Image | Descriptions 
 ----- | ------------- | ----- | ------------ | ----- | ------------
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73034.png) | **Loose Ends**<br>_Deck into Renraku's matrix, obtain their piece of the passcode, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73035.png) | **The Heart of Washington**<br>_Deck into Fuchi's matrix, obtain their piece of the passcode then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73036.png)  | **Mitsuhacka**<br>_Deck into Mitsuhama's matrix, obtain their piece of the passcode, then crash the CPU_
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73037.png) | **Give Them the Raspberry**<br>_Deck into Lone Star's matrix, obtain Joshua's case file, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73038.png) | **Kratos**<br>_Deck into Ares' matrix, obtain their piece of the passcode, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73039.png) | **Kicking Some Aztec**<br>_Deck into Aztechnology's matrix, obtain their piece of the passcode, then crash the CPU_
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73040.png) | **If She Could**<br>_Deck into Hollywood Correctional's matrix, find Vigore's file, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73041.png) | **Bar Tabs**<br>_Deck into Club Penumbra's matrix and crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73042.png) | **Checkout Time**<br>_Jack into Gates Undersound's matrix, find Ito's reservation, then crash the CPU_
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73043.png) | **I'm An Agent Of Chaos**<br>_Deck into Seattle General Hospital's matrix and crash the CPU_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214270.png) | **Loose Ends**<br>_Deck into Renraku's matrix, obtain their piece of the passcode, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214272.png) | **The Heart of Washington**<br>_Deck into Fuchi's matrix, obtain their piece of the passcode then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214273.png)  | **Mitsuhacka**<br>_Deck into Mitsuhama's matrix, obtain their piece of the passcode, then crash the CPU_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214274.png) | **Give Them the Raspberry**<br>_Deck into Lone Star's matrix, obtain Joshua's case file, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214275.png) | **Kratos**<br>_Deck into Ares' matrix, obtain their piece of the passcode, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214276.png) | **Kicking Some Aztec**<br>_Deck into Aztechnology's matrix, obtain their piece of the passcode, then crash the CPU_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214277.png) | **If She Could**<br>_Deck into Hollywood Correctional's matrix, find Vigore's file, then crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214278.png) | **Bar Tabs**<br>_Deck into Club Penumbra's matrix and crash the CPU_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214279.png) | **Checkout Time**<br>_Jack into Gates Undersound's matrix, find Ito's reservation, then crash the CPU_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214280.png) | **I'm An Agent Of Chaos**<br>_Deck into Seattle General Hospital's matrix and crash the CPU_
 
 ## CHERNOBYL Side Quest
 
@@ -154,27 +174,24 @@ Below 2 are part of the Matrix Side Quest. Once you obtained all the secret pass
 
 Image | Descriptions  | Image | Descriptions
 ----- | ------------- | ----- | ------------
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73044.png) | **Piecing it Together**<br>_Assemble all pieces of the hidden passcode_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73045.png) | **Savin' the Day**<br>_Deck into the hidden matrix, find the interesting data file, then crash the CPU_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214281.png) | **Piecing it Together**<br>_Assemble all pieces of the hidden passcode_ | ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214282.png) | **Savin' the Day**<br>_Deck into the hidden matrix, find the interesting data file, then crash the CPU_
 
 ---
 # Miscellaneous Achievements
 
 Image | Descriptions  | Remarks 
 ----- | ------------- | --------
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73022.png) | **Soldiers of Fortune**<br>_Meet All Shadowrunners_ | Search online for the list of runners. This includes `Stark` (which can only be met after completing a side quest), and `Ilene Two Fists` (which can only be met after completing a main plot).
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73023.png) | **Address Book**<br>_Acquire All Contacts_ | **:warning::warning: MISSABLE :warning::warning:**<br>`Vigore & Jarl` will be unavailable after some point in the game. You need to get his contact before that. Search online for the list of the contacts.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73024.png) | **Sucker**<br>_Pay Boris for his story_ | Go to `Boris` and ask for his story. He will charge you 100¥. Pay him.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73025.png) | **I Pledge Alleigance To The Mob...**<br>_Swear loyalty to either the mafia or the yakuza_ | Buy the contacts from `Halloweeners` or `Eye-Fivers`. Then call either of the contacts. Agree to any of them will earn you this achievement. I recommend joining the `Halloweeners`, for their top-tier gears.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73026.png) | **Clearing Your Name**<br>_Wipe your criminal record by any means_ | Some of the contacts offer to wipe your criminal record for a fee (eg: `Henry J. Culver` costs 2,500¥; `Sgt. Chillicutt` costs 5,000¥). Or if you don't mind losing all your money and illegal equipments, just walk into `Lone Star` HQ.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73027.png) | **Protection Racket**<br>_Obtain 'protection' from all three gangs_ | Buy the protection from `Halloweeners`, `Eye-Fivers`, and `Ork Gang`. I recommend raising your `Reputation` to at least 5 to gain free access to the gang bosses.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73028.png) | **Bad Security**<br>_Obtain corporate security badges_ | **:warning::warning: MISSABLE :warning::warning:**<br>`Vigore & Jarl` will be unavailable after some point in the game. You need to buy the contact for `Max` from them. He sells the badge for 6,000¥.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73029.png) | **Concealed Carry**<br>_Obtain a weapon permit_ | Buy from `Henry J. Culver` for 8,000¥; or `Sgt. Chillicutt` for 10,000¥.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73030.png) | **The Key To Enlightenment**<br>_Obtain a level 5 Maglock Passkey_ | Buy from `Alesandro Hobbs` for 20,000¥; or `Max` for 42,000¥.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73031.png) | **The Legends Were True**<br>_Obtain the best cyberdeck on the game_ | Buy the `Fairlight Excalibur`. You can buy from `Kipp David` for 185,000¥; or if your `Negotiation` is 9 or above, you could get it cheaper from `Crime Mall`.
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/73032.png) | **Yer a Wizard, Joshua**<br>_Learn all spells as Joshua or any Shadowrunner_ | Buy all the level 1 spells from the magic shops, including from `Merlin's Lore` in `Renraku Arcology`, `Riannon's` in `Puyallup Barrens`, and `The Medicine Lodge` in `Council Island`.
-
----
-TO BE CONTINUED... (Overhaul in progress...)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214265.png) | **Soldiers of Fortune**<br>_Meet All Shadowrunners_ | Search online for the list of runners. This includes `Stark` (which can only be met after completing a side quest), and `Ilene Two Fists` (which can only be met after completing a main plot).
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214268.png) | **My Little Black Book**<br>_Acquire All Contacts_ | **:warning::warning: MISSABLE :warning::warning:**<br>`Vigore & Jarl` will be unavailable after some point in the game. You need to get his contact before that. Search online for the list of the contacts.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214269.png) | **Sucker**<br>_Pay Boris for his story_ | Go to `Boris` and ask for his story. He will charge you 100¥. Pay him.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214271.png) | **I Pledge Alleigance To The Mob...**<br>_Swear loyalty to either the mafia or the yakuza_ | Buy the contacts from `Halloweeners` or `Eye-Fivers`. Then call either of the contacts. Agree to any of them will earn you this achievement. I recommend joining the `Halloweeners`, for their top-tier gears.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214254.png) | **Clearing Your Name**<br>_Wipe your criminal record by any means_ | Some of the contacts offer to wipe your criminal record for a fee (eg: `Henry J. Culver` costs 2,500¥; `Sgt. Chillicutt` costs 5,000¥). Or if you don't mind losing all your money and illegal equipments, just walk into `Lone Star` HQ.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214256.png) | **Protection Racket**<br>_Obtain 'protection' from all three gangs_ | Buy the protection from `Halloweeners`, `Eye-Fivers`, and `Ork Gang`. I recommend raising your `Reputation` to at least 5 to gain free access to the gang bosses.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214258.png) | **Bad Security**<br>_Obtain corporate security badges_ | **:warning::warning: MISSABLE :warning::warning:**<br>`Vigore & Jarl` will be unavailable after some point in the game. You need to buy the contact for `Max` from them. He sells the badge for 6,000¥.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214260.png) | **Concealed Carry**<br>_Obtain a weapon permit_ | Buy from `Henry J. Culver` for 8,000¥; or `Sgt. Chillicutt` for 10,000¥.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214262.png) | **The Key To Enlightenment**<br>_Obtain a level 5 Maglock Passkey_ | Buy from `Alesandro Hobbs` for 20,000¥; or `Max` for 42,000¥.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214264.png) | **The Legends Were True**<br>_Obtain the best cyberdeck on the game_ | Buy the `Fairlight Excalibur`. You can buy from `Kipp David` for 185,000¥; or if your `Negotiation` is 9 or above, you could get it cheaper from `Crime Mall`.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/214266.png) | **Yer a Wizard, Joshua**<br>_Learn all spells as Joshua or any Shadowrunner_ | Buy all the level 1 spells from the magic shops, including from `Merlin's Lore` in `Renraku Arcology`, `Riannon's` in `Puyallup Barrens`, and `The Medicine Lodge` in `Council Island`.
 
 ---
 ### Credits
