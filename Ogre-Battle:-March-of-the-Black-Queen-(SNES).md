@@ -10,9 +10,9 @@ As I cover quite a lot in this guide already, [Single playthrough completionist 
 
 ## About the game
 
-
-![](https://www.giantbomb.com/a/uploads/original/8/82063/2583372-obtmotbq.jpg)
-
+<p align="center">
+  <img src="https://www.giantbomb.com/a/uploads/original/8/82063/2583372-obtmotbq.jpg" />
+</p>
 Ogre Battle March of the Black Queen is a 1993 Tactical RPG initially released on SNES with later ports to the PlayStation and Saturn. For Tactical RPG enthusiast it should be quite an intriguing prospect: it's the start of the "Ogre" video game series that would birth Tactics Ogre one year later and pave the way for the titan Final Fantasy Tactics.
 
 The game appeal comes from the fact that there is almost nothing else like it in term of gameplay, a game where you direct your troops like a RTS but also have full customization of your units composition and almost no direct way of controlling the battle flow once it start.  With 13 endings depending on your actions and the myriads of secrets, there is a lot to cover !
@@ -122,7 +122,7 @@ For endgame endings unlock, Deneb's Garden have lv1 Pumpkins that will make your
 -   There is a limited amount of enemy units per map, most of the time around 20 or so. To reduce that number you need to kill ALL of the characters in an unit otherwise it will run back to a town and replenish its rank. The only exception is for the last map of the game that have something like 2200+ units (infinite for all intents and purpose).
 
 ## Achievements
-### Maps
+## Maps
 <br>
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58680.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58681.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58682.png)![](![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65540.png))![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65545.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65546.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65549.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65571.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65618.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65653.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58681.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65750.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65976.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65850.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65869.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65872.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66053.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66057.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66060.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66076.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66084.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66238.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66252.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66253.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66334.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66335.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66983.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66059.png)
@@ -166,9 +166,9 @@ Defeat the boss while having the HEROSTAR, Reputation gauge 2/3 or more and Main
 _Enter Dragon's Haven_
 
 Launch a New Game and name your lord FIRESEAL
-***
-### Recruitment
 <br>
+
+## Recruitment
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/17502.png) [**Sharom's Finest**](https://retroachievements.org/achievement/62249)
 
@@ -293,9 +293,9 @@ _Recruit All 18 Special Charcters_
 	-   Defeat boss with a reputation gauge 2/3 or more and spare her life
 
 Thanks to Guininhas's comment for the confirmation !
-***
-### Items
 <br>
+
+## Items
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65648.png) [**You Are A True Hero...Maybe?**](https://retroachievements.org/achievement/63299)
 
@@ -588,9 +588,9 @@ _Receive the "Big Trophy" from supporters_
 
 -   Shiguld
 -   After stage revisit Bujunbulla
-***
-### Endings
 <br>
+
+## Endings
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65993.png) [**Save the World**](https://retroachievements.org/achievement/63008)
 
@@ -666,9 +666,9 @@ _Beat the game and receive the Fortune Ending_
 
 - Launch a New Game and name your lord FIRESEAL
 - Beat the bonus map
-***
-### Misc
 <br>
+
+## Misc 
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65544.png) [**Mr Popular**](https://retroachievements.org/achievement/62253)
 
