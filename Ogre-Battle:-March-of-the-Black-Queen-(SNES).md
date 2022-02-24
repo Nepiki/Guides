@@ -171,11 +171,13 @@ Launch a New Game and name your lord FIRESEAL
 <br>
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/17502.png) [**Sharom's Finest**](https://retroachievements.org/achievement/62249)
+
 _Recruit Lans_
 -   Castle of Warren
 -   Necessary to finish the tutorial
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66440.png) [**Wings of Victory[m]**](https://retroachievements.org/achievement/63090)
+
 _Gain the item needed to recruit Canopus_
 -   Sharom District
 -   Get the MoonRose first from Chang'Gal (missable otherwise)
@@ -187,23 +189,27 @@ _Gain the item needed to recruit Canopus_
 - Technically the achievement only need the item, not the final recruitment
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65547.png) [**Worlds Greatest Beast Tamer**](https://retroachievements.org/achievement/62256)
+
 _Recruit Lyon_
 -   Slums of Xenobia
 -   Liberate Anberg and pay 20K to unlock him
 -   Alternatively you can go back to the map later and recruit him for only 5K
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65548.png) [**The Old General[m]**](https://retroachievements.org/achievement/63091)
+
 _Meet Ashe in the slums_
 -   Slums of Xenobia
 -   Liberate By'Roit
 - You technically can refuse him and still get the achievement
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66444.png) [**Holy Sister**](https://retroachievements.org/achievement/63092)
+
 _Recruit Aisha_
 -   Island Avalon
 -   Liberate hidden temple on the right of the middle volcano
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65991.png) [**She's the Witch[m]**](https://retroachievements.org/achievement/62684)
+
 _Receive the Black Pearl, The Glass Pumpkin, and Recruit Deneb_
 -   Deneb's Garden
 -   Defeat boss and chose to forgive her
@@ -214,11 +220,13 @@ _Receive the Black Pearl, The Glass Pumpkin, and Recruit Deneb_
 -   /!\ Contrary to Deneb's advice, make sure you don’t sell the Pearl or the achievement wont trigger.
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65746.png) [**The Runaway Bride[m]**](https://retroachievements.org/achievement/62483)
+
 _Recruit Rauny_
 -   Valley of Kastro
 -   Liberate the temple south of Geral Abad with a reputation gauge at 2/3 or more
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65975.png) [**Stoned Mage**](https://retroachievements.org/achievement/62667)
+
 _Recruit Saradin_
 -   Balmorian Ruins
 -   Liberate Wan Kayo
@@ -226,6 +234,7 @@ _Recruit Saradin_
 -   Liberate the temple west of Kannyate and use the BELL to revive Saradin
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65849.png) [**The Prodigal Son**](https://retroachievements.org/achievement/63093)
+
 _Meet Tristan_
 -   City of Malano
 -   No recruitment needed, trigger on dialogue with main Lord
@@ -233,16 +242,19 @@ _Meet Tristan_
 -   Visit Bel Chelry with your main Lord and a reputation gauge at 2/3 or more to recruit him.
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65866.png) [**Biggest Diva**](https://retroachievements.org/achievement/62492)
+
 _Recruit Kaus Debonair_
 -   Shangrila
 -   Defeat the Boss (Gares) and answer Yes to his question
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66052.png) [**Holy Contract**](https://retroachievements.org/achievement/62689)
+
 _Recruit Yushis_
 -   Antalia
 -   Liberate the hidden temple west of Shad Dobul with a reputation gauge 2/3 or more
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66058.png) [**I'm the Devil**](https://retroachievements.org/achievement/62692)
+
 _Recruit Galf_
 -   Antanjyl
 -   Defeat the boss
@@ -252,6 +264,7 @@ _Recruit Galf_
 -   Say Yes to Galf proposal and give him the sword
 ***
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66612.png) [**Big Happy Family**](https://retroachievements.org/achievement/63252)
+
 _Recruit All 18 Special Charcters_
 
 - Deneb
