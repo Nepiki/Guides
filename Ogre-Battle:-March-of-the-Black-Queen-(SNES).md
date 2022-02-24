@@ -6,7 +6,7 @@ This guide is an extended and more explicit version of what was initially my rou
 
 While exploration is rewarded, for achievement hunting purpose everything can be obtained in one playthrough with a couple of backup saves at key points.  After finishing the set, my RA playtime is around 40h but please take into account that I wasted time testing various things and that I play with speed-up mode a lot.
 
-As I cover quite a lot in this guide already, [Single playthrough completionist routing](SOON TM) is on it's own page. 
+As I cover quite a lot in this guide already, [Single playthrough completionist routing](https://github.com/RetroAchievements/guides/wiki/Ogre-Battle:-March-of-the-Black-Queen-Routing) is on it's own page. 
 
 ## About the game
 
