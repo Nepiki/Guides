@@ -281,3 +281,427 @@ _Recruit All 18 Special Charcters_
 
 Thanks to Guininhas's comment for the confirmation !
 ***
+### Items
+<br>
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65648.png) [**You Are A True Hero...Maybe?**](https://retroachievements.org/achievement/63299)
+
+_Receive the Star of Hereos_
+
+-   Sharom Border
+-   Liberate hidden temple north of your HQ
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65569.png) [**Silver Bullet[m]**](https://retroachievements.org/achievement/62275)
+
+_Retrieve 'QuickSilver' or Silver_
+
+-   Pogrom Forest
+-   After map revisit Para with a reputation gauge of 2/3 or more
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65616.png) [**Holy Sword[m]**](https://retroachievements.org/achievement/62342)
+
+_Retrieve the Brunhild on First Visit to the Correct Temple_
+
+-   Kastolatian Sea
+-   Liberate the hidden temple on the most north-west island with a reputation gauge 1/3 or more
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66085.png) [**Golden Orb[m]**](https://retroachievements.org/achievement/62718)
+
+_Retrieve the "Golden Orb"_
+
+-   There is no "Golden Orb" in the game, it seems to have been a confusion on the name "Olden Orb" (as in old, not new) .
+-   Need SILVER from Pogrom Forest
+-   Dalmuhd Desert, after stage revisit Aliabard and exchange SILVER for Gem of Doun
+-   Pogrom Forest, go back to Para to get the Olden Orb
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66086.png) [**Gem of Truth[m]**](https://retroachievements.org/achievement/62719)
+
+_Retrieve the "True Gem"_
+
+-   Ryhan Sea
+-   After stage revisit Ramoto after getting the Olden Orb and Gem of Doun and you will get the True Gem
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66151.png) [**Holy Tablet[m]**](https://retroachievements.org/achievement/62752)
+
+_Retrieve the "Tablet of Yaru"_
+
+-   Shangrila
+-   After stage revisit the Shangrila town with the Gem of Doun, Olden Orb and True Gem to get the Tablet of Yaru
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65988.png) [**Monty Python[m]**](https://retroachievements.org/achievement/62808)
+
+_Retrieve the "Holy Grail"_
+
+-   Shrine of Kulyn
+-   After stage revisit Kulyn with a reputation gauge of 2/3 or more to get the Grail
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66152.png) [**Keeper of the Zodiac[m]**](https://retroachievements.org/achievement/62785)
+
+_Obtain all 12 Zodiac Stones_
+
+-   Endgame farm only for this and World Ending
+-   Need to have obtained the Tablet of Yaru
+
+1.  Garnet
+	- Slums of Zenobia, revisit hidden temple Northwest of HQ
+
+2.  Amethyst
+	- Dalmud Desert, revisit hidden temple north of Kahrngarn
+
+3.  Aquamarine
+	-  Diaspola, revisit Ajan
+
+4.  Diamond
+	- Shiguld, revisit hidden temple west of Dallu Sarram
+
+5.  Emerald
+	- Island Avalon, revisit hidden temple at the center of the map
+
+6.  Pearl
+	- Diaspola, during FIRST time
+	- Liberate Somyul with your lord having ALI 55+ and a reputation gauge at least half full to start Posha's quest. Answer Yes to her question
+	- Liberate hidden temple northeast of Pelegue to get Golden Beehive
+	- Go back to Somyul to get Sentoul Demon.
+	-  Organa, after stage
+	-  Revisit the hidden temple in the Southeast to get the Ginger Cake
+	- Diaspola, revisit Somyul and give the cake to Posha.
+	-  Say Yes to get the Pearl.
+
+7.  Ruby
+	- City of Malano, revisit Sanbelnar
+
+8.  Peridot
+	-  Muspelm, revisit hidden temple east of Fidelin
+
+9.  Sapphire
+	- Shangrila, revisit hidden temple on middle isle
+
+10.  Opal
+		- Lake Jansenia, revisit hidden temple east of Allephal
+
+11.  Topaz
+		- Ryhan Sea, revisit hidden temple southeast of Fahrk
+
+12.  Turquoise
+		- Tundra, revisit hidden temple east of Valhalla
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66598.png) [**Gold Nugget**](https://retroachievements.org/achievement/62978)
+
+_Receive the Nugget from supporters_
+
+-   Sharom Border
+-   After stage, revisit Valikesh then Fallsala
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66606.png) [**Moon Rose[m]**](https://retroachievements.org/achievement/62486)
+
+_Recieve The Moon Rose from supporters_
+
+-   Sharom District
+-   During stage, liberate Chang'gal before doing the Canopus quest
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66720.png) [**I Think of Demons...For You[m]**](https://retroachievements.org/achievement/63416)
+
+_Have a Little Girl give you a Demon Soul_
+
+-   Diaspola
+-   During stage, liberate Somyul with your lord having ALI 55+ and a reputation gauge at least half full to start Posha's quest. Answer Yes to her question
+-   Liberate hidden temple northeast of Pelegue to get Golden Beehive
+-   Go back to Somyul to get Sentoul Demon.
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66611.png) [**Box of Salvation**](https://retroachievements.org/achievement/62274)
+
+_Receive the Box of Salvation from supporters_
+
+-   Organa
+-   After stage, revisit Ohbia
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66609.png) [**The Good Book[m]**](https://retroachievements.org/achievement/62490)
+
+_Receive the Book of Good_
+
+Launch a New Game and name your lord FIRESEAL
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66540.png) [**Quest for the Saga [m]**](https://retroachievements.org/achievement/63167)
+
+_Retrieve "The Saga" item without spending any money(you must kill the priests to recieve the 'Song of Sodom")_
+
+-   Fort Allamoot
+-   During stage, reputation gauge is less than 1/2
+-   Liberate Matagalp
+-   Visit Plinsport
+-   Visit Esquintora
+-   Visit Laseive, refuse to pay
+-   Visit Stun Creek
+-   Visit the temple near Tekshigahve with a low reputation gauge, kill the monk to get the Song of Sodoh
+-   Do the previous step in reverse to exchange the items: Stun Creek > Laseive > Esquintora > Plinsport > Matagalp
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66613.png) [**Chrono Trigger?[m]**](https://retroachievements.org/achievement/63254)
+
+_Receive the Rainbow Shell from Supporters_
+
+-   Fort Allamoot
+-   After stage, after having done the Saga quest, revisit Esquintora with a reputation gauge NOT full (conflicting reports, but if done just after Saga it won't be an issue anyway)
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66595.png) [**Seal of Fire[m]**](https://retroachievements.org/achievement/63255)
+
+_Receive the "Fire Crest" item_
+
+-   Wasted opportunity to not call this achievement "Fire Emblem", considering the name of the one before it
+-   Need to obtain the Four Wind Weapons
+
+	-   Boleas
+		-   Shrine of Kulyn
+		-   Liberate Tridan, ask for the boss weakness and pay 150k to get this
+		-   It is also possible to get one through random treasure drop
+
+	-   Euros
+		-   Random drop, see Treasure note
+
+	-   Notos
+		-   Fort Shulamana
+		-   Liberate the hidden temple north of Shulamana
+
+	-   Zepyulos
+		-   Shiguld
+		-   Beat the boss and do not recruit him
+		-   After the stage, revisit Shiggult
+
+-   Back to Shiguld
+-   Revisit the temple nortwest of Muwanza
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66647.png) [**Friends Of Demons**](https://retroachievements.org/achievement/63301)
+
+_Receive 3 Items for being a Friend with Galf_
+
+-   Antanjyl
+-   After stage with Galf recruited
+-   Revisit Powant Noal
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66648.png) [**Necronomicon**](https://retroachievements.org/achievement/63302)
+
+_Receive The Foul Tome_
+
+-   Antanjyl
+-   After stage with Galf NOT recruited
+-   Revisit Gibbot with a reputation gauge lower than 1/2
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66706.png) [**Pandoras Box**](https://retroachievements.org/achievement/63341)
+
+_Receive Salam's Chest from supporters_
+
+-   Antanjyl
+-   After stage, revisit Yaunde with a reputation gauge more than 1/2
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66724.png) [**Mythological Tome**](https://retroachievements.org/achievement/63417)
+
+_Receive the "Folio" from supporters_
+
+-   Zeteginea
+-   After stage revisit Mislata
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66723.png) [**Live by the Coin or by the Sword**](https://retroachievements.org/achievement/63418)
+
+_Receive the Beast Coin or Sigmund from supporters_
+
+-   Ryhan Sea
+-   After stage revisit Harmhella
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66725.png) [**Orc Fur**](https://retroachievements.org/achievement/63419)
+
+_Receive the Orc Fur from Supporters_
+
+-   Dalmuhd Desert
+-   After stage, revisit Kahrngarn with a Low reputation gauge
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66708.png) [**Star Bees?**](https://retroachievements.org/achievement/63420)
+
+_Receive the Star Fragment from supporters_
+
+-   Fort Allamoot
+-   During stage, liberate the hidden city in the top left desert, Pirallel
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66722.png) [**Beautiful Statue[m]**](https://retroachievements.org/achievement/63421)
+
+_Receive the Beautiful Statue from Supporters_
+
+-   Fort Allamoot
+-   After stage, revisit Tekshigahve with a reputation gauge 2/3 or more
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66726.png) [**Lottery Winnings**](https://retroachievements.org/achievement/63422)
+
+_Receive the Reputation Based Prize from Fort Allamoot_
+
+-   Fort Allamoot
+-   After stage, revisit Killig Abal
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66727.png) [**Relief from the Tundra**](https://retroachievements.org/achievement/63423)
+
+_Receive the "Snow Cape" or "Relief" from Supporters_
+
+-   Tundra
+-   After stage revisit Valhalla, you will get Snow Cape for High reputation and Relief Medallion for Low Reputation
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66721.png) [**Pratice Necromancy**](https://retroachievements.org/achievement/63424)
+
+_Find Two Book Of The Dead during your travels_
+
+-   Book 1: City of Malano, revisit Malano
+-   Book 2: Muspelm, revisit Segejin
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66705.png) [**Olympic Winner**](https://retroachievements.org/achievement/63425)
+
+_Receive the Platinum Medal from supporters_
+
+-   Balmorian Ruins
+-   After stage, revisit Sahnfan
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66704.png) [**Kalbia's Gift**](https://retroachievements.org/achievement/63426)
+
+_Receive the reputation based reward from Kalbia supporters_
+
+-   Kalbi Peninsula
+-   During stage liberate Bosetyn
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66728.png) [**Pagent Winner**](https://retroachievements.org/achievement/63427)
+
+_Receive the Crown after answering a question_
+
+-   Muspelm
+-   Revisit Chilfa
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67019.png) [**Everybody is a Winner**](https://retroachievements.org/achievement/63766)
+
+_Receive the "Big Trophy" from supporters_
+
+-   Shiguld
+-   After stage revisit Bujunbulla
+***
+### Endings
+<br>
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65993.png) [**Save the World**](https://retroachievements.org/achievement/63008)
+
+_Finish the game and receive the World Ending_
+
+-   High reputation
+-   12 Zodiac Stones
+-   3 Sacred treasures: Brunhild, Grail, Mystic Armband
+-   Tristan and Rauny recruited
+-   Most of the other optional char recruited and still alive (Everyone except Galf and Deneb for sure, Lyon might be optional as well.)
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66001.png) [**Benevolent Overlord**](https://retroachievements.org/achievement/63244)
+
+_Finish the game and receive the Emperor or Empress Ending_
+
+-   High reputation
+-   3 Sacred treasures: Brunhild, Grail, Mystic Armband
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66003.png) [**Holy Ruler**](https://retroachievements.org/achievement/63253)
+
+_Finish the game and receive the Hierophant or Priestess Ending_
+
+-   High reputation
+-   Tristan (female lord) / Rauny (male lord) recruited
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66004.png) [**As the World Turns**](https://retroachievements.org/achievement/63246)
+
+_Beat the game and receive the Sun or Moon ending_
+
+-   High reputation
+-   No Tristan / Rauny
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65994.png) [**Ben Hur**](https://retroachievements.org/achievement/63007)
+
+_Finish the game and receive the Chariot Ending_
+
+-   Medium Reputation
+-   Medium ALI for main Lord 
+-   Tristan recruited
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65995.png) [**Swinging In the Wind**](https://retroachievements.org/achievement/63242)
+
+_Finish the game and receive the Hanged Man Ending_
+
+-   Medium reputation
+-   Medium ALI for main Lord 
+-   Tristan NOT in the army
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65996.png) [**Dont Fear the Reaper**](https://retroachievements.org/achievement/63245)
+
+_Finish the game and receive the Death Ending_
+
+-   Low reputation
+-   Main lord CHA between 30 and 60
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65997.png) [**The Dark Tower**](https://retroachievements.org/achievement/63042)
+
+_Finish the game and receive the Tower Ending_
+
+-   Low reputation
+-   Main lord CHA 30 or less
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65998.png) [**Prime Mover**](https://retroachievements.org/achievement/63243)
+
+_Finish the game and receive the Devil Ending_
+
+-   Low reputation
+-   Galf recruited
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66000.png) [**Fortunate Victory**](https://retroachievements.org/achievement/63009)
+
+_Beat the game and receive the Fortune Ending_
+
+- Launch a New Game and name your lord FIRESEAL
+- Beat the bonus map
+***
+### Misc
+<br>
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65544.png) [**Mr Popular**](https://retroachievements.org/achievement/62253)
+
+_Max Out Reputation Gauge_
+-   Be seen as a hero
+-   See Reputation manipulation
+-   Even with some bad rng card draw and having a couple of cities being retaken, I unlocked this one during the Diaspola stage.
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65647.png) [**LOSER!**](https://retroachievements.org/achievement/62487)
+
+_Lower repuation gauge to 0_
+-   Be reviled by the people
+-   See Reputation manipulation, can easily be obtain at any point of the game.
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65646.png) [**Angelic Force**](https://retroachievements.org/achievement/62252)
+
+_Achieve 99 ALI with the Lord character_
+
+-   Be seen as a hero
+-   See ALI Manipulation, you might want to force it early game with some neutral Undead killing.
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65645.png) [**Here to do the Devils work**](https://retroachievements.org/achievement/62251)
+
+_Achieve 0 ALI with the Lord character_
+
+-   Be reviled by the people
+-   See ALI Manipulation, easy to achieve by killing neutral lv1 Pumpkins
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66639.png) [**Gothillinare**](https://retroachievements.org/achievement/62250)
+
+_Have 2 Million Goth_
+
+-   Following the World ending you will probably ends up with around 1 million Goths at endgame. Make a back-up save and sell all your valuable should do the trick.
+-   You can also exchange the 12 Zodiac stones for a stack of 99 Dream Crowns in Muspelm, which you can in turn sell.
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66605.png) [**Forceful Leader**](https://retroachievements.org/achievement/62695)
+
+_Leader is at Level 30_
+
+-   If not reached during normal play, you can park your main Lord in a kill squad at your HQ of the last map and wait for the infinite reinforcement to suicide on you until you reach lv30.
+***
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/66604.png) [**Return from Nothing[m]**](https://retroachievements.org/achievement/63239)
+
+_Find all Chaos Gates_
+
+- Require you to have gotten the Brunhild sword, there should be 7 gates to unlock.
+- Can be done after the map is completed.
+- You just need the sword somewhere, doesnt matter if it's equiped or in inventory.
+- Any unit can find a gate.
