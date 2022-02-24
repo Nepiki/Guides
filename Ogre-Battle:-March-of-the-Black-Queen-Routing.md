@@ -359,7 +359,10 @@ Time to finally get everyone !
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/65998.png)
 
-![](http://www.vgmuseum.com/end/snes/c/obtowe-37.png)
+<p align="center">
+  <img src="http://www.vgmuseum.com/end/snes/c/obtowe-37.png" />
+</p>
+
 <br>
 
 But wait, what do you mean 9/10 ?  For the last ending you need to do begin a new game and put FIRESEAL as your Lord name. This will bring you to the bonus map (which is canonically speaking a battle taking place after Balmorian Ruins and see you play the legendary hero Lexar as he goes to defeat a reincarnation of Albeleo.)
