@@ -2,6 +2,7 @@ List of Guides (Alphabetical)
 
 |Game|Guide|RA Page|
 |:--|:--:|:--:|
+|Chocobo Racing|[Full](Chocobo-Racing-(PlayStation))|[11352](https://retroachievements.org/game/11352)
 |Digimon World 2|[Full](Digimon-World-2-(PlayStation))|[11360](https://retroachievements.org/game/11360)|
 |Lunar: Silver Star Story Complete|[[m]](Lunar,-Silver-Star-Story-Complete-(PlayStation))|[11254](https://retroachievements.org/game/11254)|
 |Resident Evil 1.5|[Full](Resident-Evil-1.5-(Prototype)-(PlayStation))|[17454](https://retroachievements.org/game/17454)|
