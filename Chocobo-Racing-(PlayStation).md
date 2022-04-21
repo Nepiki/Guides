@@ -9,7 +9,7 @@ For everything me related, here are some links you can check out:
 # 1) Synopsis
 
 Set Difficulty: 3/10        
-Approximate time to Master: Around 10-13 hours        
+Approximate time to Master: Around 8-10 hours        
 Minimum Number of Playthroughs Needed: 10 (all on the same save file)       
 Number of Missable Achievements: 0       
 Does Difficulty Affect Achievements?: n/a
