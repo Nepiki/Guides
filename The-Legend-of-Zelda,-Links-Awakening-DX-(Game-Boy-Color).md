@@ -413,7 +413,21 @@ _Enter every room in Tail Cave (Last room must be the shell room, open chest to 
 
 -=MISSABLE=-
 
-There is one room in this dungeon that needs to be opened with the bombs, which should be unavailable before beating the first dungeon under normal circumstances. Make sure you have the entire dungeon chartered out (press select if you found the map), then go to this room and open the chest for the achievement.
+There is one room in this dungeon that needs to be opened with the bombs, which should be unavailable before beating the first dungeon under normal circumstances. Make sure you have the entire dungeon chartered out (press start if you found the map), then go to this room and open the chest for the achievement.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90734.png) [Here Stands A Brave Man [m] (5)]( https://retroachievements.org/achievement/31931)   
+_Agree to be photographed_
+
+Remember to make a copy of your save file in the file selection screen before talking to the photographer if you don't have the achievement below yet. Go to the camera house east of the cave where BowWow is held captive and agree to being photographed.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90735.png) [Beautiful! I'll call this 'Game Over' [m] (5)]( https://retroachievements.org/achievement/31932)   
+_Keep refusing to be photographed_
+
+Remember to make a copy of your save file in the file selection screen before talking to the photographer if you don't have the achievement above yet. Go to the camera house east of the cave where BowWow is held captive and continuously refuse to be photographed.
 
 ***
 
@@ -431,7 +445,7 @@ _Enter every room in Bottle Grotto (last room must be the room after the boss. G
 
 -=MISSABLE=-
 
-Charter the whole second dungeon before fighting the boss. If you got the map, press select and check if there are no grayed-out rooms anymore.
+Charter the whole second dungeon before fighting the boss. If you got the map, press start and check if there are no grayed-out rooms anymore.
 
 ***
 
@@ -505,7 +519,7 @@ _Enter every room in Key Cavern (last room must be the room after the boss. Get 
 
 -=MISSABLE=-
 
-Charter the whole third dungeon before fighting the boss. If you got the map, press select and check if there are no grayed-out rooms anymore.
+Charter the whole third dungeon before fighting the boss. If you got the map, press start and check if there are no grayed-out rooms anymore.
 
 ***
 
@@ -603,7 +617,7 @@ _Enter every room in Angler's Tunnel (last room must be the room after the boss.
 
 -=MISSABLE=-
 
-Charter the whole fourth dungeon before fighting the boss. If you got the map, press select and check if there are no grayed-out rooms anymore.
+Charter the whole fourth dungeon before fighting the boss. If you got the map, press start and check if there are no grayed-out rooms anymore.
 
 ***
 
@@ -645,7 +659,7 @@ _Enter every room in Catfish's Maw (last room must be the room after the boss. G
 
 -=MISSABLE=-
 
-Charter the whole fifth dungeon before fighting the boss. If you got the map, press select and check if there are no grayed-out rooms anymore.
+Charter the whole fifth dungeon before fighting the boss. If you got the map, press start and check if there are no grayed-out rooms anymore.
 
 ***
 
@@ -667,7 +681,7 @@ _Enter every room in Face Shrine (last room must be the room after the boss. Get
 
 -=MISSABLE=-
 
-Charter the whole sixth dungeon before fighting the boss. If you got the map, press select and check if there are no grayed-out rooms anymore.
+Charter the whole sixth dungeon before fighting the boss. If you got the map, press start and check if there are no grayed-out rooms anymore.
 
 ***
 
@@ -700,7 +714,7 @@ _Enter every room in Eagle's Tower (last room must be the room after the boss. G
 
 -=MISSABLE=-
 
-Charter the whole seventh dungeon before fighting the boss. If you got the map, press select and check if there are no grayed-out rooms anymore.
+Charter the whole seventh dungeon before fighting the boss. If you got the map, press start and check if there are no grayed-out rooms anymore.
 
 ***
 
@@ -713,7 +727,7 @@ _Enter every room in Turtle Rock (last room must be the room after the boss. Get
 
 -=MISSABLE=-
 
-Charter the whole eight dungeon before fighting the boss. If you got the map, press select and check if there are no grayed-out rooms anymore.
+Charter the whole eight dungeon before fighting the boss. If you got the map, press start and check if there are no grayed-out rooms anymore.
 
 ***
 
@@ -726,15 +740,297 @@ _Enter every room in the Color Dungeon (last room must be the room after the bos
 
 -=MISSABLE=-
 
-Charter the whole Color Dungeon before fighting the boss. If you got the map, press select and check if there are no grayed-out rooms anymore.
+Charter the whole Color Dungeon before fighting the boss. If you got the map, press start and check if there are no grayed-out rooms anymore.
 
 ***
 
 ## Step 4: Miscellaneous Achievements | **Total points: 60**
 
-![](Badge link) [Achievement name (points)]( Achievement link)   
-_Description_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223958.png) [Sleepy Mushroom (1)]( https://retroachievements.org/achievement/201690)   
+_Find the sleepy mushroom in the Mysterious Forest._
 
-Guide.
+This Mushroom is found in the forest north of Mabe Village and is the standard method of continuing the story, unless you went for the "The Shroomless Raccoon [m]" achievement.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223959.png) [Magic Powder (1)]( https://retroachievements.org/achievement/201691)   
+_Get Magic Powder for the first time._
+
+I'm not 100% sure if this achievement unlocks when buying it for the "The Shroomless Raccoon [m]" achievement but in case it doesn't, bring the Mushroom from the "Sleepy Mushroom" achievement to the witch's house on the east side of the forest.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223960.png) [Chattin' with the Cuckman (3)]( https://retroachievements.org/achievement/201692)   
+_See all dialogue options available from a transformed Buzz Blob._
+
+Have nothing in your A slot while having the Magic Powder in your B slot. Sprinkle some Magic Powder over the Buzz Blob, then continuously talk to them until the achievement unlocks.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223961.png) [Nutty Power Freak (5)]( https://retroachievements.org/achievement/201693)   
+_Pick up either the Guardian Acorn or Triangle of Power, then while one is active, pick up the other._
+
+When killing enemies, don't ever pick up a Guardian Acorn or Triangle of Power before every enemy on the screen is dead. If both are on screen, pick up one and then the other. This may come naturally over the course of the game but if not, try going to screens with multiple enemies or ones that respawn, like the red enemies in the screen south-west of the witch's house, or hitting the coconuts dropped by the monkey on the beach.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223963.png) [Closing Shop For The Day (10)]( https://retroachievements.org/achievement/201695)   
+_Get every item from the Trendy Game in one visit._
+
+You need to get all 5 items in one visit from the Crane shop in Mabe Village. An easy guaranteed way to always pick up something is to keep your crane in the top left of the conveyor belt. Then, when an item is on the exact middle of the right conveyor belt going upwards, tap the A button. Remember to talk to the shopkeeper after you got everything.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223964.png) [This Pond's All Fished Out (5)]( https://retroachievements.org/achievement/201696)   
+_Catch every fish in the Fishing Pond in one round. (Answer Yes to Fish Again after catching #5)_
+
+Go to the fishing spot north of BowWow's house and keep fishing until every fish is gone, then answer yes when asked to do more fishing. Fishing is pretty easy, just be sure that you throw the hook right of the enemy by using the D-Pad to ensure you can catch them. Keep pressing A quickly to reel in a fish. If you threw the hook to far, you can just get it closer with the A button.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223971.png) [Cuckoo's Gon Wild (1)]( https://retroachievements.org/achievement/201703)   
+_Provoke a Cuckoo attack_
+
+Keep attacking a Cuckoo with your sword until the army of death and destruction arrives. Do this near Marin's house to avoid dying, as you're safe inside.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223979.png) [Crazy Tracy's Secret Medicine (1)]( https://retroachievements.org/achievement/201711)   
+_Purchase some Secret Medicine_
+
+Go to Crazy Tracy's house south of where BowWow was held captive, then talk to Crazy Tracy and buy her medicine. This should usually cost you either 24 or 48 rupees.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223981.png) [File Select Remix (1)]( https://retroachievements.org/achievement/201713)   
+_Listen to the secret File Select Screen song._
+
+Make a save file with the name ZELDA in capital letters, and the achievement will pop up.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223982.png) [Totaka's Song (1)]( https://retroachievements.org/achievement/201714)   
+_Hear the secret Totaka's Song in Richard's house._
+
+Keep waiting in Richard's House until Totaka's Song plays. Should not take too long.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223983.png) [The Talking Timber (1)]( https://retroachievements.org/achievement/201715)   
+_Talk to a talking tree._
+
+Talk to one of the trees that is outside of the Seashell Manor.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223984.png) [Beetles are the Bomb! (1)]( https://retroachievements.org/achievement/201716)   
+_Kill the two Hardhat Beetles to the left of the entrance inside Tail Cave at the same time._
+
+Go to the Tail Cave and immediately go one screen left to find the Hardhat Beetles. The title of the achievement already hints at it, but the easiest way to accomplish this is by luring them close to the edge and then dropping a bomb, causing them both to fall off at the exact same time.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223985.png) [The Giant Ghini and Friends (3)]( https://retroachievements.org/achievement/201717)   
+_Defeat the four ghosts in top-right section of the Graveyard._
+
+This achievement may be a bit flaky but I got it on my first try, so my apologies if I'm not of too much help. Go to the top-right screen of the graveyard where there are 6 gravestones, then walk into each of them until all ghosts are displayed on screen, then kill them. Killing one should kill all the remaining ones.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223998.png) [Coo Coo Cachoo (1)]( https://retroachievements.org/achievement/201730)   
+_Talk to the Walrus after Marin leaves._
+
+After getting rid of the Walrus south of animal village for the first time, you can come back at any time and play Marin's song on the Ocarina. Talk to the Walrus to trigger this achievement.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224000.png) [Advise From the Dead (1)]( https://retroachievements.org/achievement/201732)   
+_Talk to some skeletal remains in the Yarna Desert._
+
+Go to the desert south-east of animal village and go to the screen with four enemies on the right side. There's a lonesome skeletal remains square here. Sprinkle some Magic Powder over it to talk with it.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224005.png) [A Ghostly Escort (1)]( https://retroachievements.org/achievement/201737)   
+_Take the Ghost to his house and grave in one session._
+
+A ghost will start following you after finishing Angler's Tunnel. Take this ghost to the abandoned house east of the beach, then to the lonesome grave south-west of the Witch's house.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224012.png) [That Hippo Yelled At Me (5)]( https://retroachievements.org/achievement/201744)   
+_See all the dialogue of the Hippo in Animal Village_
+
+There is a hippo in the animal village that you can talk to continuously. She has a total of three dialogue options, one of which may take some RNG, so be sure to keep pressing A until you finally got the achievement.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224013.png) [Magnifying Lens (5)]( https://retroachievements.org/achievement/201745)   
+_Complete the Trading Sequence by getting the Magnifying Lens._
+
+This involves a lengthy trading sequence available right from the start of the game. Finishing Catfish's Maw is required to be able to complete this sequence.
+
+1) Get Yoshi's Doll from the Crane shop, give it to the woman with a baby in the north house of Mabe Village who gives you a Ribbon.
+2) Exchange this Ribbon for Canned Food with the small dog in the BowWow's pen.
+3) Exchange this Canned Food for Bananas with the crocodile over at the beach.
+4) Exchange these Bananas with Kiki the Monkey for a stick, east of the castle's entrance.
+5) Give this stick to Tarin east of Mabe Village, in the screen with a Honey Comb.
+6) Bring this Honey Comb to the bear in Animal Village, who gives you a Pineapple.
+7) Give this Pineapple to Papahl who is on Tal Tal Heights, who gives you a Hibiscus.
+8) Give the Hibiscus to the writing goat in Animal Village, who gives you a Love Letter.
+9) Give the Love Letter to Mr. Write, north-west of the forest, who gives you a Broom.
+10) Give the Broom to the lady in the north-eastern screen of Animal Village, who gives you a Fishing Hook.
+11) Bring this Fishing Hook to the fisher underneath the bridge south of Catfish's Maw, who fishes up a Necklace.
+12) Give this Necklace to the mermaid east of Catfish's Maw, who gives you a Mermaid Scale.
+13) Bring this Mermaid Scale to the mermaid statue south-west of Animal Village. The Hookshot is required to get there. A cave opens and the Magnifying Lens is inside!
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224019.png) [Ballad of the Pol's Voice (1)]( https://retroachievements.org/achievement/201751)   
+_Defeat the 3 Pol's Voices in Face Shrine with the Ocarina_
+
+In Face Shrine near some stairs, there is a screen with a total of 3 Pol's. Use the Ocarina with Marin's Song to instantly kill them.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224024.png) [The Great Fairies of Koholint Island (3)]( https://retroachievements.org/achievement/201756)   
+_Heal yourself at all four Great Fairy locations in one session._
+
+Progress up till the Eagle's Tower is required for this achievement. Everything needs to be done in one session. Make sure you have taken at least half a heart of damage for the fairies to show themselves.
+
+1) In the forest, a screen north-east of the rock maze cave.
+2) In a cave that needs a bomb to be accessed on the screen with the Honey Comb, east of Mabe Village.
+3) In a cave that needs a bomb to be accessed that is right before Face Shrine.
+4) In a cave that needs a bomb to be accessed that is on the screen south-east of Eagle's Tower.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224025.png) [You Monster! (1)]( https://retroachievements.org/achievement/201757)   
+_Kill every animal in Mabe Village. (Don't leave village)_
+
+I'm not 100% certain if the Fire Rod from the eight dungeon is needed but since this achievement can be done at any time, return to the village at the end of the game and kill every animal with the Fire Rod. Remember that there is also a Cuckoo on the screen below the fishing spot.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224026.png) [Sprinklin' the Graves (1)]( https://retroachievements.org/achievement/201758)   
+_Sprinkle some magic powder on the Ghost's grave._
+
+Go to the lonesome grave south-west of the Witch's House, then sprinkle some Magic Powder on it.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224033.png) [The Great Dungeon Collector [m] (10)]( https://retroachievements.org/achievement/201765)   
+_Collect every Map, Compass, and Stone Beak in all 9 dungeons._
+
+For this achievement, I am not 100% sure if it is missable. After all, I complete dungeons 100% on my first visit so there was no chance for me to be missing out on it, but you can revisit any dungeons at any time regardless (for the Bottle Grotto, the Fire Rod is required for access again). Regardless, every dungeon has a Map, a Compass, and a Stone Beak. Before leaving a dungeon, press the Start button and check if all three are present in the right side of the screen. If not, you missed a chest. The Compass gives a ring whenever a screen has an item you haven't gotten yet, and also shows on the map on the start screen what rooms have unopened treasure.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224034.png) [Teleport Guru (1)]( https://retroachievements.org/achievement/201766)   
+_Find all four Warp locations._
+
+There are a total of four warp locations:
+
+1) East of Mabe Village.
+2) East of the Camera house, below Tal Tal Heights.
+3) South of the Animal Village.
+4) On top of Turtle Rock. This can only be accessed by taking stairs within the dungeon, on the far north side.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224038.png) [Koholint Cartographer (25)]( https://retroachievements.org/achievement/201770)   
+_Complete the overworld map._
+
+Press select to check up on your map. Every single square of the map needs to be filled in. Any spot of the map can be reached at any time, so if you see a greyed out square, just go there. I don't really have much more advise for that.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224039.png) [Money over Troubled Water (10)]( https://retroachievements.org/achievement/201771)   
+_Collect 100 Rupees in the Raft Game._
+
+Go to the Raft Game that's east of the fourth dungeon. The Hookshot is required to get there, but you can also take the cave above the rock maze near Face Shrine. For this minigame, it's best to go all the way to the left first, then fall down the waterfalls two times. Collect every Rupee on your way here by using the Roc's Feather, then just follow the waves to the right. Go down, then left, and on this screen stay as far south as you can to be taken to a wave section with multiple rupees back to back.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224212.png) [The Confusing Owl Statues (5)]( https://retroachievements.org/achievement/202118)   
+_Talk to every owl statue on the island._
+
+The description does not state this but I _think_ you have to talk to every statue in one session. Regardless, talk to every single statue on your first visit because maybe you don't need to, and that will save a nice amount of time.
+
+1) Outside of the cave where BowWow is held captive.
+2) In the screen north-east of Mr. Write, north-west of the forest.
+3) In Richard's Garden at the very end where you find the Slime Key.
+4) On a higher platform west of the rock maze, south-west of the Seashell Mansion.
+5) In the screen south of Catfish's Maw with the bridge you can go under.
+6) One screen north of the Face Shrine area. Also the screen where you fall down at the end of the Raft Game.
+7) In Yarna Desert, next to the cave you would come out after getting the Angler's Key.
+8) During the Raft Game. Make sure you go all the way to the left right from the start, then go down the waterfalls.
+9) On the road to Eagle's Tower, outside of a cave.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90726.png) [Level-2 Sword (10)]( https://retroachievements.org/achievement/28841)   
+_Obtain the Level-2 Sword_
+
+Bring 20 Seashells to the Seashell Mansion to get the sword. Remember, don't do this if you haven't collected all 26 Seashells yet, and if you want that achievement as well.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90727.png) [Music Man (10)]( https://retroachievements.org/achievement/28842)   
+_Learn all 3 Ocarina songs_
+
+Get the Ocarina from the Dream Shrine in Mabe Village, then go to the following three locations:
+
+1) Talk to Marin who is at the windmill in Mabe Village.
+2) Go to the cave that is west of the entrance of Angler's Tunnel and talk to the fish (Flippers required).
+3) Go to the sign puzzle south-east of Mabe Village, solve the puzzle and talk to Mamu (Hookshot and 300 Rupees required).
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90728.png) [Washed Up Returner (10)]( https://retroachievements.org/achievement/28843)   
+_Get the boomerang_
+
+After obtaining the Magnifying Lens from the "Magnifying Lens" achievement, go to the beach and find a cave that needs a bomb to be entered (a screen east of where you initially found the sword). Trade in the item that is in your B slot (preferably the Shovel). Don't worry, you can trade this item back at any time, so your Shovel won't be lost forever. You just won't need it again after digging up all the Seashells required.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90729.png) [I Have Half A Heart (5)]( https://retroachievements.org/achievement/28844)   
+_Obtain a total of 7 hearts_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90730.png) [Awaken My Heart (25)]( https://retroachievements.org/achievement/28845)   
+_Obtain all 14 Heart Containers_
+
+You will be getting 11 hearts naturally over the course of the game, with a total of 12 Heart Pieces making up the last 3 hearts. Check [This Zeldadungeon Guide](https://www.zeldadungeon.net/wiki/Link%27s_Awakening_Heart_Pieces_(Game_Boy)) for all locations.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90731.png) [Rupee Amasser (5)]( https://retroachievements.org/achievement/28848)   
+_Get a total of 999 rupees on the rupee counter_
+
+This should by all means be gained naturally with the high amount of rupees thrown your way, and definitely if you are planning to actually buy the bow. If somehow not, repeat the fishing/crane minigame until you get it.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90736.png) [More Powder! (5)]( https://retroachievements.org/achievement/28861)   
+_Get the Magic Powder capacity upgrade from the Mad Batter_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90737.png) [More Arrows! (5)]( https://retroachievements.org/achievement/28862)   
+_Get the Arrow capacity upgrade from the Mad Batter_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90738.png) [More Bombs! (5)]( https://retroachievements.org/achievement/28863)   
+_Get the Bomb capacity upgrade from the Mad Batter_
+
+There are a total of three Mad Batter locations, and you can manipulate which upgrade you get by refusing to get cursed until you get the one you want. You can only get one of each upgrade.
+
+1) Under the rock in the forest, west of the Great Fairy.
+2) Go to the jumping puzzle with a lot of bushes east of the abandoned house on the beach. Roc's Feather and possible Pegasus Boots required.
+3) Lift a rock on your way to Turtle Rock, at the top of the mountain where rocks fall down.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90740.png) [New Clothes! (10)]( https://retroachievements.org/achievement/28909)   
+_Acquire the red clothes or the blue clothes from the Color Dungeon._
+
+Beat the boss of the Color Dungeon and select an option from the fairy. To access this place, use the Pegasus Boots to charge into the bookshelf in the library, screenshot the instructions and go to the south-east screen of the graveyard, then push the gravestones in the directions indicated in the book. Recommended is to pick the Blue Clothes if you're doing this dungeon early.
 
 ***
