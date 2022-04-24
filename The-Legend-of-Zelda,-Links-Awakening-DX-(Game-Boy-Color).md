@@ -11,36 +11,62 @@ For everything me related, here are some links you can check out:
 Set Difficulty: 4/10        
 Approximate time to Master: 10-14 hours        
 Minimum Number of Playthroughs Needed: 1 (Only when copying save files in the file select screen)   
-Number of Missable Achievements: 51        
-Does Difficulty Affect Achievements?: No
+Number of Missable Achievements: 49        
+Does Difficulty Affect Achievements?: N/A
 
 # 2) Introduction
 
-WIP
+The Legend of Zelda: Link's Awakening DX, release in 1998 on the Game Boy Color, is a graphically updated version of the original released in 1993 on the Game Boy. This game originally began as a port of Link to the Past to the handheld, after which is became its own game. Many references to this game are still intact, as well as references to other series like Mario. The game has also seen a HD Remake on the Nintendo Switch to an overall general favourable reception.
+
+This set originally had 36 achievements by RetroAchievement users [SporyTike](https://retroachievements.org/user/SporyTike) and [Salsa](https://retroachievements.org/user/Salsa), but saw a massive revision in 2022 by [adamjohnny5](https://retroachievements.org/user/adamjohnny5). The original set already covered the main aspects of the game, but the excellent revision added so much to make it a definitive set for this game. Especially the neat little easter eggs that are now achievements are very welcome. To all three of you, thank you so much for your hard work on this set. For someone who grew up with this game, these achievements made it feel like an entirely new experience.
 
 # 3) Walkthrough
 
-[**Step 1: Story-related Achievements**](#step-1-story-related-achievements--total-points-80)
+[**Step 1: Story-related Achievements**](#step-1-story-related-achievements--total-points-145)
 
-These achievements should all naturally unlock by finishing the game and are unmissable as a result. This step is sorted in chronological order.
+These achievements should all naturally unlock by finishing the game and are unmissable as a result. This step is sorted in chronological order so if you're stuck, you know what you next goal will be.
 
-[**Step 2: Hitless Boss Achievements**](#step-2-hitless-boss-achievements--total-points-14)
+***
+
+[**Step 2: Hitless Boss Achievements**](#step-2-hitless-boss-achievements--total-points-115)
 
 ALL OF THESE ACHIEVEMENT ARE MISSABLE.
 
-Every boss of a dungeon has a hitless achievement attached to them. This step will cover tactics for every single boss. Note that mini-bosses and other hitless objectives are covered in the next step for consistency sake and to ensure you will truly only have to do one playthrough.
+Every boss of a dungeon has a hitless achievement attached to them. This step will cover tactics for every single boss. Note that mini-bosses and other hitless objectives are covered in the next step for consistency sake, as that step will be a step-by-step walkthrough of all missables in the game.
 
-[**Step 3: Missable Achievements**](#step-3-missable-achievements--total-points-60)
+***
+
+[**Step 3: Missable Achievements**](#step-3-missable-achievements--total-points-322)
 
 ALL OF THESE ACHIEVEMENTS ARE MISSABLE.
 
-This is an almost complete step-by-step walkthrough for the game, sorted chronologically and split up in "chapters". This covers a lot of achievements and is made to ensure that you will only have to do one playthrough without missing anything. Please also refer to section 4 for important notes, as you have to make progress on some missable achievements throughout the entire game.
+This is an almost complete step-by-step walkthrough for the game, sorted chronologically and split up in "chapters". This covers a lot of achievements and is made to ensure that you will only have to do one playthrough without missing anything. Please also refer to section 4 for important notes, as you have to make progress on some missable achievements throughout the entire game. These achievements in particular you need to keep track of:
 
-[**Step 4: Miscellaneous Achievements**](#step-4-miscellaneous-achievements--total-points-60)
+* A Dream Come True [m] - Don't die, ever.
+* Shell Collection [m] - See achievement guide for missable shells.
+* The Travels of THIEF [m] - See achievement guide for missable photographs. Also, don't steal until the very end of the game.
 
-Miscellaneous achievements that can be obtained at any time. 
+***
 
-## Step 1: Story-related Achievements | **Total points: 80**
+[**Step 4: Miscellaneous Achievements**](#step-4-miscellaneous-achievements--total-points-198)
+
+Miscellaneous achievements that can be obtained at any time in the game, and will never be missable. This covers the more obscure achievements that you probably don't even know how to do in the first place, as well as a lot of achievements you will most likely get naturally over the course of the game.
+
+***
+
+# 4) Tips and tricks to keep it to one playthrough
+
+* Very important to know is that on the file select screen, there is an option to copy your save file to one of the other two slots. I recommend using all three slots: One at the beginning of a dungeon, one after the end of a dungeon (or before the boss so you can attempt this hitless bosses), and one that you're playing on normally. To save your game, press Select, Start, A and B at the same time.
+* It is also important to keep multiple save files because you can't ever die or you'll miss out on the best ending. So yet again, don't die. Ever. Always have one of Crazy Tracy's potions available in case of emergency.
+* The Color Dungeon can be done after the third dungeon, or technically the second if you know the grave combination. I recommend doing this as early as possible and then getting the Blue Tunic. The only problem is that the boss of this dungeon is easily the most annoying for hitless, but it also won't become easier later down the game so take that as you will.
+* Read the "The Travels of THIEF [m]" and "Shell Collection [m]" achievements carefully (at the top of step 3), because they are the only achievements that have missables over the course of the game.
+* Talk to the photographer as soon as you can, which is right after the first dungeon. Remember to have two save files ready because he has two separate missable achievements for accepting- and denying to be photographed, that can only be done once during a single playthrough.
+* Don't do the Dream Shrine in Mabe Village right after the second dungeon, do it after the third. You can't get both chests without the Pegasus Boots. Also, talk to Marin right after having done the Dream Shrine.
+* Don't steal anything from the shop before you at least bought Bombs, the Shovel, and the Bow. All three have an achievement to buy them, and re-entering the shop after stealing will insta-kill you.
+* Get the Boomerang A.S.A.P., which can be done after the fifth dungeon and obtaining the Magnifying Lens from the "Magnifying Lens" achievement.
+* Getting a Guardian Acorn or Triangle of Power can make some achievements easier, including hitless bosses. Take this into consideration if something ends up being too difficult.
+
+## Step 1: Story-related Achievements | **Total points: 145**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90724.png) [Level-1 Shield (1)]( https://retroachievements.org/achievement/28838)   
 _Acquire the Level-1 Shield from Tarin_
@@ -209,14 +235,14 @@ This achievement unlocks after defeating the final boss in the Wind Fish's Egg. 
 
 ***
 
-## Step 2: Hitless Boss Achievements | **Total points: 14**
+## Step 2: Hitless Boss Achievements | **Total points: 115**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90714.png) [Bested Moldorm [m] (10)]( https://retroachievements.org/achievement/28829)   
 _Defeat Moldorm without being harmed_
 
 -=MISSABLE=-
 
-Guide.
+A pretty tough first boss to do hitless, but one that can fortunately be easy retried by falling down the pit. Moldorm moves slowly at first until you hit his tail, where he starts moving very quickly. You can jump over him with the Roc's Feather and also attack while he is moving fast. It is recommended to hit him, then walk to the opposite side of where he is since he tends to prefer the edges, then slowly back in for an attack again.
 
 ***
 
@@ -225,7 +251,11 @@ _Defeat Genie without being harmed_
 
 -=MISSABLE=-
 
-Guide.
+The Genie has two phases:
+
+Phase 1: Walk in an U-formation around the room opposite from where he is to avoid his fireballs. When he goes back inside his bottle, hit it and throw it against the wall. Do this three times.
+
+Phase 2: On hit, he will re-appear in a specific location and throw one fireball. You just need to avoid this one and hit him again. It's best to avoid this fireball by walking underneath him rather than walking next to him, which is tougher to avoid.
 
 ***
 
@@ -234,7 +264,11 @@ _Defeat Slime Eye without being harmed_
 
 -=MISSABLE=-
 
-Guide.
+The Slime Eye has two phases:
+
+Phase 1: On entry, use the Pegasus's Boots to slam into the wall right away before additional slimes can be summoned. Then, attack the slime until he is separated enough to charge through him with the Pegasus Boots.
+
+Phase 2: There are two Slimes now. It's best to focus on one at a time while staying as far away as possible from the other one, as they jump up after being hit and then stun you for a second when landing, which leaves you vulnerable to the other slime. Other than that, this boss shouldn't be too troublesome as they have no additional attacks.
 
 ***
 
@@ -243,7 +277,7 @@ _Defeat Angler Fish without being harmed_
 
 -=MISSABLE=-
 
-Guide.
+This should be the easiest boss in the entire game, because the only thing the Angler Fish does for a while is swim up and down. Keep slashing very fast and he'll be defeated super quickly. He can summon other fish and charge straight forward into the wall to have rocks fall down but really, if you just keep slashing him very fast you won't even know he has these attacks--especially if you also have the Triangle of Power.
 
 ***
 
@@ -252,7 +286,7 @@ _Defeat Slime Eel without being harmed_
 
 -=MISSABLE=-
 
-Guide.
+For the Slime Eel, stay in the corner the entire time as his tail- and head cannot reach you there. Once you see his head come out on your side while the tail is on the other side, use the Hookshot to grab him out and keep slashing. Rinse and repeat and the boss is done.
 
 ***
 
@@ -261,7 +295,7 @@ _Defeat Facade without being harmed_
 
 -=MISSABLE=-
 
-Guide.
+Facade's only dangerous attacks are the tiles and bottles moving your way. You can decide to already attack him during this phase with bombs since they also destroy incoming floors but if you'd rather play it safe, walk around on his head and avoid all incoming projectiles. The only thing he does after is very predictably opening holes in the floor, so just put a few bombs on his face and the fight is over.
 
 ***
 
@@ -270,7 +304,7 @@ _Defeat Evil Eagle without being harmed_
 
 -=MISSABLE=-
 
-Guide.
+Have the Sword and Mirror Shield equipped at all time, and don't make any risky attacks. When the eagle is high in the air and you can't reach him, just let him be. He occasionally flies lower or even next to you, but pretty slowly so you have enough time to anticipate. Always remain in the middle for his other attack that blows you off the tower, where you need to use the shield to protect yourself from the wind and his feathers. There is a final attack where he hovers in the air and then goes down diagonally after two seconds, which should be a free hit for you. If you end up taking damage, fall down and re-enter the arena through the door for a free retry.
 
 ***
 
@@ -279,14 +313,26 @@ _Defeat Hot Head without being harmed_
 
 -=MISSABLE=-
 
-Guide.
+For Hot Head, keep standing at the door and spam the Fire Rod. You only really need to watch out if he comes flying towards you diagonally or when you miss hitting him with the Fire Rod when he's taking a dive next to you. Overall a pretty easy boss that shouldn't pose too much trouble, as long as you don't get cocky. When he dives his fire balls come out diagonally, so just stand south of him and there's no issue.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90722.png) [Bested Shadow Nightmares (25)]( https://retroachievements.org/achievement/28837)   
 _Defeat all 6 Shadow Nightmares without being harmed_
 
-Guide.
+Absolutely get the Boomerang for this fight, because it makes the final two phases pathetically easy. If not then uh, enjoy suffering I guess.
+
+Phase 1: A jumping blob that you need to sprinkle Magic Powder on. He never does anything different than just slight jumps, and dies within four hits.
+
+Phase 2: Basically Agahnim but a bit easier. When he throw a fireball at you, use your sword to bounce it back at him. If he does his other attack however, use the Roc's Feather to jump over it.
+
+Phase 3: Oh joy, Moldorm is back... Oh well, if you beat Moldorm hitless you can do this one too, and now you have the Mirror Shield to potentially make it a bit easier as he can't touch you unless he is behind you.
+
+Phase 4: GANON! OF COURSE YOU WERE THE VILLAIN! Except he isn't, but he attacks similarly to his first phase from Link to the Past. You can only deal damage to him with charged Sword attacks, so hit two of them on him, then avoid his fire balls and staff. When he got his staff back, go in for two more hits and repeat this until it's over.
+
+Phase 5: Throw the Boomerang. Just... throw the Boomerang.
+
+Phase 6: Throw the Boomerang. Just... actually no, don't do only that. You can only throw the Boomerang when his eye is open, and in the meantime you need to use Roc's Feather to jump over his uh, arms? Arms. But yet again, it takes one hit and the fight is over. Congratulations!
 
 ***
 
@@ -295,11 +341,11 @@ _Defeat Evil Orb without being harmed_
 
 -=MISSABLE=-
 
-Guide.
+Would you believe me if I told you this is the most annoying boss in the game, potentially the hardest achievement too? Because genuinely, screw this stupid boss. I hate him. Every time you land a sword attack you get bounced off, yet you have to do it quickly, and he also has projectiles to shoot to make it even worse. What worked for me is getting him to a place with my back against the wall so I wouldn't get bounced off, and then I just kept spamming attack. Somehow I took no damage even though a projectile went through me. Probably the Game Boy Color can't process that much epicness, I don't know. But all kidding aside, getting your back against the wall is basically how you want to approach this boss.
 
 ***
 
-## Step 3: Missable Achievements | **Total points: 60**
+## Step 3: Missable Achievements | **Total points: 322**
 
 ### Achievements with missables throughout the entire game (read before continuing)
 
@@ -572,7 +618,7 @@ While Marin is accompanying you, go to Marin's house and open the drawer, throw 
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223996.png) [Date Night - Gotta Be Strong For Your Woman [m] (1)]( Ahttps://retroachievements.org/achievement/201728)   
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223996.png) [Date Night - Gotta Be Strong For Your Woman [m] (1)]( https://retroachievements.org/achievement/201728)   
 _See the different reactions Marin has to you exiting a dungeon in one session._
 
 -=MISSABLE=-
@@ -744,7 +790,7 @@ Charter the whole Color Dungeon before fighting the boss. If you got the map, pr
 
 ***
 
-## Step 4: Miscellaneous Achievements | **Total points: 60**
+## Step 4: Miscellaneous Achievements | **Total points: 198**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/223958.png) [Sleepy Mushroom (1)]( https://retroachievements.org/achievement/201690)   
 _Find the sleepy mushroom in the Mysterious Forest._
