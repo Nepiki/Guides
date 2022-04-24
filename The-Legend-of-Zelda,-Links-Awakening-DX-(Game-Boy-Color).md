@@ -4,7 +4,7 @@ Hello there, I'm Nepiki! I'm a gamer who has an unofficial case of amnesia so I 
 
 For everything me related, here are some links you can check out:
 
-[Retro Achievements](https://retroachievements.org/user/Nepiki) | [Website](https://nepikigaming.com/) | [Discord Server](https://discord.gg/z2gUCmFg2K)
+[Retro Achievements](https://retroachievements.org/user/Nepiki) | [Twitch](https://www.twitch.tv/nepiki) | [Discord Server](https://discord.gg/z2gUCmFg2K)
 
 # 1) Synopsis
 
