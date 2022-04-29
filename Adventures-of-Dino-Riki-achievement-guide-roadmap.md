@@ -249,7 +249,7 @@ _-The easier (but very boring) way: near the end of stage 1, you can get a flyin
 
 **REVISION ACHIEVEMENTS**
 
-![image](https://user-images.githubusercontent.com/95057150/165960788-9d44cfa1-13e5-4cbe-b5b9-ccbdd49f7b8e.png) Didn't Turn Back (5 points)
+![image](https://user-images.githubusercontent.com/95057150/165960788-9d44cfa1-13e5-4cbe-b5b9-ccbdd49f7b8e.png) **Didn't Turn Back** (5 points)
 
 Defeat the boss of Jungle Land without using the Continue cheat.
 
@@ -257,7 +257,7 @@ _See Prehistoric Bee Basher_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/165961087-7239b83d-e324-40d3-9687-2358222ef7ca.png) Scarier Rex (10 points)
+![image](https://user-images.githubusercontent.com/95057150/165961087-7239b83d-e324-40d3-9687-2358222ef7ca.png) **Scarier Rex** (10 points)
 
 Defeat the boss of Desert Land without using the Continue cheat after the first level.
 
@@ -265,7 +265,7 @@ _See Prehistoric Bee Basher_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/165961279-df731d82-483a-44f5-84d1-c8f1f9794081.png) Going Commando (10 points)
+![image](https://user-images.githubusercontent.com/95057150/165961279-df731d82-483a-44f5-84d1-c8f1f9794081.png) **Going Commando** (10 points)
 
 Defeat the boss of Swamp Land without using the Continue cheat after the first level.
 
@@ -273,7 +273,7 @@ _See Prehistoric Bee Basher_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/165961553-8ef16fc6-0f44-45e2-b59b-9cf577677517.png) Warning Ignored (10 points)
+![image](https://user-images.githubusercontent.com/95057150/165961553-8ef16fc6-0f44-45e2-b59b-9cf577677517.png) **Warning Ignored** (10 points)
 
 Defeat the boss of Super Jungle Land without using the Continue cheat after the first level.
 
@@ -281,7 +281,7 @@ _See Prehistoric Bee Basher_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/165961806-9af79409-2d81-4c42-a0df-99faee3f504d.png) Stephen Saver (25 points)
+![image](https://user-images.githubusercontent.com/95057150/165961806-9af79409-2d81-4c42-a0df-99faee3f504d.png) **Stephen Saver** (25 points)
 
 Defeat the boss of Super Desert Land without using the Continue cheat after the first level.
 
@@ -289,7 +289,7 @@ _See Prehistoric Bee Basher_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/165961967-57f908a2-d206-4342-8d17-8a25c2d9f8ce.png) Jafar Jabber (25 points)
+![image](https://user-images.githubusercontent.com/95057150/165961967-57f908a2-d206-4342-8d17-8a25c2d9f8ce.png) **Jafar Jabber** (25 points)
 
 Defeat the boss of Super Swamp Land without using the Continue cheat after the first level.
 
@@ -297,7 +297,7 @@ _See Prehistoric Bee Basher_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/165962160-e2da3367-30c1-49a1-af46-fed8e5fec6ba.png) Prehistoric Bee Basher (50 points)
+![image](https://user-images.githubusercontent.com/95057150/165962160-e2da3367-30c1-49a1-af46-fed8e5fec6ba.png) **Prehistoric Bee Basher** (50 points)
 
 Defeat the final boss without using the Continue cheat
 
