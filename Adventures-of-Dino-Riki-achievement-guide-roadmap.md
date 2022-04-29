@@ -1,7 +1,11 @@
+
+![image](https://user-images.githubusercontent.com/95057150/165960167-eca1bf36-c63b-4661-9fc9-95436313b578.png)
+
+
 **Overview**
 
-- Estimated achievement difficulty: 8,5/10 
-- Approximate amount of time to master: 7-8 hours (Depending on skill). 
+- Estimated achievement difficulty: 8/10 
+- Approximate amount of time to master: 7+ hours (Depending on skill). 
 - Minimum number of playthroughs needed: 1 (plus replaying the first 3 stages a few times) 
 - Number of missable achievements: 6
 - Do cheats disable achievements?: Yes, pressing Up+Start at the game over screen to restart at the stage you were will affect some achievements (mentionned in the achievement name)
@@ -30,7 +34,7 @@ You will also most likely get enough powerups to unlock _Maximum Carnage_ and _I
 
 Clearing all stages will net you the 7 story-related achievements
 
-**UPDATE** A revision has been made for this game to include beating the game without using the continue cheat. So most likely you will need another playthrough to manage this. If you lose all your lives, you will need to start the game over to get those achievements
+**-=UPDATE=-** A revision has been made for this game to include beating the game without using the continue cheat. So most likely you will need another playthrough to manage this. If you lose all your lives, you will need to start the game over to get those achievements
 
 
 
@@ -53,7 +57,7 @@ For gamers who are experienced in shooter games this game will give a mild chall
 
 **Achievements**
 
-![image](https://user-images.githubusercontent.com/95057150/163662151-afa0863a-e324-4c89-9e1a-79304416416f.png) **I'd Turn Back If I Were You!** (5 points)
+![image](https://user-images.githubusercontent.com/95057150/163662151-afa0863a-e324-4c89-9e1a-79304416416f.png) **I'd Turn Back If I Were You!** (2 points)
 
 Defeat PTERODACTYL at the end of Jungle Land.
 
@@ -61,7 +65,7 @@ _Beat Stage 1, story-related and can't be missed_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/163662237-7b2053a8-652d-464c-8c6a-49015589c448.png) **Larry the Scary Rex** (5 points)
+![image](https://user-images.githubusercontent.com/95057150/163662237-7b2053a8-652d-464c-8c6a-49015589c448.png) **Larry the Scary Rex** (2 points)
 
 Defeat TYRANNOSAURUS REX at the end of Desert Land.
 
@@ -69,7 +73,7 @@ _Beat Stage 2, story-related and can't be missed_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/163662302-7f1806d8-deba-431c-b287-4645177be49a.png) **Cobra Command** (10 points)
+![image](https://user-images.githubusercontent.com/95057150/163662302-7f1806d8-deba-431c-b287-4645177be49a.png) **Cobra Command** (2 points)
 
 Defeat SPITTING COBRA at the end of Swamp
 
@@ -77,7 +81,7 @@ _Beat Stage 3, story-related and can't be missed_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/163662339-50d11420-ddaa-44c0-b019-54b068936b7f.png) **I Tried to Warn You!** (10 points)
+![image](https://user-images.githubusercontent.com/95057150/163662339-50d11420-ddaa-44c0-b019-54b068936b7f.png) **I Tried to Warn You!** (2 points)
 
 Defeat PTERODACTYL at the end of SUPER Jungle Land!
 
@@ -85,7 +89,7 @@ _Beat Stage 4-1, story-related and can't be missed_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/163662512-1e1b1a24-1e72-4cc1-b7c9-99584e5ad5b9.png) **Stephen, We Did It!** (10 points)
+![image](https://user-images.githubusercontent.com/95057150/163662512-1e1b1a24-1e72-4cc1-b7c9-99584e5ad5b9.png) **Stephen, We Did It!** (3 points)
 
 Defeat TYRANNOSAURUS REX at the end of SUPER Desert Land!
 
@@ -93,7 +97,7 @@ _Beat Stage 4-2, story-related and can't be missed_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/163662564-4f12834d-2dda-4666-8223-23bedce53edf.png) **Jafar's Last Wish** (25 points)
+![image](https://user-images.githubusercontent.com/95057150/163662564-4f12834d-2dda-4666-8223-23bedce53edf.png) **Jafar's Last Wish** (4 points)
 
 Defeat SPITTING COBRA at the end of SUPER Swamp Land!
 
@@ -101,7 +105,7 @@ _Beat Stage 4-3, story-related and can't be missed_
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/95057150/163662607-2dd29f14-b9f6-48db-a2c9-4518b8879ca4.png) **NOT THE BEES!!!** (50 points)
+![image](https://user-images.githubusercontent.com/95057150/163662607-2dd29f14-b9f6-48db-a2c9-4518b8879ca4.png) **NOT THE BEES!!!** (5 points)
 
 Defeat MAD HORNET at the end of ULTRA Desert Land!
 
@@ -241,6 +245,69 @@ _- The hard (almost impossible) way: play through the game normally until you ge
 _-The easier (but very boring) way: near the end of stage 1, you can get a flying and Macho Riki powerups. When you fly, an infinite number of enemies will come at you, even when you reach the end of the stage. The same 4 waves of enemies will come at you in a loop. They are not too hard to kill and to avoid so the risk of losing your Flying Macho Riki state is small if you stay focused. With this method, you can grind 1 million points in approximately 30 to 45 minutes. You're gonna have to keep the jump button pushed the entire time to keep flying so I suggest remapping the jump button to a trigger at the top of your controller for comfort. If you get hit and lose your flying state, enter the boss lair and let him kill you. You will start back right before the last flying and Macho Riki tiles, grab them and repeat the process_
 
 
+---------------------------------------------------------------------------------------------
+
+**REVISION ACHIEVEMENTS**
+
+![image](https://user-images.githubusercontent.com/95057150/165960788-9d44cfa1-13e5-4cbe-b5b9-ccbdd49f7b8e.png) Didn't Turn Back (5 points)
+
+Defeat the boss of Jungle Land without using the Continue cheat.
+
+_See Prehistoric Bee Basher_
+
+---------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/95057150/165961087-7239b83d-e324-40d3-9687-2358222ef7ca.png) Scarier Rex (10 points)
+
+Defeat the boss of Desert Land without using the Continue cheat after the first level.
+
+_See Prehistoric Bee Basher_
+
+---------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/95057150/165961279-df731d82-483a-44f5-84d1-c8f1f9794081.png) Going Commando (10 points)
+
+Defeat the boss of Swamp Land without using the Continue cheat after the first level.
+
+_See Prehistoric Bee Basher_
+
+---------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/95057150/165961553-8ef16fc6-0f44-45e2-b59b-9cf577677517.png) Warning Ignored (10 points)
+
+Defeat the boss of Super Jungle Land without using the Continue cheat after the first level.
+
+_See Prehistoric Bee Basher_
+
+---------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/95057150/165961806-9af79409-2d81-4c42-a0df-99faee3f504d.png) Stephen Saver (25 points)
+
+Defeat the boss of Super Desert Land without using the Continue cheat after the first level.
+
+_See Prehistoric Bee Basher_
+
+---------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/95057150/165961967-57f908a2-d206-4342-8d17-8a25c2d9f8ce.png) Jafar Jabber (25 points)
+
+Defeat the boss of Super Swamp Land without using the Continue cheat after the first level.
+
+_See Prehistoric Bee Basher_
+
+---------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/95057150/165962160-e2da3367-30c1-49a1-af46-fed8e5fec6ba.png) Prehistoric Bee Basher (50 points)
+
+Defeat the final boss without using the Continue cheat
+
+_For all the achievements from the latest revision, you have to complete every stages without losing all your lives. Meaning the continue cheat is not allowed for any of these. If you lose all your lives you have to start all over from the beginning._
+
+_The game is hard, very hard and for people willing to master this set they'll have to put a considerable amount of time memorizing the enemy patterns and all powerup locations in each stages. Your best ally here is the bird powerup allowing you to fly, you will be able to skip those dreaded platforming sections as long as you don't get hit and lose your wings. Mastering the first 2 stages are a must, because those are the stages where you can farm and rack up much needed extra lives (see the Neko Dino Rikimu achievement above)_
+
+_Stage 4-4 is short but extremely hard, losing a life in this level can be catastrophic as powerups in that stage are scarce and the enemies will throw everything at you, and there is no bird or Macho Riki tiles neither. So if on a previous run you played this level over and over and over again until you mastered it that'll give you a good chance to succeed in your no continues run_
+
+---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 
 Thanks to MGNS8N for the creation of the achievement set
