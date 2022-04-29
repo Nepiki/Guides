@@ -1,10 +1,10 @@
 **Overview**
 
-- Estimated achievement difficulty: 6,5/10 
-- Approximate amount of time to master: 4-6 hours (Depending on skill). 
+- Estimated achievement difficulty: 8,5/10 
+- Approximate amount of time to master: 7-8 hours (Depending on skill). 
 - Minimum number of playthroughs needed: 1 (plus replaying the first 3 stages a few times) 
 - Number of missable achievements: 6
-- Do cheats disable achievements?: No, pressing Up+Start at the game over screen to restart at the stage you were won't affect achievement unlock
+- Do cheats disable achievements?: Yes, pressing Up+Start at the game over screen to restart at the stage you were will affect some achievements (mentionned in the achievement name)
 - Does difficulty affect achievements?: There's no options to change difficulty
 - Glitchy achievements: None
 - Hardest achievement: Neko Dino Rikimu (Rack up nine lives!)
@@ -28,7 +28,9 @@ First, just play through the levels and try to memorize enemy patterns for futur
 
 You will also most likely get enough powerups to unlock _Maximum Carnage_ and _I really Shouldn't Put This in HyperDrive_ (weapons and speed tiles) by playing naturally
 
-Finally, clearing all stages will net you the 7 story-related achievements
+Clearing all stages will net you the 7 story-related achievements
+
+**UPDATE** A revision has been made for this game to include beating the game without using the continue cheat. So most likely you will need another playthrough to manage this. If you lose all your lives, you will need to start the game over to get those achievements
 
 
 
@@ -57,6 +59,7 @@ Defeat PTERODACTYL at the end of Jungle Land.
 
 _Beat Stage 1, story-related and can't be missed_
 
+---------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/95057150/163662237-7b2053a8-652d-464c-8c6a-49015589c448.png) **Larry the Scary Rex** (5 points)
 
@@ -64,6 +67,7 @@ Defeat TYRANNOSAURUS REX at the end of Desert Land.
 
 _Beat Stage 2, story-related and can't be missed_
 
+---------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/95057150/163662302-7f1806d8-deba-431c-b287-4645177be49a.png) **Cobra Command** (10 points)
 
@@ -71,11 +75,15 @@ Defeat SPITTING COBRA at the end of Swamp
 
 _Beat Stage 3, story-related and can't be missed_
 
+---------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/95057150/163662339-50d11420-ddaa-44c0-b019-54b068936b7f.png) **I Tried to Warn You!** (10 points)
 
 Defeat PTERODACTYL at the end of SUPER Jungle Land!
 
 _Beat Stage 4-1, story-related and can't be missed_
+
+---------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/95057150/163662512-1e1b1a24-1e72-4cc1-b7c9-99584e5ad5b9.png) **Stephen, We Did It!** (10 points)
 
@@ -83,11 +91,15 @@ Defeat TYRANNOSAURUS REX at the end of SUPER Desert Land!
 
 _Beat Stage 4-2, story-related and can't be missed_
 
+---------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/95057150/163662564-4f12834d-2dda-4666-8223-23bedce53edf.png) **Jafar's Last Wish** (25 points)
 
 Defeat SPITTING COBRA at the end of SUPER Swamp Land!
 
 _Beat Stage 4-3, story-related and can't be missed_
+
+---------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/95057150/163662607-2dd29f14-b9f6-48db-a2c9-4518b8879ca4.png) **NOT THE BEES!!!** (50 points)
 
@@ -95,11 +107,15 @@ Defeat MAD HORNET at the end of ULTRA Desert Land!
 
 _Beat Stage 4-4, story-related and can't be missed_
 
+---------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/95057150/163662681-cbf938e2-8fb2-45f6-af15-7eb2fea21b00.png) **YES! I AM INVINCIBLE!!** (10 points)
 
 Get a full bar of 8 hearts! In THIS game!?
 
 _You start the game with 2 hearts. To upgrade your max heart containers, you have to find the heart container tiles scattered through the levels. If you die, you lose one. There is three heart containers in stage 1 and three in stage 2 (and many others in the other stages), so you can earn this achievement fairly quickly if you go through the first 2 levels without dying and without missing heart container tiles. None of them are hard to find so make sure to destroy all the blocks on your path_
+
+---------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/95057150/163662872-0d5ddb3e-d4fc-42bb-a143-7ab3bbee1f11.png) **I Really Shouldn't Put This in HyperDrive** (5 points)
 
@@ -107,17 +123,23 @@ Get the maximum speed of three wing-boots!
 
 _To upgrade your speed, grab the boots powerup, you have to grab 3 of them without dying or without getting hit to earn this achievement, you should be able to unlock it naturally while playing through the game_
 
+---------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/95057150/163662964-76c0d3ee-a0e5-4afb-aac8-7db6ce0f5b5a.png) **Maximum Carnage** (5 points)
 
 Get the best weapon upgrade!
 
 _Grabbing the fist powerup will improve your weapon. You start with 2 fireballs, the first upgrade will give you hammers, the second upgrade will give you boomerangs, and the final one will give you torches. The achievement unlocks when you get the torches. You will get this naturally while playing through the game_
 
+---------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/95057150/163663254-a14b01eb-efcb-4c10-be5c-73c4cad1f557.png) **Neko Dino Rikimu** (25 points)
 
 Rack up nine lives!
 
 _You start the game with 2 lives, the only score milestone to reach to give you an extra life is 10,000. To earn more lives you have to get a streak of 9 diamond tiles without getting hit. Diamond tiles gives you points exponentially and gives you an extra life when you grab the ninth one. If you get hit, the streak goes back to zero. The streak will also reset at the end of a stage. It's highly recommended to do this on the first 3 stages. The latter ones don't have enough diamond tiles to give extra lives, and those stages are very hard anyway so not getting hit will be too challenging. You can get 3 extra lives in stage one (one for earning 10,000 points and two for diamonds streak. On stage 2 you can earn three more lives from diamonds. So you can have 8 lives after 2 stages. You can earn the final one on stage 3. Memorizing enemy patterns is a must for this achievement, as getting hit at the worst moment will screw your entire attempt. The best moment to get hit is after earning an extra life and the streak started back at 0, if you get hit at the middle of a diamond streak you're gonna have to start all over again._
+
+---------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/95057150/163691490-f9cadd4d-0b86-47ef-812f-2bc15fe4e464.png) **FLYING DUTCHMAN** (10 points)
 
@@ -138,6 +160,8 @@ _Macho Riki Screenshot locations:_
 ![image](https://user-images.githubusercontent.com/95057150/163700029-338ff833-2bf0-4d52-bea4-0c23a60ff1ec.png)
 
 
+---------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/95057150/163700106-09502e1a-cf79-49e7-a6c9-1a5eec7e04e6.png) **We Just Want to PUMP - YOU UP!** (10 points)
 
 Get Macho Riki in Desert Land to the end of the level!
@@ -148,6 +172,8 @@ _Location:_
 
 ![image](https://user-images.githubusercontent.com/95057150/163700198-11111a7b-db51-4f11-9b37-76df52f4b66e.png)
 
+
+---------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/95057150/163700400-2f38b855-cb4f-4c12-8cb9-d2194d4b2642.png) **THE INCREDIBLE SWAMP THING** (10 points)
 
@@ -161,11 +187,15 @@ _Locations:_
 ![image](https://user-images.githubusercontent.com/95057150/163700716-364a83f9-698a-43f1-a072-396032924c2f.png)
 
 
+---------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/95057150/163700729-af3d826a-16c3-4c03-887f-f29641717c94.png) **The Bird is NOT the Word** (10 points)
 
 Beat Jungle Land without getting ANY wings!
 
 _See Prehistoric Platforming Perfection_
+
+---------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/95057150/163700745-5f0ab006-db0e-4c39-8803-86817cfe2eba.png) **Desert Soar-vivor** (10 points)
 
@@ -173,11 +203,15 @@ Beat Desert Land without getting ANY wings!
 
 _See Prehistoric Platforming Perfection_
 
+---------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/95057150/163700767-4f890878-453b-4eb8-9423-0d0180131609.png) **Prehistoric Platforming Perfection** (25 points)
 
 Beat Swamp Land without getting ANY wings!
 
 _3 achievements are awarded for completing the first 3 stages without grabbing the bird powerup. Even if you don't use it, grabbing the tile will negate the achievement. So you will have to go through the jumping sections on stage 1 and 3, which can be very annoying considering this inconsistent and inaccurate aspect of the game_
+
+---------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/95057150/163701336-6223b0ec-8f02-4dab-a57d-2a9b6861375e.png) **Encino Man** (10 points)
 
@@ -186,11 +220,15 @@ Become a well-dressed caveman by getting 50,000 points!
 _See How about a Hundred Hours??_
 
 
+---------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/95057150/163701393-8b6eee8c-335f-4b80-a8e0-e40490d0e893.png) **Cactus in a Small Sombrero Trying to Play a DS** (25 points)
 
 Get 500,000 points. I have no idea what this is.
 
 _See How about a Hundred Hours??_
+
+---------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/95057150/163701417-49346427-a0fa-411f-9f7b-f90cde4a27a3.png) **How About a Hundred Hours??** (50 points)
 
