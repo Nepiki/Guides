@@ -40,7 +40,7 @@ Clearing all stages will net you the 7 story-related achievements
 
 Step 2: Macho Riki
 
-There is achievements for reaching the end level bosses as Macho Riki for the first three levels, see the achievements descriptions below to know the location of those powerups. This will give you the _Flying Dutchman_, _We just want to PUMP - YOU UP_ and _THE INCREDIBLE SWAMP THING_ achievements. When you succesfully get all 3, restart the game for step 3. 
+There are achievements for reaching the end level bosses as Macho Riki for the first three levels, see the achievements descriptions below to know the location of those powerups. This will give you the _Flying Dutchman_, _We just want to PUMP - YOU UP_ and _THE INCREDIBLE SWAMP THING_ achievements. When you succesfully get all 3, restart the game for step 3. 
 
 
 
@@ -51,7 +51,7 @@ Those are by far the hardest achievements in this game, but all of these can be 
 
 **Conclusion**
 
-For gamers who are experienced in shooter games this game will give a mild challenge, but green shooter gamers will find it pretty hard and frustrating, especially the platforming sections where you must jump over lily pads or ravines, which is very poorly done. The key here is to memorize the enemy patterns, which is always the same, and avoid grabbing too much speed powerups, only one is sufficent to effectively dodge enemy attacks. The good news is that all achievements can be earned on the first 3 stages except the story-related ones (finishing the stages)
+For gamers who are experienced in shooter games this game will give a mild challenge, but green shooter gamers will find it pretty hard and frustrating, especially the platforming sections where you must jump over lily pads or ravines, which is very poorly done. The key here is to memorize the enemy patterns, which are always the same, and avoid grabbing too much speed powerups, only one is sufficent to effectively dodge enemy attacks. The good news is that all achievements can be earned on the first 3 stages except the story-related ones (finishing the stages)
 
 
 
@@ -117,7 +117,7 @@ _Beat Stage 4-4, story-related and can't be missed_
 
 Get a full bar of 8 hearts! In THIS game!?
 
-_You start the game with 2 hearts. To upgrade your max heart containers, you have to find the heart container tiles scattered through the levels. If you die, you lose one. There is three heart containers in stage 1 and three in stage 2 (and many others in the other stages), so you can earn this achievement fairly quickly if you go through the first 2 levels without dying and without missing heart container tiles. None of them are hard to find so make sure to destroy all the blocks on your path_
+_You start the game with 2 hearts. To upgrade your max heart containers, you have to find the heart container tiles scattered through the levels. If you die, you lose one. There are three heart containers in stage 1 and three in stage 2 (and many others in the other stages), so you can earn this achievement fairly quickly if you go through the first 2 levels without dying and without missing heart container tiles. None of them are hard to find so make sure to destroy all the blocks on your path_
 
 ---------------------------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ _To upgrade your speed, grab the boots powerup, you have to grab 3 of them witho
 
 Get the best weapon upgrade!
 
-_Grabbing the fist powerup will improve your weapon. You start with 2 fireballs, the first upgrade will give you hammers, the second upgrade will give you boomerangs, and the final one will give you torches. The achievement unlocks when you get the torches. You will get this naturally while playing through the game_
+_Grabbing the fist powerup will improve your weapon. You start with rocks, the first upgrade will give you hammers, the second upgrade will give you boomerangs, and the final one will give you torches. The achievement unlocks when you get the torches. You will get this naturally while playing through the game_
 
 ---------------------------------------------------------------------------------------------
 
@@ -153,7 +153,7 @@ _Macho Riki is a hidden powerup that gives Riki his ultimate form, he will becom
 
 _On stage 1, there is 3 Macho Riki powerups and 4 bird ones, their locations are invisible so you're gonna have to hit their exact location to make them appear. The first bird tile is just before the first lily pad, shoot to the left of the speed tile powerup to make the bird appear, grab it then jump across the water, shortly after, you will see a line of three power blocks to the right, ignore them, instead go to the left side by the water and shoot to make the first Macho Riki powerup appear. Now that you have both powerups you can start flying right away and try to survive until the end of the stage to get the achievement._
 
-_If you lose the powerups you can still find other ones by the end of the stage, the second Macho Riki tile is to the far left side of the screen just before another river section where some lily pads are diving underwater, the third and final one is again to the left side between 2 long sections of water. The 2nd and 3rd bird tile are just a few feet from each other, in an area where you have small mountains on your path, look for a ham tile on the right side, the bird tiles are just to the right of the ham tile and above it. The final bird tile is just to the right of the final Macho Riki tile mentioned above._
+_If you lose the powerups you can still find other ones by the end of the stage, the second Macho Riki tile is to the far left side of the screen just before another river section where some lily pads are diving underwater, the third and final one is again to the left side between 2 long sections of water. The 2nd and 3rd bird tiles are just a few feet from each other, in an area where you have small mountains on your path, look for a ham tile on the right side, the bird tiles are just to the right of the ham tile and above it. The final bird tile is just to the right of the final Macho Riki tile mentioned above._
 
 _A convenient way to get this achievement is by dying near the very end of the stage, the last checkpoint will put you right at the point where you can grab both the final bird and final Macho Riki tiles._
 
@@ -301,9 +301,9 @@ _See Prehistoric Bee Basher_
 
 Defeat the final boss without using the Continue cheat
 
-_For all the achievements from the latest revision, you have to complete every stages without losing all your lives. Meaning the continue cheat is not allowed for any of these. If you lose all your lives you have to start all over from the beginning._
+_For all the achievements from the latest revision, you have to complete every stage without losing all your lives. Meaning the continue cheat is not allowed for any of these. If you lose all your lives you have to start all over from the beginning._
 
-_The game is hard, very hard and for people willing to master this set they'll have to put a considerable amount of time memorizing the enemy patterns and all powerup locations in each stages. Your best ally here is the bird powerup allowing you to fly, you will be able to skip those dreaded platforming sections as long as you don't get hit and lose your wings. Mastering the first 2 stages are a must, because those are the stages where you can farm and rack up much needed extra lives (see the Neko Dino Rikimu achievement above)_
+_The game is hard, very hard and for people willing to master this set they'll have to put a considerable amount of time memorizing the enemy patterns and all powerup locations in each stage. Your best ally here is the bird powerup allowing you to fly, you will be able to skip those dreaded platforming sections as long as you don't get hit and lose your wings. Mastering the first 2 stages are a must, because those are the stages where you can farm and rack up much needed extra lives (see the Neko Dino Rikimu achievement above)_
 
 _Stage 4-4 is short but extremely hard, losing a life in this level can be catastrophic as powerups in that stage are scarce and the enemies will throw everything at you, and there is no bird or Macho Riki tiles neither. So if on a previous run you played this level over and over and over again until you mastered it that'll give you a good chance to succeed in your no continues run_
 
