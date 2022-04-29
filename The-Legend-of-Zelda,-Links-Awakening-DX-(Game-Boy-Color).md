@@ -58,7 +58,7 @@ Miscellaneous achievements that can be obtained at any time in the game, and wil
 
 * Very important to know is that on the file select screen, there is an option to copy your save file to one of the other two slots. I recommend using all three slots: One at the beginning of a dungeon, one after the end of a dungeon (or before the boss so you can attempt this hitless bosses), and one that you're playing on normally. To save your game, press Select, Start, A and B at the same time.
 * It is also important to keep multiple save files because you can't ever die or you'll miss out on the best ending. So yet again, don't die. Ever. Always have one of Crazy Tracy's potions available in case of emergency.
-* The Color Dungeon can be done after the third dungeon, or technically the second if you know the grave combination. I recommend doing this as early as possible and then getting the Blue Tunic. The only problem is that the boss of this dungeon is easily the most annoying for hitless, but it also won't become easier later down the game so take that as you will.
+* The Color Dungeon can be done after the third dungeon, or technically the second if you know the grave combination. I recommend doing this as early as possible and then getting the Blue Tunic. The only problem is that the boss of this dungeon is easily the most annoying for hitless, and it can potentially be a bit easier if you wait until after the final dungeon since the Magic Rod is arguably the better weapon to use due to not bouncing off.
 * Read the "The Travels of THIEF [m]" and "Shell Collection [m]" achievements carefully (at the top of step 3), because they are the only achievements that have missables over the course of the game.
 * Talk to the photographer as soon as you can, which is right after the first dungeon. Remember to have two save files ready because he has two separate missable achievements for accepting- and denying to be photographed, that can only be done once during a single playthrough.
 * Don't do the Dream Shrine in Mabe Village right after the second dungeon, do it after the third. You can't get both chests without the Pegasus Boots. Also, talk to Marin right after having done the Dream Shrine.
@@ -342,6 +342,8 @@ _Defeat Evil Orb without being harmed_
 -=MISSABLE=-
 
 Would you believe me if I told you this is the most annoying boss in the game, potentially the hardest achievement too? Because genuinely, screw this stupid boss. I hate him. Every time you land a sword attack you get bounced off, yet you have to do it quickly, and he also has projectiles to shoot to make it even worse. What worked for me is getting him to a place with my back against the wall so I wouldn't get bounced off, and then I just kept spamming attack. Somehow I took no damage even though a projectile went through me. Probably the Game Boy Color can't process that much epicness, I don't know. But all kidding aside, getting your back against the wall is basically how you want to approach this boss.
+
+EDIT: Actually, I realised something after. This boss will become much, much easier when using the Magic Rod from the final dungeon, simply because you don't bounce off. You will have to wait until the very end of the game to do this, but it may be a worthy sacrifice if the boss gives you too much trouble with the sword. Just keep spamming the Magic Rod after he shot a projectile, watch out for the skeleton when he turns red and you're good to go! 
 
 ***
 
