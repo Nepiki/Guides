@@ -40,7 +40,7 @@ Clearing all stages will net you the 7 story-related achievements
 
 Step 2: Macho Riki
 
-There are achievements for reaching the end level bosses as Macho Riki for the first three levels, see the achievements descriptions below to know the location of those powerups. This will give you the _Flying Dutchman_, _We just want to PUMP - YOU UP_ and _THE INCREDIBLE SWAMP THING_ achievements. When you succesfully get all 3, restart the game for step 3. 
+There are achievements for reaching the end level bosses as Macho Riki for the first three levels, see the achievements descriptions below to know the location of those powerups. This will give you the _Flying Dutchman_, _We just want to PUMP - YOU UP_ and _THE INCREDIBLE SWAMP THING_ achievements. When you successfully get all 3, restart the game for step 3. 
 
 
 
@@ -141,7 +141,7 @@ _Grabbing the fist powerup will improve your weapon. You start with rocks, the f
 
 Rack up nine lives!
 
-_You start the game with 2 lives, the only score milestone to reach to give you an extra life is 10,000. To earn more lives you have to get a streak of 9 diamond tiles without getting hit. Diamond tiles gives you points exponentially and gives you an extra life when you grab the ninth one. If you get hit, the streak goes back to zero. The streak will also reset at the end of a stage. It's highly recommended to do this on the first 3 stages. The latter ones don't have enough diamond tiles to give extra lives, and those stages are very hard anyway so not getting hit will be too challenging. You can get 3 extra lives in stage one (one for earning 10,000 points and two for diamonds streak. On stage 2 you can earn three more lives from diamonds. So you can have 8 lives after 2 stages. You can earn the final one on stage 3. Memorizing enemy patterns is a must for this achievement, as getting hit at the worst moment will screw your entire attempt. The best moment to get hit is after earning an extra life and the streak started back at 0, if you get hit at the middle of a diamond streak you're gonna have to start all over again._
+_You start the game with 2 lives, the only score milestone to reach to give you an extra life is 10,000. To earn more lives you have to get a streak of 9 diamond tiles without getting hit. Diamond tiles gives you points exponentially and gives you an extra life when you grab the ninth one. If you get hit, the streak goes back to zero. The streak will also reset at the end of a stage. It's highly recommended to do this on the first 3 stages. The latter ones don't have enough diamond tiles to give extra lives, and those stages are very hard anyway so not getting hit will be too challenging. You can get 3 extra lives in stage one (one for earning 10,000 points and two from diamonds streak. On stage 2 you can earn three more lives from diamonds. So you can have 8 lives after 2 stages. You can earn the final one on stage 3. Memorizing enemy patterns is a must for this achievement, as getting hit at the worst moment will screw your entire attempt. The best moment to get hit is after earning an extra life and the streak started back at 0, if you get hit at the middle of a diamond streak you're gonna have to start all over again._
 
 ---------------------------------------------------------------------------------------------
 
@@ -149,7 +149,7 @@ _You start the game with 2 lives, the only score milestone to reach to give you 
 
 Fly with MACHO RIKI to the end of Jungle Land!
 
-_Macho Riki is a hidden powerup that gives Riki his ultimate form, he will become very muscular and will throw versions of himself as projectiles. The power will end if you suffer damage and you can't carry this power to fight bosses. To get this achievement you have to reach the stage 1 boss's lair as Macho Riki while flying. To fly you have to find another hidden powerup, the bird, which gives you the ability to fly by holding the jump button. Like the Macho Riki powerup, suffering damage will end it, as well as releasing the jump button._
+_Macho Riki is a hidden powerup that gives Riki his ultimate form, he will become very muscular and will throw versions of himself as projectiles. The power will end if you suffer damage, and you can't carry this power to fight bosses. To get this achievement you have to reach the stage 1 boss's lair as Macho Riki while flying. To fly you have to find another hidden powerup, the bird, which gives you the ability to fly by holding the jump button. Like the Macho Riki powerup, suffering damage will end it, as well as releasing the jump button._
 
 _On stage 1, there is 3 Macho Riki powerups and 4 bird ones, their locations are invisible so you're gonna have to hit their exact location to make them appear. The first bird tile is just before the first lily pad, shoot to the left of the speed tile powerup to make the bird appear, grab it then jump across the water, shortly after, you will see a line of three power blocks to the right, ignore them, instead go to the left side by the water and shoot to make the first Macho Riki powerup appear. Now that you have both powerups you can start flying right away and try to survive until the end of the stage to get the achievement._
 
@@ -213,7 +213,7 @@ _See Prehistoric Platforming Perfection_
 
 Beat Swamp Land without getting ANY wings!
 
-_3 achievements are awarded for completing the first 3 stages without grabbing the bird powerup. Even if you don't use it, grabbing the tile will negate the achievement. So you will have to go through the jumping sections on stage 1 and 3, which can be very annoying considering this inconsistent and inaccurate aspect of the game_
+_3 achievements are awarded for completing the first 3 stages without grabbing the bird powerup. Even if you don't use it, grabbing the tile will negate the achievement. So this means you will have to go through the jumping sections on stage 1 and 3, which can be very annoying considering this inconsistent and inaccurate aspect of the game_
 
 ---------------------------------------------------------------------------------------------
 
