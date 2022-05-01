@@ -43,8 +43,6 @@ Dummy step. Remove if unnecessary.
 
 Dummy step. Remove if unnecessary.
 
-***
-
 # 4) Dummy Section (conclusion/tips and tricks)
 
 Dummy section that can be used for any other comments not already applied in the previous three sections. Remove for yourself if not necessary.
