@@ -7,6 +7,7 @@
 3. Click on the New Page button (top right part of the page).
 4. Create/edit your guide formatting it with [markdown](https://commonmark.org/help/). Alternatively, you can use [this template](https://github.com/RetroAchievements/guides/wiki/Achievement-Guide-template) or an existing guide by clicking edit in the top-right corner and then copying the contents to your own page.
 5. Save the page.
+6. When the achievement guide is complete, please go to the directory of the game and add it to the table in alphabetical order.
 
 ## Take note!
 Any user or developer can add or improve guides here.
