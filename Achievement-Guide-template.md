@@ -27,9 +27,9 @@ You can create as many steps as you desire. Recommended is to have one step dedi
 
 If the step has missables, be sure to make a bulletpoint list like below to inform the reader right away.
 
-* Missable achievement 1
-* Missable achievement 2
-* Missable achievement 3 
+* [Missable achievement 1](Link to achievement)
+* [Missable achievement 2](Link to achievement)
+* [Missable achievement 3](Link to achievement)
 
 ***
 
