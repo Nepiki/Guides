@@ -5,7 +5,7 @@
 |   |   |
 |:--|:--|
 |Set Difficulty|3/10|
-|Approximate time to master|20-25 (with Fast-forward)|
+|Approximate time to master|20-25 (with fast-forward), 60-80 (without fast-forward)|
 |Minimum numbers of playthroughs needed|1|
 |Number of missable achievements|11|
 |Does difficulty affect achievements?|Not applicable|
@@ -13,13 +13,15 @@
 
 # 2) Introduction
 
-In this section, you can give a short synopsis about the game, your feelings about the set, as well as placing credits to the achievement set makers.
+Pokémon Yellow is the fourth version of Generation 1, and the third version for us in the west. This version is an enhancement over Pokémon Red and Blue, having some quality-of-life features but mostly attempting to draw in more people due to the popularity of the anime at the time. While the story is still the exact same as the original game, some anime characters like Officer Jenny and Jessie and James are more prevalent, and the starter Pokémon is Pikachu. This Pikachu is special as it can evolve, and will always follow the trainer and can be interacted with.
+
+The achievement set consists of a total of 77 achievements, created by users Blazekickn, [stfN1337](https://retroachievements.org/user/stfN1337), and [dude1286](https://retroachievements.org/user/dude1286). This set covers everything there is to do in the main story, as well as some additional challenges that mostly revolve around you using your own pikachu, and a bunch of friendship achievements to see if Pikachu is happy with you or not. Be sure to shower him with love, as he will be your best friend during this game--whether you want to or not.
 
 # 3) Walkthrough
 
-[**Step 1: Story-related achievements**](#step-1-dummy-step--total-points-999)
+[**Step 1: Story-related achievements**](step-1-story-related-achievements--total-points-193)
 
-All of these achievements happen during the story, which means from the start to beating the Pokémon league. For your playthrough, I highly recommend going to the options right away and setting the battle style to "set", and doing a Pikachu-only run. There are some achievements where you may only use Pikachu, and it also makes the grind to level 100 easier as you'll be around level 80-90 when arriving at the league. You also need to beat the entire Pokémon League with just Pikachu. This playthrough is not as hard as it sounds, especially not with items such as X-Defend and X-Attack. Recommended moves to teach Pikachu are Double Team, Thunderbolt, and Body Slam (TM found in the S.S. Anne).
+All of these achievements happen during the story, which means from the start to beating the Pokémon league. For your playthrough, I highly recommend going to the options right away and setting the battle style to "set", and doing a Pikachu-only run. There are some achievements where you may only use Pikachu, and it also makes the grind to level 100 easier as you'll be around level 80-90 when arriving at the league. You also need to beat the entire Pokémon League with just Pikachu so whether you like it or not, your Pikachu will have to be close to max level anyway. This Pikachu-only playthrough is not as hard as it sounds, especially not with items such as X-Defend and X-Attack. Recommended moves to teach Pikachu are Double Team, Thunderbolt, and Body Slam (TM found in the S.S. Anne).
 
 The following achievements for this step are missable (in chronological order):
 
@@ -32,7 +34,7 @@ The following achievements for this step are missable (in chronological order):
 
 ***
 
-[**Step 2: Pokédex Completion and Trades**](#step-2-dummy-step-2--total-points-999)
+[**Step 2: Pokédex Completion and Trades**](#step-2-pok%C3%A9dex-completion-and-trades--total-points-129)
 
 There are a total of 129 Pokémon to obtain in Pokémon Yellow, not including trades. You only need one Eeveelution, either fossils from Mt. Moon, and either Hitmonlee or Hitmonchan for example. There are no real missable Pokémon aside from one-chance encounters, such as all legendaries and Snorlax. Keep in mind that there are also only 5 Moon Stones in the game, and there are four Pokémon that need them: Nidorino, Nidorina, Jigglypuff, and Clefairy. Wigglytuff is also able to be bought from the Game Corner in case you have no Moon Stones left. Before you start this step, I also recommend getting 50 Pokémon as quickly as possible and then talk to Professor Oak's aide near Fuchsia City for an Exp. All.
 
@@ -44,9 +46,9 @@ Missable achievements:
 
 ***
 
-[**Step 3: Miscellaneous achievements**](#step-3-dummy-step-3--total-points-999)
+[**Step 3: Miscellaneous achievements**](#step-3-miscellaneous-achievements--total-points-116)
 
-A few achievements that don't fit in any other category, and can generally be done at any time. The sole exception to this rule is the missable achievement of this step. Do **NOT** beat any trainers on Routes 12-15 before having obtained the PokéFlute. You also need a Pokémon with the HM Cut and if you're doing a Pikachu-only run, it is recommended to take ethers/elixers to restore PP without leaving the area.
+A few achievements that don't fit in any other category, and can generally be done at any time. The sole exception to this rule is the missable achievement of this step. Do **NOT** beat any trainers on Routes 12-15 before having obtained the PokéFlute. To attempt this achievement, you need a Pokémon with the HM Cut and if you're doing a Pikachu-only run, it is recommended to take ethers/elixers to restore PP without leaving the area.
 
 Missable achievement:
 
@@ -54,7 +56,7 @@ Missable achievement:
 
 ***
 
-[**Step 4: Pikachu Mood Achievments**]()
+[**Step 4: Pikachu Mood Achievments**](#step-4-pikachu-mood-achievements--total-points-30)
 
 All of these achievements involve talking to Pikachu when its mood is right. General tips are given during this step, but I recommend talking to Pikachu often so you have to put in less effort near the end.
 
@@ -66,7 +68,7 @@ Missable achievements:
 
 ***
 
-## Step 1: Story-related achievements | **Total points: 999**
+## Step 1: Story-related achievements | **Total points: 193**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92317.png) [Pokemon - I Choose You! (1)]( https://retroachievements.org/achievement/81655)   
 _Obtain a Pokedex from Prof. Oak._
@@ -255,7 +257,7 @@ Story related, cannot be missed.
 
 ***
 
-## Step 2: Pokédex Completion and Trades | **Total points: 999**
+## Step 2: Pokédex Completion and Trades | **Total points: 129**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92351.png) [Fish Out Of Water (3)]( https://retroachievements.org/achievement/81658)   
 _Get ripped off in the Pokemon Center on Route 3._
@@ -391,7 +393,7 @@ This requires you to get every single obtainable Pokémon in the game. Don't kil
 
 ***
 
-## Step 3: Dummy Step 3 | **Total points: 999**
+## Step 3: Miscellaneous achievements | **Total points: 116**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92342.png) [Preparing to Be the Very Best (1)]( https://retroachievements.org/achievement/4436)   
 _Assemble a full team of Pokemon._
@@ -453,18 +455,164 @@ I've been warning you this entire guide to focus only on Pikachu so if you didn'
 
 ***
 
-## Step 4: Dummy Step 4 | **Total points: 999**
+## Step 4: Pikachu Mood achievements | **Total points: 30**
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92004.png) [A N G E R Y (1)]( https://retroachievements.org/achievement/81795)   
+_0 <= Friendship <= 50 Mood: Bad_
 
-Guide for the achievement.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92006.png) [Smug Little Rat (1)]( https://retroachievements.org/achievement/81796)   
+_0 <= Friendship <= 50 Mood: Normal_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92005.png) [You're lucky I'm feeling generous today (1)]( https://retroachievements.org/achievement/81797)   
+_0 <= Friendship <= 50 Mood: Good_
 
 ***
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92007.png) [Look at me when I'm talking to you! (1)]( https://retroachievements.org/achievement/81798)   
+_51 <= Friendship <= 100 Mood: Bad_
 
-Guide for the achievement.
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92008.png) [Ear Twitches (1)]( https://retroachievements.org/achievement/81799)   
+_51 <= Friendship <= 100 Mood: Normal_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92009.png) [Not Mad, Just Disappointed (1)]( https://retroachievements.org/achievement/81800)   
+_51 <= Friendship <= 100 Mood: Good_
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92010.png) [Angry Ear Twitches (1)]( https://retroachievements.org/achievement/81801)   
+_101 <= Friendship <= 160 Mood: Bad_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92011.png) [Friendly Pikachu (1)]( https://retroachievements.org/achievement/81802)   
+_101 <= Friendship <= 130 Mood: Normal_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92012.png) [So Happy (1)]( https://retroachievements.org/achievement/81803)   
+_101 <= Friendship <= 130 Mood: Good_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92013.png) [Happier Pikachu (1)]( https://retroachievements.org/achievement/81804)   
+_131 <= Friendship <= 160 Mood: Normal_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92014.png) [High Five! (1)]( https://retroachievements.org/achievement/81805)   
+_131 <= Friendship <= 160 Mood: Good_
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92016.png) [Depressed Pikachu (1)]( https://retroachievements.org/achievement/81806)   
+_161 <= Friendship <= 255 Mood: Bad_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92018.png) [Cheery Mood (1)]( https://retroachievements.org/achievement/81807)   
+_161 <= Friendship <= 200 Mood: Normal_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92019.png) [Hug Me! (1)]( https://retroachievements.org/achievement/81808)   
+_161 <= Friendship <= 200 Mood: Good_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92021.png) [Pikachu Loves Me! (1)]( https://retroachievements.org/achievement/81809)   
+_201 <= Friendship <= 250 Mood: Normal_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92022.png) [Really Loves Me! (1)]( https://retroachievements.org/achievement/81810)   
+_201 <= Friendship <= 250 Mood: Good_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92023.png) [Best Friends Forever (1)]( https://retroachievements.org/achievement/81811)   
+_251 <= Friendship <= 255 Mood: Normal_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92025.png) [Just Like Ash (1)]( https://retroachievements.org/achievement/81812)   
+_251 <= Friendship <= 255 Mood: Good_
+
+***
+
+Like I mentioned during the walkthrough, it is recommended to check up on Pikachu often, like after every win or loss. Once you're aiming for the achievements you're missing, keep the following in mind:
+
+* The easiest way to increase friendship is to give Pikachu potions (even at full health). The easiest way to decrease friendship is to store Pikachu in a PC box over and over.
+* Friendships are sorted by groups with 3 moods each: 0-50, 51-100, 101-130, 131-160, 161-200, 201-255. Once you get a reaction that is within one of these groups, you can work on changing Pikachu's mood to get the others within that group.
+* The easiest way to change Pikachu's mood is by losing/winning a battle or doing the before-mentioned friendship methods.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92048.png) [Gotta Catch em' (1)]( https://retroachievements.org/achievement/81813)   
+_Catch a Pokemon and then talk to Pikachu._
+
+Exactly what the description says, catch a Pokémon and talk to Pikachu right away.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92029.png) [Buckethead (1)]( https://retroachievements.org/achievement/81814)   
+_Use a fishing rod and then talk to Pikachu._
+
+Exactly what the description says, use a fishing rod and then talk to Pikachu. It doesn't matter if the rod triggers a random encounter or not.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92036.png) [No need for the B Button (1)]( https://retroachievements.org/achievement/81815)   
+_Try to evolve Pikachu and then talk to them._
+
+Buy a Thunder stone from the Celadon Department Store, then use it on Pikachu to trigger this reaction.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92037.png) [Signature Move [m] (1)]( https://retroachievements.org/achievement/81816)   
+_Teach Pikachu Thunder or Thunderbolt and then talk to them._
+
+-=MISSABLE=-
+
+This achievement becomes missable once you have used the TMs of Thunderbolt/Thunder and didn't talk to Pikachu right away. TM25 Thunder is found in the Power Plant, TM24 Thunderbolt is a reward from beating Lt. Surge.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92035.png) [Just Give Me 5 More Minutes (1)]( https://retroachievements.org/achievement/81817)   
+_Talk to Pikachu while he has the Sleep status. (No Pokemon Center)_
+
+The easiest way to fall asleep is to find a Drowzee, east of Vermillion City. Let them cast Hypnosis on Pikachu, then run from the battle and talk to Pikachu.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92034.png) [Better Bring Full Heal (1)]( https://retroachievements.org/achievement/81818)   
+_Talk to Pikachu while he has any status besides Sleep._
+
+The easiest way to get a status effect is by finding an Oddish or Gloom, east of Fuchsia City. Let them paralyze Pikachu, then run from the battle and talk to Pikachu.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92031.png) [Jigglypuff Used Sing (1)]( https://retroachievements.org/achievement/81819)   
+_Talk to Pikachu after having fallen asleep due to Jigglypuff's song. (NOT THE STATUS EFFECT)_
+
+In the Pewter City Pokémon Center, talk to the Jigglypuff to trigger Pikachu falling asleep.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92030.png) [Scared of Ghosts (1)]( https://retroachievements.org/achievement/81820)   
+_Talk to Pikachu in the Pokemon Tower._
+
+Go the the Pokémon Tower in Lavender Town and talk to Pikachu while inside.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92027.png) [Surprised Pikachu Face [m] (1)]( https://retroachievements.org/achievement/81976)   
+_Have Pikachu be confused by the transformed Bill and be amazed when he changes back._
+
+-=MISSABLE=-
+
+This triggered for me automatically but just to be sure, when entering Bill's house for the first time, talk to Pikachu after every action done.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/92028.png) [Clefairy Used Attract [m] (1)]( https://retroachievements.org/achievement/81977)   
+_Have Pikachu fall in love with the Clefairy in the Pokemon Fan Club._
+
+-=MISSABLE=-
+
+This triggered for me automatically but just to be sure, when entering the Pokémon Fan Club in Vermillion City for the first time, talk to Pikachu after having talked to the Clefairy.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/88502.png) [You're not getting away from me that easily (1)]( https://retroachievements.org/achievement/81978)   
+_Try to release your Pikachu._
+
+Store your Pikachu in the PC, then try to release it.
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/88503.png) [Look, I'm Dancing! (1)]( https://retroachievements.org/achievement/82089)   
+_Have Pikachu stand behind a ledge for a while._
+
+Find any ledge (for example, north of Pallet Town), then hop over it but let Pikachu stand behind it. Don't move and wait until something happens with Pikachu.
 
 ***
