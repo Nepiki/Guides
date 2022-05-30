@@ -24,10 +24,10 @@ There are essentially five main components to mastering the set: **the main stor
 
 You will need to begin the game with a save file that has had the DLC activated. **Blendedsea has provided a starting save file for this purpose in [the second post of the game's official forum topic.](https://retroachievements.org/viewtopic.php?t=11708)** Additionally, it would not be reasonable to include every single thing needed to master the set in this guide, so instead I will reference other stand alone guides that are complete and fully sufficient for mastering the set.  All of these resources will be thorough explained in this guide when referenced.
 
-[Main storyline guide](https://gamefaqs.gamespot.com/ds/937281-dragon-quest-ix-sentinels-of-the-starry-skies/faqs/60437)
-[Complete alchemy recipe guide](https://gamefaqs.gamespot.com/ds/937281-dragon-quest-ix-sentinels-of-the-starry-skies/faqs/60440)
-[Grotto map locator](https://www.woodus.com/den/games/dq9ds/tms/)
-[Various RNG manipulation tools](https://www.yabd.org/apps/dq9/)
+[Main storyline guide](https://gamefaqs.gamespot.com/ds/937281-dragon-quest-ix-sentinels-of-the-starry-skies/faqs/60437)<br>
+[Complete alchemy recipe guide](https://gamefaqs.gamespot.com/ds/937281-dragon-quest-ix-sentinels-of-the-starry-skies/faqs/60440)<br>
+[Grotto map locator](https://www.woodus.com/den/games/dq9ds/tms/)<br>
+[Various RNG manipulation tools](https://www.yabd.org/apps/dq9/)<br>
 
 
 **Part 1: The main quest and 12 of the 13 missable achievements**
