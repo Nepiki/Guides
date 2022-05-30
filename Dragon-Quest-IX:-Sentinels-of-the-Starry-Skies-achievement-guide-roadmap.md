@@ -32,7 +32,7 @@ You will need to begin the game with a save file that has had the DLC activated.
 
 **Part 1: The main quest and 12 of the 13 missable achievements**
 
-Achievements available: ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163150.png)https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163170.png
+Achievements available: ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163150.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163151.png)![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163170.png)
 
 
 Primary resource: [Main storyline guide](https://gamefaqs.gamespot.com/ds/937281-dragon-quest-ix-sentinels-of-the-starry-skies/faqs/60437)
