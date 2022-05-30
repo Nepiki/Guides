@@ -34,7 +34,7 @@ You will need to begin the game with a save file that has had the DLC activated.
 [Grotto map locator](https://www.woodus.com/den/games/dq9ds/tms/)<br>
 [Various RNG manipulation tools](https://www.yabd.org/apps/dq9/)<br>
 
----------------------------------------------------------------------------------------------
+***
 
 **Part 1: The main quest and 12 of the 13 missable achievements**
 
@@ -51,6 +51,19 @@ Help the citizens of Angel Falls, and begin your true journey
 
 _Story-related and can't be missed_
 
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163151.png) **Hexagoon** (5 points)
+
+Defeat Hexagoon
+
+_Story-related and can't be missed_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163170.png) **More like Hexagone [m]** (10 points)
+
+Defeat Hexagoon with nothing equipped
+
+_As the achievement says, ensure all of your characters are fully unequipped prior to entering the battle with Hexagoon.  You can still use medicinal herbs to heal by having them in your inventory, just no actual equipment (weapons, armor, accessories) equipped_
 
 ***
 
