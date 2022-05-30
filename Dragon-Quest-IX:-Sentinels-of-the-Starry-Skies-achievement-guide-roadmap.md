@@ -20,7 +20,7 @@ The game can be thought of as having two parts to it. The first is a very well d
 ![dq9_mastery](https://user-images.githubusercontent.com/106546659/171057037-43521c71-9757-43ca-baa3-f6079e7d0854.JPG)<br>
 Here is my save file data immediately after mastering the set.  Note that while the game time is nearly 500 hours, I played virtually all of it on fast forward and thus it took me about 165 real time hours.
 
-There are essentially five main components to mastering the set: **the main story and missable boss achievements, completing the full 307 item bestiary, mastering all 16 weapons and 12 job classes, completing all side quests, obtaining all items and alchemies**. This guide will break the set down into four primary corresponding sections.
+There are essentially five main components to mastering the set: **the main story and missable boss achievements, completing the full 307 item bestiary, mastering all 26 skills and 12 job classes, completing all side quests, obtaining all items and alchemies**. This guide will break the set down into five primary corresponding sections.
 
 
 **Resources**
@@ -40,4 +40,10 @@ You will need to begin the game with a save file that has had the DLC activated.
 
 Primary resource: [Main storyline guide](https://gamefaqs.gamespot.com/ds/937281-dragon-quest-ix-sentinels-of-the-starry-skies/faqs/60437)
 
-The main story of DQ9 should take approximately 50 hours to complete. The general gameplay loop throughout the story is the traditional model of arriving in a new location, having to solve a particular problem, gaining access to a new location and repeating.  As you play through the story you will naturally get many of the progress achievements, but many of the bosses have missable achievements as well.  This section will provide a guide for the 
+The main story of DQ9 should take approximately 50 hours to complete. The general gameplay loop throughout the story is the traditional model of arriving in a new location, having to solve a particular problem, gaining access to a new location and repeating.  As you play through the story you will naturally get many of the progress achievements, but the majority of bosses have additional missable achievements as well.  This section will provide a general guide for the story and highlight how to ensure none of the missable achievements are accidentally skipped.  You will likely also get several other achievements for specific side quests, skill mastery, monster encounters and more throughout your main story play through.  This is not a problem and doesn't matter either way at this point.
+
+Achievements
+
+![None Winged Angel (3 points)](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163150.png)
+
+
