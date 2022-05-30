@@ -77,9 +77,19 @@ _Story-related and can't be missed_
 
 Defeat Hexagoon with nothing equipped
 
-_As the achievement says, ensure all of your characters are fully unequipped prior to entering the battle with Hexagoon.  You can still use medicinal herbs to heal by having them in your inventory, just no actual equipment (weapons, armor, accessories) equipped_
+_As the achievement says, ensure you are fully unequipped prior to entering the battle with Hexagoon.  You can still use medicinal herbs to heal by having them in your inventory, just no actual equipment (weapons, armor, accessories) equipped_
 
 ***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163171.png) ** I Need a Hero [m] (10 points)
+
+Defeat the Wight Knight using only the Hero
+
+_Speak with Patty at the counter in the Stornway inn to drop off all party members.  Fill up the hero's inventory with medicinal herbs.  Ensure the hero is around level 15 and save at the church in Stornway prior to the fight.  With a little pattern luck, this fight should not be a significant challenge_
+
+***
+
+
 
 
 
