@@ -81,7 +81,7 @@ _As the achievement says, ensure you are fully unequipped prior to entering the 
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163171.png) ** I Need a Hero [m] (10 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163171.png) **I Need a Hero [m]** (10 points)
 
 Defeat the Wight Knight using only the Hero
 
