@@ -45,6 +45,14 @@ The main story of DQ9 should take approximately 50 hours to complete. The genera
 
 Achievements in the main quest
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163150.png) None Winged Angel (3 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163150.png) **None Winged Angel** (3 points)
+
+Help the citizens of Angel Falls, and begin your true journey
+
+_Story-related and can't be missed_
+
+
+***
+
 
 
