@@ -34,6 +34,7 @@ You will need to begin the game with a save file that has had the DLC activated.
 [Grotto map locator](https://www.woodus.com/den/games/dq9ds/tms/)<br>
 [Various RNG manipulation tools](https://www.yabd.org/apps/dq9/)<br>
 
+---------------------------------------------------------------------------------------------
 
 **Part 1: The main quest and 12 of the 13 missable achievements**
 
@@ -42,8 +43,8 @@ Primary resource: [Main storyline guide](https://gamefaqs.gamespot.com/ds/937281
 
 The main story of DQ9 should take approximately 50 hours to complete. The general gameplay loop throughout the story is the traditional model of arriving in a new location, having to solve a particular problem, gaining access to a new location and repeating.  As you play through the story you will naturally get many of the progress achievements, but the majority of bosses have additional missable achievements as well.  This section will provide a general guide for the story and highlight how to ensure none of the missable achievements are accidentally skipped.  You will likely also get several other achievements for specific side quests, skill mastery, monster encounters and more throughout your main story play through.  This is not a problem and doesn't matter either way at this point.
 
-Achievements
+Achievements in the main quest
 
-![None Winged Angel (3 points)](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163150.png)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163150.png) None Winged Angel (3 points)
 
 
