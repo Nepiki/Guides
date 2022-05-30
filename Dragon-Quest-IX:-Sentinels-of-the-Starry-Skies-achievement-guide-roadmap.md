@@ -41,7 +41,21 @@ You will need to begin the game with a save file that has had the DLC activated.
 
 Primary resource: [Main storyline guide](https://gamefaqs.gamespot.com/ds/937281-dragon-quest-ix-sentinels-of-the-starry-skies/faqs/60437)
 
-The main story of DQ9 should take approximately 50 hours to complete. The general gameplay loop throughout the story is the traditional model of arriving in a new location, having to solve a particular problem, gaining access to a new location and repeating.  As you play through the story you will naturally get many of the progress achievements, but the majority of bosses have additional missable achievements as well.  This section will provide a general guide for the story and highlight how to ensure none of the missable achievements are accidentally skipped.  You will likely also get several other achievements for specific side quests, skill mastery, monster encounters and more throughout your main story play through.  This is not a problem and doesn't matter either way at this point.
+The main story of DQ9 should take approximately 50 hours to complete. The general gameplay loop throughout the story is the traditional model of arriving in a new location, having to solve a particular problem, gaining access to a new location and repeating.  As you play through the story you will naturally get many of the progress achievements, but the majority of bosses have additional missable achievements as well.  This section will provide a general guide for the story and highlight how to ensure none of the missable achievements are accidentally skipped.  You will likely also get several other achievements for specific side quests, item collection, skill mastery, monster/bestiary encounters and more throughout your main story play through.  This is not a problem and doesn't matter either way at this point.
+
+The following are missable achievements which will be described below in appropriate chronological order
+* [More like Hexagone [m]](https://retroachievements.org/achievement/146751)
+* [I Need a Hero [m]](https://retroachievements.org/achievement/146752)
+* [The Doctors are in the House [m]](https://retroachievements.org/achievement/146753)
+* [Master of Nothing](https://retroachievements.org/achievement/146754)
+* [Something's Fishy [m]](https://retroachievements.org/achievement/146755)
+* [Bug Crusher [m]](https://retroachievements.org/achievement/146756)
+* [Strength in Numbers [m]](https://retroachievements.org/achievement/146757)
+* [Lesser Demon [m]](https://retroachievements.org/achievement/146758)
+* [School is in Session [m]](https://retroachievements.org/achievement/146759)
+* [Stoneskin [m]](https://retroachievements.org/achievement/146760)
+* [Jailbreak [m]](https://retroachievements.org/achievement/146761)
+* [Off My Chair, Jester. The King Sits There [m]](https://retroachievements.org/achievement/146762)
 
 Achievements in the main quest
 
