@@ -17,7 +17,7 @@ Welcome to Dragon Quest IX: Sentinels of the Starry Skies (DQ9), RetroAchievemen
 
 The game can be thought of as having two parts to it. The first is a very well done, but fairly standard JRPG plotline. After the main quest, the real work on the set begins in the post game content. Blendedsea created an extraordinarily thorough DQ9 experience with this 164 achievement set. Mastering it will involve seeing nearly all of the entire game's expansive content. It is a very time consuming set to master, however there are reliable ways to manipulate the post game RNG so that you won't feel like you are at the mercy of randomness.
 
-![dq9_mastery](https://user-images.githubusercontent.com/106546659/171057037-43521c71-9757-43ca-baa3-f6079e7d0854.JPG)
+![dq9_mastery](https://user-images.githubusercontent.com/106546659/171057037-43521c71-9757-43ca-baa3-f6079e7d0854.JPG)<br>
 Here is my save file data immediately after mastering the set.  Note that while the game time is nearly 500 hours, I played virtually all of it on fast forward and thus it took me about 165 real time hours.
 
 There are essentially five main components to mastering the set: **the main story and missable boss achievements, completing the full bestiary, mastering all weapons and job classes, completing all side quests, obtaining all items and alchemies**. This guide will break the set down into four primary corresponding sections.
