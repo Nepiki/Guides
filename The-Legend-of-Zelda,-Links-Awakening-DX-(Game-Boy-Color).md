@@ -956,7 +956,7 @@ Progress up till the Eagle's Tower is required for this achievement. Everything 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/224025.png) [You Monster! (1)]( https://retroachievements.org/achievement/201757)   
 _Kill every animal in Mabe Village. (Don't leave village)_
 
-I'm not 100% certain if the Fire Rod from the eight dungeon is needed but since this achievement can be done at any time, return to the village at the end of the game and kill every animal with the Fire Rod. Remember that there is also a Cuckoo on the screen below the fishing spot.
+Either the Magic Powder or the Fire Rod is required to kill the animals. You only have to kill the animals that are outside. Remember that there is also a Cuckoo on the screen below the fishing spot.
 
 ***
 
