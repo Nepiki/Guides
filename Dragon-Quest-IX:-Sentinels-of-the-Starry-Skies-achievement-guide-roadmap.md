@@ -20,13 +20,13 @@ The game can be thought of as having two parts to it. The first is a very well d
 ![dq9_mastery](https://user-images.githubusercontent.com/106546659/171057037-43521c71-9757-43ca-baa3-f6079e7d0854.JPG)<br>
 Here is my save file data immediately after mastering the set.  Note that while the game time is nearly 500 hours, I played virtually all of it on fast forward and thus it took me about 165 real time hours.
 
-There are essentially five main components to mastering the set: **the main story and missable boss achievements, completing the full bestiary, mastering all weapons and job classes, completing all side quests, obtaining all items and alchemies**. This guide will break the set down into four primary corresponding sections.
+There are essentially five main components to mastering the set: **the main story and missable boss achievements, completing the full 307 item bestiary, mastering all 16 weapons and 12 job classes, completing all side quests, obtaining all items and alchemies**. This guide will break the set down into four primary corresponding sections.
 
 
 **Resources**
 
 
-You will need to begin the game with a save file that has had the DLC activated. **Blendedsea has provided a starting save file for this purpose in [the second post of the game's official forum topic.](https://retroachievements.org/viewtopic.php?t=11708)** Additionally, it would not be reasonable to include every single thing needed to master the set in this guide, so instead I will reference other stand alone guides that are complete and fully sufficient for mastering the set.  All of these resources will be thorough explained in this guide when referenced.
+You will need to begin the game with a save file that has had the DLC activated. **Blendedsea has provided a starting save file for this purpose in [the second post of the game's official forum topic.](https://retroachievements.org/viewtopic.php?t=11708)  I HIGHLY recommend using his "MALE" save file as the RNG seed information for that save file will be referenced in this guide.** Additionally, it would not be reasonable to include every single thing needed to master the set in this guide, so instead I will reference other stand alone guides that are complete and fully sufficient for mastering the set.  All of these resources will be thorough explained in this guide when referenced.
 
 [Main storyline guide](https://gamefaqs.gamespot.com/ds/937281-dragon-quest-ix-sentinels-of-the-starry-skies/faqs/60437)<br>
 [Side quest guide](https://almarsguides.com/retro/walkthroughs/NDS/Games/DragonQuestIXSentinelsoftheStarrySkies/Sidequests/ByNumber/)<br>
