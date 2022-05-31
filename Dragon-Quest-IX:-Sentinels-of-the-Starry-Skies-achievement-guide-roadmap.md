@@ -43,6 +43,8 @@ Primary resource: [Main storyline guide](https://gamefaqs.gamespot.com/ds/937281
 
 The main story of DQ9 should take approximately 50 hours to complete. The general gameplay loop throughout the story is the traditional model of arriving in a new location, having to solve a particular problem, gaining access to a new location and repeating.  As you play through the story you will naturally get many of the progress achievements, but the majority of bosses have additional missable achievements as well.  This section will provide a general guide for the story and highlight how to ensure none of the missable achievements are accidentally skipped.  You will likely also get several other achievements for specific side quests, item collection, skill mastery, monster/bestiary encounters and more throughout your main story play through.  This is not a problem and doesn't matter either way at this point.
 
+Also, you will not be limited with your skill points, so do not be concerned with spending them.  Make sure to prioritize the class skills for each vocation as well as shield and sword skills for everyone at some point.  You'll have plenty opportunities to do this later, but getting an early jump on it is helpful.
+
 The following are missable achievements which will be described below in appropriate chronological order
 * [More like Hexagone [m]](https://retroachievements.org/achievement/146751)
 * [I Need a Hero [m]](https://retroachievements.org/achievement/146752)
@@ -56,6 +58,8 @@ The following are missable achievements which will be described below in appropr
 * [Stoneskin [m]](https://retroachievements.org/achievement/146760)
 * [Jailbreak [m]](https://retroachievements.org/achievement/146761)
 * [Off My Chair, Jester. The King Sits There [m]](https://retroachievements.org/achievement/146762)
+
+***
 
 Achievements in the main quest
 
@@ -77,7 +81,7 @@ _Story-related and can't be missed_
 
 Defeat Hexagoon with nothing equipped
 
-_As the achievement says, ensure you are fully unequipped prior to entering the battle with Hexagoon.  You can still use medicinal herbs to heal by having them in your inventory, just no actual equipment (weapons, armor, accessories) equipped_
+_As the achievement says, ensure you are fully unequipped prior to entering the battle with Hexagoon.  You can still use medicinal herbs to heal by having them in your inventory, just no actual equipment (weapons, armor, accessories) equipped.  Level 10 or 11 will be sufficient for this_
 
 ***
 
@@ -87,9 +91,52 @@ Defeat the Wight Knight using only the Hero
 
 _Speak with Patty at the counter in the Stornway inn to drop off all party members.  Fill up the hero's inventory with medicinal herbs.  Ensure the hero is around level 15 and save at the church in Stornway prior to the fight.  With a little pattern luck, this fight should not be a significant challenge_
 
+**Note once you reach Stornway, at the Inn you will be able to recruit additional party members.  For an upcoming missable achievement, make sure to recruit 3 priests so they have time to level up.**
+
 ***
 
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163152.png)  **Morag** (5 points)
 
+Defeat Morag, returning peace to a fellow Knight
 
+_Story-related and can't be missed_
 
+***
 
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163298.png) **Stornway Treasury** (2 points)
+
+Obtain your well-deserved reward from King Schott
+
+_After defeating Morag, return to Stornway and talk to King Schott.  This will unlock the treasury.  Go up the stairs behind his throne and follow the path to it.  The achievement will pop when you open the treasures_
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163153.png) **The Ragin' Contagion** (5 points)
+
+Defeat the Ragin' Contagion, cleansing the curse over Coffinwell
+
+_Story-related and can't be missed_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163172.png) **The Doctors are in the House [m]** (10 points)
+
+Defeat the Ragin' Contagion with 3 Priests in your party
+
+_The 3 priests you initially recruited should be sufficiently leveled by now so this achievement should be quite simple without any additional preparation_
+
+**You no longer need 3 priests in the party.  I recommend keeping 1 priest and having at least 2 members who can start allocating skill points in the Sword Skill.  It will be very useful later**
+
+***
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163154.png) **Master of Nu'un** (5 points)
+
+Defeat Master of Nu'un, allowing the world to change vocations once again
+
+_Story-related and can't be missed_
+
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/163173.png) **Master of Nothing [m] (10 points)
+
+Defeat Master of Nu'un without having a party member die
+
+_With a priest keeping up on the healing, this should not be especially difficult.  If a party member does die, just reset immediately and try again.  If difficulty persists, level up a couple times with each character and it should make the fight more manageable_
+
+***
