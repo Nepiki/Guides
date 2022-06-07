@@ -1,4 +1,4 @@
-Replace this sentence by inserting a picture/banner of the game here for visual flair.
+![Venetian Blinds Demo](https://user-images.githubusercontent.com/35505658/172470151-478b6823-f945-4659-9449-5761b8401403.png)
 
 # 1) Synopsis
 
