@@ -44,7 +44,7 @@ Like previously mentioned, Normal difficulty isn't that much harder than Easy, b
 
 Step 3: Beat the game on Normal, don't lose any continues, wrap up missing achievements and get ending C
 
-Beating the game without losing any continues is a LOT easier than you might think, on your 3rd playthrough, not only you will know this game enough to beat most stages quite easily but it's also shockingly easy to grind lives and give you a comfortable cushion to not be threatened by a game over. It's also the right moment to get any other missing achievements left, if any.
+Beating the game without losing any continues is a LOT easier than you might think, on your 3rd playthrough, not only will you know this game enough to beat most stages quite easily but it's also shockingly easy to grind lives and give you a comfortable cushion to not be threatened by a game over. It's also the right moment to get any other missing achievements left, if any.
 
 -=WARNING=- You need more than 4000 points to get ending C, be sure to have enough before fighting the final boss.
 
