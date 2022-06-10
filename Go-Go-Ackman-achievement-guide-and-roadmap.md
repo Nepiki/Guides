@@ -19,7 +19,7 @@ Welcome to Go Go Ackman, an enjoyable and humorous platformer released in 1994 f
 
 The level designs and backgrounds are diverse and well made, the levels are very short, most of them can be done in 1 or 2 minutes top, and there is also a timer that will kill you once it reaches 0.
 
-Overall, although it's a fairly short game, which can be easily beaten in less than 30 minutes, it's a memorable one with fun and colorful cartoony graphics with good controls. Unfortunately though, getting the best ending won't give you the achievements for the other ones, so at least 3 playthroughs are mandatory to master the game.
+Overall, although it's a fairly short game, which can be beaten in less than 30 minutes, it's a memorable one with fun and colorful cartoony graphics with good controls. Unfortunately though, getting the best ending won't give you the achievements for the other ones, so at least 3 playthroughs are mandatory to master the game.
 
 ---------------------------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Beating the game without losing any continues is a LOT easier than you might thi
 
 **Conclusion**
 
-This game is one of the easiest platformers out there, no part is particularly hard or frustrating. A few damageless achievements might take a few tries but nothing you feel you can't overcome. Having to beat the game 3 times to get all achievements might turn off a few people but the game is so short that it's not really a big deal, and it's fun enough to not be a shore
+This game is one of the easiest platformers out there, no part is particularly hard or frustrating. A few damageless achievements might take a few tries but nothing you feel you can't overcome. Having to beat the game 3 times to get all achievements might turn off a few people but the game is so short that it's not really a big deal, and it's fun enough to not be a shore or tedious
 
 
 ---------------------------------------------------------------------------------------------
@@ -148,7 +148,7 @@ Beat the game without using a continue in 1 playthrough
 
 _A lot easier than it sounds, you need to do at least 3 playthroughs to master this game so I suggest going for this on your last one, you will know the game pretty well by then. Also, don't go for this achievement if you want to get the B ending, you will most likely beat the game with more than 4000 points if you do the entire game without using continues._
 
-_You can easily farm lives in this game, no further than stage 1-2 you can max them out. You get one extra life for every 100 souls you get by defeating an enemy. Since enemies spawn infinitely by going back and forth and that most enemies in this game are killed with one hit you can farm lives very quickly. Grab the extra life on level 1-2 and then farm souls by killing enemies until the timer runs out. Grab the extra life again and repeat the process until you max out your lives count (9), which at this point should be more than enough to beat the game without the threat of losing a continue. If you're starting to fall short of lives, just repeat the process of farming souls on any stage, preferably in one with an extra life in it._
+_You can quickly farm lives in this game, no further than stage 1-2 you can max them out. You get one extra life for every 100 souls you get by defeating an enemy. Since enemies spawn infinitely by going back and forth and that most enemies in this game are killed with one hit you can farm lives very quickly. Grab the extra life on level 1-2 and then farm souls by killing enemies until the timer runs out. Grab the extra life again and repeat the process until you max out your lives count (9), which at this point should be more than enough to beat the game without the threat of losing a continue. If you're starting to fall short of lives, just repeat the process of farming souls on any stage, preferably in one with an extra life in it._
 
 ---------------------------------------------------------------------------------------------
 
@@ -185,7 +185,7 @@ _Yokimo is level 2-1's boss. You must defeat him without using any subweapons or
 
 Defeat Unknown Angel without being harmed or using weapons.
 
-_Assault Angel is level 2-2's boss. You must defeat him without using any subweapons or bombs. This guy's attack pattern is definitely very easy to read. He will throw 3 sets of bombs and then dive (kinda slowly) to hurt you. You can avoid the bombs by standing directly below him. When he dives, perform a jump kick to hurt him. He will then repeat the same pattern by throwing 3 other sets of bombs and dive afterward. Just keep avoiding his bombs by standing below him and jump kick your way to victory after he dives._
+_Assault Angel is level 2-2's boss. You must defeat him without using any subweapons or bombs. This guy's attack pattern is definitely very simple to read. He will throw 3 sets of bombs and then dive (kinda slowly) to hurt you. You can avoid the bombs by standing directly below him. When he dives, perform a jump kick to hurt him. He will then repeat the same pattern by throwing 3 other sets of bombs and dive afterward. Just keep avoiding his bombs by standing below him and jump kick your way to victory after he dives._
 
 
 ---------------------------------------------------------------------------------------------
@@ -194,7 +194,7 @@ _Assault Angel is level 2-2's boss. You must defeat him without using any subwea
 
 Defeat Giant Frog without being harmed or using weapons.
 
-_Hangyorn is level 2-3's boss. You must defeat him without using any subweapons or bombs. He's one of the hardest boss to beat without getting hit. He will jump out of water randomly on one of the 3 platforms and then shoot 2 water bubbles at you. The best spot to avoid being damaged by his out-of-water leap is by standing on one of the two ledges of the central platform. As for the bubbles, he will always throw them directly at you. Most of the time, jumping above the first one will be enough, as the 2nd one will be thrown at you mid-air and you will avoid it naturally when falling back down. After he threw his projectiles, jump kick him for damage_
+_Hangyorn is level 2-3's boss. You must defeat him without using any subweapons or bombs. He's one of the hardest boss to beat without getting hit. He will jump out of the water randomly on one of the 3 platforms and then shoot 2 water bubbles at you. The best spot to avoid being damaged by his out-of-water leap is by standing on one of the two ledges of the central platform. As for the bubbles, he will always throw them directly at you. Most of the time, jumping above the first one will be enough, as the 2nd one will be thrown at you mid-air and you will avoid it naturally when falling back down. After he threw his projectiles, jump kick him for damage_
 
 ---------------------------------------------------------------------------------------------
 
@@ -210,7 +210,7 @@ _Josephine is level 3-1's boss. You must defeat her without using any subweapons
 
 Defeat Sandman without being harmed or using weapons.
 
-_Mole Angel is level 3-2's boss. You must defeat him without using any subweapons or bombs. Another fairly easy boss. All he does is dig himself down into the sand and move at you from underneath, when he gets under you he will go back to the surface, causing a sand geyser that will hurt you. Fortunately, the geyser's hit box is pretty small and you don't have to move very far to avoid damage. When the geyser goes down you can then hurt Mole Angel. He will dig himself back in the sand afterward and repeat the process._
+_Mole Angel is level 3-2's boss. You must defeat him without using any subweapons or bombs. Another fairly simple boss. All he does is dig himself down into the sand and move at you from underneath, when he gets under you he will go back to the surface, causing a sand geyser that will hurt you. Fortunately, the geyser's hit box is pretty small and you don't have to move very far to avoid damage. When the geyser goes down you can then hurt Mole Angel. He will dig himself back in the sand afterward and repeat the process._
 
 ---------------------------------------------------------------------------------------------
 
@@ -221,7 +221,7 @@ Defeat Giant Ghost without being harmed or using weapons. Bombs allowed.
 
 _Don Skull is level 3-3's boss. You must defeat him without using any subweapons, BUT bombs are allowed for this one. Don Skull is pretty much in the top 3 of the hardest bosses on this set to beat damageless. For the entirety of the battle, you will have to stand on flowing lava that will drag you down, 2 fire lanterns on each side will throw fireballs at you and Don Skull will also throw his head at you._
 
-_To avoid dying because of the lava you need to jump constantly to stay on the surface. After every sets of 4 fireballs thrown at you by the fire lanterns, Don Skull will throw his head, that's where you can damage him with a jump kick to the face. So the goal here is to jump to stay on the surface. Avoid the fireballs that will always be thrown at your position, and time your kick with Don Skull's head attack. To make everything a bit easier, bombs are allowed for this fight so if you managed to gather a few of them, now would be the time to use them against our ghostly friend_
+_To avoid dying because of the lava you need to jump constantly to stay on the surface. After every sets of 4 fireballs thrown at you by the fire lanterns, Don Skull will throw his head, that's where you can damage him with a jump kick to the face. So the goal here is to jump to stay on the surface. Avoid the fireballs that will always be thrown at your position, and time your kick with Don Skull's head attack. To make everything a bit more friendly, bombs are allowed for this fight so if you managed to gather a few of them, now would be the time to use them against our ghostly foe_
 
 
 ---------------------------------------------------------------------------------------------
@@ -250,7 +250,7 @@ _E.Shock Angel is level 4-2's boss. You must defeat him without using any subwea
 Defeat Dora Doran without being harmed or using weapons. Bombs allowed.
 
 
-_Doradoran is level 4-3's boss. You must defeat him without using any subweapons, BUT bombs are allowed for this one. First of all, you can hit Doradoran quite a few times before the fight even starts. As you gain control of Ackman, Doradoran will start to hover slowly towards the top of the screen, you can jump kick his face 4-5 times before he reaches it. Then he will do one of his two attacks. He will either use a fire breath with considerable length, or he will throw fireballs at you. After each of his attacks, quickly jump towards him while maintaining the jump button to hover higher to reach his face to kick it. Then go away from him and be prepared for his next attack and repeat the process. This fight is also another one where the use of bombs is allowed so don't hesitate to use them to make your life easier._
+_Doradoran is level 4-3's boss. You must defeat him without using any subweapons, BUT bombs are allowed for this one. First of all, you can hit Doradoran quite a few times before the fight even starts. As you gain control of Ackman, Doradoran will start to hover slowly towards the top of the screen, you can jump kick his face 4-5 times before he reaches it. Then he will do one of his two attacks. He will either use his fire breath with considerable length, or he will throw fireballs at you. After each of his attacks, quickly jump towards him while maintaining the jump button to hover higher to reach his face to kick it. Then go away from him and be prepared for his next attack and repeat the process. This fight is also another one where the use of bombs is allowed so don't hesitate to use them to make your life easier._
 
 ---------------------------------------------------------------------------------------------
 
@@ -267,7 +267,7 @@ _Tenshi is level 5-1's boss. You must defeat him without using any subweapons or
 Defeat Michaela without being harmed or using weapons.
 
 
-_Michaela is the first form of the final boss (level 5-3). You must defeat him without using subweapons or bombs. Beating Michaela's first form is just a matter of speed. Michaela will levitate towards the top of the screen and will disappear. Only his scepter will be visible then. It will quickly move towards you and thrust down to impale you. To avoid it, simply move from left to right. After 3 thrust attacks, Michaela will reappear and move either on the left or the right side of the screen. You have to quickly hit him otherwise he will throw projectiles at you. If you hit him fast enough it will cancel this attack and he will move to his scepter attack again. Keep on avoiding the scepter and hit him before he throws his projectile to win this surprisingly easy fight for a final boss._
+_Michaela is the first form of the final boss (level 5-3). You must defeat him without using subweapons or bombs. Beating Michaela's first form is just a matter of speed. Michaela will levitate towards the top of the screen and will disappear. Only his scepter will be visible then. It will quickly move towards you and thrust down to impale you. To avoid it, simply move from left to right. After 3 thrust attacks, Michaela will reappear and move either on the left or the right side of the screen. You have to quickly hit him otherwise he will throw projectiles at you. If you hit him fast enough it will cancel this attack and he will move to his scepter attack again. Keep on avoiding the scepter and hit him before he throws his projectile to win this surprisingly simple fight for a final boss._
 
 ---------------------------------------------------------------------------------------------
 
@@ -277,9 +277,9 @@ Defeat Armored Michaela without being harmed or using weapons.
 
 _Armored Michaela is the 2nd and final form of the final boss. You must defeat him without using any subweapons or bombs. Not the hardest one to beat without being damaged but the most annoying, if you get hit and let yourself die to try again you must restart at the beginning of stage 5-3, defeating his first form again before another attempt._
 
-_Armored Michaela have 3 attacks, lightning strike, homing energy ball and an exploding of 5 energy balls. By staying on the far left or right side of the screen you will avoid his lightning attack 100% of the time. For his homing energy ball he will drop it down below him and the ball will very quickly go towards you when it reaches your horizontal position, be prepared to jump over it. His only real threat is his burst of 5 energy balls, stay focused to avoid them. _
+_Armored Michaela have 3 attacks, lightning strike, homing energy ball and an explosion of 5 energy balls. By staying on the far left or right side of the screen you will avoid his lightning attack 100% of the time. For his homing energy ball he will drop it down below him and the ball will very quickly go towards you when it reaches your horizontal position, be prepared to jump over it. His only real threat is his burst of 5 energy balls, stay focused to avoid them. _
 
-_After each of his attacks, jump on the moving platforms the get high enough to jump kick him in the face. Don't get greedy, after you land an attack go back to one of the screen's ends and wait for another attack before doing another move to damage him. The key to this fight is patience. If you don't try to overdo it you will cruise your way to victory damageless_
+_After each of his attacks, jump on the moving platforms then get high enough to jump kick him in the face. Don't get greedy, after you land an attack go back to one of the screen's ends and wait for another attack before doing another move to damage him. The key to this fight is patience. If you don't try to overdo it you will cruise your way to victory damageless_
 
 ---------------------------------------------------------------------------------------------
 
@@ -414,7 +414,7 @@ _See **Gunslinger**_
 
 Obtain 20 Souls while using the Gun Weapon without being hit
 
-_For the Boomerang, Sword and Gunslinger achievements, you need to kill 20 enemies with the named powerups without getting hit. Both sword and gun powerups can be found on level 1-1 and the boomerang can be found on level 1-2. After getting one of those, just farm kills against tiny angel enemies by going back and forth to make them respawn à la Mega Man_
+_For the Boomerang, Sword and Gunslinger achievements, you need to kill 20 enemies with the named powerups without getting hit. Both sword and gun powerups can be found on level 1-1 and the boomerang can be found on level 1-2. After getting one of those, just farm kills against tiny angel enemies by going back and forth to make them respawn a la Mega Man_
 
 ---------------------------------------------------------------------------------------------
 
