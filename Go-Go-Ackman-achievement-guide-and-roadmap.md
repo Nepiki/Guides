@@ -271,13 +271,13 @@ _Michaela is the first form of the final boss (level 5-3). You must defeat him w
 
 ---------------------------------------------------------------------------------------------
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54711.png) **The Greatest Angel** In Armor (25 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54711.png) **The Greatest Angel In Armor** (25 points)
 
 Defeat Armored Michaela without being harmed or using weapons.
 
 _Armored Michaela is the 2nd and final form of the final boss. You must defeat him without using any subweapons or bombs. Not the hardest one to beat without being damaged but the most annoying, if you get hit and let yourself die to try again you must restart at the beginning of stage 5-3, defeating his first form again before another attempt._
 
-_Armored Michaela have 3 attacks, lightning strike, homing energy ball and an explosion of 5 energy balls. By staying on the far left or right side of the screen you will avoid his lightning attack 100% of the time. For his homing energy ball he will drop it down below him and the ball will very quickly go towards you when it reaches your horizontal position, be prepared to jump over it. His only real threat is his burst of 5 energy balls, stay focused to avoid them. _
+_Armored Michaela have 3 attacks, lightning strike, homing energy ball and an explosion of 5 energy balls. By staying on the far left or right side of the screen you will avoid his lightning attack 100% of the time. For his homing energy ball he will drop it down below him and the ball will very quickly go towards you when it reaches your horizontal position, be prepared to jump over it. His only real threat is his burst of 5 energy balls, stay focused to avoid them._
 
 _After each of his attacks, jump on the moving platforms then get high enough to jump kick him in the face. Don't get greedy, after you land an attack go back to one of the screen's ends and wait for another attack before doing another move to damage him. The key to this fight is patience. If you don't try to overdo it you will cruise your way to victory damageless_
 
