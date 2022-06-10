@@ -36,7 +36,7 @@ First of all, there is not a lot of differences between easy and normal modes ex
 
 Step 2: Beat the game on Normal, take all the lower paths, collect hidden items and get ending B
 
-Like previously mentioned, Normal difficulty isn't that much harder than easy, but ending B and C can only be earned on Normal mode. On Normal you will also be able to choose different paths to play alternate levels at some points in the game. On this playthrough, choose all the lower paths to get the related achievements. A few stages have some hidden items cache (consisting mostly of extra lives or subweapons), try to find as many as you can (see the location of each cache in the achievements description below). 
+Like previously mentioned, Normal difficulty isn't that much harder than Easy, but ending B and C can only be earned on Normal mode. On Normal you will also be able to choose different paths to play alternate levels at some points in the game. On this playthrough, choose all the lower paths to get the related achievements. A few stages have some hidden items cache (consisting mostly of extra lives or subweapons), try to find as many as you can (see the location of each cache in the achievements description below). 
 
 -=WARNING=- You need to finish the game having between 2000 and 4000 points to get ending B, if you beat the game with less than 2000 points you will get ending A and you will need to do another whole playthrough to get ending B
 
@@ -126,7 +126,7 @@ Obtain Ending Number 2
 
 _Beat the game and get ending B, you need to be set on Normal difficulty and beat the game with 2000 to 4000 points, less than 2000 points will give you ending A, more than 4000 will get you ending C._
 
-_See Master Demon for tips on how to control how many points you have by the end of the game_
+_See **Master Demon** for tips on how to control how many points you have by the end of the game_
 
 ---------------------------------------------------------------------------------------------
 
@@ -267,7 +267,7 @@ _Tenshi is level 5-1's boss. You must defeat him without using any subweapons or
 Defeat Michaela without being harmed or using weapons.
 
 
-_Michaela is the first form of the final boss (level 5-3). You must defeat him without using subweapons or bombs. Beating Michaela's first form is just a matter of speed. Michaela will levitate towards the top of the screen and will disappear. Only his scepter will be visible then. It will quickly move towards you and thrust down to impale you. To avoid it, simply move from left to right. After 3 thrust attacks, Michaela will reappear and move either on the left or the right side of the screen. You have to quickly hit him otherwise he will throw projectiles at you. If you hit him fast enough it will cancel this attack and he will move to his scepter attack again. Keep on avoiding the scepter and hit him before he throws his projectile to win this surprisingly simple fight for a final boss._
+_Michaela is the first form of the final boss (level 5-3). You must defeat him without using subweapons or bombs. Beating Michaela's first form is just a matter of speed. Michaela will levitate towards the top of the screen and will disappear. Only his scepter will be visible then. It will quickly move above you and thrust down to impale you. To avoid it, simply move from left to right. After 3 thrust attacks, Michaela will reappear and move either on the left or the right side of the screen. You have to quickly hit him otherwise he will throw projectiles at you. If you hit him fast enough it will cancel this attack and he will move to his scepter attack again. Keep on avoiding the scepter and hit him before he throws his projectile to win this surprisingly simple fight for a final boss._
 
 ---------------------------------------------------------------------------------------------
 
@@ -277,7 +277,7 @@ Defeat Armored Michaela without being harmed or using weapons.
 
 _Armored Michaela is the 2nd and final form of the final boss. You must defeat him without using any subweapons or bombs. Not the hardest one to beat without being damaged but the most annoying, if you get hit and let yourself die to try again you must restart at the beginning of stage 5-3, defeating his first form again before another attempt._
 
-_Armored Michaela have 3 attacks, lightning strike, homing energy ball and an explosion of 5 energy balls. By staying on the far left or right side of the screen you will avoid his lightning attack 100% of the time. For his homing energy ball he will drop it down below him and the ball will very quickly go towards you when it reaches your horizontal position, be prepared to jump over it. His only real threat is his burst of 5 energy balls, stay focused to avoid them._
+_Armored Michaela have 3 attacks: lightning strike, homing energy ball and an explosion of 5 energy balls. By staying on the far left or right side of the screen you will avoid his lightning attack 100% of the time. For his homing energy ball he will drop it down below him and the ball will very quickly go towards you when it reaches your horizontal position, be prepared to jump over it. His only real threat is his burst of 5 energy balls, stay focused to avoid them._
 
 _After each of his attacks, jump on the moving platforms then get high enough to jump kick him in the face. Don't get greedy, after you land an attack go back to one of the screen's ends and wait for another attack before doing another move to damage him. The key to this fight is patience. If you don't try to overdo it you will cruise your way to victory damageless_
 
