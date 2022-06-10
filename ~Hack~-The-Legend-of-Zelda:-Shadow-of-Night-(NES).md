@@ -46,6 +46,10 @@ The missable achievements are all associated with defeating bosses and minibosse
 - Dont' Give an Inch [m]
 - Helmet Fire [m]
 - Stick and Move [m]
+- As Luck Would Have it [m]
+- Fight Fire with Fire [m]
+- Ignore the Flanks [m]
+- The Best Defense is a Good Offense [m]
 
 ***
 
@@ -203,9 +207,217 @@ While there will be three Gooma fights in the Forest Palace, the first encounter
 
 INSERT VIDEO
 
+***
 
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249573.png) **First Fake Wall in the Forest Palace** (2 points)
 
+_Find and enter the first illusory wall in the Forest Palace_
 
+See video below for demonstration. Note there might be more than one room that looks like this, so continue to explore if it appears to not work in the first similar room you find.
+
+INSERT VIDEO
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249574.png) **Second Fake Wall in the Forest Palace** (2 points)
+
+_Find and enter the second illusory wall in the Forest Palace after defeating the second Gooma_
+
+See video for demonstration.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249576.png) **Sea Legs** (10 points)
+
+_Obtain the Boots from the Forest Palace_
+
+After defeating the third Gooma, proceed forward to find this item.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249577.png) **Speed Demon** (25 points)
+
+_Cross the lava pits in the cave with the lost child in less than 8 seconds_
+
+See video for demonstration.  This achievement can be done starting from either side of the room. The key is to have Dash selected before entering the room and while holding the directional pad to walk, cast Dash without stopping that input. It is important to save time in the first half of the room by not slowing down at all. You should run off the first ledge and then begin jumping and skipping a ledge during the first half of the room.  For the second half of the room, you should plan to land on each ledge, but continue to move quickly. This is not an extremely tight achievement, but there is not much room for unnecessary delays.
+
+INSERT VIDEO
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249578.png) **The Amazing Child** (10 points)
+
+_Rescue the missing child on Maze Island_
+
+See the map in the resources section to locate the missing child. Note on the map that a necessary key is located in a secret grave in the clearing south of the cave's entrance.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249579.png) **Right Back at You** (10 points)
+
+_Learn the Reflect spell from the sage in the town of Darunia after rescuing the missing child_
+
+Return to Darunia after rescuing the missing child and speak to the sage in the child's mother's house to learn the spell.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249580.png) **Fake Wall Over the Lava** (2 points)
+
+_Find and enter the illusory wall in the Maze Island Palace by jumping high over the blue lava_
+
+See video for demonstration.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249581.png) **Fake Floor Below the Bridge** (2 points)
+
+_Find and enter the illusory floor in the Maze Island Palace by dropping from the crumbling bridge into it_
+
+See video for demonstration.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249582.png) **As Luck Would Have It [m]** (25 points)
+
+_Defeat Carock in the Maze Island Palace without leaving the center island until he is dead_
+
+See video for demonstration. There is an RNG aspect to this achievement depending where Carock teleports. Level up Defense if you are having difficulty and cast Heal to keep your health up.
+
+INSERT VIDEO
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249583.png) **When Every Problem Looks Like a Nail** (10 points)
+
+_Obtain the Hammer from the Maze Island Palace_
+
+After defeating Carock, proceed forward and find this item.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249584.png) **The Pain is Gone** (5 points)
+
+_Destroy the rock blocking the swamp cave entrance and find the medicine within_
+
+See the map of West Hyrule in the Resources section for the location of the medicine.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249585.png) **Just Like Navi** (10 points)
+
+_Learn the Fairy spell from the sage in the town of Mido after bringing his wife medicine_
+
+Return to Mido and enter the woman who needed medicine's house to find the sage and learn this spell.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249586.png) **Learned the Magic Word** (10 points)
+
+_Learn the Spell spell from the sage in the hidden town of Kasuto once your magic bar is seven blocks big_
+
+See the maps in the Resources section for the locations of the Magic Containers.  Once you have obtained at least four of these Magic Containers, the woman in Kasuto will allow you in the house. The entrance to the basement is hidden near the middle of the room. See the picture below for the entrance to the basement.
+
+INSERT PICTURE
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249587.png) **Doot Doot** (10 points)
+
+_Obtain the Flute in the hidden town of Kasuto_
+
+Use the Spell spell near the end of town to reveal a hidden temple containing this item.
+
+INSERT VIDEO
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249591.png) **Fake Wall Near the Ceiling** (2 points)
+
+_Find and enter the illusory wall as a Fairy in the basement of East Hyrule's Graveyard Palace_
+
+See video demonstration.
+
+INSERT VIDEO
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249592.png) **Fight Fire with Fire [m]** (25 points)
+
+_Defeat the Fire Moa during the battle with Barba_
+
+See video demonstration. The Fire Moa is only vulnerable to Fire, so cast that spell and prioritize killing the Fire Moa. It will not respawn once defeated so killing it will also make the Barba fight easier.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249593.png) **Ignore the Flanks [m]** (25 points)
+
+_Defeat the third Rebonack in the East Hyrule Graveyard Palace without damaging the wizzrobes_
+
+See video demonstration. The wizzrobes can only be harmed by reflecting their own spells at them. If you do not cast Reflect, you cannot harm them. Their presence during the fight makes defeating Rebonack more difficult, but it is easy to not accidentally fail this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249594.png) **In Nomine Patris et Filii** (10 points)
+
+_Obtain the Cross in the East Hyrule Graveyard Palace_
+
+After defeating the third Rebonack, proceed forward to find this item.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249595.png) **Skeleton Key** (10 points)
+
+_Obtain the Magical Key on the approach to the Grand Palace_
+
+See the map of East Hyrule in the Resources section for the location of the Magical Key. It is hidden in a breakable rock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249599.png) **Fake Wall in the Great Palace** (2 points)
+
+_Find and enter the illusory wall in the Great Palace after navigating breakable blocks and lava_
+
+See video demonstration.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249600.png) **The Lost Spell** (25 points)
+
+_Recover and learn the hidden Thunder spell in the Great Palace_
+
+Several rooms beyond the illusory wall in the _Fake Wall in the Great Palace_ achievement, you will find the Thunder spell on an altar.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249601.png) **Fake Wall in the Great Elevator** (2 points)
+
+_Find and enter the illusory wall that leads to a fairy in the Great Palace's long elevator_
+
+See video demonstration. The long elevator is a puzzle that requires you to go up several floors, then down one then back up in order to progress. Each level has illusory walls, but the one with the fairy behind it marks the level at which you must go down and then back up to reach the top of the elevator shaft.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249602.png) **Fake Floor in the Great Palace** (2 points)
+
+_Find and enter the illusory floor beneath the breakable blocks in the room with two blue bird knights_
+
+See video demonstration.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249603.png) **The Best Defense is a Good Offense [m]** (25 points)
+
+_Defeat Thunderbird in the Great Palace without using the Reflect spell_
+
+See video demonstration. Reflect is used to block Thunderbird's fireballs. Without it, you must avoid the fireballs entirely and defeat him to obtain this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249604.png) **The Morning Sun has Vanquished the Horrible Night** (50 points)
+
+_Lift the curse of night on Hyrule by defeating Dark Link in the Great Palace_
+
+Defeat Dark Link in the battle after Thunderbird. Be careful of the lava on both sides of the room that will be hidden once the room turns dark. Jumping standing attacks work best against Dark Link. Use your magic to keep your health high.
 
 ***
 
@@ -213,7 +425,15 @@ INSERT VIDEO
 
 _Find two Magic Containers_
 
-Use the map in the Resources section to locate two Magic Containers
+Use the map in the Resources section to locate two Magic Containers.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249589.png) **Magic Pool** (10 points)
+
+_Find five Magic Containers_
+
+Use the map in the Resources section to locate five Magic Containers.
 
 ***
 
@@ -221,7 +441,15 @@ Use the map in the Resources section to locate two Magic Containers
 
 _Find two Heart Containers_
 
-Use the map in the Resources section to locate two Heart Containers
+Use the map in the Resources section to locate two Heart Containers.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249588.png) **Heavyweight** (10 points)
+
+_Find five Heart Containers_
+
+Use the map in the Resources section to locate five Heart Containers.
 
 ***
 
@@ -233,6 +461,14 @@ As you gain levels with experience, choose Attack three times to unlock this ach
 
 ***
 
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249596.png) **Yoked** (10 points)
+
+_Get your Attack to level 8_
+
+As you gain levels with experience, choose Attack seven times to unlock this achievement.
+
+***
+
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249563.png) **Budding Magician** (5 points)
 
 _Get your Magic to level 4_
@@ -241,8 +477,46 @@ As you gain levels with experience, choose Magic three times to unlock this achi
 
 ***
 
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249597.png) **Magical Master** (5 points)
+
+_Get your Magic to level 8_
+
+As you gain levels with experience, choose Magic seven times to unlock this achievement.
+
+***
+
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249562.png) **Toughened Up a Bit** (5 points)
 
 _Get your Defense to level 4_
 
 As you gain levels with experience, choose Defense three times to unlock this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249598.png) **Ironclad** (5 points)
+
+_Get your Defense to level 8_
+
+As you gain levels with experience, choose Defense seven times to unlock this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249590.png) **Palatial Inertia** (10 points)
+
+_Beginning with a jump from the grass in front of the steps of any palace except the Grand Palace and Island Palace, reach the platform with the second Iron Knuckle statue without pressing the directional pad_
+
+See video for demonstration. As shown in the video, jump from the grass and ensure that you release the directional pad before Link cross over the bottom step. Continue to jump as soon as Link touches the ground and he will continue to preserve his momentum. Eventually he will start loosing speed, but it should not be especially difficult to achieve this.  Casting Jump and/or Dash will make this significantly easier.
+
+INSERT VIDEO
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249605.png) **Jackpot!** (10 points)
+
+_Collect a 1000 point treasure bag_
+
+See the maps Hyrule in the Resources section for the locations of the 1000 point treasure bags. Obtaining any one of them will trigger this achievement.
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+Thanks to the_icepenguin for the creation of this hack.
