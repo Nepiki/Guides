@@ -516,7 +516,7 @@ INSERT VIDEO
 _Collect a 1000 point treasure bag_
 
 See the maps Hyrule in the Resources section for the locations of the 1000 point treasure bags. Obtaining any one of them will trigger this achievement.
----------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------
+
+***
 
 Thanks to the_icepenguin for the creation of this hack.
