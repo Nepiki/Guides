@@ -118,7 +118,7 @@ _Learn the Fire spell from the sage in the town of Ruto after finding his daught
 
 Use the Jump spell to reach the roof of the house and press the B button to find the cat in the location depicted below.
 
-INSERT CAT IMAGE
+![cat](https://user-images.githubusercontent.com/106546659/173193463-b38e36f2-d953-4f2a-9daa-8af09ed57566.png)
 
 ***
 
@@ -186,7 +186,7 @@ _Learn the Dash spell from the sage in the town of Nabooru after finding his dau
 
 Search near the very western exit of the entire town to find the key, then talk to the girl who was missing it to gain access to the house. Proceed to the basement to meet the sage and learn the spell.
 
-INSERT PICTURE
+![key](https://user-images.githubusercontent.com/106546659/173193450-e636df10-8a87-4d50-b601-8c7206982ad6.png)
 
 ***
 
