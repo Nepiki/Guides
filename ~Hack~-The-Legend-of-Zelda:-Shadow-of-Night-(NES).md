@@ -67,17 +67,17 @@ _Defeat Horsehead in the Desert Palace with attack level 1_
 
 Use the levels you gain from experience to increase your defense and magic until after you've defeated Horsehead in the Desert Palace. This achievement will pop immediately upon his death allowing you to increase your attack with the experience gained from defeating him if available.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j-fHjs62rhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Death by a Thousand Cuts [m] demonstration video](https://www.youtube.com/watch?v=j-fHjs62rhU)
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249553.png) **Don't Give an Inch [m]** (25 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249701.png) **Don't Give an Inch [m]** (25 points)
 
 _During the battle on the bridge in the Desert Palace, do not let Horsehead move further left than this starting position_
 
 This achievement is available the second time you fight Horsehead in the Desert Palace. As soon as you approach him and the battle begins, immediately execute a jumping, crouching attack to hit him backwards. Stay aggressive as he plods forward to ensure he will not progress further than his initial position. The key to success is to quickly land the first attack and continue to keep up the pressure thereafter.
 
-INSERT VIDEO 
+[Don't Give an Inch [m] demonstration video](https://www.youtube.com/watch?v=OqvVJKSLzoE)
 
 ***
 
@@ -161,7 +161,7 @@ _Defeat Helmethead in the Graveyard Palace in West Hyrule only damaging him whil
 
 During the battle with Helmethead in the Graveyard Palace near Bagu's house in West Hyrule, ensure that you only attack him while the Fire Moa is on screen. The Fire Moa will often fly off the side of the screen in a predictable pattern, so ensure you are patient with your attacks. This achievement can be restarted by dying and reentering the fight.
 
-INSERT VIDEO
+[Helmet Fire [m] demonstration video](https://www.youtube.com/watch?v=ITXfPfW_0Mw)
 
 ***
 
@@ -173,7 +173,7 @@ After defeating Helmetfire in the Graveyard Palace in West Hyrule, obtain the ra
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249569.png) **Distant Shores** (10 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249700.png) **Distant Shores** (10 points)
 
 _Sail across the sea to East Hyrule_
 
@@ -199,17 +199,25 @@ ADD DESC
 
 ***
 
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249763.png) **Fake Floor in the Forest Palace** (2 points)
+
+_Find and enter the illusory floor near the column in the room with the magos_
+
+See video below for demonstration.
+
+***
+
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249572.png) **Stick and Move [m]** (25 points)
 
 _Defeat a Gooma in the Forest Palace without jumping_
 
 While there will be three Gooma fights in the Forest Palace, the first encounter is the easiest since there are no other enemies present. Use the Dash spell to increase your running speed. When you attack the Gooma, run in and execute a crouching attack and as soon as it hits run away. Try to preserve distance by hitting the Gooma with the tip of your sword.  It is important to actually hit the Gooma to send it backwards and give yourself a bit more time to run away.  You cannot be too passive in this fight or the Gooma will back you into the corner and you will likely not survive.  If you are having difficulty, increase your attack level.
 
-INSERT VIDEO
+[Stick and Move [m] demonstration video](https://www.youtube.com/watch?v=a_h6zmpcmlY)
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249573.png) **First Fake Wall in the Forest Palace** (2 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249765.png) **First Fake Wall in the Forest Palace** (2 points)
 
 _Find and enter the first illusory wall in the Forest Palace_
 
@@ -219,7 +227,7 @@ INSERT VIDEO
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249574.png) **Second Fake Wall in the Forest Palace** (2 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249766.png) **Second Fake Wall in the Forest Palace** (2 points)
 
 _Find and enter the second illusory wall in the Forest Palace after defeating the second Gooma_
 
@@ -261,7 +269,7 @@ Return to Darunia after rescuing the missing child and speak to the sage in the 
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249580.png) **Fake Wall Over the Lava** (2 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249761.png) **Fake Wall Over the Lava** (2 points)
 
 _Find and enter the illusory wall in the Maze Island Palace by jumping high over the blue lava_
 
@@ -269,7 +277,7 @@ See video for demonstration.
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249581.png) **Fake Floor Below the Bridge** (2 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249762.png) **Fake Floor Below the Bridge** (2 points)
 
 _Find and enter the illusory floor in the Maze Island Palace by dropping from the crumbling bridge into it_
 
@@ -283,7 +291,7 @@ _Defeat Carock in the Maze Island Palace without leaving the center island until
 
 See video for demonstration. There is an RNG aspect to this achievement depending where Carock teleports. Level up Defense if you are having difficulty and cast Heal to keep your health up.
 
-INSERT VIDEO
+[As Luck Would Have It [m] demonstration video](https://www.youtube.com/watch?v=uKozTaTs4Xg)
 
 ***
 
@@ -331,7 +339,7 @@ INSERT VIDEO
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249591.png) **Fake Wall Near the Ceiling** (2 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249760.png) **Fake Wall Near the Ceiling** (2 points)
 
 _Find and enter the illusory wall as a Fairy in the basement of East Hyrule's Graveyard Palace_
 
@@ -347,6 +355,8 @@ _Defeat the Fire Moa during the battle with Barba_
 
 See video demonstration. The Fire Moa is only vulnerable to Fire, so cast that spell and prioritize killing the Fire Moa. It will not respawn once defeated so killing it will also make the Barba fight easier.
 
+[Fight Fire with Fire [m] demonstration video](https://www.youtube.com/watch?v=gSywWi3cDw8)
+
 ***
 
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249593.png) **Ignore the Flanks [m]** (25 points)
@@ -354,6 +364,8 @@ See video demonstration. The Fire Moa is only vulnerable to Fire, so cast that s
 _Defeat the third Rebonack in the East Hyrule Graveyard Palace without damaging the wizzrobes_
 
 See video demonstration. The wizzrobes can only be harmed by reflecting their own spells at them. If you do not cast Reflect, you cannot harm them. Their presence during the fight makes defeating Rebonack more difficult, but it is easy to not accidentally fail this achievement.
+
+[Ignore the Flanks [m] demonstration video](https://www.youtube.com/watch?v=tojBKypDSjw)
 
 ***
 
@@ -373,7 +385,7 @@ See the map of East Hyrule in the Resources section for the location of the Magi
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249599.png) **Fake Wall in the Great Palace** (2 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249759.png) **Fake Wall in the Great Palace** (2 points)
 
 _Find and enter the illusory wall in the Great Palace after navigating breakable blocks and lava_
 
@@ -389,7 +401,7 @@ Several rooms beyond the illusory wall in the _Fake Wall in the Great Palace_ ac
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249601.png) **Fake Wall in the Great Elevator** (2 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249758.png) **Fake Wall in the Great Elevator** (2 points)
 
 _Find and enter the illusory wall that leads to a fairy in the Great Palace's long elevator_
 
@@ -397,7 +409,7 @@ See video demonstration. The long elevator is a puzzle that requires you to go u
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249602.png) **Fake Floor in the Great Palace** (2 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249764.png) **Fake Floor in the Great Palace** (2 points)
 
 _Find and enter the illusory floor beneath the breakable blocks in the room with two blue bird knights_
 
@@ -405,7 +417,7 @@ See video demonstration.
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249603.png) **The Best Defense is a Good Offense [m]** (25 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249767.png) **The Best Defense is a Good Offense [m]** (25 points)
 
 _Defeat Thunderbird in the Great Palace without using the Reflect spell_
 
@@ -413,7 +425,7 @@ See video demonstration. Reflect is used to block Thunderbird's fireballs. Witho
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249604.png) **The Morning Sun has Vanquished the Horrible Night** (50 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249768.png) **The Morning Sun has Vanquished the Horrible Night** (50 points)
 
 _Lift the curse of night on Hyrule by defeating Dark Link in the Great Palace_
 
