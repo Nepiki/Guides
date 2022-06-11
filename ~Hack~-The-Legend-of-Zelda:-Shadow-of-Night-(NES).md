@@ -67,7 +67,7 @@ _Defeat Horsehead in the Desert Palace with attack level 1_
 
 Use the levels you gain from experience to increase your defense and magic until after you've defeated Horsehead in the Desert Palace. This achievement will pop immediately upon his death allowing you to increase your attack with the experience gained from defeating him if available.
 
-INSERT VIDEO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j-fHjs62rhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
