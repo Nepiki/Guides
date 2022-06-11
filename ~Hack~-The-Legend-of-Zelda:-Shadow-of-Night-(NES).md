@@ -33,10 +33,9 @@ Zelda II - The Adventure of Link (USA) + Zelda II - Shadow of Night v2.5 Easy ![
 
 Patch is available at [https://www.romhacking.net/hack/728/](https://www.romhacking.net/hack/728/)
 
+[Shadow of Night Longplay](https://www.youtube.com/playlist?list=PLC9025E70B42A1CA7)
+
 INSERT WORLD MAP GRAPHIC
-
-INSERT LINK TO LONG PLAY
-
 
 ## **Achievements**
 
