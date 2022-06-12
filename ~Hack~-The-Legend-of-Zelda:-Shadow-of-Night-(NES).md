@@ -412,7 +412,7 @@ _Find and enter the illusory wall that leads to a fairy in the Great Palace's lo
 
 The long elevator is a puzzle that requires you to go up several floors, then down one then back up in order to progress. Each level has illusory walls, but the one with the fairy behind it marks the level at which you must go down and then back up to reach the top of the elevator shaft.
 
-INSERT VIDEO
+[Fake Wall in the Great Elevator](https://www.youtube.com/watch?v=0OvxzCZsKNY)
 
 ***
 
@@ -420,7 +420,7 @@ INSERT VIDEO
 
 _Find and enter the illusory floor beneath the breakable blocks in the room with two blue bird knights_
 
-INSERT VIDEO
+[Fake Floor in the Great Palace demonstration video](https://www.youtube.com/watch?v=2tP3E3arVFw)
 
 ***
 
