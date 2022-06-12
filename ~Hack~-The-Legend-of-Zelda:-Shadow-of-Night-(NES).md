@@ -142,7 +142,7 @@ The key to this cave is located just south of the entrance (see map in Resource 
 
 _Learn the Jump Thrust technique in the town of Mido_
 
-ADD DESCRIPTION
+Enter one of the houses with its lights on in the town of Mido and proceed to the basement to find the warrior who will teach Link the Jump Thrust technique.
 
 ***
 
@@ -194,7 +194,7 @@ Search near the very western exit of the entire town to find the key, then talk 
 
 _Learn the Down Thrust technique in the town of Darunia_
 
-ADD DESC
+Enter one of the houses with its lights on in the town of Darunia and proceed to the basement to find the warrior who will teach Link the Jump Thrust technique.
 
 ***
 
@@ -202,7 +202,7 @@ ADD DESC
 
 _Find and enter the illusory floor near the column in the room with the magos_
 
-See video below for demonstration.
+[Fake Floor in the Forest Palace demonstration video](https://www.youtube.com/watch?v=hpAa-XHLMSc)
 
 ***
 
@@ -220,9 +220,9 @@ While there will be three Gooma fights in the Forest Palace, the first encounter
 
 _Find and enter the first illusory wall in the Forest Palace_
 
-See video below for demonstration. Note there might be more than one room that looks like this, so continue to explore if it appears to not work in the first similar room you find.
+Note there might be more than one room that looks like this, so continue to explore if it appears to not work in the first similar room you find.
 
-INSERT VIDEO
+[First Fake Wall in the Forest Palace demonstration video](https://www.youtube.com/watch?v=lLQRRzbfwc0)
 
 ***
 
@@ -230,7 +230,7 @@ INSERT VIDEO
 
 _Find and enter the second illusory wall in the Forest Palace after defeating the second Gooma_
 
-See video for demonstration.
+[Second Fake Wall in the Forest Palace demonstration video](https://www.youtube.com/watch?v=0byIgzCOx1k)
 
 ***
 
@@ -246,9 +246,9 @@ After defeating the third Gooma, proceed forward to find this item.
 
 _Cross the lava pits in the cave with the lost child in less than 8 seconds_
 
-See video for demonstration.  This achievement can be done starting from either side of the room. The key is to have Dash selected before entering the room and while holding the directional pad to walk, cast Dash without stopping that input. It is important to save time in the first half of the room by not slowing down at all. You should run off the first ledge and then begin jumping and skipping a ledge during the first half of the room.  For the second half of the room, you should plan to land on each ledge, but continue to move quickly. This is not an extremely tight achievement, but there is not much room for unnecessary delays.
+This achievement can be done starting from either side of the room. The key is to have Dash selected before entering the room and while holding the directional pad to walk, cast Dash without stopping that input. It is important to save time in the first half of the room by not slowing down at all. You should run off the first ledge and then begin jumping and skipping a ledge during the first half of the room.  For the second half of the room, you should plan to land on each ledge, but continue to move quickly. This is not an extremely tight achievement, but there is not much room for unnecessary delays.
 
-INSERT VIDEO
+[Speed Demon demonstration video](https://www.youtube.com/watch?v=xMq8CFzlzM8)
 
 ***
 
@@ -272,7 +272,7 @@ Return to Darunia after rescuing the missing child and speak to the sage in the 
 
 _Find and enter the illusory wall in the Maze Island Palace by jumping high over the blue lava_
 
-See video for demonstration.
+[Fake Wall Over the Lava demonstration video](https://www.youtube.com/watch?v=bHdmCatc8Ac)
 
 ***
 
@@ -280,7 +280,7 @@ See video for demonstration.
 
 _Find and enter the illusory floor in the Maze Island Palace by dropping from the crumbling bridge into it_
 
-See video for demonstration.
+[Fake Floor Below the Bridge demonstration video](https://www.youtube.com/watch?v=1A8t16zZM2c)
 
 ***
 
@@ -324,7 +324,7 @@ _Learn the Spell spell from the sage in the hidden town of Kasuto once your magi
 
 See the maps in the Resources section for the locations of the Magic Containers.  Once you have obtained at least four of these Magic Containers, the woman in Kasuto will allow you in the house. The entrance to the basement is hidden near the middle of the room. See the picture below for the entrance to the basement.
 
-INSERT PICTURE
+![spell hidden door](https://user-images.githubusercontent.com/106546659/173211253-15693cf1-3c4e-44a6-824b-76cc725040d9.png)
 
 ***
 
@@ -332,9 +332,9 @@ INSERT PICTURE
 
 _Obtain the Flute in the hidden town of Kasuto_
 
-Use the Spell spell near the end of town to reveal a hidden temple containing this item.
+Use the Spell spell in the far right section of the hidden town of Kasuto reveal a hidden temple containing this item. Note the cloud position in the picture below and use the Spell spell at this location to reveal the temple.
 
-INSERT VIDEO
+![hidden flute temple](https://user-images.githubusercontent.com/106546659/173210976-7e991adc-af1c-4119-a41e-617452791d86.png)
 
 ***
 
@@ -342,9 +342,7 @@ INSERT VIDEO
 
 _Find and enter the illusory wall as a Fairy in the basement of East Hyrule's Graveyard Palace_
 
-See video demonstration.
-
-INSERT VIDEO
+[Fake Wall Near the Ceiling demonstration video](https://www.youtube.com/watch?v=cqNNg9hSx1s)
 
 ***
 
@@ -388,7 +386,7 @@ See the map of East Hyrule in the Resources section for the location of the Magi
 
 _Find and enter the illusory wall in the Great Palace after navigating breakable blocks and lava_
 
-See video demonstration.
+[Fake Wall in the Great Palace demonstration video](https://www.youtube.com/watch?v=3M86mKw6OM8)
 
 ***
 
@@ -404,7 +402,9 @@ Several rooms beyond the illusory wall in the _Fake Wall in the Great Palace_ ac
 
 _Find and enter the illusory wall that leads to a fairy in the Great Palace's long elevator_
 
-See video demonstration. The long elevator is a puzzle that requires you to go up several floors, then down one then back up in order to progress. Each level has illusory walls, but the one with the fairy behind it marks the level at which you must go down and then back up to reach the top of the elevator shaft.
+The long elevator is a puzzle that requires you to go up several floors, then down one then back up in order to progress. Each level has illusory walls, but the one with the fairy behind it marks the level at which you must go down and then back up to reach the top of the elevator shaft.
+
+INSERT VIDEO
 
 ***
 
@@ -412,7 +412,7 @@ See video demonstration. The long elevator is a puzzle that requires you to go u
 
 _Find and enter the illusory floor beneath the breakable blocks in the room with two blue bird knights_
 
-See video demonstration.
+INSERT VIDEO
 
 ***
 
@@ -420,7 +420,9 @@ See video demonstration.
 
 _Defeat Thunderbird in the Great Palace without using the Reflect spell_
 
-See video demonstration. Reflect is used to block Thunderbird's fireballs. Without it, you must avoid the fireballs entirely and defeat him to obtain this achievement.
+Reflect is used to block Thunderbird's fireballs. Without it, you must avoid the fireballs entirely and defeat him to obtain this achievement.
+
+[The Best Defense is a Good Offense [m] demonstration video](https://www.youtube.com/watch?v=k7sjPS68y58)
 
 ***
 
@@ -516,9 +518,9 @@ As you gain levels with experience, choose Defense seven times to unlock this ac
 
 _Beginning with a jump from the grass in front of the steps of any palace except the Grand Palace and Island Palace, reach the platform with the second Iron Knuckle statue without pressing the directional pad_
 
-See video for demonstration. As shown in the video, jump from the grass and ensure that you release the directional pad before Link cross over the bottom step. Continue to jump as soon as Link touches the ground and he will continue to preserve his momentum. Eventually he will start loosing speed, but it should not be especially difficult to achieve this.  Casting Jump and/or Dash will make this significantly easier.
+As shown in the video, jump from the grass and ensure that you release the directional pad before Link cross over the bottom step. Continue to jump as soon as Link touches the ground and he will continue to preserve his momentum. Eventually he will start loosing speed, but it should not be especially difficult to achieve this.  Casting Jump and/or Dash will make this significantly easier.
 
-INSERT VIDEO
+[Palatial Inertia demonstration video](https://www.youtube.com/watch?v=S8wfU6h8XM0)
 
 ***
 
