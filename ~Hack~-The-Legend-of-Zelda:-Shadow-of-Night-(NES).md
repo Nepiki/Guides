@@ -310,7 +310,7 @@ After defeating Carock, proceed forward and find this item.
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249584.png) **The Pain is Gone** (5 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/250489.png) **The Pain is Gone** (5 points)
 
 _Destroy the rock blocking the swamp cave entrance and find the medicine within_
 
@@ -442,7 +442,7 @@ Defeat Dark Link in the battle after Thunderbird. Be careful of the lava on both
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249557.png) **Magic Puddle** (5 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/250488.png) **Magic Puddle** (5 points)
 
 _Find two Magic Containers_
 
@@ -450,7 +450,7 @@ Use the map in the Resources section to locate two Magic Containers.
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249589.png) **Magic Pool** (10 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/250487.png) **Magic Pool** (10 points)
 
 _Find five Magic Containers_
 
