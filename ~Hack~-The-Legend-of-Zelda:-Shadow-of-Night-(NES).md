@@ -166,7 +166,7 @@ After obtaining the Handy Glove, return to the room beyond the second Horsehead 
 
 _Defeat Helmethead in the Graveyard Palace in West Hyrule only damaging him while the Fire Moa is on screen_
 
-During the battle with Helmethead in the Graveyard Palace near Bagu's house in West Hyrule, ensure that you only attack him while the Fire Moa is on screen. The Fire Moa will often fly off the side of the screen in a predictable pattern, so ensure you are patient with your attacks. This achievement can be restarted by dying and reentering the fight.
+During the battle with Helmethead in the Graveyard Palace near Bagu's house in West Hyrule, ensure that you only attack him while the Fire Moa is on screen. The Fire Moa will often fly off the side of the screen in a predictable pattern, so ensure you are patient with your attacks.
 
 [Helmet Fire [m] demonstration video](https://www.youtube.com/watch?v=ITXfPfW_0Mw)
 
