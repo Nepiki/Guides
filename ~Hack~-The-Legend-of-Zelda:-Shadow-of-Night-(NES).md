@@ -35,7 +35,7 @@ Patch is available at [https://www.romhacking.net/hack/728/](https://www.romhack
 
 [Shadow of Night Longplay](https://www.youtube.com/playlist?list=PLC9025E70B42A1CA7)
 
-The below maps do not match the in game palette, but more clearly indicate the true assets.  For example, in game the hammer breakable boulders are not distinguishable from regular mountain tiles, but these maps depict them in their true form.  The white boxes indicate tiles with subareas, many of which contain lesser items not listed on the maps.  The list map items are those required to master the set.  Some items will need certain spells to reach such as Jump, Dash or Fairy.
+The below maps do not match the in game palette, but more clearly indicate the true assets.  For example, in game the hammer breakable boulders are not distinguishable from regular mountain tiles, but these maps depict them in their true form.  The white boxes indicate tiles with subareas, many of which contain lesser items not listed on the maps.  The listed map items are those required to master the set.  Some items will need certain spells to reach such as Jump, Dash or Fairy.
 
 ![West Hyrule](https://user-images.githubusercontent.com/106546659/173212180-536c5627-b17b-4ca3-b174-fa95d08466a1.png)
 
