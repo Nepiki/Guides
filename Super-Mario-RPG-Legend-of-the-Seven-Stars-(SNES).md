@@ -19,9 +19,33 @@ Total: 8
 
     [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55140.png)](https://retroachievements.org/Achievement/53380) (4)
 
+* Refusing to return Peach (1 chance. Save right after finishing the wedding event)
+
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/164429.png)](https://retroachievements.org/achievement/147273) (1)
+
+* Visiting Land's End Early (Specific time frame) Has to be done before kicking the barrel blocking your path to Land's End
+
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/164417.png)](https://retroachievements.org/Achievement/147254) (2*)
+
+* Defeat Johnny without 1v1 (Boss Fight) Save before the fight
+
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/164424.png)](https://retroachievements.org/achievement/147264) (5*)
+
+* Special Reward in Seaside Town (Specific event) Save after the fight with Johnny
+
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/164425.png)](https://retroachievements.org/Achievement/147265) (2*)
+
 * Meeting Samus (Specific time frame)
 
     [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55374.png)](https://retroachievements.org/Achievement/53573) (5*)
+
+* Dodge Dodo Pecks (Specific event) There is a save right before the event
+
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/164126.png)](https://retroachievements.org/achievement/147267) (5*)
+
+* Exor 9999 Damage (Boss fight) Save before fighting Exor
+
+    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/164127.png)](https://retroachievements.org/achievement/147276) (3*)
 
 * The following can be missed if you discard specific items that you can only get 1 of.
 
@@ -37,8 +61,23 @@ Only expand the following if you don't care
 </details>
 
 <details> 
+  <summary>Timeframe for refusing to return Peach</summary>
+   After finishing the wedding event you will get this before leaving Marrymore
+</details>
+
+<details> 
   <summary>Timeframe for meeting Samus</summary>
    After beating Belome in Belome Temple in Land's End, before reaching Nimbus Land
+</details>
+
+<details> 
+  <summary>Johnny 1v1 Mechanic</summary>
+   There is a specific mechanic involved with whether or not Johnny will engage you in a 1v1 and it is not time related
+</details>
+
+<details> 
+  <summary>Exor Mechanic</summary>
+   This is the only boss with an exception to the 9999 damage from one of Geno's skills, aim for specific timing on a specific target
 </details>
 
 <details> 
