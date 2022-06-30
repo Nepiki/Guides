@@ -51,15 +51,16 @@ If all 4 of those enemies don't show up, you can split this across a couple of c
 # 4) General gameplay tips and tricks
 
 You will obtain different resources depending on how you take out an invader. 
-	If you capture them, you will have the choice to obtain either MP, gold, or enslave them (last one after finishing chapter 6)
-	If you destroy them, they will drop a bag of gold
+* If you capture them, you will have the choice to obtain either MP, gold, or enslave them (last one after finishing chapter 6)
+* If you destroy them, they will drop a bag of gold
 You will want to maximise what types of resources you receive however the resources that are generally most valuable are gold and enslaving for monster creation. You will need to capture 1 of every enemy type that can be captured, and some require you to capture 2-3 of them.
 When playing through the game, make sure to make backups! You can only keep one save on the memory card due to the game requiring 8 slots, so backing up memory cards will help cleaning up any chapter specific challenges that you missed a lot easier to get back to.
+
 I would recommend to keep a save backed up at the start of the chapter every 3 chapters, starting from chapter 4, so chapters 4, 7, 10 etc when the "capture pro" and "destroy pro" achievements begin. You can backup a save by making a copy of the memory card after saving at those points in the game, and can then copy them back to the memory card the emulator reads when needed. Just make sure the name of the memory card matches the name of the game when you go to open them! If you are unsure how to backup and restore a memory card this way feel free to reach out either via the website or discord and I'll help however I can.
 
 ***
 
-## Step 1: Additional Resources
+## Additional Resources
 
 A great guide for the game without spoilers can be found at the following link. This includes an overview of how to obtain all 6 endings at the very bottom as well as a lot of chapter specific information.
 https://gamefaqs.gamespot.com/ps/573108-tecmos-deception-invitation-to-darkness/faqs/49725
