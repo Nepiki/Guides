@@ -8,6 +8,7 @@ List of Guides (Alphabetical)
 |Resident Evil 1.5|[Full](Resident-Evil-1.5-(Prototype)-(PlayStation))|[17454](https://retroachievements.org/game/17454)|
 |Rugrats: Search for Reptar|[Full](Rugrats-Search-for-Reptar-(PlayStation))|[826](https://retroachievements.org/game/826)|
 |Suikoden|[[m]](Suikoden-(PlayStation))|[11255](https://retroachievements.org/game/11255)|
+|Tecmo's Deception: Invitation to Darkness|[Partial](https://github.com/RetroAchievements/guides/wiki/Tecmo's-Deception:-Invitation-to-Darkness-(Playstation))|[837](https://retroachievements.org/game/837)|
 |Tomba!|[Partial](Tomba!-(PlayStation))|[11276](https://retroachievements.org/game/11276)|
 |Tomba! 2: The Evil Swine Return|[Partial](Tomba!-2-The-Evil-Swine-Return-(PlayStation))|[11306](https://retroachievements.org/game/11306)|
 |Yu‐Gi‐Oh!: Forbidden Memories|[Partial](Yu‐Gi‐Oh!-Forbidden-Memories-(PlayStation))|[11388](https://retroachievements.org/game/11388)|
