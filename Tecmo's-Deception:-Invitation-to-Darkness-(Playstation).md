@@ -29,6 +29,10 @@ When you reach chapter 26, try to keep a save at the start of this chapter as yo
 
 If you are given the option to resurrect at the end of chapter 8, I would recommend to do that on this playthrough, if not, make sure to do this on playthrough 2! The monster that you receive by selecting this option is not included in the achievements for levelling all monsters ("Monster Rancher" and "Castle of the Damned") and for that specific achievement I would suggest to attempt these on playthrough 3, however these can also be attempted on playthrough 2 if you feel comfortable enough, as you'll need to utilise every opportunity for exp whilst gaining as much gold as possible.
 
+During this step you should make progress towards the following achievement types
+* [**Capture Pro I-VIII**](#Capture-Pro-|-Total-points:-80)
+
+
 ***
 
 [**Step 2: Second playthrough!**]
@@ -67,5 +71,23 @@ https://gamefaqs.gamespot.com/ps/573108-tecmos-deception-invitation-to-darkness/
 
 The following guide is also useful for very specific bits of information as it has a lot more detail, however isn't as well formatted overall and does include spoilers, so be warned! It does include Shadow's Weakness however for the "General Pelipper" achievement (yes the name is a Pokemon reference, and it's a hint towards their weakness!)
 https://gamefaqs.gamespot.com/ps/573108-tecmos-deception-invitation-to-darkness/faqs/3825
+
+***
+
+# 5) Achievement Specific Information
+
+## Capture Pro | **Total points: 80**
+
+The following batch are for clearing each chapter whilst only capturing. Any times where a kill is mandatory this is exempt from this rule.
+The 3 mandatory kills in the game are in chapters 13, 23 and 24. There is only a single mandatory kill in each of these chapters.
+
+* [Capture Pro I [m] (10)](https://retroachievements.org/achievement/225941) - Complete chapters 1-3 in a single session whilst only capturing invaders
+* [Capture Pro II [m] (10)](https://retroachievements.org/achievement/226007) - Complete chapters 4-6 in a single session whilst only capturing invaders
+* [Capture Pro III [m] (10)](https://retroachievements.org/achievement/226008) - Complete chapters 7-9 in a single session whilst only capturing invaders
+* [Capture Pro IV [m] (10)](https://retroachievements.org/achievement/226009) - Complete chapters 10-12 in a single session whilst only capturing invaders
+* [Capture Pro V [m] (10)](https://retroachievements.org/achievement/226010) - Complete chapters 13-15 in a single session whilst only capturing invaders - Mandatory kills allowed
+* [Capture Pro VI [m] (10)](https://retroachievements.org/achievement/226011) - Complete chapters 16-18 in a single session whilst only capturing invaders
+* [Capture Pro VII [m] (10)](https://retroachievements.org/achievement/226012) - Complete chapters 19-21 in a single session whilst only capturing invaders
+* [Capture Pro VIII [m] (10)](https://retroachievements.org/achievement/226013) - Complete chapters 22-25 in a single session whilst only capturing invaders - Mandatory kills allowed
 
 ***
