@@ -80,6 +80,7 @@ If all 4 of those enemies don't show up, you can split this across a couple of c
 During this step you should finish up the following and any others you may not have achieved yet.
 * [**Damageless**](#damageless--total-points-125)
 * [**Monsters & Slaves**](#monsters--slaves--total-points-67)
+* [**Castle of the Damned**](#castle-of-the-damned--total-points-50)
 
 # 4) General gameplay tips and tricks
 
