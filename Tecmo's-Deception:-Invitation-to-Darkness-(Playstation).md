@@ -30,7 +30,7 @@ When you reach chapter 26, try to keep a save at the start of this chapter as yo
 If you are given the option to resurrect at the end of chapter 8, I would recommend to do that on this playthrough, if not, make sure to do this on playthrough 2! The monster that you receive by selecting this option is not included in the achievements for levelling all monsters ("Monster Rancher" and "Castle of the Damned") and for that specific achievement I would suggest to attempt these on playthrough 3, however these can also be attempted on playthrough 2 if you feel comfortable enough, as you'll need to utilise every opportunity for exp whilst gaining as much gold as possible.
 
 During this step you should make progress towards the following achievement types
-* [**Capture Pro I-VIII**](#Capture-Pro-|-Total-points:-80)
+* [**Capture Pro I-VIII**](##Capture-Pro-|-Total-points:-80)
 
 
 ***
