@@ -526,7 +526,7 @@ As you gain levels with experience, choose Defense seven times to unlock this ac
 
 _Beginning with a jump from the grass in front of the steps of any palace except the Grand Palace and Island Palace, reach the platform with the second Iron Knuckle statue without pressing the directional pad_
 
-As shown in the video, jump from the grass and ensure that you release the directional pad before Link cross over the bottom step. Continue to jump as soon as Link touches the ground and he will continue to preserve his momentum. Eventually he will start loosing speed, but it should not be especially difficult to achieve this.  Casting Jump and/or Dash will make this significantly easier.
+As shown in the video, jump from the grass and ensure that you release the directional pad before Link cross over the bottom step. Continue to jump as soon as Link touches the ground and he will preserve his momentum into subsequent jumps. Eventually he will start losing speed, but it should not be especially difficult to achieve this.  Casting Jump and/or Dash will make this significantly easier.
 
 [Palatial Inertia demonstration video](https://www.youtube.com/watch?v=S8wfU6h8XM0)
 
