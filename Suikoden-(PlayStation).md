@@ -42,7 +42,7 @@ Near the beginning of the game - When Teo and Tir arrive at the McDohl mansion g
 
 The safest way to go about this: After leaving the mansion, buy whatever equipment you can to raise your defense, and save at the inn. Head to the world map and repeatedly get into battles to raise your level. I usually save after every level up. It is also recommended to head south to Lenankamp and sharpen your weapon at the blacksmith. A good source of money at this point in the game is by playing Marco's cup game in Rockland, which is east of Gregminster. 
 
-Point of no return - Going upstairs when arriving at the McDohl mansion for the first time.
+Point of no return - Going into your room after Ted joins.
 
 ### [Early Bird - Fortune Crystal](https://retroachievements.org/Achievement/79941)
 
@@ -51,7 +51,7 @@ Point of no return - Going upstairs when arriving at the McDohl mansion for the 
 
 Exactly the same as obtaining the Prosperity Crystal in Saraday, only do it without Ted. After arriving at the McDohl mansion, head upstairs to automatically trigger a scene with Ted, who will join your party. Then head back downstairs and follow the same steps as the Prosperity Crystal.
 
-Point of no return - Going into your room after Ted joins.
+Point of no return - Going upstairs when arriving at the McDohl mansion for the first time.
 
 ### [Hero of Rockland](https://retroachievements.org/Achievement/79939)
 
