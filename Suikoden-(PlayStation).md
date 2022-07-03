@@ -9,7 +9,7 @@
 **Set Difficulty:** Medium<br>
 **Approximate time to Master:** A while, but it's short by JRPG standards<br>
 **Minimum Number of Playthroughs Needed:** 2<br>
-**Number of Missable Achievements:** 25<br>[asf](fdsa)
+**Number of Missable Achievements:** 25
 
 # 2) Introduction
 
@@ -46,7 +46,7 @@ Point of no return - Going into your room after Ted joins.
 
 ### [Early Bird - Fortune Crystal](https://retroachievements.org/Achievement/79941)
 
-![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86069.png)
+![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86068.png)
 *Obtain the Fortune Crystal in Saraday*
 
 Exactly the same as obtaining the Prosperity Crystal in Saraday, only do it without Ted. After arriving at the McDohl mansion, head upstairs to automatically trigger a scene with Ted, who will join your party. Then head back downstairs and follow the same steps as the Prosperity Crystal.
