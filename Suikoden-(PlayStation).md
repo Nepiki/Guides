@@ -38,7 +38,7 @@ The default controls are as followed:
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86069.png) 
 *Obtain the Prosperity Crystal in Saraday*
 
-Near the beginning of the game - When Teo and Tir arrive at the McDohl mansion, you must leave town, head west and make your way through Mt. Tigerwolf, then head north to Saraday. Talk to the man in the northeast house.
+Near the beginning of the game - When Teo and Tir arrive at the McDohl mansion go upstairs to have Ted join you then immediately go back downstairs and leave the house. You must leave town, head west and make your way through Mt. Tigerwolf, then head north to Saraday. Talk to the man in the northeast house.
 
 The safest way to go about this: After leaving the mansion, buy whatever equipment you can to raise your defense, and save at the inn. Head to the world map and repeatedly get into battles to raise your level. I usually save after every level up. It is also recommended to head south to Lenankamp and sharpen your weapon at the blacksmith. A good source of money at this point in the game is by playing Marco's cup game in Rockland, which is east of Gregminster. 
 
@@ -49,7 +49,7 @@ Point of no return - Going upstairs when arriving at the McDohl mansion for the 
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86069.png)
 *Obtain the Fortune Crystal in Saraday*
 
-Exactly the same as obtaining the Prosperity Crystal in Saraday, only do it with Ted. After arriving at the McDohl mansion, head upstairs to automatically trigger a scene with Ted, who will join your party. Then head back downstairs and follow the same steps as the Prosperity Crystal.
+Exactly the same as obtaining the Prosperity Crystal in Saraday, only do it without Ted. After arriving at the McDohl mansion, head upstairs to automatically trigger a scene with Ted, who will join your party. Then head back downstairs and follow the same steps as the Prosperity Crystal.
 
 Point of no return - Going into your room after Ted joins.
 
