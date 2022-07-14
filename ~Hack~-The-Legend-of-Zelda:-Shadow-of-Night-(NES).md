@@ -18,7 +18,7 @@ The hack saw several updates from its initial 1.0 release to the final version 2
 
 The achievements in the set are a mix of progression and challenge achievements. The progression achievements are pretty typical for increasing Link's strength, obtaining key items or reaching new destinations. The challenge achievements are mostly focused on defeating bosses/minibosses under certain conditions. None of the challenge achievements are frustratingly difficult or require a significantly abnormal approach to gameplay.
 
-There is a long play of the hack available, but it was done with a slightly out dated version of the game. As such there are a few minor differences from the version of this game that is used for Retro Achievements such as a few item locations and palace design updates. This guide ensure that players have all the information needed to successfully master the set and understand what the differences in the long play videos and the current version of the hack are.
+There is a long play of the hack available, but it was done with a slightly out dated version of the game. There are a few minor differences from the version of this game that is used for Retro Achievements such as a few item locations and palace design updates. This guide ensures that players have all the information needed to successfully master the set and understand what the differences in the long play videos and the current version of the hack are.
 
 
 ## **Compatibility**
@@ -80,7 +80,7 @@ Use the levels you gain from experience to increase your defense and magic until
 
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249701.png) **Don't Give an Inch [m]** (25 points)
 
-_During the battle on the bridge in the Desert Palace, do not let Horsehead move further left than this starting position_
+_During the battle on the bridge in the Desert Palace, do not let Horsehead move further left than his starting position_
 
 This achievement is available the second time you fight Horsehead in the Desert Palace. As soon as you approach him and the battle begins, immediately execute a jumping, crouching attack to hit him backwards. Stay aggressive as he plods forward to ensure he will not progress further than his initial position. The key to success is to quickly land the first attack and continue to keep up the pressure thereafter.
 
@@ -124,7 +124,7 @@ Use the map in the Resources section to find the forest tile where Bagu's house 
 
 _Learn the Fire spell from the sage in the town of Ruto after finding his daughter's lost cat on their roof_
 
-Use the Jump spell to reach the roof of the house and press the B button to find the cat in the location depicted below.
+Use the Jump spell to reach the roof of the house and press the B button to find the cat in the location depicted below.  Next, talk to the girl near the door to the house, enter it and learn the spell from the sage in the basement.
 
 ![cat](https://user-images.githubusercontent.com/106546659/173193463-b38e36f2-d953-4f2a-9daa-8af09ed57566.png)
 
@@ -166,7 +166,7 @@ After obtaining the Handy Glove, return to the room beyond the second Horsehead 
 
 _Defeat Helmethead in the Graveyard Palace in West Hyrule only damaging him while the Fire Moa is on screen_
 
-During the battle with Helmethead in the Graveyard Palace near Bagu's house in West Hyrule, ensure that you only attack him while the Fire Moa is on screen. The Fire Moa will often fly off the side of the screen in a predictable pattern, so ensure you are patient with your attacks.
+During the battle with Helmethead in the Graveyard Palace near Bagu's house in West Hyrule, ensure that you only attack him while the Fire Moa is on screen. The Fire Moa will often fly off the side of the screen in a predictable pattern, so be patient with your attacks.
 
 [Helmet Fire [m] demonstration video](https://www.youtube.com/watch?v=ITXfPfW_0Mw)
 
@@ -428,7 +428,7 @@ _Find and enter the illusory floor beneath the breakable blocks in the room with
 
 _Defeat Thunderbird in the Great Palace without using the Reflect spell_
 
-Reflect is used to block Thunderbird's fireballs. Without it, you must avoid the fireballs entirely and defeat him to obtain this achievement.
+Reflect is used to block Thunderbird's fireballs. Without it, you will take damage if you touch a fireball under all circumstances.  Just defeat Thunderbird without casting reflect to obtain this achievement.
 
 [The Best Defense is a Good Offense [m] demonstration video](https://www.youtube.com/watch?v=k7sjPS68y58)
 
@@ -526,7 +526,7 @@ As you gain levels with experience, choose Defense seven times to unlock this ac
 
 _Beginning with a jump from the grass in front of the steps of any palace except the Grand Palace and Island Palace, reach the platform with the second Iron Knuckle statue without pressing the directional pad_
 
-As shown in the video, jump from the grass and ensure that you release the directional pad before Link cross over the bottom step. Continue to jump as soon as Link touches the ground and he will preserve his momentum into subsequent jumps. Eventually he will start losing speed, but it should not be especially difficult to achieve this.  Casting Jump and/or Dash will make this significantly easier.
+As shown in the video, jump from the grass and ensure that you release the directional pad before Link crosses over the bottom step. Continue to jump as soon as Link touches the ground and he will preserve his momentum during subsequent jumps. Eventually he will start losing speed, but it should not be especially difficult to achieve this.  Casting Jump and/or Dash will make this significantly easier.
 
 [Palatial Inertia demonstration video](https://www.youtube.com/watch?v=S8wfU6h8XM0)
 
