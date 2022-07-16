@@ -27,6 +27,15 @@ Zillion (USA, Europe) (Rev 1).sms ![](https://retroachievements.org/Images/label
 d4bf9e7bcf9a48da53785d2ae7bc4270
 
 
+## **Road Map**
+
+The best way to tackle the set would be to do the full game run first. This will require you to rescue Apple, Champ, get all the level up items, gun upgrades, blue ID cards, bread and learn the lay out of the base. You can earn all but two achievements in this run.
+
+The next achievement you should tackle requires another play through, but without rescuing Apple or Champ. You will be more resource constrained as you only have access to JJ, but it is manageable with your prior knowledge.
+
+The final achievement you should attempt is No Time to Waste, the timed achievement to rescue Apple. This achievement will require a solid understanding of the code recognition and entering that can only be learned through practice. Fortunately, you'll have had two complete play throughs and will have a great start at building the proficiency needed for it.
+
+
 ## **Resources**
 
 The single most useful resource for the vast majority of the run is the map available at: https://gamefaqs.gamespot.com/sms/588176-zillion/map/1176-game-map
@@ -142,7 +151,7 @@ At any computer terminal, enter the code 6 6 6 6 to warp back to the elevator sh
 
 _Get JJ to level 5_
 
-Characters will gain a level when they pick up an Opa-Opa item. It also says "Level up" in the black text box. Collect four Level up items as JJ to get this achievement.
+Characters will gain a level when they pick up an Opa-Opa item. It also says "level up" in the black text box. Collect four level up items as JJ to get this achievement.
 
 ***
 
@@ -150,7 +159,7 @@ Characters will gain a level when they pick up an Opa-Opa item. It also says "Le
 
 _Get JJ to level 8_
 
-Collect a total of seven Level up items as JJ to get this achievement. Be careful to not get extra ones beyond the required seven as they will restore health, but there are only four extra Level up items in the entire game. You'll need the vast majority of them to level up the other characters.
+Collect a total of seven level up items as JJ to get this achievement. Be careful to not get extra ones beyond the required seven as they will restore health, but there are only four extra level up items in the entire game. You'll need the vast majority of them to level up the other characters.
 
 ***
 
@@ -158,7 +167,7 @@ Collect a total of seven Level up items as JJ to get this achievement. Be carefu
 
 _Get Apple to level 5_
 
-Collect four Level up items as Apple to get this achievement.
+Collect four level up items as Apple to get this achievement.
 
 ***
 
@@ -166,7 +175,7 @@ Collect four Level up items as Apple to get this achievement.
 
 _Get Apple to level 8_
 
-Collect a total of seven Level up items as Apple to get this achievement. Be careful to not get extra ones beyond the required seven as they will restore health, but there are only four extra Level up items in the entire game. You'll need the vast majority of them to level up the other characters.
+Collect a total of seven level up items as Apple to get this achievement. Be careful to not get extra ones beyond the required seven as they will restore health, but there are only four extra level up items in the entire game. You'll need the vast majority of them to level up the other characters.
 
 ***
 
@@ -174,7 +183,7 @@ Collect a total of seven Level up items as Apple to get this achievement. Be car
 
 _Get Champ to level 5_
 
-Collect four Level up items as Champ to get this achievement.
+Collect four level up items as Champ to get this achievement.
 
 ***
 
@@ -182,7 +191,7 @@ Collect four Level up items as Champ to get this achievement.
 
 _Get Champ to level 8_
 
-Collect a total of seven Level up items as Champ to get this achievement. Be careful to not get extra ones beyond the required seven as they will restore health, but there are only four extra Level up items in the entire game. You'll need the vast majority of them to level up the other characters.
+Collect a total of seven level up items as Champ to get this achievement. Be careful to not get extra ones beyond the required seven as they will restore health, but there are only four extra level up items in the entire game. You'll need the vast majority of them to level up the other characters.
 
 ***
 
@@ -190,7 +199,7 @@ Collect a total of seven Level up items as Champ to get this achievement. Be car
 
 _Get JJ, Apple and Champ all to level 8_
 
-Collect seven Level up items with each character to get this achievement. Be cautious not to let a character get too many excess level ups. There are only four extra Level up items in the game.
+Collect seven level up items with each character to get this achievement. Be cautious not to let a character get too many excess level ups. There are only four extra level up items in the game.
 
 ***
 
@@ -222,7 +231,7 @@ Pick up a gun upgrade with JJ to get this achievement.
 
 _Upgrade JJ's gun to level 3_
 
-Pick up two gun upgrades with JJ to get this achievement. Similar to the Level ups, you will waste gun upgrades if you pick them up with a character already at gun level 3. There are two extra gun upgrades in the base with four of the upgrades being in the lower section of the base.
+Pick up two gun upgrades with JJ to get this achievement. Similar to the level ups, you will waste gun upgrades if you pick them up with a character already at gun level 3. There are two extra gun upgrades in the base with four of the upgrades being in the lower section of the base.
 
 ***
 
@@ -238,7 +247,7 @@ Pick up a gun upgrade with Apple to get this achievement.
 
 _Upgrade Apple's gun to level 3_
 
-Pick up two gun upgrades with Apple to get this achievement. Similar to the Level ups, you will waste gun upgrades if you pick them up with a character already at gun level 3. There are two extra gun upgrades in the base with four of the upgrades being in the lower section of the base.
+Pick up two gun upgrades with Apple to get this achievement. Similar to the level ups, you will waste gun upgrades if you pick them up with a character already at gun level 3. There are two extra gun upgrades in the base with four of the upgrades being in the lower section of the base.
 
 ***
 
@@ -392,4 +401,4 @@ In the demo below, I complete the achievement with about 20 seconds to spare, bu
 
 _Complete the mission without rescuing Apple or Champ without using a continue_
 
-Simply complete the game without saving either Apple or Champ. This will limit you to just JJ's health, but you can take advantage of the many extra Level up items available to restore some lost health.
+Simply complete the game without saving either Apple or Champ. This will limit you to just JJ's health, but you can take advantage of the many extra level up items available to restore some lost health.
