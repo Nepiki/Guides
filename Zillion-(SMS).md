@@ -115,27 +115,16 @@ Note: There is a leaderboard for returning to your ship the fastest.
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259541.png) **Shockingly Helpful** (1 point)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259541.png) **Saboteur** (1 point)
 
-_Use a computer code to temporarily disable laser barriers_
+_Use a computer code to temporarily disable a laser barrier, an alarm sensor, a moving walkway and an auto gun_
 
-In a room with a laser barrier, enter the code 2 2 2 2 at a computer terminal to disable it and get this achievement.
+As you progress through the base and come across various traps, use the following codes to disable one of each kind at some point. Note you will lose a blue ID card for inputting these codes so make sure you have at least one left.
 
-****
-
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259542.png) **Undetectable** (1 point)
-
-_Use a computer code to temporarily disable alarm sensors_
-
-In a room with an alarm sensor, enter the code 3 3 3 3 at a computer terminal to disable it and get this achievement.
-
-***
-
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259543.png) **More Like Manual Guns** (1 point)
-
-_Use a computer code to temporarily disable auto guns_
-
-In a room with an auto gun, enter the code 5 5 5 5 at a computer terminal to disable it and get this achievement.
+Disable laser barrier: 2 2 2 2 
+Disable alarm sensor: 3 3 3 3
+Disable moving walkway: 4 4 4 4
+Disable auto guns: 5 5 5 5
 
 ***
 
