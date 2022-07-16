@@ -42,7 +42,7 @@ This will drastically improve your ability to memorize the room codes as you lea
 
 ## **Achievements**
 
-The only missable achievement is a time based challenge to rescue Apple within 9 minutes and 15 seconds of starting the game. This is a very difficult achievement and all that needs to be done to try again is start a new game.
+The only missable achievement is a time based challenge to rescue Apple within 9 minutes of starting the game. This is a very difficult achievement and all that needs to be done to try again is start a new game.
 
 - No Time to Waste
 
