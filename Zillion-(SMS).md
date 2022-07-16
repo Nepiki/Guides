@@ -37,7 +37,7 @@ The symbols in Zillion may appear difficult to remember as your first impression
 
 ![image](https://user-images.githubusercontent.com/106546659/179338697-9b67a3ec-a8ca-4f5a-aa43-7c6ecba4bdbc.png)
 
-This will drastically improve your ability to memorize the room codes as you learn them and save you from having to take copious notes. Without learning to quickly be able to memorize the symbols, the No Time to Waste achievement will not be possible.
+This will drastically improve your ability to memorize the room codes as you learn them and save you from having to take copious notes. Without learning to quickly memorize the symbols, the No Time to Waste achievement will not be possible.
 
 
 ## **Achievements**
