@@ -240,11 +240,11 @@ Pick up two gun upgrades with Apple to get this achievement. Similar to the leve
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259558.png) **Can't Imagine Where to Store the Next One** (5 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259558.png) **Where Exactly Are You Storing All These?** (5 points)
 
-_Have a full inventory of 10 blue ID cards at once_
+_Get another blue ID card after your inventory is already full_
 
-Collect ten blue ID cards to get this achievement. Blue ID cards are plentiful and this should naturally happen unless you are burning through them by using preset computer codes in virtually every room.
+Pick up a blue ID card when your inventory on the status screen is already showing you possessing 10. Blue ID cards are plentiful and this should naturally happen unless you are burning through them by using preset computer codes in virtually every room.
 
 ***
 
