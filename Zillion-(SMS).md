@@ -376,11 +376,11 @@ Rescue Apple and Champ and complete the game without anyone dying nor using a co
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259575.png) **No Time to Waste** (100 points)
 
-_Rescue Apple in less than 9 minutes without using a continue_
+_Rescue Apple in less than 8 minutes and 45 seconds without using a continue_
 
 This is by far the most difficult achievement in the set. From the time you get control of JJ, you have to rescue Apple in less than 9 minutes. I created a tutorial video to help people learn how to very quickly recognize and enter room codes as well as see the required route needed to be taken. There is a little margin for error, but very little.
 
-In the demo below, I complete the achievement with about 20 seconds to spare, but those 20 seconds can be lost very quickly with unnecessary delays or movement errors. The biggest thing within your control is your ability to quickly memorize and enter the codes so make sure that isn't your limiting factor.
+In the demo below, I complete the achievement with about 20 seconds to spare, but those 20 seconds can be lost very quickly. If it took just 1 second longer per room with a code then this demo would have been down to the wire. The biggest thing within your control is your ability to quickly memorize and enter the codes so make sure that isn't your limiting factor, but knowing and practicing the routing is key.
 
 [No Time to Waste demonstration video](https://youtu.be/nQrOcc9qBUc)
 
