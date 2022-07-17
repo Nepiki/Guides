@@ -345,6 +345,8 @@ Would you believe me if I told you this is the most annoying boss in the game, p
 
 EDIT: Actually, I realised something after. This boss will become much, much easier when using the Magic Rod from the final dungeon, simply because you don't bounce off. You will have to wait until the very end of the game to do this, but it may be a worthy sacrifice if the boss gives you too much trouble with the sword. Just keep spamming the Magic Rod after he shot a projectile, watch out for the skeleton when he turns red and you're good to go! 
 
+EDIT 2: I can't vouch for this myself, but I've been told that the Bow is also a very solid option, especially bomb arrows by pressing the bow and bomb at the same time. Definitely worth giving a shot if the boss gives you trouble!
+
 ***
 
 ## Step 3: Missable Achievements | **Total points: 322**
