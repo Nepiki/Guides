@@ -91,7 +91,7 @@ Champ is located in the lower section of the base. On the gamefaqs map, Champ is
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259539.png) **Don't Have Time For This** (25 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259539.png) **Don't Have Time For This** (10 points)
 
 _Defeat the dragon after initiating the main computer's self destruct sequence_
 
@@ -115,7 +115,7 @@ Note: There is a leaderboard for returning to your ship the fastest.
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259541.png) **Saboteur** (1 point)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259541.png) **Saboteur** (5 point)
 
 _Use a computer code to temporarily disable a laser barrier, an alarm sensor, a moving walkway and an auto gun_
 
@@ -192,7 +192,7 @@ Collect seven level up items with each character to get this achievement. Be cau
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259552.png) **Let There Be Light... Beams** (5 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259552.png) **Let There Be Light... Beams** (3 points)
 
 _Find a scope_
 
@@ -334,7 +334,7 @@ At the first hallway in the first elevator, go all the way left, past the mines 
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259570.png) **What Is That Doing in There?** (5 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259570.png) **What Is That Doing in There?** (3 points)
 
 _Uncover a hidden loaf of bread within a wall_
 
@@ -342,7 +342,7 @@ There are three walls in the hallways of the base where if you shoot them about 
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259571.png) **Piece of Cake** (5 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259571.png) **Piece of Cake** (3 points)
 
 _Open the doors securing the level up on the top floor of the Norsa base_
 
@@ -350,7 +350,7 @@ The room nearest to the main elevator shaft on the top row if you initially head
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259572.png) **Talked Off the Ledge** (5 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259572.png) **Talked Off the Ledge** (3 points)
 
 _Enter the suicide code at certain computer consoles and get a message from the developers instead of death_
 
