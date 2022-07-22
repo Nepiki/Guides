@@ -41,7 +41,7 @@ The below maps do not match the in game palette, but more clearly indicate the t
 
 ![Death Mountain](https://user-images.githubusercontent.com/106546659/173212185-0348d1ed-8eb2-4727-9aea-269dada8223e.png)
 
-![East Hyrule](https://user-images.githubusercontent.com/106546659/173212187-d696b2b8-973b-41e9-a4e0-499c62cfb77f.png)
+![East Hyrule](https://user-images.githubusercontent.com/106546659/180474723-b1c38de9-60c7-4f86-934e-e9e2e73bf358.png)
 
 ![Maze Island](https://user-images.githubusercontent.com/106546659/173212188-f9180ddc-7072-48b8-b481-1bafb93ff492.png)
 
