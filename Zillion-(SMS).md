@@ -342,7 +342,7 @@ There are three walls in the hallways of the base where if you shoot them about 
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259571.png) **Piece of Cake** (3 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259571.png) **Oh, Just Hit This Switch Over Here?** (3 points)
 
 _Open the doors securing the level up on the top floor of the Norsa base_
 
