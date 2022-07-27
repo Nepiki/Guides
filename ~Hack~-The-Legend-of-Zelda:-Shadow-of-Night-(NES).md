@@ -250,16 +250,6 @@ After defeating the third Gooma, proceed forward to find this item.
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249577.png) **Speed Demon** (25 points)
-
-_Cross the lava pits in the cave with the lost child in less than 8 seconds_
-
-This achievement can be done starting from either side of the room. The key is to have Dash selected before entering the room and while holding the directional pad to walk, cast Dash without stopping that input. It is important to save time in the first half of the room by not slowing down at all. You should run off the first ledge and then begin jumping and skipping a ledge during the first half of the room.  For the second half of the room, you should plan to land on each ledge, but continue to move quickly. This is not an extremely tight achievement, but there is not much room for unnecessary delays.
-
-[Speed Demon demonstration video](https://www.youtube.com/watch?v=xMq8CFzlzM8)
-
-***
-
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249578.png) **The Amazing Child** (10 points)
 
 _Rescue the missing child on Maze Island_
