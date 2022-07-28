@@ -424,7 +424,7 @@ Reflect is used to block Thunderbird's fireballs. Without it, you will take dama
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249768.png) **The Morning Sun has Vanquished the Horrible Night** (50 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249768.png) **The Morning Sun has Vanquished the Horrible Night** (100 points)
 
 _Lift the curse of night on Hyrule by defeating Dark Link in the Great Palace_
 
