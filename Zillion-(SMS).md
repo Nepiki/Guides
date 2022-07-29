@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-- Estimated achievement difficulty: 6/10 
+- Estimated achievement difficulty: 7/10 
 - Approximate amount of time to master: 10 hours
 - Minimum number of playthroughs needed: 2
 - Number of missable achievements: 1
