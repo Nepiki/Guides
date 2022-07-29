@@ -184,7 +184,7 @@ Collect a total of seven level up items as Champ to get this achievement. Be car
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259551.png) **Wrecking Crew** (25 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259551.png) **Wrecking Crew** (10 points)
 
 _Get JJ, Apple and Champ all to level 8_
 
@@ -374,7 +374,7 @@ Rescue Apple and Champ and complete the game without anyone dying nor using a co
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259575.png) **No Time to Waste** (100 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259575.png) **No Time to Waste** (50 points)
 
 _Rescue Apple in less than 8 minutes and 45 seconds without using a continue_
 
@@ -386,7 +386,7 @@ In the demo below, I complete the achievement with about 20 seconds to spare, bu
 
 ***
 
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259576.png) **So Long Suckers** (50 points)
+![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/259576.png) **So Long Suckers** (25 points)
 
 _Complete the mission without rescuing Apple or Champ without using a continue_
 
