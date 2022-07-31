@@ -24,6 +24,7 @@ List of platforms with guides
 * [GameBoy Advance](Game-Boy-Advance)
 
 ### Sega
+* [Master System](https://github.com/RetroAchievements/guides/wiki/Master-System)
 * [Genesis/Mega Drive](Mega-Drive)
 * [Game Gear](Game-Gear)
 
