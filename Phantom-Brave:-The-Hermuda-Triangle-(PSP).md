@@ -46,12 +46,13 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 <details>
 <summary>General gameplay tips</summary>
 
+ * Taking items home with you isn't done by picking them up; instead, confine a phantom to the item you want to take. When the phantom's turns run out, there's a chance it'll take the item with it (the Obtain rate shown when confining).
  * Remember to confine your utility characters to get them Exp.
  * Investing in more Spiritual Exp for your characters at creation also affects their growth rates; aim for at least 5 when making a new character (if you don't have any of the class yet, make one with 1 Exp first, then you'll be allowed to make a character of that class with up to 9 Exp).
  * Merchants aren't as strong as other characters, but will earn you more money, as well as allowing you to buy stronger items. Using the extra BOR to make a new Merchant with more Spiritual Exp can help offset the strength difference. If you do decide to use a Merchant, make sure to use Profit Punch; they get a skill at level 10 that requires that SP.
  * As Marona doesn't run out of turns, she has more opportunities to raise her SP. Because of this, giving her a weapon that uses a lower rated skill can still be effective.
  * Items gain Exp, but don't level on their own; you'll have to use the blacksmith to level them up.
- * Ally kills won't have an effect on the story, but they will give you Dark points, occasionally causing an event where the character with dark points will attack a random character (and possibly have their title changed. A Granny can cause an event to reduce dark points.
+ * Ally kills won't have an effect on the story, but they will give you Dark points, occasionally causing an event where the character with dark points will attack a random character (and possibly have their title changed). A Granny can cause an event to reduce dark points.
 
 </details>
 
