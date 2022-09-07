@@ -36,6 +36,11 @@ When playing through the set, focus only on the achievements available to whiche
 <details>
 <summary>Highland kingdom achievements</summary>
 
+## **Missable Highland kingdom achievements**<br>
+[Highland] An Old Friend [m]<br>
+[Highland] Clash of the Swords [m]<br>
+[Highland] A Knife in Borgon's Back [m]<br>
+
 ***
 
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270426.png) **[Highland] Lord of Highland** (2 points)
@@ -46,7 +51,36 @@ As Wein gains experience from battle victories, he will eventually reach this le
 
 ***
 
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270423.png) **[Highland] High Lord of Highland** (5 points)
 
+_Have Wein reach level 10 and receive the title of High Lord_
 
+As Wein gains experience from battle victories, he will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270425.png) **[Highland] Lead By Example** (3 points)
+
+_Win a duel with Wein_
+
+During battle, after all troops are killed the surviving generals will be given an option to duel each other. With Wein as your general, win a duel.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270415.png) **[Highland] Aggressive Fencing** (5 points)
+
+_Win a battle with Wein's Sword Rush skill_
+
+Finish a battle by depleting an enemy general's health to zero using Wein's Sword Rush skill to deliver the killing blow.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270427.png) **[Highland] Mistaken Identity** (2 points)
+
+_Resolve the misunderstanding and recruit the rebel thief Hilga_
+
+Hilga starts on the town just northwest of Highland castle. Deploy a force to defeat her in battle and capture her. If she retreats while her health is not low enough, she will not be captured and instead run. If this happens, reengage her and try again. After she is captured, she will automatically join your force at the next domestic session.
+
+***
 
 </details>
