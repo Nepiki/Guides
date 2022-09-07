@@ -29,11 +29,24 @@ Dragon Force (USA) ![](https://retroachievements.org/Images/labels/redump.png)<b
 acb9d7194d31fb2ea6967fce3558efe1
 
 
+## **Achievements**
+
+When playing through the set, focus only on the achievements available to whichever kingdom you have selected as well as the achievements marked [Any]. Nearly all of the missable achievements not difficult to set up for if following the general. As a rule of thumb, with each kingdom, recruit Vlad at the earliest opportunity and follow this guide's recommendations for fulfilling the king-specific Zanon storylines. Additionally, whenever you intend to fight an opposing monarch, ensure your monarch is part of the invading force. These two simple rules of thumb will cover the vast majority of missable achievements.
+
+<details>
+<summary>Highland kingdom achievements</summary>
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270426.png) **[Highland] Lord of Highland** (2 points)
+
+_Have Wein reach level 5 and receive the title of Lord_
+
+As Wein gains experience from battle victories, he will eventually reach this level.
+
+***
 
 
 
-<details open>
-<summary>Want to ruin the surprise?</summary>
-<br>
-Well, you asked for it!
+
 </details>
