@@ -137,7 +137,7 @@ Required progression - After a progress related domestic event where your adviso
 
 _Resist Goldark's ambush and defeat him_
 
-When you are nearly finished gathering the other monarchs, with the exception of Goldark, he will disappear at some point and then subsequent reappear and immediately enter battle with Wein. This achievement requires Wein to defeat Goldark during that ambush and not retreat from the battle. In order to ensure you are fully prepared always keep Wein's troop count maxed as the timing of Goldark's ambush cannot be precisely predicted.
+When you are nearly finished gathering the other monarchs, with the exception of Goldark, he will disappear at some point and then subsequent reappear and immediately enter battle with Wein. This achievement requires Wein to defeat Goldark during that ambush and not retreat from the battle. In order to ensure you are fully prepared always keep Wein's troop count maxed as the timing of Goldark's ambush cannot be precisely predicted after he disappears.
 
 ***
 
@@ -145,7 +145,7 @@ When you are nearly finished gathering the other monarchs, with the exception of
 
 _Rescue Teiris from Ryskim with Zanon's help_
 
-To get this event, you must have recruited Vlad and defeated Ryskim with him after Ryskim's first appearance. Additionally, you must have encountered Zanon and gotten at least one domestic event discussing him - that will happen immediately after Wein's first encounter with Zanon (retreating is fine). Do not fully complete Zanon's storyline before getting this achievement as he will disappear and Ryskim will not reappear and kidnap Teiris. When Ryskim does kidnap Teiris, simply engage and defeat him with Wein.
+To get this event, you must have recruited Vlad and defeated Ryskim with him after Ryskim's first appearance. Additionally, you must have encountered Zanon and gotten at least one domestic event discussing him - that will happen immediately after Wein's first encounter with Zanon (retreating is fine). Do not fully complete Zanon's storyline before getting this achievement as he will disappear and Ryskim will not reappear and kidnap Teiris. When Ryskim does kidnap Teiris, simply engage and defeat him.
 
 ***
 
@@ -618,6 +618,203 @@ Having a sizable troop advantage for Laine will make this achievement significan
 _Suck 100 enemy troops into the void using Teiris's Dark Vortex skill_
 
 Fight a battle against an enemy general with 100 troops and use the Dark Vortex skill as soon as possible. If Teiris is commanding archers or mages, they will almost assuredly kill some troops before you are able to use Dark Vortex which will invalidate the achievement, so ensure to use melee troops.
+
+***
+</details>
+<details>
+<summary>Izumo kingdom achievements</summary>
+
+## **Missable Izumo kingdom achievements**<br>
+[Izumo] A Dish Best Served Cold [m]<br>
+[Izumo] Honor Among Warriors [m]<br>
+[Izumo] Goldark's Folly [m]<br>
+[Izumo] Daring Rescue [m]<br>
+[Izumo] Warrior's Heiko [m]<br>
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271156.png) **[Izumo] Lord of Izumo** (2 points)
+
+_Have Mikhal reach level 5 and receive the title of Lord_
+
+As Mikhal gains experience from battle victories, he will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271154.png) **[Izumo] High Lord of Izumo** (5 points)
+
+_Have Mikhal reach level 10 and receive the title of High Lord_
+
+As Mikhal gains experience from battle victories, he will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271167.png) **[Izumo] Traditional Tsujigiri** (3 points)
+
+_Win a duel with Mikhal_
+
+During battle, after all troops are killed the surviving generals will be given an option to duel each other. With Mikhal as your general, win a duel.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271164.png) **[Izumo] The Strength of a Typhoon** (5 points)
+
+_Win a battle with Mikhal's Gale Blast skill_
+
+Finish a battle by depleting an enemy general's health to zero using Mikhal's Gale Blast skill to deliver the killing blow.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271148.png) **[Izumo] A Dish Best Served Cold [m]** (10 points)
+
+_With an army of only Mikhal and Hayate, storm Royal castle and engage Kyoem's forces. Mikhal and Hayate must each win at least one battle, lose none and Hayate must be the one to defeat Kyoem_
+
+Royal castle is just north of Izumo castle. Do not attack the castle until after you recruit Hayate and ensure both he and Mikhal have at least 40 troops each to have a good chance to defeat Kyoem and his generals. This achievement is missable if any of Kyoem's generals are captured or displaced before te successful attack by Mikhal and Hayate.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271155.png) **[Izumo] Honor Among Warriors [m]** (5 points)
+
+_Meet Wein and assume command of Highland kingdom_
+
+Ensure Mikhal himself meets Wein in the campaign and Highland will automatically join Izumo. If Wein is engaged and captured by other generals, this achievement will be missed.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271149.png) **[Izumo] Chutohanpa** (10 points)
+
+_Annex three kingdoms as Izumo and gain the support of their monarchs_
+
+Required progression - This achievement will unlock naturally as you progress through the Izumo campaign, specifically once you have recruited three other monarchs.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271157.png) **[Izumo] Madruk Looms** (5 points)
+
+_Visit the Shadow Tower and receive news of Scythe and Gaul's disappearance_
+
+Required progression - After a progress related domestic event where your advisor discusses the Shadow Tower, visit it with Mikhal. It is located north of the large lake which is northwest of Topaz castle. During the Shadow Tower event, you will meet Ramda and upon exiting the tower learn of Scythe and Gaul's disappearance automatically.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271153.png) **[Izumo] Goldark's Folly [m]** (10 points)
+
+_Resist Goldark's ambush and defeat him_
+
+When you are nearly finished gathering the other monarchs, with the exception of Goldark, he will disappear at some point and then subsequent reappear and immediately enter battle with Mikhal. This achievement requires Mikhal to defeat Goldark during that ambush and not retreat from the battle. In order to ensure you are fully prepared always keep Mikhal's troop count maxed as the timing of Goldark's ambush cannot be precisely predicted after he disappears.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271150.png) **[Izumo] Daring Rescue [m]** (10 points)
+
+_Rescue Shione from Ryskim with Zanon's help_
+
+To get this event, you must have recruited Vlad and defeated Ryskim with him after Ryskim's first appearance. Additionally, you must have encountered Zanon and gotten at least one domestic event discussing him - that will happen immediately after Mikhal's first encounter with Zanon (retreating is fine). Do not fully complete Zanon's storyline before getting this achievement as he will disappear and Ryskim will not reappear and kidnap Shione. When Ryskim does kidnap Shione, simply engage and defeat him.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271165.png) **[Izumo] To Silence Eclisis** (10 points)
+
+_Witness Zanon kill himself to silence the dark sword Eclisis_
+
+This event is the finale of Zanon's storyline in the Izumo campaign. It will trigger after several iterations of field encounters with Zanon and domestic events. The Zanon storyline requires an engagement with Izumo to begin and then will subsequently alternate between domestic events and additional encounters. Some other progression events are required to progress the Zanon storyline, so be patient as it unfolds. It can be accomplished as late in the game as collecting the sacred weapons from the shrines.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271162.png) **[Izumo] The Shogun** (25 points)
+
+_Unite all members of the Dragon Force under Mikhal's command_
+
+Required progression - This will trigger once Goldark joins the Dragon Force during the sacred weapon collecting timeframe of the campaign.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271158.png) **[Izumo] Not a Masamune, But It Will Do** (5 points)
+
+_Equip Mikhal with the legendary Star Dragon Sword_
+
+Required progression - After Wein and Goldark recover the Stargem sword from the Northern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Stargem sword into the Star Dragon Sword. If Mikhal is already equipped with the Stargem sword, the achievement will pop at that point. If not, equip him with it during the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271151.png) **[Izumo] Does Not Computer** (10 points)
+
+_Destroy Katmando after receiving the Dragon Power from Homura and equipping the Star Dragon Sword_
+
+Required progression - Mikhal will receive the Dragon Power from Homura after visiting the Eastern Shrine with Leon and Junon. Mikhal must have the Star Dragon Sword equipped in order to damage Katmando.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271152.png) **[Izumo] Free Like the Wind** (25 points)
+
+_Defeat Madruk in his final form with Mikhal and return peace to Legendra_
+
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will pop upon completion of the game as Highland.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271160.png) **[Izumo] Samurai Spirit** (10 points)
+
+_With an army of only Mikhal and his troops, defeat an opposing force consisting of at least three generals_
+
+A significant troop advantage and use of the Sonic Blast skill are immensely helpful for this achievement. Try to target a force of three generals with low troops counts.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271161.png) **[Izumo] Strike Quickly** (2 points)
+
+_Win a battle with Mikhal using the Breach tactic_
+
+The Breach tactic is used to cross the battlefield as quickly as possible. It is most effective against a ranged opponent, but simply having a superior number of troops is sufficient for this achievement most cases.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271163.png) **[Izumo] The Shogun and the Field Marshal** (10 points)
+
+_With an army of only Mikhal having 100 samurai troops and Wein having 100 soldiers, defeat an enemy force of at least four generals.  Mikhal and Wein must each win at least two battles and not lose any_
+
+Target an enemy force with an inferior troop count.  Look for enemy forces of four generals in the area between Fandaria, Topaz, Izumo and Tradnor. It is recommended to first annex Bozack and then Highland during the campaign to quickly recruit Wein with enough time to prepare for this achievement while enemy forces still possess large numbers of generals.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271168.png) **[Izumo] Warriors' Heiko [m]** (10 points)
+
+_Win three battles with each of Izumo's four main generals, Zagat, Jackal, Shione and Mistal, but do not let any have more than one win more than any other at any time_
+
+The goal of this achievement is to get all four generals to three wins, but never letting one get too far ahead of the others.  The way to do this is to ensure all generals get one win before any of them get a second win.  Then ensure they all get to two without anyone getting to three first. Lastly, get to three wins with each of them. Losses are not a factor in this achievement so retreat from battle if necessary to prevent an unwanted win. This achievement will be missed if any of the four main generals has more than a 1 win lead at any time prior to unlocking.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271166.png) **[Izumo] To Slay a Dragon** (5 points)
+
+_Defeat a dragon general with Zagat, Jackal or Mistal_
+
+The Tradnor general, Gigg will most likely be the easiest dragon general to encounter, especially early on. Just prior to the final phase of the campaign, however, many dragon generals will roam the map giving you easy access to engage any of them at your convenience.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271169.png) **[Izumo] What Kind of Samurai Are You?** (5 points)
+
+_Have Zagat, Jackal or Mistal command dragon troops in battle_
+
+Use a Dragon Crest item on any of these generals to enable them to command dragon troops, then switch to dragon troops and begin a battle. Dragon Crests can be found by searching in Crystal castle during the domestic phase.
+
+***
+
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271170.png) **[Izumo] Yon Shinobi** (5 points)
+
+_Using an army of four ninja generals, win an engagement against a force of at least four enemy generals. Each ninja must win at least once and nose lose any battles_
+
+Any general that can use the Assassin Star skill or looks like a ninja such as Hayate, Shirox, Shione or any of the generic ninja generals will work for this achievement. A good place to find an enemy force of at least 4 generals is in the area between Fandaria, Topaz, Izumo and Tradnor kingdoms.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271159.png) **[Izumo] Rising Daimyo** (5 points)
+
+_Have Zagat, Jackl or Mistal command 100 samurai troops at once before Mikhal is able to command 100 samurai_
+
+Use awards to raise any of the three aformentioned generals max samurai troops to 100 and actually recruit 100 before you award Mikhal enough times such that he is able to command 100. The achievement will lock as soon as Mikhal is able to command 100 samurai after presenting the award, so stay at 90 or less until this achievement is unlocked.
 
 ***
 </details>
