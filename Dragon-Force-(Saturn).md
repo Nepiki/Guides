@@ -541,4 +541,83 @@ Required progression - During the legendary weapon collecting phase of the campa
 
 ***
 
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271146.png) **[Palemoon] Heavenly Staff** (5 points)
+
+_Equip the legendary Star Dragon Cane_
+
+Required progression - After Teiris, Gongos and Reinhart recover the Moon Cane from the Southern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Moon Cane into the Star Dragon Cane. If Teiris is already equipped with the Moon Cane, the achievement will pop at that point. If not, equip her with it during the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271147.png) **[Palemoon] Short Circuit** (10 points)
+
+_Destroy Katmando after receiving the Dragon Power from Farla and equipping the Star Dragon Cane_
+
+Required progression - Teiris will receive the Dragon Power from Farla after visiting the Southern Shrine with Gongos and Reinhart. Teiris must have the Star Dragon Cane equipped in order to damage Katmando.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270692.png) **[Palemoon] The Command of Water** (25 points)
+
+_Defeat Madruk in his final form with Teiris and return peace to Legendra_
+
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will pop upon completion of the game as Highland.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270684.png) **[Palemoon] New Friends** (5 points)
+
+_With an army of only Teiris and Laine, engage and defeat an enemy force of at aleast two generals. Teiris and Laine must each fight at least once and not lose any battles_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270673.png) **[Palemoon/Tristan] Girl Power** (10 points)
+
+_With an army of only Teiris and Junon, engage and defeat an enemy force of at least four generals. Teiris and Junon must each fight at least twice and not lose any battles_
+
+Self explanatory. Having Teiris's Dark Vortex skill and Junon's Sonic Blast for the first battles to ensure high troop survival will make each of their second battles significantly easier. This achievement can be earned in the Tristan campaign as well.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270675.png) **[Palemoon] First Rate Guard** (10 points)
+
+_Win at least five battles with each of Palemoon's four primary generals, Gulen, Manoa, Duran and Reiner_
+
+Use these generals fairly early in the campaign to ensure they get enough battles to acrue enough victories. Once one has five, it is not recommended to use them unless needed to ensure other generals have enough battle opportunities remaining.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270688.png) **[Palemoon] Second Rate Guard** (10 points)
+
+_Win at least five battles with each of Laine, Varshyl, Nyvkall and Piper_
+
+Use these generals fairly early in the campaign to ensure they get enough battles to acrue enough victories. Once one has five, it is not recommended to use them unless needed to ensure other generals have enough battle opportunities remaining.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270689.png) **[Palemoon] She Wears the Pants** (5 points)
+
+_With an army of only Laine and Varshyl, defeat at least two generals using only Laine in a single engagement_
+
+Having a sizable troop advantage for Laine will make this achievement significantly easier.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270672.png) **[Palemoon/Tristan] A Woman's Job** (5 points)
+
+_With an army of only Wein, Teiris and Junon, engage an enemy force of at least two generals. Teiris and Junon must each win at least one battle without losing any. Wein must not fight at all_
+
+Having a sizable troop advantage for Laine will make this achievement significantly easier.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270681.png) **[Palemoon] Into the Abyss** (5 points)
+
+_Suck 100 enemy troops into the void using Teiris's Dark Vortex skill_
+
+Fight a battle against an enemy general with 100 troops and use the Dark Vortex skill as soon as possible. If Teiris is commanding archers or mages, they will almost assuredly kill some troops before you are able to use Dark Vortex which will invalidate the achievement, so ensure to use melee troops.
+
+***
 </details>
