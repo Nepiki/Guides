@@ -229,3 +229,184 @@ Present Wein enough awards to be able to command 100 troops at once and then rec
 
 ***
 </details>
+<details>
+<summary>Fandaria kingdom achievements</summary>
+
+## **Missable Fandaria kingdom achievements**<br>
+[Fandaria] Mysterious Stranger [m]<br>
+[Fandaria] Shock And Awe [m]<br>
+[Fandaria] The Dark Priest [m]<br>
+[Fandaria] Wicked Witch [m]<br>
+[Fandaria] Madruks's Wrath [m]<br>
+[Fandaria] The Spooky Boys [m]<br>
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272155.png) **[Fandaria] High Lord of Fandaria** (5 points)
+
+_Have Goldark reach level 10 and receive the title of High Lord_
+
+As Goldark gains experience from battle victories, he will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272150.png) **[Fandaria] Defeat by Two Swords** (3 points)
+
+_Win a duel with Goldark_
+
+During battle, after all troops are killed the surviving generals will be given an option to duel each other. With Goldark as your general, win a duel.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272151.png) **[Fandaria] Direct Assault** (5 points)
+
+_Win a battle with Goldark's Cross Rush skill_
+
+Finish a battle by depleting an enemy general's health to zero using Goldark's Cross Rush skill to deliver the killing blow.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272147.png) **[Fandaria] All In the Family** (5 points)
+
+_Subdue and recruit Goldark's nephew, Talon_
+
+Talon resides in Stoic castle, immediately southeast of Fandaria castle. Defeat Talon and his generals and he will join during the following domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272158.png) **[Fandaria] Monster Party** (2 points)
+
+_Be joined by Ryskim, Zado, Santana and Kyoem_
+
+Required progression - Shortly into the scenario at a domestic session, these generals will automatically join.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272154.png) **[Fandaria] Filling the Dungeon** (10 points)
+
+_Capture three opposing monarchs_
+
+Required progression - Defeat and capture three of the other monarchs.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272159.png) **[Fandaria] Mysterious Stranger [m]** (5 points)
+
+_Visit the Shadow Tower with Goldark and meet Ramda_
+
+Visit the Shadow Tower early in Goldark's campaign with just him. As you progress, eventually Ramda will join you automatically and you will not be able to trigger this event by visiting the Shadow Tower after he joins you. It tends to occur sometime after five monarchs have been captured.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272152.png) **[Fandaria] Eclisis Interned** (5 points)
+
+_Capture Zanon and prevent Eclisis from consuming his soul_
+
+Defeat Zanon and his generals at Lightan castle and instead of escaping as they do in all other scenarios, in the Fandaria campaign he will be taken prisoner.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272148.png) **[Fandaria] Blinding Lights** (25 points)
+
+_Unite all members of the Dragon Force under Goldark's command_
+
+Required progression - this will trigger once all other monarchs have been subdued and the event plays where they all join Fandaria.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272149.png) **[Fandaria] Brotherly Love** (5 points)
+
+_Subdue Gyzzdark and comfort him in his last moment_
+
+Required progression - this will trigger after Goldark and Wein retrieve the Stargem Sword from the Northern Shrine.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272160.png) **[Fandaria] Only One?** (5 points)
+
+_Equip the leendary Star Dragon Sword_
+
+Required progression - After Goldark and Wein recover the Stargem sword from the Northern Shrine and Katmando has begun to move, Ramda will attack Katmando. Following the battle Ramda will transform the Stargem sword into the Star Dragon Sword. If Goldark is already equipped with the Stargem sword, the achievement will pop at that point. If not, equip him with it during the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272156.png) **[Fandaria] Invalid Parameters** (10 points)
+
+_Destroy Katmando after receiving the Dragon Power from Frest and equipping the Star Dragon Sword_
+
+Required progression - Goldark will receive the Dragon Power from Frest after visiting the Northern Shrine with Wein. Goldark must have the Star Dragon Sword equipped in order to damage Katmando.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272165.png) **[Fandaria] The Strength of Light** (25 points)
+
+_Defeat Madruk in his final form with Goldark and return peace to Legendra_
+
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will pop upon completion of the game as Fandaria.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272161.png) **[Fandaria] Shock And Awe [m]** (10 points)
+
+_At the end of the first week, have seized and occupy Bloodly, Ginan and Stoic castles without abandoning Fandaria castle_
+
+This must be accomplished during the first week of the campaign and will trigger at the very end of the week. You must be in control of Bloody, Ginan, Stoic and Fandaria castles as the week ends. You must keep at least one general in Fandaria castle at all times. The achievement will lock if Fandaria castle is abandoned even temporarily.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272153.png) **[Fandaria] Family Strength** (10 points)
+
+_Win 6 battles combined between Goldark and Talon in one week. Both must win at least one time that week_
+
+During any week of the campaign, Goldark and Talon must win a combined 6 battles and they must each win at least one that week.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272167.png) **[Fandaria] Young Lion of Fandaria** (10 points)
+
+_Win 15 battles with Kharhaz_
+
+Simply acrue 15 battle wins with Kharhaz throughout the campaign.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272162.png) **[Fandaria] Sister of the Light** (5 points)
+
+_Kill more than 30 enemy troops with Lyria's Holy Blast skill_
+
+The Holy Blast skill always targets the center of the battlefield regardless where the troops are located. It will be necessary to corral a large number of enemy troops in the middle of the field, so depending on the size of the competing armies, you may need to advance to a certain position and then standby to block the advancing opponent's troops before using Holy Blast.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272163.png) **[Fandaria] The Dark Priest [m]** (10 points)
+
+_Have Gaul reach level 10 and learn the Meteor Storm skill_
+
+Gaul and Scythe will leave the Fandarian army when most of the monarchs have been captured. Prioritize using Gaul early in the campaign to ensure there are enough battle opportunities to get him to level 10.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272166.png) **[Fandaria] Wicked Witch [m]** (10 points)
+
+_Have Scythe reach level 10 and learn the Dark Vortex skill_
+
+Gaul and Scythe will leave the Fandarian army when most of the monarchs have been captured. Prioritize using Scythe early in the campaign to ensure there are enough battle opportunities to get her to level 10.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272157.png) **[Fandaria] Madruk's Wrath [m]** (5 points)
+
+_With an army of only Gaul and Scythe, engage and defeat an enemy force of at least four generals. Both must win at least one battle and not lose any_
+
+Gaul and Scythe will leave the Fandarian army when most of the monarchs have been captured. Utilizing an army of 50 or so mages, Gaul and Scythe should not have any issues defeating two enemy generals each during a single encounter as long as the enemies don't have more than about 30 troops. Enemy forces of four or more generals are fairly common either walking around or guarding castles in the region between Fandaria, Topaz, Izumo and Tradnor.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272164.png) **[Fandaria] The Spooky Boys [m]** (10 points)
+
+_Win three battles with each of Ryskim, Zado, Santana and Kyoem with no losses_
+
+Simply win three battles each with the aforementioned generals without losing anyy.
+
+***
+</details>
