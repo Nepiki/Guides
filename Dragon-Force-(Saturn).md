@@ -31,7 +31,7 @@ acb9d7194d31fb2ea6967fce3558efe1
 
 ## **Achievements**
 
-When playing through the set, focus only on the achievements available to whichever kingdom you have selected as well as the achievements marked [Any]. Nearly all of the missable achievements not difficult to set up for if following the general. As a rule of thumb, with each kingdom, recruit Vlad at the earliest opportunity and follow this guide's recommendations for fulfilling the king-specific Zanon storylines. Additionally, whenever you intend to fight an opposing monarch, ensure your monarch is part of the invading force. These two simple rules of thumb will cover the vast majority of missable achievements.
+When playing through the set, focus only on the achievements available to whichever kingdom you selected as well as the achievements marked [Any]. Nearly all of the missable achievements are quite straight forward to set up if following a general outline. A good practice for each kingdom is to recruit Vlad at the earliest opportunity and follow this guide's recommendations for fulfilling the kingdom-specific Zanon storylines. Additionally, whenever you intend to fight an opposing monarch, ensure your monarch is part of the invading force. These two simple rules of thumb will cover the vast majority of missable achievements.
 
 <details>
 <summary>Highland kingdom achievements</summary>
@@ -153,7 +153,7 @@ To get this event, you must have recruited Vlad and defeated Ryskim with him aft
 
 _Witness Zanon kill himself to seal the dark sword Eclisis_
 
-This event is the finale of Zanon's storyline in the Highland scenario. It will trigger after several iterations of field encounters with Zanon and domestic events. The Zanon storyline requires an engagement with Wein to begin and then will subsequently alternate between domestic events and additional encounters. Some other progression events are required to progress the Zanon storyline, so be patient as it unfolds. It can be accomplished as late in the game as collecting the sacred weapons from the shrines.
+This event is the finale of Zanon's storyline in the Highland campaign. It will trigger after several iterations of field encounters with Zanon and domestic events. The Zanon storyline requires an engagement with Wein to begin and then will subsequently alternate between domestic events and additional encounters. Some other progression events are required to progress the Zanon storyline, so be patient as it unfolds. It can be accomplished as late in the game as collecting the sacred weapons from the shrines.
 
 ***
 
@@ -161,7 +161,7 @@ This event is the finale of Zanon's storyline in the Highland scenario. It will 
 
 _Unite all members of the Dragon Force under Wein's command_
 
-Required progression - This will trigger once Goldark joins the Dragon Force during the sacred weapon collecting timeframe of the scenario.
+Required progression - This will trigger once Goldark joins the Dragon Force during the sacred weapon collecting timeframe of the campaign.
 
 ***
 
@@ -278,7 +278,7 @@ Talon resides in Stoic castle, immediately southeast of Fandaria castle. Defeat 
 
 _Be joined by Ryskim, Zado, Santana and Kyoem_
 
-Required progression - Shortly into the scenario at a domestic session, these generals will automatically join.
+Required progression - Shortly into the campaign at a domestic session, these generals will automatically join.
 
 ***
 
@@ -302,7 +302,7 @@ Visit the Shadow Tower early in Goldark's campaign with just him. As you progres
 
 _Capture Zanon and prevent Eclisis from consuming his soul_
 
-Defeat Zanon and his generals at Lightan castle and instead of escaping as they do in all other scenarios, in the Fandaria campaign he will be taken prisoner.
+Defeat Zanon and his generals at Lightan castle and instead of escaping as they do in all other campaigns, in the Fandaria campaign he will be taken prisoner.
 
 ***
 
@@ -409,4 +409,136 @@ _Win three battles with each of Ryskim, Zado, Santana and Kyoem with no losses_
 Simply win three battles each with the aforementioned generals without losing anyy.
 
 ***
+</details>
+<details>
+<summary>Palemoon kingdom achievements</summary>
+
+## **Missable Highland kingdom achievements**<br>
+[Palemoon] I Know Your Secret [m]<br>
+[Palemoon] Backed Into a Corner [m]<br>
+[Palemoon] Love Connection [m]<br>
+[Palemoon] The Power of Love [m]<br>
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270682.png) **[Palemoon] Lord of Palemoon?** (2 points)
+
+_Have Teiris reach level 5 and receive the title of Lord_
+
+As Teiris gains experience from battle victories, she will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270679.png) **[Palemoon] High Lord of Palemoon?** (5 points)
+
+_Have Teiris reach level 10 and receive the title of High Lord_
+
+As Teiris gains experience from battle victories, she will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270686.png) **[Palemoon] Punching Above Your Weight** (3 points)
+
+_Win a duel with Teiris_
+
+During battle, after all troops are killed the surviving generals will be given an option to duel each other. With Teiris as your general, win a duel.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270676.png) **[Palemoon] Get 'Em Sparky!** (5 points)
+
+_Win a battle with Teiris's Summon Wyvern skill_
+
+Finish a battle by depleting an enemy general's health to zero using Teiris's Summon Wyvern skill to deliver the killing blow.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270685.png) **[Palemoon] Once Rivals, Now Allies** (3 points)
+
+_Set aside the rivalry with Laine and recruit her company_
+
+Laine's forces reside in Claystal castle and immediately block travel from Palemoon castle. Defeat Laine and her generals and she will join you during the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270696.png) **[Palemoon] What's the History Here?** (2 points)
+
+_Meet Wein and assume command of Highland kingdom_
+
+Required progression - Any time either Teiris meets a Highland general or Wein meets a Palemoon general this event will trigger.  It cannot be avoided.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270680.png) **[Palemoon] I Know Your Secret [m]** (5 points)
+
+_Peacefully assume command of the Tristan empire by revealing to Junon that Teiris knows her secret_
+
+If Teiris meets Junon in an engagement, the Tristan kingdom will all join Palemoon. This achievement can be missed if Tristan is fully captured without Teiris engaging Junon.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270677.png) **[Palemoon] Growing Influence** (10 points)
+
+_Annex three kingdoms as Palemoon and gain the support of their monarchs_
+
+Required progression - during your progress through the campaign this achievement will trigger once you've recruited three other monarchs regardless of how you recruit them.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270687.png) **[Palemoon] Ramda's Warning** (5 points)
+
+_Visit the Shadow Tower and receive news of Scythe and Gaul's disappearance_
+
+Required progression - at some point during your campaign a domestic event will play where you will learn about the Shadow Tower. After this event, bring Teiris to the Shadow Tower located north of the lake to the northwest of Topaz castle.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270674.png) **[Palemoon] Back Into a Corner [m]** (5 points)
+
+_Be patient and await Reinhart's approach_
+
+Do not engage in a battle directly with Reinhart. When he has lost all of his other castles he will join a future domestic event (not necessarily the immediate next one). If Reinhart is engaged in battle this event may not play. If Reinhart is captured this event will certainly not play.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270683.png) **[Palemoon] Love Connection [m]** (5 points)
+
+_Peacefully assume command of the Bozack kingdom by charming Gongos_
+
+Have Teiris meet Gongos on the campaign map and he will immediately join along with the rest of Bozack kingdom. This achievement will be missed if Gongos is captured by other Palemoon forces without having met Teiris.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270693.png) **[Palemoon] The Dark Sword Eclisis** (10 points)
+
+_Witness Zanon kill himself to seal the dark sword Eclisis_
+
+This event is the finale of Zanon's storyline in the Highland scenario. It will trigger after several iterations of field encounters with Zanon and domestic events. The Zanon storyline requires an engagement with Wein to begin and then will subsequently alternate between domestic events and additional encounters. Some other progression events are required to progress the Zanon storyline, so be patient as it unfolds. It can be accomplished as late in the game as collecting the sacred weapons from the shrines.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270695.png) **[Palemoon] Wein Returns** (10 points)
+
+_Have Wein return after confronting Scythe and Gaul in their second forms_
+
+Required progression - After the Shadow Tower events when Scythe and Gaul disappear and then return to ambush in new forms and the majority of other monarchs have been recruited, Wein will return and join Palemoon.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270694.png) **[Palemoon] The Power of Love [m]** (10 points)
+
+_Defeat Goldark with Gongos during Fandaria's assault against Teiris_
+
+Near the end of the monarch gathering phase of the campaign, Fandaria kingdom will abandon all castles and send all of their forces to Teiris's position. When Goldark meets Teiris, with Gongos in the party he will first battle Goldark.  Win the battle with Gongos to get this achievement.  His beastmen will be very effective against Goldark's cavalry.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/270691.png) **[Palemoon] The Blue Queen** (25 points)
+
+_Unite all members of the Dragon Force under Teiris's command_
+
+Required progression - During the legendary weapon collecting phase of the campaign all other monarchs will join Palemoon and this achievement will unlock.
+
+***
+
 </details>
