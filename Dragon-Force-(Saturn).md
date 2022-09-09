@@ -2,9 +2,9 @@
 ## **Overview**
 
 - Estimated achievement difficulty: 5/10 
-- Approximate amount of time to master: ~150 hours
+- Approximate amount of time to master: ~100 hours
 - Minimum number of playthroughs needed: 1 per unique kingdom (8 total kingdoms, but each playthrough is different)
-- Number of missable achievements: 8
+- Number of missable achievements: 40
 - Does difficulty affect achievements?: Not applicable
 - Hardest achievement: Varies based on RNG, but none are especially difficult
 
