@@ -1597,3 +1597,89 @@ Self explanatory, but be aware that Ortega only ever has access to one skill, so
 
 ***
 </details>
+<details>
+<summary>Any kingdom achievements</summary>
+
+## **Missable Any kingdom achievements**<br>
+[Any except Fandaria] The Light Side of Dark [m]<br>
+[Any] Ladies Man [m]<br>
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272216.png) **[Any] From the Heavens** (5 points)
+
+_Witness Katmando's arrival_
+
+Required progression - This achievement will unlock during the sacred weapon collection phase of any campaign.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272219.png) **[Any] Premier Title** (10 points)
+
+_Reach level 20 with your monarch and receive the title of Emperor_
+
+As your monarch gains experience from battle victories, he or she will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272223.png) **[Any] Flawless Victories** (10 points)
+
+_Win 20 battles with your monarch without any losses_
+
+Self explanatory. Retreating from battles counts as a loss.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272204.png) **[Any] Being of the Light** (10 points)
+
+_Be joined by Ramda_
+
+Required progression - Ramda will join your forces toward the latter part of each campaign.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272205.png) **[Any except Fandaria] Being of the Dark** (10 points)
+
+_Gain Vlad's trust and recruit him_
+
+Send your monarch alone to the Fiend Tower which is located south of Magicka castle's ruins. A scene with Vlad will play before battling him. Upon defeating him, he will join at the next domestic session. This is not possible in the Fandaria campaign.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272207.png) **[Any except Fandaria] The Light Side of Dark [m]** (10 points)
+
+_Enlist Sierra's service after she recovers_
+
+Several weeks/months after Vlad is recruited an event will trigger where Ryskim and Sierra appear. Vlad must be part of the force that defeats them. After the subsequent event where Vlad restores Sierra's senses, she will be moved into the hospital. She will automatically recover and join after a few weeks at most.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272206.png) **[Any] Where There is a Student, There is a Master** (10 points)
+
+_Recruit Hayate and Shirox_
+
+Visit the town immediately south of Mikeral castle with your monarch to trigger an event and fight with Shirox. Defeating him will force another event at the next domestic session. After that, leave and return to the town with your monarch to initiate a fight with Hayate. Defeat him and he and Shirox will join at the subsequent domestic session. The Shirox and Hayate events depend on whether your monarch is aware they are part of the Dragon Force. Most monarchs can recruit Shirox and Hayate from the start of the game, but Gongos in particular must wait until nearly the end of the campaign though.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272208.png) **[Any except Fandaria] A Noble Dragon** (10 points)
+
+_Recruit Vangal_
+
+Recruiting Vangal varies slightly between campaigns, but always requires a town to be visited by your monarch. Vangal may either fight you and immediately join or disappear for several weeks and rejoin after another dragon general, Zado attacks you. In any case, all that is needed is to trigger the initial town event and the rest will play out quickly. Fandaria cannot initiate these events. The Vangal town event can be found in the following towns for each campaign:
+
+Highland and Palemoon - Second town to the west of Galfiel castle, it's the one in the mountains
+Izumo - Town immediately southwest of Danyan castle
+Tradnor - Town north of Estonia castle
+Topaz, Bozack and Tristan - Town between Travan and Crystal castles
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272209.png) **[Any] Ladies Man [m]** (5 points)
+
+_Meet Bastion in the field and seduce him into joining_
+
+Bastion will start the area north of the Fiend Tower. He may remain at the town, but he may also move based on other kingdom's forces encountering him. Approach him with a female general and he will join your forces. If approached by a male general, you will fight him and upon defeating him he will be captured and this achievement will be locked.
+
+***
+</details>
