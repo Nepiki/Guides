@@ -1030,6 +1030,7 @@ Finish a battle by depleting an enemy general's health to zero using Zanon's Thu
 ## **Missable Topaz kingdom achievements**<br>
 [Topaz] Blitzkrieg [m]<br>
 [Topaz] Straight Into the Ranks [m]<br>
+[Topaz] Atonement [m]<br>
 
 ***
 
@@ -1105,7 +1106,7 @@ Engage Wein directly with Leon and Highland will join Topaz without having to de
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271190.png) **[Topaz] Atonement** (10 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271190.png) **[Topaz] Atonement [m]** (10 points)
 
 _Rescue Yanna from Ryskim with Zanon's help_
 
@@ -1198,6 +1199,197 @@ In order to get this achievement you must fight against an enemy general that us
 _Kill more than 30 enemy troops with Shaia's Holy Shield skill_
 
 Allow Shaia to be completely surrounded by enemy troops then use the Holy Shield skill and it is very likely that more than 30 will be killed.
+
+***
+</details>
+<details>
+<summary>Bozack kingdom achievements</summary>
+
+**There are no missable Bozack kingdom achievements**
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271274.png) **[Bozack] Lord of Bozack** (2 points)
+
+_Have Gongos reach level 5 and receive the title of Lord_
+
+As Gongos gains experience from battle victories, he will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271273.png) **[Bozack] High Lord of Bozack** (5 points)
+
+_Have Gongos reach level 10 and receive the title of High Lord_
+
+As Gongos gains experience from battle victories, he will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271279.png) **[Bozack] Survival of the Fittest** (3 points)
+
+_Win a duel with Gongos_
+
+During battle, after all troops are killed the surviving generals will be given an option to duel each other. With Gongos as your general, win a duel.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271266.png) **[Bozack] Death From Above** (5 points)
+
+_Win a battle with Gongos's Sky Driver skill_
+
+Finish a battle by depleting an enemy general's health to zero using Gongos's Sky Driver skill to deliver the killing blow.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271276.png) **[Bozack] Pipe Dreams** (3 points)
+
+_Quell the rebellion led by Gunner and recruit him_
+
+Gunner as his force are located in Sardia castle, just northwest of Bozack castle. After defeating Gunner in battle and capturing him, he will join Bozack at the subsequent domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271282.png) **[Bozack] The Pawn** (1 points)
+
+_Confront Yuug with Gunner and discover who is guiding his actions_
+
+Yuug will appear on the map early in the campaign and will retreat from any of your units that approach him except Gunner. Approach him with Gunner to trigger a small event and unlock this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271269.png) **[Bozack] Forest Samurai** (5 points)
+
+_Provide asylum for Izumo's generals and enlist their service_
+
+Required progression - In the Bozack campaign, defeated opposing monarchs do you not join forces immediately as is typical in other campaigns. Instead some monarch's main generals will join though. Once Mikhal is defeated, this achievement will unlock at the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271285.png) **[Bozack] Yes, That Evil Boy Magician...** (5 points)
+
+_Hear the plight of Tradnor's generals and allow them to join Bozack's ranks_
+
+Required progression - In the Bozack campaign, defeated opposing monarchs do you not join forces immediately as is typical in other campaigns. Instead some monarch's main generals will join though. Once Reinhart is defeated, this achievement will unlock at the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271278.png) **[Bozack] Remnants of Highland** (5 points)
+
+_Provide asylum for Highland's generals and enlist their service_
+
+Required progression - After the event plays out where Highland is conquered by Fandaria, at a future domestic session, Highland's main four generals will join Bozack.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271275.png) **[Bozack] Love At First Sight** (5 points)
+
+_Bring Gongos to meet Teiris_
+
+Have Gongos approach Teiris to unlock this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271280.png) **[Bozack] The Beast And the Dragon** (5 points)
+
+_Have Gongos defeat Paxx at the Shadow Tower and meet Leviathan_
+
+Required progression - After a progress related domestic event where your advisor discusses the Shadow Tower, visit it with Gongos. It is located north of the large lake which is northwest of Topaz castle. Gongos will be attacked by a dragon general named Paxx which he must defeat. During the following Shadow Tower event, Paxx will meet Ramda and the achievement will unlock at the conclusion of the event.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271283.png) **[Bozack] Unexpected Assistance** (10 points)
+
+_Rescue Katt from Ryskim with Zanon's help_
+
+To get this event, you must have recruited Vlad and defeated Ryskim with him after Ryskim's first appearance. Additionally, you must have encountered Zanon and gotten at least one domestic event discussing him - that will happen immediately after Gongos's first encounter with Zanon (retreating is fine). Do not fully complete Zanon's storyline before getting this achievement as he will disappear and Ryskim will not reappear and kidnap Katt. When Ryskim does kidnap Katt, simply engage and defeat him.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271267.png) **[Bozack] Love At First Sight** (5 points)
+
+_Wrest Eclisis from Zanon, subdue him and then recruit him_
+
+This is the most complex Zanon storyline in the game. It requires a series of interactions with Zanon with armies containing Gongos and armies that do not contain Gongos as well as subsequent domestic events. Ultimately you cannot mess it up, but always attempt to approach Zanon first with an army that does not contain Gongos and if that does trigger a new event, then try an army that does contain Gongos. It is highly recommended that until the final encounter, after you've rescued Katt from Ryskim, to retreat from Zanon encounters when possible. You will also ocassionally get domestic events related to Zanon. In order to get him to join, you must progress all the way passed the Katt rescue event and then approach Zanon with a party that contains Gongos and his four main generals, Rygar, Baghib, Katt and Yuni. This will trigger the event in which Eclisis is taken from Zanon and he will join following a battle. Unfortunately it is so late in the game by the time this happens that Zanon is essentially useless as a playable general.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271281.png) **[Bozack] The Last to Know** (25 points)
+
+_Unite all members of the Dragon Force under Gongos's command_
+
+Required progression - This will tigger once Goldark joins the Dragon Force during the sacred weapon collecting timeframe of the campaign.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271277.png) **[Bozack] Possessed** (5 points)
+
+_Defeat Gunner after he betrays Gongos and learn the reason behind it_
+
+Required progression - After Gongos, Teiris and Reinhart recover the Sun Bracer from the Southern Shrine, Gunner will attack Gongos. Defeat him to unlock this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271271.png) **[Bozack] Gauntlet of the Dragon** (5 points)
+
+_Equip Gongos with the legendary Star Dragon Armlet_
+
+Required progression - After Gongos, Teiris and Reinhart recover the Sun Bracer from the Southern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Sun Bracer into the Star Dragon Armlet. If Gongos is already equipped with the Sun Bracer, the achievement will unlock at that point. If not, equip him with it during the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271264.png) **[Bozack] BSOD** (10 points)
+
+_Destroy Katmando after receiving the Dragon Power from Leviathan and equipping the Star Dragon Armlet_
+
+Required progression - Gongos will receive the Dragon Power from Leviathan after visiting the Southern Shrine with Teiris and Reinhart. Gongos must have the Star Dragon Armlet equipped in order to damage Katmando.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271272.png) **[Bozack] Guardian of the Forests** (25 points)
+
+_Defeat Madruk in his final form with Gongos and return peace to Legendra_
+
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will unlock upon completion of the game as Bozack.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271284.png) **[Bozack] Wild Man** (10 points)
+
+_With an army of only Gongos and his troops, defeat an opposing force consisting of at least three generals_
+
+A significant troop advantage and use conservation of Gongos's MP are immensely helpful for this achievement. Try to target a force of three generals with low troops counts and lower HP generals such as Magicians.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271265.png) **[Bozack] Tenuous Pair** (10 points)
+
+_With an army of only Gongos and Gunner, engage and defeat an enemy force of at least four generals. Gongos and Gunner must each fight at least twice and not lose any battles_
+
+Target an enemy force with an inferior troop count.  Look for enemy forces of four generals in the area between Fandaria, Topaz, Izumo and Tradnor.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271268.png) **[Bozack] Cat Scratch Fever** (5 points)
+
+_With an army of only Rygar, Baghib, Katt and Yuni, engage and defeat an enemy force of at least four generals. Each of your generals must fight at least once and not lose_
+
+Target an enemy force with an inferior troop count.  Look for enemy forces of four generals in the area between Fandaria, Topaz, Izumo and Tradnor.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271263.png) **[Bozack] Absolute Savages** (10 points)
+
+_Have Rygar, Baghib, Katt and Yuni each win at least 10 battles and be able to command at least 50 beastmen_
+
+Prioritize using these generals until they have 10 battle wins and ensure they are given enough awards to command 50 beastmen.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271270.png) **[Bozack] Forgot the Pale Horse?** (5 points)
+
+_Win a battle after the Grim Reaper collects his toll_
+
+Katt's third skill is Summon Reaper. Win a battle after using this skill, but be careful because it will reduce both Katt and the opposing general's HP to 1.
 
 ***
 </details>
