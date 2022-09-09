@@ -819,7 +819,7 @@ Use awards to raise any of the three aformentioned generals max samurai troops t
 ***
 </details>
 <details>
-<summary>Izumo kingdom achievements</summary>
+<summary>Tradnor kingdom achievements</summary>
 
 ## **Missable Izumo kingdom achievements**<br>
 [Tradnor] Unleashed For the Long Haul [m]<br>
