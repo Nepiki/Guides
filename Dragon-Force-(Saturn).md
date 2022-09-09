@@ -818,3 +818,209 @@ Use awards to raise any of the three aformentioned generals max samurai troops t
 
 ***
 </details>
+<details>
+<summary>Izumo kingdom achievements</summary>
+
+## **Missable Izumo kingdom achievements**<br>
+[Tradnor] Unleashed For the Long Haul [m]<br>
+[Tradnor] This Bodes Well [m]<br>
+[Tradnor] Living Up to Expectations [m]<br>
+[Tradnor] Thinking Alike [m]<br>
+[Tradnor] Lumpy Headed [m]<br>
+[Tradnor] The Samurai And the Knight [m]<br>
+[Tradnor] Free Ride [m]<br>
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271769.png) **[Tradnor] Lord of Tradnor** (2 points)
+
+_Have Reinhart reach level 5 and receive the title of Lord_
+
+As Reinhart gains experience from battle victories, he will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271770.png) **[Tradnor] High Lord of Tradnor** (5 points)
+
+_Have Reinhart reach level 10 and receive the title of High Lord_
+
+As Reinhart gains experience from battle victories, he will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271784.png) **[Tradnor] The Kid Hits Back** (3 points)
+
+_Win a duel with Reinhart_
+
+During battle, after all troops are killed the surviving generals will be given an option to duel each other. With Reinhart as your general, win a duel.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271785.png) **[Tradnor] Fire In the Sky** (5 points)
+
+_Win a battle with Reinhart's Meteor Storm skill_
+
+Finish a battle by depleting an enemy general's health to zero using Reinhart's Meteor Storm skill to deliver the killing blow.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271771.png) **[Tradnor] Unleashed For the Long Haul [m]** (10 points)
+
+_Destroy the dark sword Eclisis with Reinhart and recruit Zanon before the end of Month 2, Week 1_
+
+This achievement will be missed if you do not reach Zanon in the first week with Reinhart. Immediately bring Reinhart to Lightan castle to meet Zanon. It is recommended to retreat from this initial engagement and have Reinhart wait until the end of the week at the town nearby. There will be a domestic event related to Zanon which will enable the next Reinhart/Zanon encounter event. Each map event should trigger a domestic event in the next week or two and on the third map event Zanon will join Tradnor as a playable general. If you do not get Zanon to join by the end of Month 2, Week 1 this achievement will be missed.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271772.png) **[Tradnor] The Naked Truth** (5 points)
+
+_Witness Uryll bear her soul and more to Reinhart_
+
+Required progression - This domestic event will occur a few weeks into the campaign.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271775.png) **[Tradnor] She's Our Succubus!** (10 points)
+
+_Rescue Uryll and defeat Santana and his forces with Reinhart and Ardor as part of the rescue party_
+
+Ardor is the only general required to engage Santana's forces after the progression required event plays where Santana kidnaps Uryll. Make sure to bring Reinhart and any other generals you desire and defeat Santana's forces. Uryll will actually still be rescued if you simply retreat from the battle with Santana, but the achievement requires the battle to be won.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271776.png) **[Tradnor] This Bodes Well [m]** (5 points)
+
+_Witness Palemoon ally with Highland_
+
+As the Tradnor campaign plays out the monarchs will join Highland as the weeks progress. Do not capture Teiris and in time Palemoon will become part of the Highland kingdom and this achievement will unlock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271777.png) **[Tradnor] Living Up to Expectations [m]** (5 points)
+
+_Witness Highland kingdom absorb Tristan_
+
+As the Tradnor campaign plays out the monarchs will join Highland as the weeks progress. Do not capture Junon and in time Tristan will become part of the Highland kingdom and this achievement will unlock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271778.png) **[Tradnor] Thinking Alike [m]** (5 points)
+
+_Witness Highland kingdom annex Topaz_
+
+As the Tradnor campaign plays out the monarchs will join Highland as the weeks progress. Do not capture Leon and in time Topaz will become part of the Highland kingdom and this achievement will unlock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271779.png) **[Tradnor] Lumpy Headed [m]** (5 points)
+
+_Witness Highland kingdom annex Bozack_
+
+As the Tradnor campaign plays out the monarchs will join Highland as the weeks progress. Do not capture Gongos and in time Bozack will become part of the Highland kingdom and this achievement will unlock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271781.png) **[Tradnor] The Samurai And the Knight [m]** (5 points)
+
+_Witness Izumo ally with Highland_
+
+As the Tradnor campaign plays out the monarchs will join Highland as the weeks progress. Do not capture Mikhal and in time Izumo will become part of the Highland kingdom and this achievement will unlock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271782.png) **[Tradnor] Free Ride [m]** (10 points)
+
+_Receive command of all kingdoms except Fandaria from Wein without having actually conquered any_
+
+As the Tradnor campaign plays out the monarchs will join Highland as the weeks progress. Once all kingdoms except Fandaria have joined Highland, soon a domestic event will play in which Wein gives all kingdoms over to Reinhart and this achievement will unlock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271780.png) **[Tradnor] Disappearing Act** (5 points)
+
+_Visit the Shadow Tower and receive news of Scythe and Gaul's disappearance_
+
+Required progression - After a progress related domestic event where your advisor discusses the Shadow Tower, visit it with Reinhart. It is located north of the large lake which is northwest of Topaz castle. During the Shadow Tower event, you will meet Ramda and upon exiting the tower learn of Scythe and Gaul's disappearance automatically.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271783.png) **[Tradnor] Boy King** (25 points)
+
+_Unite the Dragon Force under Reinhart's command_
+
+Required progression - After Reinhart has recruited all monarchs besides Goldark, the Fandaria joining sequence will begin and ultimately conclude with Goldark joining Tradnor at which time this achievement will unlock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271786.png) **[Tradnor] Staff of Dragons** (5 points)
+
+_Equip the legendary Star Dragon Cane_
+
+Required progression - After Reinhart, Gongos and Teiris recover the Moon Cane from the Southern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Moon Cane into the Star Dragon Cane. If Reinhart is already equipped with the Moon Cane, the achievement will pop at that point. If not, equip her with it during the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271787.png) **[Tradnor] Decompiled** (10 points)
+
+_Destroy Katmando after receiving the Dragon Power from Stras and equipping the Star Dragon Cane_
+
+Required progression - Reinhart will receive the Dragon Power from Stras after visiting the Southern Shrine with Gongos and Teiris. Reinhart must have the Star Dragon Cane equipped in order to damage Katmando.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271788.png) **[Tradnor] The Ferocity of Fire** (25 points)
+
+_Defeat Madruk in his final form with Reinhart and return peace to Legendra_
+
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will pop upon completion of the game as Tradnor.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271790.png) **[Tradnor] I Can Do This Forever** (5 points)
+
+_Have Uryll resurrect 100 troops during a single battle_
+
+The easiest way to unlock this achievement is have Uryll able to command 100 of any type of troop, but enter a battle with none recruited. Troops don't need to die first in the battle, only be brought into it via the Resurrect skill. She also needs to have 8 MP as her Resurrect skill will need to be used four times as it will bring 25 additional troops each time it is used. Once a troop is resurrected it's fine for it to die. If you have less than 100 total troops or begin the battle with some troops, make sure you are missing at least 25 before you use Resurrect in order to maximize the number of resurrected troops with each cast.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271791.png) **[Tradnor] Unrequited Love** (10 points)
+
+_With an army of only Reinhart and Uryll, engage and defeat an enemy force of at least four generals. Reinhart must fight only once and win and Uryll must win all other battles_
+
+Due to her strong Resurrect skill and her access to the Ensnare skill, as long as she has a decent amount of MP, Uryll is arguably the strongest general in the game. Make sure that she and Reinhart have high troop counts and then find an encounter with at least four enemy generals. The best place for this tends to be in the area between Fandaria, Topaz, Izumo and Tradnor. Make sure Reinhart only wins one of the battles and Uryll wins all others.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271792.png) **[Tradnor] Veterans of Tradnor** (10 points)
+
+_Get Presto, Sophie, Tsugal and Bardal each to at least level 5_
+
+Self explanatory. Just win enough battles with each to reach level 5. In order to ensure there are enough battles for everyone, once one of the generals reaches level 5, it is recommend to put them in a castle away from the front lines.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271789.png) **[Tradnor] In Over Their Head** (3 points)
+
+_Win a duel with Zanon_
+
+During battle, after all troops are killed the surviving generals will be given an option to duel each other. With Zanon as your general, win a duel.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271774.png) **[Tradnor] Ten Times Removed** (3 points)
+
+_Win 10 battles with Zanon_
+
+Zanon joins at higher than level 10, so he is extremely powerful especially in the early game. Win 10 battles with him throughout the campaign to unlock this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271773.png) **[Tradnor] Shockingly Brutal** (5 points)
+
+_Win a battle with Zanon's Thunder Fall skill_
+
+Finish a battle by depleting an enemy general's health to zero using Zanon's Thunder Fall skill to deliver the killing blow. Wait until all enemy troops have been killed before using this or it will only target troops in most cases.
+
+***
+</details>
