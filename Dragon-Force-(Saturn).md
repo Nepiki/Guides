@@ -1845,4 +1845,83 @@ _Win six battles in one week with your monarch_
 This becomes significantly easier in the later stages of the campaign where your monarch can command 100 troops and has access to all of their skills. Try to pick off much weaker generals to ensure minimal time needed to recover HP and troops.
 
 ***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272362.png) **[Any] Rank And File** (3 points)
+
+_Bring 100 soldiers to a battle and emerge victorious_
+
+Self explanatory.
+
+***
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272363.png) **[Any] Rough Riding** (3 points)
+
+_Bring 100 cavalry to a battle and emerge victorious_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272367.png) **[Any] Banquet of Mages** (3 points)
+
+_Bring 100 mages to a battle and emerge victorious_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272365.png) **[Any] Ashigaru** (3 points)
+
+_Bring 100 samurai to a battle and emerge victorious_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272366.png) **[Any] Blot Out the Sun** (3 points)
+
+_Bring 100 archers to a battle and emerge victorious_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272368.png) **[Any] Straight Outta the Cenobium** (3 points)
+
+_Bring 100 monk to a battle and emerge victorious_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272364.png) **[Any] Murder of Harpies** (3 points)
+
+_Bring 100 harpies to a battle and emerge victorious_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272369.png) **[Any] Pack Hunters** (3 points)
+
+_Bring 100 beastmen to a battle and emerge victorious_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272391.png) **[Any] Good Thing They Didn't Have Any Plants** (3 points)
+
+_Bring 100 zombies to a battle and emerge victorious_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272390.png) **[Any] Weyr'd They Go?** (3 points)
+
+_Bring 100 dragons to a battle and emerge victorious_
+
+Self explanatory.
+
+***
 </details>
