@@ -1293,7 +1293,7 @@ Have Gongos approach Teiris to unlock this achievement.
 
 _Have Gongos defeat Paxx at the Shadow Tower and meet Leviathan_
 
-Required progression - After a progress related domestic event where your advisor discusses the Shadow Tower, visit it with Gongos. It is located north of the large lake which is northwest of Topaz castle. Gongos will be attacked by a dragon general named Paxx which he must defeat. During the following Shadow Tower event, Paxx will meet Ramda and the achievement will unlock at the conclusion of the event.
+Required progression - After a progress related domestic event where your advisor discusses the Shadow Tower, visit it with Gongos. It is located north of the large lake which is northwest of Topaz castle. Gongos will be attacked by a dragon general named Paxx which he must defeat. During the following Shadow Tower event, Gongos will meet Ramda and the achievement will unlock at the conclusion of the event.
 
 ***
 
@@ -1305,7 +1305,7 @@ To get this event, you must have recruited Vlad and defeated Ryskim with him aft
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271267.png) **[Bozack] Love At First Sight** (5 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271267.png) **[Bozack] Escaped Eclisis' Control** (5 points)
 
 _Wrest Eclisis from Zanon, subdue him and then recruit him_
 
@@ -1390,6 +1390,210 @@ Prioritize using these generals until they have 10 battle wins and ensure they a
 _Win a battle after the Grim Reaper collects his toll_
 
 Katt's third skill is Summon Reaper. Win a battle after using this skill, but be careful because it will reduce both Katt and the opposing general's HP to 1.
+
+***
+</details>
+<details>
+<summary>Tristan kingdom achievements</summary>
+
+## **Missable Tristan kingdom achievements**<br>
+[Tristan] Agent of Fandaria [m]<br>
+[Tristan] Birds of a Feather [m]<br>
+[Tristan] Always Ready [m]<br>
+[Tristan] Payback... sort of [m]<br>
+[Tristan] Brotherly Hatred [m]<br>
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271606.png) **[Tristan] Lord of Tristan?** (2 points)
+
+_Have Junon reach level 5 and receive the title of Lord_
+
+As Junon gains experience from battle victories, she will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271604.png) **[Tristan] High Lord of Tristan?** (5 points)
+
+_Have Junon reach level 10 and receive the title of High Lord_
+
+As Junon gains experience from battle victories, she will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271601.png) **[Tristan] Death Incarnate** (3 points)
+
+_Win a duel with Junon_
+
+During battle, after all troops are killed the surviving generals will be given an option to duel each other. With Junon as your general, win a duel.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271609.png) **[Tristan] Sonic Tsunami** (5 points)
+
+_Win a battle with Junon's Sonic Blast skill_
+
+Finish a battle by depleting an enemy general's health to zero using Junon's Sonic Blast skill to deliver the killing blow.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271603.png) **[Tristan] Flimsy Sellsword** (3 points)
+
+_Subdue Gustav then recruit him_
+
+Gustav occupies Blazart castle which is just to the southest of Tristan castle. After defeating and capturing him, Gustav will join at the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271596.png) **[Tristan] Agent of Fandaria [m]** (5 points)
+
+_Confront Golem with Junon and defeat him_
+
+Early in the campaign Golem will seize a castle nearby Tristan castle. After this happens, defeat him with Junon herself to unlock this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271599.png) **[Tristan] Bird of a Feather [m]** (5 points)
+
+_Win the support of the Palemoon kingdom without fighting Teiris_
+
+Approach Teiris with Junon to unlock this achievement. It is missable if you defeat and capture Teiris without having used Junon. If Manoa is in the same location as Teiris, you can lock yourself out of the [Tristan] Brotherly Hatred [m] achievement by getting this first. In the case where Manoa is with Teiris, first attack with a force not including Junon. When Manoa is up to fight, defeat her with Cinna then have your entire force retreat. Regroup and send Junon to engage Teiris next to get both achievements.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271617.png) **[Tristan] We Can Coexist... For Now** (5 points)
+
+_Form an armistice with Highland after a misunderstanding with Wein_
+
+Required progression - Approach Wein with Junon to unlock this achievement. You will not be able to engage Wein with any of your other generals.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271611.png) **[Tristan] The Black Knight and the White Knight** (5 points)
+
+_Have Wein join your force and gain control of Highland's generals_
+
+Required progression - Some time after forming the armistice with Highland an event will trigger where Highland joins Tristan.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271612.png) **[Tristan] The Long March South** (10 points)
+
+_Annex three kingdoms as Tristan and gain the support of their monarchs_
+
+Required progression - Once three opposing monarchs have joined your force either voluntarily as with Highland or after capturing them and waiting until they join at the next domestic session, this achievement will unlock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271610.png) **[Tristan] Sword Beats Claw** (5 points)
+
+_Have Junon defeat Paxx at the Shadow Tower and meet Faust_
+
+Required progression - After a progress related domestic event where your advisor discusses the Shadow Tower, visit it with Junon. It is located north of the large lake which is northwest of Topaz castle. Junon will be attacked by a dragon general named Paxx which she must defeat. During the following Shadow Tower event, Junon will meet Ramda and the achievement will unlock at the conclusion of the event.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271598.png) **[Tristan] Always Ready [m]** (5 points)
+
+_Defeat Ryskim when he ambushes Junon_
+
+To get this event, you must have recruited Vlad and defeated Ryskim with him after Ryskim's first appearance. Ryskim will ambush Junon late in the campaign and must be defeated by Junon at that time.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272215.png) **[Tristan] Unexpected Error** (5 points)
+
+_Witness Goldark destroy Katmando_
+
+Required progression - Shortly after Katmando's arrival, Goldark will attack and temporarily destroy Katmando. This achievement will unlock at that point.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271620.png) **[Tristan] Into the Wrong Hands** (10 points)
+
+_Learn of Zanon's demise after he has lost control of the dark sword Eclisis_
+
+Required progression - At various potential times throughout the campaign, Faust will steal Eclisis from Zanon based on your encounters or lack thereof with Zanon. This achievement may unlock earlier in the campaign depending on your actions, but will definitely unlock no later than the week after Goldark escaped from captivity with the help of Faust
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271616.png) **[Tristan] Unmasked** (25 points)
+
+_Unite all members of the Dragon Force under Junon's command_
+
+Required progression - This will trigger once Goldark joins the Dragon Force during the sacred weapon collecting timeframe of the campaign.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271605.png) **[Tristan] Legendary Blade** (5 points)
+
+_Equip Junon with the legendary Star Dragon Sword_
+
+Required progression - After Wein and Goldark recover the Stargem sword from the Northern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Stargem sword into the Star Dragon Sword. If Junon is already equipped with the Stargem sword, the achievement will unlock at that point. If not, equip her with it during the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271602.png) **[Tristan] Fatal Error** (10 points)
+
+_Destroy Katmando after receiving the Dragon Power from Faust and equipping the Star Dragon Sword_
+
+Required progression - Junon will receive the Dragon Power from Faust after visiting the Eastern Shrine with Leon and Mikhal. Junon must have the Star Dragon Sword equipped in order to damage Katmando.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271613.png) **[Tristan] The Power of Thunder** (25 points)
+
+_Defeat Madruk in his final form with Junon and return peace to Legendra_
+
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will unlock upon completion of the game as Tristan.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271069.png) **[Tristan] Sonic Annihilation** (10 points)
+
+_Kill more than 60 troops using Junon's Sonic Blast skill. Junon cannot be using mage or archer troops_
+
+Do not have Junon in command of mage or archer troops even if none are recruited. This achievement is easiest to earn fighting against a monarch with 100 troops when Junon starts with none. The enemy will immediately issue a melee command and all troops with collapse into the middle and charge Junon. This will create a very nice grouping for Sonic Blast to strike. The initial enemy troop formations do play a small factor in how the troops group and lead to various numbers of troops getting killed. Over 70 kills at once is possible.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271597.png) **[Tristan] Air Inferiority** (5 points)
+
+_Win a battle with an army of harpies against a larger force of archers_
+
+Using any general with active harpy troops, simply defeat an enemy general using archers who begins the battle with more archers than you have harpies.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271607.png) **[Tristan] Payback... sort of [m]** (5 points)
+
+_Defeat Scythe in her first form with Scar (must reduce her HP to 0 in battle or duel)_
+
+Engage and defeat Scythe in battle with Scar. This will not trigger if she retreats, so if she does, pursue her and try again. This achievement is missable once Junon visits the Shadow Tower and Scythe and Gaul disappear.  Upon returning, Scythe is no longer in her first form and this achievement will remain locked.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271608.png) **[Tristan] Peck Their Eyes Out** (5 points)
+
+_Win a battle with Ayrios in command of harpy troops against an enemy general using soldiers_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271600.png) **[Tristan] Brotherly Hatred [m]** (5 points)
+
+_Defeat Manoa of Palemoon with Cinna_
+
+Attack and defeat the army of which Manoa is part with a force including Cinna. If Manoa is in the same location as Teiris, ensure that Junon is not also part of your force otherwise Palemoon will join without fighting. Additionally, it is recommended to retreat after unlocking this achievement because if Teiris is captured then the achievement [Tristan] Birds of a Feather [m] cannot be unlocked. In the case where Manoa is with Teiris, first attack with a force not including Junon. When Manoa is up to fight, defeat her with Cinna then have your entire force retreat. Regroup and send Junon to engage Teiris next to get both achievements.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271614.png) **[Tristan] Tough Guy With Few Tools** (10 points)
+
+_With an army of only Ortega and his troops, defeat an opposing force consisting of at least two generals_
+
+Self explanatory, but be aware that Ortega only ever has access to one skill, so having a troop advantage will be important for success.
 
 ***
 </details>
