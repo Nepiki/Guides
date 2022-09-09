@@ -1603,6 +1603,9 @@ Self explanatory, but be aware that Ortega only ever has access to one skill, so
 ## **Missable Any kingdom achievements**<br>
 [Any except Fandaria] The Light Side of Dark [m]<br>
 [Any] Ladies Man [m]<br>
+[Any except Fandaria] Naughty Little Children [m]<br>
+[Any except Fandaria] The Dirty Duo [m]<br>
+[Any except Fandaria] The Odd Couple [m]<br>
 
 ***
 
@@ -1736,6 +1739,110 @@ This will be easy to do during the sacred weapon collection phase of the campaig
 _Have your monarch able to command all types of troops_
 
 Using various types of Crests on your monarch will enable them to command different types of troops. Crests are obtained by searching different castles. This achievement will unlock when your monarch can command all 10 different types of troops. Spirit Crests can only be found in Stalwart and Magicka castles while Dragon Crests can only be found in Crystal castle.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272220.png) **[Any except Fandaria] Naughty Little Children [m]** (3 points)
+
+_Defeat the Skull Chidren, Gasper, Helm and Tzuvan_
+
+The Skull Children spawn in randomly near the beginning of the campaign and try to directly attack your monarch from wherever their starting location is. If they encounter and are defeated by another kingdom's general they will not respawn anymore and will be replaced by Paine and Agonni. The Skull Children are not uncommon, so if you intend to master the set, you will almost certainly have several chances to earn this achievement. The Skull Children do not spawn during the Fandaria campaign.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272210.png) **[Any except Fandaria] Temporary Relief** (3 points)
+
+_Kill Paine and Agonni... at least for the time being_
+
+After the Skull Children are defeated, Paine and Agonni will spawn in almost weekly and attempt to reach your monarch. They will never retreat from battle, so just kill them with any available force capable of doing so and you will unlock this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272232.png) **[Any except Fandaria] The Dirty Duo [m]** (10 points)
+
+_Defeat Gaul and Scythe after they return from their disappearance_
+
+After visiting the Shadow Tower and witnessing Gaul and Scythe's disappearance, they will ambush your monarch as they are leaving the area surrounding the Shadow Tower. You can defeat Gaul and Scythe here with a sufficient force and unlock this achievement, but if you have to retreat, the campaign will progress and Ramda instead will banish them.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271067.png) **[Any] Take That!** (2 points)
+
+_Defeat an enemy general by using a special skill_
+
+Finish a battle by depleting an enemy general's health to zero using a damage dealing special skill with any general.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272249.png) **[Any] Sapped** (5 points)
+
+_During a battle, fully deplete the enemy's special skill charging meter_
+
+The special skills Assassin Star and Mirage Star possessed by ninja generals will deplete the enemy's special skill charging meter. Different general's have varying degrees of success with the skills, so depending who you are using it may take a well timed use after the enemy general uses a skill of their own or possibly more. The thief general skill, Shiva's Dagger is also viable.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272251.png) **[Any] Outnumbered But Not Out Matched** (10 points)
+
+_Defeat an enemy force of at least eight generals_
+
+Only armies in a castle can contain more than five generals. Finding a castle with eight or more generals can be difficult and it will almost always be Tradnor, but others may do this from time to time. A much more reliable method is to bring a general with four or more (depending on how many enemy generals are already present) to Lightan castle and immediately retreating. The captives will transfer over to Zanon's control and then he will recruit them by the beginning of the next week. He will not deploy these generals so Lightan castle will be sufficient although you will have to face Zanon in the final battle, so only give up weak generals.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272213.png) **[Any] A Proper Blood Bath** (10 points)
+
+_Issue the melee command as your initial order in a 100 versus 100 troop battle and win_
+
+Using troops with significant advantages over the opponents such as beastmen over cavalry, monks/mages over zombies or samurai over dragons will give you the highest probability of success.  Additionally using a general with a power skill such as Teiris's Dark Vortex or one with Sonic Blast will make this achievement more easily doable.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272203.png) **[Any] Against All Odds** (10 points)
+
+_Win a battle with just your general against an enemy with 100 troops_
+
+Having a general with very powerful special skills or finding an enemy general with low health are required to unlock this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272211.png) **[Any] Royal Flush** (5 points)
+
+_Win an engagement with an army consisting of five monarchs_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272217.png) **[Any except Fandaria] The Odd Couple [m]** (10 points)
+
+_Only using Vlad and Sierra, defeat an enemy force consisting of at least four generals. Vlad and Sierra each must fight at least once and cannot lose any battles_
+
+Self explanatory. This achievement will be missed if Vlad is not in the army that confronts Ryskim when he appears with Sierra.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272250.png) **[Any] Diametrically Opposed** (10 points)
+
+_Using one samuri general and one dragon general, defeat an opposing force of at least three enemy generals_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272248.png) **[Any] Uphill Battle** (10 points)
+
+_Defeat an army of 100 samurai with an army of 100 dragons_
+
+Unless the campaign lasts for an incredibly long time, Mikhal will likely be the only general that will command 100 samurai at once. Using a Dragon Crest that can be found in Crystal castle will enable any of your generals to command dragon troops. Select a general with a skill like Teiris's Dark Vortex or Sonic Blast in order to significantly reduce the number of samurai troops.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272218.png) **[Any] No Rest For the Weary** (10 points)
+
+_Win six battles in one week with your monarch_
+
+This becomes significantly easier in the later stages of the campaign where your monarch can command 100 troops and has access to all of their skills. Try to pick off much weaker generals to ensure minimal time needed to recover HP and troops.
 
 ***
 </details>
