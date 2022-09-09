@@ -1650,7 +1650,7 @@ Send your monarch alone to the Fiend Tower which is located south of Magicka cas
 
 _Enlist Sierra's service after she recovers_
 
-Several weeks/months after Vlad is recruited an event will trigger where Ryskim and Sierra appear. Vlad must be part of the force that defeats them. After the subsequent event where Vlad restores Sierra's senses, she will be moved into the hospital. She will automatically recover and join after a few weeks at most.
+Several weeks/months after Vlad is recruited an event will trigger where Ryskim and Sierra appear. Vlad must be part of the force that defeats them. After the subsequent event where Vlad restores Sierra's senses, she will be moved into the hospital. She will automatically recover and join after a few weeks at most. This achievement will be missed if Ryskim is engaged and defeated without Vlad in the army.
 
 ***
 
@@ -1680,6 +1680,62 @@ Topaz, Bozack and Tristan - Town between Travan and Crystal castles
 _Meet Bastion in the field and seduce him into joining_
 
 Bastion will start the area north of the Fiend Tower. He may remain at the town, but he may also move based on other kingdom's forces encountering him. Approach him with a female general and he will join your forces. If approached by a male general, you will fight him and upon defeating him he will be captured and this achievement will be locked.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272222.png) **[Any] Every Little Thing She Does** (2 points)
+
+_Restore the ruins of Magicka castle_
+
+The ruins of Magicka castle are located north of Fiend Tower. Bring any general to them and an event will trigger rebuilding the castle, unlocking this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272202.png) **[Any] An Eye For Treasure** (2 points)
+
+_Find an item while searching_
+
+During a domestic session, search a castle and you may find an item. This achievement will unlock when you do.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272201.png) **[Any] An Eye For Talent** (2 points)
+
+_Recruit a general while searching a castle_
+
+During a domestic session, search a castle and you may recruit a generic general. This achievement will unlock when you do.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271068.png) **[Any] Masterful Fortifications** (3 points)
+
+_Increase a castle's level by 2 through fortification_
+
+During a domestic session, fortifying a castle may result in a gain of 2 levels. This achievement will unlock if it does.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272214.png) **[Any] Your Very Own Versailles** (10 points)
+
+_Increase a castle's level to 50_
+
+Castle level's will gradually increase while you are occupying them on them on the field or through domestic fortifications. You must be in occupying a castle when it reaches level 50 through either method to unlock this achievement. Palemoon castle generally starts a high level, so send some of your generals who can fortify there and continue fortify during domestic sessions and do not vacate the castle during the weeks.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272486.png) **[Any] The Conquest of Legendra** (10 points)
+
+_Occupy every castle, including Magicka, at one time_
+
+This will be easy to do during the sacred weapon collection phase of the campaign before Katmando begins to move.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272221.png) **[Any] Versatile Commander** (10 points)
+
+_Have your monarch able to command all types of troops_
+
+Using various types of Crests on your monarch will enable them to command different types of troops. Crests are obtained by searching different castles. This achievement will unlock when your monarch can command all 10 different types of troops. Spirit Crests can only be found in Stalwart and Magicka castles while Dragon Crests can only be found in Crystal castle.
 
 ***
 </details>
