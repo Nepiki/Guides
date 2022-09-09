@@ -121,7 +121,7 @@ The easiest way to get this achievement is to have Wein engage any Palemoon gene
 
 _Annex three kingdoms as Highland and gain the support of their monarchs_
 
-Required progression - Once three opposing monarchs have joined your force either voluntarily as likely with Palemoon or after capturing them and waiting until they join at the next domestic session, this achievement will trigger.
+Required progression - Once three opposing monarchs have joined your force either voluntarily as likely with Palemoon or after capturing them and waiting until they join at the next domestic session, this achievement will unlock.
 
 ***
 
@@ -167,9 +167,9 @@ Required progression - This will trigger once Goldark joins the Dragon Force dur
 
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271143.png) **[Highland] Sword of Swords** (5 points)
 
-_Equip the legendary Star Dragon Sword_
+_Equip Wein with the legendary Star Dragon Sword_
 
-Required progression - After Katmando has begun to move and Wein and Goldark recover the Stargem sword from the Northern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Stargem sword into the Star Dragon Sword. If Wein is already equipped with the Stargem sword, the achievement will pop at that point. If not, equip him with it during the next domestic session.
+Required progression - After Katmando has begun to move and Wein and Goldark recover the Stargem sword from the Northern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Stargem sword into the Star Dragon Sword. If Wein is already equipped with the Stargem sword, the achievement will unlock at that point. If not, equip him with it during the next domestic session.
 
 ***
 
@@ -185,7 +185,7 @@ Required progression - Wein will receive the Dragon Power from Miral after visit
 
 _Defeat Madruk in his final form with Wein and return peace to Legendra_
 
-Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will pop upon completion of the game as Highland.
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will unlock upon completion of the game as Highland.
 
 ***
 
@@ -209,7 +209,7 @@ The most difficult part of this achievement is finding an enemy force with at le
 
 _Win 20 battles between Rudger, Galam, Nina and Link_
 
-When the total number of battle wins accumulated between the four aforementioned generals, this achievement will trigger.
+When the total number of battle wins accumulated between the four aforementioned generals, this achievement will unlock.
 
 ***
 
@@ -324,9 +324,9 @@ Required progression - this will trigger after Goldark and Wein retrieve the Sta
 
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/272160.png) **[Fandaria] Only One?** (5 points)
 
-_Equip the leendary Star Dragon Sword_
+_Equip Goldark with the legendary Star Dragon Sword_
 
-Required progression - After Goldark and Wein recover the Stargem sword from the Northern Shrine and Katmando has begun to move, Ramda will attack Katmando. Following the battle Ramda will transform the Stargem sword into the Star Dragon Sword. If Goldark is already equipped with the Stargem sword, the achievement will pop at that point. If not, equip him with it during the next domestic session.
+Required progression - After Goldark and Wein recover the Stargem sword from the Northern Shrine and Katmando has begun to move, Ramda will attack Katmando. Following the battle Ramda will transform the Stargem sword into the Star Dragon Sword. If Goldark is already equipped with the Stargem sword, the achievement will unlock at that point. If not, equip him with it during the next domestic session.
 
 ***
 
@@ -342,7 +342,7 @@ Required progression - Goldark will receive the Dragon Power from Frest after vi
 
 _Defeat Madruk in his final form with Goldark and return peace to Legendra_
 
-Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will pop upon completion of the game as Fandaria.
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will unlock upon completion of the game as Fandaria.
 
 ***
 
@@ -481,7 +481,7 @@ If Teiris meets Junon in an engagement, the Tristan kingdom will all join Palemo
 
 _Annex three kingdoms as Palemoon and gain the support of their monarchs_
 
-Required progression - during your progress through the campaign this achievement will trigger once you've recruited three other monarchs regardless of how you recruit them.
+Required progression - during your progress through the campaign this achievement will unlock once you've recruited three other monarchs regardless of how you recruit them.
 
 ***
 
@@ -543,9 +543,9 @@ Required progression - During the legendary weapon collecting phase of the campa
 
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271146.png) **[Palemoon] Heavenly Staff** (5 points)
 
-_Equip the legendary Star Dragon Cane_
+_Equip Teiris with the legendary Star Dragon Cane_
 
-Required progression - After Teiris, Gongos and Reinhart recover the Moon Cane from the Southern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Moon Cane into the Star Dragon Cane. If Teiris is already equipped with the Moon Cane, the achievement will pop at that point. If not, equip her with it during the next domestic session.
+Required progression - After Teiris, Gongos and Reinhart recover the Moon Cane from the Southern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Moon Cane into the Star Dragon Cane. If Teiris is already equipped with the Moon Cane, the achievement will unlock at that point. If not, equip her with it during the next domestic session.
 
 ***
 
@@ -561,7 +561,7 @@ Required progression - Teiris will receive the Dragon Power from Farla after vis
 
 _Defeat Madruk in his final form with Teiris and return peace to Legendra_
 
-Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will pop upon completion of the game as Highland.
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will unlock upon completion of the game as Highland.
 
 ***
 
@@ -733,7 +733,7 @@ Required progression - This will trigger once Goldark joins the Dragon Force dur
 
 _Equip Mikhal with the legendary Star Dragon Sword_
 
-Required progression - After Wein and Goldark recover the Stargem sword from the Northern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Stargem sword into the Star Dragon Sword. If Mikhal is already equipped with the Stargem sword, the achievement will pop at that point. If not, equip him with it during the next domestic session.
+Required progression - After Wein and Goldark recover the Stargem sword from the Northern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Stargem sword into the Star Dragon Sword. If Mikhal is already equipped with the Stargem sword, the achievement will unlock at that point. If not, equip him with it during the next domestic session.
 
 ***
 
@@ -749,7 +749,7 @@ Required progression - Mikhal will receive the Dragon Power from Homura after vi
 
 _Defeat Madruk in his final form with Mikhal and return peace to Legendra_
 
-Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will pop upon completion of the game as Highland.
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will unlock upon completion of the game as Highland.
 
 ***
 
@@ -954,9 +954,9 @@ Required progression - After Reinhart has recruited all monarchs besides Goldark
 
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271786.png) **[Tradnor] Staff of Dragons** (5 points)
 
-_Equip the legendary Star Dragon Cane_
+_Equip Reinhart with the legendary Star Dragon Cane_
 
-Required progression - After Reinhart, Gongos and Teiris recover the Moon Cane from the Southern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Moon Cane into the Star Dragon Cane. If Reinhart is already equipped with the Moon Cane, the achievement will pop at that point. If not, equip her with it during the next domestic session.
+Required progression - After Reinhart, Gongos and Teiris recover the Moon Cane from the Southern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Moon Cane into the Star Dragon Cane. If Reinhart is already equipped with the Moon Cane, the achievement will unlock at that point. If not, equip her with it during the next domestic session.
 
 ***
 
@@ -972,7 +972,7 @@ Required progression - Reinhart will receive the Dragon Power from Stras after v
 
 _Defeat Madruk in his final form with Reinhart and return peace to Legendra_
 
-Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will pop upon completion of the game as Tradnor.
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will unlock upon completion of the game as Tradnor.
 
 ***
 
@@ -1021,6 +1021,183 @@ Zanon joins at higher than level 10, so he is extremely powerful especially in t
 _Win a battle with Zanon's Thunder Fall skill_
 
 Finish a battle by depleting an enemy general's health to zero using Zanon's Thunder Fall skill to deliver the killing blow. Wait until all enemy troops have been killed before using this or it will only target troops in most cases.
+
+***
+</details>
+<details>
+<summary>Topaz kingdom achievements</summary>
+
+## **Missable Topaz kingdom achievements**<br>
+[Topaz] Blitzkrieg [m]<br>
+[Topaz] Straight Into the Ranks [m]<br>
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271199.png) **[Topaz] Lord of Topaz** (2 points)
+
+_Have Leon reach level 5 and receive the title of Lord_
+
+As Leon gains experience from battle victories, he will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271197.png) **[Topaz] High Lord of Topaz** (5 points)
+
+_Have Leon reach level 10 and receive the title of High Lord_
+
+As Leon gains experience from battle victories, he will eventually reach this level.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271195.png) **[Topaz] Don't Back Down** (3 points)
+
+_Win a duel with Leon_
+
+During battle, after all troops are killed the surviving generals will be given an option to duel each other. With Leon as your general, win a duel.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271201.png) **[Topaz] Reckless Abandon** (5 points)
+
+_Win a battle with Leon's Cross Rush skill_
+
+Finish a battle by depleting an enemy general's health to zero using Leon's Cross Rush skill to deliver the killing blow.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271191.png) **[Topaz] Blitzkrieg [m]** (10 points)
+
+_Occupy five castles by the end of the first week, not including Magicka castle_
+
+This achievement is only possible during the first week of the campaign. Topaz begins with only five generals and when the week ends, each one of them needs to be occupying a different castle. This method for this is variable as the opposing kingdoms do not always behave the same way. You will have to determine which forces you can quickly overwhelm to seize castles and may have to abandon castles if they cannot be defended. The castle that you can rebuild to the south of Topaz called Magicka castle does not count toward this achievement.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271189.png) **[Topaz] A Brand New Dayn** (3 points)
+
+_Subdue Dayn and his generals then recruit them_
+
+Dayn and his generals begin the campaign occupying Gasparl castle just east of Topaz castle. Engage them with your forces and capture them. On the subsequent domestic event Dayn will join and this achievement will unlock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271200.png) **[Topaz] Not Surrounded Anymore** (10 points)
+
+_Annex three kingdoms as Topaz and gain the support of their monarchs_
+
+Required progression - Once three opposing monarchs have joined your force either voluntarily as is possible with Highland or after capturing them and waiting until they join at the next domestic session, this achievement will unlock.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271207.png) **[Topaz] Tonight I Dine on Dragon Soup** (5 points)
+
+_Defeat Graggel at the Shadow Tower with Leon and meet Kazabu_
+
+Required progression - After a progress related domestic event where your advisor discusses the Shadow Tower, visit it with Leon. It is located north of the large lake which is northwest of Topaz castle. Leon will be attacked by a dragon general named Graggel which he must defeat. During the following Shadow Tower event, Leon will meet Ramda and the achievement will unlock at the conclusion of the event.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271202.png) **[Topaz] Straight Into the Ranks [m]** (5 points)
+
+_Compel Wein to submit without having to capture him_
+
+Engage Wein directly with Leon and Highland will join Topaz without having to defeat Wein. This is missable if you fight and capture Wein without Leon having engaged him first.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271190.png) **[Topaz] Atonement** (10 points)
+
+_Rescue Yanna from Ryskim with Zanon's help_
+
+To get this event, you must have recruited Vlad and defeated Ryskim with him after Ryskim's first appearance. Additionally, you must have encountered Zanon and gotten at least one domestic event discussing him - that will happen immediately after Leon's first encounter with Zanon (retreating is fine). Do not fully complete Zanon's storyline before getting this achievement as he will disappear and Ryskim will not reappear and kidnap Yanna. When Ryskim does kidnap Yanna, simply engage and defeat him.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271188.png) **[Topaz] Eclisis' Last Drink** (10 points)
+
+_Witness Zanon kill himself to seal the dark sword Eclisis_
+
+This event is the finale of Zanon's storyline in the Topaz campaign. It will trigger after several iterations of field encounters with Zanon and domestic events. The Zanon storyline requires an engagement with Leon to begin and then will subsequently alternate between domestic events and additional encounters. Some other progression events are required to progress the Zanon storyline, so be patient as it unfolds. It can be accomplished as late in the game as collecting the sacred weapons from the shrines.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271208.png) **[Topaz] Warrior Monk** (25 points)
+
+_Unite all members of the Dragon Force under Leon's command_
+
+Required progression - This will trigger once Goldark joins the Dragon Force during the sacred weapon collecting timeframe of the campaign.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271196.png) **[Topaz] Draconic Bracer** (5 points)
+
+_Equip Leon with the legendary Star Dragon Armlet_
+
+Required progression - After Teiris, Gongos and Reinhart recover the Sun Bracer from the Southern Shrine, Ramda will attack Katmando. Following the battle Ramda will transform the Sun Bracer into the Star Dragon Armlet. If Leon is already equipped with the Sun Bracer, the achievement will unlock at that point. If not, equip him with it during the next domestic session.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271194.png) **[Topaz] Divided By Zero** (10 points)
+
+_Destroy Katmando after receiving the Dragon Power from Kazabu and equipping the Star Dragon Amulet_
+
+Required progression - Leon will receive the Dragon Power from Kazabu after visiting the Eastern Shrine with Mikhal and Junon. Leon must have the Star Dragon Armlet equipped in order to damage Katmando.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271205.png) **[Topaz] The Strength of the Land** (25 points)
+
+_Defeat Madruk in his final form with Leon and return peace to Legendra_
+
+Required progression - Use soldier, monk, samurai or dragon troops against Madruk for best results. This achievement will unlock upon completion of the game as Topaz.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271206.png) **[Topaz] Throwing Hands** (10 points)
+
+_With an army of only Leon and his troops, defeat an opposing force consisting of at least three generals_
+
+A significant troop advantage and use conservation of Leon's MP are immensely helpful for this achievement. Try to target a force of three generals with low troops counts and lower HP generals such as Magicians.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271204.png) **[Topaz] The Intimidator** (10 points)
+
+_Win two battles in a single encounter with Leon by having two enemy generals opt to retreat instead of duel him_
+
+Magician and Priest generals are by far the most likely to retreat from duels, but they will also retreat from battles almost as soon as their last troops get killed. Sometimes you will find a retreating enemy army that has just been defeated and no longer has any troops. One that has several generals with significantly lower HP than Leon is likely to be useful for this achievement. Make sure Leon has no troops, but high HP to give yourself the best chance at an enemy general retreat.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271192.png) **[Topaz] Busy Week** (10 points)
+
+_Win at least two battles with each of Topaz's main supporting generals, Garyus, Yanna, Shaia and Raizak within the same week_
+
+Self explanatory - simply make sure they each win at least two battles in the same week.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271193.png) **[Topaz] Capable Apprentices** (5 points)
+
+_With an army of only Yanna and Raizak, engage and defeat an enemy force of at least three generals. Yanna and Raizak must each fight at least once and not lose any battles_
+
+Self explanatory.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271203.png) **[Topaz] The Endless Hordes** (5 points)
+
+_Kill more than 100 zombies in a single battle with an army of monks_
+
+In order to get this achievement you must fight against an enemy general that uses Zombie troops and can resurrect some of them. The most convenient candidate is Vlad since his troop count will always match Leon and he will resurrect them. You do not need to finish or win the battle because the achievement will unlock as soon as 101 zombies are killed in a single battle.
+
+***
+
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271198.png) **[Topaz] Impervious Defense** (5 points)
+
+_Kill more than 30 enemy troops with Shaia's Holy Shield skill_
+
+Allow Shaia to be completely surrounded by enemy troops then use the Holy Shield skill and it is very likely that more than 30 will be killed.
 
 ***
 </details>
