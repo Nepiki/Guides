@@ -1205,7 +1205,9 @@ Allow Shaia to be completely surrounded by enemy troops then use the Holy Shield
 <details>
 <summary>Bozack kingdom achievements</summary>
 
-**There are no missable Bozack kingdom achievements**
+## **Missable Topaz kingdom achievements**<br>
+[Bozack] Unexpected Assistance [m]<br>
+[Bozack] Escaped Eclisis' Control [m]<br>
 
 ***
 
@@ -1297,19 +1299,19 @@ Required progression - After a progress related domestic event where your adviso
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271283.png) **[Bozack] Unexpected Assistance** (10 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271283.png) **[Bozack] Unexpected Assistance [m]** (10 points)
 
 _Rescue Katt from Ryskim with Zanon's help_
 
-To get this event, you must have recruited Vlad and defeated Ryskim with him after Ryskim's first appearance. Additionally, you must have encountered Zanon and gotten at least one domestic event discussing him - that will happen immediately after Gongos's first encounter with Zanon (retreating is fine). Do not fully complete Zanon's storyline before getting this achievement as he will disappear and Ryskim will not reappear and kidnap Katt. When Ryskim does kidnap Katt, simply engage and defeat him.
+To get this event, you must have recruited Vlad and defeated Ryskim with him after Ryskim's first appearance. Additionally, you must have encountered Zanon and gotten at least one domestic event discussing him - that will happen immediately after Gongos's first encounter with Zanon (retreating is fine). Do not fully complete Zanon's storyline before getting this achievement as he will disappear and Ryskim will not reappear and kidnap Katt. When Ryskim does kidnap Katt, simply engage and defeat him. This achievement is missable if you do not bring Vlad to rescue Sierra when Ryskim first appears.
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271267.png) **[Bozack] Escaped Eclisis' Control** (5 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271267.png) **[Bozack] Escaped Eclisis' Control [m]** (5 points)
 
 _Wrest Eclisis from Zanon, subdue him and then recruit him_
 
-This is the most complex Zanon storyline in the game. It requires a series of interactions with Zanon and armies not containing Gongos as well as subsequent domestic events. Ultimately you cannot mess it up, but always attempt to approach Zanon first with an army that does not contain Gongos and if that doesn't trigger a new event, then try an army that does contain Gongos. It is highly recommended that until the final encounter, after you've rescued Katt from Ryskim, to retreat from Zanon encounters when possible. You will also ocassionally get domestic events related to Zanon. In order to get him to join, you must progress all the way passed the Katt rescue event and then approach Zanon with a party that contains Gongos and his four main generals, Rygar, Baghib, Katt and Yuni. This will trigger the event in which Eclisis is taken from Zanon and he will join following a battle. Unfortunately it is so late in the game by the time this happens that Zanon is essentially useless as a playable general.
+This is the most complex Zanon storyline in the game. It requires a series of interactions with Zanon and armies not containing Gongos as well as subsequent domestic events. Ultimately you cannot mess it up, but always attempt to approach Zanon first with an army that does not contain Gongos and if that doesn't trigger a new event, then try an army that does contain Gongos. It is highly recommended that until the final encounter, after you've rescued Katt from Ryskim, to retreat from Zanon encounters when possible. You will also ocassionally get domestic events related to Zanon. In order to get him to join, you must progress all the way passed the Katt rescue event and then approach Zanon with a party that contains Gongos and his four main generals, Rygar, Baghib, Katt and Yuni. This will trigger the event in which Eclisis is taken from Zanon and he will join following a battle. Unfortunately it is so late in the game by the time this happens that Zanon is essentially useless as a playable general. This achievement is missable if you do not confront Zanon with the correct party for the final event.
 
 ***
 
