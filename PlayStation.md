@@ -11,4 +11,5 @@ List of Guides (Alphabetical)
 |Tecmo's Deception: Invitation to Darkness|[Full](https://github.com/RetroAchievements/guides/wiki/Tecmo's-Deception:-Invitation-to-Darkness-(Playstation))|[837](https://retroachievements.org/game/837)|
 |Tomba!|[Partial](Tomba!-(PlayStation))|[11276](https://retroachievements.org/game/11276)|
 |Tomba! 2: The Evil Swine Return|[Partial](Tomba!-2-The-Evil-Swine-Return-(PlayStation))|[11306](https://retroachievements.org/game/11306)|
+|Valkyrie Profile|[Full](Valkyrie-Profile-(Playstation))|[11249](https://retroachievements.org/game/11249)|
 |Yu‐Gi‐Oh!: Forbidden Memories|[Partial](Yu‐Gi‐Oh!-Forbidden-Memories-(PlayStation))|[11388](https://retroachievements.org/game/11388)|
