@@ -1,4 +1,4 @@
-## The guide
+## The guide /!\ WIP /!\
 
 Written by [Sines](https://retroachievements.org/user/Sines), don't hesitate to ping me if you see mistakes in this guide. 
 
