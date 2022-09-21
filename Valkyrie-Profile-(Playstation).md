@@ -42,9 +42,15 @@ Now that you are familiar with the game, this should be a breeze to go through f
 
 ***
 
-[**Step 3: Postgame and Misc**](#step-3-dummy-step-3--total-points-999)
+[**Step 3: Postgame**](#step-3-dummy-step-3--total-points-999)
 
-This last step will cover the postgame, unlocked by having a save in the last dungeon of the respective ending. Called the Seraphic Gate, you will have to run through it once for the usual map/treasure/boss completion achievements, find a couple of bonus fight and this is also where you will have to engage the biggest grind of the game to unlock 100% Voice clip completion. I'll also use this part to cover the non-story specific achievements that can (and in majority will) get unlocked long before you finish the game.
+This last step will cover the postgame, unlocked by having a save in the last dungeon of the respective ending. Called the Seraphic Gate, you will have to run through it once for the usual map/treasure/boss completion achievements, find a couple of bonus fight and this is also where you will have to engage the biggest grind of the game to unlock 100% Voice clip completion. 
+
+***
+
+[**Step 4: Misc**](#step-3-dummy-step-3--total-points-999)
+
+For all the other non-story specific achievements that can (and in majority will) get unlocked long before you finish the game. Most are fairly obvious, some require a bit of game knowledge and I'll share my tips to ease the grind for the Voices achievement.
 
 # 4) General Tips
 ### Exploration
@@ -353,22 +359,206 @@ _Reach Ending B, watch credits and scene after_
 
 ## Step 2: Ending A Hard Mode
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
+Now that you are familiar with how the games work, let's finish the Hard mode and Ending A achievements. Having everyone start at lv1 is not that bad as you can either grind them up fairly quickly to the rest of your team level through regular battle or with party exp. First point of discussion is on how to reach the Ending A condition instead of the default one. Often described as "obscure" and "impossible to get without a guide", it's actually not that complicated.
 
-Guide for the achievement.
+As far as I know, there are actually 3 requirements:
+* Get Valkyrie's Seal Rating to 37 or less by Chapter 7 (can check the value in Valkyrie's Status (you could say on her Profile, eh))
+* Send Lucian to Valhalla by Chapter 6 maximum
+* Having a spare homunculus available: requires to have cleared the Tower of Lezard Valeth and recruited Mystina.
+
+If everything's done properly you will get a unique cinematic where Lucian get tricked and killed by Loki. After that, in chapter 8 the last Spiritual Concentration will point to Weeping Lily Meadow. In that case you are now 100% sure that you can get the A ending !
+
+The only potentially hard part is to manipulate your seal rating. Here's what you should do:
+* Play normally up to chapter 3 without visiting Weeping Lilly Meadow or Gerabellum
+* In chapter 3 you can loot Brahms Castle but do not meet the boss for now
+* Chapter 4 at the very start (before any spiritual concentration) send to Valhalla the relevant warrior you wanted. This mean it should be prepared by the end of Chapter 3. You should have the maximum Seal rating of 100
+* Do all the Spiritual concentration and character recruitments of Chapter 4. Number of recruitable unit is rng based but don't matter, you likely want to keep Lorenta for last as you need to clear the dungeon just after.
+* Clear the Tower of Lezard Valeth
+* Visit Gerabellum where you will have a cinematic of getting stoned. Not the good kind.
+* Visit Weeping Lilly Meadow and kill the lingering spirits in the cinematic.
+* Go the Brahms Castle, talk to him and refuse to fight. 
+* Before ending the chapter you should remove the Nibelungen Ring on Valkyrie. At the start of chapter 5 you should be around 40 seal value depending on how many characters you recruited.
+* In Chapter 5 recruit Mystina and Lucian, you should have single digit Seal value now.
+* Make sure to send Lucian to Valhalla before the end of Chapter 6. Sending someone will raise your seal value by +12 per character sent, but recruiting someone is a -2 so it should balance out with the remaining warriors, especially if you dont re-equip the Nibelungen Ring.
+* It's true for all of the game but mostly relevant for us past chapter 4, you can get away with only sending one warrior per chapter to Valhalla (or even none at all in some chapters). Keep the Seal value in mind but the hard part should be over now.
+* As said above, you know you are good to go when you see Loki killing Lucian and the Chapter 8 guiding you toward Weeping Lilly Meadow. 
+
+![](https://media.retroachievements.org/Badge/153538.png) [Mirror, Earring and Orb (10)](https://retroachievements.org/achievement/108481)   
+_Witness Lucian's plan to restore Valkyrie's memories and Loki's deception_
+
+Normal mode have a lot of dungeon overlap with Hard mode, so if you are fuzzy on the details checks Step 1. I'll only cover new one here.
+Hard mode dungeons also have Flames Jewels in chests, which you will need to be able to unlock everything in the post game dungeon. I wont cover them in details as you will naturally get them through their respective Treasure Hunter achievements.
+
+![](https://media.retroachievements.org/Badge/153584.png) [Preparing for Unknown (10)](https://retroachievements.org/achievement/108526)   
+_Collect all 8 Flame Jewels_
 
 ***
+### Salerno Academy
+Not too bad for the first Hard mode dungeon, you will need to take note on where the scent change triggers and vines are. You can interact with the green container to get Acid, which when used where a vine used to be will keep it from spawning back for a while. The delay before a vine regrows is 15 screen transitions. Make sure to climb the vines and take the roof route on your first go, if you go through the water your scent will be washed off and you will need to retry the dungeon for the Scent achievement.
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
+![](https://media.retroachievements.org/Badge/153469.png) [Boss VI (10)](https://retroachievements.org/achievement/108414)   
+_Defeat Harpy in Salerno Academy_
 
-Guide for the achievement.
+![](https://media.retroachievements.org/Badge/153470.png) [Explorer VI: Salerno Academy (10)](https://retroachievements.org/achievement/108415)   
+_Completely map Salerno Academy_
+
+![](https://media.retroachievements.org/Badge/153471.png) [Treasure Hunter VI: Salerno Academy (10)](https://retroachievements.org/achievement/108416)   
+_Collect all treasure in Salerno Academy_
+
+![](https://media.retroachievements.org/Badge/153472.png) [Scent (10)](https://retroachievements.org/achievement/108417)   
+_From Salerno Academy entrance reach Harpie's room changing Valkyrie's scent no more than 5 times_
+* Without giving out the whole solution because it work really badly through text format, you should get those scents in that order: Red, Yellow, Blue, Yellow, Red. The last Red scent trigger is from a room in the top-right part of the map.
 
 ***
+### Clockwork Mansion
+Welcome to hell. Getting to the end of the dungeon is quite straightforward enough, you can find tons of walkthrough for that and you can be in and out in 10 min. The issue we have here is that we need to visit every room from map completion (except the most top-right which is impossible). I honestly don't have any advice for this, it's trial and error. If you get stuck in a room, wait for a bit and touch the ghostly apparition to be taken back at the entrance. Good luck.
+
+![](https://media.retroachievements.org/Badge/153488.png) [Boss X (10)](https://retroachievements.org/achievement/108433)   
+_Defeat Chimera in Clockwork Mansion_
+
+![](https://media.retroachievements.org/Badge/153489.png) [Explorer X: Clockwork Mansion (25)](https://retroachievements.org/achievement/108434)   
+_Almost completely map Clockwork Mansion_
+
+![](https://media.retroachievements.org/Badge/153490.png) [Treasure Hunter X: Clockwork Mansion (10)](https://retroachievements.org/achievement/108435)   
+_Collect all treasure in Clockwork Mansion_
+
+***
+### Dark Tower of Xervah
+This dungeon is a breezed compared to the previous one ! You have a couple of gimmicks here. First of all you need to activate the hearts by slashing them with your sword. Once this is done the teeth trap will be activated. You have three main zones where you can fall off in one and they will each activate a different "valve", making some flesh wall traversable. You will likely be missing some of the corners of big room for map completion, even though you hit the ceiling of the bottom part. After some trial & errors I found that you need to hit the corners high enough for it to register. In order to do so you should construct a crystal pillar (big crytal + 3 broken crystals stacked up) in some of the stairs between teeth to get enough height for the jump.
+
+![](https://media.retroachievements.org/Badge/153488.png) [Boss XIV (10)](https://retroachievements.org/achievement/108433)   
+_Defeat Hel Servants in Dark Tower of Xervah_
+
+![](https://media.retroachievements.org/Badge/153489.png) [Explorer XIV: Dark Tower of Xervah (10)](https://retroachievements.org/achievement/108434)   
+_Completely map Dark Tower of Xervah_
+
+![](https://media.retroachievements.org/Badge/153490.png) [Treasure Hunter XIV: Dark Tower of Xervah (10)](https://retroachievements.org/achievement/108435)   
+_Collect all treasure in Dark Tower of Xervah_
+
+***
+### Citadel of Flame
+Don't worry too much about the first zone, you will take damage. RNG can be a pain and you sometimes have to wait a while before being able to progress, being able to delete flame with your sword doesn't help much. For the platforming here some of the ceiling are too low and you will be forced to boost yourself to the side by breaking a crystal (breaking by throwing a third blue thingy at it, not with your sword). The [m] achievement is not too bad if you are careful and stay on the left side to catch flames, you can always leave the room to reset it if you got hit.
+
+![](https://media.retroachievements.org/Badge/153522.png) [Firecatcher [m] (5)](https://retroachievements.org/achievement/109423)   
+_In Citadel of Flame catch required amount of fire without dropping pot (reenter room to reset)_
+
+![](https://media.retroachievements.org/Badge/153523.png) [Boss XVI (5)](https://retroachievements.org/achievement/108467)   
+_Defeat Fire Elemental in Citadel of Flame_
+
+![](https://media.retroachievements.org/Badge/153524.png) [Explorer XVI: Citadel of Flame (10)](https://retroachievements.org/achievement/108468)   
+_Completely map Citadel of Flame_
+
+![](https://media.retroachievements.org/Badge/153525.png) [Treasure Hunter XVI: Citadel of Flame (10)](https://retroachievements.org/achievement/108469)   
+_Collect all treasure in Citadel of Flame_
+
+***
+### Sunken Shrine
+Another easy dungeon, you have a bit of puzzling to do by changing a platform elevation through a scale system and then exploring underwater. Took me an embarrassingly long time to realize you can infinitely "jump" while underwater. When you reach a zone with a closed door on the left after an underwater section, you need to break a crystal and take the piece under the switch. Let it go and it will float to it, unlocking the door. The same need to be repeated x3 in a following room. The last room before the boss where you need to activate the orbs through the Ice beam can be tricky: Once you have a crystal on the ceiling hitting the top Orb, you can break it and create a hidden platform. While this crystal platform lower itself to the ground, the beam will also get lower which should activate the other orbs. You might need a couple of tries before managing it if your timing is bad.
+
+![](https://media.retroachievements.org/Badge/153533.png) [Boss XVIII (10)](https://retroachievements.org/achievement/108477)   
+_Defeat Wraith in Sunken Shrine_
+
+![](https://media.retroachievements.org/Badge/153534.png) [Explorer XVIII: Sunken Shrine (10)](https://retroachievements.org/achievement/108478)   
+_Almost completely map Sunken Shrine_
+
+![](https://media.retroachievements.org/Badge/153535.png) [Treasure Hunter XVIII: Sunken Shrine (10)](https://retroachievements.org/achievement/108479)   
+_Collect all treasure in Sunken Shrine_
+
+***
+### Tombs of Amenti
+Welcome to hell: Egypt edition. The dungeon is huge, the layout is a pain, you have tons of crystal platforming to perform to reach high chest or map big rooms. You have some rooms that requires you to jump blindly onto the tip of a couple of pixel large platform to progress. You have a boss with unique voice lines and a unique entry in the voice collection so you probably should make the fight last as long as you can to attempt to collect as many sample as possible. Enjoy ! The pieces of advice I have for progression are the following:
+* When you enter a room with a giant Pharaoh head pushing you back, you can break their lower part to slide under
+* There is a room with two spike platform coming toward you slowly, blocking your passage. You can hit with your sword the lower one to make it stop and progress
+* Once you get the dungeon's jewel, you get trapped in the room. To exit, throw a broken crystal piece on the pedestal Indiana Jones style. 
+
+![](https://media.retroachievements.org/Badge/153548.png) [Boss XXIII (10)](https://retroachievements.org/achievement/108491)   
+_Defeat Akhetamen and Undead Slaves in Tombs of Amenti_
+
+![](https://media.retroachievements.org/Badge/153549.png) [Explorer XX: Tombs of Amenti (25)](https://retroachievements.org/achievement/108492)   
+_Completely map Tombs of Amenti_
+
+![](https://media.retroachievements.org/Badge/153550.png) [Treasure Hunter XX: Tombs of Amenti (25)](https://retroachievements.org/achievement/108493)   
+_Collect all treasure in Tombs of Amenti_
+
+***
+### Arianrod Labyrinth
+It's not called a Labyrinth for nothing ! The way it work is that each rooms have 1 or 2 machine with a number on it. Addition those numbers and the result indicate which room the teleporter will sent you two. When instead of a number the second machine is an operation, apply it to the first number. You can interact with every machine to switch between two possible positions. 
+
+Here are my notes on which rooms are needed to get to which numbers. The way to read it is Room Number you want to reach > Room Number that can send you there.
+For example
+A > B C F G
+Indicate that you can reach Room A through the teleporter of rooms B, C, F and G.
+* 2 > 22				
+* 3 > 1 7 9			
+* 4 > 6				
+* 5 > 3 13			
+* 6 > 7				
+* 7 > 5 14			
+* 8 > 10 15			
+* 9 > 2 8 20			
+* 10 > 1 11 19		
+* 11 > 6				
+* 12 > 13 17 21		
+* 13 > 4 10 12 21		
+* 14 > 6 12 19		
+* 15 > 11 17 24		
+* 16 > 3 18			
+* 17 > 11				
+* 18 > 8 11 18 22	
+* 19 > 15				
+* 20 > 2 17 18		
+* 21 > 6 14			
+* 22 > 18				
+* 23 > 4 				
+* 24 > 3 20			
+* 25 > 17		
+
+Treasure chests are present in the rooms 1, 8, 11, 13, 14, 21 and 25 (the boss room). Be careful to not get knocked into the teleporter from an explosive trap !
+
+![](https://media.retroachievements.org/Badge/153557.png) [Boss XXV (10)](https://retroachievements.org/achievement/108501)   
+_Defeat Dark Lord and ''Vallan'' Demons in Arianrod Labyrinth_
+
+![](https://media.retroachievements.org/Badge/153558.png) [Explorer XXII: Arianrod Labyrinth (25)](https://retroachievements.org/achievement/108502)   
+_Completely map Arianrod Labyrinth_
+
+![](https://media.retroachievements.org/Badge/153559.png) [Treasure Hunter XXII: Arianrod Labyrinth (10)](https://retroachievements.org/achievement/108503)   
+_Collect all treasure in Arianrod Labyrinth_
+
+***
+### Celestial Castle
+For the last of the hard mode dungeon, this is a very annoying one. While most of the exploration is standard, you have two big rooms which are hanging garden. If you fall from there, you get back immediately to the world map. And of course those two rooms are full of chests that are rigged to explode, on platform where you have almost no room to move. While you have a lot of free time in Chapter 8 and could do a couple of retry without a sweat my recommendation is just to reload your save just before entering the dungeon if you get booted out, except if you managed to open some of the more annoying chests. Other that those rooms it's not very difficult to navigate, some crystal tower will be needed for the end of the map completion. Don't forget to bring Jayle in your party against the boss for the [m] achievement.
+
+![](https://media.retroachievements.org/Badge/153557.png) [Boss XXVI (10)](https://retroachievements.org/achievement/108501)   
+_Defeat Genevieve and Daemonic Barons in Celestial Castle_
+* Genevieve is another boss with a Voice completion profile, so as always you might want to make the fight last longer than necessary to get some extra samples. 
+
+![](https://media.retroachievements.org/Badge/153557.png) [Revenge From Beyond Death IV [m] (2)](https://retroachievements.org/achievement/108501)   
+_Defeat Genevieve and Daemonic Barons in Celestial Castle with Jayle in party_
+
+![](https://media.retroachievements.org/Badge/153558.png) [Explorer XXIII: Celestial Castle (25)](https://retroachievements.org/achievement/108502)   
+_Completely map Celestial Castle_
+
+![](https://media.retroachievements.org/Badge/153559.png) [Treasure Hunter XXIII: Celestial Castle (10)](https://retroachievements.org/achievement/108503)   
+_Collect all treasure in Celestial Castle_
+
+***
+### Asgard Hill
+The final sprint to the finish line ! Once you have finish your preparation just visit the Weeping Lilly Meadow and follow the story up until that point. Compared to the B ending final dungeon this is just a straight line to the end. Kill the bosses, including our old pal Bloodbane, kick Loki's ass and witness Lenneth get bonkers powers. It end with a bit of a tease for Valkyrie Profile 2 but don't get too excited about it as the gameplay is quite different. 
+
+![](https://media.retroachievements.org/Badge/153569.png) [Boss XXIX (25)](https://retroachievements.org/achievement/108501)   
+_Defeat Bloodbane in Asgard Hill_
+
+![](https://media.retroachievements.org/Badge/153570.png) [Boss XXX (10)](https://retroachievements.org/achievement/108501)   
+_Defeat Fenrir in Asgard Hill_
+* If you are scared of this boss, don't be. He is weak to fire and turns out that one of the dungeon drop you should have gotten is a greatsword that one-shot enemies with that weakness. Equip Angrim with it, slap the puppy and move on.
+
+![](https://media.retroachievements.org/Badge/153571.png) [Boss XXXI (0)](https://retroachievements.org/achievement/108502)   
+_Defeat Loki in Asgard Hill_
+
+![](https://media.retroachievements.org/Badge/153572.png) [Ending A (50)](https://retroachievements.org/achievement/108503)   
+_Reach Ending A, watch credits and scene after_
 
 ## Step 3: Dummy Step 3 | **Total points: 999**
-
 ![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
 _Achievement description_
 
