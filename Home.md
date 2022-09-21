@@ -27,6 +27,8 @@ List of platforms with guides
 * [Master System](https://github.com/RetroAchievements/guides/wiki/Master-System)
 * [Genesis/Mega Drive](Mega-Drive)
 * [Game Gear](Game-Gear)
+* [Saturn](Saturn)
+
 
 ### Atari
 * [Atari 2600](Atari-2600)
