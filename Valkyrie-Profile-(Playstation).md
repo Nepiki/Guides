@@ -1,4 +1,4 @@
-## The guide /!\ WIP /!\
+## The guide
 
 Written by [Sines](https://retroachievements.org/user/Sines), don't hesitate to ping me if you see mistakes in this guide. 
 
@@ -93,6 +93,13 @@ As briefly touched upon before, Valkyrie Profile difficulty is a bit wonky once 
 
 For this route, no seemingly random requirement to worry about: enjoy the dungeons, familiarize yourself with the game, send one or two Einherjar per chapter to please Freya and it should be a straight line to Jotunheim.
 
+Before we even start the game:
+
+![](https://media.retroachievements.org/Badge/153436.png) [Prologue (0)](https://retroachievements.org/achievement/108381)  
+_Watch the Prologue_
+* Wait on the Start screen or manually select the Prologue option, watch all of it and you will get this achievement
+
+***
 ### Artolian Mountain Ruins
 Baby's first dungeon and the tutorial, you should have no trouble here. One item you can find here is the Treasure Search accessories which will make a small blue light appears around Lenneth when she is in a room with unopened treasures. Quite useful if you're playing blind.
 
@@ -105,7 +112,16 @@ _Completely map Artolian Mountain Ruins_
 ![](https://media.retroachievements.org/Badge/153440.png) [Treasure Hunter I: Artolian Mountain Ruins (5)](https://retroachievements.org/achievement/108383)   
 _Collect all treasure in Artolian Mountain Ruins_
 ***
+### Quick Interlude
 
+When you are out of the first dungeon it's a good opportunity to get the "Bad" ending, Ending C. Make a save, skip around to the end of multiple chapters (Press Start in the pause menu to skip periods) until let's say chapter 6. Go into any town and exit, Freya will be here to scold you for not doing your job properly. Skip around some more and she will get angry and attack you, triggering the Ending C.
+
+![](https://media.retroachievements.org/Badge/153573.png) [Ending C (0)](https://retroachievements.org/achievement/108517)   
+_Reach Ending C_
+
+Reload your save and continue where we left off
+
+***
 ### Forest of Woe
 
 Still the early game, if you use the Treasure Search accessories it can be a bit hard to see it trigger due to the snow effect. It's also where the game start the trend of hiding chests behind the foreground so don't forget to check those areas. I wont repeat it later because it will always work the same but this is also likely the first instance where you need to stack broken pieces/empty chests on top of a big crystal to be able to reach enough height to fully map the boss room.
@@ -375,11 +391,20 @@ The only potentially hard part is to manipulate your seal rating. Here's what yo
 * Do all the Spiritual concentration and character recruitments of Chapter 4. Number of recruitable unit is rng based but don't matter, you likely want to keep Lorenta for last as you need to clear the dungeon just after.
 * Clear the Tower of Lezard Valeth
 * Visit Gerabellum where you will have a cinematic of getting stoned. Not the good kind.
+
+![](https://media.retroachievements.org/Badge/153462.png) [Crimson Jealousy of Silver (1)](https://retroachievements.org/achievement/108407)   
+_Witness scene in Gerabellum_
 * Visit Weeping Lilly Meadow and kill the lingering spirits in the cinematic.
+
+![](https://media.retroachievements.org/Badge/153446.png) [Solitary Gravestone (1)](https://retroachievements.org/achievement/108391)   
+_Witness scene in Weeping Lily Meadow_
 * Go the Brahms Castle, talk to him and refuse to fight. 
 * Before ending the chapter you should remove the Nibelungen Ring on Valkyrie. At the start of chapter 5 you should be around 40 seal value depending on how many characters you recruited.
 * In Chapter 5 recruit Mystina and Lucian, you should have single digit Seal value now.
 * Make sure to send Lucian to Valhalla before the end of Chapter 6. Sending someone will raise your seal value by +12 per character sent, but recruiting someone is a -2 so it should balance out with the remaining warriors, especially if you dont re-equip the Nibelungen Ring.
+
+![](https://media.retroachievements.org/Badge/153516.png) [Lingering Doubts (3)](https://retroachievements.org/achievement/108461)   
+_Witness Lucian transfer scene_
 * It's true for all of the game but mostly relevant for us past chapter 4, you can get away with only sending one warrior per chapter to Valhalla (or even none at all in some chapters). Keep the Seal value in mind but the hard part should be over now.
 * As said above, you know you are good to go when you see Loki killing Lucian and the Chapter 8 guiding you toward Weeping Lilly Meadow. 
 
@@ -609,3 +634,442 @@ _Completely map Seraphic Gate_
 _Collect all treasure in Seraphic Gate_
 
 ## Step 4: Misc
+
+This section is for all the other achievements. I'll organize them in subcategories so everything should be neatly filed.
+
+### People to meet
+All the recruitment achievement bar one are obvious and require no guides.
+
+![](https://media.retroachievements.org/Badge/153437.png) 
+![](https://media.retroachievements.org/Badge/153442.png) 
+![](https://media.retroachievements.org/Badge/153444.png) 
+![](https://media.retroachievements.org/Badge/153454.png) 
+![](https://media.retroachievements.org/Badge/153455.png) 
+![](https://media.retroachievements.org/Badge/153457.png) 
+![](https://media.retroachievements.org/Badge/153458.png) 
+![](https://media.retroachievements.org/Badge/153460.png) 
+![](https://media.retroachievements.org/Badge/153474.png) 
+![](https://media.retroachievements.org/Badge/153493.png) 
+![](https://media.retroachievements.org/Badge/153494.png) 
+![](https://media.retroachievements.org/Badge/153510.png) 
+![](https://media.retroachievements.org/Badge/153512.png) 
+![](https://media.retroachievements.org/Badge/153513.png) 
+![](https://media.retroachievements.org/Badge/153514.png) 
+![](https://media.retroachievements.org/Badge/153515.png) 
+![](https://media.retroachievements.org/Badge/153517.png) 
+![](https://media.retroachievements.org/Badge/153539.png)
+ 
+![](https://media.retroachievements.org/Badge/153540.png) [Unsealing of a Frozen Prophet (5)](https://retroachievements.org/achievement/108483)   
+_Recruit Lyseria_
+* Only recruitment that is not obvious, you need to go back to the boss room in Arkdain Ruins and interact with her crystal. After a short battle with her, she will join your party. Make sure no matter what to never send her to Valhalla: due to a bug you wont get her back for use in the postgame if you did so.
+
+***
+### Places to be
+Again, getting the bonus items is as complicated as reading the achievement description, no guide required.
+
+![](https://media.retroachievements.org/Badge/153441.png)
+![](https://media.retroachievements.org/Badge/153443.png)
+![](https://media.retroachievements.org/Badge/153445.png)
+![](https://media.retroachievements.org/Badge/153456.png)
+![](https://media.retroachievements.org/Badge/153459.png)
+![](https://media.retroachievements.org/Badge/153461.png)
+![](https://media.retroachievements.org/Badge/153475.png)
+![](https://media.retroachievements.org/Badge/153511.png)
+![](https://media.retroachievements.org/Badge/153518.png)
+![](https://media.retroachievements.org/Badge/153539.png)
+
+***
+### Pleasing Mommy Freya
+Turns out it's not very difficult to please Freya as long as we follow her Amazon whishlist of warriors. I personally never had to take into account the technical gain/loss of points from sending Artifacts or not to Odin. You can even get her to be impressed by sending a single warrior, but if you want to make sure you could send two at the same times. If you are not sure, don't hesitate to save beforehand and try something else in case of failure. Make sure whoever you send is fully equipped to make sure he doesn't die during the transfer. You also can buy in the Divine Item menu some misc equitable that boost skills or even grant skills not otherwise accessible like Swimmer or Negociator.
+
+![](https://media.retroachievements.org/Badge/153453.png) [Diligent Goddess I (5)](https://retroachievements.org/achievement/108398)   
+_Have Freya satisfied with your progress during Sacred Phase 1-2_
+* Send a warrior with at least 40 Hero Value. Not a lot of choices, I tend to send Belenus.
+
+![](https://media.retroachievements.org/Badge/153473.png) [Diligent Goddess II (10)](https://retroachievements.org/achievement/108418)   
+_Have Freya greatly impressed with your progress during Sacred Phase 2-3_
+* Send a warrior with at least 50 Hero Value. Must know the skills Identify, Leadership and Tactics. 
+
+![](https://media.retroachievements.org/Badge/153492.png) [Diligent Goddess III (10)](https://retroachievements.org/achievement/108437)   
+_Have Freya greatly impressed with your progress during Sacred Phase 3-4_
+* Send an Archer with at least 65 Hero Value. Must know the skills Survival and Find Trap. I usually save Llewelyn for this as Janus is the best Archer in the game, he should have enough Hero Value by level 15 if you max his traits.
+
+![](https://media.retroachievements.org/Badge/153509.png) [Diligent Goddess IV (10)](https://retroachievements.org/achievement/108454)   
+_Have Freya greatly impressed with your progress during Sacred Phase 4-5_
+* Send a warrior with at least 80 Hero Value. Must know the skills Hear Noise, Trick and Demon Int, must have the Angel Lips item equipped.
+
+![](https://media.retroachievements.org/Badge/153526.png) [Diligent Goddess V (10)](https://retroachievements.org/achievement/108470)   
+_Have Freya greatly impressed with your progress during Sacred Phase 5-6_
+* Send a warrior with at least 90 Hero Value. Must know the skills Attack Power, March, Resist Damage and Defend. Must know Swimmer (Yumei) or have the Pearl of Karula item equipped. Requirement obviously point towards Yumei but because Freya want Attack Power that mean you also need to send a Warrior or Archer.
+
+![](https://media.retroachievements.org/Badge/153537.png) [Diligent Goddess VI (10)](https://retroachievements.org/achievement/108480)   
+_Have Freya greatly impressed with your progress during Sacred Phase 6-7_
+* Send a warrior with at least 100 Hero Value. Must know the skills Hit and Monster Hit, must have the item Flame Bandana equipped
+
+![](https://media.retroachievements.org/Badge/153552.png) [Diligent Goddess VII (10)](https://retroachievements.org/achievement/108496)   
+_Have Freya greatly impressed with your progress during Sacred Phase 7-8_
+* Send a Mage with at least 110 Hero Value. Must know the skills Avoid, Resist Magic and Undead Intelligence. While tempting it's a bad idea to send Lyseria because she is bugged: if sent off you will not get her back in the postgame.
+
+***
+### Unique Dialogues
+
+There are a few combination of warriors you can send to Valhalla that will have unique dialogues during the Sacred Phase. While on paper it shouldn't matter if you sent them both at the same time or not, I had some difficulty in having those discussion trigger. My recommendation to be safe is to wait until you have both the characters needed, make a save before spending points on their traits and then send them. That way if something doesnt work you can try to change your timing slightly to see if it change.
+The Lawfer / Kashell dialogue was no issue but that's the only way I managed to make Badrach / Jelanda and Suo/Shiho work. I got all of those achievement while the characters had maxed their traits.
+
+![](https://media.retroachievements.org/Badge/153491.png) [Lawfer and Kashell [m] (5)](https://retroachievements.org/achievement/108436)   
+_Witness conversation between Lawfer and Kashell in Sacred Phase 3-4_
+
+![](https://media.retroachievements.org/Badge/153536.png) [Badrach and Jelanda [m] (5)](https://retroachievements.org/achievement/108494)   
+_Witness conversation between Badrach and Jelanda in Sacred Phase 6-7 or 7-8_
+
+![](https://media.retroachievements.org/Badge/153551.png) [Suo and Shiho [m] (5)](https://retroachievements.org/achievement/108495)   
+_Witness conversation between Suo and Shiho in Sacred Phase 7-8_
+
+***
+### Misc Fighting
+The achievements related to fighting.
+
+![](https://media.retroachievements.org/Badge/153583.png) [Educated [m] (10)](https://retroachievements.org/achievement/108525)   
+_Learn all 31 possible extra skills_
+* I don't know if it's possible to get this achievement in Normal mode, I planned it around the Hard mode run. The following is the full list of the 31 skills needed for this achievement, obtainable through dungeon drop and transmutation. You will likely get some earlier due to the Sacred Phase rewards which I had not taken into consideration when initially routing it.
+
+Chapter 1 | 
+* Solde Catacombs: Attack Pow, Avoid, Magic Pow 3/31
+
+Chapter 2 |
+* Nethov Swamps: Cure Condition, Charge, Wait Reaction 6/31
+* Salerno Academy: Slanting Rain  7/31
+
+Chapter 3 | 
+* Brahms Castle: Throw, Combo Counter 9/31
+* Clockwork Mansion: Guts, Adept Illusion, Trick Step, Defend 13/31
+
+Chapter 4 | 
+* Cave of Thackus: Strike Edge 14/31 
+* Dark Tower of Xervah: Auto-item, Noise Arrow, Hit  17/31 
+* Tower of Lezard Valeth: Dancing Sword, Splash 19/31 
+
+Chapter 5 | 
+* Arkdain Ruins: Stun Magic, Dark, Darkness Arrow, Resist Dmg, Resist Magic 24/31 
+
+Chapter 6 | 
+* Lost City of Dipan: Triple Distress, Concentration 26/31
+
+* Sunken Shrine: Charge 2, Dark 2 26/31
+
+Chapter 7 | 
+* Tombs of Amenti: Darkness Arrow 2, Resist Magic 2 26/31
+
+Chapter 8 | 
+* Celestial Castle: Concentration 2 26/31
+
+Transmutation | 
+* Last Trial: Transmute Lapis Lazuli (L3) > Found in Artolian Montain Ruin, Brahms Castle
+* Reverie: Transmute Dark (L3) > Transmute second Dark from Sunken Shrine
+* Scarlet Edge: Transmute Quartz Gem (L3) > Transmute Quartz Gem from Nethov Swamp
+* False Arrow: Transmute Darkness Arrow (L3) > Darkness Arrow 2 from Tombs of Amenti
+* Mental Reaction: Transmute Concentration (L3) > Concentration 2 from Celestial Castle
+
+
+![](https://media.retroachievements.org/Badge/153586.png)
+![](https://media.retroachievements.org/Badge/153587.png)
+![](https://media.retroachievements.org/Badge/153588.png) [Triple Experience (10)](https://retroachievements.org/achievement/108530)   
+_Knock out 40 Magic Gems in a single battle_
+
+![](https://media.retroachievements.org/Badge/153589.png)
+![](https://media.retroachievements.org/Badge/153590.png)
+![](https://media.retroachievements.org/Badge/153591.png) [Horn of Plenty III (10)](https://retroachievements.org/achievement/108533)   
+_Knock out 4 War Throphies in a single battle_
+
+* The trick for those achievements is to launch the enemy in the air and continue hitting him before he touch the ground. A good team for that is Valkyrie / Badrach / Lucian / Any mage (or Janus). If you are killing your enemies before having enough, you can wait for Chapter 8 / Postgame dungeon and equip really weak weapons to make the fight last longer.
+
+![](https://media.retroachievements.org/Badge/153592.png) [Great Teamwork (5)](https://retroachievements.org/achievement/108534)   
+_Perform 4 PWS in row_
+* You will likely get this very early on, just need to understand how your team PWS works. Each subsequent PWS start at a lower gauge than the previous so you need to start with the special generating the lowest hits and move up.
+
+![](https://media.retroachievements.org/Badge/153593.png)
+![](https://media.retroachievements.org/Badge/153594.png)
+![](https://media.retroachievements.org/Badge/153595.png) [Maximum Combo (10)](https://retroachievements.org/achievement/108537)   
+_Reach 99 hits_
+* Easy way to reach 99 hits is to wait for Chapter 8 / Postgame. Create a team of 1 Valkyrie and 3 Mages, equip them all with a rod able to cast Great Magic and assign Mystic Cross to them. Find a group with 4 enemies, attack the first one with everyone and then combo PWS Valkyrie > Mage 1 > Mage 2 > Mage 3. You will easily reach 99 hits that way.
+
+![](https://media.retroachievements.org/Badge/153608.png) [Untimely Death (3)](https://retroachievements.org/achievement/108550)   
+_Have an enemy die on its turn (due to skill, spell, artifact or bad status effect)_
+* Another achievement you likely got early on. Easiest way to trigger is either through Poison (Poison Blow magic or using Janus attacks) or Counterattack (Counter skills for 20CP).
+***
+### Misc Magic
+Technically some of them could be missable if you used your magic tome like crazy and are now missing some, as you cant farm every one in the Seraphic Gate. Simply trigger a PWS chain and let your mage cast the respective spell while having equipped a rod capable of Great Magic.
+
+![](https://media.retroachievements.org/Badge/153596.png)
+![](https://media.retroachievements.org/Badge/153597.png)
+![](https://media.retroachievements.org/Badge/153598.png)
+![](https://media.retroachievements.org/Badge/153599.png)
+![](https://media.retroachievements.org/Badge/153600.png)
+![](https://media.retroachievements.org/Badge/153601.png)
+![](https://media.retroachievements.org/Badge/153602.png)
+![](https://media.retroachievements.org/Badge/153603.png)
+![](https://media.retroachievements.org/Badge/153604.png)
+![](https://media.retroachievements.org/Badge/153605.png)
+![](https://media.retroachievements.org/Badge/153606.png)
+![](https://media.retroachievements.org/Badge/153607.png)
+
+As a quick recap and far from being an exhaustive list of drop:
+* Fire Storm > Ifrit's Caress | 
+	Palace of the Dragon (Chp8)
+
+* Fire Lance > Calamity Blast | 
+	Solde Catacombs (Chp1)
+
+* Mystic Cross > Celestial Star | 
+	Lost City of Dipan (Chp6),
+	Forest of Spirits (Chp7),
+	Tombs of Amenti (Chp7)
+
+* Sacred Javelin > Seraphic Law | 
+	Sunken Shrine (Chp6),
+	Forest of Spirits (Chp7),
+	Palace of the Dragon (Chp8)
+
+* Poison Blow > Petro Disruption | 
+	Dark Tower of Xervah x2 (Chp4)
+
+* Stone Torch > Carnage Anthem | 
+	Brahms Castle (Chp3),
+	Citadel of Flame (Chp5)
+
+* Icicle Edge > Crystal Strike | 
+	Salerno Academy (Chp2),
+	Tower of Lezard Valeth (Chp4)
+
+* Frigid Damsel > Absolute Zero | 
+	Solde Catacombs (Chp1),
+	Tower of Lezard Valeth (Chp4),
+	Palace of the Dragon (Chp8)
+
+* Shadow Servant > Meteor Swarm | 
+	Nethov Swamp x2 (Chp2),
+	Citadel of Flame (Chp5)
+
+* Dark Savior > Cosmic Spear | 
+	Citadel of Flame (Chp5),
+	Lost City of Dipan (Chp6)
+
+* Lightning Bolt > Dragon Bolt | 
+	Dark tower of Xervah (Chp4),
+	Palace of the Dragon (Chp8)
+
+* Prismatic Missile > Gravity Blessing | 
+	Sunken Shrine (Chp6),
+	Palace of the Dragon (Chp8)
+***
+### Voice
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10129191/191613752-9df93512-90d4-425b-94a8-d0478014fc9a.png" />
+</p>
+
+Ok, nobody panic, this is it. The big Grind, capital G. This right here is where you will spend the most time outside of the story mode. 
+
+![](https://media.retroachievements.org/Badge/153609.png) [Voices (50)](https://retroachievements.org/achievement/108551)   
+_Complete 100% voice collection (enter Voice Collection in Sound Mode)_
+
+There's a few things to know right from the start. The first is that you don't really need to get 100% voice completion. Oh sure the achievement triggers when 100% is displayed, but you ? You ""only"" need to achieve 95%, the game will give you the remaining 5% for free. And trust me, it's a mercy. I don't have the exact number of voice lines needed for the trigger, but for info I was missing around 50 lines in total when I got the 95%, which should cover most of the Boss Story mode only samples.
+
+The second important thing to know is that how the game knows you got a voice sample is based on your save data. Let's say you have an original Save 0. You load it, teach Jelanda Mystic Cross and cast it during battle, unlocking the voice sample. After that you make a new save, Save 1. You go back to Save 0 and repeat the same thing but with Yumei instead and create yet another save, Save 2. Now in the voice completion you will have both Jelanda and Yumei voice sample for Mystic Cross unlock, but if you erase one of the save the voice sample will also get removed.
+
+While there should be little risk of deleting voice completion progress as you likely have a "main" Save 1 for Normal Mode Ending B and a Save 2 for Hard Mode Ending A, that mean that we will be able to abuse that a bit when it come to Mages voice samples. The thing is, it is hard to grind in Valkyrie Profile. Your time is limited, enemies aren't spawning infinitely, you don't always have access to team synergy that allows you to farm for chest etc. But, if you mostly used your default abilities on your mage, only teach Magics of which you have at least 1 remaining sample and looted every chest in the game that mean that you should have **at the very least** 1 exemplar of every magic tome in the game. As long as this is the case, worst case scenario we will be able to create one specific save for every mage to grind for their voice samples.
+
+So let's get started !
+For easily identify what you are missing, check on the Voice Collection gamefaq guide that transcript every lines: https://gamefaqs.gamespot.com/ps/199175-valkyrie-profile/faqs/27006
+
+My recommendation is to be methodical about the grind, to reduce the backtracking. Because we might need to make additional saves later for mages, I recommend making a solid "main" saves with all of the non-mages at 100% and most of the Bosses sample. Rather than go through every characters individually, let's look at what type of sample we need and what's the best way to grind for it:
+
+**Battle Intro**: Usually 4, 1 against strong enemies, 2 for same level and 1 for weak enemies. 
+* In the Seraphic Gate, most of the time you will be considered "Weak" and so will trigger Sample 1. If it's not the right character that said the line, simply flee and try another battle. 
+* There is a battle in the first Section of Seraphic Gate against an Anemone and two Bream Giants. They are represented by a teleporting skull and are in a hallway next to a Disaster Eye. When you fight this group if your total party level is between 200 and 210, you will be "same level" and can trigger samples 2 and 3. This usually meant for me that I had to level up the character I was grinding sample for around lv 30 as in endgame I had a strong core of Valkyrie / 1 Mage / Lezard. You might need to grind your core party first, but you will only need it the first time and after can re-use this formation for future characters.
+* The last one against weak enemies can be triggered by using the Practice option (Menu > Party > Practice). There you will always be considered Strong so it's just a matter of starting the battle until the right characters talk.
+
+**PWS Moves**: 3 parts, when you use your PWS, when you kill an enemy with it and when the enemy survives
+* You likely already got the PWS line for everyone by endgame but if not it should take less than a minute to trigger it
+* Lines for killing an enemy with your PWS are RNG, find a weak enemy and kill it by doing a combo with everyone, launch your PWS and hope RNG's on your side
+* For the last part you can again use Practice mode. The enemy here is invincible and will never do any damage to you so you can launch your special attack again and again until you have every samples.
+
+**Battle ends**: No specific tips here, just grind battles until RNG decide to give you the samples you need.
+
+**Attack**: Equip a 3-hit weapon and blast the Practice mode zombie for a couple of rounds
+
+**Hit**: See counter, as you will need to get hit a lot
+
+**Counter**: The worst of the lines. What I've observed through my grind is that the Counter line you get is fixed per battle. If on the first counter attack your character say the counter line 1, it will ALWAYS be counter line 1. Due to that it's the most painful as you not only need the counter attack to get available but you also need the right RNG to get the sample you are looking for. You will have to get hit so much that it's guaranteed that you will get all your Hit and Death quote.
+* Setup: I was putting the character I was grinding sample for in the front line (Square button) and Valkyrie in the backline (Circle button), no one assigned to the other two. 
+* Make sure the Counter skill is unlocked, equip the Aleph armor, buy a Stun Check if you dont have any and equip it as well (prevent Faint status). 
+* Set up with Guts and Auto-Item on max level. 
+* In the very first room of Seraphic Gate after the save point you have to enemy groups: one with 2 murlocs and one with 3. The tactic was to let them hit you until you can counter, check which sample you got and flee to another battle. 
+* If the sample is one you already got, flee again. After removing those two groups simply re-enter the corridor and do it again. 
+* After that it's just you bashing your head against the RNG wall, good luck.
+
+**Death**: Even if you revive through auto-item, the sample still count. For your warriors you will likely get them while grinding for Counter samples, for Mages put them naked on the front line and let them die.
+
+**Boss Battles**: You have quite a few of bosses that have unique profile in the Voice completion file. Most if not all of them have lines that can only be heard during their story mode fight, which I tried to indicate in every instance, but it's not that big of a deal if you are missing some due to the 95% requirement. On the other hand you have some boss where you can absolutely farm every samples in the Seraphic Gate:
+* Iseria Queen, the last boss of the dungeon
+* Gabriel Celeste, the boss fight in the Third (green) zone
+* Giant Lord, the Seraphic Gate version of Surt. This is the only place where you can add his samples to your file as you cant save after his story mode fight. 
+* Loki Shade, the Seraphic Gate version of Loki. Same deal as Surt. He seems to be very against the idea of using his regular magic attacks against you so dont worry if you cant seem to trigger those.
+* Dark Valkyrie, the Seraphic Gate version of Hrist. It seems to me that it's the only place where you can hear her version of Nibelung Valesti, but I could be wrong.
+
+**Magic**: Mages profile seems huge but every offensive spell actually cover 3 samples at once so it's not that bad. The idea is to go through the full list of spells and cast every Great Magic at least once. It's not very difficult but a bit tedious. If you don't have enough books to teach every spells to all of your mages (which is likely if you haven't specifically grinded for it during the story mode) you can "branch" off your main file by creating new saves for specific mages. For most spells you can (and I'd recommend) use the Practice mode. For Invoke Feather you need to have a dead ally to resurrect so turn off your team's Guts and Auto-Item. Normalize cure status ailments including Faint, which the murlocs in the first room of Seraphic Gate seems to have a very high chance of inflicting. To be exhaustive here's the full list of spell you need to cast (and the Great Magic version for offensive spells)
+* Fire Lance | Calamity Blast
+* Fire Storm | Ifrit Caress
+* Icicle Edge | Crystal Strike
+* Frigid Damsel | Absolute Zero
+* Lightning Bolt | Dragon Bolt
+* Prismatic Missile | Gravity Blessing
+* Shadow Servant | Meteor Swarm
+* Dark Savior | Cosmic Spear
+* Poison Blow | Petro Disruption (best animation btw)
+* Stone Torch | Carnage Anthem
+* Mystic Cross | Celestial Star
+* Sacred Javelin | Seraphic Law
+* Invoke Feather
+* Heal
+* Normalize
+* Might Reinforce
+* Guard Reinforce
+* Spell Reinforce
+* Sap Power
+* Sap Guard
+* Dampen Magic
+* Reflect Sorcery
+* Shield Critical
+***
+### Addendum 1: Transmutation
+L1: Base
+
+L2: Creation Gem > Tower of Lezard Valeth
+
+L3: Creation Jewel > L2 Transmute "Fairy Bottle"/"Manual of Resurrection" to "Orihalcon". L2 Transmute "Orihalcon" to "Creation Jewel"
+
+***
+### Addendum 2: Artifact Checklist
+Wondering what you should send to Odin and what you should keep ? I'm not claiming to be the absolute truth, but here are my recommendation for every Artifacts.
+
+
+Chapter 0 |
+
+Artolian Mountain Ruins :
+- Sacred Box --> send it
+- Jewelled Blade "Grimrist" --> keep it
+
+
+Chapter 1 |
+
+Solde Catacombs :
+- Secret of Damascus --> send it
+- Crown of Felmar --> send it
+- Emerald Necklace --> keep it 
+
+Forest of Woe :
+- Extreme Guard --> keep it
+- Phoenix Feather --> send it
+
+
+Chapter 2 |
+
+Dragoncastle Caverns :
+- Spear "Dark Angel" --> send it
+- Scarlet Lotus Sword --> send it
+
+Nethov Swamp :
+- Bark of the Dryad --> keep it (can later be transmuted the Dimension Slip accessory that allow you to phase through enemies)
+- Inscribed Fragment --> send it
+
+Salerno Academy :
+- Faim Fenn --> keep it
+- Holy Grail --> keep it
+- Tiara of the Holy Empress --> send it
+
+
+Chapter 3 |
+
+Oddrock Caves:
+- Grand Sting --> keep it
+- Golden Fowl --> keep it
+
+Gorhia Cult HQ :
+- Incense Burner of Darlis --> send it
+- Gaygoyle Statue --> send it
+
+Clockwork Mansion:
+- Mirage Robe --> keep it
+- Mirror of Pleiades --> send it
+
+
+Chapter 4 |
+
+Black Dream Tower :
+- Bewitching Statue --> send it
+- Fairy Bottle --> keep it (to change into Creation Jewel)
+
+Cave of Thackus :
+- Bracelet of Zoe --> keep it (important, HP + 300 per level up)
+- Coin of Fortune --> keep it (important, EXP + 60%)
+
+Dark Tower of Xervah:
+- Holy Sword "Seraphy" --> send it
+- Manual of Ressurection --> keep it (to change into Creation Jewel)
+- Spear "Basilisk" --> keep it
+
+
+Chapter 5 |
+
+Arkdain Ruins :
+- Holy Wand "Adventia" --> keep it
+- Robe of Bryttain --> keep it
+- Star Guard --> keep it
+
+Citadel of Flame :
+- Holy Water of Mithra --> send it
+- Inferna --> keep it (Can oneshot the 2nd to last boss)
+- Eternal Lamp --> keep it
+
+Chapter 6 |
+
+Lost City of Dipan :
+- Dragoon Tyrant --> keep it
+- Rust-Red Circlet --> send it
+
+Sunken Shrine :
+- Reflect Armor --> keep it
+- Slashing Sword "Farewell" --> keep it
+- Tear of the Cosmos --> send it
+
+Chapter 7 |
+
+
+Forest of Spirits :
+- Accursed Flame Gem --> send it
+- Arectaris --> keep it
+- Elven Bow --> keep it (Very good 3-Hit bows and unbreakable)
+
+Tombs of Amenti :
+- Richebourg --> send it
+- Mask of the Dead King --> keep it
+- Ambrosia --> keep it
+- Ruby Music Box --> send it
+- Bracelet of Basilisk --> send it
+
+Chapter 8 |
+
+Palace of the Dragon :
+- Dragoon Faith --> keep it
+- Scroll of Golem --> send it
+- Hourglass of the Gods --> send it
+
+Celestial Castle :
+- Armor of Aleph --> keep it
+- Harp of Atrasia --> send it
+- Berserker Bow --> keep it
+
+Labyrinth of Arianrod :
+- Secrets of Zolon --> send it
+- Shadzard --> keep it
+- Unicorn's Horn --> keep it
