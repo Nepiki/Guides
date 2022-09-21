@@ -33,6 +33,8 @@ List of platforms with guides
 
 ### Sony
 * [PlayStation](PlayStation)
+* [PlayStation Portable](PlayStation-Portable)
+
 
 ### NEC
 * [PC Engine](PC-Engine)
