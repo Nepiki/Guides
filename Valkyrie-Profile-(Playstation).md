@@ -42,13 +42,13 @@ Now that you are familiar with the game, this should be a breeze to go through f
 
 ***
 
-[**Step 3: Postgame**](#step-3-dummy-step-3--total-points-999)
+[**Step 3: Postgame**](#step-3-postgame)
 
 This last step will cover the postgame, unlocked by having a save in the last dungeon of the respective ending. Called the Seraphic Gate, you will have to run through it once for the usual map/treasure/boss completion achievements, find a couple of bonus fight and this is also where you will have to engage the biggest grind of the game to unlock 100% Voice clip completion. 
 
 ***
 
-[**Step 4: Misc**](#step-3-dummy-step-3--total-points-999)
+[**Step 4: Misc**](#step-4-misc)
 
 For all the other non-story specific achievements that can (and in majority will) get unlocked long before you finish the game. Most are fairly obvious, some require a bit of game knowledge and I'll share my tips to ease the grind for the Voices achievement.
 
@@ -426,13 +426,13 @@ _Collect all treasure in Clockwork Mansion_
 ### Dark Tower of Xervah
 This dungeon is a breezed compared to the previous one ! You have a couple of gimmicks here. First of all you need to activate the hearts by slashing them with your sword. Once this is done the teeth trap will be activated. You have three main zones where you can fall off in one and they will each activate a different "valve", making some flesh wall traversable. You will likely be missing some of the corners of big room for map completion, even though you hit the ceiling of the bottom part. After some trial & errors I found that you need to hit the corners high enough for it to register. In order to do so you should construct a crystal pillar (big crytal + 3 broken crystals stacked up) in some of the stairs between teeth to get enough height for the jump.
 
-![](https://media.retroachievements.org/Badge/153488.png) [Boss XIV (10)](https://retroachievements.org/achievement/108433)   
+![](https://media.retroachievements.org/Badge/153506.png) [Boss XIV (10)](https://retroachievements.org/achievement/108451)   
 _Defeat Hel Servants in Dark Tower of Xervah_
 
-![](https://media.retroachievements.org/Badge/153489.png) [Explorer XIV: Dark Tower of Xervah (10)](https://retroachievements.org/achievement/108434)   
+![](https://media.retroachievements.org/Badge/153507.png) [Explorer XIV: Dark Tower of Xervah (10)](https://retroachievements.org/achievement/108452)   
 _Completely map Dark Tower of Xervah_
 
-![](https://media.retroachievements.org/Badge/153490.png) [Treasure Hunter XIV: Dark Tower of Xervah (10)](https://retroachievements.org/achievement/108435)   
+![](https://media.retroachievements.org/Badge/153508.png) [Treasure Hunter XIV: Dark Tower of Xervah (10)](https://retroachievements.org/achievement/108453)   
 _Collect all treasure in Dark Tower of Xervah_
 
 ***
@@ -528,22 +528,22 @@ _Collect all treasure in Arianrod Labyrinth_
 ### Celestial Castle
 For the last of the hard mode dungeon, this is a very annoying one. While most of the exploration is standard, you have two big rooms which are hanging garden. If you fall from there, you get back immediately to the world map. And of course those two rooms are full of chests that are rigged to explode, on platform where you have almost no room to move. While you have a lot of free time in Chapter 8 and could do a couple of retry without a sweat my recommendation is just to reload your save just before entering the dungeon if you get booted out, except if you managed to open some of the more annoying chests. Other that those rooms it's not very difficult to navigate, some crystal tower will be needed for the end of the map completion. Don't forget to bring Jayle in your party against the boss for the [m] achievement.
 
-![](https://media.retroachievements.org/Badge/153557.png) [Boss XXVI (10)](https://retroachievements.org/achievement/108501)   
+![](https://media.retroachievements.org/Badge/153560.png) [Boss XXVI (10)](https://retroachievements.org/achievement/108504)   
 _Defeat Genevieve and Daemonic Barons in Celestial Castle_
 * Genevieve is another boss with a Voice completion profile, so as always you might want to make the fight last longer than necessary to get some extra samples. 
 
-![](https://media.retroachievements.org/Badge/153557.png) [Revenge From Beyond Death IV [m] (2)](https://retroachievements.org/achievement/108501)   
+![](https://media.retroachievements.org/Badge/153561.png) [Revenge From Beyond Death IV [m] (2)](https://retroachievements.org/achievement/108505)   
 _Defeat Genevieve and Daemonic Barons in Celestial Castle with Jayle in party_
 
-![](https://media.retroachievements.org/Badge/153558.png) [Explorer XXIII: Celestial Castle (25)](https://retroachievements.org/achievement/108502)   
+![](https://media.retroachievements.org/Badge/153562.png) [Explorer XXIII: Celestial Castle (25)](https://retroachievements.org/achievement/108506)   
 _Completely map Celestial Castle_
 
-![](https://media.retroachievements.org/Badge/153559.png) [Treasure Hunter XXIII: Celestial Castle (10)](https://retroachievements.org/achievement/108503)   
+![](https://media.retroachievements.org/Badge/153563.png) [Treasure Hunter XXIII: Celestial Castle (10)](https://retroachievements.org/achievement/108507)   
 _Collect all treasure in Celestial Castle_
 
 ***
 ### Asgard Hill
-The final sprint to the finish line ! Once you have finish your preparation just visit the Weeping Lilly Meadow and follow the story up until that point. Compared to the B ending final dungeon this is just a straight line to the end. Kill the bosses, including our old pal Bloodbane, kick Loki's ass and witness Lenneth get bonkers powers. It end with a bit of a tease for Valkyrie Profile 2 but don't get too excited about it as the gameplay is quite different. 
+The final sprint to the finish line ! Once you have finished your preparation just visit the Weeping Lilly Meadow and follow the story up until that point. Compared to the B ending final dungeon this is just a straight line to the end. Kill the bosses, including our old pal Bloodbane, kick Loki's ass and witness Lenneth get bonkers powers. It end with a bit of a tease for Valkyrie Profile 2 but don't get too excited about it as the gameplay is quite different. 
 
 ![](https://media.retroachievements.org/Badge/153569.png) [Boss XXIX (25)](https://retroachievements.org/achievement/108501)   
 _Defeat Bloodbane in Asgard Hill_
@@ -558,17 +558,54 @@ _Defeat Loki in Asgard Hill_
 ![](https://media.retroachievements.org/Badge/153572.png) [Ending A (50)](https://retroachievements.org/achievement/108503)   
 _Reach Ending A, watch credits and scene after_
 
-## Step 3: Dummy Step 3 | **Total points: 999**
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
+## Step 3: Postgame
+Welcome to the Seraphic Gate, prepare yourself to spend hours in this single dungeons ! Although it wont necessarily be due to the following achievements but you'll see when we get to the Misc section. The dungeon is massive, the biggest in all of the game, but not necessarily difficult to navigate. What is a pain is that there is only a single save point at the very beginning meaning that if you want to save your boss / chest / map completion progress you will need to backtrack to the entrance. On top of that any enemy that you kill / flee from will respawn if you re-enter the room. For that reason alone I'd recommend you equip the Dimensional Slip with Valkyrie to bypass them if you don't need the exp (again, you can get it by transmuting the Dryad's Bark Artifact). Only puzzle that can be a pain is when you need to fall on a floor from high enough: to do so you need to break 2 glass panels, which stay broken even if you change room so it's not difficult. Actually they even stay broken if you reset the dungeon after having beaten the boss so you will need to do this only once !
 
-Guide for the achievement.
+Some of the doors are locked and can only be open by using a Flame Jewels but if you are using your completionist Hard mode save it should not be a problem. If you didn't get all of them before saving in the last dungeon of the story mode, some of the achievements will be unavailable hence why in the intro I said I'd argue for more [m] than what is currently tagged.
 
-***
+Once you beat the last boss and hopefully finish your dungeons achievements, don't turn off the game ! If you run back to the entrance and save, the next time you load you will be able to redo the fights against the two Angels, get more party exp and get a new useless item. While you only need to beat the dungeon once to get the Treasure Hunter achievements, technically to get the ultimate reward you need to kill the last boss 10 more times. After that you will get the ultimate sword, the Angel Slayer ! Of course by now it's utterly useless as you've already proven you had no need of it to beat the postgame...
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
+![](https://media.retroachievements.org/Badge/153574.png) [Boss XXXII (5)](https://retroachievements.org/achievement/108518)   
+_Defeat and recruit Lezard Valeth in Seraphic Gate_
+* As a mage his defense is pathetic and he should get destroyed without problem.
 
-Guide for the achievement.
+![](https://media.retroachievements.org/Badge/153575.png) [Boss XXXIII (5)](https://retroachievements.org/achievement/108519)   
+_Defeat and recruit Brahms in Seraphic Gate_
+* Brahms is powerful and can be tanky but just like in story mode he still can only kill one ally per turn. With Guts and Auto-item you wont have any problem dealing with him.
 
-***
+![](https://media.retroachievements.org/Badge/153576.png) [Boss XXXIV (5)](https://retroachievements.org/achievement/108520)   
+_Defeat and recruit Freya in Seraphic Gate_
+* Similar to Brahms, Freya is even more powerful but still can only kill one person per turn.
+
+![](https://media.retroachievements.org/Badge/153585.png) [Full Roster [m] (25)](https://retroachievements.org/achievement/108527)   
+_Reach Ending A, watch credits and scene after_
+* If done properly you should get this after having recruited your last Seraphic Gate ally, Freya if done in the "correct" order. If after getting the 3 bonus warriors you don't get it that likely mean you've forgotten someone in the story mode. You have more than enough time to recruit everyone during their respective chapters so that shouldn't really happen, you might want to double check in the Misc section before heading to the last dungeon if you're paranoid about this.
+
+![](https://media.retroachievements.org/Badge/153577.png) [Boss XXXV (10)](https://retroachievements.org/achievement/108521)   
+_Defeat Gabriel Celeste in Seraphic Gate_
+* With the postgame equipment you have access to here, he shouldn't be a problem. His special attack Empress Massacre will kill a character, but as long as it's a single target attack once again you are safe. When pushed into critical health he will start using Great Magics, which are team-wide. Make sure you can burst him down before that happen. If you are lacking a bit in damage, having two mages to cast Turn 1 Sap Guard and Might reinforce is still a good tactic.
+
+![](https://media.retroachievements.org/Badge/153578.png) [Giant Lord (10)](https://retroachievements.org/achievement/109421)   
+_Defeat Giant Lord and Vanirs in Seraphic Gate_
+* Giant Lord is the Seraphic Gate version of Surt as you cant save after beating him in story mode. He is a hidden fights, having a low percentage of spawning instead of the 3 Disaster Eyes in the last zone of the dungeon. The trick to try and fight him quickly is simply to flee if he doesn't appear and reset the room.
+
+![](https://media.retroachievements.org/Badge/153579.png) [Pest Control (25)](https://retroachievements.org/achievement/109422)   
+_Defeat Hamsters in Seraphic Gate_
+* Similar to Giant Lord, the Hamsters are a hidden fight that you can randomly trigger instead of the Loki Shade in the last room before the boss. Same as above, you can quickly flee if they doesnt appear. Make no mistakes those critters are lethal and the hardest fight of the game if you are not prepared. As expected from Hamsters, their hitbox is very small and most of your team will have trouble even hitting them in the first place. On top of that they have a devastating team wide attacks that will likely wrecks you even with Guts and Auto-Item.
+* The setup I used to kill them in one turn before they can even attack is the following:
+1. Valkyrie equipped with a Bow
+2. Janus
+3. Two mages equipped with Mystic Cross and able to cast Great Magics
+* The strat is simple. Attack the first hamster with everyone, start a PWS chain going Valkyrie > Janus > Mage 1 > Mage 2. If you're using the equipment gotten in the dungeon and are not a bunch of lv1, you will deal enough damage with the combo-boosted Mystic Cross that all the hamsters will die in the first round.
+
+![](https://media.retroachievements.org/Badge/153580.png) [Boss XXXVI (25)](https://retroachievements.org/achievement/108522)   
+_Defeat Iseria Queen in Seraphic Gate_
+* Iseria Queen is very similar to her brethren Gabriel Celeste. She has a lot of HP so boost your team / debuff her through Sap Guard and Might Reinforce while making sure you can burst her quickly once she get to critical life levels.
+
+![](https://media.retroachievements.org/Badge/153581.png) [Explorer XXV: Seraphic Gate (25)](https://retroachievements.org/achievement/108523)   
+_Completely map Seraphic Gate_
+
+![](https://media.retroachievements.org/Badge/153582.png) [Treasure Hunter XXV: Seraphic Gate (25)](https://retroachievements.org/achievement/108524)   
+_Collect all treasure in Seraphic Gate_
+
+## Step 4: Misc
