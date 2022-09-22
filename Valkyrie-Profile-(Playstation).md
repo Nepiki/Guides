@@ -70,6 +70,7 @@ Learn on how to use crystals. They are mandatory for map completion achievements
 ![VP Guide Crystal 3 result](https://user-images.githubusercontent.com/10129191/191742172-ea2e4cd4-225d-4c2b-bdb5-abd69a7968da.PNG)
 
 * Breaking a crystal will also spawn a semi-invisible platform that you can jump on. This platform will slowly descend towards the ground before de-spawning. There are a few places where you cant simply scale up a wall due to terrain and will need to create a crystal on a ceiling to make a platform and continue.
+
 ![VP Guide Crystal 4 prep](https://user-images.githubusercontent.com/10129191/191742288-8104af7b-9d49-43c1-add2-ec1cea90188d.PNG)
 ![VP Guide Crystal 4 result](https://user-images.githubusercontent.com/10129191/191742301-8400926b-6a33-4c51-bcdd-9b4165ee4e63.PNG)
 
