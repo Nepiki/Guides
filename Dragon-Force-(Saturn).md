@@ -1495,7 +1495,7 @@ Required progression - After a progress related domestic event where your adviso
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271598.png) **[Tristan] Always Ready [m]** (5 points)
+![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271598.png) **[Tristan] Always Ready [m]** (10 points)
 
 _Defeat Ryskim when he ambushes Junon_
 
