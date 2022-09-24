@@ -200,7 +200,7 @@ Another straightforward dungeon with the exception of the boss room. There you w
 
 ![](https://media.retroachievements.org/Badge/153476.png) [Vampire Hunter Valkyrie [m] (3)](https://retroachievements.org/achievement/108421)   
 _In Gorhla Cult Headquarters defeat Thaumaturgist and two Lesser Vampires with only Valkyrie in party_
-* There are a couple of enemies with that layout in the dungeon, one being right in the entrance room. Just dismiss everyone in your party for the fight, it shouldn't be hard to beat. If the Thaumaturgist gives you trouble you can equip Valkyrie with a bow to kill him first.
+* You cant miss it, you need to beat this layout in order to "activate" the dungeon. There is a save point in a room just next to it if you want to be extra careful. Just dismiss everyone in your party for the fight, it shouldn't be hard to beat. If the Thaumaturgist gives you trouble you can equip Valkyrie with a bow to kill him first.
 
 ![](https://media.retroachievements.org/Badge/153477.png) [Boss VII (5)](https://retroachievements.org/achievement/108422)   
 _Defeat Noble Vampire and Will-O'-Wisps in Gorhla Cult Headquarters_
