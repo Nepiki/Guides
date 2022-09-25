@@ -13,7 +13,7 @@
 
 # 2) Introduction
 
-![Game Badge](https://retroachievements.org/Images/026467.png)
+![Game Badge](https://media.retroachievements.org/Images/054686.png)
 
 [Suikoden](https://retroachievements.org/game/11255) is a role-playing video game published by Konami as the first installment of the Suikoden series. Developed by Konami Computer Entertainment Tokyo, it was released initially in 1995 for the PlayStation in Japan. A North American would release followed one year later, and a mainland European release came the following April. The game was also released for the Sega Saturn in 1998 only in Japan, and for Microsoft Windows in 1998 in Japan.
 
