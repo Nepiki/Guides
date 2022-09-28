@@ -52,6 +52,8 @@ This last step will cover the postgame, unlocked by having a save in the last du
 
 For all the other non-story specific achievements that can (and in majority will) get unlocked long before you finish the game. Most are fairly obvious, some require a bit of game knowledge and I'll share my tips to ease the grind for the Voices achievement.
 
+***
+
 **Bonus Step: PSP**
 
 With the release of the PSP set, I've added this section to cover a few of the new achievements that I thought could use a guide.
@@ -1126,32 +1128,32 @@ Labyrinth of Arianrod :
 
 ## Bonus Step: PSP
 
-Most of the progression and challenge are similar enough to the PS1 set that I wont revisit them all. A few notes before getting to specifics:
+Most of the progression and challenges are similar enough to the PS1 set that I wont revisit them all. A few notes before getting to specifics:
 
-* Single session "Defeat all enemies" works as long as you dont quit the game. If you made a backup save on the overworld and realize after beating a dungeon that you missed some, you can reload the backup and only will have to kill those missing encounters. Most useful for Gorhla Cult HQ where the boss room is set before some additional encounter in the back, so if you trigger the event you wont get access to those.
+* Single session "Defeat all enemies" works as long as you don't quit the game. If you made a backup save on the overworld and realize after beating a dungeon that you missed some you can reload the backup and only kill those missing encounters. Most useful for Gorhla Cult HQ where the boss room is set before additional encounters in the back, so if you trigger the event you wont get access to those.
 * As far as I'm aware only three of those achievements are missable due to enemy chest-ambush traps: any chest opened will remain open on future dungeon revisits. The dungeons in question are, in chapter order, Arkdain Ruins, Tombs of Amenti and the Third part of the Seraphic Gate (green glow). The Seraphic Gate also requires you to have Flame Jewels to open the doors so it's Hard mode only.
-* Voice sample completion work the exact same way as the PS1 version, including the save scanning feature. With PSP hardware you have access to way more slots overall so as long as you got at least 1 of every spell book you can get it.
+* Voice sample completion work the exact same way as the PS1 version, including the save scanning feature. With PSP hardware you have access to more saves slots overall so as long as you've got at least 1 of every spellbooks you can get it.
 
 ***
 ![](https://media.retroachievements.org/Badge/274528.png) [Dragon Zombie (5)](https://retroachievements.org/achievement/247928)   
 _Defeat Dragon Zombie in Nethov Swamp without using the Dragon Slayer sword. (Normal+, Chapter 2)_
-* Nethov Swamp Dragon Zombie can be one shot with Tome of Alchemy as the enemy is not tagged "Boss" by the game. You can get a Tome of Alchemy by transmuting the elemental scepter you got in the very first dungeon.
+* Nethov Swamp Dragon Zombie can be one shot with Tome of Alchemy as the enemy is not tagged "Boss" by the game. You can get a Tome of Alchemy by transmuting the elemental scepter you get in the very first dungeon.
 
 ![](https://media.retroachievements.org/Badge/274534.png) [Lesser Dragon (5)](https://retroachievements.org/achievement/247936)   
 _Defeat Lesser Dragon in Dragoncastle Caverns without using the Dragon Slayer sword. (Normal, Chapter 2)_
-* This time it is tagged as boss and cant be killed with Tome of Alchemy, but you can use a Holy Crystal to one shot. Coincidentally you can find one in a chest of Nethov Swamp.
+* This time it is tagged as boss and cant be killed with Tome of Alchemy but you can use a Holy Crystal to one shot. Coincidentally you can find one in Nethov Swamp.
 
 ![](https://media.retroachievements.org/Badge/274584.png) [Greater Demon (10)](https://retroachievements.org/achievement/248059)   
 _Defeat Greater Demon in Oddrock Caves without using the Daemon Slayer sword and without any sorceress on the party. (Normal+, Chapter 3)_
-* If you cant manage to kill this boss without magic, you can use other "Elemental" Crystals to have anyone do a magic attack. You should have some left if you got every other chests before and can get more with using transmutation.
+* If you can't manage to kill this boss without magic you can use other "Elemental" Crystals to have anyone do a magic attack. You should have some left if you got every other chests before and can get more by using transmutation.
 
 ![](https://media.retroachievements.org/Badge/275345.png) [Purify Completion XXIV (25)](https://retroachievements.org/achievement/248818)   
 _Defeat all 20 unique enemies in Arianrod Labyrinth. (Hard, One Session)_
-* Just like in the PS1 set, Arianrod Labyrinth can be a pain to navigate. To help you make sense of the rooms you can refer to my section on it above in Step 2. Here's the list of rooms with enemies to kill (without the dungeon's Boss): 2, 3, 4, 5, 6, 7, 9, 10, 12, 15, 16, 17, 18, 19, 20, 22, 23, 24
+* Just like in the PS1 set Arianrod Labyrinth can be a pain to navigate. To help you make sense of the rooms you can refer to my section on it above in Step 2. Here's the list of rooms with enemies to kill (without the dungeon's Boss): 2, 3, 4, 5, 6, 7, 9, 10, 12, 15, 16, 17, 18, 19, 20, 22, 23, 24
 
 ![](https://media.retroachievements.org/Badge/277513.png) [No Rod Zone (10)](https://retroachievements.org/achievement/250794)   
 _Perform at least 70 hits in a battle without any sorceress / sorcerer on the party._
-* There a few team that make it possible, you always should equip Valkyrie with a bow to maximize her hits. Likely will need to wait for the postgame as you will need everyone to have 3-Hit weapons equipped. You can see my setup by clicking on the picture below.
+* There a few team that are possible but you always should equip Valkyrie with a bow to maximize her hits. Likely will need to wait for the postgame as you will need everyone to have a 3-Hit weapon equipped. You can see my setup by clicking on the picture below.
 
 [![No Rod Zone](https://i.imgur.com/gQpbXYf.jpg)](https://youtu.be/zRLo7-XnFxU)
 
@@ -1181,7 +1183,7 @@ _Returning from the boss area, climb the first area that contains a vertebral co
 
 ![Broken Wings II Bottom rez](https://user-images.githubusercontent.com/10129191/192771164-c4631a17-9cac-4796-b8eb-1408152865d6.png)
 
-* From there it get a bit more complicated. The dev told me that if you used the chest *if still closed* you have enough height, but otherwise you will have to not only stack multiple pieces and the empty chest but also throw a tiny crystal bit to get the few pixel you need. The throw setup is not that bad and goes like this:
+* From there it get a bit more complicated. The dev told me that if you used the chest *if still closed* you have enough height, but otherwise you will have to not only stack multiple pieces and the empty chest but also throw a tiny crystal bit to get the few pixels you need. The throw setup is not that bad and goes like this:
 
 ![Broken Wings II Mid small throw rez](https://user-images.githubusercontent.com/10129191/192771431-e01c1d0a-2ec7-4463-b613-47b4d4380562.png)
 
