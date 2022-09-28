@@ -52,6 +52,10 @@ This last step will cover the postgame, unlocked by having a save in the last du
 
 For all the other non-story specific achievements that can (and in majority will) get unlocked long before you finish the game. Most are fairly obvious, some require a bit of game knowledge and I'll share my tips to ease the grind for the Voices achievement.
 
+**Bonus Step: PSP**
+
+With the release of the PSP set, I've added this section to cover a few of the new achievements that I thought could use a guide.
+
 # 4) General Tips
 ### Exploration
 Learn on how to use crystals. They are mandatory for map completion achievements and some of the chests acquisition. There are mainly five ways to use them.
@@ -477,6 +481,7 @@ This dungeon is a breezed compared to the previous one ! You have a couple of gi
 
 ![](https://media.retroachievements.org/Badge/153506.png) [Boss XIV (10)](https://retroachievements.org/achievement/108451)   
 _Defeat Hel Servants in Dark Tower of Xervah_
+* The boss fight can be a bit of a pain as they can resurrect each other. The trick is to whittle down their health until you can kill them in a single round. Most Great Magics deals AOE damage if you need a boost.
 
 ![](https://media.retroachievements.org/Badge/153507.png) [Explorer XIV: Dark Tower of Xervah (10)](https://retroachievements.org/achievement/108452)   
 _Completely map Dark Tower of Xervah_
@@ -1114,3 +1119,60 @@ Labyrinth of Arianrod :
 - Unicorn's Horn --> keep it
 
 </details>
+
+***
+<details>
+<summary>Bonus Step: PSP</summary>
+
+## Bonus Step: PSP
+
+Most of the progression and challenge are similar enough to the PS1 set that I wont revisit them all. A few notes before getting to specifics:
+
+* Single session "Defeat all enemies" works as long as you dont quit the game. If you made a backup save on the overworld and realize after beating a dungeon that you missed some, you can reload the backup and only will have to kill those missing encounters. Most useful for Gorhla Cult HQ where the boss room is set before some additional encounter in the back, so if you trigger the event you wont get access to those.
+* As far as I'm aware only three of those achievements are missable due to enemy chest-ambush traps: any chest opened will remain open on future dungeon revisits. The dungeons in question are, in chapter order, Arkdain Ruins, Tombs of Amenti and the Third part of the Seraphic Gate (green glow). The Seraphic Gate also requires you to have Flame Jewels to open the doors so it's Hard mode only.
+* Voice sample completion work the exact same way as the PS1 version, including the save scanning feature. With PSP hardware you have access to way more slots overall so as long as you got at least 1 of every spell book you can get it.
+
+***
+![](https://media.retroachievements.org/Badge/274528.png) [Dragon Zombie (5)](https://retroachievements.org/achievement/247928)   
+_Defeat Dragon Zombie in Nethov Swamp without using the Dragon Slayer sword. (Normal+, Chapter 2)_
+* Nethov Swamp Dragon Zombie can be one shot with Tome of Alchemy as the enemy is not tagged "Boss" by the game. You can get a Tome of Alchemy by transmuting the elemental scepter you got in the very first dungeon.
+
+![](https://media.retroachievements.org/Badge/274534.png) [Lesser Dragon (5)](https://retroachievements.org/achievement/247936)   
+_Defeat Lesser Dragon in Dragoncastle Caverns without using the Dragon Slayer sword. (Normal, Chapter 2)_
+* This time it is tagged as boss and cant be killed with Tome of Alchemy, but you can use a Holy Crystal to one shot. Coincidentally you can find one in a chest of Nethov Swamp.
+
+![](https://media.retroachievements.org/Badge/274584.png) [Greater Demon (10)](https://retroachievements.org/achievement/248059)   
+_Defeat Greater Demon in Oddrock Caves without using the Daemon Slayer sword and without any sorceress on the party. (Normal+, Chapter 3)_
+* If you cant manage to kill this boss without magic, you can use other "Elemental" Crystals to have anyone do a magic attack. You should have some left if you got every other chests before and can get more with using transmutation.
+
+![](https://media.retroachievements.org/Badge/275345.png) [Purify Completion XXIV (25)](https://retroachievements.org/achievement/248818)   
+_Defeat all 20 unique enemies in Arianrod Labyrinth. (Hard, One Session)_
+* Just like in the PS1 set, Arianrod Labyrinth can be a pain to navigate. To help you make sense of the rooms you can refer to my section on it above in Step 2. Here's the list of rooms with enemies to kill (without the dungeon's Boss): 2, 3, 4, 5, 6, 7, 9, 10, 12, 15, 16, 17, 18, 19, 20, 22, 23, 24
+
+![](https://media.retroachievements.org/Badge/277513.png) [No Rod Zone (10)](https://retroachievements.org/achievement/250794)   
+_Perform at least 70 hits in a battle without any sorceress / sorcerer on the party._
+* There a few team that make it possible, you always should equip Valkyrie with a bow to maximize her hits. Likely will need to wait for the postgame as you will need everyone to have 3-Hit weapons equipped. You can see my setup by clicking on the picture below.
+
+[![No Rod Zone](https://i.imgur.com/gQpbXYf.jpg)](https://youtu.be/zRLo7-XnFxU)
+
+***
+### Platforming challenge
+
+![](https://media.retroachievements.org/Badge/274683.png) [Broken Wings I (5)](https://retroachievements.org/achievement/248177)   
+_Starting on the first floor, climb the first area that contains a vertebral column in the Dark Tower of Xervah without pressing Up._
+* If you keep messing it by pressing UP on accident I'd recommend unmapping the button in the emulator settings while doing the challenge. The challenge can be reset by simply touching the ground. There's three part to the climb
+* At the start, go on the left side, create a big ground crystal and scale the left wall. Once high enough jump to the first ledge on the right.
+
+![Broken Wings I bottom rez](https://user-images.githubusercontent.com/10129191/192764464-0e3da3b3-667c-47c1-b562-0e1fc2a8cd6b.PNG)
+
+* Once on the ledge, create another big crystal on the ground at the very tip. From there stack broken pieces and try to have them ladder slightly to the left.
+
+![Broken Wings I mid rez](https://user-images.githubusercontent.com/10129191/192764867-805c6592-6c08-43e8-9963-bf3e62ea918e.PNG)
+
+* From your new vantage point you should be able to create a crystal on the tip of the left ledge. You won't have the height to reach it but you can break it to make an invisible platform. From there, jump on the left ledge then the top right ledge and you're done !
+
+![Broken Wings I top rez](https://user-images.githubusercontent.com/10129191/192765099-ea785968-d51a-407d-bde2-181d589fd88f.PNG)
+
+
+</details>
+
