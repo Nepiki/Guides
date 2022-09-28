@@ -1173,6 +1173,49 @@ _Starting on the first floor, climb the first area that contains a vertebral col
 
 ![Broken Wings I top rez](https://user-images.githubusercontent.com/10129191/192765099-ea785968-d51a-407d-bde2-181d589fd88f.PNG)
 
+***
+
+![](https://media.retroachievements.org/Badge/274687.png) [Broken Wings II (10)](https://retroachievements.org/achievement/248181)   
+_Returning from the boss area, climb the first area that contains a vertebral column in the Dark Tower of Xervah without pressing Up._
+* Again, you might want to unmap the UP button to prevent stupid mistakes. Start similarly by scaling the right side wall and jumping on the left ledge.
+
+![Broken Wings II Bottom rez](https://user-images.githubusercontent.com/10129191/192771164-c4631a17-9cac-4796-b8eb-1408152865d6.png)
+
+* From there it get a bit more complicated. The dev told me that if you used the chest *if still closed* you have enough height, but otherwise you will have to not only stack multiple pieces and the empty chest but also throw a tiny crystal bit to get the few pixel you need. The throw setup is not that bad and goes like this:
+
+![Broken Wings II Mid small throw rez](https://user-images.githubusercontent.com/10129191/192771431-e01c1d0a-2ec7-4463-b613-47b4d4380562.png)
+
+![Broken Wings II Mid small throw 2 rez](https://user-images.githubusercontent.com/10129191/192771449-ae089e0e-6220-4407-95bf-480b049d2fae.png)
+
+* Once there, make your stack and climb it.
+
+![Broken Wings II Mid great stack rez](https://user-images.githubusercontent.com/10129191/192771520-65334bd7-33cf-46d0-b664-efaff9655d4e.png)
+
+* And to finish up the achievement create an invisible platform on the right ledge. Once there you can do a normal jump to the left ledge.
+
+![Broken Wings II Top rez](https://user-images.githubusercontent.com/10129191/192771721-aa92e130-e90b-433b-a98e-70356bfbdefc.png)
+
+***
+
+![](https://media.retroachievements.org/Badge/275414.png) [Broken Wings III (10)](https://retroachievements.org/achievement/248882)   
+_Go through the first rear passage in Jotunheim Palace and climb the first area containing platforms without destroying any of them._
+* This one is simpler, specially with the alternative method provided at the end ! To start up make your way on the first left ledge via an invisible platform.
+
+![Broken Wings III Bottom Setup rez](https://user-images.githubusercontent.com/10129191/192772255-767ff086-ee69-4450-b187-988bc31186d8.png)
+
+![Broken Wings III Bottom Result rez](https://user-images.githubusercontent.com/10129191/192772263-d748bc40-f01e-4478-a0e2-28695c7d0e21.png)
+
+* From there, create a crystal stack and make sure you scale them to the right like so:
+
+![Broken Wings III Mid Setup rez](https://user-images.githubusercontent.com/10129191/192772366-d8fcd26a-2d5d-4272-8c1d-637d80e4d84a.png)
+
+* You can now create another invisible platform and jump on the final ledge. The jump can be a bit finnicky and you will need to slightly move to the right (but not too much or you'll fall) to be able to make it.
+
+![Broken Wings III Top rez](https://user-images.githubusercontent.com/10129191/192772540-2704a50f-ef24-4610-9d2c-a97d0c4ad78a.png)
+
+* Alternatively it turns out that if you throw a crystal piece on the level's platform and stand on it you won't make it disappear ! I talked about it with the set dev, [Raniejogos](https://retroachievements.org/user/raniejogos) and while this was not the intended way and there's no way of blocking players from doing it, he agrees that it is a clever way of solving the puzzle. The first part is the same but as you can see the final jump is made easier:
+
+![Broken Wings III Alternative rez](https://user-images.githubusercontent.com/10129191/192772770-ccf22045-282e-4928-bf40-a3349073ea3b.png)
 
 </details>
 
