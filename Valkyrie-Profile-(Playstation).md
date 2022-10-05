@@ -640,7 +640,7 @@ _Defeat and recruit Freya in Seraphic Gate_
 * Similar to Brahms, Freya is even more powerful but still can only kill one person per turn.
 
 ![](https://media.retroachievements.org/Badge/153585.png) [Full Roster [m] (25)](https://retroachievements.org/achievement/108527)   
-_Reach Ending A, watch credits and scene after_
+_Recruit all Einherjar and three extra characters in Seraphic Gate_
 * If done properly you should get this after having recruited your last Seraphic Gate ally, Freya if done in the "correct" order. If after getting the 3 bonus warriors you don't get it that mean you've forgotten someone in the story mode. You have more than enough time to recruit everyone during their respective chapters so that shouldn't really happen, you might want to double check in the Misc section before heading to the last dungeon if you're paranoid about this.
 
 ![](https://media.retroachievements.org/Badge/153577.png) [Boss XXXV (10)](https://retroachievements.org/achievement/108521)   
