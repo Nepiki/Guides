@@ -1164,9 +1164,9 @@ A significant troop advantage and use conservation of Leon's MP are immensely he
 
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/271204.png) **[Topaz] The Intimidator** (10 points)
 
-_Win two battles in a single encounter with Leon by having two enemy generals opt to retreat instead of duel him_
+_Have two generals retreat from Leon during a single engagement either during battle or prior to a duel_
 
-Magician and Priest generals are by far the most likely to retreat from duels, but they will also retreat from battles almost as soon as their last troops get killed. Sometimes you will find a retreating enemy army that has just been defeated and no longer has any troops. One that has several generals with significantly lower HP than Leon is likely to be useful for this achievement. Make sure Leon has no troops, but high HP to give yourself the best chance at an enemy general retreat.
+Magician and Priest generals are by far the most likely to retreat. Generally speaking, if Leon has high health and a superior number of troops, enemies will be more likely to retreat once their troops are all killed.  Also, attacking an enemy castle where they have a neighboring castle to retreat to also makes retreat more likely.
 
 ***
 
