@@ -4,7 +4,7 @@
 - Estimated achievement difficulty: 5/10 
 - Approximate amount of time to master: 100 hours
 - Minimum number of playthroughs needed: 1
-- Number of missable achievements: 81
+- Number of missable achievements: 82
 - Does difficulty affect achievements?: Not applicable
 - Hardest achievement: Vinz Clortho
 
@@ -35,8 +35,35 @@ Wild Arms 3 (USA) ![](https://retroachievements.org/Images/labels/redump.png)<br
 
 ## **Achievement Roadmap**
 
-The achievements are ordered in such a way as to guarantee players know which achievement they should accomplish next, except for the non-missable sidequest content or general agnostic challenge achievements.  During a mastery playthrough, players should expect to primarily stick to the main story line's progression, collection and boss challenge achievements, deviating only to unlock missable side quest content (not necessarily complete it immediately).  Due to the level cap restrictions, excessive leveling up and grinding is not needed/intended.  The only way a player can possibly find themselves in a situation where they are unable to accomplish certain boss achievements is by making terrible weapon upgrade choices and not being able to earn enough money and remain under the level cap to correct the mistakes.  This is unlikely, but conceivable.  The challenge achievements are generally very accepting of a diverse number of upgrade builds, but this roadmap will ensure that players understand which upgrades should not be neglected.
+The achievements are ordered in such a way as to guarantee players know which achievement they should accomplish next, except for the non-missable sidequest content or general agnostic challenge achievements.  During a mastery playthrough, players should expect to primarily stick to the main story line's progression, collection and boss challenge achievements, deviating only to unlock missable side quest content (not necessarily complete it immediately) until just before the final boss.  At that point, the player should finish all additional side content and challenges prior to fighting the final boss and mastering the set.
+
+Due to the level cap restrictions, excessive leveling up and grinding is not needed/intended.  The only way a player can possibly find themselves in a situation where they are unable to accomplish certain boss achievements is by making terrible weapon upgrade choices and not being able to earn enough money and remain under the level cap to correct the mistakes.  This is unlikely, but conceivable.  The challenge achievements are generally very accepting of a diverse number of upgrade builds, but this roadmap will ensure that players understand which upgrades should not be neglected.
 
 **Important Arm upgrades**
 The only Arm upgrades needed to accomplish a few of the boss challenges are Clive's SHT upgrade.  By default, Clive is the strongest attacker on the team and SHT will further increase his strength.  His physical attacks and Gallows' Arcana (magic) will be the main sources of damage throughout the run.  Using your money to favor Clive's SHT will ensure you remain well positioned for all potential boss challenge achievements.  It is recommend to also invest in a few upgrades for the other characters, however when money begins to become an issue, priority should be given to Clive's SHT.
 
+<details>
+<summary>Prologue achievements</summary>
+
+## **Missable achievements**<br>
+Virginia's intro:
+- none
+
+Jet's intro:
+- none
+
+Clive's intro:
+- A Pain in the Borgnine [m]
+- Toxic Avenger [m]
+
+Gallows' prologue:
+- It Pays to be Honest [m]
+- Didn't Divide and Conquer [m]
+
+***
+
+--INSERT ICON-- **Burn, Baby, Burn!** (XXX points)
+
+_Description_
+
+This item is required to complete Virginia's intro and cannot be missed.
