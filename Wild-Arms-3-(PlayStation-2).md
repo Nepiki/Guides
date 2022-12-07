@@ -167,3 +167,42 @@ _Description_
 
 This will award upon completion of Clive's intro and cannot be missed.
 </details>
+<details>
+<summary>Chapter 1 achievements</summary>
+
+## **Missable achievements**<br>
+- Train Surfer [m]
+- Granny Knows Best [m]
+- The Old Fashionged Way [m]
+- Somebody's Watching Me [m]
+- Sacked the Serpent [m]
+- Disco Inferno [m]
+- Indirect Assault [m]
+- The Tortoise and the Hares [m]
+- The High Road [m]
+
+***
+
+--INSERT ICON-- **Train Surfer [m]** (XXX points)
+
+_Description_
+
+There are several aspects of this battle that need to be considered in order to unlock the achievement:
+
+1. Do not allow any party members to fall: Virginia is the most vulnerable, so having her defend reguarly is very important.  Avoid attacking with her because if she does attack, the next time she defends, she will reload her ARM and invalidate the achievement.  She should only be used for defending herself and using an emergency Heal Berry because she will act first each turn.
+
+2. Make sure Janus is note defeated before Dario or Romero.  As soon as Janus's HP reaches 0, the fight ends.  The goal should be to focus Clive's, Jet's and Gallows' attacks on either Dario or Romero first.  Immediately switch fire to the other as soon as the first is defeated and lastly defeat Janus.  Clive and Jet should never stop attacking and Gallows' should provide healing when necessary.  Clive and Jet will surely run out of bullets fairly early in the fight, but still do reasonable damage with physical attacks.  Continue to chip away at the enemies with physical attacks until they are defeated.
+
+3. Do not defend after shooting an ARM because that will reload the bullets and invalidate the achievement.  Because the risk to Virginia is too high, she should never fire her ARM during this fight to preserve her defend option.
+
+--INSERT DEMO VIDEO--
+
+***
+
+--INSERT ICON-- **Halle's Task** (XXX points)
+
+_Description_
+
+This achievement will unlock during the cutscene with Halle shortly after the party arrives in the Baskar Colony.  It cannot be missed.
+
+***
