@@ -214,3 +214,27 @@ _Description_
 This achievement will unlock during the cutscene with Halle shortly after the party arrives in the Baskar Colony.  It cannot be missed.
 
 ***
+
+--INSERT ICON-- **Granny Knows Best [m]** (XXX points)
+
+_Description_
+
+If you speak with Halle again before departing Baskar Colony to battle the four guardians at the Fallen Sanctuary, she will tell you the order that she defeated the guardians many years ago.  This achievement requires you to defeat them in the same order.  The achievement must be done in a single session, without leaving the roof of the Fallen Sanctuary (this includes Game Overing or reseting).  The guardians must be defeated in the following order: Grudiev at the east monolith, Fengalon at the west monolith, Schturdark at the north monolith and Moor gault at the south monolith.  You will need to rely on Heal Berries for healing until after you've defeated the third guardian, so try to ensure you get the best possible economy from them.
+
+Grudiev - Grudiev will counter every attack, but has a low hit rate.  Defend with everyone on the first turn to minimize damage from the Planet Breaker attacker that he begins the fight with.  After that, attack him as able, health dependent with all characters.  If Virginia can get to 25 FP, it is a idea to have her use a Mystic Heal Berry as it will only deplete 1 of your stock, but provide the healing benefit to all characters.  Grudiev will be fairly simple to take down.
+
+Fengalon - Begin the battle by defending with all characters to minimize damage from the Hi-Speed Ripper attack.  Fengalon has high RFX and will almost always get the first move each turn.  He is more dangerous than Grudiev, but he is susceptible to Earth magic, so ensure Gallows is equipped with the Terra Roar medium for access to the Petrify Arcana.  Because Fengalon will usually act before Virginia, heal as necessary anticipating the worst case scenario.  Again, attempt to get Virginia's FP above 25 so you can use a Mystic Heal Berry.
+
+Schturdark - Defend with all characters on the first turn to minimize damage from Assault Tide.  Afterwards, ensure Gallows is equipped with the Gale Claw medium so he can use Inspire against Schturdark.  Schturdark will often heal after taking Arcana damage, but the net damage is still likely than Gallows will be able to deal with his ARM.  Look for an opportunity to Mystic Heal Berry with Virginia to preserve resources and this guardian should not be extremely challenging.
+
+Moor Gault - Defend with all characters on the first turn to minimize damage from Vapor Blast.  Moor Gault is very weak to Refrigerate, so make sure Gallows is equipped with the Aqua Roar medium.  Keep HP high enough to avoid a deathblow and this battle will play out similarly to the other three.  Upon defeating Moor Gault, the achievement will unlock.
+
+***
+
+--INSERT ICON-- **Arcana Unlocked** (XXX points)
+
+_Description_
+
+After defeating the four guardians, return to Baskar Colony for a scene where Halle will imbue them with additional power.  This will provide stat bonuses to characters who equip mediums.  This achievement is cannot be missed.
+
+***
