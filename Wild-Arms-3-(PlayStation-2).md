@@ -228,13 +228,6 @@ Fengalon - Begin the battle by defending with all characters to minimize damage 
 Schturdark - Defend with all characters on the first turn to minimize damage from Assault Tide.  Afterwards, ensure Gallows is equipped with the Gale Claw medium so he can use Inspire against Schturdark.  Schturdark will often heal after taking Arcana damage, but the net damage is still likely than Gallows will be able to deal with his ARM.  Look for an opportunity to Mystic Heal Berry with Virginia to preserve resources and this guardian should not be extremely challenging.
 
 Moor Gault - Defend with all characters on the first turn to minimize damage from Vapor Blast.  Moor Gault is very weak to Refrigerate, so make sure Gallows is equipped with the Aqua Roar medium.  Keep HP high enough to avoid a deathblow and this battle will play out similarly to the other three.  Upon defeating Moor Gault, the achievement will unlock.
+</details>
 
-***
-
---INSERT ICON-- **Arcana Unlocked** (XXX points)
-
-_Description_
-
-After defeating the four guardians, return to Baskar Colony for a scene where Halle will imbue them with additional power.  This will provide stat bonuses to characters who equip mediums.  This achievement is cannot be missed.
-
-***
+More will be added approximately a month after the set is released.
