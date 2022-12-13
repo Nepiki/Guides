@@ -204,5 +204,5 @@ Both of these achievements will require some practice.  Don't forget to use the 
 [The Frustration is Real (25)](https://retroachievements.org/achievement/93418)
 _Win the game after falling in a well 50 times or more_
 
-This is the most difficult achievement of the set, but it is more of an endurance achievement rather than a true challenge.  You can use the same well repeatedly to grind out the necessary well count.  In order to maintain your health levels, you must use the hover trick to float out of the wells before hitting the ground.  Simple hold the fire button once you fall into the well to rise back up to the top.
+This is the most difficult achievement of the set, but it is more of an endurance achievement rather than a true challenge.  You can use the same well repeatedly to grind out the necessary well count.  In order to maintain your health levels, you must use the hover trick to float out of the wells before hitting the ground.  Simply hold the Fire button after you fall into the well to rise back up to the top.
 Since this achievement must be earned on Game Type 1, it may be beneficial to grind out the well count when the FBI Agent or Scientist is stuck at the bottom of the screen after you send them back to the city.  There's no way to guarantee this happens, so be sure to keep an eye out for it when searching for the phone pieces!
