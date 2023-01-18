@@ -2,16 +2,26 @@
 
 # 1) Overview
 
-\In this section, you can give a short synopsis about the game, your feelings about the set, as well as placing credits to the achievement set makers.
+[Pokémon Pinball: Ruby & Sapphire](https://retroachievements.org/game/789) is (unsurprisingly) a Pokémon-themed pinball game, specifically focusing on  Pokémon and locations featured in Pokémon Ruby and Sapphire, originally released in 2003. It features great integration of Pokémon mechanics into pinball gameplay; see section 2 for more details. The set was created by Brian in 2014 and features 54 achievements worth a total of 438 points.
+## Button Config and Ball Speed
+The default control scheme is counter-intuitive for many, so before you begin playing, check the OPTIONS menu. 
+|   |   |   |   |   |   |
+|:--|:--|:--|:--|:--|:--|
+|Type|Left flipper|Right flipper|Tilt left|Tilt right|Tilt up|
+|A|<|A|L|R|L+R|
+|B|<|A|L|R|B|
+|C|L|R|<|A|<+A|
+|D|L|R|<|>|^|
 
-Outline game, release etc. Great integration of source material into pinball mechanics. Set size/score/dev/age. 4 gameplay modes (r/s & n/s). Ball speed doesn't affect the set so give both a try.
-[Pokemon Pinball: Ruby & Sapphire](https://retroachievements.org/game/789) is (unsurprisingly) a Pokemon-themed pinball game, specifically focusing on  Pokemon and locations featured in Pokemon Ruby and Sapphire, originally released in 2003.
-## Controls
-The default control scheme is counter-intuitive for many, so before you begin playing, check the options menu. 
-list the 4 settings here
+(<, ^ & > are the corresponding dpad buttons)
 Pick whichever feels most natural to you - pinball is a game of timing and reactions so you don't want to be fumbling for the right button!
+
+There are also two ball speeds available, slow and normal. These have no impact on the set itself so experiment with both to find your own preference.
 ## The Boards
-One board representing each game, with separate leaderboards (in-game and on-site), minor layout changes, unique mechanics, different pokemon spawns and separate bonus stages. Include annotated pics of the main boards and explain their features here. (see list below)
+There are two main playing boards, one representing each game, with separate leaderboards (in-game and on-site), minor layout changes, unique mechanics, different Pokémon spawns and separate bonus stages.
+
+![Ruby Field](https://archives.bulbagarden.net/media/upload/a/a1/Ruby_Field.png)   ![Sapphire Field](https://archives.bulbagarden.net/media/upload/b/b7/Sapphire_Field.png)
+
 ### Board features
 * Ball upgrades - light up all 3 lights to upgrade your pokeball to great/ultra/master ball for increased score multipliers. Cycle through them with the flippers to hit them all. Ruby also has a ball upgrade pickup on the yellow loop.
 * Ball savers - when lit up, Latios/Latias will catch your ball to keep it from falling into the pit and return it to Spoink
