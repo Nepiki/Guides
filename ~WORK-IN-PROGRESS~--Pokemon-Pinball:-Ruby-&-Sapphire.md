@@ -1,10 +1,11 @@
-\Replace this sentence by inserting a picture/banner of the game here for visual flair.
+![Start screen](https://media.retroachievements.org/Images/000658.png)
 
 # 1) Overview
 
 \In this section, you can give a short synopsis about the game, your feelings about the set, as well as placing credits to the achievement set makers.
 
 Outline game, release etc. Great integration of source material into pinball mechanics. Set size/score/dev/age. 4 gameplay modes (r/s & n/s). Ball speed doesn't affect the set so give both a try.
+[Pokemon Pinball: Ruby & Sapphire](https://retroachievements.org/game/789) is (unsurprisingly) a Pokemon-themed pinball game, specifically focusing on  Pokemon and locations featured in Pokemon Ruby and Sapphire, originally released in 2003.
 ## Controls
 The default control scheme is counter-intuitive for many, so before you begin playing, check the options menu. 
 list the 4 settings here
