@@ -2,7 +2,7 @@
 
 # 1) Overview
 
-[Pokémon Pinball: Ruby & Sapphire](https://retroachievements.org/game/789) is (unsurprisingly) a Pokémon-themed pinball game, specifically focusing on  Pokémon and locations featured in Pokémon Ruby and Sapphire, originally released in 2003. It features great integration of Pokémon mechanics into pinball gameplay; see section 2 for more details. The set was created by Brian in 2014 and features 54 achievements worth a total of 438 points.
+[Pokémon Pinball: Ruby & Sapphire](https://retroachievements.org/game/789) is (unsurprisingly) a Pokémon-themed pinball game, specifically focusing on  Pokémon and locations featured in Pokémon Ruby and Sapphire, originally released in 2003. It features great integration of Pokémon mechanics into pinball gameplay; see section 2 for more details. The set was created by [Brian](https://retroachievements.org/user/Brian) in 2014 and features 54 achievements worth a total of 438 points.
 ## Button Config and Ball Speed
 The default control scheme is counter-intuitive for many, so before you begin playing, check the OPTIONS menu. 
 |   |   |   |   |   |   |
@@ -13,7 +13,7 @@ The default control scheme is counter-intuitive for many, so before you begin pl
 |C|L|R|<|A|<+A|
 |D|L|R|<|>|^|
 
-(<, ^ & > are the corresponding dpad buttons)
+(<, ^ & > are the corresponding D-pad buttons)
 Pick whichever feels most natural to you - pinball is a game of timing and reactions so you don't want to be fumbling for the right button!
 
 There are also two ball speeds available, slow and normal. These have no impact on the set itself so experiment with both to find your own preference.
