@@ -20,41 +20,52 @@ There are also two ball speeds available, slow and normal. These have no impact 
 ## The Boards
 There are two main playing boards, one representing each game, with separate leaderboards (in-game and on-site), minor layout changes, unique mechanics, different Pokémon spawns and separate bonus stages.
 
-![Ruby Field](https://archives.bulbagarden.net/media/upload/a/a1/Ruby_Field.png)   ![Sapphire Field](https://archives.bulbagarden.net/media/upload/b/b7/Sapphire_Field.png)
+![Ruby Field](https://archives.bulbagarden.net/media/upload/a/a1/Ruby_Field.png) ![Sapphire Field](https://archives.bulbagarden.net/media/upload/b/b7/Sapphire_Field.png)
 
 ### Board features
-* Ball upgrades - light up all 3 lights to upgrade your pokeball to great/ultra/master ball for increased score multipliers. Cycle through them with the flippers to hit them all. Ruby also has a ball upgrade pickup on the yellow loop.
-* Ball savers - when lit up, Latios/Latias will catch your ball to keep it from falling into the pit and return it to Spoink
-* Bumpers - hit these for points and to reveal your target in catch mode
-* Catch - when GET is active with 2/3 triangles lit, enter Sharpedo/Wailmer's mouth to start
-* Coin chute - send the ball up this path to earn 1/5/10 coins. Each trip lights up an arrow, allowing you to earn more
-* Flippers - you! Main means of controlling the game
-* GET/EVO - charge these by sending the ball up the respective path to activate catch and evolution modes
-* Hatch - charge and activate hatch mode here
-* Helpers
-* - **Ruby**: hit the button by Chikorita to have it wake the Linoones. The left Linoone is the travel button and the right one toggles Makuhita from in/active. Pressing the right flipper will cause an active Makuhita to punch forwards. Time this carefully to send the ball up the coin chute or around the yellow loop. Hitting Nuzleaf twice will create a bridge so you can collect the ball upgrade.
-* - **Sapphire**: Zigzagoon and stuff
-* Pikachu/Pichu - when charged, these pokemon will prevent a ball that hits them from falling into the pit. Use the flippers to change Pikachu's side
-* Pokeball - this spot is used in several game modes and the centre becomes a warp to access HOLE slots and bonus stages
-* Pokemon counter - catching or hatching lights up one ball, evolution lights up two. When all three are lit, the next bonus stage activates
-* Pokemon Mart/Centre - hit the door/the Plusle and Minun switches to open the mart and buy upgrades. When Evo is charged, door opens and becomes the Pokemon Centre
-* Bonus multiplier - hit this button to increase the number. Score bonuses at the end of a ball will be totalled then multiplied by the value displayed
-* Spoink - ball launcher
-* Travel - charge this with 3 Gulpin/Seedot to activate travel
-# 2) Game Modes
-The main gameplay cycle, and best way to earn points, is to keep catching and evolving pokemon to progress through the different bonus boards, with later boards being worth more points. Every three balls lit up in the centre sends you to a bonus in this order: 1, 2, 1, 2, 3 (then repeat)
-* Catch
-* Hatch
-* Evo
-* Travel
-* Bonus 1R (Kecleon)
-* Bonus 1S (Duskull/Dusklops)
-* Bonus 2R (Groudon)
-* Bonus 2S (Kyogre)
-* Bonus 3 (Rayquaza)
-* Bonus 4 (Spheal/Sealeo)
+Most of these should be fairly self-explanatory, but I'm including a full list here for easy reference:
+* Ball upgrades - activate all 3 lights above the bumper pit to upgrade your Poké Ball to Great/Ultra/Master Ball for increased score multipliers. Cycle through them with the flipper buttons. Ruby also has a ball upgrade pickup on the raised loop.
+* Bonus multiplier - hit this button to increase the number. End of Ball Bonuses will be multiplied by this.
+* BONUS Tracker - catching or hatching lights up one ball, evolution lights up two. When all three are lit, the next bonus stage activates.
+* Bumper pit - hit Chinchou/Lotad/Shroomish for points and to reveal your target in CATCH mode.
+* CATCH - when GET is active, enter Sharpedo/Wailmer's mouth to start.
+* Coin chute - send the ball up this path to earn 1, 5 or 10 coins. Consecutive trips light arrows allowing you to earn more at once.
+* Flippers - you! The main means of controlling the game.
+* GET/EVO - charge these by sending the ball up the respective path to activate CATCH and EVOLUTION modes
+* HATCH - charge and activate HATCH mode here. 
+* Pikachu/Pichu - when charged, these Pokémon will prevent a ball that hits them from falling into the pit. Use the flippers to change Pikachu's side.
+* Poké Ball - this spot is used in several game modes and the centre becomes a warp to access HOLE slots and BONUS stages.
+* Pokémon Mart/Centre - hit the door/the Plusle and Minun switches to open the mart and buy upgrades. When Evo is charged, door opens and becomes the Pokémon Centre.
+* SAVER - when active, Latios/Latias will catch your ball to keep it from falling into the pit and return it to Spoink.
+* Spoink - ball launcher.
+* TRAVEL - charge this with 3 Gulpin/Seedot to activate TRAVEL mode. Your current location is displayed in the middle of the board.
 
-# 3) Walkthrough
+**Ruby**:
+* Chikorita - hit the button to have it wake the Linoones.
+* Cyndaquil - push it up the bath to heat and hatch the egg.
+* Left Linoone - travel button.
+* Right Linoone - alerts/calms Makuhita. 
+* Makuhita - Press the right flipper when active to make it punch forwards. Time this carefully to send the ball up the coin chute or around the yellow loop. 
+* Nuzleaf - hitting it twice will create a bridge so you can collect the ball upgrade.
+
+**Sapphire**: 
+* Pelipper - When facing up, will catch the ball and drop it above the bumper pit. If the P button beneath it is lit, will take you to the Spheal BONUS stage.
+* Zigzagoon - alerted/calmed by the button under it. When active, press A to instantly stop the HOLE slots.
+# 2) Game Modes
+The main gameplay cycle, and best way to earn points, is to keep catching and evolving Pokémon to progress through the different BONUS stages, with later ones being worth more points. Every three balls lit up in the centre sends you to a BONUS stage in this order: 1, 2, 1, 2, 3 (then repeat).
+Mode List:
+* CATCH
+* HATCH
+* EVOLUTION
+* TRAVEL
+* Kecleon BONUS (Ruby 1)
+* Duskull and Dusclops BONUS (Sapphire 1)
+* Groudon BONUS (Ruby 2)
+* Kyogre BONUS (Sapphire 2)
+* Rayquaza BONUS (3)
+* Spheal and Sealeo BONUS
+* Jirachi CATCH
+# 3) Achievement Guide
 
 [**Step 1: Dummy Step**](#step-1-dummy-step--total-points-999)
 
