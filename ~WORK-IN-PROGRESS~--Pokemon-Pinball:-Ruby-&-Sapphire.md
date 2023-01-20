@@ -123,20 +123,114 @@ The description here is fairly self-explanatory - collect all three pick-ups in 
 
 As with the similar Quick Catch achievement, the Timer Up from the Shop or Slots extends the time limit to 1 minute. The power-up again makes this much easier, but isn't necessary.
 
-## HOLE slots, Poké Mart, Lives and Upgrades - x achievements, x points
+## Poké MART, Upgrades and HOLE slots - x achievements, x points
 
-Before you can get any benefits from the Mart, you'll need coins to spend.
+Before you can get any benefits from the MART, you'll need coins to spend. Remember the MART is unavailable when EVO is fully charged.
 
 ### ![Coin Collector icon](https://media.retroachievements.org/Badge/21328.png) [Coin Collector](https://retroachievements.org/achievement/4305)
 
 **5 points** | _Accumulate 99 coins_
 
-Send the ball up the coin lane to earn 1, 5 or 10 coins. Consecutive trips light up arrows allowing you to earn more at once. You can also earn +10, +30, or +50 coins from the HOLE slots. Avoid visiting the Poké Mart to save up enough for this achievement and the next.
+Send the ball up the coin lane to earn 1, 5 or 10 coins. Consecutive trips light up arrows allowing you to earn more at once. You can also earn coins from the HOLE slots. You may want to avoid visiting the Poké Mart to save up enough coins for this achievement and the next.
 
 ### ![Big Spender icon](https://media.retroachievements.org/Badge/21263.png) [Big Spender](https://retroachievements.org/achievement/21362)
 
 **5 points** | _Buy an extra ball from the MART_
 
+You need 99 coins to purchase this, so save up before opening the MART. The MART is opened differently on each board:
+* **Ruby**: Hit the Mart door to open it. You need enough force to make it all the way up that long, straight path, so it may take a few tries before you get the hang of the needed shot.
+* **Sapphire**: Hit the switches beneath Plusle and Minun to deactivate the electrical barriers. The top (blue) barrier is controlled by Minun and the bottom (red) one by Plusle.
+
+Once open simply enter the MART and scroll right through the options. They are ordered by price so the one for this achievement is right at the end. The full shop stock is listed below for convenience:
+|**Item**|**Icon**|**Price**|**Details**|
+|:--|:--|:--|:--|
+|30 second Ball Saver|![30s Ball Saver](https://archives.bulbagarden.net/media/upload/0/0a/Pinball_RS_30_Sec_Ball_Saver.png)|10||
+|60 second Ball Saver|![60s Ball Saver](https://archives.bulbagarden.net/media/upload/2/26/Pinball_RS_60_Sec_Ball_Saver.png)|20||
+|90 second Ball Saver|![90s Ball Saver](https://archives.bulbagarden.net/media/upload/f/f3/Pinball_RS_90_Sec_Ball_Saver.png)|30||
+|Ball Upgrade|![Great Upgrade](https://archives.bulbagarden.net/media/upload/8/8a/Pinball_RS_Ball_Upgrade_Great.png) / ![Ultra Upgrade](https://archives.bulbagarden.net/media/upload/a/ab/Pinball_RS_Ball_Upgrade_Ultra.png) / ![Master Upgrade](https://archives.bulbagarden.net/media/upload/8/86/Pinball_RS_Ball_Upgrade_Master.png)|40|Upgrades your ball one level|
+|Timer Up|![Timer Up](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_RS_Timer_Up.png)|40|Adds 30s to the next timed event|
+|Pika|![Pika Upgrade](https://archives.bulbagarden.net/media/upload/e/e0/Pinball_RS_Pika_Saver.png)|50|Pichu joins Pikachu. They remain fully charged for the rest of the current ball|
+|Bonus Challenge|![Pelipper Bonus Challange](https://archives.bulbagarden.net/media/upload/9/91/Pinball_RS_Spheal_Bonus_Pelipper.png) / ![Whiscash Bonus Challange](https://archives.bulbagarden.net/media/upload/8/81/Pinball_RS_Spheal_Bonus_Whiscash.png)|60|Primes Whiscash/Pelipper to take you to the Spheal BONUS stage|
+|Extra Ball|![Extra Ball](https://archives.bulbagarden.net/media/upload/5/56/Pinball_RS_Extra_Ball.png)|99||
+
+### ![Extra Charge](https://media.retroachievements.org/Badge/21273.png) [Extra Charge](https://retroachievements.org/achievement/21365)
+
+**3 points** | _Gain assistance from Pichu_
+
+This upgrade is arguably the most useful item in the MART, as Pichu's assistance makes it much harder to lose a life and thus extends the duration of each game significantly. Get this by purchasing for 50 coins, or as a HOLE slots reward. 
+
+### ![Field Multiplier Upgrade icon](https://media.retroachievements.org/Badge/21266.png) [Field Multiplier Upgrade](https://retroachievements.org/achievement/21364)
+
+**2 points** | _Light up all 3 of the Field Multiplier slots at the top of the table_
+
+Light up all three slots above the bumper pit to earn this achievement and upgrade your ball one level. This acts as a multiplier for any points you earn, which is especially noticeable when clearing a bonus stage. The upgrade will last for one minute. If you have gone up multiple ball levels, you will downgrade one level at a time with a minute between each.
+|**Ball**|**Multiplier**|
+|:--|:--|
+|Poké|1x|
+|Great|2x|
+|Ultra|3x|
+|Master|4x|
+
+### ![Great Ball icon](https://media.retroachievements.org/Badge/21278.png) [Great Ball](https://retroachievements.org/achievement/4309)
+
+**1 point** | _Upgrade to a Great Ball_
+
+Upgrade your ball by purchasing an upgrade in the shop, using the field multiplier slots, or from the HOLE slots. On RUBY you can also grab the Ball Up item after hitting Nuzleaf twice to create a bridge.
+
+### ![Ultra Ball icon](https://media.retroachievements.org/Badge/21279.png) [Ultra Ball](https://retroachievements.org/achievement/4310)
+
+**2 points** | _Upgrade to a Ultra Ball_
+
+Upgrade your ball twice by purchasing an upgrade in the shop, using the field multiplier slots, or from the HOLE slots before it downgrades. On RUBY you can also grab the Ball Up item after hitting Nuzleaf twice to create a bridge.
+
+### ![Master Ball icon](https://media.retroachievements.org/Badge/21280.png) [Master Ball](https://retroachievements.org/achievement/4311)
+
+**3 points** | _Upgrade to a Master Ball_
+
+Upgrade your ball three times by purchasing an upgrade in the shop, using the field multiplier slots, or from the HOLE slots before it downgrades. On RUBY you can also grab the Ball Up item after hitting Nuzleaf twice to create a bridge.
+
+### ![Dark HOLE icon](https://media.retroachievements.org/Badge/21328.png) [Dark HOLE](https://retroachievements.org/achievement/21363)
+
+**1 point** | _Light up all 4 of the HOLE slots_
+
+The HOLE lights are at the top of the 4 paths leading towards the pit. Light them up with your ball, using the flippers to scroll them from side to side and activate them all. While not necessary for the achievement, doing this opens up the slot machine in the Centre Hole. Enter it to get one of the following rewards:
+* Small - 100 to 900 points
+* BIG - 1,000,000 to 9,000,000 points
+* Pika - Pichu joins Pikachu. They remain fully charged for the rest of the current ball
+* Catch 'em Start - Catch 'em Mode starts
+* EVO Start - EVO Mode starts
+* Bonus Stage - Start a BONUS stage
+* Coin - get 10, 30, or 50 coins
+* Ball Saver - Turns on the Ball Saver for 30, 60, or 90 seconds.
+* Arrival - Jirachi's catch mode
+* Ball Upgrade - Upgrades your ball one level
+* Max up - Upgrades your ball straight to the Master Ball
+* Bonus Multiplier - +1 to +5 to End of Ball bonus multiplier
+* Extra Ball - Get an extra ball
+
+The ability to force stop the slots with Zigzagoon makes it easier to get specific rewards on the Sapphire board.
+
+### ![Max Upgrade icon](https://media.retroachievements.org/Badge/21277.png) [Max Upgrade](https://retroachievements.org/achievement/21366)
+
+**3 points** | _Skip at least one ball tier and go straight to the Master Ball_
+
+Get Max Upgrade ![Max Upgrade](https://archives.bulbagarden.net/media/upload/e/e3/Pinball_RS_Max_Up.png) from the HOLE slots while using a Poké or Great Ball. Slots-dependent achievements are easier on Sapphire.
+
+### ![Jirachi icon](https://media.retroachievements.org/Badge/21291.png) [Jirachi](https://retroachievements.org/achievement/21367)
+
+**10 points** | _Catch Jirachi_
+
+Jirachi has a unique capture method, only activated through the HOLE slots while in the Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif) TRAVEL location. Slots-dependent achievements are easier on Sapphire. When it starts, Jirachi will appear in the middle of the board, in the same spot Pokémon appear in Catch 'Em mode. With a 30 second timer, it will then move from side to side. Hit it 3 times to catch this unique legendary.
+
+### ![Stocking Up icon](https://media.retroachievements.org/Badge/21329.png) [Stocking Up](https://retroachievements.org/achievement/4303)
+
+**5 points** | _Accumulate 4 or more balls_
+
+There are several ways to earn extra balls in this game, in addition to the 2 you start with:
+* Buy an extra ball from the market. This can only be done once per game.
+* Get an extra ball from the HOLE slots.
+* Catch 15, 30, 45, etc Pokémon. Evolved Pokémon count towards this and your current total can be seen next to your balls in the bottom right.
+* Sometimes the Ball Upgrade pick-up on Ruby will have a 1 instead of an arrow. Grab it for an extra ball.
 
 ***
 
@@ -151,9 +245,3 @@ These Pokémon appear normally in Catch 'Em mode in the Ruins ![Ruins icon](http
 **25 points** | _Catch Latios and Latias_
 
 These Pokémon have a very small (<1%) chance to appear in Catch 'Em mode in _any_ location. Latios (blue) only appears on the Ruby board, and Latias (red) on the Sapphire one.
-
-### ![Jirachi icon](https://media.retroachievements.org/Badge/21291.png) [Jirachi](https://retroachievements.org/achievement/21367)
-
-**10 points** | _Catch Jirachi_
-
-Jirachi has a unique capture method, only activated through the HOLE slots while in the Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif) TRAVEL location. The ability to force stop the slots with Zigzagoon makes this easier to get on the Sapphire board. When it starts, Jirachi will appear in the middle of the board, in the same spot Pokémon appear in Catch 'Em mode. With a 30 second timer, it will then move from side to side. Hit it 3 times to catch this unique legendary.
