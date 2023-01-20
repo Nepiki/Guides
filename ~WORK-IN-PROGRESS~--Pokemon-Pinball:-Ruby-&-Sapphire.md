@@ -2,12 +2,11 @@
 
 # 1) Overview
 
-[Pokémon Pinball: Ruby & Sapphire](https://retroachievements.org/game/789) is (unsurprisingly) a Pokémon-themed pinball game, specifically focusing on  Pokémon and locations featured in Pokémon Ruby and Sapphire, originally released in 2003. It features great integration of Pokémon mechanics into pinball gameplay; see section 2 for more details. The set was created by [Brian](https://retroachievements.org/user/Brian) in 2014 and features 54 achievements worth a total of 438 points.
+[Pokémon Pinball: Ruby & Sapphire](https://retroachievements.org/game/789) is (unsurprisingly) a Pokémon-themed pinball game, specifically focusing on  Pokémon and locations featured in Pokémon Ruby and Sapphire, originally released in 2003. It features great integration of Pokémon mechanics into pinball gameplay. The set was created by [Brian](https://retroachievements.org/user/Brian) in 2014 and features 54 achievements worth a total of 438 points.
 ## Button Config and Ball Speed
 The default control scheme is counter-intuitive for many, so before you begin playing, check the OPTIONS menu. 
-|   |   |   |   |   |   |
+|**Type**|**Left flipper**|**Right flipper**|**Tilt left**|**Tilt right**|**Tilt up**|
 |:--|:--|:--|:--|:--|:--|
-|Type|Left flipper|Right flipper|Tilt left|Tilt right|Tilt up|
 |A|<|A|L|R|L+R|
 |B|<|A|L|R|B|
 |C|L|R|<|A|<+A|
@@ -29,7 +28,7 @@ Most of these should be fairly self-explanatory, but I'm including a full list h
 * BONUS Tracker - catching or hatching lights up one ball, evolution lights up two. When all three are lit, the next bonus stage activates.
 * Bumper pit - hit Chinchou/Lotad/Shroomish for points and to reveal your target in CATCH mode.
 * CATCH - when GET is active, enter Sharpedo/Wailmer's mouth to start.
-* Coin chute - send the ball up this path to earn 1, 5 or 10 coins. Consecutive trips light arrows allowing you to earn more at once.
+* Coin lane - send the ball up this path to earn 1, 5 or 10 coins.
 * Flippers - you! The main means of controlling the game.
 * GET/EVO - charge these by sending the ball up the respective path to activate CATCH and EVOLUTION modes
 * HATCH - charge and activate HATCH mode here. 
@@ -51,6 +50,7 @@ Most of these should be fairly self-explanatory, but I'm including a full list h
 **Sapphire**: 
 * Pelipper - When facing up, will catch the ball and drop it above the bumper pit. If the P button beneath it is lit, will take you to the Spheal BONUS stage.
 * Zigzagoon - alerted/calmed by the button under it. When active, press A to instantly stop the HOLE slots.
+
 # 2) Game Modes
 The main gameplay cycle, and best way to earn points, is to keep catching and evolving Pokémon to progress through the different BONUS stages, with later ones being worth more points. Every three balls lit up in the centre sends you to a BONUS stage in this order: 1, 2, 1, 2, 3 (then repeat).
 Mode List:
@@ -64,84 +64,96 @@ Mode List:
 * Kyogre BONUS (Sapphire 2)
 * Rayquaza BONUS (3)
 * Spheal and Sealeo BONUS
+
 # 3) Achievement Guide
+## Catch 'Em Mode - 2 achievements, 6 points
+### ![Captured icon](https://media.retroachievements.org/Badge/21141.png) [Captured](https://retroachievements.org/achievement/4306)
 
-[Captured](https://retroachievements.org/achievement/4306)
-[**Step 1: Dummy Step**](#step-1-dummy-step--total-points-999)
+**1 point** | _Catch a Pokémon_
 
-\Here you can give a detailed explanation about every step, such as what the achievements are about, if there are any missables in this step, general tips to make sure every achievement is gotten in one run etc.
+To activate catch 'em mode, send the ball up the GET loop twice then go into Sharpedo/Wailmer's mouth. This will start the mode with a 2 minute time limit and a 30 second Ball Saver. Going up the loop again before starting will light the third arrow and change the selection of Pokémon available to catch.
 
-\To make this header link to the section with these achievements, go to where the step is and hover over the header. A link icon should be visible on the left of the header, which you can right-click + copy and then paste where #step-1-dummy-step--total-points-999 currently is. Remove everything of the link before "step".
+During catch 'em mode, the travel icon in the centre panel will change to a silhouette of the Pokémon you're trying to catch. Hit three Chinchou/Lotad/Shroomish bumpers to reveal it. The Pokémon will then spawn in the middle of the board. Hit it three times to capture it.
 
-\You can create as many steps as you desire. Recommended is to have one step dedicated to unmissable story achievements, while the others cover game-specific steps (like no-damage bosses, item collection etc.)
+### ![Quick Catch icon](https://media.retroachievements.org/Badge/21271.png) [Quick Catch](https://retroachievements.org/achievement/21358)
 
-\If the step has missables, be sure to make a bulletpoint list like below to inform the reader right away.
+**5 points** | _Catch a Pokémon in Catch 'Em mode with at least 1m30s remaining_
 
-* [Missable achievement 1](Link to achievement)
-* [Missable achievement 2](Link to achievement)
-* [Missable achievement 3](Link to achievement)
+This achievement is essentially asking you to catch a Pokémon in 30 seconds, but if you have gotten Timer Up from the Shop or Slots, this is extended to 1 minute. The power-up makes this much easier, but isn't necessary. 
+
+Hitting three bumpers without leaving the area will reveal the entire silhouette at once, letting you move to the second phase much faster. Entering the bumper area from above by tilting the board is usually the easiest way to achieve this.
+
+On **Ruby**, the formation of bumpers can be changed by hitting the button between them and Cyndaquil. The formations are:
+* Three Chinchou rotating clockwise
+* Three Chinchou rotating anti-clockwise
+* Three Chinchou moving up and down
+* One single rotating Chinchou
+* Three Lotad not moving
+
+Launching into a three rotating Chinchou formation from below can also easily get three consecutive bumper hits.
+
+On **Sapphire**, dropping into the pit and relaunching from Spoink will get you two quick hits on a spawned Pokémon.
+
+## Hatch mode - 0 achievements, 0 points
+
+While this mode doesn't have any dedicated achievements, it will be needed less directly for other achievements later on. Activating this mode works a little differently on each board.
+
+* **Ruby**: Hit Cyndaquil to push it towards the rock pile to warm and hatch the egg. Takes X hits. Enter the empty rock pile after the mode is over to prepare a new egg for hatching.
+* **Sapphire**: Send your ball up the hatch lane to activate the incubator. The Xth loop will hatch the egg. Return after the mode is over to prepare a new egg for hatching.
+
+When the mode is active, a baby Pokémon will hatch from the egg and wander around the board for around 45 seconds. This time is _not_ extended by the Timer Up power-up, as there is no displayed clock. Hit the Pokémon twice to capture it before it escapes back into the rock pile (Ruby) or into the Poké Mart (Sapphire).
+
+## Evolution Mode - 2 achievements, 8 points
+
+### ![Evolution icon](https://media.retroachievements.org/Badge/21269.png) [Evolution](https://retroachievements.org/achievement/21360)
+
+**3 points** | _Evolve a Pokémon_
+
+To activate evolution mode, send the ball up the EVO loop three times, then into the Poké Mart, which has now become the Poké Center. You must have already caught or hatched an evolvable Pokémon in the current game. Pokémon you have already fully evolved do not count. Select the Pokémon you want to evolve and the mode will start with a 2 minute time limit and a 30 second Ball Saver.
+
+A pick-up will appear in one of several spots around the board. When collected another will appear, then a third. After collecting all three, the Centre Hole will open. Enter it to evolve your chosen Pokémon.
+
+The pick-up's appearance may vary depending on the Pokémon's evolution requirements in the main series. Most use a golden Ex for experience and level-based evolution, but elemental stones and hearts indicating friendship are also used. These differences are solely cosmetic and do not affect gameplay.
+
+### ![Accelerated Evolution icon](https://media.retroachievements.org/Badge/21272.png) [Accelerated Evolution](https://retroachievements.org/achievement/21359)
+
+**5 points** | _Collect all 3 evolution items in EVO mode with at least 1m30s remaining_
+
+The description here is fairly self-explanatory - collect all three pick-ups in 30 seconds. This is largely a test of player skill as it comes down to your ability to grab each pick-up efficiently without too many wasted shots. The more you play the game and EVO mode, the better a grasp you will have on how to send the ball to each pick-up location. Getting lucky with a set of spots that suit you is also a contributing factor. Keep in mind that sometimes it may be faster to drop your ball in the pit and fire it from Spoink for certain spots if you have trouble with them.
+
+As with the similar Quick Catch achievement, the Timer Up from the Shop or Slots extends the time limit to 1 minute. The power-up again makes this much easier, but isn't necessary.
+
+## HOLE slots, Poké Mart, Lives and Upgrades - x achievements, x points
+
+Before you can get any benefits from the Mart, you'll need coins to spend.
+
+### ![Coin Collector icon](https://media.retroachievements.org/Badge/21328.png) [Coin Collector](https://retroachievements.org/achievement/4305)
+
+**5 points** | _Accumulate 99 coins_
+
+Send the ball up the coin lane to earn 1, 5 or 10 coins. Consecutive trips light up arrows allowing you to earn more at once. You can also earn +10, +30, or +50 coins from the HOLE slots. Avoid visiting the Poké Mart to save up enough for this achievement and the next.
+
+### ![Big Spender icon](https://media.retroachievements.org/Badge/21263.png) [Big Spender](https://retroachievements.org/achievement/21362)
+
+**5 points** | _Buy an extra ball from the MART_
+
 
 ***
 
-[**Step 2: Dummy Step 2**](#step-2-dummy-step-2--total-points-999)
+### ![Regitrio icon](https://media.retroachievements.org/Badge/21296.png) [Regitrio](https://retroachievements.org/achievement/21372)
 
-Dummy step. Remove if unnecessary.
+**5 points** | _Catch Registeel, Regice and Regirock_
 
-***
+These Pokémon appear normally in Catch 'Em mode in the Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif) TRAVEL location. Registeel and Regirock appear with 2 GET arrows and Regice needs all 3.
 
-[**Step 3: Dummy Step 3**](#step-3-dummy-step-3--total-points-999)
+### ![Latios Latias icon](https://media.retroachievements.org/Badge/21295.png) [Latios Latias](https://retroachievements.org/achievement/21371)
 
-Dummy step. Remove if unnecessary.
+**25 points** | _Catch Latios and Latias_
 
-# 4) Dummy Section (conclusion/tips and tricks)
+These Pokémon have a very small (<1%) chance to appear in Catch 'Em mode in _any_ location. Latios (blue) only appears on the Ruby board, and Latias (red) on the Sapphire one.
 
-Dummy section that can be used for any other comments not already applied in the previous three sections. Remove for yourself if not necessary.
+### ![Jirachi icon](https://media.retroachievements.org/Badge/21291.png) [Jirachi](https://retroachievements.org/achievement/21367)
 
-***
+**10 points** | _Catch Jirachi_
 
-## Step 1: Dummy Step | **Total points: 999**
-
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
-
-Guide for the achievement.
-
-***
-
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
-
-Guide for the achievement.
-
-***
-
-## Step 2: Dummy Step 2 | **Total points: 999**
-
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
-
-Guide for the achievement.
-
-***
-
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
-
-Guide for the achievement.
-
-***
-
-## Step 3: Dummy Step 3 | **Total points: 999**
-
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
-
-Guide for the achievement.
-
-***
-
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
-
-Guide for the achievement.
-
+Jirachi has a unique capture method, only activated through the HOLE slots while in the Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif) TRAVEL location. The ability to force stop the slots with Zigzagoon makes this easier to get on the Sapphire board. When it starts, Jirachi will appear in the middle of the board, in the same spot Pokémon appear in Catch 'Em mode. With a 30 second timer, it will then move from side to side. Hit it 3 times to catch this unique legendary.
