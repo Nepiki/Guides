@@ -64,7 +64,6 @@ Mode List:
 * Kyogre BONUS (Sapphire 2)
 * Rayquaza BONUS (3)
 * Spheal and Sealeo BONUS
-* Jirachi CATCH
 # 3) Achievement Guide
 
 [**Step 1: Dummy Step**](#step-1-dummy-step--total-points-999)
