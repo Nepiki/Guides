@@ -123,7 +123,7 @@ The description here is fairly self-explanatory - collect all three pick-ups in 
 
 As with the similar Quick Catch achievement, the Timer Up from the Shop or Slots extends the time limit to 1 minute. The power-up again makes this much easier, but isn't necessary.
 
-## Poké MART, Upgrades and HOLE slots - x achievements, x points
+## Poké MART, Upgrades and HOLE slots - 11 achievements, 40 points
 
 Before you can get any benefits from the MART, you'll need coins to spend. Remember the MART is unavailable when EVO is fully charged.
 
