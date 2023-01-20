@@ -66,6 +66,7 @@ Mode List:
 * Spheal and Sealeo BONUS
 # 3) Achievement Guide
 
+[Captured](https://retroachievements.org/achievement/4306)
 [**Step 1: Dummy Step**](#step-1-dummy-step--total-points-999)
 
 \Here you can give a detailed explanation about every step, such as what the achievements are about, if there are any missables in this step, general tips to make sure every achievement is gotten in one run etc.
