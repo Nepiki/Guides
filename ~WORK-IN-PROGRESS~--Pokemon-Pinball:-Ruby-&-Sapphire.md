@@ -239,21 +239,21 @@ Access the **Kecleon** bonus stage by reaching 3 lights on the CATCH! counter th
 
 ![Kecleon bonus board](https://archives.bulbagarden.net/media/upload/4/4d/Pinball_RS_Kecleon_Bonus.png)
 
-Kecleon appears in the middle of the stage and promptly turns invisible. Hitting Kecleon will make it fall over. Hitting a fallen Kecleon will do damage and break its invisibility. You have 2 minutes to damage it XX times.
+Kecleon appears in the middle of the stage and promptly turns invisible. Hitting Kecleon will make it fall over. Hitting a fallen Kecleon will do damage and break its invisibility. Hitting the tree in the middle of the stage will make it drop a Devon Scope pickup, allowing you to see the invisible Kecleon for 5 seconds. You have 2 minutes to damage it 10 times.
 
 ### ![Quick Kecleon Bonus icon](https://media.retroachievements.org/Badge/21331.png) [Quick Kecleon Bonus](https://retroachievements.org/achievement/21389)
 
 **10 points** | _Complete the Kecleon Bonus Challenge with at least 1m remaining_
 
-There are a few tricks that can help speed up completion of this stage. Firstly, having the Timer Up upgrade will give you an extra 30 seconds to work with. As with the other Quick achievements, this is helpful, but not essential. Hitting the tree in the middle of the stage will make it drop a Devon Scope pickup, allowing you to see the invisible Kecleon for 5 seconds. This can be helpful while learning its movement patterns, but I find I tend to waste too much time trying to grab it rather than tracking Kecleon's movements directly. Watch the pool and plants carefully for ripples and movement as these will tell you where your invisible opponent is and which direction its going. You'll be able to tell you've knocked it over from the little dust cloud and accompanying sound effect.
+There are a few tricks that can help speed up completion of this stage. Firstly, having the Timer Up upgrade will give you an extra 30 seconds to work with. As with the other Quick achievements, this is helpful, but not essential. The Devon Scope can be helpful while learning its movement patterns, but I find I tend to waste too much time trying to grab it rather than tracking Kecleon's movements directly. Watch the pool and plants carefully for ripples and movement as these will tell you where your invisible opponent is and which direction its going. You'll be able to tell you've knocked it over from the little dust cloud and accompanying sound effect.
 
-### Duskull
+### Duskull and Dusclops
 
 Access the **Duskull** bonus stage by reaching 3 lights on the CATCH! counter then entering the Centre Hole on SAPPHIRE.
 
-![Duskull bonus board](https://archives.bulbagarden.net/media/upload/3/38/Pinball_RS_Dusclops_Bonus_Stage_Duskull.png)
+![Duskull and Dusclops bonus board](https://archives.bulbagarden.net/media/upload/3/38/Pinball_RS_Dusclops_Bonus_Stage_Duskull.png)
 
-This stage is a graveyard with 2 Duskull wandering around who will be replaced by more Duskull when hit. Hit 20 of them (those that disappear on teir own don't count) to summon Dusclops. You have 2 minutes to summon and defeat Dusclops.
+This stage is a graveyard with 2 Duskull wandering around who will be replaced by more Duskull when hit. Hit 20 of them (those that disappear on their own don't count) to summon Dusclops. You have 2 minutes to summon and defeat Dusclops.
 
 ### ![Duskull Bonus icon](https://media.retroachievements.org/Badge/21290.png) [Duskull Bonus](https://retroachievements.org/achievement/21388)
 
@@ -263,11 +263,18 @@ Hit Dusclops 5 times to beat it. Hitting it from the front when standing still w
 
 ### Groudon
 
-Access the **Groundon** Bonus stage by reaching 3 lights on the CATCH! counter after defeating Kecleon then entering the Centre Hole on RUBY.
+Access the **Groundon** Bonus stage by reaching 3 lights on the CATCH! counter after defeating Kecleon then entering the Centre Hole on RUBY. If you fail to defeat Groudon, you will be able to challenge it next time you reach 3 lights without going back through Kecleon first.
 
 ![Groudon bonus board](https://archives.bulbagarden.net/media/upload/f/f2/Pinball_RS_Groudon_Stage.png)
 
-fight info
+You have 3 minutes to hit Groudon 15 times to clear this bonus stage. Groudon stands at the top of the screen, using its attacks in sequence:
+1. Eruption - creates a shockwave that pushes your ball away, destroys all obstacles on the field and creates four pillars of magma shielding Groudon. The pillars take 5 hits to destroy
+2. Fire Blast - shoots a blast of flame at your ball. If it hits, this traps your ball for 5 seconds. Mash/waggle your flippers to break free faster.
+3. Earthquake - shakes the stage, damaging any remaining magma pillars and dropping three rocks from the ceiling. These take 4 hits to destroy.
+4. Fire Blast - see above
+5. Repeat sequence.
+
+Try to prioritise just one of the pillars and don't bother breaking the rocks if avoidable so you can spend your time trying to hit Groudon itself rather than battering down the defences that will be continually rebuilt.
 
 ### ![Groudon icon](https://media.retroachievements.org/Badge/21293.png) [Groudon](https://retroachievements.org/achievement/21369)
 
@@ -279,15 +286,21 @@ Clear the stage twice in one game to catch Groudon. You will need to beat Kecleo
 
 **10 points** | _Complete the Groudon Bonus Challenge without falling into the pit_
 
-info
+The moves most likely to knock you into the pit are Fire Blast and Eruption. As you get used to the timing of the attacks you should be able to anticipate and avoid these. There are a couple of animations that telegraph them, but if you wait until you see them, you'll have very little time to react. Before Fire Blast, Groudon will spit out a tiny puff of flame and before Eruption it will shake its head.
 
 ### Kyogre
 
-Access the **Kyogre** Bonus stage by reaching 3 lights on the CATCH! counter after defeating Dusclops then entering the Centre Hole on SAPPHIRE.
+Access the **Kyogre** Bonus stage by reaching 3 lights on the CATCH! counter after defeating Dusclops then entering the Centre Hole on SAPPHIRE. If you fail to defeat Kyogre, you will be able to challenge it next time you reach 3 lights without going back through Duskull first.
 
 ![Kyogre bonus board](https://archives.bulbagarden.net/media/upload/0/01/Pinball_RS_Kyogre_Stage.png)
 
-fight info
+You have 3 minutes to hit Kyogre 15 times to clear this bonus stage. Kyogre starts at the top of the screen, using its attacks in sequence:
+1. Sheer Cold - creates a shockwave that freezes your ball in place. Mash/waggle the flippers to break free.
+2. Whirlpool x2 - creates a whirlpool that traps your ball for 5 seconds. Mash/waggle the flippers to escape faster.
+3. Dive x2 - Kyogre disappears beneath the water's surface. Bubbles indicate when and where it is about to surface
+4. Repeat sequence.
+
+Sheer Cold is one of the biggest annoyances in this fight as it can't be evaded. _However_, if you hit Kyogre as it's using it (during the small shake before the shockwave's pulse animation) it will flash white and the move will fail, giving you an opening to attack before it uses Whirlpool.
 
 ### ![Kyogre icon](https://media.retroachievements.org/Badge/21294.png) [Kyogre](https://retroachievements.org/achievement/21370)
 
@@ -299,15 +312,21 @@ Clear the stage twice in one game to catch Kyogre. You will need to beat Dusclop
 
 **10 points** | _Complete the Kyogre Bonus Challenge without falling into the pit_
 
-info
+The biggest issues with this fight are the ball traps as they can release you at unpredictable angles and make it difficult to catch your ball. Be patient and wait for your openings when going for this achievement rather than trying to get an extra hit in at the cost of getting caught. Holding the ball in a flipper where you can immediately catch it on release may be safer than trying to cancel Sheer Cold.
 
 ### Rayquaza
 
-Access the **Rayquaza** Bonus stage by reaching 3 lights on the CATCH! counter after Catching Groudon or Kyogre then entering the Centre Hole.
+Access the **Rayquaza** Bonus stage by reaching 3 lights on the CATCH! counter after catching Groudon or Kyogre then entering the Centre Hole. If you fail to defeat Rayquaza, you will be able to challenge it next time you reach 3 lights without going back through the previous bonus stages.
 
 ![Rayquaza bonus board](https://archives.bulbagarden.net/media/upload/a/ad/Pinball_RS_Rayquaza_Bonus.png)
 
-fight info
+You have 3 minutes to hit Rayquaza 15 times to clear this bonus stage. Rayquaza moves back and forth across the top of the screen, floating up and down and using its attacks in sequence:
+1. Thunder - summons a bolt of lightning from the sky that stuns your ball for 5 seconds. Mash/waggle the flippers to recover faster. 
+2. Extremespeed - Rayquaza flies offscreen then dashes across the stage horizontally, dragging your ball behind it.
+3. Twister - two tornados are left behind after Extremespeed. These will launch your ball up right offscreen before dropping it back onto the board.
+4. Repeat sequence.
+
+You can only hit Rayquaza while it's touching the ground, so shots need to be timed carefully so they don't just roll underneath it. 
 
 ### ![Rayquaza icon](https://media.retroachievements.org/Badge/21292.png) [Rayquaza](https://retroachievements.org/achievement/21368)
 
@@ -319,7 +338,21 @@ Clear the stage twice in one game to catch Rayquaza. You will need to catch Grou
 
 **10 points** | _Complete the Rayquaza Bonus Challenge without falling into the pit_
 
-info
+All of Rayquaza's attacks are a problem here. I suggest playing cautiously and holding the ball in a flipper to avoid Extremespeed. Be especially wary of Twisters in the centre of the board as they can drop you right in the pit with no opportunity to save the ball.
+
+### Spheal and Sealeo
+
+Access the **Spheal** bonus stage by feeding your ball to Whiscash (RUBY) or Pelipper while its switch is flashing (SAPPHIRE). These can be activated with Slots rewards or MART purchases.
+
+![Spheal and Sealeo bonus board](https://archives.bulbagarden.net/media/upload/a/a7/Pinball_RS_Spheal_Sealeo_Bonus_Stage.png)
+
+This stage is a pure bonus round. There's no win or fail condition, just rack up as many points as you can in 2 minutes by sending your ball and baby Spheal up the ramps where Sealeo will juggle them into the basket. Ball baskets are worth 1 million points, and Spheal baskets 5 million. If you hit Sealeo while it's juggling a Spheal, it _can_ drop it back in the pool without earning any more points. Be careful!
+
+### ![Sphealin' It icon](https://media.retroachievements.org/Badge/21220.png) [Sphealin' It](https://retroachievements.org/achievement/21361)
+
+**10 points** | _In the Spheal bonus, make 6 Spheal go through the basket._
+
+Hit Spheal as they start climbing ramps to send them up towards the Sealeo. If they pop out of the water away from the ramps, hit them to make them dive and resurface in a new spot. **DO NOT** hit the Sealeo while they are juggling.
 
 ***
 
