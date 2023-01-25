@@ -98,8 +98,8 @@ On **Sapphire**, dropping into the pit and relaunching from Spoink will get you 
 
 While this mode doesn't have any dedicated achievements, it will be needed less directly for other achievements later on. Activating this mode works a little differently on each board.
 
-* **Ruby**: Hit Cyndaquil to push it towards the rock pile to warm and hatch the egg. Takes X hits. Enter the empty rock pile after the mode is over to prepare a new egg for hatching.
-* **Sapphire**: Send your ball up the hatch lane to activate the incubator. The Xth loop will hatch the egg. Return after the mode is over to prepare a new egg for hatching.
+* **Ruby**: Hit Cyndaquil to push it towards the rock pile to warm and hatch the egg. Takes 4 hits. Enter the empty rock pile after the mode is over to prepare a new egg for hatching.
+* **Sapphire**: Send your ball up the hatch lane to activate the incubator. The 4th loop will hatch the egg. Return after the mode is over to prepare a new egg for hatching.
 
 When the mode is active, a baby Pokémon will hatch from the egg and wander around the board for around 45 seconds. This time is _not_ extended by the Timer Up power-up, as there is no displayed clock. Hit the Pokémon twice to capture it before it escapes back into the rock pile (Ruby) or into the Poké Mart (Sapphire).
 
@@ -231,6 +231,95 @@ There are several ways to earn extra balls in this game, in addition to the 2 yo
 * Get an extra ball from the HOLE slots.
 * Catch 15, 30, 45, etc Pokémon. Evolved Pokémon count towards this and your current total can be seen next to your balls in the bottom right.
 * Sometimes the Ball Upgrade pick-up on Ruby will have a 1 instead of an arrow. Grab it for an extra ball.
+
+## BONUS Stages
+
+### Kecleon
+Access the **Kecleon** bonus stage by reaching 3 lights on the CATCH! counter then entering the Centre Hole on RUBY.
+
+![Kecleon bonus board](https://archives.bulbagarden.net/media/upload/4/4d/Pinball_RS_Kecleon_Bonus.png)
+
+Kecleon appears in the middle of the stage and promptly turns invisible. Hitting Kecleon will make it fall over. Hitting a fallen Kecleon will do damage and break its invisibility. You have 2 minutes to damage it XX times.
+
+### ![Quick Kecleon Bonus icon](https://media.retroachievements.org/Badge/21331.png) [Quick Kecleon Bonus](https://retroachievements.org/achievement/21389)
+
+**10 points** | _Complete the Kecleon Bonus Challenge with at least 1m remaining_
+
+There are a few tricks that can help speed up completion of this stage. Firstly, having the Timer Up upgrade will give you an extra 30 seconds to work with. As with the other Quick achievements, this is helpful, but not essential. Hitting the tree in the middle of the stage will make it drop a Devon Scope pickup, allowing you to see the invisible Kecleon for 5 seconds. This can be helpful while learning its movement patterns, but I find I tend to waste too much time trying to grab it rather than tracking Kecleon's movements directly. Watch the pool and plants carefully for ripples and movement as these will tell you where your invisible opponent is and which direction its going. You'll be able to tell you've knocked it over from the little dust cloud and accompanying sound effect.
+
+### Duskull
+
+Access the **Duskull** bonus stage by reaching 3 lights on the CATCH! counter then entering the Centre Hole on SAPPHIRE.
+
+![Duskull bonus board](https://archives.bulbagarden.net/media/upload/3/38/Pinball_RS_Dusclops_Bonus_Stage_Duskull.png)
+
+This stage is a graveyard with 2 Duskull wandering around who will be replaced by more Duskull when hit. Hit 20 of them (those that disappear on teir own don't count) to summon Dusclops. You have 2 minutes to summon and defeat Dusclops.
+
+### ![Duskull Bonus icon](https://media.retroachievements.org/Badge/21290.png) [Duskull Bonus](https://retroachievements.org/achievement/21388)
+
+**5 points** | _Complete the Duskull Bonus Challenge_
+
+Hit Dusclops 5 times to beat it. Hitting it from the front when standing still will make it grab your ball for two seconds before firing it back. Instead, bounce your shots to hit its back and sides, or time them to hit while it's walking.
+
+### Groudon
+
+Access the **Groundon** Bonus stage by reaching 3 lights on the CATCH! counter after defeating Kecleon then entering the Centre Hole on RUBY.
+
+![Groudon bonus board](https://archives.bulbagarden.net/media/upload/f/f2/Pinball_RS_Groudon_Stage.png)
+
+fight info
+
+### ![Groudon icon](https://media.retroachievements.org/Badge/21293.png) [Groudon](https://retroachievements.org/achievement/21369)
+
+**10 points** | _Catch Groudon_
+
+Clear the stage twice in one game to catch Groudon. You will need to beat Kecleon again to return to Groudon's stage.
+
+### ![Clean Groudon Battle icon](https://media.retroachievements.org/Badge/21333.png) [Clean Groudon Battle](https://retroachievements.org/achievement/21390)
+
+**10 points** | _Complete the Groudon Bonus Challenge without falling into the pit_
+
+info
+
+### Kyogre
+
+Access the **Kyogre** Bonus stage by reaching 3 lights on the CATCH! counter after defeating Dusclops then entering the Centre Hole on SAPPHIRE.
+
+![Kyogre bonus board](https://archives.bulbagarden.net/media/upload/0/01/Pinball_RS_Kyogre_Stage.png)
+
+fight info
+
+### ![Kyogre icon](https://media.retroachievements.org/Badge/21294.png) [Kyogre](https://retroachievements.org/achievement/21370)
+
+**10 points** | _Catch Kyogre_
+
+Clear the stage twice in one game to catch Kyogre. You will need to beat Dusclops again to return to Kyogre's stage.
+
+### ![Clean Kyogre Battle icon](https://media.retroachievements.org/Badge/21334.png) [Clean Kyogre Battle](https://retroachievements.org/achievement/21391)
+
+**10 points** | _Complete the Kyogre Bonus Challenge without falling into the pit_
+
+info
+
+### Rayquaza
+
+Access the **Rayquaza** Bonus stage by reaching 3 lights on the CATCH! counter after Catching Groudon or Kyogre then entering the Centre Hole.
+
+![Rayquaza bonus board](https://archives.bulbagarden.net/media/upload/a/ad/Pinball_RS_Rayquaza_Bonus.png)
+
+fight info
+
+### ![Rayquaza icon](https://media.retroachievements.org/Badge/21292.png) [Rayquaza](https://retroachievements.org/achievement/21368)
+
+**10 points** | _Catch Rayquaza_
+
+Clear the stage twice in one game to catch Rayquaza. You will need to catch Groudon or Kyogre again to return to Rayquaza's stage.
+
+### ![Clean Rayquaza Battle icon](https://media.retroachievements.org/Badge/21335.png) [Clean Rayquaza Battle](https://retroachievements.org/achievement/21392)
+
+**10 points** | _Complete the Rayquaza Bonus Challenge without falling into the pit_
+
+info
 
 ***
 
