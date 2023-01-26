@@ -566,9 +566,9 @@ By the time you've completed the rest of the set, you should have made significa
 
 |**No.**|**Name**|**Icon**|**Mode**|**Board**|**Location**|**TRAVEL**|**Arrows**|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|001|Treecko|![]()|Catch|RUBY|Forest|![]()|3|
-|||![]()||||![]()||
-|||![]()||||![]()||
+|001|Treecko|![]()|Catch 'Em|RUBY|Forest|![]()|3|
+|002|Grovyle|![]()|EVO|||||
+|003|Sceptile|![]()|EVO|||![]()||
 |||![]()||||![]()||
 |||![]()||||![]()||
 |||![]()||||![]()||
@@ -770,6 +770,6 @@ By the time you've completed the rest of the set, you should have made significa
 
 ***
 
-Thank you for reading my guide. I hope it was helpful! If you have any feedback, additional tips or corrections, you can contact me through RA [here](https://retroachievements.org/user/Gemyma). Shout out to BahamutVoid's Challenge league 2022 for giving me a reason to write all this.
+Thank you for reading my guide. I hope it was helpful! If you have any feedback, additional tips or corrections, you can contact me through RA [here](https://retroachievements.org/user/Gemyma). Shout out to BahamutVoid's [Challenge League 2022](https://retroachievements.org/viewtopic.php?t=15128&o=0) for giving me a reason to write all this.
 
 I've sunk many, _many_ hours into this game over the years, long before I discovered RetroAchievements. I hope you enjoy it as much as I have.
