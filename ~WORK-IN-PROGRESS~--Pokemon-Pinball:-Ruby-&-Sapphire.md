@@ -564,12 +564,14 @@ By the time you've completed the rest of the set, you should have made significa
 
 **50 points** | _Own all 201 available Pokemon_
 
+### Pokédex
+
 |**No.**|**Name**|**Icon**|**Mode**|**Board**|**Location**|**TRAVEL**|**Arrows**|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|001|Treecko|![]()|Catch 'Em|RUBY|Forest|![]()|3|
-|002|Grovyle|![]()|EVO|||||
-|003|Sceptile|![]()|EVO|||![]()||
-|||![]()||||![]()||
+|001|Treecko|![](https://www.serebii.net/pinball_rs/pkmn/001.gif)|Catch 'Em|RUBY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png)|3|
+|002|Grovyle|![](https://www.serebii.net/pinball_rs/pkmn/002.gif)|EVO|||![]()||
+|003|Sceptile|![](https://www.serebii.net/pinball_rs/pkmn/003.gif)|EVO|||![]()||
+|004|Torchic|![](https://www.serebii.net/pinball_rs/pkmn/004.gif)|Catch 'Em|RUBY|Volccano|![](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png)|3|
 |||![]()||||![]()||
 |||![]()||||![]()||
 |||![]()||||![]()||
