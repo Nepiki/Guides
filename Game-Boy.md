@@ -6,4 +6,4 @@ List of Guides (Alphabetical)
 |Pokémon Yellow|[Full](Pok%C3%A9mon-Yellow-(Game-Boy))|[723](https://retroachievements.org/game/723)|
 |\~Hack\~ Pokemon Blue Kaizo |[[m]](Pokemon-Blue-Kaizo-(Hack)-(Game-Boy))|[6690](https://retroachievements.org/game/6690)|
 |\~Hack\~ Pokemon Brown |[[m]](Pokemon-Brown-(Hack)-(Game-Boy))|[7317](https://retroachievements.org/game/7317)
-|\~Hack\~ Pokemon Periwinkle |[Pokedex](Pokemon-Periwinkle-(Game Boy)))|[7798](https://retroachievements.org/game/7798)
+|\~Hack\~ Pokemon Periwinkle |[Pokedex](https://github.com/RetroAchievements/guides/wiki/Pokemon-Periwinkle-(Game-Boy))|[7798](https://retroachievements.org/game/7798)
