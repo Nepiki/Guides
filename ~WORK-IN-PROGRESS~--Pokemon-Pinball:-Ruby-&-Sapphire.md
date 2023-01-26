@@ -574,27 +574,27 @@ By the time you've completed the rest of the set, you should have made significa
 |004|Torchic|![](https://www.serebii.net/pinball_rs/pkmn/004.gif)|Catch 'Em|RUBY|Volcano|![](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png)|3|
 |005|Combusken|![]()|EVO|||![]()||
 |006|Blaziken|![]()||||![]()||
-|007|Mudkip|![]()|Catch 'Em|||![]()||
+|007|Mudkip|![]()|Catch 'Em|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|3|
 |008|Marshtomp|![]()|EVO|||![]()||
 |009|Swampert|![]()|EVO|||![]()||
-|010|Poochyena|![]()|Catch 'Em|||![]()||
+|010|Poochyena|![]()|Catch 'Em|ANY|Plains|![]()|3|
 |011|Mightyena|![]()|EVO|||![]()||
-|012|Zigzagoon|![]()|Catch 'Em|||![]()||
+|012|Zigzagoon|![]()|Catch 'Em|ANY|Forest|![]()|2|
 |013|Linoone|![]()|EVO|||![]()||
 |014|Wurmple|![]()|Hatch|||![]()||
-|015|Silcoon|![]()|Catch 'Em or EVO|||![]()||
+|015|Silcoon|![]()|Catch 'Em or EVO|ANY|Forest|![]()|2|
 |016|Beautifyl|![]()|EVO|||![]()||
-|017|Cascoon|![]()|Catch 'Em or EVO|||![]()||
+|017|Cascoon|![]()|Catch 'Em or EVO|ANY|Forest|![]()|2|
 |018|Dustox|![]()|EVO|||![]()||
 |019|Lotad|![]()|Hatch|||![]()||
-|020|Lombre|![]()|Catch 'Em or EVO|||![]()||
+|020|Lombre|![]()|Catch 'Em or EVO|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
 |021|Ludicolo|![]()|EVO|||![]()||
 |022|Seedot|![]()|Hatch|||![]()||
-|023|Nuzleaf|![]()|Catch 'Em or EVO|||![]()||
+|023|Nuzleaf|![]()|Catch 'Em or EVO|RUBY|Plains|![]()|2|
 |024|Shiftry|![]()|EVO|||![]()||
-|025|Tailow|![]()|Catch 'Em|||![]()||
+|025|Tailow|![]()|Catch 'Em|ANY|Plains|![]()|2|
 |026|Swellow|![]()|EVO|||![]()||
-|027|Wingull|![]()|Catch 'Em|||![]()||
+|027|Wingull|![]()|Catch 'Em|ANY|Ocean|![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Ruby_Ocean.png) / ![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Sapphire_Ocean.png)|2|
 |028|Pelipper|![]()|EVO|||![]()||
 |029|Ralts|![]()|Hatch|||![]()||
 |030|Kirlia|![]()|EVO|||![]()||
@@ -603,172 +603,172 @@ By the time you've completed the rest of the set, you should have made significa
 |033|Masquerain|![]()|EVO|||![]()||
 |034|Shroomish|![]()|Hatch|||![]()||
 |035|Breloom|![]()|EVO|||![]()||
-|036|Slakoth|![]()|Catch 'Em|||![]()||
+|036|Slakoth|![]()|Catch 'Em|ANY|Forest|![]()|2|
 |037|Vigoroth|![]()|EVO|||![]()||
 |038|Slaking|![]()|EVO|||![]()||
-|039|Abra|![]()|Catch 'Em|||![]()||
+|039|Abra|![]()|Catch 'Em|ANY|Cave|![]()|3|
 |040|Kadabra|![]()|EVO|||![]()||
 |041|Alakazam|![]()|EVO|||![]()||
-|042|Nincada|![]()|Catch 'Em|||![]()||
+|042|Nincada|![]()|Catch 'Em|ANY|Forest|![]()|3|
 |043|Ninjask|![]()|EVO|||![]()||
 |044|Shedinja|![]()|EVO|||![]()||
 |045|Whismur|![]()|Hatch|||![]()||
-|046|Loudred|![]()|Catch 'Em or EVO|||![]()||
+|046|Loudred|![]()|Catch 'Em or EVO|ANY|Cave|![]()|2|
 |047|Exploud|![]()|EVO|||![]()||
-|048|Makuhita|![]()|Catch 'Em|||![]()||
+|048|Makuhita|![]()|Catch 'Em|ANY|Cave|![]()|2|
 |049|Hariyama|![]()|EVO|||![]()||
-|050|Goldeen|![]()|Catch 'Em|||![]()||
+|050|Goldeen|![]()|Catch 'Em|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
 |051|Seaking|![]()|EVO|||![]()||
-|052|Magikarp|![]()|Catch 'Em|||![]()||
+|052|Magikarp|![]()|Catch 'Em|ANY|Ocean|![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Ruby_Ocean.png) / ![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Sapphire_Ocean.png)|2|
 |053|Gyarados|![]()|EVO|||![]()||
 |054|Azurill|![]()|Hatch|||![]()||
-|055|Marill|![]()|Catch 'Em or EVO|||![]()||
+|055|Marill|![]()|Catch 'Em or EVO|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|3|
 |056|Azumarill|![]()|EVO|||![]()||
-|057|Geodude|![]()|Catch 'Em|||![]()||
+|057|Geodude|![]()|Catch 'Em|SAPPHIRE|Wilderness|![]()|3|
 |058|Graveller|![]()|EVO|||![]()||
 |059|Golem|![]()|EVO|||![]()||
-|060|Nosepass|![]()|Catch 'Em|||![]()||
+|060|Nosepass|![]()|Catch 'Em|ANY|Cave|![]()|2|
 |061|Skitty|![]()|Hatch|||![]()||
 |062|Delcatty|![]()|EVO|||![]()||
 |063|Zubat|![]()|Hatch|||![]()||
 |064|Golbat|![]()|EVO|||![]()||
 |065|Crobat|![]()|EVO|||![]()||
-|066|Tentacool|![]()|Catch 'Em|||![]()||
+|066|Tentacool|![]()|Catch 'Em|ANY|Ocean|![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Ruby_Ocean.png) / ![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Sapphire_Ocean.png)|2|
 |067|Tentacruel|![]()|EVO|||![]()||
-|068|Sableye|![]()|Catch 'Em|||![]()||
-|069|Mawile|![]()|Catch 'Em|||![]()||
+|068|Sableye|![]()|Catch 'Em|SAPPHIRE|Cave|![]()|3|
+|069|Mawile|![]()|Catch 'Em|RUBY|Cave|![]()|3|
 |070|Aron|![]()|Hatch|||![]()||
 |071|Lairon|![]()|EVO|||![]()||
 |072|Aggron|![]()|EVO|||![]()||
-|073|Machop|![]()|Catch 'Em|||![]()||
+|073|Machop|![]()|Catch 'Em|ANY|Cave|![]()|2|
 |074|Machoke|![]()|EVO|||![]()||
 |075|Machamp|![]()|EVO|||![]()||
-|076|Meditite|![]()|Catch 'Em|||![]()||
+|076|Meditite|![]()|Catch 'Em|ANY|Safari Zone / Wilderness|![]()|2|
 |077|Medicham|![]()|EVO|||![]()||
-|078|Electrike|![]()|Catch 'Em|||![]()||
+|078|Electrike|![]()|Catch 'Em|ANY|Plains|![]()|2|
 |079|Manectric|![]()|EVO|||![]()||
 |080|Plusle|![]()|Hatch|||![]()||
 |081|Minun|![]()|Hatch|||![]()||
-|082|Magnemite|![]()|Catch 'Em|||![]()||
+|082|Magnemite|![]()|Catch 'Em|ANY|Plains|![]()|2|
 |083|Magneton|![]()|EVO|||![]()||
-|084|Voltorb|![]()|Catch 'Em|||![]()||
+|084|Voltorb|![]()|Catch 'Em|ANY|Plains|![]()|3|
 |085|Electrode|![]()|EVO|||![]()||
-|086|Volbeat|![]()|Catch 'Em|||![]()||
-|087|Illumise|![]()|Catch 'Em|||![]()||
+|086|Volbeat|![]()|Catch 'Em|RUBY|Plains|![]()|2|
+|087|Illumise|![]()|Catch 'Em|SAPPHIRE|Plains|![]()|2|
 |088|Oddish|![]()|Hatch|||![]()||
 |089|Gloom|![]()|EVO|||![]()||
 |090|Vileplume|![]()|EVO|RUBY||![]()||
 |091|Bellossom|![]()|EVO|SAPPHIRE||![]()||
-|092|Doduo|![]()|Catch 'Em|||![]()||
+|092|Doduo|![]()|Catch 'Em|RUBY|Safari Zone|![]()|2|
 |093|Dodrio|![]()|EVO|||![]()||
-|094|Roselia|![]()|Catch 'Em|||![]()||
+|094|Roselia|![]()|Catch 'Em|ANY|Plains|![]()|2|
 |095|Gulpin|![]()|Hatch|||![]()||
 |096|Swalot|![]()|EVO|||![]()||
-|097|Carvanha|![]()|Catch 'Em|||![]()||
+|097|Carvanha|![]()|Catch 'Em|ANY|Ocean|![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Ruby_Ocean.png) / ![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Sapphire_Ocean.png)|2|
 |098|Sharpedo|![]()|EVO|||![]()||
-|099|Wailmer|![]()|Catch 'Em|||![]()||
+|099|Wailmer|![]()|Catch 'Em|RUBY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png)|3|
 |100|Wailord|![]()|EVO|||![]()||
-|101|Numel|![]()|Catch 'Em|||![]()||
+|101|Numel|![]()|Catch 'Em|RUBY|Volcano|![]()|2|
 |102|Camerupt|![]()|EVO|||![]()||
-|103|Slugma|![]()|Catch 'Em|||![]()||
+|103|Slugma|![]()|Catch 'Em|RUBY|Volcano|![]()|3|
 |104|Magcargo|![]()|EVO|||![]()||
-|105|Torkoal|![]()|Catch 'Em|||![]()||
-|106|Grimer|![]()|Catch 'Em|||![]()||
+|105|Torkoal|![]()|Catch 'Em|RUBY|Volcano|![]()|2|
+|106|Grimer|![]()|Catch 'Em|ANY|Cave|![]()|2|
 |107|Muk|![]()|EVO|||![]()||
-|108|Koffing|![]()|Catch 'Em|||![]()||
+|108|Koffing|![]()|Catch 'Em|RUBY|Volcano|![]()|2|
 |109|Weezing|![]()|EVO|||![]()||
 |110|Spoink|![]()|Hatch|||![]()||
 |111|Grumpig|![]()|EVO|||![]()||
 |112|Sandshrew|![]()|Hatch|||![]()||
 |113|Sandslash|![]()|EVO|||![]()||
 |114|Spinda|![]()|Hatch|||![]()||
-|115|Skarmory|![]()|Catch 'Em|||![]()||
+|115|Skarmory|![]()|Catch 'Em|RUBY|Volcano|![]()|3|
 |116|Trapinch|![]()|Hatch|||![]()||
-|117|Vibrava|![]()|Catch 'Em or EVO|||![]()||
+|117|Vibrava|![]()|Catch 'Em or EVO|SAPPHIRE|Wilderness|![]()|2|
 |118|Flygon|![]()|EVO|||![]()||
-|119|Cacnea|![]()|Catch 'Em|||![]()||
+|119|Cacnea|![]()|Catch 'Em|SAPPHIRE|Wilderness|![]()|2|
 |120|Cacturne|![]()|EVO|||![]()||
-|121|Swablu|![]()|Catch 'Em|||![]()||
+|121|Swablu|![]()|Catch 'Em|SAPPHIRE|Wilderness|![]()|3|
 |122|Altaria|![]()|EVO|||![]()||
-|123|Zangoose|![]()|Catch 'Em|||![]()||
-|124|Seviper|![]()|Catch 'Em|||![]()||
-|125|Lunatone|![]()|Catch 'Em|||![]()||
-|126|Solrock|![]()|Catch 'Em|||![]()||
-|127|Barboach|![]()|Catch 'Em|||![]()||
+|123|Zangoose|![]()|Catch 'Em|RUBY|Plains|![]()|3|
+|124|Seviper|![]()|Catch 'Em|SAPPHIRE|Plains|![]()|3|
+|125|Lunatone|![]()|Catch 'Em|SAPPHIRE|Cave|![]()|2|
+|126|Solrock|![]()|Catch 'Em|RUBY|Cave|![]()|2|
+|127|Barboach|![]()|Catch 'Em|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
 |128|Whiscash|![]()|EVO|||![]()||
-|129|Corphish|![]()|Catch 'Em|||![]()||
+|129|Corphish|![]()|Catch 'Em|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
 |130|Crawdaunt|![]()|EVO|||![]()||
-|131|Baltoy|![]()|Catch 'Em|||![]()||
+|131|Baltoy|![]()|Catch 'Em|SAPPHIRE|Wilderness|![]()|2|
 |132|Claydol|![]()|EVO|||![]()||
-|133|Lileep|![]()|Catch 'Em|||![]()||
+|133|Lileep|![]()|Catch 'Em|RUBY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png)|3|
 |134|Cradily|![]()|EVO|||![]()||
-|135|Anorith|![]()|Catch 'Em|||![]()||
+|135|Anorith|![]()|Catch 'Em|SAPPHIRE|Ocean|![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Sapphire_Ocean.png)|3|
 |136|Armaldo|![]()|EVO|||![]()||
 |137|Igglybuff|![]()|Hatch|||![]()||
-|138|Jigglypuff|![]()|Catch 'Em or EVO|||![]()||
+|138|Jigglypuff|![]()|Catch 'Em or EVO|ANY|Plains|![]()|2|
 |139|Wigglytuff|![]()|EVO|||![]()||
-|140|Feebas|![]()|Catch 'Em|||![]()||
+|140|Feebas|![]()|Catch 'Em|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
 |141|Milotic|![]()|EVO|||![]()||
-|142|Castform|![]()|Catch 'Em|||![]()||
-|143|Staryu|![]()|Catch 'Em|||![]()||
+|142|Castform|![]()|Catch 'Em|ANY|Plains|![]()|3|
+|143|Staryu|![]()|Catch 'Em|RUBY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png)|3|
 |144|Starmie|![]()|EVO|||![]()||
-|145|Kecleon|![]()|Catch 'Em|||![]()||
+|145|Kecleon|![]()|Catch 'Em|ANY|Plains|![]()|3|
 |146|Shuppet|![]()|Hatch|||![]()||
 |147|Banette|![]()|EVO|||![]()||
-|148|Duskull|![]()|Catch 'Em|||![]()||
+|148|Duskull|![]()|Catch 'Em|ANY|Forest|![]()|2|
 |149|Dusclops|![]()|EVO|||![]()||
-|150|Tropius|![]()|Catch 'Em|||![]()||
+|150|Tropius|![]()|Catch 'Em|SAPPHIRE|Forest|![]()|3|
 |151|Chimecho|![]()|Hatch|||![]()||
-|152|Absol|![]()|Catch 'Em|||![]()||
-|153|Vulpix|![]()|Catch 'Em|||![]()||
+|152|Absol|![]()|Catch 'Em|SAPPHIRE|Wilderness|![]()|2|
+|153|Vulpix|![]()|Catch 'Em|RUBY|Volcano|![]()|2|
 |154|Ninetales|![]()|EVO|||![]()||
 |155|Pichu|![]()|Hatch|||![]()||
-|156|Pikachu|![]()|Catch 'Em or EVO|||![]()||
+|156|Pikachu|![]()|Catch 'Em or EVO|RUBY|Safari Zone|![]()|3|
 |157|Raichu|![]()|EVO|||![]()||
-|158|Psyduck|![]()|Catch 'Em|||![]()||
+|158|Psyduck|![]()|Catch 'Em|RUBY|Safari Zone|![]()|2|
 |159|Golduck|![]()|EVO|||![]()||
 |160|Wynaut|![]()|Hatch|||![]()||
-|161|Wobbuffet|![]()|Catch 'Em or EVO|||![]()||
+|161|Wobbuffet|![]()|Catch 'Em or EVO|RUBY|Safari Zone|![]()|3|
 |162|Natu|![]()|Hatch|||![]()||
 |163|Xatu|![]()|EVO|||![]()||
-|164|Girafarig|![]()|Catch 'Em|||![]()||
+|164|Girafarig|![]()|Catch 'Em|RUBY|Safari Zone|![]()|3|
 |165|Phanpy|![]()|Hatch|||![]()||
 |166|Donphan|![]()|EVO|||![]()||
-|167|Pinsir|![]()|Catch 'Em|||![]()||
-|168|Heracross|![]()|Catch 'Em|||![]()||
-|169|Rhyhorn|![]()|Catch 'Em|||![]()||
+|167|Pinsir|![]()|Catch 'Em|RUBY|Safari Zone|![]()|2|
+|168|Heracross|![]()|Catch 'Em|RUBY|Safari Zone|![]()|2|
+|169|Rhyhorn|![]()|Catch 'Em|RUBY|Safari Zone|![]()|2|
 |170|Rhydon|![]()|EVO|||![]()||
 |171|Snorunt|![]()|Hatch|||![]()||
 |172|Glalie|![]()|EVO|||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
-|||![]()||||![]()||
+|173|Spheal|![]()|Hatch|||![]()||
+|174|Sealeo|![]()|EVO|||![]()||
+|175|Walrein|![]()|EVO|||![]()||
+|176|Clamperl|![]()|Catch 'Em|SAPPHIRE|Ocean|![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Sapphire_Ocean.png)|3|
+|177|Huntail|![]()|EVO|||![]()||
+|178|Gorebyss|![]()|EVO|||![]()||
+|179|Relicanth|![]()|Catch 'Em|ANY|Ocean|![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Ruby_Ocean.png) / ![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Sapphire_Ocean.png)|3|
+|180|Corsola|![]()|Hatch|||![]()||
+|181|Chinchou|![]()|Hatch|||![]()||
+|182|Lanturn|![]()|EVO|||![]()||
+|183|Luvdisc|![]()|Catch 'Em|ANY|Ocean|![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Ruby_Ocean.png) / ![](https://bulbapedia.bulbagarden.net/wiki/File:Pinball_Sapphire_Ocean.png)|2|
+|184|Horsea|![]()|Hatch|||![]()||
+|185|Seadra|![]()|EVO|||![]()||
+|186|Kingdra|![]()|EVO|||![]()||
+|187|Bagon|![]()|Hatch|||![]()||
+|188|Shelgon|![]()|Catch 'Em or EVO|ANY|Cave|![]()|2|
+|189|Salamence|![]()|EVO|||![]()||
+|190|Beldum|![]()|Catch 'Em|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)|2|
+|191|Metang|![]()|EVO|||![]()||
+|192|Metagross|![]()|EVO|||![]()||
+|193|Regirock|![]()|Catch 'Em|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)|2|
+|194|Regice|![]()|Catch 'Em|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)|3|
+|195|Registeel|![]()|Catch 'Em|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)|2|
+|196|Latias|![]()|Catch 'Em|SAPPHIRE|Any|![]()|3|
+|197|Latios|![]()|Catch 'Em|RUBY|Any|![]()|3|
+|198|Kyogre|![]()|BONUS|SAPPHIRE||![]()||
+|199|Groudon|![]()|BONUS|RUBY||![]()||
+|200|Rayquaza|![]()|BONUS|ANY||![]()||
+|201|Jirachi|![]()|Start Slots|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)||
 
 ***
 
