@@ -54,14 +54,14 @@ Most of these should be fairly self-explanatory, but I'm including a full list h
 # 2) Game Modes
 The main gameplay cycle, and best way to earn points, is to keep catching and evolving Pokémon to progress through the different BONUS stages, with later ones being worth more points. Every three balls lit up in the centre sends you to a BONUS stage in this order: 1, 2, 1, 2, 3 (then repeat).
 Mode List:
-* CATCH
-* HATCH
-* EVOLUTION
+* Catch 'Em
+* Hatch
+* EVO
 * TRAVEL
-* Kecleon BONUS (Ruby 1)
-* Duskull and Dusclops BONUS (Sapphire 1)
-* Groudon BONUS (Ruby 2)
-* Kyogre BONUS (Sapphire 2)
+* Kecleon BONUS (RUBY 1)
+* Duskull and Dusclops BONUS (SAPPHIRE 1)
+* Groudon BONUS (RUBY 2)
+* Kyogre BONUS (SAPPHIRE 2)
 * Rayquaza BONUS (3)
 * Spheal and Sealeo BONUS
 
@@ -122,6 +122,24 @@ The pick-up's appearance may vary depending on the Pokémon's evolution requirem
 The description here is fairly self-explanatory - collect all three pick-ups in 30 seconds. This is largely a test of player skill as it comes down to your ability to grab each pick-up efficiently without too many wasted shots. The more you play the game and EVO mode, the better a grasp you will have on how to send the ball to each pick-up location. Getting lucky with a set of spots that suit you is also a contributing factor. Keep in mind that sometimes it may be faster to drop your ball in the pit and fire it from Spoink for certain spots if you have trouble with them.
 
 As with the similar Quick Catch achievement, the Timer Up from the Shop or Slots extends the time limit to 1 minute. The power-up again makes this much easier, but isn't necessary.
+
+## TRAVEL Mode - 0 achievements, 0 points
+
+While this mode doesn't have any dedicated achievements, it will be needed less directly for other achievements later on. Activating this mode works a little differently on each board.
+
+* **Ruby**: Hit Chikorita to bring out the Linoones. Hit the left one to summon a Gulpin above it. Stack 3 Gulpin to start TRAVEL Mode
+* **Sapphire**: Hit the button beneath the basket on the left to summon a Seedot. Gather 3 Seedot to start TRAVEL Mode
+
+On both boards, one of the summoned Pokémon will leave after a minute. When TRAVEL Mode starts, you have 1 minute to send the ball up the GET or EVO loops once then into the Centre Hole. Going left will send you up the following list of locations, and right will go down. Travelling 6 times will take you to the Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif).
+
+|**RUBY**|**RUBY**| |**SAPPHIRE**|**SAPPHIRE**|
+|:--|:--|:--|:--|:--|
+|Forest|![Ruby Forest](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png)||Forest|![Sapphire Forest](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|
+|Volcano|![Volcano](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png)||Lake|![Lake](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|
+|Plains|![Ruby Plains](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png)||Plains|![Sapphire Plains](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|
+|Ocean|![Ruby Ocean](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png)||Wilderness|![Wilderness](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_Sapphire_Wilderness.png)|
+|Safari Zone|![Safari Zone](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)||Ocean|![Sapphire Ocean](https://archives.bulbagarden.net/media/upload/f/f4/Pinball_Sapphire_Ocean.png)|
+|Cave|![Ruby Cave](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png)||Cave|![Sapphire Cave](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|
 
 ## Poké MART, Upgrades and HOLE slots - 11 achievements, 40 points
 
@@ -232,7 +250,7 @@ There are several ways to earn extra balls in this game, in addition to the 2 yo
 * Catch 15, 30, 45, etc Pokémon. Evolved Pokémon count towards this and your current total can be seen next to your balls in the bottom right.
 * Sometimes the Ball Upgrade pick-up on Ruby will have a 1 instead of an arrow. Grab it for an extra ball.
 
-## BONUS Stages
+## BONUS Stages - 9 achievements, 85 points
 
 ### Kecleon
 Access the **Kecleon** bonus stage by reaching 3 lights on the CATCH! counter then entering the Centre Hole on RUBY.
@@ -354,16 +372,402 @@ This stage is a pure bonus round. There's no win or fail condition, just rack up
 
 Hit Spheal as they start climbing ramps to send them up towards the Sealeo. If they pop out of the water away from the ramps, hit them to make them dive and resurface in a new spot. **DO NOT** hit the Sealeo while they are juggling.
 
-***
+## Score and Single game catch- 8 achievements, 104 points
+
+A large part of any score achievement is simply staying alive long enough for the needed points to build up, but there are a number of ways to help build that score faster.
+
+Ball upgrades multiply all points earned while active, so keep going for the field multiplier lights or on RUBY, the upgrade pickup. Having one active on completion of a bonus stage will also multiply the stage rewards, but be careful - dropping the ball in the pit during these will instantly drop your ball upgrade by one level.
+
+Almost any given action on the boards will award some points, but most of these are too small to be worth focusing on. The main focus when going for a high score should be on continually catching and evolving Pokémon to keep playing the bonus boards. The most efficient way to do this is to catch or hatch one Pokémon, then evolve it as EVO mode gives 2 lights on the CATCH! Counter compared to just one for the other two modes. This does not 'roll over' so completing an EVO with a single light left is effectively wasting a light.
+
+|**Bonus**|**Score**|
+|:--|:--|
+|Kecleon|30,000,000|
+|Duskull|30,000,000|
+|Groudon|50,000,000|
+|Kyogre|50,000,000|
+|Rayquaza|99,999,999|
+|Ball basket in Spheal & Sealeo|1,000,000|
+|Spheal basket in Spheal & Sealeo|5,000,000|
+
+At the end of each ball, you'll be awarded an End of Ball bonus calculated from how many times you've done certain events during that ball then multiplied by your Bonus Multiplier. These can add up quite quickly.
+
+![End of Ball Bonus Pika Saver](https://i.imgur.com/fRZjAeZ.png) ![End of Ball Bonus](https://i.imgur.com/tuI6ywx.png)
+
+|**Task**|**Score**|
+|:--|:--|
+|Pokémon Caught|500,000|
+|Pokémon Evolved|750,000|
+|Traveled Area|500,000|
+|Slot Played|100,000|
+|Pika Saver|100,000|
+
+### ![1st Place Ruby icon](https://media.retroachievements.org/Badge/21142.png) [1st Place Ruby](https://retroachievements.org/achievement/4307)
+
+**2 points** | _Get over 100,000,000 points on the Ruby table_
+
+### ![1st Place Sapphire icon](https://media.retroachievements.org/Badge/21143.png) [1st Place Sapphire](https://retroachievements.org/achievement/4308)
+
+**2 points** | _Get over 100,000,000 points on the Sapphire table_
+
+### ![Welcome to the Club icon](https://media.retroachievements.org/Badge/21305.png) [Welcome to the Club](https://retroachievements.org/achievement/21348)
+
+**5 points** | _Get over 500,000,000 points on any table_
+
+### ![Bouncer icon](https://media.retroachievements.org/Badge/21306.png) [Bouncer](https://retroachievements.org/achievement/21349)
+
+**10 points** | _Get over 1,000,000,000 points on any table_
+
+### ![Multi-Billionaire icon](https://media.retroachievements.org/Badge/21307.png) [Multi-Billionaire](https://retroachievements.org/achievement/21350)
+
+**25 points** | _Get over 2,000,000,000 points on any table_
+
+### ![High Roller icon](https://media.retroachievements.org/Badge/21308.png) [High Roller](https://retroachievements.org/achievement/21351)
+
+**50 points** | _Get over 4,000,000,000 points on any table_
+
+While going for the high scores, you should be catching and evolving a lot of Pokémon along the way. In doing so, you should be able to pick up these with little to no additional effort.
+
+### ![Catching Spree icon](https://media.retroachievements.org/Badge/21327.png) [Catching Spree](https://retroachievements.org/achievement/4304)
+
+**5 points** | _Catch 20 or more Pokemon in a single game_
+
+### ![Ketchum icon](https://media.retroachievements.org/Badge/21270.png) [Ketchum](https://retroachievements.org/achievement/21347)
+
+**5 points** | _Catch 40 or more Pokemon in a single game_
+
+## Specific Pokémon - 16 achievements, 100 points
+
+Most of this section is for Pokémon that must be caught or hatched in their lowest form and then evolved twice.
+
+### ![Sceptile icon](https://media.retroachievements.org/Badge/21326.png) [Sceptile](https://retroachievements.org/achievement/21387)
+
+**5 points** | _Fully evolve Treecko_
+
+Treecko can be caught in Forest ![Forest icon](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) with 3 arrows on RUBY.
+
+### ![Blaziken icon](https://media.retroachievements.org/Badge/21325.png) [Blaziken](https://retroachievements.org/achievement/21386)
+
+**5 points** | _Fully evolve Torchic_
+
+Torchic can be caught in Volcano ![Volcano icon](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png) with 3 arrows on Ruby.
+
+### ![Swampert icon](https://media.retroachievements.org/Badge/21324.png) [Swampert](https://retroachievements.org/achievement/21385)
+
+**5 points** | _Fully evolve Mudkip_
+
+Mudkip can be caught in Lake ![Lake icon](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png) with 3 arrows on SAPPHIRE.
+
+### ![Beautox icon](https://media.retroachievements.org/Badge/21323.png) [Beautox](https://retroachievements.org/achievement/21384)
+
+**5 points** | _Fully evolve Wurmple to both Beautifly and Dustox_
+
+Wurmple can be hatched on any board. It evolves randomly into either Silcoon or Cascoon, both of which can be caught in Forest ![Forest icon](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png)/![Forest icon](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png) with 2 arrows on either board. Evolve Silcoon to Get Beautifly and Cascoon for Dustox.
+
+### ![Gardevoir icon](https://media.retroachievements.org/Badge/21322.png) [Gardevoir](https://retroachievements.org/achievement/21383)
+
+**5 points** | _Fully evolve Ralts_
+
+Ralts can be hatched on either board.
+
+### ![Slaking icon](https://media.retroachievements.org/Badge/21321.png) [Slaking](https://retroachievements.org/achievement/21382)
+
+**5 points** | _Fully evolve Slakoth_
+
+Slakoth can be caught in Forest ![Forest icon](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png)/![Forest icon](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png) with 2 arrows on either board.
+
+### ![Alakazam icon](https://media.retroachievements.org/Badge/21320.png) [Alakazam](https://retroachievements.org/achievement/21381)
+
+**5 points** | _Fully evolve Abra_
+
+Abra can be caught in Cave ![Cave icon](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png)/![Cave icon](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png) with 3 arrows on either board.
+
+### ![Golem icon](https://media.retroachievements.org/Badge/21319.png) [Golem](https://retroachievements.org/achievement/21380)
+
+**5 points** | _Fully evolve Geodude_
+
+Geodude can be caught in Wilderness ![Wilderness icon](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_Sapphire_Wilderness.png) with 3 arrows on SAPPHIRE.
+
+### ![Crobat icon](https://media.retroachievements.org/Badge/21318.png) [Crobat](https://retroachievements.org/achievement/21379)
+
+**5 points** | _Fully evolve Zubat_
+
+Zubat can be hatched on either board.
+
+### ![Aggron icon](https://media.retroachievements.org/Badge/21317.png) [Aggron](https://retroachievements.org/achievement/21378)
+
+**5 points** | _Fully evolve Aron_
+
+Aron can be hatched on either board.
+
+### ![Machamp icon](https://media.retroachievements.org/Badge/21316.png) [Machamp](https://retroachievements.org/achievement/21377)
+
+**5 points** | _Fully evolve Machop_
+
+Machop can be caught in Cave ![Cave icon](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png)/![Cave icon](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png) with 2 arrows on either board.
+
+### ![Vileplume icon](https://media.retroachievements.org/Badge/21315.png) [Vileplume](https://retroachievements.org/achievement/21376)
+
+**5 points** | _Fully evolve Oddish_
+
+Oddish can be hatched on either board.
+
+### ![Kingdra icon](https://media.retroachievements.org/Badge/21299.png) [Kingdra](https://retroachievements.org/achievement/21374)
+
+**5 points** | _Fully evolve Horsea_
+
+Horsea can be hatched on either board.
+
+### ![Metagross icon](https://media.retroachievements.org/Badge/21297.png) [Metagross](https://retroachievements.org/achievement/21373)
+
+**5 points** | _Fully evolve Beldum_
+
+Beldum can be caught in Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif) with 2 arrows on either board.
 
 ### ![Regitrio icon](https://media.retroachievements.org/Badge/21296.png) [Regitrio](https://retroachievements.org/achievement/21372)
 
 **5 points** | _Catch Registeel, Regice and Regirock_
 
-These Pokémon appear normally in Catch 'Em mode in the Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif) TRAVEL location. Registeel and Regirock appear with 2 GET arrows and Regice needs all 3.
+These Pokémon can be caught in Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif) on either board. Registeel and Regirock appear with 2 arrows and Regice needs 3.
 
 ### ![Latios Latias icon](https://media.retroachievements.org/Badge/21295.png) [Latios Latias](https://retroachievements.org/achievement/21371)
 
 **25 points** | _Catch Latios and Latias_
 
-These Pokémon have a very small (<1%) chance to appear in Catch 'Em mode in _any_ location. Latios (blue) only appears on the Ruby board, and Latias (red) on the Sapphire one.
+These Pokémon have a very small (<1%) chance to be caught in _any_ location. Latios (blue) only appears on RUBY, and Latias (red) on SAPPHIRE.
+
+## Pokédex Completion - 6 achievements, 95 points
+
+By the time you've completed the rest of the set, you should have made significant progress on this final set of achievements. Below is a full dex listing by number to help you track down those last few elusive Pokémon needed to complete your dex.
+
+### ![New Trainer in Town icon](https://media.retroachievements.org/Badge/21309.png) [New Trainer in Town]()
+
+**2 points** | _Own at least 5 unique Pokemon_
+
+### ![Filling in the Blanks icon](https://media.retroachievements.org/Badge/21310.png) [Filling in the Blanks](https://retroachievements.org/achievement/21353)
+
+**3 points** | _Own at least 20 unique Pokemon_
+
+### ![Hobbyist icon](https://media.retroachievements.org/Badge/21311.png) [Hobbyist](https://retroachievements.org/achievement/21354)
+
+**5 points** | _Own at least 50 unique Pokemon_
+
+### ![Pokemon Collector icon](https://media.retroachievements.org/Badge/21312.png) [Pokemon Collector](https://retroachievements.org/achievement/21355)
+
+**10 points** | _Own at least 100 unique Pokemon_
+
+### ![Research Addict icon](https://media.retroachievements.org/Badge/21313.png) [Research Addict](https://retroachievements.org/achievement/21356)
+
+**25 points** | _Own at least 175 unique Pokemon_
+
+### ![Complete pokedex icon](https://media.retroachievements.org/Badge/21314.png) [Complete Pokedex](https://retroachievements.org/achievement/21357)
+
+**50 points** | _Own all 201 available Pokemon_
+
+|**No.**|**Name**|**Icon**|**Mode**|**Board**|**Location**|**TRAVEL**|**Arrows**|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|001|Treecko|![]()|Catch|RUBY|Forest|![]()|3|
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+|||![]()||||![]()||
+
+***
+
+Thank you for reading my guide. I hope it was helpful!
