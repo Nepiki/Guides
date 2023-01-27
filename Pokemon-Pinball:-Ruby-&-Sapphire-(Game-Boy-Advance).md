@@ -1,6 +1,35 @@
 ![Start screen](https://media.retroachievements.org/Images/000658.png)
 
-# 1 Overview
+# 1. Table of Contents
+- [Overview](#2.-overview)
+   - [Button Config and Ball Speed](#button-config-and-ball-speed)
+   - [The Boards](#the-boards)
+      - [Board Features](#board-features)
+      - [RUBY Features](#ruby)
+      - [SAPPHIRE Features](#sapphire)
+- [Game Modes](#3.-game-modes)
+- [Achievement Guide](#4.-achievement-guide)
+   - [Catch 'Em Mode - 2 achievements, 6 points](#catch-em-mode---2-achievements-6-points)
+   - [Hatch mode - 0 achievements, 0 points](#hatch-mode---0-achievements-0-points)
+   - [Evolution Mode - 2 achievements, 8 points](#evolution-mode---2-achievements-8-points)
+   - [Travel Mode - 0 achievements, 0 points](#travel-mode---0-achievements-0-points)
+   - [Pokémon Mart, Upgrades and Start slots - 11 achievements, 40 points](#pokémon-mart-upgrades-and-start-slots---11-achievements-40-points)
+      - [Pokémon Mart](#-big-spender)
+      - [Start Slots](#-dark-hole)
+   - [BONUS Stages - 9 achievements, 85 points](#bonus-stages---9-achievements-85-points)
+      - [Kecleon](#kecleon)
+      - [Duskull and Dusclops](#duskull-and-dusclops)
+      - [Groudon](#groudon)
+      - [Kyogre](#kyogre)
+      - [Rayquaza](#rayquaza)
+      - [Spheal and Sealeo](#spheal-and-sealeo)
+   - [Score, Single game catch and Leaderboards - 8 achievements, 104 points, 4 leaderboards](#score-single-game-catch-and-leaderboards---8-achievements-104-points-4-leaderboards)
+   - [Specific Pokémon - 16 achievements, 100 points](#specific-pokémon---16-achievements-100-points)
+   - [Pokédex Completion - 6 achievements, 95 points](#pokédex-completion---6-achievements-95-points)
+      - [Pokédex](#pokédex)
+- [Credits](#5.-credits)
+
+# 2. Overview
 
 [Pokémon Pinball: Ruby & Sapphire](https://retroachievements.org/game/789) is (unsurprisingly) a Pokémon-themed pinball game, specifically focusing on  Pokémon and locations featured in Pokémon Ruby and Sapphire, originally released in 2003. It features great integration of Pokémon mechanics into pinball gameplay. The set was created by [Brian](https://retroachievements.org/user/Brian) in 2014 and features 54 achievements worth a total of 438 points.
 ## Button Config and Ball Speed
@@ -41,7 +70,7 @@ Most of these should be fairly self-explanatory, but I'm including a full list h
 * Spoink - _right_. Ball launcher.
 * Travel button - _left_. Hit this button/Linoone to charge Travel mode.
 
-**RUBY**:
+### RUBY:
 * Chikorita - _HATCH_. Hit the button to have it wake the Linoones.
 * Cyndaquil - _left of bumper pit_. Push it up the path to heat and hatch the egg.
 * _Left_ Linoone - Travel button.
@@ -49,11 +78,11 @@ Most of these should be fairly self-explanatory, but I'm including a full list h
 * Makuhita - _right_. Press the right flipper when active to make it punch forwards. Time this carefully to send the ball up the coin lane or around the upper loop. 
 * Nuzleaf - _upper loop_. Hitting it twice will create a bridge so you can collect the Field Multiplier pick-up.
 
-**SAPPHIRE**: 
+### SAPPHIRE: 
 * Pelipper - _right of bumper pit_. When facing up, will catch the ball and drop it above the bumper pit. If the P button beneath it is lit, will take you to the Spheal BONUS stage.
 * Zigzagoon - _right_. Alerted/calmed by the button under it. When active, press A to instantly stop the HOLE slots.
 
-# 2 Game Modes
+# 3. Game Modes
 The main gameplay cycle, and best way to earn points, is to keep catching and evolving Pokémon to progress through the different BONUS stages, with later ones being worth more points. Every three balls lit up in the centre sends you to a BONUS stage in this order: 1, 2, 1, 2, 3 (then repeat).
 Mode List:
 * Catch 'Em
@@ -67,7 +96,7 @@ Mode List:
 * Rayquaza Bonus (3)
 * Spheal and Sealeo Bonus
 
-# 3 Achievement Guide
+# 4. Achievement Guide
 ## Catch 'Em Mode - 2 achievements, 6 points
 ### ![Captured icon](https://media.retroachievements.org/Badge/21141.png) [Captured](https://retroachievements.org/achievement/4306)
 
@@ -786,6 +815,8 @@ By the time you've completed the rest of the set, you should have made significa
 |201|Jirachi|![](https://www.serebii.net/pinball_rs/pkmn/201.gif)|Start Slots|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)||
 
 ***
+
+## 5. Credits
 
 Thank you for reading my guide. I hope it was helpful! If you have any feedback, additional tips or corrections, you can contact me through RA [here](https://retroachievements.org/user/Gemyma). Shout out to BahamutVoid's [Challenge League 2022](https://retroachievements.org/viewtopic.php?t=15128&o=0) for giving me a reason to write all this. Images linked from [RetroAchievements](https://retroachievements.org/), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) and [Serebii](https://www.serebii.net/).
 
