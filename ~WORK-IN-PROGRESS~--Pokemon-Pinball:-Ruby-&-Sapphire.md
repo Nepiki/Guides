@@ -23,47 +23,49 @@ There are two main playing boards, one representing each game, with separate lea
 
 ### Board features
 Most of these should be fairly self-explanatory, but I'm including a full list here for easy reference:
-* Ball upgrades - activate all 3 lights above the bumper pit to upgrade your Poké Ball to Great/Ultra/Master Ball for increased score multipliers. Cycle through them with the flipper buttons. Ruby also has a ball upgrade pickup on the raised loop.
-* Bonus multiplier - hit this button to increase the number. End of Ball Bonuses will be multiplied by this.
-* BONUS Tracker - catching or hatching lights up one ball, evolution lights up two. When all three are lit, the next bonus stage activates.
-* Bumper pit - hit Chinchou/Lotad/Shroomish for points and to reveal your target in CATCH mode.
-* CATCH - when GET is active, enter Sharpedo/Wailmer's mouth to start.
-* Coin lane - send the ball up this path to earn 1, 5 or 10 coins.
-* Flippers - you! The main means of controlling the game.
-* GET/EVO - charge these by sending the ball up the respective path to activate CATCH and EVOLUTION modes
-* HATCH - charge and activate HATCH mode here. 
-* Pikachu/Pichu - when charged, these Pokémon will prevent a ball that hits them from falling into the pit. Use the flippers to change Pikachu's side.
-* Poké Ball - this spot is used in several game modes and the centre becomes a warp to access HOLE slots and BONUS stages.
-* Pokémon Mart/Centre - hit the door/the Plusle and Minun switches to open the mart and buy upgrades. When Evo is charged, door opens and becomes the Pokémon Centre.
-* SAVER - when active, Latios/Latias will catch your ball to keep it from falling into the pit and return it to Spoink.
-* Spoink - ball launcher.
-* TRAVEL - charge this with 3 Gulpin/Seedot to activate TRAVEL mode. Your current location is displayed in the middle of the board.
+* Bonus Multiplier - _right of bumper pit_. Hit this button to increase the number. End of Ball Bonuses will be multiplied by this.
+* Bumper Pit - _top_. Hit Chinchou/Lotad/Shroomish for points and to reveal your target in Catch 'Em mode.
+* CATCH - _right_. When GET has 2/3 arrows, enter Sharpedo/Wailmer's mouth to start Catch 'Em mode.
+* CATCH! Counter - _centre, between SAVER and icon panel_. Catching or hatching lights up one ball, evolution lights up two. When all three are lit, the next bonus stage activates.
+* Centre Hole - _centre_. Becomes a warp to complete EVO and Travel or to access Start slots and BONUS stages.
+* Coin lane - _left, above EVO_. Send the ball up this path to earn 1, 5 or 10 coins.
+* Field Multiplier Upgrade - _above the bumper pit_. Activate all 3 lights to upgrade your Poké Ball for increased score multipliers. Cycle through them with the flipper buttons. RUBY also has a pick-up on the upper loop that has the same effect.
+* Flippers - _bottom centre, you_! The main means of controlling the game.
+* GET/EVO - _right/left loops_. Charge these by sending the ball up the respective path to activate Catch 'Em and Evolution modes
+* HATCH - _left of bumper pit on RUBY, right of CATCH on SAPPHIRE_. Charge and activate Hatch mode here. 
+* HOLE lights - _4 lanes leading to pit at bottom_. When lit, the lights spell out HOLE. Light all 4 to play the Start Slots.
+* Icon panel - _centre_. Displays current location, slots or current event or mode information.
+* Pikachu/Pichu - _bottom left and right_. Charge with spinner on GET loop. When charged, these Pokémon will prevent a ball that hits them from falling into the pit. Use the flippers to change Pikachu's side.
+* Pokémon Mart/Center - _right on RUBY, left on SAPPHIRE_. Hit the door/the Plusle and Minun switches to open the Mart and buy upgrades. When EVO is charged, door opens and becomes the Pokémon Center.
+* SAVER - _Bottom centre_. When active, Latios/Latias will catch your ball to keep it from falling into the pit and return it to Spoink.
+* Spoink - _right_. Ball launcher.
+* Travel button - _left_. Hit this button/Linoone to charge Travel mode.
 
-**Ruby**:
-* Chikorita - hit the button to have it wake the Linoones.
-* Cyndaquil - push it up the bath to heat and hatch the egg.
-* Left Linoone - travel button.
-* Right Linoone - alerts/calms Makuhita. 
-* Makuhita - Press the right flipper when active to make it punch forwards. Time this carefully to send the ball up the coin chute or around the yellow loop. 
-* Nuzleaf - hitting it twice will create a bridge so you can collect the ball upgrade.
+**RUBY**:
+* Chikorita - _HATCH_. Hit the button to have it wake the Linoones.
+* Cyndaquil - _left of bumper pit_. Push it up the path to heat and hatch the egg.
+* _Left_ Linoone - Travel button.
+* _Right_ Linoone - alerts/calms Makuhita. 
+* Makuhita - _right_. Press the right flipper when active to make it punch forwards. Time this carefully to send the ball up the coin lane or around the upper loop. 
+* Nuzleaf - _upper loop_. Hitting it twice will create a bridge so you can collect the Field Multiplier pick-up.
 
-**Sapphire**: 
-* Pelipper - When facing up, will catch the ball and drop it above the bumper pit. If the P button beneath it is lit, will take you to the Spheal BONUS stage.
-* Zigzagoon - alerted/calmed by the button under it. When active, press A to instantly stop the HOLE slots.
+**SAPPHIRE**: 
+* Pelipper - _right of bumper pit_. When facing up, will catch the ball and drop it above the bumper pit. If the P button beneath it is lit, will take you to the Spheal BONUS stage.
+* Zigzagoon - _right_. Alerted/calmed by the button under it. When active, press A to instantly stop the HOLE slots.
 
 # 2) Game Modes
 The main gameplay cycle, and best way to earn points, is to keep catching and evolving Pokémon to progress through the different BONUS stages, with later ones being worth more points. Every three balls lit up in the centre sends you to a BONUS stage in this order: 1, 2, 1, 2, 3 (then repeat).
 Mode List:
 * Catch 'Em
 * Hatch
-* EVO
-* TRAVEL
-* Kecleon BONUS (RUBY 1)
+* Evolution
+* Travel
+* Kecleon Bonus (RUBY 1)
 * Duskull and Dusclops BONUS (SAPPHIRE 1)
-* Groudon BONUS (RUBY 2)
-* Kyogre BONUS (SAPPHIRE 2)
-* Rayquaza BONUS (3)
-* Spheal and Sealeo BONUS
+* Groudon Bonus (RUBY 2)
+* Kyogre Bonus (SAPPHIRE 2)
+* Rayquaza Bonus (3)
+* Spheal and Sealeo Bonus
 
 # 3) Achievement Guide
 ## Catch 'Em Mode - 2 achievements, 6 points
@@ -71,9 +73,9 @@ Mode List:
 
 **1 point** | _Catch a Pokémon_
 
-To activate catch 'em mode, send the ball up the GET loop twice then go into Sharpedo/Wailmer's mouth. This will start the mode with a 2 minute time limit and a 30 second Ball Saver. Going up the loop again before starting will light the third arrow and change the selection of Pokémon available to catch.
+To activate Catch 'Em mode, send the ball up the GET loop twice then go into Sharpedo/Wailmer's mouth. This will start the mode with a 2 minute time limit and a 30 second Ball Saver. Going up the loop again before starting will light the third arrow and change the selection of Pokémon available to catch.
 
-During catch 'em mode, the travel icon in the centre panel will change to a silhouette of the Pokémon you're trying to catch. Hit three Chinchou/Lotad/Shroomish bumpers to reveal it. The Pokémon will then spawn in the middle of the board. Hit it three times to capture it.
+During Catch 'Em mode, the icon panel will show a silhouette of the Pokémon you're trying to catch. Hit three Chinchou/Lotad/Shroomish bumpers to reveal it. The Pokémon will then appear below the panel. Hit it three times to capture.
 
 ### ![Quick Catch icon](https://media.retroachievements.org/Badge/21271.png) [Quick Catch](https://retroachievements.org/achievement/21358)
 
@@ -83,25 +85,25 @@ This achievement is essentially asking you to catch a Pokémon in 30 seconds, bu
 
 Hitting three bumpers without leaving the area will reveal the entire silhouette at once, letting you move to the second phase much faster. Entering the bumper area from above by tilting the board is usually the easiest way to achieve this.
 
-On **Ruby**, the formation of bumpers can be changed by hitting the button between them and Cyndaquil. The formations are:
+On **RUBY**, the formation of bumpers can be changed by hitting the button between them and Cyndaquil. The formations are:
 * Three Chinchou rotating clockwise
 * Three Chinchou rotating anti-clockwise
 * Three Chinchou moving up and down
-* One single rotating Chinchou
+* One single Chinchou rotating clockwise
 * Three Lotad not moving
 
-Launching into a three rotating Chinchou formation from below can also easily get three consecutive bumper hits.
+Sending the ball into a three rotating Chinchou formation from below can also easily get three consecutive bumper hits.
 
-On **Sapphire**, dropping into the pit and relaunching from Spoink will get you two quick hits on a spawned Pokémon.
+On **SAPPHIRE**, dropping into the pit and relaunching from Spoink will get you two quick hits on a revealed Pokémon.
 
 ## Hatch mode - 0 achievements, 0 points
 
 While this mode doesn't have any dedicated achievements, it will be needed less directly for other achievements later on. Activating this mode works a little differently on each board.
 
-* **Ruby**: Hit Cyndaquil to push it towards the rock pile to warm and hatch the egg. Takes 4 hits. Enter the empty rock pile after the mode is over to prepare a new egg for hatching.
-* **Sapphire**: Send your ball up the hatch lane to activate the incubator. The 4th loop will hatch the egg. Return after the mode is over to prepare a new egg for hatching.
+* **RUBY**: Hit Cyndaquil to push it towards the rock pile to warm and hatch the egg. Takes 4 hits. Enter the empty rock pile after the mode is over to prepare a new egg for hatching.
+* **SAPPHIRE**: Send your ball up the HATCH lane to activate the incubator. The 4th loop will hatch the egg. Return after the mode is over to prepare a new egg for hatching.
 
-When the mode is active, a baby Pokémon will hatch from the egg and wander around the board for around 45 seconds. This time is _not_ extended by the Timer Up power-up, as there is no displayed clock. Hit the Pokémon twice to capture it before it escapes back into the rock pile (Ruby) or into the Poké Mart (Sapphire).
+When the mode is active, a baby Pokémon will hatch from the egg and wander around the board for around 45 seconds. This time is _not_ extended by the Timer Up power-up, as there is no displayed clock. Hit the Pokémon twice to capture it before it escapes back into the rock pile (RUBY) or into the Poké Mart (SAPPHIRE).
 
 ## Evolution Mode - 2 achievements, 8 points
 
@@ -109,28 +111,28 @@ When the mode is active, a baby Pokémon will hatch from the egg and wander arou
 
 **3 points** | _Evolve a Pokémon_
 
-To activate evolution mode, send the ball up the EVO loop three times, then into the Poké Mart, which has now become the Poké Center. You must have already caught or hatched an evolvable Pokémon in the current game. Pokémon you have already fully evolved do not count. Select the Pokémon you want to evolve and the mode will start with a 2 minute time limit and a 30 second Ball Saver.
+To activate Evolution mode, send the ball up the EVO loop three times, then into the Pokémon Mart, which has now become the Pokémon Center. You must have already caught or hatched an evolvable Pokémon in the current game. Pokémon you have already fully evolved do not count. Select the Pokémon you want to evolve and the mode will start with a 2 minute time limit and a 30 second Ball Saver.
 
 A pick-up will appear in one of several spots around the board. When collected another will appear, then a third. After collecting all three, the Centre Hole will open. Enter it to evolve your chosen Pokémon.
 
-The pick-up's appearance may vary depending on the Pokémon's evolution requirements in the main series. Most use a golden Ex for experience and level-based evolution, but elemental stones and hearts indicating friendship are also used. These differences are solely cosmetic and do not affect gameplay.
+The pick-up's appearance may vary depending on the Pokémon's evolution requirements in the main series. Most use a golden EX for experience and level-based evolution, but elemental stones, link cables and hearts indicating friendship are also used. These differences are solely cosmetic and do not affect gameplay.
 
 ### ![Accelerated Evolution icon](https://media.retroachievements.org/Badge/21272.png) [Accelerated Evolution](https://retroachievements.org/achievement/21359)
 
 **5 points** | _Collect all 3 evolution items in EVO mode with at least 1m30s remaining_
 
-The description here is fairly self-explanatory - collect all three pick-ups in 30 seconds. This is largely a test of player skill as it comes down to your ability to grab each pick-up efficiently without too many wasted shots. The more you play the game and EVO mode, the better a grasp you will have on how to send the ball to each pick-up location. Getting lucky with a set of spots that suit you is also a contributing factor. Keep in mind that sometimes it may be faster to drop your ball in the pit and fire it from Spoink for certain spots if you have trouble with them.
+The description here is fairly self-explanatory - collect all three pick-ups in 30 seconds. This is largely a test of player skill as it comes down to your ability to grab each pick-up efficiently without too many wasted shots. The more you play the game and Evolution mode, the better a grasp you will have on how to send the ball to each pick-up location. Getting lucky with a set of spots that suit you is also a contributing factor. Keep in mind that sometimes it may be faster to drop your ball in the pit and fire it from Spoink for certain spots if you have trouble with them.
 
-As with the similar Quick Catch achievement, the Timer Up from the Shop or Slots extends the time limit to 1 minute. The power-up again makes this much easier, but isn't necessary.
+As with the similar Quick Catch achievement, the Timer Up from the Shop or Slots extends the time limit to 1 minute. The power-up makes this much easier, but isn't necessary.
 
-## TRAVEL Mode - 0 achievements, 0 points
+## Travel Mode - 0 achievements, 0 points
 
 While this mode doesn't have any dedicated achievements, it will be needed less directly for other achievements later on. Activating this mode works a little differently on each board.
 
-* **Ruby**: Hit Chikorita to bring out the Linoones. Hit the left one to summon a Gulpin above it. Stack 3 Gulpin to start TRAVEL Mode
-* **Sapphire**: Hit the button beneath the basket on the left to summon a Seedot. Gather 3 Seedot to start TRAVEL Mode
+* **RUBY**: Hit Chikorita to bring out the Linoones. Hit the left one to summon a Gulpin above it. Stack 3 Gulpin to start TRAVEL Mode
+* **SAPPHIRE**: Hit the button beneath the basket on the left to summon a Seedot. Gather 3 Seedot to start TRAVEL Mode
 
-On both boards, one of the summoned Pokémon will leave after a minute. When TRAVEL Mode starts, you have 1 minute to send the ball up the GET or EVO loops once then into the Centre Hole. Going left will send you up the following list of locations, and right will go down. Travelling 6 times will take you to the Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif).
+On both boards, one of the summoned Pokémon will leave after a minute. When Travel mode starts, you have 1 minute to send the ball up the GET or EVO loops once then into the Centre Hole. Going left will send you up the following list of locations, and right will go down. Travelling 6 times will take you to the Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif).
 
 |**RUBY**|**RUBY**| |**SAPPHIRE**|**SAPPHIRE**|
 |:--|:--|:--|:--|:--|
@@ -141,25 +143,25 @@ On both boards, one of the summoned Pokémon will leave after a minute. When TRA
 |Safari Zone|![Safari Zone](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)||Ocean|![Sapphire Ocean](https://archives.bulbagarden.net/media/upload/f/f4/Pinball_Sapphire_Ocean.png)|
 |Cave|![Ruby Cave](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png)||Cave|![Sapphire Cave](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|
 
-## Poké MART, Upgrades and HOLE slots - 11 achievements, 40 points
+## Pokémon Mart, Upgrades and Start slots - 11 achievements, 40 points
 
-Before you can get any benefits from the MART, you'll need coins to spend. Remember the MART is unavailable when EVO is fully charged.
+Before you can get any benefits from the Mart, you'll need coins to spend. Remember the Mart is unavailable when EVO is fully charged.
 
 ### ![Coin Collector icon](https://media.retroachievements.org/Badge/21328.png) [Coin Collector](https://retroachievements.org/achievement/4305)
 
 **5 points** | _Accumulate 99 coins_
 
-Send the ball up the coin lane to earn 1, 5 or 10 coins. Consecutive trips light up arrows allowing you to earn more at once. You can also earn coins from the HOLE slots. You may want to avoid visiting the Poké Mart to save up enough coins for this achievement and the next.
+Send the ball up the Coin Lane to earn 1, 5 or 10 coins. Consecutive trips light up arrows allowing you to earn more at once. You can also earn coins from the Start Slots. You may want to avoid visiting the Poké Mart to save up enough coins for this achievement and the next. This is significantly easier on RUBY as you can use Makuhita to quickly send the ball up the Coin Lane repeatedly.
 
 ### ![Big Spender icon](https://media.retroachievements.org/Badge/21263.png) [Big Spender](https://retroachievements.org/achievement/21362)
 
 **5 points** | _Buy an extra ball from the MART_
 
-You need 99 coins to purchase this, so save up before opening the MART. The MART is opened differently on each board:
-* **Ruby**: Hit the Mart door to open it. You need enough force to make it all the way up that long, straight path, so it may take a few tries before you get the hang of the needed shot.
-* **Sapphire**: Hit the switches beneath Plusle and Minun to deactivate the electrical barriers. The top (blue) barrier is controlled by Minun and the bottom (red) one by Plusle.
+You need 99 coins to purchase this, so save up before opening the Mart. The Mart is opened differently on each board:
+* **RUBY**: Hit the Mart door to open it. You need enough force to make it all the way up that long, straight path, so it may take a few tries before you get the hang of the needed shot.
+* **SAPPHIRE**: Hit the switches beneath Plusle and Minun to deactivate the electrical barriers. The top (blue) barrier is controlled by Minun and the bottom (red) one by Plusle.
 
-Once open simply enter the MART and scroll right through the options. They are ordered by price so the one for this achievement is right at the end. The full shop stock is listed below for convenience:
+Once open, simply enter the MART and scroll right through the options. They are ordered by price so the one for this achievement is right at the end. The full shop stock is listed below for convenience:
 |**Item**|**Icon**|**Price**|**Details**|
 |:--|:--|:--|:--|
 |30 second Ball Saver|![30s Ball Saver](https://archives.bulbagarden.net/media/upload/0/0a/Pinball_RS_30_Sec_Ball_Saver.png)|10||
@@ -175,7 +177,7 @@ Once open simply enter the MART and scroll right through the options. They are o
 
 **3 points** | _Gain assistance from Pichu_
 
-This upgrade is arguably the most useful item in the MART, as Pichu's assistance makes it much harder to lose a life and thus extends the duration of each game significantly. Get this by purchasing for 50 coins, or as a HOLE slots reward. 
+This upgrade is arguably the most useful item in the Mart, as Pichu's assistance makes it much harder to lose a life and thus extends the duration of each game significantly. Get this by purchasing for 50 coins, or as a Start slots reward. 
 
 ### ![Field Multiplier Upgrade icon](https://media.retroachievements.org/Badge/21266.png) [Field Multiplier Upgrade](https://retroachievements.org/achievement/21364)
 
@@ -193,31 +195,31 @@ Light up all three slots above the bumper pit to earn this achievement and upgra
 
 **1 point** | _Upgrade to a Great Ball_
 
-Upgrade your ball by purchasing an upgrade in the shop, using the field multiplier slots, or from the HOLE slots. On RUBY you can also grab the Ball Up item after hitting Nuzleaf twice to create a bridge.
+See Master Ball.
 
 ### ![Ultra Ball icon](https://media.retroachievements.org/Badge/21279.png) [Ultra Ball](https://retroachievements.org/achievement/4310)
 
 **2 points** | _Upgrade to a Ultra Ball_
 
-Upgrade your ball twice by purchasing an upgrade in the shop, using the field multiplier slots, or from the HOLE slots before it downgrades. On RUBY you can also grab the Ball Up item after hitting Nuzleaf twice to create a bridge.
+See Master Ball.
 
 ### ![Master Ball icon](https://media.retroachievements.org/Badge/21280.png) [Master Ball](https://retroachievements.org/achievement/4311)
 
 **3 points** | _Upgrade to a Master Ball_
 
-Upgrade your ball three times by purchasing an upgrade in the shop, using the field multiplier slots, or from the HOLE slots before it downgrades. On RUBY you can also grab the Ball Up item after hitting Nuzleaf twice to create a bridge.
+Upgrade your ball three times by purchasing an upgrade in the shop, using the Field Multiplier slots, or from the Start Slots before it downgrades. On RUBY you can also grab the upgrade pick-up after hitting Nuzleaf twice to create a bridge.
 
 ### ![Dark HOLE icon](https://media.retroachievements.org/Badge/21328.png) [Dark HOLE](https://retroachievements.org/achievement/21363)
 
 **1 point** | _Light up all 4 of the HOLE slots_
 
-The HOLE lights are at the top of the 4 paths leading towards the pit. Light them up with your ball, using the flippers to scroll them from side to side and activate them all. While not necessary for the achievement, doing this opens up the slot machine in the Centre Hole. Enter it to get one of the following rewards:
+The HOLE lights are at the top of the 4 paths leading towards the pit. Light them up with your ball, using the flippers to scroll them from side to side and activate them all. While not necessary for the achievement, doing this opens up the Start Slots in the Centre Hole. Enter it to get one of the following rewards:
 * Small - 100 to 900 points
 * BIG - 1,000,000 to 9,000,000 points
 * Pika - Pichu joins Pikachu. They remain fully charged for the rest of the current ball
 * Catch 'em Start - Catch 'em Mode starts
-* EVO Start - EVO Mode starts
-* Bonus Stage - Start a BONUS stage
+* EVO Mode Start - EVO Mode starts
+* Bonus Stage - Start the corresponding Bonus stage
 * Coin - get 10, 30, or 50 coins
 * Ball Saver - Turns on the Ball Saver for 30, 60, or 90 seconds.
 * Arrival - Jirachi's catch mode
@@ -226,19 +228,19 @@ The HOLE lights are at the top of the 4 paths leading towards the pit. Light the
 * Bonus Multiplier - +1 to +5 to End of Ball bonus multiplier
 * Extra Ball - Get an extra ball
 
-The ability to force stop the slots with Zigzagoon makes it easier to get specific rewards on the Sapphire board.
+The ability to force stop the slots with Zigzagoon makes it easier to get specific rewards on the SAPPHIRE board.
 
 ### ![Max Upgrade icon](https://media.retroachievements.org/Badge/21277.png) [Max Upgrade](https://retroachievements.org/achievement/21366)
 
 **3 points** | _Skip at least one ball tier and go straight to the Master Ball_
 
-Get Max Upgrade ![Max Upgrade](https://archives.bulbagarden.net/media/upload/e/e3/Pinball_RS_Max_Up.png) from the HOLE slots while using a Poké or Great Ball. Slots-dependent achievements are easier on Sapphire.
+Get Max Upgrade ![Max Upgrade](https://archives.bulbagarden.net/media/upload/e/e3/Pinball_RS_Max_Up.png) from the HOLE slots while using a Poké or Great Ball. Force-stopping the Slots with Zigzagoon makes this much easier on SAPPHIRE.
 
 ### ![Jirachi icon](https://media.retroachievements.org/Badge/21291.png) [Jirachi](https://retroachievements.org/achievement/21367)
 
 **10 points** | _Catch Jirachi_
 
-Jirachi has a unique capture method, only activated through the HOLE slots while in the Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif) TRAVEL location. Slots-dependent achievements are easier on Sapphire. When it starts, Jirachi will appear in the middle of the board, in the same spot Pokémon appear in Catch 'Em mode. With a 30 second timer, it will then move from side to side. Hit it 3 times to catch this unique legendary.
+Jirachi has a unique capture method, only activated through the Start Slots while in the Ruins ![Ruins icon](https://www.serebii.net/pinball_rs/fields/moon-cave.gif). Force-stopping the Slots with Zigzagoon makes this much easier on SAPPHIRE. When it starts, Jirachi will appear in the middle of the board, in the same spot as Catch 'Em mode. With a 30 second timer, it will then move from side to side. Hit it 3 times to catch this unique legendary.
 
 ### ![Stocking Up icon](https://media.retroachievements.org/Badge/21329.png) [Stocking Up](https://retroachievements.org/achievement/4303)
 
@@ -246,9 +248,9 @@ Jirachi has a unique capture method, only activated through the HOLE slots while
 
 There are several ways to earn extra balls in this game, in addition to the 2 you start with:
 * Buy an extra ball from the market. This can only be done once per game.
-* Get an extra ball from the HOLE slots.
+* Get an extra ball from the Start Slots. Force-stopping the Slots with Zigzagoon makes this much easier on SAPPHIRE.
 * Catch 15, 30, 45, etc Pokémon. Evolved Pokémon count towards this and your current total can be seen next to your balls in the bottom right.
-* Sometimes the Ball Upgrade pick-up on Ruby will have a 1 instead of an arrow. Grab it for an extra ball.
+* Sometimes the Field Multiplier pick-up on RUBY will have a 1 instead of an arrow. Grab it for an extra ball.
 
 ## BONUS Stages - 9 achievements, 85 points
 
@@ -263,7 +265,7 @@ Kecleon appears in the middle of the stage and promptly turns invisible. Hitting
 
 **10 points** | _Complete the Kecleon Bonus Challenge with at least 1m remaining_
 
-There are a few tricks that can help speed up completion of this stage. Firstly, having the Timer Up upgrade will give you an extra 30 seconds to work with. As with the other Quick achievements, this is helpful, but not essential. The Devon Scope can be helpful while learning its movement patterns, but I find I tend to waste too much time trying to grab it rather than tracking Kecleon's movements directly. Watch the pool and plants carefully for ripples and movement as these will tell you where your invisible opponent is and which direction its going. You'll be able to tell you've knocked it over from the little dust cloud and accompanying sound effect.
+There are a few tricks that can help speed up completion of this stage. Firstly, having the Timer Up power-up will give you an extra 30 seconds to work with. As with the other Quick achievements, this is helpful, but not essential. The Devon Scope can be helpful while learning its movement patterns, but I find I tend to waste too much time trying to grab it rather than tracking Kecleon's movements directly. Watch the pool and plants carefully for ripples and movement as these will tell you where your invisible opponent is and which direction its going. You'll be able to tell you've knocked it over from the little dust cloud and accompanying sound effect.
 
 ### Duskull and Dusclops
 
@@ -281,7 +283,7 @@ Hit Dusclops 5 times to beat it. Hitting it from the front when standing still w
 
 ### Groudon
 
-Access the **Groundon** Bonus stage by reaching 3 lights on the CATCH! counter after defeating Kecleon then entering the Centre Hole on RUBY. If you fail to defeat Groudon, you will be able to challenge it next time you reach 3 lights without going back through Kecleon first.
+Access the **Groudon** Bonus stage by reaching 3 lights on the CATCH! counter after defeating Kecleon, then entering the Centre Hole on RUBY. If you fail to defeat Groudon, you will be able to challenge it next time you reach 3 lights without going back through Kecleon first.
 
 ![Groudon bonus board](https://archives.bulbagarden.net/media/upload/f/f2/Pinball_RS_Groudon_Stage.png)
 
@@ -360,11 +362,11 @@ All of Rayquaza's attacks are a problem here. I suggest playing cautiously and h
 
 ### Spheal and Sealeo
 
-Access the **Spheal** bonus stage by feeding your ball to Whiscash (RUBY) or Pelipper while its switch is flashing (SAPPHIRE). These can be activated with Slots rewards or MART purchases.
+Access the **Spheal** bonus stage by feeding your ball to Whiscash (RUBY) or Pelipper while its switch is flashing (SAPPHIRE). These can be activated with Start Slots rewards or Mart purchases.
 
 ![Spheal and Sealeo bonus board](https://archives.bulbagarden.net/media/upload/a/a7/Pinball_RS_Spheal_Sealeo_Bonus_Stage.png)
 
-This stage is a pure bonus round. There's no win or fail condition, just rack up as many points as you can in 2 minutes by sending your ball and baby Spheal up the ramps where Sealeo will juggle them into the basket. Ball baskets are worth 1 million points, and Spheal baskets 5 million. If you hit Sealeo while it's juggling a Spheal, it _can_ drop it back in the pool without earning any more points. Be careful!
+This stage is a pure bonus round. There's no win or fail condition, just rack up as many points as you can in 2 minutes by sending your ball and baby Spheal up the ramps where Sealeo will juggle them into the basket. Ball baskets are worth 1 million points, and Spheal baskets 5 million. If you hit Sealeo while it's juggling a Spheal, it _can_ drop it back in the pool without earning any points. Be careful!
 
 ### ![Sphealin' It icon](https://media.retroachievements.org/Badge/21220.png) [Sphealin' It](https://retroachievements.org/achievement/21361)
 
@@ -372,11 +374,18 @@ This stage is a pure bonus round. There's no win or fail condition, just rack up
 
 Hit Spheal as they start climbing ramps to send them up towards the Sealeo. If they pop out of the water away from the ramps, hit them to make them dive and resurface in a new spot. **DO NOT** hit the Sealeo while they are juggling.
 
-## Score and Single game catch- 8 achievements, 104 points
+## Score, Single game catch and Leaderboards - 8 achievements, 104 points, 4 leaderboards
 
 A large part of any score achievement is simply staying alive long enough for the needed points to build up, but there are a number of ways to help build that score faster.
 
 Ball upgrades multiply all points earned while active, so keep going for the field multiplier lights or on RUBY, the upgrade pickup. Having one active on completion of a bonus stage will also multiply the stage rewards, but be careful - dropping the ball in the pit during these will instantly drop your ball upgrade by one level.
+
+|**Ball**|**Multiplier**|
+|:--|:--|
+|Poké|1x|
+|Great|2x|
+|Ultra|3x|
+|Master|4x|
 
 Almost any given action on the boards will award some points, but most of these are too small to be worth focusing on. The main focus when going for a high score should be on continually catching and evolving Pokémon to keep playing the bonus boards. The most efficient way to do this is to catch or hatch one Pokémon, then evolve it as EVO mode gives 2 lights on the CATCH! Counter compared to just one for the other two modes. This does not 'roll over' so completing an EVO with a single light left is effectively wasting a light.
 
@@ -406,9 +415,13 @@ At the end of each ball, you'll be awarded an End of Ball bonus calculated from 
 
 **2 points** | _Get over 100,000,000 points on the Ruby table_
 
+This will put you at the top of the pre-set in-game leaderboard on game over. If enabled, your score will also be submitted to the [High Score (thousands) - Ruby](https://retroachievements.org/leaderboardinfo.php?i=721) leaderboard.
+
 ### ![1st Place Sapphire icon](https://media.retroachievements.org/Badge/21143.png) [1st Place Sapphire](https://retroachievements.org/achievement/4308)
 
 **2 points** | _Get over 100,000,000 points on the Sapphire table_
+
+This will put you at the top of the pre-set in-game leaderboard on game over. If enabled, your score will also be submitted to the [High Score (thousands) - Sapphire](https://retroachievements.org/leaderboardinfo.php?i=722) leaderboard.
 
 ### ![Welcome to the Club icon](https://media.retroachievements.org/Badge/21305.png) [Welcome to the Club](https://retroachievements.org/achievement/21348)
 
@@ -435,6 +448,8 @@ While going for the high scores, you should be catching and evolving a lot of Po
 ### ![Ketchum icon](https://media.retroachievements.org/Badge/21270.png) [Ketchum](https://retroachievements.org/achievement/21347)
 
 **5 points** | _Catch 40 or more Pokemon in a single game_
+
+When going for these achievements, consider trying both boards to submit your personal best to the [Pokemon Collector - Ruby](https://retroachievements.org/leaderboardinfo.php?i=167) and [Pokemon Collector - Sapphire](https://retroachievements.org/leaderboardinfo.php?i=168) leaderboards.
 
 ## Specific Pokémon - 16 achievements, 100 points
 
