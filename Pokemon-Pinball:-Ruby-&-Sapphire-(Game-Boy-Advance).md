@@ -1,6 +1,6 @@
 ![Start screen](https://media.retroachievements.org/Images/000658.png)
 
-# 1) Overview
+# 1 Overview
 
 [Pokémon Pinball: Ruby & Sapphire](https://retroachievements.org/game/789) is (unsurprisingly) a Pokémon-themed pinball game, specifically focusing on  Pokémon and locations featured in Pokémon Ruby and Sapphire, originally released in 2003. It features great integration of Pokémon mechanics into pinball gameplay. The set was created by [Brian](https://retroachievements.org/user/Brian) in 2014 and features 54 achievements worth a total of 438 points.
 ## Button Config and Ball Speed
@@ -53,7 +53,7 @@ Most of these should be fairly self-explanatory, but I'm including a full list h
 * Pelipper - _right of bumper pit_. When facing up, will catch the ball and drop it above the bumper pit. If the P button beneath it is lit, will take you to the Spheal BONUS stage.
 * Zigzagoon - _right_. Alerted/calmed by the button under it. When active, press A to instantly stop the HOLE slots.
 
-# 2) Game Modes
+# 2 Game Modes
 The main gameplay cycle, and best way to earn points, is to keep catching and evolving Pokémon to progress through the different BONUS stages, with later ones being worth more points. Every three balls lit up in the centre sends you to a BONUS stage in this order: 1, 2, 1, 2, 3 (then repeat).
 Mode List:
 * Catch 'Em
@@ -67,7 +67,7 @@ Mode List:
 * Rayquaza Bonus (3)
 * Spheal and Sealeo Bonus
 
-# 3) Achievement Guide
+# 3 Achievement Guide
 ## Catch 'Em Mode - 2 achievements, 6 points
 ### ![Captured icon](https://media.retroachievements.org/Badge/21141.png) [Captured](https://retroachievements.org/achievement/4306)
 
