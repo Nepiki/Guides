@@ -594,10 +594,10 @@ By the time you've completed the rest of the set, you should have made significa
 |009|Swampert|![](https://www.serebii.net/pinball_rs/pkmn/009.gif)|Evolution|||![]()||
 |010|Poochyena|![](https://www.serebii.net/pinball_rs/pkmn/010.gif)|Catch 'Em|ANY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png) / ![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|3|
 |011|Mightyena|![](https://www.serebii.net/pinball_rs/pkmn/011.gif)|Evolution|||![]()||
-|012|Zigzagoon|![](https://www.serebii.net/pinball_rs/pkmn/012.gif)|Catch 'Em|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
+|012|Zigzagoon|![](https://www.serebii.net/pinball_rs/pkmn/012.gif)|Catch 'Em|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png)/![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
 |013|Linoone|![](https://www.serebii.net/pinball_rs/pkmn/013.gif)|Evolution|||![]()||
 |014|Wurmple|![](https://www.serebii.net/pinball_rs/pkmn/014.gif)|Hatch|||![]()||
-|015|Silcoon|![](https://www.serebii.net/pinball_rs/pkmn/015.gif)|Catch 'Em or Evolution|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
+|015|Silcoon|![](https://www.serebii.net/pinball_rs/pkmn/015.gif)|Catch 'Em or Evolution|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png)![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
 |016|Beautifly|![](https://www.serebii.net/pinball_rs/pkmn/016.gif)|Evolution|||![]()||
 |017|Cascoon|![](https://www.serebii.net/pinball_rs/pkmn/017.gif)|Catch 'Em or Evolution|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
 |018|Dustox|![](https://www.serebii.net/pinball_rs/pkmn/018.gif)|Evolution|||![]()||
