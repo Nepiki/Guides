@@ -553,7 +553,7 @@ These Pokémon have a very small (<1%) chance to be caught in _any_ location. La
 
 ## Pokédex Completion - 6 achievements, 95 points
 
-By the time you've completed the rest of the set, you should have made significant progress on this final set of achievements. Below is a full dex listing by number to help you track down those last few elusive Pokémon needed to complete your dex.
+By the time you've completed the rest of the set, you should have made significant progress on this final set of achievements. Below is a full Pokédex listing by number to help you track down those last few elusive Pokémon needed to complete your Pokédex.
 
 ### ![New Trainer in Town icon](https://media.retroachievements.org/Badge/21309.png) [New Trainer in Town]()
 
@@ -584,205 +584,205 @@ By the time you've completed the rest of the set, you should have made significa
 |**No.**|**Name**|**Portrait**|**Mode**|**Board**|**Location**|**Icon**|**Arrows**|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |001|Treecko|![](https://www.serebii.net/pinball_rs/pkmn/001.gif)|Catch 'Em|RUBY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png)|3|
-|002|Grovyle|![](https://www.serebii.net/pinball_rs/pkmn/002.gif)|EVO|||![]()||
-|003|Sceptile|![](https://www.serebii.net/pinball_rs/pkmn/003.gif)|EVO|||![]()||
+|002|Grovyle|![](https://www.serebii.net/pinball_rs/pkmn/002.gif)|Evolution|||![]()||
+|003|Sceptile|![](https://www.serebii.net/pinball_rs/pkmn/003.gif)|Evolution|||![]()||
 |004|Torchic|![](https://www.serebii.net/pinball_rs/pkmn/004.gif)|Catch 'Em|RUBY|Volcano|![](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png)|3|
-|005|Combusken|![](https://www.serebii.net/pinball_rs/pkmn/005.gif)|EVO|||![]()||
-|006|Blaziken|![](https://www.serebii.net/pinball_rs/pkmn/006.gif)||||![]()||
+|005|Combusken|![](https://www.serebii.net/pinball_rs/pkmn/005.gif)|Evolution|||![]()||
+|006|Blaziken|![](https://www.serebii.net/pinball_rs/pkmn/006.gif)|Evolution|||![]()||
 |007|Mudkip|![](https://www.serebii.net/pinball_rs/pkmn/007.gif)|Catch 'Em|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|3|
-|008|Marshtomp|![](https://www.serebii.net/pinball_rs/pkmn/008.gif)|EVO|||![]()||
-|009|Swampert|![](https://www.serebii.net/pinball_rs/pkmn/009.gif)|EVO|||![]()||
+|008|Marshtomp|![](https://www.serebii.net/pinball_rs/pkmn/008.gif)|Evolution|||![]()||
+|009|Swampert|![](https://www.serebii.net/pinball_rs/pkmn/009.gif)|Evolution|||![]()||
 |010|Poochyena|![](https://www.serebii.net/pinball_rs/pkmn/010.gif)|Catch 'Em|ANY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png) / ![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|3|
-|011|Mightyena|![](https://www.serebii.net/pinball_rs/pkmn/011.gif)|EVO|||![]()||
+|011|Mightyena|![](https://www.serebii.net/pinball_rs/pkmn/011.gif)|Evolution|||![]()||
 |012|Zigzagoon|![](https://www.serebii.net/pinball_rs/pkmn/012.gif)|Catch 'Em|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
-|013|Linoone|![](https://www.serebii.net/pinball_rs/pkmn/013.gif)|EVO|||![]()||
+|013|Linoone|![](https://www.serebii.net/pinball_rs/pkmn/013.gif)|Evolution|||![]()||
 |014|Wurmple|![](https://www.serebii.net/pinball_rs/pkmn/014.gif)|Hatch|||![]()||
-|015|Silcoon|![](https://www.serebii.net/pinball_rs/pkmn/015.gif)|Catch 'Em or EVO|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
-|016|Beautifly|![](https://www.serebii.net/pinball_rs/pkmn/016.gif)|EVO|||![]()||
-|017|Cascoon|![](https://www.serebii.net/pinball_rs/pkmn/017.gif)|Catch 'Em or EVO|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
-|018|Dustox|![](https://www.serebii.net/pinball_rs/pkmn/018.gif)|EVO|||![]()||
+|015|Silcoon|![](https://www.serebii.net/pinball_rs/pkmn/015.gif)|Catch 'Em or Evolution|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
+|016|Beautifly|![](https://www.serebii.net/pinball_rs/pkmn/016.gif)|Evolution|||![]()||
+|017|Cascoon|![](https://www.serebii.net/pinball_rs/pkmn/017.gif)|Catch 'Em or Evolution|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
+|018|Dustox|![](https://www.serebii.net/pinball_rs/pkmn/018.gif)|Evolution|||![]()||
 |019|Lotad|![](https://www.serebii.net/pinball_rs/pkmn/019.gif)|Hatch|||![]()||
-|020|Lombre|![](https://www.serebii.net/pinball_rs/pkmn/020.gif)|Catch 'Em or EVO|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
-|021|Ludicolo|![](https://www.serebii.net/pinball_rs/pkmn/021.gif)|EVO|||![]()||
+|020|Lombre|![](https://www.serebii.net/pinball_rs/pkmn/020.gif)|Catch 'Em or Evolution|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
+|021|Ludicolo|![](https://www.serebii.net/pinball_rs/pkmn/021.gif)|Evolution|||![]()||
 |022|Seedot|![](https://www.serebii.net/pinball_rs/pkmn/022.gif)|Hatch|||![]()||
-|023|Nuzleaf|![](https://www.serebii.net/pinball_rs/pkmn/023.gif)|Catch 'Em or EVO|RUBY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png)|2|
-|024|Shiftry|![](https://www.serebii.net/pinball_rs/pkmn/024.gif)|EVO|||![]()||
+|023|Nuzleaf|![](https://www.serebii.net/pinball_rs/pkmn/023.gif)|Catch 'Em or Evolution|RUBY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png)|2|
+|024|Shiftry|![](https://www.serebii.net/pinball_rs/pkmn/024.gif)|Evolution|||![]()||
 |025|Tailow|![](https://www.serebii.net/pinball_rs/pkmn/025.gif)|Catch 'Em|ANY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png) / ![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|2|
-|026|Swellow|![](https://www.serebii.net/pinball_rs/pkmn/026.gif)|EVO|||![]()||
+|026|Swellow|![](https://www.serebii.net/pinball_rs/pkmn/026.gif)|Evolution|||![]()||
 |027|Wingull|![](https://www.serebii.net/pinball_rs/pkmn/027.gif)|Catch 'Em|ANY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png) / ![](https://archives.bulbagarden.net/media/upload/f/f4/Pinball_Sapphire_Ocean.png)|2|
-|028|Pelipper|![](https://www.serebii.net/pinball_rs/pkmn/028.gif)|EVO|||![]()||
+|028|Pelipper|![](https://www.serebii.net/pinball_rs/pkmn/028.gif)|Evolution|||![]()||
 |029|Ralts|![](https://www.serebii.net/pinball_rs/pkmn/029.gif)|Hatch|||![]()||
-|030|Kirlia|![](https://www.serebii.net/pinball_rs/pkmn/030.gif)|EVO|||![]()||
-|031|Gardevoir|![](https://www.serebii.net/pinball_rs/pkmn/031.gif)|EVO|||![]()||
+|030|Kirlia|![](https://www.serebii.net/pinball_rs/pkmn/030.gif)|Evolution|||![]()||
+|031|Gardevoir|![](https://www.serebii.net/pinball_rs/pkmn/031.gif)|Evolution|||![]()||
 |032|Surskit|![](https://www.serebii.net/pinball_rs/pkmn/032.gif)|Hatch|||![]()||
-|033|Masquerain|![](https://www.serebii.net/pinball_rs/pkmn/033.gif)|EVO|||![]()||
+|033|Masquerain|![](https://www.serebii.net/pinball_rs/pkmn/033.gif)|Evolution|||![]()||
 |034|Shroomish|![](https://www.serebii.net/pinball_rs/pkmn/034.gif)|Hatch|||![]()||
-|035|Breloom|![](https://www.serebii.net/pinball_rs/pkmn/035.gif)|EVO|||![]()||
+|035|Breloom|![](https://www.serebii.net/pinball_rs/pkmn/035.gif)|Evolution|||![]()||
 |036|Slakoth|![](https://www.serebii.net/pinball_rs/pkmn/036.gif)|Catch 'Em|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
-|037|Vigoroth|![](https://www.serebii.net/pinball_rs/pkmn/037.gif)|EVO|||![]()||
-|038|Slaking|![](https://www.serebii.net/pinball_rs/pkmn/038.gif)|EVO|||![]()||
+|037|Vigoroth|![](https://www.serebii.net/pinball_rs/pkmn/037.gif)|Evolution|||![]()||
+|038|Slaking|![](https://www.serebii.net/pinball_rs/pkmn/038.gif)|Evolution|||![]()||
 |039|Abra|![](https://www.serebii.net/pinball_rs/pkmn/039.gif)|Catch 'Em|ANY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png) / ![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|3|
-|040|Kadabra|![](https://www.serebii.net/pinball_rs/pkmn/040.gif)|EVO|||![]()||
-|041|Alakazam|![](https://www.serebii.net/pinball_rs/pkmn/041.gif)|EVO|||![]()||
+|040|Kadabra|![](https://www.serebii.net/pinball_rs/pkmn/040.gif)|Evolution|||![]()||
+|041|Alakazam|![](https://www.serebii.net/pinball_rs/pkmn/041.gif)|Evolution|||![]()||
 |042|Nincada|![](https://www.serebii.net/pinball_rs/pkmn/042.gif)|Catch 'Em|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|3|
-|043|Ninjask|![](https://www.serebii.net/pinball_rs/pkmn/043.gif)|EVO|||![]()||
-|044|Shedinja|![](https://www.serebii.net/pinball_rs/pkmn/044.gif)|EVO|||![]()||
+|043|Ninjask|![](https://www.serebii.net/pinball_rs/pkmn/043.gif)|Evolution|||![]()||
+|044|Shedinja|![](https://www.serebii.net/pinball_rs/pkmn/044.gif)|Evolution|||![]()||
 |045|Whismur|![](https://www.serebii.net/pinball_rs/pkmn/045.gif)|Hatch|||![]()||
-|046|Loudred|![](https://www.serebii.net/pinball_rs/pkmn/046.gif)|Catch 'Em or EVO|ANY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png) / ![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|2|
-|047|Exploud|![](https://www.serebii.net/pinball_rs/pkmn/047.gif)|EVO|||![]()||
+|046|Loudred|![](https://www.serebii.net/pinball_rs/pkmn/046.gif)|Catch 'Em or Evolution|ANY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png) / ![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|2|
+|047|Exploud|![](https://www.serebii.net/pinball_rs/pkmn/047.gif)|Evolution|||![]()||
 |048|Makuhita|![](https://www.serebii.net/pinball_rs/pkmn/048.gif)|Catch 'Em|ANY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png) / ![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|2|
-|049|Hariyama|![](https://www.serebii.net/pinball_rs/pkmn/049.gif)|EVO|||![]()||
+|049|Hariyama|![](https://www.serebii.net/pinball_rs/pkmn/049.gif)|Evolution|||![]()||
 |050|Goldeen|![](https://www.serebii.net/pinball_rs/pkmn/050.gif)|Catch 'Em|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
-|051|Seaking|![](https://www.serebii.net/pinball_rs/pkmn/051.gif)|EVO|||![]()||
+|051|Seaking|![](https://www.serebii.net/pinball_rs/pkmn/051.gif)|Evolution|||![]()||
 |052|Magikarp|![](https://www.serebii.net/pinball_rs/pkmn/052.gif)|Catch 'Em|ANY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png) / ![](https://archives.bulbagarden.net/media/upload/f/f4/Pinball_Sapphire_Ocean.png)|2|
-|053|Gyarados|![](https://www.serebii.net/pinball_rs/pkmn/053.gif)|EVO|||![]()||
+|053|Gyarados|![](https://www.serebii.net/pinball_rs/pkmn/053.gif)|Evolution|||![]()||
 |054|Azurill|![](https://www.serebii.net/pinball_rs/pkmn/054.gif)|Hatch|||![]()||
-|055|Marill|![](https://www.serebii.net/pinball_rs/pkmn/055.gif)|Catch 'Em or EVO|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|3|
-|056|Azumarill|![](https://www.serebii.net/pinball_rs/pkmn/056.gif)|EVO|||![]()||
+|055|Marill|![](https://www.serebii.net/pinball_rs/pkmn/055.gif)|Catch 'Em or Evolution|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|3|
+|056|Azumarill|![](https://www.serebii.net/pinball_rs/pkmn/056.gif)|Evolution|||![]()||
 |057|Geodude|![](https://www.serebii.net/pinball_rs/pkmn/057.gif)|Catch 'Em|SAPPHIRE|Wilderness|![](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_Sapphire_Wilderness.png)|3|
-|058|Graveller|![](https://www.serebii.net/pinball_rs/pkmn/058.gif)|EVO|||![]()||
-|059|Golem|![](https://www.serebii.net/pinball_rs/pkmn/059.gif)|EVO|||![]()||
+|058|Graveller|![](https://www.serebii.net/pinball_rs/pkmn/058.gif)|Evolution|||![]()||
+|059|Golem|![](https://www.serebii.net/pinball_rs/pkmn/059.gif)|Evolution|||![]()||
 |060|Nosepass|![](https://www.serebii.net/pinball_rs/pkmn/060.gif)|Catch 'Em|ANY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png) / ![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|2|
 |061|Skitty|![](https://www.serebii.net/pinball_rs/pkmn/061.gif)|Hatch|||![]()||
-|062|Delcatty|![](https://www.serebii.net/pinball_rs/pkmn/062.gif)|EVO|||![]()||
+|062|Delcatty|![](https://www.serebii.net/pinball_rs/pkmn/062.gif)|Evolution|||![]()||
 |063|Zubat|![](https://www.serebii.net/pinball_rs/pkmn/063.gif)|Hatch|||![]()||
-|064|Golbat|![](https://www.serebii.net/pinball_rs/pkmn/064.gif)|EVO|||![]()||
-|065|Crobat|![](https://www.serebii.net/pinball_rs/pkmn/065.gif)|EVO|||![]()||
+|064|Golbat|![](https://www.serebii.net/pinball_rs/pkmn/064.gif)|Evolution|||![]()||
+|065|Crobat|![](https://www.serebii.net/pinball_rs/pkmn/065.gif)|Evolution|||![]()||
 |066|Tentacool|![](https://www.serebii.net/pinball_rs/pkmn/066.gif)|Catch 'Em|ANY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png) / ![](https://archives.bulbagarden.net/media/upload/f/f4/Pinball_Sapphire_Ocean.png)|2|
-|067|Tentacruel|![](https://www.serebii.net/pinball_rs/pkmn/067.gif)|EVO|||![]()||
+|067|Tentacruel|![](https://www.serebii.net/pinball_rs/pkmn/067.gif)|Evolution|||![]()||
 |068|Sableye|![](https://www.serebii.net/pinball_rs/pkmn/068.gif)|Catch 'Em|SAPPHIRE|Cave|![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|3|
 |069|Mawile|![](https://www.serebii.net/pinball_rs/pkmn/069.gif)|Catch 'Em|RUBY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png)|3|
 |070|Aron|![](https://www.serebii.net/pinball_rs/pkmn/070.gif)|Hatch|||![]()||
-|071|Lairon|![](https://www.serebii.net/pinball_rs/pkmn/071.gif)|EVO|||![]()||
-|072|Aggron|![](https://www.serebii.net/pinball_rs/pkmn/072.gif)|EVO|||![]()||
+|071|Lairon|![](https://www.serebii.net/pinball_rs/pkmn/071.gif)|Evolution|||![]()||
+|072|Aggron|![](https://www.serebii.net/pinball_rs/pkmn/072.gif)|Evolution|||![]()||
 |073|Machop|![](https://www.serebii.net/pinball_rs/pkmn/073.gif)|Catch 'Em|ANY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png) / ![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|2|
-|074|Machoke|![](https://www.serebii.net/pinball_rs/pkmn/074.gif)|EVO|||![]()||
-|075|Machamp|![](https://www.serebii.net/pinball_rs/pkmn/075.gif)|EVO|||![]()||
+|074|Machoke|![](https://www.serebii.net/pinball_rs/pkmn/074.gif)|Evolution|||![]()||
+|075|Machamp|![](https://www.serebii.net/pinball_rs/pkmn/075.gif)|Evolution|||![]()||
 |076|Meditite|![](https://www.serebii.net/pinball_rs/pkmn/076.gif)|Catch 'Em|ANY|Safari Zone / Wilderness|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png) / ![](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_Sapphire_Wilderness.png)|2|
-|077|Medicham|![](https://www.serebii.net/pinball_rs/pkmn/077.gif)|EVO|||![]()||
+|077|Medicham|![](https://www.serebii.net/pinball_rs/pkmn/077.gif)|Evolution|||![]()||
 |078|Electrike|![](https://www.serebii.net/pinball_rs/pkmn/078.gif)|Catch 'Em|ANY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png) / ![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|2|
-|079|Manectric|![](https://www.serebii.net/pinball_rs/pkmn/079.gif)|EVO|||![]()||
+|079|Manectric|![](https://www.serebii.net/pinball_rs/pkmn/079.gif)|Evolution|||![]()||
 |080|Plusle|![](https://www.serebii.net/pinball_rs/pkmn/080.gif)|Hatch|||![]()||
 |081|Minun|![](https://www.serebii.net/pinball_rs/pkmn/081.gif)|Hatch|||![]()||
 |082|Magnemite|![](https://www.serebii.net/pinball_rs/pkmn/082.gif)|Catch 'Em|ANY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png) / ![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|2|
-|083|Magneton|![](https://www.serebii.net/pinball_rs/pkmn/083.gif)|EVO|||![]()||
+|083|Magneton|![](https://www.serebii.net/pinball_rs/pkmn/083.gif)|Evolution|||![]()||
 |084|Voltorb|![](https://www.serebii.net/pinball_rs/pkmn/084.gif)|Catch 'Em|ANY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png) / ![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|3|
-|085|Electrode|![](https://www.serebii.net/pinball_rs/pkmn/085.gif)|EVO|||![]()||
+|085|Electrode|![](https://www.serebii.net/pinball_rs/pkmn/085.gif)|Evolution|||![]()||
 |086|Volbeat|![](https://www.serebii.net/pinball_rs/pkmn/086.gif)|Catch 'Em|RUBY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png)|2|
 |087|Illumise|![](https://www.serebii.net/pinball_rs/pkmn/087.gif)|Catch 'Em|SAPPHIRE|Plains|![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|2|
 |088|Oddish|![](https://www.serebii.net/pinball_rs/pkmn/088.gif)|Hatch|||![]()||
-|089|Gloom|![](https://www.serebii.net/pinball_rs/pkmn/089.gif)|EVO|||![]()||
-|090|Vileplume|![](https://www.serebii.net/pinball_rs/pkmn/090.gif)|EVO|RUBY||![]()||
-|091|Bellossom|![](https://www.serebii.net/pinball_rs/pkmn/091.gif)|EVO|SAPPHIRE||![]()||
+|089|Gloom|![](https://www.serebii.net/pinball_rs/pkmn/089.gif)|Evolution|||![]()||
+|090|Vileplume|![](https://www.serebii.net/pinball_rs/pkmn/090.gif)|Evolution|RUBY||![]()||
+|091|Bellossom|![](https://www.serebii.net/pinball_rs/pkmn/091.gif)|Evolution|SAPPHIRE||![]()||
 |092|Doduo|![](https://www.serebii.net/pinball_rs/pkmn/092.gif)|Catch 'Em|RUBY|Safari Zone|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)|2|
-|093|Dodrio|![](https://www.serebii.net/pinball_rs/pkmn/093.gif)|EVO|||![]()||
+|093|Dodrio|![](https://www.serebii.net/pinball_rs/pkmn/093.gif)|Evolution|||![]()||
 |094|Roselia|![](https://www.serebii.net/pinball_rs/pkmn/094.gif)|Catch 'Em|ANY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png) / ![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|2|
 |095|Gulpin|![](https://www.serebii.net/pinball_rs/pkmn/095.gif)|Hatch|||![]()||
-|096|Swalot|![](https://www.serebii.net/pinball_rs/pkmn/096.gif)|EVO|||![]()||
+|096|Swalot|![](https://www.serebii.net/pinball_rs/pkmn/096.gif)|Evolution|||![]()||
 |097|Carvanha|![](https://www.serebii.net/pinball_rs/pkmn/097.gif)|Catch 'Em|ANY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png) / ![](https://archives.bulbagarden.net/media/upload/f/f4/Pinball_Sapphire_Ocean.png)|2|
-|098|Sharpedo|![](https://www.serebii.net/pinball_rs/pkmn/098.gif)|EVO|||![]()||
+|098|Sharpedo|![](https://www.serebii.net/pinball_rs/pkmn/098.gif)|Evolution|||![]()||
 |099|Wailmer|![](https://www.serebii.net/pinball_rs/pkmn/099.gif)|Catch 'Em|RUBY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png)|3|
-|100|Wailord|![](https://www.serebii.net/pinball_rs/pkmn/100.gif)|EVO|||![]()||
+|100|Wailord|![](https://www.serebii.net/pinball_rs/pkmn/100.gif)|Evolution|||![]()||
 |101|Numel|![](https://www.serebii.net/pinball_rs/pkmn/101.gif)|Catch 'Em|RUBY|Volcano|![](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png)|2|
-|102|Camerupt|![](https://www.serebii.net/pinball_rs/pkmn/102.gif)|EVO|||![]()||
+|102|Camerupt|![](https://www.serebii.net/pinball_rs/pkmn/102.gif)|Evolution|||![]()||
 |103|Slugma|![](https://www.serebii.net/pinball_rs/pkmn/103.gif)|Catch 'Em|RUBY|Volcano|![](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png)|3|
-|104|Magcargo|![](https://www.serebii.net/pinball_rs/pkmn/104.gif)|EVO|||![]()||
+|104|Magcargo|![](https://www.serebii.net/pinball_rs/pkmn/104.gif)|Evolution|||![]()||
 |105|Torkoal|![](https://www.serebii.net/pinball_rs/pkmn/105.gif)|Catch 'Em|RUBY|Volcano|![](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png)|2|
 |106|Grimer|![](https://www.serebii.net/pinball_rs/pkmn/106.gif)|Catch 'Em|ANY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png) / ![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|2|
-|107|Muk|![](https://www.serebii.net/pinball_rs/pkmn/107.gif)|EVO|||![]()||
+|107|Muk|![](https://www.serebii.net/pinball_rs/pkmn/107.gif)|Evolution|||![]()||
 |108|Koffing|![](https://www.serebii.net/pinball_rs/pkmn/108.gif)|Catch 'Em|RUBY|Volcano|![](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png)|2|
-|109|Weezing|![](https://www.serebii.net/pinball_rs/pkmn/109.gif)|EVO|||![]()||
+|109|Weezing|![](https://www.serebii.net/pinball_rs/pkmn/109.gif)|Evolution|||![]()||
 |110|Spoink|![](https://www.serebii.net/pinball_rs/pkmn/110.gif)|Hatch|||![]()||
-|111|Grumpig|![](https://www.serebii.net/pinball_rs/pkmn/111.gif)|EVO|||![]()||
+|111|Grumpig|![](https://www.serebii.net/pinball_rs/pkmn/111.gif)|Evolution|||![]()||
 |112|Sandshrew|![](https://www.serebii.net/pinball_rs/pkmn/112.gif)|Hatch|||![]()||
-|113|Sandslash|![](https://www.serebii.net/pinball_rs/pkmn/113.gif)|EVO|||![]()||
+|113|Sandslash|![](https://www.serebii.net/pinball_rs/pkmn/113.gif)|Evolution|||![]()||
 |114|Spinda|![](https://www.serebii.net/pinball_rs/pkmn/114.gif)|Hatch|||![]()||
 |115|Skarmory|![](https://www.serebii.net/pinball_rs/pkmn/115.gif)|Catch 'Em|RUBY|Volcano|![](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png)|3|
 |116|Trapinch|![](https://www.serebii.net/pinball_rs/pkmn/116.gif)|Hatch|||![]()||
-|117|Vibrava|![](https://www.serebii.net/pinball_rs/pkmn/117.gif)|Catch 'Em or EVO|SAPPHIRE|Wilderness|![](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_Sapphire_Wilderness.png)|2|
-|118|Flygon|![](https://www.serebii.net/pinball_rs/pkmn/118.gif)|EVO|||![]()||
+|117|Vibrava|![](https://www.serebii.net/pinball_rs/pkmn/117.gif)|Catch 'Em or Evolution|SAPPHIRE|Wilderness|![](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_Sapphire_Wilderness.png)|2|
+|118|Flygon|![](https://www.serebii.net/pinball_rs/pkmn/118.gif)|Evolution|||![]()||
 |119|Cacnea|![](https://www.serebii.net/pinball_rs/pkmn/119.gif)|Catch 'Em|SAPPHIRE|Wilderness|![](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_Sapphire_Wilderness.png)|2|
-|120|Cacturne|![](https://www.serebii.net/pinball_rs/pkmn/120.gif)|EVO|||![]()||
+|120|Cacturne|![](https://www.serebii.net/pinball_rs/pkmn/120.gif)|Evolution|||![]()||
 |121|Swablu|![](https://www.serebii.net/pinball_rs/pkmn/121.gif)|Catch 'Em|SAPPHIRE|Wilderness|![](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_Sapphire_Wilderness.png)|3|
-|122|Altaria|![](https://www.serebii.net/pinball_rs/pkmn/122.gif)|EVO|||![]()||
+|122|Altaria|![](https://www.serebii.net/pinball_rs/pkmn/122.gif)|Evolution|||![]()||
 |123|Zangoose|![](https://www.serebii.net/pinball_rs/pkmn/123.gif)|Catch 'Em|RUBY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png)|3|
 |124|Seviper|![](https://www.serebii.net/pinball_rs/pkmn/124.gif)|Catch 'Em|SAPPHIRE|Plains|![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|3|
 |125|Lunatone|![](https://www.serebii.net/pinball_rs/pkmn/125.gif)|Catch 'Em|SAPPHIRE|Cave|![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|2|
 |126|Solrock|![](https://www.serebii.net/pinball_rs/pkmn/126.gif)|Catch 'Em|RUBY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png)|2|
 |127|Barboach|![](https://www.serebii.net/pinball_rs/pkmn/127.gif)|Catch 'Em|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
-|128|Whiscash|![](https://www.serebii.net/pinball_rs/pkmn/128.gif)|EVO|||![]()||
+|128|Whiscash|![](https://www.serebii.net/pinball_rs/pkmn/128.gif)|Evolution|||![]()||
 |129|Corphish|![](https://www.serebii.net/pinball_rs/pkmn/129.gif)|Catch 'Em|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
-|130|Crawdaunt|![](https://www.serebii.net/pinball_rs/pkmn/130.gif)|EVO|||![]()||
+|130|Crawdaunt|![](https://www.serebii.net/pinball_rs/pkmn/130.gif)|Evolution|||![]()||
 |131|Baltoy|![](https://www.serebii.net/pinball_rs/pkmn/131.gif)|Catch 'Em|SAPPHIRE|Wilderness|![](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_Sapphire_Wilderness.png)|2|
-|132|Claydol|![](https://www.serebii.net/pinball_rs/pkmn/132.gif)|EVO|||![]()||
+|132|Claydol|![](https://www.serebii.net/pinball_rs/pkmn/132.gif)|Evolution|||![]()||
 |133|Lileep|![](https://www.serebii.net/pinball_rs/pkmn/133.gif)|Catch 'Em|RUBY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png)|3|
-|134|Cradily|![](https://www.serebii.net/pinball_rs/pkmn/134.gif)|EVO|||![]()||
+|134|Cradily|![](https://www.serebii.net/pinball_rs/pkmn/134.gif)|Evolution|||![]()||
 |135|Anorith|![](https://www.serebii.net/pinball_rs/pkmn/135.gif)|Catch 'Em|SAPPHIRE|Ocean|![](https://archives.bulbagarden.net/media/upload/f/f4/Pinball_Sapphire_Ocean.png)|3|
-|136|Armaldo|![](https://www.serebii.net/pinball_rs/pkmn/136.gif)|EVO|||![]()||
+|136|Armaldo|![](https://www.serebii.net/pinball_rs/pkmn/136.gif)|Evolution|||![]()||
 |137|Igglybuff|![](https://www.serebii.net/pinball_rs/pkmn/137.gif)|Hatch|||![]()||
 |138|Jigglypuff|![](https://www.serebii.net/pinball_rs/pkmn/138.gif)|Catch 'Em or EVO|ANY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png) / ![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|2|
-|139|Wigglytuff|![](https://www.serebii.net/pinball_rs/pkmn/139.gif)|EVO|||![]()||
+|139|Wigglytuff|![](https://www.serebii.net/pinball_rs/pkmn/139.gif)|Evolution|||![]()||
 |140|Feebas|![](https://www.serebii.net/pinball_rs/pkmn/140.gif)|Catch 'Em|SAPPHIRE|Lake|![](https://archives.bulbagarden.net/media/upload/a/a6/Pinball_Sapphire_Lake.png)|2|
-|141|Milotic|![](https://www.serebii.net/pinball_rs/pkmn/141.gif)|EVO|||![]()||
+|141|Milotic|![](https://www.serebii.net/pinball_rs/pkmn/141.gif)|Evolution|||![]()||
 |142|Castform|![](https://www.serebii.net/pinball_rs/pkmn/142.gif)|Catch 'Em|ANY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png) / ![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|3|
 |143|Staryu|![](https://www.serebii.net/pinball_rs/pkmn/143.gif)|Catch 'Em|RUBY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png)|3|
-|144|Starmie|![](https://www.serebii.net/pinball_rs/pkmn/144.gif)|EVO|||![]()||
+|144|Starmie|![](https://www.serebii.net/pinball_rs/pkmn/144.gif)|Evolution|||![]()||
 |145|Kecleon|![](https://www.serebii.net/pinball_rs/pkmn/145.gif)|Catch 'Em|ANY|Plains|![](https://archives.bulbagarden.net/media/upload/4/4f/Pinball_Ruby_Plains.png) / ![](https://archives.bulbagarden.net/media/upload/3/3c/Pinball_Sapphire_Plains.png)|3|
 |146|Shuppet|![](https://www.serebii.net/pinball_rs/pkmn/146.gif)|Hatch|||![]()||
-|147|Banette|![](https://www.serebii.net/pinball_rs/pkmn/147.gif)|EVO|||![]()||
+|147|Banette|![](https://www.serebii.net/pinball_rs/pkmn/147.gif)|Evolution|||![]()||
 |148|Duskull|![](https://www.serebii.net/pinball_rs/pkmn/148.gif)|Catch 'Em|ANY|Forest|![](https://archives.bulbagarden.net/media/upload/0/03/Pinball_Ruby_Forest.png) / ![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|2|
-|149|Dusclops|![](https://www.serebii.net/pinball_rs/pkmn/149.gif)|EVO|||![]()||
+|149|Dusclops|![](https://www.serebii.net/pinball_rs/pkmn/149.gif)|Evolution|||![]()||
 |150|Tropius|![](https://www.serebii.net/pinball_rs/pkmn/150.gif)|Catch 'Em|SAPPHIRE|Forest|![](https://archives.bulbagarden.net/media/upload/0/0b/Pinball_Sapphire_Forest.png)|3|
 |151|Chimecho|![](https://www.serebii.net/pinball_rs/pkmn/151.gif)|Hatch|||![]()||
 |152|Absol|![](https://www.serebii.net/pinball_rs/pkmn/152.gif)|Catch 'Em|SAPPHIRE|Wilderness|![](https://archives.bulbagarden.net/media/upload/a/ac/Pinball_Sapphire_Wilderness.png)|2|
 |153|Vulpix|![](https://www.serebii.net/pinball_rs/pkmn/153.gif)|Catch 'Em|RUBY|Volcano|![](https://archives.bulbagarden.net/media/upload/2/27/Pinball_Ruby_Volcano.png)|2|
-|154|Ninetales|![](https://www.serebii.net/pinball_rs/pkmn/154.gif)|EVO|||![]()||
+|154|Ninetales|![](https://www.serebii.net/pinball_rs/pkmn/154.gif)|Evolution|||![]()||
 |155|Pichu|![](https://www.serebii.net/pinball_rs/pkmn/155.gif)|Hatch|||![]()||
-|156|Pikachu|![](https://www.serebii.net/pinball_rs/pkmn/156.gif)|Catch 'Em or EVO|RUBY|Safari Zone|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)|3|
-|157|Raichu|![](https://www.serebii.net/pinball_rs/pkmn/157.gif)|EVO|||![]()||
+|156|Pikachu|![](https://www.serebii.net/pinball_rs/pkmn/156.gif)|Catch 'Em or Evolution|RUBY|Safari Zone|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)|3|
+|157|Raichu|![](https://www.serebii.net/pinball_rs/pkmn/157.gif)|Evolution|||![]()||
 |158|Psyduck|![](https://www.serebii.net/pinball_rs/pkmn/158.gif)|Catch 'Em|RUBY|Safari Zone|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)|2|
-|159|Golduck|![](https://www.serebii.net/pinball_rs/pkmn/159.gif)|EVO|||![]()||
+|159|Golduck|![](https://www.serebii.net/pinball_rs/pkmn/159.gif)|Evolution|||![]()||
 |160|Wynaut|![](https://www.serebii.net/pinball_rs/pkmn/160.gif)|Hatch|||![]()||
-|161|Wobbuffet|![](https://www.serebii.net/pinball_rs/pkmn/161.gif)|Catch 'Em or EVO|RUBY|Safari Zone|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)|3|
+|161|Wobbuffet|![](https://www.serebii.net/pinball_rs/pkmn/161.gif)|Catch 'Em or Evolution|RUBY|Safari Zone|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)|3|
 |162|Natu|![](https://www.serebii.net/pinball_rs/pkmn/162.gif)|Hatch|||![]()||
-|163|Xatu|![](https://www.serebii.net/pinball_rs/pkmn/163.gif)|EVO|||![]()||
+|163|Xatu|![](https://www.serebii.net/pinball_rs/pkmn/163.gif)|Evolution|||![]()||
 |164|Girafarig|![](https://www.serebii.net/pinball_rs/pkmn/164.gif)|Catch 'Em|RUBY|Safari Zone|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)|3|
 |165|Phanpy|![](https://www.serebii.net/pinball_rs/pkmn/165.gif)|Hatch|||![]()||
-|166|Donphan|![](https://www.serebii.net/pinball_rs/pkmn/166.gif)|EVO|||![]()||
+|166|Donphan|![](https://www.serebii.net/pinball_rs/pkmn/166.gif)|Evolution|||![]()||
 |167|Pinsir|![](https://www.serebii.net/pinball_rs/pkmn/167.gif)|Catch 'Em|RUBY|Safari Zone|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)|2|
 |168|Heracross|![](https://www.serebii.net/pinball_rs/pkmn/168.gif)|Catch 'Em|RUBY|Safari Zone|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)|2|
 |169|Rhyhorn|![](https://www.serebii.net/pinball_rs/pkmn/169.gif)|Catch 'Em|RUBY|Safari Zone|![](https://archives.bulbagarden.net/media/upload/7/74/Pinball_Ruby_Safari_Zone.png)|2|
-|170|Rhydon|![](https://www.serebii.net/pinball_rs/pkmn/170.gif)|EVO|||![]()||
+|170|Rhydon|![](https://www.serebii.net/pinball_rs/pkmn/170.gif)|Evolution|||![]()||
 |171|Snorunt|![](https://www.serebii.net/pinball_rs/pkmn/171.gif)|Hatch|||![]()||
-|172|Glalie|![](https://www.serebii.net/pinball_rs/pkmn/172.gif)|EVO|||![]()||
+|172|Glalie|![](https://www.serebii.net/pinball_rs/pkmn/172.gif)|Evolution|||![]()||
 |173|Spheal|![](https://www.serebii.net/pinball_rs/pkmn/173.gif)|Hatch|||![]()||
-|174|Sealeo|![](https://www.serebii.net/pinball_rs/pkmn/174.gif)|EVO|||![]()||
-|175|Walrein|![](https://www.serebii.net/pinball_rs/pkmn/175.gif)|EVO|||![]()||
+|174|Sealeo|![](https://www.serebii.net/pinball_rs/pkmn/174.gif)|Evolution|||![]()||
+|175|Walrein|![](https://www.serebii.net/pinball_rs/pkmn/175.gif)|Evolution|||![]()||
 |176|Clamperl|![](https://www.serebii.net/pinball_rs/pkmn/176.gif)|Catch 'Em|SAPPHIRE|Ocean|![](https://archives.bulbagarden.net/media/upload/f/f4/Pinball_Sapphire_Ocean.png)|3|
-|177|Huntail|![](https://www.serebii.net/pinball_rs/pkmn/177.gif)|EVO|||![]()||
-|178|Gorebyss|![](https://www.serebii.net/pinball_rs/pkmn/178.gif)|EVO|||![]()||
+|177|Huntail|![](https://www.serebii.net/pinball_rs/pkmn/177.gif)|Evolution|||![]()||
+|178|Gorebyss|![](https://www.serebii.net/pinball_rs/pkmn/178.gif)|Evolution|||![]()||
 |179|Relicanth|![](https://www.serebii.net/pinball_rs/pkmn/179.gif)|Catch 'Em|ANY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png) / ![](https://archives.bulbagarden.net/media/upload/f/f4/Pinball_Sapphire_Ocean.png)|3|
 |180|Corsola|![](https://www.serebii.net/pinball_rs/pkmn/180.gif)|Hatch|||![]()||
 |181|Chinchou|![](https://www.serebii.net/pinball_rs/pkmn/181.gif)|Hatch|||![]()||
-|182|Lanturn|![](https://www.serebii.net/pinball_rs/pkmn/182.gif)|EVO|||![]()||
+|182|Lanturn|![](https://www.serebii.net/pinball_rs/pkmn/182.gif)|Evolution|||![]()||
 |183|Luvdisc|![](https://www.serebii.net/pinball_rs/pkmn/183.gif)|Catch 'Em|ANY|Ocean|![](https://archives.bulbagarden.net/media/upload/5/51/Pinball_Ruby_Ocean.png) / ![](https://archives.bulbagarden.net/media/upload/f/f4/Pinball_Sapphire_Ocean.png)|2|
 |184|Horsea|![](https://www.serebii.net/pinball_rs/pkmn/184.gif)|Hatch|||![]()||
-|185|Seadra|![](https://www.serebii.net/pinball_rs/pkmn/185.gif)|EVO|||![]()||
-|186|Kingdra|![](https://www.serebii.net/pinball_rs/pkmn/186.gif)|EVO|||![]()||
+|185|Seadra|![](https://www.serebii.net/pinball_rs/pkmn/185.gif)|Evolution|||![]()||
+|186|Kingdra|![](https://www.serebii.net/pinball_rs/pkmn/186.gif)|Evolution|||![]()||
 |187|Bagon|![](https://www.serebii.net/pinball_rs/pkmn/187.gif)|Hatch|||![]()||
-|188|Shelgon|![](https://www.serebii.net/pinball_rs/pkmn/188.gif)|Catch 'Em or EVO|ANY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png) / ![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|2|
-|189|Salamence|![](https://www.serebii.net/pinball_rs/pkmn/189.gif)|EVO|||![]()||
+|188|Shelgon|![](https://www.serebii.net/pinball_rs/pkmn/188.gif)|Catch 'Em or Evolution|ANY|Cave|![](https://archives.bulbagarden.net/media/upload/b/b8/Pinball_Ruby_Cave.png) / ![](https://archives.bulbagarden.net/media/upload/a/a0/Pinball_Sapphire_Cave.png)|2|
+|189|Salamence|![](https://www.serebii.net/pinball_rs/pkmn/189.gif)|Evolution|||![]()||
 |190|Beldum|![](https://www.serebii.net/pinball_rs/pkmn/190.gif)|Catch 'Em|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)|2|
-|191|Metang|![](https://www.serebii.net/pinball_rs/pkmn/191.gif)|EVO|||![]()||
-|192|Metagross|![](https://www.serebii.net/pinball_rs/pkmn/192.gif)|EVO|||![]()||
+|191|Metang|![](https://www.serebii.net/pinball_rs/pkmn/191.gif)|Evolution|||![]()||
+|192|Metagross|![](https://www.serebii.net/pinball_rs/pkmn/192.gif)|Evolution|||![]()||
 |193|Regirock|![](https://www.serebii.net/pinball_rs/pkmn/193.gif)|Catch 'Em|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)|2|
 |194|Regice|![](https://www.serebii.net/pinball_rs/pkmn/194.gif)|Catch 'Em|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)|3|
 |195|Registeel|![](https://www.serebii.net/pinball_rs/pkmn/195.gif)|Catch 'Em|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)|2|
 |196|Latias|![](https://www.serebii.net/pinball_rs/pkmn/196.gif)|Catch 'Em|SAPPHIRE|Any|![]()|3|
 |197|Latios|![](https://www.serebii.net/pinball_rs/pkmn/197.gif)|Catch 'Em|RUBY|Any|![]()|3|
-|198|Kyogre|![](https://www.serebii.net/pinball_rs/pkmn/198.gif)|BONUS|SAPPHIRE||![]()||
-|199|Groudon|![](https://www.serebii.net/pinball_rs/pkmn/199.gif)|BONUS|RUBY||![]()||
-|200|Rayquaza|![](https://www.serebii.net/pinball_rs/pkmn/200.gif)|BONUS|ANY||![]()||
+|198|Kyogre|![](https://www.serebii.net/pinball_rs/pkmn/198.gif)|Bonus|SAPPHIRE||![]()||
+|199|Groudon|![](https://www.serebii.net/pinball_rs/pkmn/199.gif)|Bonus|RUBY||![]()||
+|200|Rayquaza|![](https://www.serebii.net/pinball_rs/pkmn/200.gif)|Bonus|ANY||![]()||
 |201|Jirachi|![](https://www.serebii.net/pinball_rs/pkmn/201.gif)|Start Slots|ANY|Ruins|![](https://www.serebii.net/pinball_rs/fields/moon-cave.gif)||
 
 ***
