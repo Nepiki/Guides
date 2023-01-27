@@ -818,6 +818,6 @@ By the time you've completed the rest of the set, you should have made significa
 
 ## 5. Credits
 
-Thank you for reading my guide. I hope it was helpful! If you have any feedback, additional tips or corrections, you can contact me through RA [here](https://retroachievements.org/user/Gemyma). Shout out to BahamutVoid's [Challenge League 2022](https://retroachievements.org/viewtopic.php?t=15128&o=0) for giving me a reason to write all this. Images linked from [RetroAchievements](https://retroachievements.org/), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) and [Serebii](https://www.serebii.net/).
+Thank you for reading my guide. I hope it was helpful! If you have any feedback, additional tips or corrections, you can contact me through RA [here](https://retroachievements.org/user/Gemyma). Shout out to BahamutVoid's [Challenge League 2022](https://retroachievements.org/viewtopic.php?t=15128&o=0) for giving me a reason to write all this. Images linked from [RetroAchievements](https://retroachievements.org/), [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) and [Serebii](https://www.serebii.net/). Also thanks to JumpingUnicorn and @Superbird for ToC markdown help.
 
 I've sunk many, _many_ hours into this game over the years, long before I discovered RetroAchievements. I hope you enjoy it as much as I have.
