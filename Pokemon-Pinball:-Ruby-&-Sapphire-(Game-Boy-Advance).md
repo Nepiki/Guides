@@ -1,14 +1,14 @@
 ![Start screen](https://media.retroachievements.org/Images/000658.png)
 
 # 1. Table of Contents
-- [Overview](#2.-overview)
+- [Overview](#2-overview)
    - [Button Config and Ball Speed](#button-config-and-ball-speed)
    - [The Boards](#the-boards)
       - [Board Features](#board-features)
       - [RUBY Features](#ruby)
       - [SAPPHIRE Features](#sapphire)
-- [Game Modes](#3.-game-modes)
-- [Achievement Guide](#4.-achievement-guide)
+- [Game Modes](#3-game-modes)
+- [Achievement Guide](#4-achievement-guide)
    - [Catch 'Em Mode - 2 achievements, 6 points](#catch-em-mode---2-achievements-6-points)
    - [Hatch mode - 0 achievements, 0 points](#hatch-mode---0-achievements-0-points)
    - [Evolution Mode - 2 achievements, 8 points](#evolution-mode---2-achievements-8-points)
@@ -27,7 +27,7 @@
    - [Specific Pokémon - 16 achievements, 100 points](#specific-pokémon---16-achievements-100-points)
    - [Pokédex Completion - 6 achievements, 95 points](#pokédex-completion---6-achievements-95-points)
       - [Pokédex](#pokédex)
-- [Credits](#5.-credits)
+- [Credits](#5-credits)
 
 # 2. Overview
 
