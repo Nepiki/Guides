@@ -47,7 +47,6 @@ _**Insane**_     | Once you reach New Game + you can choose this. From now you c
 __Easy / Challanging__  | You can switch back and forth between these levels of difficulty as you wish
 
 _`There are 3 missable achievements that require a specific puzzle difficulty`_ 
-![Link](https://retroachievements.org/achievement/270033)](https://media.retroachievements.org/Badge/312512.png)
 ***
 ### __Sandbox Mode__
 _`The sandbox mode must remain switched off for the entire course of the game. This is only to be considered as soon as a New Game + is started. Once you start a New Game + the Game will ask you to activate the Sandbox Mode. Select No`_
