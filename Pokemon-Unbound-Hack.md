@@ -4,7 +4,7 @@
 
   |  
 -- | --
-Set Difficulty | Number between 5 / 10
+Set Difficulty | 5 / 10 [Insane 12/10]
 Approximate time to master | N/A
 Minimum numbers of playthroughs needed | 2 (There is a New Game + run neccessary)
 Number of missable achievements | 14
@@ -24,7 +24,7 @@ Many years later, an organization known simply as the “Shadows” seems bent o
 
 ## [Step 1: Game Settings]
 
-**Some achievements can only be unlocked if a certain level of difficulty is set at the start of the game. In order to make all achievements unlockable on the first playthrough, set the difficulty level to _Expert_ when starting a new game**
+**Some achievements can only be unlocked if a certain level of difficulty is set at the start of the game. In order to make all achievements unlockable on the first playthrough, set the difficulty level to [Expert](https://github.com/RetroAchievements/guides/wiki/Pokemon-Unbound-Hack/_edit#battle-difficulty) and make sure to turn off the [Sandbox](https://github.com/RetroAchievements/guides/wiki/Pokemon-Unbound-Hack/_edit#sandbox-mode) when starting a new game**
 
 ### __Battle Difficulty__
 
@@ -35,22 +35,32 @@ _**Expert**_     | Once you lower the difficulty below Expert, you can't go back
 
 _**Insane**_     | Once you reach New Game + you can choose this. From now you can increase or decrease the difficulty as you like. But there are achievements that require an active Insane difficulty
 
-> _`These 14 missable achievements require a specific battle difficulty`_
+> _`These 10 missable achievements require a specific battle difficulty`_
 * [Smoked [m]](https://retroachievements.org/achievement/270033) - Requirse Expert difficulty in Dresco Town Gym
 * [Where Am I [m]](https://retroachievements.org/achievement/270036) - Requirse Expert difficulty in Crater Town Gym
 * [Riding the Winds [m]](https://retroachievements.org/achievement/270602) - Requirse Expert difficulty in Blizzard City Gym
-* [Howdy'there Partner[m]](https://retroachievements.org/achievement/270995) - Requirse Expert difficulty in Fallshore City Gym
+* [Howdy'there Partner [m]](https://retroachievements.org/achievement/270995) - Requirse Expert difficulty in Fallshore City Gym
 * [Isolated from the Ground [m]](https://retroachievements.org/achievement/270996) - Requirse Expert difficulty in Dahara City Gym
+* [The New Underworld King [m]](https://retroachievements.org/achievement/270997) - Requirse Expert difficulty in Antisis City Gym
+* [Drained the Swamp [m]](https://retroachievements.org/achievement/270998) - Requirse Expert difficulty in Tehl Town Gym
+* [The Curiouse Case of Leader Benjamin [m]](https://retroachievements.org/achievement/270999) - Requirse Expert difficulty in Redwood Village Gym
+* [Not Hard Enough [m]](https://retroachievements.org/achievement/282344) - Requirse Expert difficulty in the Pokemon League
+* [Beat the Void [m]](https://retroachievements.org/achievement/282481) - Requirse Expert difficulty at the last Fight in the Ruins of Void
 ***
 ### __Puzzle Difficulty__
 
 __Easy / Challanging__  | You can switch back and forth between these levels of difficulty as you wish
 
 _`There are 3 missable achievements that require a specific puzzle difficulty`_ 
+* [Where Am I [m]](https://retroachievements.org/achievement/270036) - Requirse the Puzzle difficulty Challanging befor going into the Crater Town Gym. Can be resetet by re-entering the Gym.
+* [Drained the Swamp [m]](https://retroachievements.org/achievement/270998) - Requirse the Puzzle difficulty Challanging befor going into the Crater Town Gym. Can be resetet by re-entering the Gym.
+* [You Did Good,Kid [m]](https://retroachievements.org/achievement/282672) - Requirse the Puzzle difficulty Challanging befor entering the Ferrethorn Turf. Can be resetet by re-entering the Ferrethorn Turf unless you already picked up an Item or Blacked Out.
 ***
 ### __Sandbox Mode__
 _`The sandbox mode must remain switched off for the entire course of the game. This is only to be considered as soon as a New Game + is started. Once you start a New Game + the Game will ask you to activate the Sandbox Mode. Select No`_
-
+***
+### __New Game+__
+_`After completing the main story, you can start a new game + and increase the difficulty to Insane. Difficulty level can be changed at any time during replay.It doesn't matter whether you first complete all endgame achievements or start a new game + directly.The 6 Pokemon in your party will be transferred to the new game+. The IV's abilities and natures are also retained.`_
 # 3.1) Difficulty Missables
 
 work in progress
