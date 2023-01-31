@@ -24,7 +24,7 @@ Many years later, an organization known simply as the “Shadows” seems bent o
 
 ## [Step 1: Game Settings]
 
-**Some achievements can only be unlocked if a certain level of difficulty is set at the start of the game. In order to make all achievements unlockable on the first playthrough, set the difficulty level to [Expert](https://github.com/RetroAchievements/guides/wiki/Pokemon-Unbound-Hack/_edit#battle-difficulty) and make sure to turn off the [Sandbox](https://github.com/RetroAchievements/guides/wiki/Pokemon-Unbound-Hack#sandbox-mode) when starting a new game**
+**Some achievements can only be unlocked if a certain level of difficulty is set at the start of the game. In order to make all achievements unlockable on the first playthrough, set the difficulty level to [Expert](https://github.com/RetroAchievements/guides/wiki/Pokemon-Unbound-Hack#battle-difficulty) and make sure to turn off the [Sandboxmode](https://github.com/RetroAchievements/guides/wiki/Pokemon-Unbound-Hack#sandbox-mode) when starting a new game**
 
 ### __Battle Difficulty__
 
@@ -36,31 +36,68 @@ _**Expert**_     | Once you lower the difficulty below Expert, you can't go back
 _**Insane**_     | Once you reach New Game + you can choose this. From now you can increase or decrease the difficulty as you like. But there are achievements that require an active Insane difficulty
 
 > _`These 10 missable achievements require a specific battle difficulty`_
-* [Smoked [m]](https://retroachievements.org/achievement/270033) - Requirse Expert difficulty in Dresco Town Gym
-* [Where Am I [m]](https://retroachievements.org/achievement/270036) - Requirse Expert difficulty in Crater Town Gym
-* [Riding the Winds [m]](https://retroachievements.org/achievement/270602) - Requirse Expert difficulty in Blizzard City Gym
-* [Howdy'there Partner [m]](https://retroachievements.org/achievement/270995) - Requirse Expert difficulty in Fallshore City Gym
-* [Isolated from the Ground [m]](https://retroachievements.org/achievement/270996) - Requirse Expert difficulty in Dahara City Gym
-* [The New Underworld King [m]](https://retroachievements.org/achievement/270997) - Requirse Expert difficulty in Antisis City Gym
-* [Drained the Swamp [m]](https://retroachievements.org/achievement/270998) - Requirse Expert difficulty in Tehl Town Gym
-* [The Curiouse Case of Leader Benjamin [m]](https://retroachievements.org/achievement/270999) - Requirse Expert difficulty in Redwood Village Gym
-* [Not Hard Enough [m]](https://retroachievements.org/achievement/282344) - Requirse Expert difficulty in the Pokemon League
-* [Beat the Void [m]](https://retroachievements.org/achievement/282481) - Requirse Expert difficulty at the last Fight in the Ruins of Void
+* [Smoked [m]](https://retroachievements.org/achievement/270033) - The difficulty must be set to __`Expert`__ in Dresco Town Gym
+* [Where Am I [m]](https://retroachievements.org/achievement/270036) - The difficulty must be set to __`Expert`__ in Crater Town Gym
+* [Riding the Winds [m]](https://retroachievements.org/achievement/270602) - The difficulty must be set to __`Expert`__ in Blizzard City Gym
+* [Howdy'there Partner [m]](https://retroachievements.org/achievement/270995) - The difficulty must be set to __`Expert`__ in Fallshore City Gym
+* [Isolated from the Ground [m]](https://retroachievements.org/achievement/270996) - The difficulty must be set to __`Expert`__ in Dahara City Gym
+* [The New Underworld King [m]](https://retroachievements.org/achievement/270997) - The difficulty must be set to __`Expert`__ in Antisis City Gym
+* [Drained the Swamp [m]](https://retroachievements.org/achievement/270998) - The difficulty must be set to __`Expert`__ in Tehl Town Gym
+* [The Curiouse Case of Leader Benjamin [m]](https://retroachievements.org/achievement/270999) - The difficulty must be set to __`Expert`__ in Redwood Village Gym
+* [Not Hard Enough [m]](https://retroachievements.org/achievement/282344) - The difficulty must be set to __`Expert`__ in the Pokemon League
+* [Beat the Void [m]](https://retroachievements.org/achievement/282481) - The difficulty must be set to __`Expert`__ at the last Fight in the Ruins of Void
 ***
 ### __Puzzle Difficulty__
 
-__Easy / Challanging__  | You can switch back and forth between these levels of difficulty as you wish
+__Easy / Challanging__  | You can switch back and forth between these levels of difficulty as you wish but make sure to set the Puzzle Difficulty to Challanging befor reaching the Locations listed below.
 
 _`There are 3 missable achievements that require a specific puzzle difficulty`_ 
-* [Where Am I [m]](https://retroachievements.org/achievement/270036) - Requirse the Puzzle difficulty Challanging befor going into the Crater Town Gym. Can be resetet by re-entering the Gym.
-* [Drained the Swamp [m]](https://retroachievements.org/achievement/270998) - Requirse the Puzzle difficulty Challanging befor going into the Crater Town Gym. Can be resetet by re-entering the Gym.
-* [You Did Good,Kid [m]](https://retroachievements.org/achievement/282672) - Requirse the Puzzle difficulty Challanging befor entering the Ferrethorn Turf. Can be resetet by re-entering the Ferrethorn Turf unless you already picked up an Item or Blacked Out.
+* [Where Am I [m]](https://retroachievements.org/achievement/270036) - Requirse the Puzzle difficulty __`Challanging`__ befor going into the Crater Town Gym. Can be resetet by re-entering the Gym.
+* [Drained the Swamp [m]](https://retroachievements.org/achievement/270998) - Requirse the Puzzle difficulty __`Challanging`__ befor going into the Crater Town Gym. Can be resetet by re-entering the Gym.
+* [You Did Good,Kid [m]](https://retroachievements.org/achievement/282672) - Requirse the Puzzle difficulty __`Challanging`__ befor entering the Ferrethorn Turf. Can be resetet by re-entering the Ferrethorn Turf unless you already picked up an Item or Blacked Out.
 ***
 ### __Sandbox Mode__
 _`The sandbox mode must remain switched off for the entire course of the game. This is only to be considered as soon as a New Game + is started. Once you start a New Game + the Game will ask you to activate the Sandbox Mode. Select No`_
 ***
 ### __New Game+__
-_`After completing the main story, you can start a new game + and increase the difficulty to Insane. Difficulty level can be changed at any time during replay.It doesn't matter whether you first complete all endgame achievements or start a new game + directly.The 6 Pokemon in your party will be transferred to the new game+. The IV's abilities and natures are also retained.`_
-# 3.1) Difficulty Missables
+_After completing the main story, you can start a new game + and increase the difficulty to Insane. Difficulty level can be changed at any time during replay.It doesn't matter whether you first complete all endgame achievements or start a new game + directly.The 6 Pokemon in your party will be transferred to the new game +. The IV's abilities and natures are also retained. Also you will take certain Items in your new Game. Like DexNav, Time Turner etc and collected Items like Z-Crystals and Megastones_
 
-work in progress
+
+_In the new game +, care must be taken to set the combat difficulty, if changed, back to Insane before reaching the locations listed below._
+
+_`There are 10 missable achievements that require a battle difficulty in New Game +`_ 
+* [A Foggy Matter + [m]](https://retroachievements.org/achievement/284219) - The difficulty must be set to __`Insane`__ in Dresco Town Gym
+* [Akmost Dark + [m]](https://retroachievements.org/achievement/284220) - The difficulty must be set to __`Insane`__ in Crater Town Gym
+* [Clash in the Nest + [m]](https://retroachievements.org/achievement/284221) - The difficulty must be set to __`Insane`__ in Blizzard City Gym
+* [The Sun Paints the Waterfall + [m]](https://retroachievements.org/achievement/284222) - The difficulty must be set to __`Insane`__ in Fallshore City Gym
+* [We go Full Charge + [m]](https://retroachievements.org/achievement/284223) - The difficulty must be set to __`Insane`__ in Dahara City Gym
+* [Back from the Sewers + [m]](https://retroachievements.org/achievement/284226) - The difficulty must be set to __`Insane`__ in Antisis City Gym
+* [Eerie it is to Walk Across the Moor + [m]](https://retroachievements.org/achievement/284224) - The difficulty must be set to __`Insane`__ in Tehl Town Gym
+* [Back in Time + [m]](https://retroachievements.org/achievement/284225) - The difficulty must be set to __`Insane`__ in Redwood Village Gym
+* [Champion + [m]](https://retroachievements.org/achievement/284227) - The difficulty must be set to __`Insane`__ in the Pokemon League
+* [The End + [m]](https://retroachievements.org/achievement/282481) - The difficulty must be set to __`Insane`__ at the last Fight in the Ruins of Void
+
+# 3.1) Story-related
+
+***
+![](https://media.retroachievements.org/Badge/312512.png)[Natural Born Pokemon Trainer [m]](https://retroachievements.org/achievement/269714)
+
+_Defeat your Rival in Frozen Heights_
+
+__`MISSABLE`__
+
+You have to win againts your Rival in Frozen Heights.Since its the start of the Game this shouldnt be hard. If u struggle use the potions u picked up in the Shadowbase if you drop below half HP. 
+
+***
+![](https://media.retroachievements.org/Badge/315004.png)[A Foggy Matter](https://retroachievements.org/achievement/270032)
+
+_Obtain the Leaf Badge in Dresco  Town_
+
+__`Story`__
+***
+![](https://media.retroachievements.org/Badge/312514.png)[Smoked [m]](https://retroachievements.org/achievement/270033)
+
+Defeat Gymleader Mirskle in your first playthrough [Difficulty - Expert]
+
+__`MISSABLE`__
+
