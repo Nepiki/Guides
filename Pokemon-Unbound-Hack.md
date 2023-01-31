@@ -24,7 +24,7 @@ Many years later, an organization known simply as the “Shadows” seems bent o
 
 ## [Step 1: Game Settings]
 
-**Some achievements can only be unlocked if a certain level of difficulty is set at the start of the game. In order to make all achievements unlockable on the first playthrough, set the difficulty level to [Expert](https://github.com/RetroAchievements/guides/wiki/Pokemon-Unbound-Hack/_edit#battle-difficulty) and make sure to turn off the [Sandbox](https://github.com/RetroAchievements/guides/wiki/Pokemon-Unbound-Hack/_edit#sandbox-mode) when starting a new game**
+**Some achievements can only be unlocked if a certain level of difficulty is set at the start of the game. In order to make all achievements unlockable on the first playthrough, set the difficulty level to [Expert](https://github.com/RetroAchievements/guides/wiki/Pokemon-Unbound-Hack/_edit#battle-difficulty) and make sure to turn off the [Sandbox](https://github.com/RetroAchievements/guides/wiki/Pokemon-Unbound-Hack#sandbox-mode) when starting a new game**
 
 ### __Battle Difficulty__
 
