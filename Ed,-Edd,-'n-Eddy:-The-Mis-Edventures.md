@@ -36,13 +36,13 @@ For this part, focus on completing every scam once. You can clean up any collect
 Story related achievement. This scam is started when you begin a new game. If you need to do it again, simply go down the street and find a gate at the corner.
 
 This stage is very straightforward, mainly consisting of moving from yard to yard and grabbing ice along the way.
-First yard: Break the cooler for the first ice cube
-Second yard: Break the next cooler (2), then use Batter-Ed on the crate in the wall.
-Third and fourth yards: Grab a cat in the third, then toss it at the dog in the fourth to reach another cooler (3).
-Fifth yard: Jump onto the picnic table as Edd and use his slingshot to hit Jimmy’s dolls. Bust open the fourth cooler.
-Sixth yard: Attack (or use stink bombs) to stun a few squirrels, then throw them into the window.
-House: Break down the door by throwing the fridge at it (releasing the 5th block of ice), then Batter-Ed into it.
-Rolf’s yard: After the cutscene, ram into the gate of the fence. Stun all three pigs and toss them into the pen to make Rolf move. Head to the shed and use Edd to turn it on.
+* First yard: Break the cooler for the first ice cube
+* Second yard: Break the next cooler (2), then use Batter-Ed on the crate in the wall.
+* Third and fourth yards: Grab a cat in the third, then toss it at the dog in the fourth to reach another cooler (3).
+* Fifth yard: Jump onto the picnic table as Edd and use his slingshot to hit Jimmy’s dolls. Bust open the fourth cooler.
+* Sixth yard: Attack (or use stink bombs) to stun a few squirrels, then throw them into the window.
+* House: Break down the door by throwing the fridge at it (releasing the 5th block of ice), then Batter-Ed into it.
+* Rolf’s yard: After the cutscene, ram into the gate of the fence. Stun all three pigs and toss them into the pen to make Rolf move. Head to the shed and use Edd to turn it on.
 
 ![](https://media.retroachievements.org/Badge/243261.png) **Ed Party** (5 points)
 
