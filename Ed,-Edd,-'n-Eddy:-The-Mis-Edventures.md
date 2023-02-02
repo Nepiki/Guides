@@ -276,6 +276,7 @@ This will probably be the last achievement you get. To earn it, you’ll need to
 * Antarctic: 116 cents
 * Mexican: 138 cents 
 * Japanese: 162 cents
+
 To cover them all, you’ll need a total of 807 coins. You won’t be able to collect that much in one playthrough of each scam, but there are two places you can grind easily.
 1. Nightmare on Ed Street. There are three large cabinets that drop a gold coin (worth 25 cents) that you have to Batter-Ed to destroy. You can also just grind the one that appears at the very start.
 2. Ed Marks the Spot. There are plenty of breakable objects, plus a few gold coins, for you to get. Focus especially on the flamingos, as they appear in clumps and drop a large supply of coins.
