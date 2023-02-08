@@ -26,7 +26,7 @@ Welcome to the Story Missions of GTA San Andreas. The Story Missions Section wil
 Each person you do a mission for will also have their own sections, you can use the links below to get to them easier
 * [CJ's Missions](https://github.com/RetroAchievements/guides/wiki/_new#cjs-missions)
 * [Ryder's Missions](https://github.com/RetroAchievements/guides/wiki/_new#ryders-missions)
-* [Smoke's Missions](https://github.com/RetroAchievements/guides/wiki/_new#smokes-missions)
+* [Sweet's Missions](https://github.com/RetroAchievements/guides/wiki/_new#sweets-missions)
 
 # 4) Walkthrough
 # Story Missions
@@ -38,7 +38,7 @@ Each person you do a mission for will also have their own sections, you can use 
 ##  **Mission - "Sweet & Kendall"**
 
 ![](https://media.retroachievements.org/Badge/243339.png) [The Gang's All Here (2)](https://retroachievements.org/achievement/219973)  
-### Clear the mission "Sweet & Kendl" [Cheats block all achievements]
+ Clear the mission "Sweet & Kendl" [Cheats block all achievements]
 
 **Pretty simple just play through the mission "Sweet & Kendl"**
 
@@ -51,7 +51,7 @@ Each person you do a mission for will also have their own sections, you can use 
 ### **Here Is our First Mission that has Missables! They both are earned before the end of the Mission.**
 
 ![](https://media.retroachievements.org/Badge/317359.png) [Respect Plus [m] (1)](https://retroachievements.org/achievement/277512)   
-**During the mission "Ryder", earn Ryder's respect with your new haircut**
+During the mission "Ryder", earn Ryder's respect with your new haircut
 
 **At the start of this mission, Ryder will make you drive to the barber shop and choose a new haircut. For this you need him to compliment your Hairstyle. You can sit there and try each Hairstyle, but if you want it the easy way, take a look at the pictures hanging on the wall, this MIGHT give you an Idea.**
 <details>
@@ -74,7 +74,7 @@ Each person you do a mission for will also have their own sections, you can use 
 **Pretty simple at this point, if you have unlocked the missables in the mission, continue on to finish the mission.** 
 
 ***
-##  **Smoke's Missions**
+##  **Sweet's Missions**
 ***
 
 ## **Mission - "Tagging Up Turf"**
@@ -84,10 +84,14 @@ Each person you do a mission for will also have their own sections, you can use 
 
 **Pretty simple you just have to play through the mission, no missables.** 
 
+***
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
+## **Mission - Cleaning the Hood"**
 
-Guide for the achievement.
+![](https://media.retroachievements.org/Badge/243342.png) [Cleanup Crew (3)](https://retroachievements.org/achievement/219976)   
+ Clear the mission "Cleaning the Hood"
+
+**Pretty simple you just have to play through the mission, no missables.** 
 
 ***
+
