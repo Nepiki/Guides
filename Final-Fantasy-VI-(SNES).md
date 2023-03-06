@@ -28,7 +28,7 @@ Often listed as one of the greatest RPGs of all time, Final Fantasy 6 is the sto
 
 ## Step 1: World of Balance | Total Points: XX
 
-### Narche
+### Narshe
 
 ![image](https://user-images.githubusercontent.com/120497130/223259814-9009e602-9fa1-43d6-b378-2461780ae472.png)[The Approach on Narshe (0)](https://retroachievements.org/achievement/4938)
 _Watch the snowfield scene without skipping_
