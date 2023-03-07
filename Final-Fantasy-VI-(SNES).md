@@ -63,7 +63,7 @@ While defending Terra with the Moogles, use Locke to steal from the boss until y
 ![image](https://user-images.githubusercontent.com/120497130/223467206-f17b72bf-e3a4-4781-8efb-4045a6efac09.png) [Every Little Thing She Does Is Magic (5)](https://retroachievements.org/achievement/5006)
 _Trigger a hidden scene shortly after escaping Figaro Castle_
 
-![image](https://user-images.githubusercontent.com/120497130/223468138-eaec3701-cba6-435e-856b-3cabf55a9cb8.png) [To the Horizons (1)](https://retroachievements.org/achievement/5008)
+![image](https://user-images.githubusercontent.com/120497130/223473706-0a5b8018-98ac-4fb1-8cd7-120d5a76f819.png) [To the Horizons (1)](https://retroachievements.org/achievement/5008)
 _Ride a Chocobo on the World Map_
 
 ![image](https://user-images.githubusercontent.com/120497130/223468409-99717e84-24a5-4c8f-8bbf-50bf4cc61478.png) [Hadouken! (1)](https://retroachievements.org/achievement/5096)
