@@ -86,7 +86,7 @@ _Equip Sprint Shoes on any character_
 These are available at many Relic stores.  The earliest can be obtained in South Figaro.
 
 **Elixir-in-a-clock 2 out of 8**  
-An elixir is hidden in a secret passage behind the large mansion in the top left corner of town.  Locke will run through this room later during his scenario.
+An elixir is hidden in a secret passage behind the large mansion in the top left corner of town.  Locke will run through this room later during his scenario.  
 ![image](https://user-images.githubusercontent.com/120497130/223548252-ec2a92b4-2b68-4a1f-b912-e9728a7084bf.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548049-0ff75542-6b2e-4c77-a055-d72dc437a467.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548446-f84a841a-7f44-4a64-86ab-ebc7e056e17d.png)
@@ -441,8 +441,7 @@ _Uncurse the Curse Shield_
 [Power Level I (5)](https://retroachievements.org/achievement/7295)**  
 _At least one character has reached level 40_
 
-**
-![image](https://user-images.githubusercontent.com/120497130/223579048-3735ce0f-aa84-4487-a552-9085b5d63591.png)
+**![image](https://user-images.githubusercontent.com/120497130/223579048-3735ce0f-aa84-4487-a552-9085b5d63591.png)
 [Power Level II (10)](https://retroachievements.org/achievement/7297)**  
 _At least one character has reached level 99_
 
