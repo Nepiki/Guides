@@ -232,6 +232,14 @@ While defending Terra with the Moogles, use Locke to steal from the boss until y
 **[LLG (50)](https://retroachievements.org/achievement/7296)**
 **_Clear the game with no character exceeding level 30_**
 
+WIP - Needs to be fleshed out
+Tips from Xymjak
+Evade stat is bugged and uses magic evade value instead. For example, Priest's Miter gives +10% to both Magic and Physical Evasion instead of only Magic.
+Put all characters in the back row
+Fid Genji Glove and buy two Morning Stars.  Equip on Locke for big damage.
+About Traveler lore (and mb corresponding rage in WoR). Anguiform, Stray cat and Aspiran rages for WoB.
+Tactics for each boss.
+
 **## Step 4: Miscellaneous | Total Points: XX**
 
 **[Gotta Dash (1)](https://retroachievements.org/achievement/5095)**
