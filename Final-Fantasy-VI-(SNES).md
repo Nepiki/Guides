@@ -86,7 +86,7 @@ _Equip Sprint Shoes on any character_
 These are available at many Relic stores.  The earliest can be obtained in South Figaro.
 
 **Elixir-in-a-clock 2 out of 8**  
-An elixir is hidden in a secret passage behind the large mansion in the top left corner of town.  
+An elixir is hidden in a secret passage behind the large mansion in the top left corner of town.  Locke will run through this room later during his scenario.
 ![image](https://user-images.githubusercontent.com/120497130/223548252-ec2a92b4-2b68-4a1f-b912-e9728a7084bf.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548049-0ff75542-6b2e-4c77-a055-d72dc437a467.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548446-f84a841a-7f44-4a64-86ab-ebc7e056e17d.png)
@@ -211,80 +211,101 @@ _Reach the second world_
 
 ## Step 3: World of Ruin | Total Points: XX
 
-**![image](https://user-images.githubusercontent.com/120497130/223474516-39fad5dc-3145-4b33-a164-b143fabf2fcc.png) [The Cold Embrace of Death (5)](https://retroachievements.org/achievement/6279)**
-**_A dramatic moment_**
+**![image](https://user-images.githubusercontent.com/120497130/223474516-39fad5dc-3145-4b33-a164-b143fabf2fcc.png) [The Cold Embrace of Death (5)](https://retroachievements.org/achievement/6279)**  
+_A dramatic moment_
 
-**![image](https://user-images.githubusercontent.com/120497130/223477717-e3cb7ae3-717e-44f7-82fb-db0f6649aae8.png) [Choose Life (5)](https://retroachievements.org/achievement/6280)**
-**_A healthy fish diet_**
+**![image](https://user-images.githubusercontent.com/120497130/223576242-e97128fa-77f3-457a-8115-9b3f291815ec.png) [Choose Life (5)](https://retroachievements.org/achievement/6280)**  
+_A healthy fish diet_
 
-**[Child Endangerment (3)](https://retroachievements.org/achievement/6295)**
-**_Collect every treasure from the collapsing house and escape_**
+**![image](https://user-images.githubusercontent.com/120497130/223576317-62a5a2cf-04f3-4ac4-a608-f8b466fa4e37.png)
+[Child Endangerment (3)](https://retroachievements.org/achievement/6295)**  
+_Collect every treasure from the collapsing house and escape_
 
-**[Edgar's 'Interests' (10)](https://retroachievements.org/achievement/6412)**
-**_Celes is Seized by Tentacles, and Edgar decides to snap a picture_**
+**![image](https://user-images.githubusercontent.com/120497130/223576360-1b00e4ef-2e09-4b60-94d0-e32b49becace.png)
+[Edgar's 'Interests' (10)](https://retroachievements.org/achievement/6412)**  
+_Celes is Seized by Tentacles, and Edgar decides to snap a picture_
 
-**[Super Bouncy Doom (10)](https://retroachievements.org/achievement/6424)**
-**_Use nothing but Super Balls against Dullahan and win_**
+**![image](https://user-images.githubusercontent.com/120497130/223576390-ef090983-2418-40d6-82ea-ee04e160dbb5.png)
+[Super Bouncy Doom (10)](https://retroachievements.org/achievement/6424)**  
+_Use nothing but Super Balls against Dullahan and win_
 
-**[Kuku's Treasures (5)](https://retroachievements.org/achievement/5818)**
-**_Find Kuku's Charm and Ribbon she left behind for Mog_**
+**![image](https://user-images.githubusercontent.com/120497130/223576419-27a6c9f4-0bdb-4b0a-a8a8-736cfab6e19d.png)
+[Kuku's Treasures (5)](https://retroachievements.org/achievement/5818)**  
+_Find Kuku's Charm and Ribbon she left behind for Mog_
 
-**[Avenging Vicks and Wedge (10)](https://retroachievements.org/achievement/6535)**
-**_Defeat Tritoch, no instant death moves_**
+**![image](https://user-images.githubusercontent.com/120497130/223576444-d5735972-2cd0-4bcd-a97a-eb95e0e6aa5a.png)
+[Avenging Vicks and Wedge (10)](https://retroachievements.org/achievement/6535)**  
+_Defeat Tritoch, no instant death moves_
 
-**[Hold Onto Your Butts... (10)](https://retroachievements.org/achievement/6798)**
-**_Defeat Brachosaur, no instant death moves_**
+**![image](https://user-images.githubusercontent.com/120497130/223576483-319622cf-d0da-4beb-886b-670ebe2a54a6.png)
+[Hold Onto Your Butts... (10)](https://retroachievements.org/achievement/6798)**  
+_Defeat Brachosaur, no instant death moves_
 
-**[Minerva Twins (10)](https://retroachievements.org/achievement/6887)**
-**_Defeat Phunbaba's final form using only Celes and Terra, no instant death moves_**
+**![image](https://user-images.githubusercontent.com/120497130/223576517-d23ee4aa-cbcb-411c-bdbb-2be8b4bc7053.png)
+[Minerva Twins (10)](https://retroachievements.org/achievement/6887)**  
+_Defeat Phunbaba's final form using only Celes and Terra, no instant death moves_
 
-**[I Work Alone (10)](https://retroachievements.org/achievement/7128)**
-**_Have Shadow rescue Relm, alone_**
+**![image](https://user-images.githubusercontent.com/120497130/223576551-89ec89b9-f735-4296-b481-3598ece38f22.png)
+[I Work Alone (10)](https://retroachievements.org/achievement/7128)**  
+_Have Shadow rescue Relm, alone_
 
-**[Step Aside, Gramps! (10)](https://retroachievements.org/achievement/7162)**
-**_Solo Hidon using only Relm, no instant death moves_**
+**![image](https://user-images.githubusercontent.com/120497130/223576583-4026f39d-d00f-4d4d-8412-4bc1f0f2b122.png)
+[Step Aside, Gramps! (10)](https://retroachievements.org/achievement/7162)**  
+_Solo Hidon using only Relm, no instant death moves_
 
-**[We're All Mad Here (25)](https://retroachievements.org/achievement/119158)**
-**_Defeat the Dream Stooges with a party of three imps and full imp gear_**
+**![image](https://user-images.githubusercontent.com/120497130/223576625-86ec91ac-90a6-4e00-b15a-7d23705f2994.png)
+[We're All Mad Here (25)](https://retroachievements.org/achievement/119158)**  
+_Defeat the Dream Stooges with a party of three imps and full imp gear_
 
-**[Throne Retained (10)](https://retroachievements.org/achievement/7173)**
-**_Defeat Wrexsoul and win a Pod Bracelet_**
+**![image](https://user-images.githubusercontent.com/120497130/223576716-39bbc1b0-c37a-459d-9cda-c6c25c81b309.png)
+[Throne Retained (10)](https://retroachievements.org/achievement/7173)**  
+_Defeat Wrexsoul and win a Pod Bracelet_
 
-**[Alone in the Dark (10)](https://retroachievements.org/achievement/7197)**
-**_Solo Master Pug using only Gau, no instant death moves_**
+**![image](https://user-images.githubusercontent.com/120497130/223576744-098c8eae-4f1a-4a8f-91dc-0fa43faafe44.png)
+[Alone in the Dark (10)](https://retroachievements.org/achievement/7197)**  
+_Solo Master Pug using only Gau, no instant death moves_
 
-**[Samurai Showdown (10)](https://retroachievements.org/achievement/7201)**
-**_Steal from and defeat KatanaSoul, no instant death moves_**
+**![image](https://user-images.githubusercontent.com/120497130/223576822-4cd33c0a-0203-480a-b639-ff2752cb2287.png)
+[Samurai Showdown (10)](https://retroachievements.org/achievement/7201)**  
+_Steal from and defeat KatanaSoul, no instant death moves_
 
-**[Shin-Zantetsuken (3)](https://retroachievements.org/achievement/7238)**
-**_Transform Odin into Raiden_**
+**![image](https://user-images.githubusercontent.com/120497130/223576868-615d536a-5fce-4438-9fd9-a6c6a53b1be5.png)
+[Shin-Zantetsuken (3)](https://retroachievements.org/achievement/7238)**  
+_Transform Odin into Raiden_
 
-**[Psychic Vampires (10)](https://retroachievements.org/achievement/7298)**
-**_Defeat MagiMaster by draining away his Magic Points_**
+**![image](https://user-images.githubusercontent.com/120497130/223576907-2a1ceb59-db09-446f-882a-01e74aaa4735.png)
+[Psychic Vampires (10)](https://retroachievements.org/achievement/7298)**  
+_Defeat MagiMaster by draining away his Magic Points_
 
-**[Shielded from View (5)](https://retroachievements.org/achievement/6705)**
-**_Find the well-hidden Aegis Shield in Kefka's Tower_**
+**![image](https://user-images.githubusercontent.com/120497130/223576970-c2592ddf-efd1-4015-bbca-b1a84d3c56af.png)
+[Shielded from View (5)](https://retroachievements.org/achievement/6705)**  
+_Find the well-hidden Aegis Shield in Kefka's Tower_
 
-**[Pro-Runic (10)](https://retroachievements.org/achievement/7354)**
-**_Use Runic to counter Atma's Ultima_**
+**![image](https://user-images.githubusercontent.com/120497130/223577005-a9cef435-8135-4cd5-9a74-a10bc9b45c9e.png)
+[Pro-Runic (10)](https://retroachievements.org/achievement/7354)**  
+_Use Runic to counter Atma's Ultima_
 
-**[Goddess of Darkness (10)](https://retroachievements.org/achievement/6000)**
-**_Steal a Red Jacket from and defeat Poltergeist, no instant death moves_**
+**![image](https://user-images.githubusercontent.com/120497130/223577054-b3726833-1a20-4381-9130-91608449f01f.png)
+[Goddess of Darkness (10)](https://retroachievements.org/achievement/6000)**  
+_Steal a Red Jacket from and defeat Poltergeist, no instant death moves_
 
-**[Doomfiend (10)](https://retroachievements.org/achievement/7126)**
-**_Defeat Doom and learn Forcefield, no instant death moves_**
+**![image](https://user-images.githubusercontent.com/120497130/223577083-2e0ca9cd-0067-47e4-b50d-9cfef0d20447.png)[Doomfiend (10)](https://retroachievements.org/achievement/7126)**  
+_Defeat Doom and learn Forcefield, no instant death moves_
 
-**[Goddess of Light (10)](https://retroachievements.org/achievement/6617)**
-**_Defeat Goddess, no instant death moves_**
+**![image](https://user-images.githubusercontent.com/120497130/223577382-dca35d93-e6ef-4206-8798-d834c4072b4d.png)[Goddess of Light (10)](https://retroachievements.org/achievement/6617)**  
+_Defeat Goddess, no instant death moves_
 
-**[Night Into Day (25)](https://retroachievements.org/achievement/294591)**
-**_Defeat Kefka and view the ending_**
+**![image](https://user-images.githubusercontent.com/120497130/223577148-d2268d7e-3e9c-407f-88fe-c1e8ded9b24d.png)
+[Night Into Day (25)](https://retroachievements.org/achievement/294591)**  
+_Defeat Kefka and view the ending_
 
-**[So Long and Thanks for All the Fish (25)](https://retroachievements.org/achievement/6889)**
-**_Clear the game with all the fish!_**
+**![image](https://user-images.githubusercontent.com/120497130/223577174-bb9ed983-5c16-4a06-9ed2-1671b255b386.png)
+[So Long and Thanks for All the Fish (25)](https://retroachievements.org/achievement/6889)**  
+_Clear the game with all the fish!_
 
-**[LLG (50)](https://retroachievements.org/achievement/7296)**
-**_Clear the game with no character exceeding level 30_**
+**![image](https://user-images.githubusercontent.com/120497130/223577198-0b85b25c-3bdf-41c2-bdda-96257f7feaa2.png)
+[LLG (50)](https://retroachievements.org/achievement/7296)**  
+_Clear the game with no character exceeding level 30_
 
 WIP - Needs to be fleshed out  
 Tips from Xymjak  
@@ -294,109 +315,147 @@ Fid Genji Glove and buy two Morning Stars.  Equip on Locke for big damage.
 About Traveler lore (and mb corresponding rage in WoR). Anguiform, Stray cat and Aspiran rages for WoB.  
 Tactics for each boss.
 
-**## Step 4: Miscellaneous | Total Points: XX**
+## Step 4: Miscellaneous | Total Points: XX
 
-**[OMG FURRIES! (2)](https://retroachievements.org/achievement/6220)**
-**_Have Strago and Relm wear Tabby, Chocobo, Moogle, Nutkin, or Behemoth suits_**
+**![image](https://user-images.githubusercontent.com/120497130/223578558-83ac8615-ced8-4675-bae1-e689676b1c3b.png)
+[OMG FURRIES! (2)](https://retroachievements.org/achievement/6220)**  
+_Have Strago and Relm wear Tabby, Chocobo, Moogle, Nutkin, or Behemoth suits_
 
-**[Mascot Relm (3)](https://retroachievements.org/achievement/6221)**
-**_Have Relm dress up in a Moogle Suit_**
+**![image](https://user-images.githubusercontent.com/120497130/223578575-0290038d-33c5-4758-84b3-cba9dd2b6158.png)
+[Mascot Relm (3)](https://retroachievements.org/achievement/6221)**  
+_Have Relm dress up in a Moogle Suit_
+Found in Jidoor.  Steal from Misty, Blade Dancer
 
-**[Double Dragoon (5)](https://retroachievements.org/achievement/7285)**
-**_Equip DragoonBoots and Dragon Horns on Edgar and Mog at once_**
+**![image](https://user-images.githubusercontent.com/120497130/223578586-f88e226f-3b42-4cdf-a6e0-c4094165306d.png)
+[Double Dragoon (5)](https://retroachievements.org/achievement/7285)**  
+_Equip DragoonBoots and Dragon Horns on Edgar and Mog at once_
+WoR
+DragoonBoots - Purchased at Thamasa, Tzen.
+Dragon Horn - One found in Phoenix Cave, other obtained through colosseum.
 
-**[Gender Crisis (5)](https://retroachievements.org/achievement/6767)**
-**_Recruit Gogo_**
+**![image](https://user-images.githubusercontent.com/120497130/223578603-f28f8ae1-1ea0-448e-a5a2-a5d3e7ffabaa.png)
+[Gender Crisis (5)](https://retroachievements.org/achievement/6767)**  
+_Recruit Gogo_
 
-**[The Abominable Comrade (5)](https://retroachievements.org/achievement/6619)**
-**_Recruit Umaro_**
+**![image](https://user-images.githubusercontent.com/120497130/223578616-e4cda938-eca8-44ac-8d22-a7fa40e088ef.png)
+[The Abominable Comrade (5)](https://retroachievements.org/achievement/6619)**  
+_Recruit Umaro_
 
-**[You Are Not Alone (10)](https://retroachievements.org/achievement/6296)**
-**_Recruit every character_**
+**![image](https://user-images.githubusercontent.com/120497130/223578637-066238b5-4a5c-4266-98c5-129bd692249f.png)
+[You Are Not Alone (10)](https://retroachievements.org/achievement/6296)**  
+_Recruit every character_
 
-**[The Coin Toss (5)](https://retroachievements.org/achievement/5571)**
-**_Witness a hidden scene that reveals Edgar and Sabin's past_**
+**![image](https://user-images.githubusercontent.com/120497130/223578654-388c7960-4d8e-475c-8a44-61d07ce61459.png)
+[The Coin Toss (5)](https://retroachievements.org/achievement/5571)**  
+_Witness a hidden scene that reveals Edgar and Sabin's past_
 
-**[Forever Rachel (5)](https://retroachievements.org/achievement/5579)**
-**_Witness a hidden scene that reveals Locke's past_**
+**![image](https://user-images.githubusercontent.com/120497130/223578669-3e700e9e-d17e-41e2-a504-8ae0a213b2a7.png)
+[Forever Rachel (5)](https://retroachievements.org/achievement/5579)**  
+_Witness a hidden scene that reveals Locke's past_
 
-**[Repairing the Airship (10)](https://retroachievements.org/achievement/6155)**
-**_Witness a hidden scene that reveals Setzer's past_**
+**![image](https://user-images.githubusercontent.com/120497130/223578683-8bac8e97-ec84-4ca2-9a3b-9f569b2b057a.png)
+[Repairing the Airship (10)](https://retroachievements.org/achievement/6155)**  
+_Witness a hidden scene that reveals Setzer's past_
 
-**[What is a Man? (10)](https://retroachievements.org/achievement/7286)**
-**_Witness a hidden scene that involves Gau and his father_**
+**![image](https://user-images.githubusercontent.com/120497130/223578706-4fa30a9f-a9ec-44e2-8f62-1437086f0d88.png)
+[What is a Man? (10)](https://retroachievements.org/achievement/7286)**  
+_Witness a hidden scene that involves Gau and his father_
 
-**[Beyond the Shadows I (10)](https://retroachievements.org/achievement/5653)**
-**_Witness Shadow's first set of dreams_**
+**![image](https://user-images.githubusercontent.com/120497130/223578728-b2db75f0-feea-4062-91bd-854ebd6acbc7.png)
+[Beyond the Shadows I (10)](https://retroachievements.org/achievement/5653)**  
+_Witness Shadow's first set of dreams_
 
-**[Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)**
-**_Witness Relm's dream_**
+**![image](https://user-images.githubusercontent.com/120497130/223578745-aa61f3c8-32be-4485-8d90-e976b1facebd.png)
+[Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)**  
+_Witness Relm's dream_
 
-**[Tetra-Miracle (4)](https://retroachievements.org/achievement/6861)**
-**_Win a pair of Marvel Shoes at the colosseum_**
+**![image](https://user-images.githubusercontent.com/120497130/223578767-149cb9c3-0682-4e7d-9d42-935ca6a38c66.png)
+[Tetra-Miracle (4)](https://retroachievements.org/achievement/6861)**  
+_Win a pair of Marvel Shoes at the colosseum_
 
-**[Miao-Miao! (4)](https://retroachievements.org/achievement/7158)**
-**_Win a Cat Hood at the colosseum_**
+**![image](https://user-images.githubusercontent.com/120497130/223578786-643ddf22-d9be-41e0-a41c-3b5de399476d.png)
+[Miao-Miao! (4)](https://retroachievements.org/achievement/7158)**  
+_Win a Cat Hood at the colosseum_
 
-**[Illuminated! (4)](https://retroachievements.org/achievement/7299)**
-**_Win an Illumina at the colosseum_**
+**![image](https://user-images.githubusercontent.com/120497130/223578799-92bd54ae-52a5-4351-9925-083ae2311063.png)
+[Illuminated! (4)](https://retroachievements.org/achievement/7299)**  
+_Win an Illumina at the colosseum_
 
-**[The Master Swordsman (10)](https://retroachievements.org/achievement/7164)**
-**_Defeat the true Siegfried_**
+**![image](https://user-images.githubusercontent.com/120497130/223578809-a374a29f-c1dc-45a2-b8db-016963f1a3ce.png)
+[The Master Swordsman (10)](https://retroachievements.org/achievement/7164)**  
+_Defeat the true Siegfried_
 
-**[Blitz Expert (10)](https://retroachievements.org/achievement/6439)**
-**_Perform Bum Rush_**
+**![image](https://user-images.githubusercontent.com/120497130/223578817-2648bace-b403-4ea1-bd4e-5e0063eef9a0.png)
+[Blitz Expert (10)](https://retroachievements.org/achievement/6439)**  
+_Perform Bum Rush_
 
-**[Slam Dancin' (10)](https://retroachievements.org/achievement/6465)**
-**_Learn all Dances_**
+**![image](https://user-images.githubusercontent.com/120497130/223578825-fab89dab-50a4-4ca7-9bf8-19333e2f91cc.png)
+[Slam Dancin' (10)](https://retroachievements.org/achievement/6465)**  
+_Learn all Dances_
 
-**[Swordity Sword (10)](https://retroachievements.org/achievement/6890)**
-**_Learn all Swordtechs_**
+**![image](https://user-images.githubusercontent.com/120497130/223578837-7edf3f33-d623-4d0f-8282-0f6ed35694f8.png)
+[Swordity Sword (10)](https://retroachievements.org/achievement/6890)**  
+_Learn all Swordtechs_
 
-**[Complete Toolset (10)](https://retroachievements.org/achievement/6704)**
-**_Find the Air Anchor in the Fanatics' Tower_**
+**![image](https://user-images.githubusercontent.com/120497130/223578859-3cbb474f-1bc0-4277-bfc6-c0b3f1d9f065.png)
+[Complete Toolset (10)](https://retroachievements.org/achievement/6704)**  
+_Find the Air Anchor in the Fanatics' Tower_
 
-**[Elder Wisdom (10)](https://retroachievements.org/achievement/7157)**
-**_Learn all Lores_**
+**![image](https://user-images.githubusercontent.com/120497130/223578870-16f43910-64f7-492b-8f23-a10b5dcca9dc.png)
+[Elder Wisdom (10)](https://retroachievements.org/achievement/7157)**  
+_Learn all Lores_
 
-**[Why So Serious? (10)](https://retroachievements.org/achievement/6017)**
-**_Cast 7-7-7 Joker Doom_**
+**![image](https://user-images.githubusercontent.com/120497130/223578897-4f484b43-74dd-4036-a345-91d129ac6c4e.png)
+[Why So Serious? (10)](https://retroachievements.org/achievement/6017)**  
+_Cast 7-7-7 Joker Doom_
 
-**[Beastlore I (5)](https://retroachievements.org/achievement/6423)**
-**_Learn the Tier 1 Rages_**
+**![image](https://user-images.githubusercontent.com/120497130/223578916-72af4e95-370d-4fab-a85d-54c582560ed3.png)
+[Beastlore I (5)](https://retroachievements.org/achievement/6423)**  
+_Learn the Tier 1 Rages_
 
-**[Beastlore II (5)](https://retroachievements.org/achievement/6197)**
-**_Learn the Tier 2, 3, and 4 Rages_**
+**![image](https://user-images.githubusercontent.com/120497130/223578931-22fd0280-ac57-4da0-ae40-d4559f74530c.png)
+[Beastlore II (5)](https://retroachievements.org/achievement/6197)**  
+_Learn the Tier 2, 3, and 4 Rages_
 
-**[Beastlore III (10)](https://retroachievements.org/achievement/6094)**
-**_Learn the Tier 5 and 6 Rages_**
+**![image](https://user-images.githubusercontent.com/120497130/223578948-4670f6e6-4446-4ae8-b235-b4b7c45a8e6a.png)
+[Beastlore III (10)](https://retroachievements.org/achievement/6094)**  
+_Learn the Tier 5 and 6 Rages_
 
-**[Beastlord (25)](https://retroachievements.org/achievement/5432)**
-**_Learn the rarest, most elusive Rages_**
+**![image](https://user-images.githubusercontent.com/120497130/223578972-66619ecf-a270-4a75-9f75-9262a53f8e6e.png)
+[Beastlord (25)](https://retroachievements.org/achievement/5432)**  
+_Learn the rarest, most elusive Rages_
 
-**[Patience Pays I (3)](https://retroachievements.org/achievement/6257)**
-**_Earn Shadow's eternal respect_**
+**![image](https://user-images.githubusercontent.com/120497130/223578989-f2092a91-ce29-468b-9d57-4c2b91f9f451.png)
+[Patience Pays I (3)](https://retroachievements.org/achievement/6257)**  
+_Earn Shadow's eternal respect_
 
-**[Patience Pays II (5)](https://retroachievements.org/achievement/6400)**
-**_Find a Hero Ring in the South Figaro Cave_**
+**![image](https://user-images.githubusercontent.com/120497130/223579008-70b64d58-6c9c-4a4a-854e-948da95f8e4f.png)
+[Patience Pays II (5)](https://retroachievements.org/achievement/6400)**  
+_Find a Hero Ring in the South Figaro Cave_
 
-**[Patience Pays III (5)](https://retroachievements.org/achievement/7284)**
-**_Uncurse the Curse Shield_**
+**![image](https://user-images.githubusercontent.com/120497130/223579015-47bad205-f021-4acb-ba7f-52bf37f209bf.png)
+[Patience Pays III (5)](https://retroachievements.org/achievement/7284)**  
+_Uncurse the Curse Shield_
 
-**[Power Level I (5)](https://retroachievements.org/achievement/7295)**
-**_At least one character has reached level 40_**
+**![image](https://user-images.githubusercontent.com/120497130/223579029-4becc292-26f8-4d93-871a-5481df0afc26.png)
+[Power Level I (5)](https://retroachievements.org/achievement/7295)**  
+_At least one character has reached level 40_
 
-**[Power Level II (10)](https://retroachievements.org/achievement/7297)**
-**_At least one character has reached level 99_**
+**
+![image](https://user-images.githubusercontent.com/120497130/223579048-3735ce0f-aa84-4487-a552-9085b5d63591.png)
+[Power Level II (10)](https://retroachievements.org/achievement/7297)**  
+_At least one character has reached level 99_
 
-**[Half-Past Many (5)](https://retroachievements.org/achievement/118692)**
-**_Obtain half of the clock elixirs_**
+**![image](https://user-images.githubusercontent.com/120497130/223579082-3b74a1f3-6e17-4591-a15b-c93c6b793dba.png)
+[Half-Past Many (5)](https://retroachievements.org/achievement/118692)**  
+_Obtain half of the clock elixirs_
 
-**[Elixirs of Life (10)](https://retroachievements.org/achievement/118693)**  
+**![image](https://user-images.githubusercontent.com/120497130/223579097-f9a31991-4ef4-42b2-86a7-0310aff0d814.png)
+[Elixirs of Life (10)](https://retroachievements.org/achievement/118693)**  
 _Obtain all of the clock elixirs_
 
 * Narshe - Old Man's (Arvis) House
-* South Figaro - Hidden in a secret passage behind the large mansion in the top left corner of town.  
+* South Figaro - Hidden in a secret passage behind the large mansion in the top left corner of town.  Locke runs through this room during his scenario.
 ![image](https://user-images.githubusercontent.com/120497130/223548252-ec2a92b4-2b68-4a1f-b912-e9728a7084bf.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548049-0ff75542-6b2e-4c77-a055-d72dc437a467.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548446-f84a841a-7f44-4a64-86ab-ebc7e056e17d.png)
@@ -409,8 +468,8 @@ _Obtain all of the clock elixirs_
 * Doma Castle - West Sleeping Quarters
 
 
-**![image](https://user-images.githubusercontent.com/120497130/223482334-486361bb-322e-4567-971b-8a76d0753ec7.png) [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440)**
-**_Win all the exclusive items at the Auction House_**
+**![image](https://user-images.githubusercontent.com/120497130/223482334-486361bb-322e-4567-971b-8a76d0753ec7.png) [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440)**  
+_Win all the exclusive items at the Auction House_
 
 Several unique items can be purchased at the Auction House in Jidoor.  The following items need to be purchased to unlock this achievement:
 * Zoneseek Magicite
@@ -421,20 +480,26 @@ Several unique items can be purchased at the Auction House in Jidoor.  The follo
 The Zephyr Cape will NOT be auctioned if the player has both Zoneseek and Golem.  Only purchase one of these in the WoB and wait to purchase the other until you buy Zephyr Cape in the WoR.
 
 
-**[Dragon Slayer (10)](https://retroachievements.org/achievement/6534)**
-**_Defeat the eight legendary dragons_**
+**![image](https://user-images.githubusercontent.com/120497130/223579129-bbb3309e-4e13-478e-8528-6f97b934fb6e.png)
+[Dragon Slayer (10)](https://retroachievements.org/achievement/6534)**  
+_Defeat the eight legendary dragons_
 
-**[Life, Crystalized (25)](https://retroachievements.org/achievement/6618)**
-**_Collect all Magicite_**
+**![image](https://user-images.githubusercontent.com/120497130/223579143-6794560c-df5e-4447-a269-fe936695ae29.png)
+[Life, Crystalized (25)](https://retroachievements.org/achievement/6618)**  
+_Collect all Magicite_
 
-**[None Shall Pass (3)](https://retroachievements.org/achievement/6002)**
-**_Have at least one run-in with the Guardian before the final dungeon_**
+**![image](https://user-images.githubusercontent.com/120497130/223579153-741f103e-9df3-46a2-b372-94b4c68e4eda.png)
+[None Shall Pass (3)](https://retroachievements.org/achievement/6002)**  
+_Have at least one run-in with the Guardian before the final dungeon_
 
-**[N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**
-**_Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_**
+**![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
+[N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
+_Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
 
-**[Godhand (10)](https://retroachievements.org/achievement/6799)**
-**_Deal 9,999 base damage in a single attack (Final value may be reduced)_**
+**![image](https://user-images.githubusercontent.com/120497130/223579183-b94b3c8e-236f-465e-8335-a79057b95282.png)
+[Godhand (10)](https://retroachievements.org/achievement/6799)**  
+_Deal 9,999 base damage in a single attack (Final value may be reduced)_
 
-**[Gillionaire (10)](https://retroachievements.org/achievement/7200)**
-**_Earn 5,000,000 Gp_**
+**![image](https://user-images.githubusercontent.com/120497130/223579194-b7884c6c-6e28-4ba0-987c-25cf78efff15.png)
+[Gillionaire (10)](https://retroachievements.org/achievement/7200)**  
+_Earn 5,000,000 Gp_
