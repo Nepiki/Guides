@@ -27,6 +27,8 @@ Hi! I'm Wes. Thanks for your interest in the Crazy Kong set. Many years ago [I d
 
 Crazy Kong is a 1981 arcade game developed and published by Falcon. It's a clone and "official" bootleg of the classic arcade game [Donkey Kong](https://retroachievements.org/game/11943), with some slight modifications made to the gameplay to accommodate Crazy Kong's much weaker hardware.
 
+Nintendo distributed Donkey Kong to the United States and Japan. Falcon distributed Crazy Kong to the rest of the world. Legendary arcade gamer Ben Jos Walbeehm, the first player to beat Billy Mitchell, had grown so accustomed to Crazy Kong he once referred to Donkey Kong as being the bootleg title between the two.
+
 The objective is the same as the original Donkey Kong. You, Jumpman, must navigate four different platforming levels while avoiding obstacles and enemies to save the girl, Pauline.
 
 There are four different types of stages: barrel boards, conveyors (also known as pie factories), spring boards, and rivet boards.
