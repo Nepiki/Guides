@@ -319,3 +319,18 @@ Because only a maximum of 4 barrels can be present on the screen at any time, th
 <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Barrel%20Vaulting%20Pro.gif?raw=true" height="400">
 
 <br><br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325587.png">
+
+```
+Proper Rivet Form [10 Points]
+Execute the Star Pattern on any rivet board
+```
+
+Remember: the Star Pattern is the **ONLY** correct way to play the rivet board. By unlocking this achievement, you will have done the Star Pattern correctly.
+
+To recap, you want to take the bottom left rivet first, then the top two rivets in whatever order you prefer, then take the left hammer, then run across and smash whatever you can.
+
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Star%20Pattern%203.gif?raw=true" height="400">
+
+<br><br>
