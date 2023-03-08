@@ -100,7 +100,7 @@ This is very simple: clear your first barrel board. The only caveat to this barr
 
 One tip to keep in mind: the bottom hammer can oftentimes be a trap! The safest way to play barrel boards is to skip it and only grab the top hammer. You can use the top hammer like a shield. Take a look at this video:
 
-<<< TODO, insert video >>>
+<img src="https://user-images.githubusercontent.com/3984985/223606898-387c43d7-0fd6-4411-ab89-939e4952ee60.gif" height="400">
 
 <br>
 
