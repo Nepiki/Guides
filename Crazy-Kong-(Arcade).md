@@ -334,3 +334,36 @@ To recap, you want to take the bottom left rivet first, then the top two rivets 
 <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Star%20Pattern%203.gif?raw=true" height="400">
 
 <br><br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325567.png">
+
+```
+Heat Seeker I [10 Points]
+Leech the fireball on 1-1 for 100 points as it jumps out of the oil can
+```
+
+After a few tries, you'll start finding this is a very easy point-pressing trick to perform. When the fireball jumps out of the oil can, you can squeeze 100 points by also jumping to the right. Take a look:
+
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Heat%20Seeker%20I.gif?raw=true" height="400">
+
+<br><br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325568.png">
+
+```
+Heat Seeker II [10 Points]
+Score 1,000 points before climbing a single ladder
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325569.png">
+
+```
+Heat Seeker III [25 Points]
+Score 1,000 points before climbing a single ladder and before the bonus timer hits 4300
+```
+
+Now that you have the hang of leeching the fireball for 100 points, it's time to step it up a little bit. You can repeatedly leech the same fireball for 100 points, as well as get bonuses by leeching it and barrels simultaneously! This will take some practice, but hopefully the video below can offer some inspiration on how this can be done:
+
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Heat%20Seeker%20III%202.gif?raw=true" height="400">
+
+<br><br>
