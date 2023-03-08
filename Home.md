@@ -40,3 +40,6 @@ List of platforms with guides
 
 ### NEC
 * [PC Engine](PC-Engine)
+
+### Other
+* [Arcade](https://github.com/RetroAchievements/guides/wiki/Arcade)
