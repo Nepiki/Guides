@@ -247,7 +247,7 @@ Barrel Manipulator I [2 Points]
 By pointing the joystick towards barrels as they rolled over ladder tops, you forced ("steered") 10 of them down the ladders.
 ```
 
-It is very likely you will unlock this achievement completely by accident. The whole point of this achievement is to get you thinking about how you control the barrels on the screen. In case you need a refresher, [check the section on barrel control](#TODO) in this guide.
+It is very likely you will unlock this achievement completely by accident. The whole point of this achievement is to get you thinking about how you control the barrels on the screen. In case you need a refresher, [check the section on barrel control](#you-control-the-barrels) in this guide.
 
 <br>
 
