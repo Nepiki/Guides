@@ -51,13 +51,14 @@ How exactly does barrel control work? **Barrels respond to your current joystick
 
 Knowing this, you can manipulate all the barrels on the screen to do your bidding. Take a look at the video below:
 
-<<< TODO, insert a video here >>>
+<<< TODO, insert video >>>
 
 ### Barrels Can Be Dodged With 100% Precision
 
 This is an exploit that exists in Crazy Kong, but not Donkey Kong. It is called the "ladder trick". Take a look at the video below:
 
-<<< TODO, insert a video here >>>
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Ladder%20Trick.gif?raw=true" height="400">
+<br><br>
 
 That's right, when barrels are rolling over you and you're near the top of a ladder, they will never roll down the ladder and kill you. This was in the earliest versions of Donkey Kong (which Crazy Kong's code is based on), but was later patched by the game's developers because they found it made Donkey Kong too easy! Fortunately, the exploit still exists in Crazy Kong.
 
@@ -69,7 +70,8 @@ With the Star Pattern, you clear most of the left-hand rivets, grab the left ham
 
 **Read that carefully a few times and be sure you understand it.** Here's a video demonstration:
 
-<<< TODO, show a video here >>>
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Star%20Pattern%203.gif?raw=true" height="400">
+<br><br>
 
 On the rivet stage, when you smash fireballs with the hammer, **they will respawn on the opposite side of the screen that you're standing on.** In other words, you can force them to respawn on the left-hand side of the screen (where they can no longer hurt you). Nice!
 
@@ -102,7 +104,7 @@ One tip to keep in mind: the bottom hammer can oftentimes be a trap! The safest 
 
 <img src="https://user-images.githubusercontent.com/3984985/223606898-387c43d7-0fd6-4411-ab89-939e4952ee60.gif" height="400">
 
-<br>
+<br><br>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325545.png">
 
