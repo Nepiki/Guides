@@ -63,7 +63,7 @@ Whelk is the first boss of the game.  The shell has 50000 HP, whereas the boss h
 **![image](https://user-images.githubusercontent.com/120497130/223439906-da19d81a-1404-4d02-b15e-8e8c8ef17f4f.png) [Elixir-in-a-Clock (1)](https://retroachievements.org/achievement/4962)**  
 _The first of many_
 
-**Elixir-in-a-clock 1 out of 8**  
+✅**Elixir-in-a-clock 1 out of 8**  
 After Terra wakes up, check the clock in the Old Man's house before leaving out the back door.  This is the first of 8 hidden elixirs that you will need for [Half-Past Many (5)](https://retroachievements.org/achievement/118692) and [Elixirs of Life (10)](https://retroachievements.org/achievement/118693)
 
 **![image](https://user-images.githubusercontent.com/120497130/223444994-1a4fdf60-c540-4cf3-86b5-40179e5aad80.png) [Semantic Nonsense (5)](https://retroachievements.org/achievement/4967)**  
@@ -95,7 +95,7 @@ _Equip Sprint Shoes on any character_
 
 These are available at many Relic stores.  The earliest can be obtained in South Figaro.
 
-**Elixir-in-a-clock 2 out of 8**  
+✅**Elixir-in-a-clock 2 out of 8**  
 An elixir is hidden in a secret passage behind the large mansion in the top left corner of town.  Locke will run through this room later during his scenario.  
 ![image](https://user-images.githubusercontent.com/120497130/223548252-ec2a92b4-2b68-4a1f-b912-e9728a7084bf.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548049-0ff75542-6b2e-4c77-a055-d72dc437a467.png)
@@ -151,22 +151,48 @@ _Make Banon ride a chocobo_
 
 Before entering Narshe, take the party south and slightly west of where Figaro Castle was.  Enter the forest and look for a Chocobo hut.  Change Banon to the party leader and hire a chocobo.  Enjoy the bizarre show.
 
+🚩 **Do not open the chest containing Rune Edge in the Narshe Caves.** 🚩  
+This chest needs to be opened in the WoR to earn [Kuku's Treasures (5)](https://retroachievements.org/achievement/5818).
+
 ### Sabin's Scenario
+
+🚩 **Kick the chest in the north east tent of the Imperial Base.** 🚩  
+Kicking the chest will initiate a fight with a Doberman.  This fight is the only opportunity to get this enemy to appear on the Veldt.
 
 **![image](https://user-images.githubusercontent.com/120497130/223469525-3584d361-3632-471b-b0eb-330e90336b56.png) [May I have this dance? (1)](https://retroachievements.org/achievement/5136)**  
 _Get in the way of Cyan's fury_
 
+When Cyan is fighting the two soldiers in the Imperial Camp, get between them and speak with Cyan.  You will be pushed out of the way and unlock this achievement.
+
 **![image](https://user-images.githubusercontent.com/120497130/223469723-2beb70e0-4ee9-4b6b-bdea-edef4ab1795b.png) [Spooky... (5)](https://retroachievements.org/achievement/5137)**  
 _Have two Ghosts in your party at once_
+
+Unlocking this achievement requires two party slots for ghosts, which means that Shadow must leave the party if you recruited him.  After the Imperial Base, he has a 1/16 chance to leave after winning a battle.  Once you board the train, he will no longer leave until after the train sequence.  Simply fight enemies until he leaves.  Once you board the train, talk to a ghost to recruit them to your party, leave the room, and come back again to recruit another.
 
 **![image](https://user-images.githubusercontent.com/120497130/223470063-67b19719-05bb-445f-a543-890b449481d3.png) [Choo-plex (5)](https://retroachievements.org/achievement/5282)**  
 _Perform a Suplex on the GhostTrain_
 
+During the boss battle against the GhostTrain, use Sabin's Suplex Blitz by entering `X > Y > Down > Up`
+
+
+
 **![image](https://user-images.githubusercontent.com/120497130/223470245-93ca68ce-345d-4e5b-923a-e04aac3285a9.png)[A Lesson in Modesty (5)](https://retroachievements.org/achievement/118357)**  
 _Have someone introduce Cyan to Humpty and Dumpty_
 
+✅**Elixir-in-a-clock 3 out of 8**  
+An elixir is hidden the Post Office clock at the top of the town. You will enter here repeatedly while earning the next achievement.  
+![image](https://user-images.githubusercontent.com/120497130/223876313-47665b82-dc83-442d-b99e-bf8043f54237.png)
+
+
 **![image](https://user-images.githubusercontent.com/120497130/223470732-bf0ba85d-ea91-4368-82d6-2e91ed56dfda.png) [Courier (5)](https://retroachievements.org/achievement/241305)**  
 _Deliver all the letters and items on behalf of the wounded soldier in Mobliz and receive the Tintinabulum._
+
+1. Take the letter in the northwest house to read it to the soldier.  
+1. Enter the Post Office next door and pay 500 gp to send a letter on his behalf.  
+1. Speak to the relic merchant north of the two buildings to trigger the next phase of the event.  
+1. Grab the next letter in the soldier's house.  
+1. Repeat these steps until no more letters show up.
+1. Speak to the soldier to unlock the achievement.
 
 **![image](https://user-images.githubusercontent.com/120497130/223471095-7b6fc537-645c-4e56-929c-707a5b2f2fa9.png) [Covert Strike Team (10)](https://retroachievements.org/achievement/5564)**  
 _Engage in only one battle during Kefka's raid on Narshe_
@@ -185,6 +211,10 @@ _Rats in the rafters - kill as many as you can!_
 
 **![image](https://user-images.githubusercontent.com/120497130/223471998-028387da-ae60-4daf-9320-d0223c402385.png) [Encore! (5)](https://retroachievements.org/achievement/5935)**  
 _Flawless performance on opening night at the Opera House_
+
+**![image](https://user-images.githubusercontent.com/120497130/223579153-741f103e-9df3-46a2-b372-94b4c68e4eda.png)
+[None Shall Pass (3)](https://retroachievements.org/achievement/6002)**  
+_Have at least one run-in with the Guardian before the final dungeon_
 
 **![image](https://user-images.githubusercontent.com/120497130/223472137-d577748b-d9d7-4a5e-afbb-0c439b82b3fb.png) [Pacifism in the Pit (5)](https://retroachievements.org/achievement/6015)**  
 _Find a way to escape the battle with Ifrit and Shiva_
@@ -215,6 +245,10 @@ _A happy ending_
 
 **![image](https://user-images.githubusercontent.com/120497130/223473160-15ca1dd8-eb77-4008-a515-a66037b10102.png) [The Decisive Battle (10)](https://retroachievements.org/achievement/6255)**  
 _Steal a Ribbon from and defeat AtmaWeapon, no instant death moves_
+
+**![image](https://user-images.githubusercontent.com/120497130/223578989-f2092a91-ce29-468b-9d57-4c2b91f9f451.png)
+[Patience Pays I (3)](https://retroachievements.org/achievement/6257)**  
+_Earn Shadow's eternal respect_
 
 **![image](https://user-images.githubusercontent.com/120497130/223473235-169a6468-d0e5-4cf8-b1a7-bb572e11f9b6.png) [This is the End (5)](https://retroachievements.org/achievement/6258)**  
 _Reach the second world_
@@ -435,10 +469,6 @@ _Learn the Tier 5 and 6 Rages_
 [Beastlord (25)](https://retroachievements.org/achievement/5432)**  
 _Learn the rarest, most elusive Rages_
 
-**![image](https://user-images.githubusercontent.com/120497130/223578989-f2092a91-ce29-468b-9d57-4c2b91f9f451.png)
-[Patience Pays I (3)](https://retroachievements.org/achievement/6257)**  
-_Earn Shadow's eternal respect_
-
 **![image](https://user-images.githubusercontent.com/120497130/223579008-70b64d58-6c9c-4a4a-854e-948da95f8e4f.png)
 [Patience Pays II (5)](https://retroachievements.org/achievement/6400)**  
 _Find a Hero Ring in the South Figaro Cave_
@@ -464,7 +494,7 @@ _Obtain half of the clock elixirs_
 _Obtain all of the clock elixirs_
 
 * Narshe - Old Man's (Arvis) House
-* South Figaro - Hidden in a secret passage behind the large mansion in the top left corner of town.  Locke runs through this room during his scenario.
+* South Figaro - Hidden in a secret passage behind the large mansion in the top left corner of town.  Locke runs through this room during his scenario.  
 ![image](https://user-images.githubusercontent.com/120497130/223548252-ec2a92b4-2b68-4a1f-b912-e9728a7084bf.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548049-0ff75542-6b2e-4c77-a055-d72dc437a467.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548446-f84a841a-7f44-4a64-86ab-ebc7e056e17d.png)
@@ -496,10 +526,6 @@ _Defeat the eight legendary dragons_
 **![image](https://user-images.githubusercontent.com/120497130/223579143-6794560c-df5e-4447-a269-fe936695ae29.png)
 [Life, Crystalized (25)](https://retroachievements.org/achievement/6618)**  
 _Collect all Magicite_
-
-**![image](https://user-images.githubusercontent.com/120497130/223579153-741f103e-9df3-46a2-b372-94b4c68e4eda.png)
-[None Shall Pass (3)](https://retroachievements.org/achievement/6002)**  
-_Have at least one run-in with the Guardian before the final dungeon_
 
 **![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
 [N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
