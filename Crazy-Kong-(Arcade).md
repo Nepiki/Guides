@@ -119,7 +119,9 @@ For any new player, getting this achievement is a great accomplishment. You will
 
 By reaching this achievement, you will also have earned your bonus man at 7000 points. You only have four lives to finish a game of Crazy Kong! In other words, each life should last you 6 levels (around 21 boards).
 
-<< TODO, insert videos >>
+| Conveyor | Spring | Rivet |
+|---|---|---|
+| <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Basic%20Conveyor.gif?raw=true" height="300"> | <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Basic%20Spring.gif?raw=true" height="300"> | <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Basic%20Rivet.gif?raw=true" height="300"> |
 
 <br>
 
