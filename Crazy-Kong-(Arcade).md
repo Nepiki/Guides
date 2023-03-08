@@ -35,7 +35,7 @@ There are four different types of stages: barrel boards, conveyors (also known a
 
 The game starts at L=01 **and ends at L=22.** Each level consists of four stages: barrel, conveyor, spring, and rivet, in that order. Stage 22-1 is the 85th stage of the game.
 
-Due to hardware limitations, only four barrels can be on-screen at any time. On the barrel stage, there can only be a single fireball active at once. On the conveyor stage, only two fireballs can ever be active at once. This is a stark contrast to Donkey Kong, which many more obstacles and enemies your way.
+Due to hardware limitations, only four barrels can be on-screen at any time. On the barrel stage, there can only be a single fireball active at once. On the conveyor stage, only two fireballs can ever be active at once. This is a stark contrast to Donkey Kong, which hurls many more obstacles and enemies your way.
 
 These limitations mean **Crazy Kong is significantly easier than Donkey Kong.** I am convinced that with enough practice, anyone can reach L=22 and finish the game.
 
