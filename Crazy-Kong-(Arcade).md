@@ -142,7 +142,59 @@ After you're used to getting a start, you should earn these naturally with a lit
 
 ### Technique Achievements
 
-TODO
+| <img src="https://media.retroachievements.org/Badge/325553.png"> | Oil Can Antics | Jump to the top of the oil can on any barrel board | 5 Points |
+|---|---|---|---|
+
+This is actually a bug in Crazy Kong. Doing this in Donkey Kong results in Jumpman's death. This trick isn't particularly valuable, but was added to the set to highlight there are subtle differences between the two games, and Falcon's reverse engineering wasn't 100% perfect.
+
+<<< TODO, add video >>>
+
+<br><br>
+
+| <img src="https://media.retroachievements.org/Badge/325554.png"> | Barrel Bounce | Leech the first falling barrel on 1-1 for 100 points | 5 Points |
+|---|---|---|---|
+
+When Kong drops the first barrel on 1-1 straight down, you can straight jump next to it as it falls for a free 100 points. This is **much** easier if at the apex of your jump, you hold the joystick either left or right. Holding the joystick in a direction increases the "window" which the game detects if you are jumping over an object. In other words, it makes it easier to score points off something next to you on the screen.
+
+This is a basic point pressing technique that is very common in high-level games. "Point pressing" is a term used for squeezing out points from the game, oftentimes in unintended ways. In high-level play, it is essential to point press, given that there is an ending to the game. Every point counts!
+
+<<< TODO, insert video >>>
+
+<br><br>
+
+| <img src="https://media.retroachievements.org/Badge/325555.png"> | Hammered Out I | Successfully finish a barrel board after using both hammers | 5 Points |
+|---|---|---|---|
+| <img src="https://media.retroachievements.org/Badge/325556.png"> | Hammered Out II | Successfully finish a conveyor board after using both hammers | 5 Points |
+
+These should both be fairly straightforward. As a reminder, the conveyor board is the 2nd stage of each level, ie: 1-2, 2-2, 3-2, etc. The important thing about these achievements is you can't suicide while grabbing the hammers. You must actually clear the stage before the achievements are awarded. This forces you to be thoughtful while wielding the hammers themselves.
+
+<br><br>
+
+| <img src="https://media.retroachievements.org/Badge/325557.png"> | Barrel Manipulator I | By pointing the joystick towards barrels as they rolled over ladder tops, you forced ("steered") 10 of them down the ladders. | 2 Points |
+|---|---|---|---|
+
+It is very likely you will unlock this achievement completely by accident. The whole point of this achievement is to get you thinking about how you control the barrels on the screen. In case you need a refresher, [check the section on barrel control](#TODO) in this guide.
+
+<br><br>
+
+| <img src="https://media.retroachievements.org/Badge/325558.png"> | Barrel Manipulator II | Use the ladder trick to dodge 2 barrels in a row (Note: the ladder trick is when you climb a ladder and wait at the top, which forces barrels to roll by) | 3 Points |
+|---|---|---|---|
+
+Also very simple, just use the ladder trick and let two barrels roll by before getting off the ladder. In case you need a refresher on the ladder trick, [check this part of the guide](#TODO).
+
+<br><br>
+
+| <img src="https://media.retroachievements.org/Badge/325559.png"> | Barrel Manipulator III | Use the ladder trick to dodge 8 barrels in a row | 5 Points |
+|---|---|---|---|
+
+Still simple, you just need to be sure a fireball doesn't climb up and kill you. Camp near the top of a ladder on any barrel board and after several seconds this should unlock. If you don't remember what the ladder trick is, [check here for a refresher](#TODO).
+
+<br><br>
+
+| <img src="https://media.retroachievements.org/Badge/325561.png"> | Barrel Manipulator IV | Steer barrels down ladders 45 times on any barrel screen | 10 Points |
+|---|---|---|---|
+
+Time to prove your barrel control skills! Pro tip: don't attempt this unless you are on L=04 or higher. It's best to do this when your barrel control is at maximum, which only happens as the game approaches max difficulty. If you need a refresher on barrel control, [click here](#TODO).
 
 ### Challenge Achievements
 
