@@ -25,6 +25,12 @@ Often listed as one of the greatest RPGs of all time, Final Fantasy 6 is the sto
 
 ## Before you Begin
 
+There are several achievements that require specific actions, such as not opening a chest or purchasing an item, but the achievement does not unlock until additional actions are taken much later in the game.  These are noted with 🚩 in the guide, but here is a summary:
+* 🚩 Do not open any chests in South Figaro Cave in the World of Balance. 🚩
+* 🚩 During Terra's Scenario, do not open the chest containing Rune Edge in the Narshe Caves. 🚩
+* 🚩 Purchase both Magicite in the Jidoor Auction House until you win the Zephyr Cloak in the WoR 🚩
+
+
 **![image](https://user-images.githubusercontent.com/120497130/223577198-0b85b25c-3bdf-41c2-bdda-96257f7feaa2.png)
 [LLG (50)](https://retroachievements.org/achievement/7296)**  
 _Clear the game with no character exceeding level 30_
@@ -499,7 +505,8 @@ _Obtain all of the clock elixirs_
 ![image](https://user-images.githubusercontent.com/120497130/223548049-0ff75542-6b2e-4c77-a055-d72dc437a467.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548446-f84a841a-7f44-4a64-86ab-ebc7e056e17d.png)
 ![image](https://user-images.githubusercontent.com/120497130/223547771-26346b78-df00-40f8-9c0f-3d615ed49ff1.png)
-* Mobliz - Post Office
+* Mobliz - Post Office  
+![image](https://user-images.githubusercontent.com/120497130/223878076-a4e33e8c-981e-4688-95cc-005b9e3083d1.png)
 * Nikeah - Inn
 * Narshe - Elder's House
 * Kohlingen - Rachel's House
