@@ -89,8 +89,12 @@ These are the rules you need to memorize:
 
 ### Progression Achievements
 
-| <img src="https://media.retroachievements.org/Badge/325543.png"> | How High Can You Try | Clear 1-1 | 5 Points |
-|---|---|---|---|
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325543.png">
+
+```
+How High Can You Try [5 Points]
+Clear 1-1
+```
 
 This is very simple: clear your first barrel board. The only caveat to this barrel board is you have extremely limited barrel control.
 
@@ -98,10 +102,14 @@ One tip to keep in mind: the bottom hammer can oftentimes be a trap! The safest 
 
 <<< TODO, insert video >>>
 
-<br><br>
+<br>
 
-| <img src="https://media.retroachievements.org/Badge/325545.png"> | Only 20 More Loops Left | Clear 1-4 | 5 Points |
-|---|---|---|---|
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325545.png">
+
+```
+Only 20 More Loops Left [5 Points]
+Clear 1-4
+```
 
 For any new player, getting this achievement is a great accomplishment. You will have successfully cleared all four board types! Here are videos for how to clear 1-2, 1-3, and 1-4. Take special note of the Star Pattern being used to clear 1-4. Remember, **it is the only correct way to play the board.**
 
@@ -109,13 +117,35 @@ By reaching this achievement, you will also have earned your bonus man at 7000 p
 
 << TODO, insert videos >>
 
-<br><br>
+<br>
 
-| <img src="https://media.retroachievements.org/Badge/325546.png"> | Novice of the Arcade | Clear 2-4 | 5 Points |
-|---|---|---|---|
-| <img src="https://media.retroachievements.org/Badge/325547.png"> | Student of the Arcade | Clear 3-4 | 10 Points |
-| <img src="https://media.retroachievements.org/Badge/325548.png"> | Enthusiast of the Arcade | Clear 4-4 | 10 Points |
-| <img src="https://media.retroachievements.org/Badge/325549.png"> | Veteran of the Arcade | Clear 5-4 | 10 Points |
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325546.png">
+
+```
+Novice of the Arcade [5 Points]
+Clear 2-4
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325547.png">
+
+```
+Student of the Arcade [10 Points]
+Clear 3-4
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325548.png">
+
+```
+Enthusiast of the Arcade [10 Points]
+Clear 4-4
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325549.png">
+
+```
+Adept of the Arcade [10 Points]
+Clear 5-4
+```
 
 These achievements should all play out fairly similarly. Some things to note as you progress through this:
 
@@ -125,34 +155,56 @@ These achievements should all play out fairly similarly. Some things to note as 
 
 If you are serious about your learning, I recommend immediately moving on to working on the next achievement...
 
-<br><br>
+<br>
 
-| <img src="https://media.retroachievements.org/Badge/325550.png"> | Veteran of the Arcade | Clear 4-4 on your very first life | 25 Points |
-|---|---|---|---|
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325550.png">
+
+```
+Veteran of the Arcade [25 Points]
+Clear 4-4 on your very first life
+```
 
 Donkey Kong circles refer to this as "getting a start". On your first life, you've reached maximum difficulty. Because you have the most barrel control at maximum difficulty, generally L=05+ is considered easier (less random) than levels 1 through 4. It is common practice for Donkey Kong players to reset their game if they do not reach 5-1 on their first life.
 
-<br><br>
+<br>
 
-| <img src="https://media.retroachievements.org/Badge/325551.png"> | Prodigy of the Arcade | Score 200,000 points | 25 Points |
-|---|---|---|---|
-| <img src="https://media.retroachievements.org/Badge/325552.png"> | Master of the Arcade | Score 400,000 points | 25 Points |
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325551.png">
+
+```
+Prodigy of the Arcade [25 Points]
+Score 200,000 points
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325552.png">
+
+```
+Master of the Arcade [25 Points]
+Score 400,000 points
+```
 
 After you're used to getting a start, you should earn these naturally with a little bit of practice. As a measuring stick, you'll likely score 400,000 points somewhere around L=17.
 
 ### Technique Achievements
 
-| <img src="https://media.retroachievements.org/Badge/325553.png"> | Oil Can Antics | Jump to the top of the oil can on any barrel board | 5 Points |
-|---|---|---|---|
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325553.png">
+
+```
+Oil Can Antics [5 Points]
+Jump to the top of the oil can on any barrel board
+```
 
 This is actually a bug in Crazy Kong. Doing this in Donkey Kong results in Jumpman's death. This trick isn't particularly valuable, but was added to the set to highlight there are subtle differences between the two games, and Falcon's reverse engineering wasn't 100% perfect.
 
 <<< TODO, add video >>>
 
-<br><br>
+<br>
 
-| <img src="https://media.retroachievements.org/Badge/325554.png"> | Barrel Bounce | Leech the first falling barrel on 1-1 for 100 points | 5 Points |
-|---|---|---|---|
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325554.png">
+
+```
+Barrel Bounce [5 Points]
+Leech the first falling barrel on 1-1 for 100 points
+```
 
 When Kong drops the first barrel on 1-1 straight down, you can straight jump next to it as it falls for a free 100 points. This is **much** easier if at the apex of your jump, you hold the joystick either left or right. Holding the joystick in a direction increases the "window" which the game detects if you are jumping over an object. In other words, it makes it easier to score points off something next to you on the screen.
 
@@ -160,39 +212,65 @@ This is a basic point pressing technique that is very common in high-level games
 
 <<< TODO, insert video >>>
 
-<br><br>
+<br>
 
-| <img src="https://media.retroachievements.org/Badge/325555.png"> | Hammered Out I | Successfully finish a barrel board after using both hammers | 5 Points |
-|---|---|---|---|
-| <img src="https://media.retroachievements.org/Badge/325556.png"> | Hammered Out II | Successfully finish a conveyor board after using both hammers | 5 Points |
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325555.png">
+
+```
+Hammered Out I [5 Points]
+Successfully finish a barrel board after using both hammers
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325556.png">
+
+```
+Hammered Out II [5 Points]
+Successfully finish a conveyor board after using both hammers
+```
 
 These should both be fairly straightforward. As a reminder, the conveyor board is the 2nd stage of each level, ie: 1-2, 2-2, 3-2, etc. The important thing about these achievements is you can't suicide while grabbing the hammers. You must actually clear the stage before the achievements are awarded. This forces you to be thoughtful while wielding the hammers themselves.
 
-<br><br>
+<br>
 
-| <img src="https://media.retroachievements.org/Badge/325557.png"> | Barrel Manipulator I | By pointing the joystick towards barrels as they rolled over ladder tops, you forced ("steered") 10 of them down the ladders. | 2 Points |
-|---|---|---|---|
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325557.png">
+
+```
+Barrel Manipulator I [2 Points]
+By pointing the joystick towards barrels as they rolled over ladder tops, you forced ("steered") 10 of them down the ladders.
+```
 
 It is very likely you will unlock this achievement completely by accident. The whole point of this achievement is to get you thinking about how you control the barrels on the screen. In case you need a refresher, [check the section on barrel control](#TODO) in this guide.
 
-<br><br>
+<br>
 
-| <img src="https://media.retroachievements.org/Badge/325558.png"> | Barrel Manipulator II | Use the ladder trick to dodge 2 barrels in a row (Note: the ladder trick is when you climb a ladder and wait at the top, which forces barrels to roll by) | 3 Points |
-|---|---|---|---|
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325558.png">
+
+```
+Barrel Manipulator II [3 Points]
+Use the ladder trick to dodge 2 barrels in a row (Note: the ladder trick is when you climb a ladder and wait at the top, which forces barrels to roll by)
+```
 
 Also very simple, just use the ladder trick and let two barrels roll by before getting off the ladder. In case you need a refresher on the ladder trick, [check this part of the guide](#TODO).
 
-<br><br>
+<br>
 
-| <img src="https://media.retroachievements.org/Badge/325559.png"> | Barrel Manipulator III | Use the ladder trick to dodge 8 barrels in a row | 5 Points |
-|---|---|---|---|
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325559.png">
+
+```
+Barrel Manipulator III [5 Points]
+Use the ladder trick to dodge 8 barrels in a row
+```
 
 Still simple, you just need to be sure a fireball doesn't climb up and kill you. Camp near the top of a ladder on any barrel board and after several seconds this should unlock. If you don't remember what the ladder trick is, [check here for a refresher](#TODO).
 
-<br><br>
+<br>
 
-| <img src="https://media.retroachievements.org/Badge/325561.png"> | Barrel Manipulator IV | Steer barrels down ladders 45 times on any barrel screen | 10 Points |
-|---|---|---|---|
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325561.png">
+
+```
+Barrel Manipulator IV [10 Points]
+Steer barrels down ladders 45 times on any barrel screen
+```
 
 Time to prove your barrel control skills! Pro tip: don't attempt this unless you are on L=04 or higher. It's best to do this when your barrel control is at maximum, which only happens as the game approaches max difficulty. If you need a refresher on barrel control, [click here](#TODO).
 
