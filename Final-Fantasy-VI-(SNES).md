@@ -10,12 +10,12 @@
 
 |   |   |
 |:--|:--|
-|Set Difficulty|X|
-|Approximate time to master|X hours|
-|Minimum numbers of playthroughs needed|X|
+|Set Difficulty|5/10, but requires time and patience|
+|Approximate time to master|25 hours for main game. Doubled to grind all Rages|
+|Minimum numbers of playthroughs needed|1.25|
 |Number of missable achievements|X|
 |Does difficulty affect achievements?|No|
-|Hardest achievement of the set|[LLG](https://retroachievements.org/achievement/7296) (50)|
+|Hardest achievement of the set|[Beastlord (25)](https://retroachievements.org/achievement/5432) & other Gau Rage achievements due to time requirements|
 
 # 2) Introduction
 
@@ -23,15 +23,25 @@ Often listed as one of the greatest RPGs of all time, Final Fantasy 6 is the sto
 
 # 3) Walkthrough
 
-## Step 1: Full Playthrough Achievements | Total Points: XX
+## Before you Begin
 
-`Warning about LLG playthrough here`
+**![image](https://user-images.githubusercontent.com/120497130/223577198-0b85b25c-3bdf-41c2-bdda-96257f7feaa2.png)
+[LLG (50)](https://retroachievements.org/achievement/7296)**  
+_Clear the game with no character exceeding level 30_
 
-`Warning about Veldt here`
+While doing a single playthrough is possible for this set, many people will prefer to do this achievement on a 2nd playthrough.  That said, most LLG guides for Final Fantasy 6 aim for level 10 or lower, so this is quite lenient compared to what is possible.  Here are some tips that can help:
+* Run away from as many battles as you can and aim to leave the WoB with no character level 25 or higher.  
+* Put all characters in the back row to reduce damage while running away.  
+* The evade stat is bugged and uses the magic evade value instead. For example, Priest's Miter gives +10% to both Magic and Physical Evasion instead of only Magic.  
+* Obtain the Genji Glove by rejecting Banon's offer 3 times.  Buy two Morning Stars and equip them on Locke for big damage. 
+
+**![image](https://user-images.githubusercontent.com/120497130/223578972-66619ecf-a270-4a75-9f75-9262a53f8e6e.png)
+[Beastlord (25)](https://retroachievements.org/achievement/5432) & Others**  
+Mastery requires learning all of Gau's Rage abilities from the Veldt.  In order for monsters to appear on the Veldt, they must first be encountered in the world.  Each section will begin with a list of the monsters you can encounter.  Ensure that you run into at least 1 formation so that you can collect their rage on the Veldt later in the game.  For Low Level playthroughs, you can simply run away from the battle and it will still count.
 
 ***
 
-## Step 2: World of Balance | Total Points: XX
+## Step 1: World of Balance | Total Points: XX
 
 ### Narshe
 
@@ -209,7 +219,7 @@ _Steal a Ribbon from and defeat AtmaWeapon, no instant death moves_
 **![image](https://user-images.githubusercontent.com/120497130/223473235-169a6468-d0e5-4cf8-b1a7-bb572e11f9b6.png) [This is the End (5)](https://retroachievements.org/achievement/6258)**  
 _Reach the second world_
 
-## Step 3: World of Ruin | Total Points: XX
+## Step 2: World of Ruin | Total Points: XX
 
 **![image](https://user-images.githubusercontent.com/120497130/223474516-39fad5dc-3145-4b33-a164-b143fabf2fcc.png) [The Cold Embrace of Death (5)](https://retroachievements.org/achievement/6279)**  
 _A dramatic moment_
