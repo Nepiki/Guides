@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://retroachievements.org/game/15758">Crazy Kong (Arcade)</a></h1>
 
 <p align="center">
-  <span>5/10 Difficulty</span>  •
+  <span>6/10 Difficulty</span>  •
   <span>Multiple Playthroughs</span>  •
   <span>20-30 Hours</span>
 </p>
@@ -284,5 +284,38 @@ Time to prove your barrel control skills! Pro tip: don't attempt this unless you
 
 ### Challenge Achievements
 
-TODO
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325562.png">
 
+```
+Conveyor Collector [5 Points]
+Collect all three of Pauline's items on any conveyor board and finish the stage
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325563.png">
+
+```
+Spring Scavenger [5 Points]
+Collect all three of Pauline's items on any spring board and finish the stage
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325564.png">
+
+```
+Rivet Retriever [5 Points]
+Collect all three of Pauline's items on any rivet board and finish the stage
+```
+
+All three of these should be quite simple, especially if you attempt them on L=01 when the fireball speed is the lowest. Remember, it is not enough to suicide while getting the items, you must complete the stage after the items have been retrieved.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325565.png">
+
+```
+Barrel Vaulting Pro [10 Points]
+Make corrupted graphics appear by leaping over three obstacles in a single jump
+```
+
+Because only a maximum of 4 barrels can be present on the screen at any time, this can get tricky. Consider this your final test of barrel control. You will likely need to be quite comfortable with steering and manipulating barrels to be able to unlock this achievement. It is best attempted when you have maximum control, around L=05+.
+
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Barrel%20Vaulting%20Pro.gif?raw=true" height="400">
+
+<br><br>
