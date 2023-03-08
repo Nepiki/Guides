@@ -258,7 +258,7 @@ Barrel Manipulator II [3 Points]
 Use the ladder trick to dodge 2 barrels in a row (Note: the ladder trick is when you climb a ladder and wait at the top, which forces barrels to roll by)
 ```
 
-Also very simple, just use the ladder trick and let two barrels roll by before getting off the ladder. In case you need a refresher on the ladder trick, [check this part of the guide](#TODO).
+Also very simple, just use the ladder trick and let two barrels roll by before getting off the ladder. In case you need a refresher on the ladder trick, [check this part of the guide](#barrels-can-be-dodged-with-100-precision).
 
 <br>
 
@@ -269,7 +269,7 @@ Barrel Manipulator III [5 Points]
 Use the ladder trick to dodge 8 barrels in a row
 ```
 
-Still simple, you just need to be sure a fireball doesn't climb up and kill you. Camp near the top of a ladder on any barrel board and after several seconds this should unlock. If you don't remember what the ladder trick is, [check here for a refresher](#TODO).
+Still simple, you just need to be sure a fireball doesn't climb up and kill you. Camp near the top of a ladder on any barrel board and after several seconds this should unlock. If you don't remember what the ladder trick is, [check here for a refresher](#barrels-can-be-dodged-with-100-precision).
 
 <br>
 
@@ -280,7 +280,7 @@ Barrel Manipulator IV [10 Points]
 Steer barrels down ladders 45 times on any barrel screen
 ```
 
-Time to prove your barrel control skills! Pro tip: don't attempt this unless you are on L=04 or higher. It's best to do this when your barrel control is at maximum, which only happens as the game approaches max difficulty. If you need a refresher on barrel control, [click here](#TODO).
+Time to prove your barrel control skills! Pro tip: don't attempt this unless you are on L=04 or higher. It's best to do this when your barrel control is at maximum, which only happens as the game approaches max difficulty. If you need a refresher on barrel control, [click here](#you-control-the-barrels).
 
 ### Challenge Achievements
 
@@ -542,7 +542,7 @@ The Hammerless Hero [50 Points]
 Reach L=05 without using a single hammer
 ```
 
-Thankfully, you can do this with all four of your lives. But if you grab a single hammer, this achievement is unobtainable. This will put all of your skills from all previous achievements to the test. The rivets will be the most challenging. Be extra sure to [memorize the fireball behavior rules](#TODO).
+Thankfully, you can do this with all four of your lives. But if you grab a single hammer, this achievement is unobtainable. This will put all of your skills from all previous achievements to the test. The rivets will be the most challenging. Be extra sure to [memorize the fireball behavior rules](#the-fireballs-are-random-but-follow-predictable-rules).
 
 <br>
 
