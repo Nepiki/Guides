@@ -203,9 +203,9 @@ Jump to the top of the oil can on any barrel board
 
 This is actually a bug in Crazy Kong. Doing this in Donkey Kong results in Jumpman's death. This trick isn't particularly valuable, but was added to the set to highlight there are subtle differences between the two games, and Falcon's reverse engineering wasn't 100% perfect.
 
-<<< TODO, add video >>>
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Oil%20Can%20Antics.gif?raw=true" height="400">
 
-<br>
+<br><br>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325554.png">
 
@@ -218,9 +218,9 @@ When Kong drops the first barrel on 1-1 straight down, you can straight jump nex
 
 This is a basic point pressing technique that is very common in high-level games. "Point pressing" is a term used for squeezing out points from the game, oftentimes in unintended ways. In high-level play, it is essential to point press, given that there is an ending to the game. Every point counts!
 
-<<< TODO, insert video >>>
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Barrel%20Bounce.gif?raw=true" height="400">
 
-<br>
+<br><br>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325555.png">
 
