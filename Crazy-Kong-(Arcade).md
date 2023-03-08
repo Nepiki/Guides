@@ -3,7 +3,7 @@
 <p align="center">
   <span>5/10 Difficulty</span>  •
   <span>Multiple Playthroughs</span>  •
-  <span>20-40 Hours</span>
+  <span>20-30 Hours</span>
 </p>
 
 <p align="center">
@@ -98,6 +98,8 @@ One tip to keep in mind: the bottom hammer can oftentimes be a trap! The safest 
 
 <<< TODO, insert video >>>
 
+<br><br>
+
 | <img src="https://media.retroachievements.org/Badge/325545.png"> | Only 20 More Loops Left | Clear 1-4 | 5 Points |
 |---|---|---|---|
 
@@ -106,6 +108,8 @@ For any new player, getting this achievement is a great accomplishment. You will
 By reaching this achievement, you will also have earned your bonus man at 7000 points. You only have four lives to finish a game of Crazy Kong! In other words, each life should last you 6 levels (around 21 boards).
 
 << TODO, insert videos >>
+
+<br><br>
 
 | <img src="https://media.retroachievements.org/Badge/325546.png"> | Novice of the Arcade | Clear 2-4 | 5 Points |
 |---|---|---|---|
@@ -121,10 +125,14 @@ These achievements should all play out fairly similarly. Some things to note as 
 
 If you are serious about your learning, I recommend immediately moving on to working on the next achievement...
 
+<br><br>
+
 | <img src="https://media.retroachievements.org/Badge/325550.png"> | Veteran of the Arcade | Clear 4-4 on your very first life | 25 Points |
 |---|---|---|---|
 
 Donkey Kong circles refer to this as "getting a start". On your first life, you've reached maximum difficulty. Because you have the most barrel control at maximum difficulty, generally L=05+ is considered easier (less random) than levels 1 through 4. It is common practice for Donkey Kong players to reset their game if they do not reach 5-1 on their first life.
+
+<br><br>
 
 | <img src="https://media.retroachievements.org/Badge/325551.png"> | Prodigy of the Arcade | Score 200,000 points | 25 Points |
 |---|---|---|---|
