@@ -51,7 +51,9 @@ How exactly does barrel control work? **Barrels respond to your current joystick
 
 Knowing this, you can manipulate all the barrels on the screen to do your bidding. Take a look at the video below:
 
-<<< TODO, insert video >>>
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Barrel%20Control.gif?raw=true" height="400">
+
+<br>
 
 ### Barrels Can Be Dodged With 100% Precision
 
