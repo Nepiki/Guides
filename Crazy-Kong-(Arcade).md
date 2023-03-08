@@ -307,6 +307,8 @@ Collect all three of Pauline's items on any rivet board and finish the stage
 
 All three of these should be quite simple, especially if you attempt them on L=01 when the fireball speed is the lowest. Remember, it is not enough to suicide while getting the items, you must complete the stage after the items have been retrieved.
 
+<br>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325565.png">
 
 ```
@@ -367,3 +369,192 @@ Now that you have the hang of leeching the fireball for 100 points, it's time to
 <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Heat%20Seeker%20III%202.gif?raw=true" height="400">
 
 <br><br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325570.png">
+
+```
+Super Smasher I [5 Points]
+Get 3 smashes with a single bottom hammer on any barrel board
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325571.png">
+
+```
+Super Smasher II [5 Points]
+Get 4 smashes with as ingle top hammer on any barrel board
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325572.png">
+
+```
+Super Smasher III [10 Points]
+Get 6 smashes with a single bottom hammer on any barrel board
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325573.png">
+
+```
+Super Smasher IV [10 Points]
+Get 7 smashes with a single top hammer on any barrel board
+```
+
+The first four Super Smasher achievements all take place on barrel boards. To maximize your odds of unlocking these, you want to ensure you don't waste any swings. In other words, the very first swing of the hammer should be smashing a barrel board.
+
+For the bottom hammer, wait until there are four barrels on the screen to smash. While holding the hammer, do your best to steer them down ladders so they get to you faster. It's also advantageous if you're able to smash the fireball.
+
+For the top hammer, you'll need to be steering constantly as well as smashing barrels as they roll down ladders overhead.
+
+<br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325574.png">
+
+```
+Super Smasher V [10 Points]
+Get 5 smashes with a single middle hammer on any conveyor board
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325575.png">
+
+```
+Super Smasher VI [25 Points]
+Get 5 smashes with any single hammer on the rivet board
+```
+
+The final two Super Smasher achievements are a bit trickier and rely a bit more on luck, as you cannot directly influence the objects you're smashing on these stages.
+
+For the conveyor board, wait until you see at least two "pies" on the conveyor before picking up the hammer. Once you're holding the hammer, try to walk towards the side of the screen where pies are spawning in from. Smash them as they spawn.
+
+For the rivet board, you'll have to get lucky with one of the hammers. The achievement will unlock with either one, but you need to get five smashes with a single hammer. One trick is to do the Star Pattern, smash fireballs (and force them to respawn on the left), then walk to the left and smash them again! This totally relies on _where_ they spawn, but you can often squeeze out an extra smash with this technique.
+
+<br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325580.png">
+
+```
+Barrel Phantom Hammer [10 Points]
+On any barrel board, grab the top hammer first and the bottom hammer second
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325581.png">
+
+```
+Rivet Phantom Hammer [5 Points]
+On any rivet board, grab the left hammer first and the middle hammer second
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325582.png">
+
+```
+Conveyor Phantom Hammer [5 Points]
+On any conveyor board, grab the left hammer first and the middle hammer second
+```
+
+There is nothing particularly special about these hammers. These achievements are present mostly to ensure you're aware this programming error in Crazy Kong exists. For whatever reason, when grabbing a certain hammer first, the other one becomes invisible. This can be incredibly annoying on the rivet board in particular. Though invisible, the hammer can still be used.
+
+<br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325583.png">
+
+```
+Elevator Elite [5 Points]
+On any spring board, leech the fireball for 100 points while riding the elevator
+```
+
+Test your point-pressing skills! This is, of course, dependent upon if the fireball is descending or ascending the ladder while you're riding the elevator, but it should happen several times in a single game. Be sure to hold the joystick left or right during the apex of your jump to increase the odds that you are awarded points.
+
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Elevator%20Elite.gif?raw=true" height="400">
+
+<br><br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325584.png">
+
+```
+Spring Board Elite [5 Points]
+Leech a spring for 100 points on the right-hand side of any spring board
+```
+
+Isn't it interesting that everything in the game which can kill you is also able to award you points? The springs are no exception. Remember to hold left or right at the apex of your jump to increase your odds of earning the points.
+
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Spring%20Board%20Elite.gif?raw=true" height="400">
+
+<br><br>
+
+### Speedrun Achievements
+
+These achievements will require a lot of practice and patience. Also keep in mind they must be attempted at L=05+. There is not enough bonus time in the earlier levels to pull these achievements off.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325576.png">
+
+```
+Turbo Barrel [10 Points]
+Finish a barrel board with at least 6800 left on the timer
+```
+
+The easiest of the speedrun achievements. Ignore the hammers and immediately bolt for the top (this will be a recurring theme). Exploit the ladder trick if at all possible.
+
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Turbo%20Barrel.gif?raw=true" height="400">
+
+<br><br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325577.png">
+
+```
+Turbo Conveyor [25 Points]
+Finish a conveyor board with at least 6800 left on the timer
+```
+
+This one will require a little bit of luck, but it's likely that the game will eventually just hand this one to you once you're proficient at playing on max difficulty. This will come down to how cooperative the fireballs and retracting ladders are. Eventually you'll get a fast pattern and will be able to nail this.
+
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Turbo%20Conveyor.gif?raw=true" height="400">
+
+<br><br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325578.png">
+
+```
+Turbo Spring [50 Points]
+Finish a spring board with at least 6700 left on the timer
+```
+
+The speedrun achievements aren't messing around anymore. This will be quite challenging, even for seasoned experts. Your jumps between the elevators and platforms need to be extremely optimized, and you cannot afford to hesitate with the springs.
+
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Turbo%20Spring.gif?raw=true" height="400">
+
+<br><br>
+
+```
+Turbo Rivet [50 Points]
+Finish a rivet board with at least 5000 left on the timer
+```
+
+This will depend entirely on how cooperative the fireballs are. You cannot afford to grab a single hammer while attempting this achievement. You need to immediately clear all the rivets on the left, then hope the fireballs are cooperative in letting you clear the rivets on the right. Do not be afraid to jump over a fireball if that's what it takes. Another very helpful trick is you can actually run behind Kong and not die. Being on max difficulty also helps here thanks to the quicker fireball speed - you can leap over the fireballs if they're moving towards you.
+
+<img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Turbo%20Rivet.gif?raw=true" height="400">
+
+<br><br>
+
+### End of the Road
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325585.png">
+
+```
+The Hammerless Hero [50 Points]
+Reach L=05 without using a single hammer
+```
+
+Thankfully, you can do this with all four of your lives. But if you grab a single hammer, this achievement is unobtainable. This will put all of your skills from all previous achievements to the test. The rivets will be the most challenging. Be extra sure to [memorize the fireball behavior rules](#TODO).
+
+<br>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325586.png">
+
+```
+Legend of the Arcade [100 Points]
+Reach L=22 and survive until the game gives up
+```
+
+I truly hope you will be able to unlock this achievement. Once you reach L=22, take note of the bonus timer. You will see it behaving erratically. After a few moments, Jumpman will suddenly die. You have beaten the game.
+
+**This will not unlock if Jumpman dies to any obstacles on the screen.** Be extra sure to survive until the game truly ends.
+
+If you made it this far, I would love to hear from you.
