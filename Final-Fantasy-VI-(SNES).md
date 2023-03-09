@@ -293,7 +293,7 @@ _Deliver all the letters and items on behalf of the wounded soldier in Mobliz an
 [Beastlore I (5)](https://retroachievements.org/achievement/6423)**  
 _Learn the Tier 1 Rages_
 
-If you have encountered all the enemies in the Rage checklist so far, this achievement can be earned on your first trip to the Vedlt.  This could be recommended for LLG runs as Gau's Rages are some of the best abilities to use against bosses.  Remember that Gau will learn Rages from both the encounter he leapt on, and the encounter he returned on.  See [Beastlord (25)](https://retroachievements.org/achievement/5432) for tips on how to optimize learning rages.
+If you have encountered all the enemies in the Rage checklist so far, this achievement can be earned on your first trip to the Vedlt.  This could be recommended for LLG runs as Gau's Rages are some of the best abilities to use against bosses.  Remember that Gau will learn Rages from both the encounter he leapt on and the encounter he returned on.  If you accidently hit Gau, he will not learn the rages from that encounter.  See [Beastlord (25)](https://retroachievements.org/achievement/5432) for tips on how to optimize learning rages.
 
 **![image](https://user-images.githubusercontent.com/120497130/223470245-93ca68ce-345d-4e5b-923a-e04aac3285a9.png)[A Lesson in Modesty (5)](https://retroachievements.org/achievement/118357)**  
 _Have someone introduce Cyan to Humpty and Dumpty_
