@@ -25,10 +25,18 @@ Often listed as one of the greatest RPGs of all time, Final Fantasy 6 is the sto
 
 ## Before you Begin
 
-There are several achievements that require specific actions, such as not opening a chest or purchasing an item, but the achievement does not unlock until additional actions are taken much later in the game.  These are noted with 🚩 in the guide, but here is a summary:
+Several achievements that require specific actions, such as not opening a chest or purchasing an item, but the achievement does not unlock until additional actions are taken much later in the game.  These are noted with 🚩 in the guide, but here is a summary:
 * 🚩 Do not open any chests in South Figaro Cave in the World of Balance. 🚩
 * 🚩 During Terra's Scenario, do not open the chest containing Rune Edge in the Narshe Caves. 🚩
-* 🚩 Purchase both Magicite in the Jidoor Auction House until you win the Zephyr Cloak in the WoR 🚩
+* 🚩 Do not purchase both Magicite in the Jidoor Auction House until you win the Zephyr Cloak in the World of Ruin. 🚩
+
+Two achievements are mutually exclusive depending on choices made.  Most of these occur late in the game, so creating a separate save file at the split is recommended.  
+* [Beyond the Shadows I (10)](https://retroachievements.org/achievement/5653) and [Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)  
+Create a separate save on the Floating Continent.  
+* [Illuminated! (4)](https://retroachievements.org/achievement/7299) and [Life, Crystalized (25)](https://retroachievements.org/achievement/6618)  
+Create a separate save before choosing which form Ragnarok should take in Narshe (WoR).  
+
+
 
 
 **![image](https://user-images.githubusercontent.com/120497130/223577198-0b85b25c-3bdf-41c2-bdda-96257f7feaa2.png)
@@ -50,8 +58,6 @@ Mastery requires learning all of Gau's Rage abilities from the Veldt.  In order 
 ## Step 1: World of Balance | Total Points: XX
 
 ### Narshe
-
-Rage Checklist:  
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
@@ -519,6 +525,13 @@ _Perform Bum Rush_
 [Slam Dancin' (10)](https://retroachievements.org/achievement/6465)**  
 _Learn all Dances_
 
+All Dances can be learned in the WoR EXCEPT Water Rondo.  To learn Water Rondo, Mog must be taken to the Lethe River or Serpent's Trench.  The quicker option is Serpent's Trench.  
+* Park the airship outside Crescent Cave on the Veldt
+* Go through the cave and learn Water Rondo in the Serpent's Trench
+* Do not get on the ship to South Figaro or you will need to go through the Lethe River sequence again
+* Hire a Chocobo in Nikeah and ride it to Baron Falls
+* Jump off Baron Falls to return to the Veldt and your airship
+
 **![image](https://user-images.githubusercontent.com/120497130/223578837-7edf3f33-d623-4d0f-8282-0f6ed35694f8.png)
 [Swordity Sword (10)](https://retroachievements.org/achievement/6890)**  
 _Learn all Swordtechs_
@@ -530,6 +543,8 @@ _Find the Air Anchor in the Fanatics' Tower_
 **![image](https://user-images.githubusercontent.com/120497130/223578870-16f43910-64f7-492b-8f23-a10b5dcca9dc.png)
 [Elder Wisdom (10)](https://retroachievements.org/achievement/7157)**  
 _Learn all Lores_
+
+All Lore can be acquired in the WoR.  Strago's final Lore is obtained from Doom during the final boss sequence.  In order for Strago to fight against Doom, he must be in the first or third party when assaulting Kefka's Tower.  At the end of the switch puzzle where all 3 parties come together, Strago's party must be on the left side switch.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578916-72af4e95-370d-4fab-a85d-54c582560ed3.png)
 [Beastlore I (5)](https://retroachievements.org/achievement/6423)**  
