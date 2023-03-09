@@ -43,13 +43,26 @@ While doing a single playthrough is possible for this set, many people will pref
 
 **![image](https://user-images.githubusercontent.com/120497130/223578972-66619ecf-a270-4a75-9f75-9262a53f8e6e.png)
 [Beastlord (25)](https://retroachievements.org/achievement/5432) & Others**  
-Mastery requires learning all of Gau's Rage abilities from the Veldt.  In order for monsters to appear on the Veldt, they must first be encountered in the world.  Each section will begin with a list of the monsters you can encounter.  Ensure that you run into at least 1 formation so that you can collect their rage on the Veldt later in the game.  For Low Level playthroughs, you can simply run away from the battle and it will still count.
+Mastery requires learning all of Gau's Rage abilities from the Veldt.  In order for monsters to appear on the Veldt, they must first be encountered in the world.  Each section will begin with a list of the monsters you can encounter and marked with a ![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png).  Ensure that you run into at least 1 formation so that you can collect their rage on the Veldt later in the game.  For Low Level playthroughs, you can simply run away from the battle and it will still count.  Check the entries in the main guide for additional tips to optimize this process.
 
 ***
 
 ## Step 1: World of Balance | Total Points: XX
 
 ### Narshe
+
+Rage Checklist:  
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Guard|
+|Lobo|Silver Lobo|
+|Vomammoth|Megalodoth|
+|Vaporite|Spritzer|
+|Repo-Man|Bandit|
+|Were-Rat|
+|Marshal||Boss|
+
 
 **![image](https://user-images.githubusercontent.com/120497130/223259814-9009e602-9fa1-43d6-b378-2461780ae472.png)[The Approach on Narshe (0)](https://retroachievements.org/achievement/4938)**  
 _Watch the snowfield scene without skipping_
@@ -79,6 +92,14 @@ While defending Terra with the Moogles, use Locke to steal from the boss until y
 
 ### Figaro Castle
 
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Leafer|Leaf Bunny|
+|Darkwind||
+|Areneid|Alacran|
+|Sand Ray||
+|M-Tek Armor||Default|
+
 **![image](https://user-images.githubusercontent.com/120497130/223467206-f17b72bf-e3a4-4781-8efb-4045a6efac09.png) [Every Little Thing She Does Is Magic (5)](https://retroachievements.org/achievement/5006)**    
 _Trigger a hidden scene shortly after escaping Figaro Castle_
 
@@ -94,7 +115,19 @@ Unlocks automatically after the Figaro Castle escape.
 🚩 **Do not open any chests in South Figaro Cave.** 🚩  
 One of these chests needs to be opened in the WoR in order to earn [Patience Pays II (5)](https://retroachievements.org/achievement/6400)
 
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Crawley|Urok|
+|Bleary|Foper|
+|Hornet||Default|
+
 ### South Figaro
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Rhinotaur|Belmodar|Default|
+|Rhodox|Mu|
+|GreaseMonkey|Unseelie|
 
 ![image](https://user-images.githubusercontent.com/120497130/223550154-a38c3a8f-a2f7-43da-bbe3-322a367abe26.png)**[Gotta Dash (1)](https://retroachievements.org/achievement/5095)**  
 _Equip Sprint Shoes on any character_
@@ -109,6 +142,14 @@ An elixir is hidden in a secret passage behind the large mansion in the top left
 ![image](https://user-images.githubusercontent.com/120497130/223547771-26346b78-df00-40f8-9c0f-3d615ed49ff1.png)
 
 ### Mt. Kolts
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Brawler|Zaghrem|Default|
+|Tusker|Gorgias|
+|Trilium|
+|Cirpius|
+
 **![image](https://user-images.githubusercontent.com/120497130/223468409-99717e84-24a5-4c8f-8bbf-50bf4cc61478.png) [Hadouken! (1)](https://retroachievements.org/achievement/5096)**  
 _Perform AuraBolt_
 
@@ -121,6 +162,13 @@ _Refuse Banon's offer three times_
 Answer "No" to Bannon's request 3 times.  After each refusal, you will be sent back inside to the hideout.  Simply go back out again.
 
 ### Lete River
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Nautiloid|
+|Exocite||Default|
+|Pterodon|Lesser Lopros|
+
 **![image](https://user-images.githubusercontent.com/120497130/223468898-e0edfa1f-d266-4c3c-bdad-ba64e506a4f4.png) [River Rats (2)](https://retroachievements.org/achievement/5129)**  
 _Spending TOO MUCH TIME on the Lete River_
 
@@ -133,6 +181,15 @@ Use Terra to cast fire on Ultros when you run into him after the 2nd save point.
 
 ### Locke's Scenario
 **The split scenarios can be done in any order, but consider saving Sabin for last so that you can acquire rages in the other scenarios before your first trip to the Veldt.**
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Heavy Armor||Town Only|
+|Commander|
+|Vector Pup|Vector Hound|
+|Trilobiter|Cartagra|Default|
+|Gold Bear|
+|Primordite|Acrophies|
 
 **![image](https://user-images.githubusercontent.com/120497130/223470912-72c01fe3-44f0-4429-9c90-7b7d788311ab.png) [No, Really! I'm Not a Thief! (5)](https://retroachievements.org/achievement/5522)**  
 _Negotiate Locke's scenario without stealing any clothes (no guard clipping)_
@@ -152,6 +209,14 @@ Locke should still be equipped with Genji Gloves and his best weapons.  Heal up 
 
 ### Terra's Scenario
 
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|1st Class|Valeor|
+|Wild Rat|
+|Rinn|Eukaryote|Fail Light Puzzle|
+|Spectere|Specter|Fail Light Puzzle|
+|Dark Side|Darkside|Fail Light Puzzle|
+
 **![image](https://user-images.githubusercontent.com/120497130/223469399-e29dc2b1-d0a7-4c4e-b0da-55f6f2a8450e.png) [What the-?!? (5)](https://retroachievements.org/achievement/5131)**  
 _Make Banon ride a chocobo_
 
@@ -162,6 +227,17 @@ This chest needs to be opened in the WoR to earn [Kuku's Treasures (5)](https://
 
 ### Sabin's Scenario
 
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|CrassHoppr|Nettiehopper|
+|Stray Cat|
+|Rhobite|Chippirabbit|
+|Beakor|Aepyornis|
+|Doberman||Kick Chest|
+|Telstar|Satellite|
+|Templar|
+|Soldier|Imperial Soldier|
+
 🚩 **Kick the chest in the north east tent of the Imperial Base.** 🚩  
 Kicking the chest will initiate a fight with a Doberman.  This fight is the only opportunity to get this enemy to appear on the Veldt.
 
@@ -169,6 +245,18 @@ Kicking the chest will initiate a fight with a Doberman.  This fight is the only
 _Get in the way of Cyan's fury_
 
 When Cyan is fighting the two soldiers in the Imperial Camp, get between them and speak with Cyan.  You will be pushed out of the way and unlock this achievement.
+
+### Phantom Train and Forest
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Ghost|
+|Poplium|
+|Whisper|Angel Whisper|
+|Bomb|
+|Hazer|Cloud|
+|StillGoing|Living Dead|
+|Over-Mind|Oversoul|
 
 **![image](https://user-images.githubusercontent.com/120497130/223469723-2beb70e0-4ee9-4b6b-bdea-edef4ab1795b.png) [Spooky... (5)](https://retroachievements.org/achievement/5137)**  
 _Have two Ghosts in your party at once_
@@ -179,11 +267,6 @@ Unlocking this achievement requires two party slots for ghosts, which means that
 _Perform a Suplex on the GhostTrain_
 
 During the boss battle against the GhostTrain, use Sabin's Suplex Blitz by entering `X > Y > Down > Up`
-
-
-
-**![image](https://user-images.githubusercontent.com/120497130/223470245-93ca68ce-345d-4e5b-923a-e04aac3285a9.png)[A Lesson in Modesty (5)](https://retroachievements.org/achievement/118357)**  
-_Have someone introduce Cyan to Humpty and Dumpty_
 
 ✅**Elixir-in-a-clock 3 out of 8**  
 An elixir is hidden the Post Office clock at the top of the town. You will enter here repeatedly while earning the next achievement.  
@@ -199,6 +282,9 @@ _Deliver all the letters and items on behalf of the wounded soldier in Mobliz an
 1. Grab the next letter in the soldier's house.  
 1. Repeat these steps until no more letters show up.
 1. Speak to the soldier to unlock the achievement.
+
+**![image](https://user-images.githubusercontent.com/120497130/223470245-93ca68ce-345d-4e5b-923a-e04aac3285a9.png)[A Lesson in Modesty (5)](https://retroachievements.org/achievement/118357)**  
+_Have someone introduce Cyan to Humpty and Dumpty_
 
 **![image](https://user-images.githubusercontent.com/120497130/223471095-7b6fc537-645c-4e56-929c-707a5b2f2fa9.png) [Covert Strike Team (10)](https://retroachievements.org/achievement/5564)**  
 _Engage in only one battle during Kefka's raid on Narshe_
@@ -365,35 +451,7 @@ Fid Genji Glove and buy two Morning Stars.  Equip on Locke for big damage.
 About Traveler lore (and mb corresponding rage in WoR). Anguiform, Stray cat and Aspiran rages for WoB.  
 Tactics for each boss.
 
-## Step 4: Miscellaneous | Total Points: XX
-
-**![image](https://user-images.githubusercontent.com/120497130/223578558-83ac8615-ced8-4675-bae1-e689676b1c3b.png)
-[OMG FURRIES! (2)](https://retroachievements.org/achievement/6220)**  
-_Have Strago and Relm wear Tabby, Chocobo, Moogle, Nutkin, or Behemoth suits_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578575-0290038d-33c5-4758-84b3-cba9dd2b6158.png)
-[Mascot Relm (3)](https://retroachievements.org/achievement/6221)**  
-_Have Relm dress up in a Moogle Suit_
-Found in Jidoor.  Steal from Misty, Blade Dancer
-
-**![image](https://user-images.githubusercontent.com/120497130/223578586-f88e226f-3b42-4cdf-a6e0-c4094165306d.png)
-[Double Dragoon (5)](https://retroachievements.org/achievement/7285)**  
-_Equip DragoonBoots and Dragon Horns on Edgar and Mog at once_
-WoR
-DragoonBoots - Purchased at Thamasa, Tzen.
-Dragon Horn - One found in Phoenix Cave, other obtained through colosseum.
-
-**![image](https://user-images.githubusercontent.com/120497130/223578603-f28f8ae1-1ea0-448e-a5a2-a5d3e7ffabaa.png)
-[Gender Crisis (5)](https://retroachievements.org/achievement/6767)**  
-_Recruit Gogo_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578616-e4cda938-eca8-44ac-8d22-a7fa40e088ef.png)
-[The Abominable Comrade (5)](https://retroachievements.org/achievement/6619)**  
-_Recruit Umaro_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578637-066238b5-4a5c-4266-98c5-129bd692249f.png)
-[You Are Not Alone (10)](https://retroachievements.org/achievement/6296)**  
-_Recruit every character_
+### Hidden Scenes
 
 **![image](https://user-images.githubusercontent.com/120497130/223578654-388c7960-4d8e-475c-8a44-61d07ce61459.png)
 [The Coin Toss (5)](https://retroachievements.org/achievement/5571)**  
@@ -419,6 +477,8 @@ _Witness Shadow's first set of dreams_
 [Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)**  
 _Witness Relm's dream_
 
+### Colosseum
+
 **![image](https://user-images.githubusercontent.com/120497130/223578767-149cb9c3-0682-4e7d-9d42-935ca6a38c66.png)
 [Tetra-Miracle (4)](https://retroachievements.org/achievement/6861)**  
 _Win a pair of Marvel Shoes at the colosseum_
@@ -434,6 +494,22 @@ _Win an Illumina at the colosseum_
 **![image](https://user-images.githubusercontent.com/120497130/223578809-a374a29f-c1dc-45a2-b8db-016963f1a3ce.png)
 [The Master Swordsman (10)](https://retroachievements.org/achievement/7164)**  
 _Defeat the true Siegfried_
+
+## Step 4: Collections | Total Points: XX
+
+### Character/Skill Collections
+
+**![image](https://user-images.githubusercontent.com/120497130/223578603-f28f8ae1-1ea0-448e-a5a2-a5d3e7ffabaa.png)
+[Gender Crisis (5)](https://retroachievements.org/achievement/6767)**  
+_Recruit Gogo_
+
+**![image](https://user-images.githubusercontent.com/120497130/223578616-e4cda938-eca8-44ac-8d22-a7fa40e088ef.png)
+[The Abominable Comrade (5)](https://retroachievements.org/achievement/6619)**  
+_Recruit Umaro_
+
+**![image](https://user-images.githubusercontent.com/120497130/223578637-066238b5-4a5c-4266-98c5-129bd692249f.png)
+[You Are Not Alone (10)](https://retroachievements.org/achievement/6296)**  
+_Recruit every character_
 
 **![image](https://user-images.githubusercontent.com/120497130/223578817-2648bace-b403-4ea1-bd4e-5e0063eef9a0.png)
 [Blitz Expert (10)](https://retroachievements.org/achievement/6439)**  
@@ -455,10 +531,6 @@ _Find the Air Anchor in the Fanatics' Tower_
 [Elder Wisdom (10)](https://retroachievements.org/achievement/7157)**  
 _Learn all Lores_
 
-**![image](https://user-images.githubusercontent.com/120497130/223578897-4f484b43-74dd-4036-a345-91d129ac6c4e.png)
-[Why So Serious? (10)](https://retroachievements.org/achievement/6017)**  
-_Cast 7-7-7 Joker Doom_
-
 **![image](https://user-images.githubusercontent.com/120497130/223578916-72af4e95-370d-4fab-a85d-54c582560ed3.png)
 [Beastlore I (5)](https://retroachievements.org/achievement/6423)**  
 _Learn the Tier 1 Rages_
@@ -474,22 +546,6 @@ _Learn the Tier 5 and 6 Rages_
 **![image](https://user-images.githubusercontent.com/120497130/223578972-66619ecf-a270-4a75-9f75-9262a53f8e6e.png)
 [Beastlord (25)](https://retroachievements.org/achievement/5432)**  
 _Learn the rarest, most elusive Rages_
-
-**![image](https://user-images.githubusercontent.com/120497130/223579008-70b64d58-6c9c-4a4a-854e-948da95f8e4f.png)
-[Patience Pays II (5)](https://retroachievements.org/achievement/6400)**  
-_Find a Hero Ring in the South Figaro Cave_
-
-**![image](https://user-images.githubusercontent.com/120497130/223579015-47bad205-f021-4acb-ba7f-52bf37f209bf.png)
-[Patience Pays III (5)](https://retroachievements.org/achievement/7284)**  
-_Uncurse the Curse Shield_
-
-**![image](https://user-images.githubusercontent.com/120497130/223579029-4becc292-26f8-4d93-871a-5481df0afc26.png)
-[Power Level I (5)](https://retroachievements.org/achievement/7295)**  
-_At least one character has reached level 40_
-
-**![image](https://user-images.githubusercontent.com/120497130/223579048-3735ce0f-aa84-4487-a552-9085b5d63591.png)
-[Power Level II (10)](https://retroachievements.org/achievement/7297)**  
-_At least one character has reached level 99_
 
 **![image](https://user-images.githubusercontent.com/120497130/223579082-3b74a1f3-6e17-4591-a15b-c93c6b793dba.png)
 [Half-Past Many (5)](https://retroachievements.org/achievement/118692)**  
@@ -513,7 +569,6 @@ _Obtain all of the clock elixirs_
 * Albrook - Cafe
 * Doma Castle - West Sleeping Quarters
 
-
 **![image](https://user-images.githubusercontent.com/120497130/223482334-486361bb-322e-4567-971b-8a76d0753ec7.png) [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440)**  
 _Win all the exclusive items at the Auction House_
 
@@ -525,6 +580,9 @@ Several unique items can be purchased at the Auction House in Jidoor.  The follo
 
 The Zephyr Cape will NOT be auctioned if the player has both Zoneseek and Golem.  Only purchase one of these in the WoB and wait to purchase the other until you buy Zephyr Cape in the WoR.
 
+**![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
+[N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
+_Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
 
 **![image](https://user-images.githubusercontent.com/120497130/223579129-bbb3309e-4e13-478e-8528-6f97b934fb6e.png)
 [Dragon Slayer (10)](https://retroachievements.org/achievement/6534)**  
@@ -534,9 +592,43 @@ _Defeat the eight legendary dragons_
 [Life, Crystalized (25)](https://retroachievements.org/achievement/6618)**  
 _Collect all Magicite_
 
-**![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
-[N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
-_Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
+## Step 5: Miscellaneous | Total Points: XX
+
+**![image](https://user-images.githubusercontent.com/120497130/223578558-83ac8615-ced8-4675-bae1-e689676b1c3b.png)
+[OMG FURRIES! (2)](https://retroachievements.org/achievement/6220)**  
+_Have Strago and Relm wear Tabby, Chocobo, Moogle, Nutkin, or Behemoth suits_
+
+**![image](https://user-images.githubusercontent.com/120497130/223578575-0290038d-33c5-4758-84b3-cba9dd2b6158.png)
+[Mascot Relm (3)](https://retroachievements.org/achievement/6221)**  
+_Have Relm dress up in a Moogle Suit_
+Found in Jidoor.  Steal from Misty, Blade Dancer
+
+**![image](https://user-images.githubusercontent.com/120497130/223578586-f88e226f-3b42-4cdf-a6e0-c4094165306d.png)
+[Double Dragoon (5)](https://retroachievements.org/achievement/7285)**  
+_Equip DragoonBoots and Dragon Horns on Edgar and Mog at once_
+WoR
+DragoonBoots - Purchased at Thamasa, Tzen.
+Dragon Horn - One found in Phoenix Cave, other obtained through colosseum.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578897-4f484b43-74dd-4036-a345-91d129ac6c4e.png)
+[Why So Serious? (10)](https://retroachievements.org/achievement/6017)**  
+_Cast 7-7-7 Joker Doom_
+
+**![image](https://user-images.githubusercontent.com/120497130/223579008-70b64d58-6c9c-4a4a-854e-948da95f8e4f.png)
+[Patience Pays II (5)](https://retroachievements.org/achievement/6400)**  
+_Find a Hero Ring in the South Figaro Cave_
+
+**![image](https://user-images.githubusercontent.com/120497130/223579015-47bad205-f021-4acb-ba7f-52bf37f209bf.png)
+[Patience Pays III (5)](https://retroachievements.org/achievement/7284)**  
+_Uncurse the Curse Shield_
+
+**![image](https://user-images.githubusercontent.com/120497130/223579029-4becc292-26f8-4d93-871a-5481df0afc26.png)
+[Power Level I (5)](https://retroachievements.org/achievement/7295)**  
+_At least one character has reached level 40_
+
+**![image](https://user-images.githubusercontent.com/120497130/223579048-3735ce0f-aa84-4487-a552-9085b5d63591.png)
+[Power Level II (10)](https://retroachievements.org/achievement/7297)**  
+_At least one character has reached level 99_
 
 **![image](https://user-images.githubusercontent.com/120497130/223579183-b94b3c8e-236f-465e-8335-a79057b95282.png)
 [Godhand (10)](https://retroachievements.org/achievement/6799)**  
