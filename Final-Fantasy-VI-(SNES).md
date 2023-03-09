@@ -36,9 +36,6 @@ Create a separate save on the Floating Continent.
 * [Illuminated! (4)](https://retroachievements.org/achievement/7299) and [Life, Crystalized (25)](https://retroachievements.org/achievement/6618)  
 Create a separate save before choosing which form Ragnarok should take in Narshe (WoR).  
 
-
-
-
 **![image](https://user-images.githubusercontent.com/120497130/223577198-0b85b25c-3bdf-41c2-bdda-96257f7feaa2.png)
 [LLG (50)](https://retroachievements.org/achievement/7296)**  
 _Clear the game with no character exceeding level 30_
@@ -89,6 +86,7 @@ Whelk is the first boss of the game.  The shell has 50000 HP, whereas the boss h
 _The first of many_
 
 ✅**Elixir-in-a-clock 1 out of 8**  
+![image](https://user-images.githubusercontent.com/120497130/224184472-b61ae00b-ced7-4e04-baac-5f3d5bbcb754.png)  
 After Terra wakes up, check the clock in the Old Man's house before leaving out the back door.  This is the first of 8 hidden elixirs that you will need for [Half-Past Many (5)](https://retroachievements.org/achievement/118692) and [Elixirs of Life (10)](https://retroachievements.org/achievement/118693)
 
 **![image](https://user-images.githubusercontent.com/120497130/223444994-1a4fdf60-c540-4cf3-86b5-40179e5aad80.png) [Semantic Nonsense (5)](https://retroachievements.org/achievement/4967)**  
@@ -274,8 +272,10 @@ _Perform a Suplex on the GhostTrain_
 
 During the boss battle against the GhostTrain, use Sabin's Suplex Blitz by entering `X > Y > Down > Up`
 
+### Veldt & Mobliz
+
 ✅**Elixir-in-a-clock 3 out of 8**  
-An elixir is hidden the Post Office clock at the top of the town. You will enter here repeatedly while earning the next achievement.  
+An elixir is hidden in the Post Office clock at the top of the town. You will enter here repeatedly while earning the next achievement.  
 ![image](https://user-images.githubusercontent.com/120497130/223876313-47665b82-dc83-442d-b99e-bf8043f54237.png)
 
 
@@ -295,11 +295,57 @@ _Learn the Tier 1 Rages_
 
 If you have encountered all the enemies in the Rage checklist so far, this achievement can be earned on your first trip to the Vedlt.  This could be recommended for LLG runs as Gau's Rages are some of the best abilities to use against bosses.  Remember that Gau will learn Rages from both the encounter he leapt on and the encounter he returned on.  If you accidently hit Gau, he will not learn the rages from that encounter.  See [Beastlord (25)](https://retroachievements.org/achievement/5432) for tips on how to optimize learning rages.
 
+### Serpent's Trench & Nikeah
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Anguiform|
+|Aspik|Aspiran|
+|Actaneon|Actinian|
+
 **![image](https://user-images.githubusercontent.com/120497130/223470245-93ca68ce-345d-4e5b-923a-e04aac3285a9.png)[A Lesson in Modesty (5)](https://retroachievements.org/achievement/118357)**  
 _Have someone introduce Cyan to Humpty and Dumpty_
 
+Before boarding the boat, head into town and stop by the Cafe.  Speak with the dancer inside to unlock this achievement.
+
+✅**Elixir-in-a-clock 4 out of 8**  
+An elixir is hidden in the Inn clock.  
+![image](https://user-images.githubusercontent.com/120497130/224177286-6d9e4ef8-545b-4fe4-a671-abdeac6e0d9c.png)
+
+**![image](https://user-images.githubusercontent.com/120497130/223579082-3b74a1f3-6e17-4591-a15b-c93c6b793dba.png)
+[Half-Past Many (5)](https://retroachievements.org/achievement/118692)**  
+_Obtain half of the clock elixirs_
+
+If you've collected every elixir up until this point, you will unlock this achievement.
+
+### Return to Narshe
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Trooper|Corporal|Brown & Green Soldiers|
+|Bounty Man|Hunting Dog|Green Soldiers|
+|Fidor||Brown Soldiers|
+|Rider|Hell's Rider|Final Soldier|
+
+The timing for this next achievement is tight, so be sure to make a save before the battle.  You'll also want to reload this save so you can fight the soldiers for Rage encounters.
+
 **![image](https://user-images.githubusercontent.com/120497130/223471095-7b6fc537-645c-4e56-929c-707a5b2f2fa9.png) [Covert Strike Team (10)](https://retroachievements.org/achievement/5564)**  
 _Engage in only one battle during Kefka's raid on Narshe_
+
+To unlock this achievement, you must only engage Kefka at the bottom of the map.  Engaging with any other soldiers will lock the achievement.  
+Put all your best characters into the first party.  Head south and sneak by the first wave of green soldiers by hiding in this location:  
+![image](https://user-images.githubusercontent.com/120497130/224180150-f1108f21-4816-443a-a020-e6c7325329e5.png)  
+Move the party south west and sneak by the second wave of brown soldiers by hiding in this location:  
+![image](https://user-images.githubusercontent.com/120497130/224180973-b62a527b-3571-4a3a-a6b4-16511564769e.png)  
+Move the party directly in front of Kefka.  Avoid the patrolling soldier by moving down to Kefka as soon as the soldier starts to move right.  Talk with Kefka to begin the battle.  
+![image](https://user-images.githubusercontent.com/120497130/224181426-fb6b0062-2b74-4a51-844e-d2127a5714d8.png)  
+If successful, the achievement will unlock after the battle with Kefka.
+
+✅**Elixir-in-a-clock 5 out of 8**  
+An elixir is hidden in the Elder's House clock on the far west of town.  
+![image](https://user-images.githubusercontent.com/120497130/224185275-526b4721-35f0-4111-b3eb-942dc3660440.png)
+
+### Western Continent
 
 **![image](https://user-images.githubusercontent.com/120497130/223471207-e431e5de-4931-4d7f-b744-9f660f4f76b5.png) [Friday the 13th (2)](https://retroachievements.org/achievement/5852)**  
 _Perform an instant kill with the chainsaw_
@@ -400,6 +446,10 @@ _Have Shadow rescue Relm, alone_
 **![image](https://user-images.githubusercontent.com/120497130/223576583-4026f39d-d00f-4d4d-8412-4bc1f0f2b122.png)
 [Step Aside, Gramps! (10)](https://retroachievements.org/achievement/7162)**  
 _Solo Hidon using only Relm, no instant death moves_
+
+* Defeat Hidon normally with Strago (Learn Grand Train)
+* Respawn Hidon by talking to Gungho repeatedly in Thamasa
+* Defeat Hidon with Relm as the only party member
 
 **![image](https://user-images.githubusercontent.com/120497130/223576625-86ec91ac-90a6-4e00-b15a-7d23705f2994.png)
 [We're All Mad Here (25)](https://retroachievements.org/achievement/119158)**  
@@ -568,15 +618,12 @@ _Learn the Tier 5 and 6 Rages_
 [Beastlord (25)](https://retroachievements.org/achievement/5432)**  
 _Learn the rarest, most elusive Rages_
 
-**![image](https://user-images.githubusercontent.com/120497130/223579082-3b74a1f3-6e17-4591-a15b-c93c6b793dba.png)
-[Half-Past Many (5)](https://retroachievements.org/achievement/118692)**  
-_Obtain half of the clock elixirs_
-
 **![image](https://user-images.githubusercontent.com/120497130/223579097-f9a31991-4ef4-42b2-86a7-0310aff0d814.png)
 [Elixirs of Life (10)](https://retroachievements.org/achievement/118693)**  
 _Obtain all of the clock elixirs_
 
-* Narshe - Old Man's (Arvis) House
+* Narshe - Old Man's (Arvis) House  
+![image](https://user-images.githubusercontent.com/120497130/224184472-b61ae00b-ced7-4e04-baac-5f3d5bbcb754.png)  
 * South Figaro - Hidden in a secret passage behind the large mansion in the top left corner of town.  Locke runs through this room during his scenario.  
 ![image](https://user-images.githubusercontent.com/120497130/223548252-ec2a92b4-2b68-4a1f-b912-e9728a7084bf.png)
 ![image](https://user-images.githubusercontent.com/120497130/223548049-0ff75542-6b2e-4c77-a055-d72dc437a467.png)
@@ -584,8 +631,10 @@ _Obtain all of the clock elixirs_
 ![image](https://user-images.githubusercontent.com/120497130/223547771-26346b78-df00-40f8-9c0f-3d615ed49ff1.png)
 * Mobliz - Post Office  
 ![image](https://user-images.githubusercontent.com/120497130/223878076-a4e33e8c-981e-4688-95cc-005b9e3083d1.png)
-* Nikeah - Inn
-* Narshe - Elder's House
+* Nikeah - Inn  
+![image](https://user-images.githubusercontent.com/120497130/224177286-6d9e4ef8-545b-4fe4-a671-abdeac6e0d9c.png)
+* Narshe - Elder's House  
+![image](https://user-images.githubusercontent.com/120497130/224185275-526b4721-35f0-4111-b3eb-942dc3660440.png)
 * Kohlingen - Rachel's House
 * Albrook - Cafe
 * Doma Castle - West Sleeping Quarters
