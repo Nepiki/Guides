@@ -2,9 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/120497130/223250255-7db8e822-2db2-4216-9888-813a7bc293a7.png)
 
-**RAGuide Author:** [Sutarion](https://retroachievements.org/user/Sutarion)
-
+**RAGuide Author:** [Sutarion](https://retroachievements.org/user/Sutarion)  
+**Special Thanks:** [Xymjak](https://retroachievements.org/user/Xymjak),  [pitapocket17](https://retroachievements.org/user/pitapocket17)  
 **Set Authors:** [cirellio](https://retroachievements.org/user/cirellio) and  [televandalist](https://retroachievements.org/user/televandalist)
+
 
 # 1) Synopsis
 
@@ -341,26 +342,91 @@ Move the party directly in front of Kefka.  Avoid the patrolling soldier by movi
 ![image](https://user-images.githubusercontent.com/120497130/224181426-fb6b0062-2b74-4a51-844e-d2127a5714d8.png)  
 If successful, the achievement will unlock after the battle with Kefka.
 
+⚠️ **Add Edgar, Sabin and Locke to your party to unlock some upcoming achievements.**
+
 ✅**Elixir-in-a-clock 5 out of 8**  
 An elixir is hidden in the Elder's House clock on the far west of town.  
 ![image](https://user-images.githubusercontent.com/120497130/224185275-526b4721-35f0-4111-b3eb-942dc3660440.png)
 
-### Western Continent
+**![image](https://user-images.githubusercontent.com/120497130/223578654-388c7960-4d8e-475c-8a44-61d07ce61459.png)
+[The Coin Toss (5)](https://retroachievements.org/achievement/5571)**  
+_Witness a hidden scene that reveals Edgar and Sabin's past_
+
+Upon entering Figaro with Edgar and Sabin in your party, Sabin will run off to see the castle.  Head to the inn to rest.  This achievement will unlock at the end of the hidden scene.
+
+### Kohlingen
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Red Fang|Bloodfang|
+|FossilFang|Fossil Dragon|
+|Vulture|
+|Iron Fist|
+|Mind Candy|Rock Wasp|
+|Over Grunk|Paraladia|
+
+**![image](https://user-images.githubusercontent.com/120497130/223578669-3e700e9e-d17e-41e2-a504-8ae0a213b2a7.png)
+[Forever Rachel (5)](https://retroachievements.org/achievement/5579)**  
+_Witness a hidden scene that reveals Locke's past_
+
+While Locke is in the party, enter the house in the north west corner of Kohlingen.  This achievement will unlock at the end of the hidden scene.
+
+✅**Elixir-in-a-clock 6 out of 8**  
+An elixir is hidden in the Rachel's House clock on the north west corner of town.  
+![image](https://user-images.githubusercontent.com/120497130/224214195-54de9a58-688b-417c-b22b-4eac891c2784.png)
+
+### Zozo
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Gabbldegak|Gobbledygook|
+|Harvester|
+|HadesGigas|Hill Gigas|
+|SlamDancer|Veil Dancer|
 
 **![image](https://user-images.githubusercontent.com/120497130/223471207-e431e5de-4931-4d7f-b744-9f660f4f76b5.png) [Friday the 13th (2)](https://retroachievements.org/achievement/5852)**  
 _Perform an instant kill with the chainsaw_
 
+Enter the Inn in Zozo.  Interact with the clock and set the time to 6:10:50 to find the chain saw. When you use the chainsaw in combat, it has a 25% chance to insta kill the enemy.  Doing so will unlock this achievement.
+
+✅**Magicite 4 out of 26**  
+Upon finding Terra, you will receive Ramuh, Kirin, Siren and Stray (Cait Sith) magicite
+
+### Opera House
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Sewer Rat|Stunner|
+|Vermin|Goetia|
+
 **![image](https://user-images.githubusercontent.com/120497130/223471342-393990a5-9869-43e5-ad15-479e9a5ef843.png) [Photographic Memory (2)](https://retroachievements.org/achievement/5933)**  
 _Perform without reviewing the script_
+
+When you gain control of Celes, simply exit to the stage without reading the script on the table to unlock this achievement.
 
 **![image](https://user-images.githubusercontent.com/120497130/223471445-7abf11da-9dc9-47ed-a1a5-166b833d0fbf.png) [World's Worst Stage Hand (5)](https://retroachievements.org/achievement/5944)**  
 _At the Opera House, waste time with the three left switches before flipping the right switch_
 
+Just flip the left switches before the rightmost switch to unlock this achievement.
+
 **![image](https://user-images.githubusercontent.com/120497130/223471872-2fb8a189-0969-449c-9a20-98bc907a7f0c.png) [Rat Race (10)](https://retroachievements.org/achievement/5987)**  
 _Rats in the rafters - kill as many as you can!_
 
+While racing to stop Ultros, kill 23 rats before the timer runs out.  Combining this achievement with the time waste achievement may not leave enough room to stop Ultros in time.  If this happens, reload your save to ensure a flawless opera performance.
+
 **![image](https://user-images.githubusercontent.com/120497130/223471998-028387da-ae60-4daf-9320-d0223c402385.png) [Encore! (5)](https://retroachievements.org/achievement/5935)**  
 _Flawless performance on opening night at the Opera House_
+
+Successfully complete the Opera House event on the first attempt.  If you get kicked out and told to try again, reload your save.  This will unlock when Ultros is defeated.
+
+### Southern Continent
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+
+✅**Elixir-in-a-clock 7 out of 8**  
+An elixir is hidden in the Albrook Cafe clock above the relic shop.  
+![image](https://user-images.githubusercontent.com/120497130/224228616-0673e838-31b3-4210-ba3f-edcff2f4e2c7.png)
 
 **![image](https://user-images.githubusercontent.com/120497130/223579153-741f103e-9df3-46a2-b372-94b4c68e4eda.png)
 [None Shall Pass (3)](https://retroachievements.org/achievement/6002)**  
@@ -515,14 +581,6 @@ Tactics for each boss.
 
 ### Hidden Scenes
 
-**![image](https://user-images.githubusercontent.com/120497130/223578654-388c7960-4d8e-475c-8a44-61d07ce61459.png)
-[The Coin Toss (5)](https://retroachievements.org/achievement/5571)**  
-_Witness a hidden scene that reveals Edgar and Sabin's past_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578669-3e700e9e-d17e-41e2-a504-8ae0a213b2a7.png)
-[Forever Rachel (5)](https://retroachievements.org/achievement/5579)**  
-_Witness a hidden scene that reveals Locke's past_
-
 **![image](https://user-images.githubusercontent.com/120497130/223578683-8bac8e97-ec84-4ca2-9a3b-9f569b2b057a.png)
 [Repairing the Airship (10)](https://retroachievements.org/achievement/6155)**  
 _Witness a hidden scene that reveals Setzer's past_
@@ -635,8 +693,10 @@ _Obtain all of the clock elixirs_
 ![image](https://user-images.githubusercontent.com/120497130/224177286-6d9e4ef8-545b-4fe4-a671-abdeac6e0d9c.png)
 * Narshe - Elder's House  
 ![image](https://user-images.githubusercontent.com/120497130/224185275-526b4721-35f0-4111-b3eb-942dc3660440.png)
-* Kohlingen - Rachel's House
-* Albrook - Cafe
+* Kohlingen - Rachel's House  
+![image](https://user-images.githubusercontent.com/120497130/224214195-54de9a58-688b-417c-b22b-4eac891c2784.png)
+* Albrook - Cafe  
+![image](https://user-images.githubusercontent.com/120497130/224228616-0673e838-31b3-4210-ba3f-edcff2f4e2c7.png)
 * Doma Castle - West Sleeping Quarters
 
 **![image](https://user-images.githubusercontent.com/120497130/223482334-486361bb-322e-4567-971b-8a76d0753ec7.png) [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440)**  
@@ -657,6 +717,17 @@ _Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
 **![image](https://user-images.githubusercontent.com/120497130/223579129-bbb3309e-4e13-478e-8528-6f97b934fb6e.png)
 [Dragon Slayer (10)](https://retroachievements.org/achievement/6534)**  
 _Defeat the eight legendary dragons_
+
+* Storm Dragon - Mt. Zozo
+* Ice Dragon - Narshe
+* Earth Dragon - Opera House
+* Holy Dragon - Cultists' Tower
+* Blue Dragon - Ancient Castle
+* Red Dragon - Phoenix Cave
+* Gold Dragon - Kefka's Tower
+* Skull Dragon - Kefka's Tower
+
+In addition to unlocking the achievement, defeating all 8 dragons will grant the Crusader magicite.
 
 **![image](https://user-images.githubusercontent.com/120497130/223579143-6794560c-df5e-4447-a269-fe936695ae29.png)
 [Life, Crystalized (25)](https://retroachievements.org/achievement/6618)**  
