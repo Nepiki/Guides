@@ -423,23 +423,64 @@ Successfully complete the Opera House event on the first attempt.  If you get ki
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
+|Wyvern|
+|WeedFeeder|Grasswyrm|
+|Ralph|Don|
+|Chickenlip|Litwor Chicken|Forest Only|
+|Joker|
+|Bug||Desert Only|
 
 ✅**Elixir-in-a-clock 7 out of 8**  
-An elixir is hidden in the Albrook Cafe clock above the relic shop.  
+An elixir is hidden in the Albrook Cafe clock above the relic shop.  Albrook is located right next to the airship.  
 ![image](https://user-images.githubusercontent.com/120497130/224228616-0673e838-31b3-4210-ba3f-edcff2f4e2c7.png)
+
+### Vector & Magitek Factory
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Commando|Sergeant|
+|Garm|Belzecue|
+|Pipsqueak|Onion Knight|
+|Proto Armor||No Rage|
+|Flan||Near Ifrit & Shiva|
 
 **![image](https://user-images.githubusercontent.com/120497130/223579153-741f103e-9df3-46a2-b372-94b4c68e4eda.png)
 [None Shall Pass (3)](https://retroachievements.org/achievement/6002)**  
 _Have at least one run-in with the Guardian before the final dungeon_
 
+Before entering the Magitek Factory, take the stairs in the north of town all the way to the Imperial Palace.  You will need to avoid the guards in order to reach the palace.  You cannot defeat the Guardian, so run away once you encounter it.
+
 **![image](https://user-images.githubusercontent.com/120497130/223472137-d577748b-d9d7-4a5e-afbb-0c439b82b3fb.png) [Pacifism in the Pit (5)](https://retroachievements.org/achievement/6015)**  
 _Find a way to escape the battle with Ifrit and Shiva_
+
+There is a save point in the door north of Ifrit, which could be helpful for reattempting this achievement.  Attack Ifrit 5 times to force him to swap to Shiva.  Start running away after the 5th hit and you will have a chance to run away while they swap.  Once you run away, the battle will be considered successful.
+
+✅**Magicite 6 out of 26**  
+After defeating Ifrit and Shiva, pick up their magicite.  Ifrit is technically missable, so be sure to get him before leaving the room.
+
+### Magitek Research Facility
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Trapper||Staircase Only|
+|General|
+|Rhinox|Destroyer|
+|Gobbler|Lenergia|
+|Mag Roader (Red)||Mine Cart Only|
+|Mag Roader (Purple)||Mine Cart Only|
+|Chaser||After Mine Cart Only|
+
+✅**Magicite 12 out of 26**  
+After defeating Number 024, you will receive Unicorn, Maduin, Shoat (Catoblepas), Phantom, Carbunkl (Carbuncle), and Bismarck.
 
 **![image](https://user-images.githubusercontent.com/120497130/223472265-7fb01411-4424-46bd-8e8e-5c8292884261.png) [The Tempest (3)](https://retroachievements.org/achievement/6016)**  
 _Steal a Tempest from Number 128_
 
+During the mine cart ride, you will encounter Number 128.  This is a tough item to steal, however, you can double your chances by equipping the Thief Gloves (Brigand Gloves) on Locke prior to the fight if you obtained them in Zozo.
+
 **![image](https://user-images.githubusercontent.com/120497130/223472375-68ea5cb5-06a3-4273-8bca-41f34b2b724d.png) [The World is Yours (2)](https://retroachievements.org/achievement/6001)**  
 _Pilot the Airship for the first time_
+
+After escaping from Vector, you will have have free access to the Blackjack airship for the first time!
 
 **![image](https://user-images.githubusercontent.com/120497130/223472549-46f25656-c868-43bd-a7c6-60a1f84cf565.png) [Hanging by a Pom-pom (2)](https://retroachievements.org/achievement/6025)**  
 _Choose to rescue Mog_
