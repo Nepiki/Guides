@@ -28,7 +28,7 @@ Often listed as one of the greatest RPGs of all time, Final Fantasy 6 is the sto
 
 Several achievements that require specific actions, such as not opening a chest or purchasing an item, but the achievement does not unlock until additional actions are taken much later in the game.  These are noted with 🚩 in the guide, but here is a summary:
 * 🚩 Do not open any chests in South Figaro Cave in the World of Balance. 🚩
-* 🚩 During Terra's Scenario, do not open the chest containing Rune Edge in the Narshe Caves. 🚩
+* 🚩 Do not open the chest containing Rune Edge in the Moogle Cave of the Narshe Mines. 🚩
 * 🚩 Do not purchase both Magicite in the Jidoor Auction House until you win the Zephyr Cloak in the World of Ruin. 🚩
 
 Two achievements are mutually exclusive depending on choices made.  Most of these occur late in the game, so creating a separate save file at the split is recommended.  
@@ -227,7 +227,7 @@ _Make Banon ride a chocobo_
 
 Before entering Narshe, take the party south and slightly west of where Figaro Castle was.  Enter the forest and look for a Chocobo hut.  Change Banon to the party leader and hire a chocobo.  Enjoy the bizarre show.
 
-🚩 **Do not open the chest containing Rune Edge in the Narshe Caves.** 🚩  
+🚩 **Do not open the chest containing Rune Edge in the Moogle Cave of the Narshe Mines.** 🚩  
 This chest needs to be opened in the WoR to earn [Kuku's Treasures (5)](https://retroachievements.org/achievement/5818).
 
 ### Sabin's Scenario
@@ -477,16 +477,70 @@ _Steal a Tempest from Number 128_
 
 During the mine cart ride, you will encounter Number 128.  This is a tough item to steal, however, you can double your chances by equipping the Thief Gloves (Brigand Gloves) on Locke prior to the fight if you obtained them in Zozo.
 
+### Airship Exploration
+
+After escaping from Vector, you will have have free access to the Blackjack airship for the first time! With the airship, the game opens up significantly.  Party members can be changed by talking to them on the airship.  We now have an opportunity to gather some collectibles.  Head to Narshe first to pick up a new party member and a cutscene.
+
 **![image](https://user-images.githubusercontent.com/120497130/223472375-68ea5cb5-06a3-4273-8bca-41f34b2b724d.png) [The World is Yours (2)](https://retroachievements.org/achievement/6001)**  
 _Pilot the Airship for the first time_
 
-After escaping from Vector, you will have have free access to the Blackjack airship for the first time!
+Unlocks as soon as you take control of the Blackjack.
 
 **![image](https://user-images.githubusercontent.com/120497130/223472549-46f25656-c868-43bd-a7c6-60a1f84cf565.png) [Hanging by a Pom-pom (2)](https://retroachievements.org/achievement/6025)**  
 _Choose to rescue Mog_
 
+After the cutscene in Narshe, head to the warehouse on the south east side of the town.  You'll encounter Pickpocket who takes the contents of the chest and runs outside.  Follow him outside and up the path that Terra took in the Magitek armor at the beginning of the game.  Once inside, take the east path and continue to chase Pickpocket.  Once you catch up with him, choose to save Mog by talking to him.  You will have other opportunities to obtain a Gold Hairpin later.
+
+✅**Mog Dances 7 out of 8**
+|![image](https://user-images.githubusercontent.com/120497130/224417209-7eb3ce46-4907-4632-bef5-9452a96a4e94.png) Dance|Alt Name|Battlefield Type|
+|--|--|--|
+|Wing Song|Wind Rhapsody|Grassland|
+|Forest Suite|Forest Nocturne|Forest|
+|Desert Aria|Desert Lullaby|Desert|
+|Love Sonata|Love Serenade|City|
+|Earth Blues||Mountains|
+|Dusk Requiem|Twilight Requiem|Cave|
+|Water Rondo|Water Harmony|Water|
+
+Mog learns dances by winning a battle in areas with unique battle background.  Mog may already know Dusk Requiem (Cave) from saving Terra at the beginning of the game.  Grassland, Forest and Desert can all be obtained right around Figaro Castle.  Mt Kolts is a great location to get Mountains and Zozo is great for City.
+
+To learn Water Rondo, Mog must be taken to the Lethe River or Serpent's Trench.  The quicker option is Serpent's Trench.  
+* Park the airship outside Crescent Cave on the Veldt
+* Go through the cave and learn Water Rondo in the Serpent's Trench
+* Do not get on the ship to South Figaro or you will need to go through the Lethe River sequence again
+* Hire a Chocobo in Nikeah and ride it to Baron Falls
+* Jump off Baron Falls to return to the Veldt and your airship
+
+All Dances can be learned in the WoR EXCEPT Water Rondo, so be sure to get this as early as possible.  The final dance will be learned in the World of Ruin.
+
+✅**Magicite 13 out of 26**  
+Travel to Tzen at the northern tip of the Southern Continent.  In the north east corner of town, a thief will sell you Sraphim (Seraph) for 3000gp.
+
+✅**Magicite 14 out of 26**  
+Travel to Jidoor on the Western continent near Zozo and the Opera House.  Participate in the auction until Golem is available for purchase.  Outbid the competitors to acquire this magicite.  If you fail to outbid, it will show up in the Auction House again.  
+🚩 **Do not purchase both Golem and ZoneSeek (Zona Seeker) in the Auction House.** 🚩  
+Purchasing both will lock out [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440).  We will get the other magicite later.  Feel free to purchase the Cherub Down (Angel Wings) and Cure Ring (Angel Ring).
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Grenade||Forest west of Veldt|
+|Baskervor|Briareus|East of Veldt|
+|Chimera||East of Vedlt - Forest Only|
+|Celapher|Devourer|East of Vedlt|
+|Intangir||Triangle Island|
+
+Triangle Island is located in the north west corner of the map.  Intangir is invisible and asleep at the start of the fight, so simply run from this fight to add it to the Veldt for now.  Alternatively, you can attempt to beat him at this time as well.
+
 **![image](https://user-images.githubusercontent.com/120497130/223472627-811613a0-549d-4b6f-a27a-17b12273ef74.png) [Intangible! (10)](https://retroachievements.org/achievement/6024)**  
 _Defeat Intangir in his homeland, no instant death moves, no dances_
+
+Intangir is the toughest boss in the World of Balance, but he has some gimmicks that can make this easy with enough patience.  The enemy will start invisible and asleep at the start of battle.  When he is awoken with magic attacks, he will cast Meteo on all party members and promptly go back to sleep.  The good news is that magic against invisible enemies has a 100% hit rate, meaning we can use spells that normally are hard to hit, such as Stop.
+
+The standard method is to learn Stop from Golem and cast it on Intangir to wake him up and immediately prevent his attacks.  Hit him with your best non-elemental abilities (he will absorb all elemental attacks) and try to survive his Meteo attack if stop wears off.  He has 32000 HP, so this can be a long battle.  Using Gau's Rhinox (Destroyer) rage can be helpful as it will cast Life 3 on party memebers, reviving them if they die.  While the boss is asleep, you can heal up your party and repeat.  Keep in mind that the enemy will run away if he has less than 1280 hp when it wakes up.  Stop will keep him from fleeing, but be sure to burst down his remaining health before it wears off.
+
+An easier strategy that can also be used by low level groups involves using Demi and Life 3.  Use the Rhinox (Destroyer) rage to cast Life 3 on a few party members.  Then have a party member cast Demi for a whopping 9999 damage.  Intangir will wake up and kill the party but they will be revived with Life 3.  Repeat this until Demi takes off between 2500 and and 1500 health.  On the next round, instead of casting Demi, cast Stop and burn down the rest of his health with your party.  If successful, he will cast 1 last Meteo before dying.
+
+Remember for the achievement, you cannot use any Dances or instant death moves, including Edgar's chainsaw.
 
 **![image](https://user-images.githubusercontent.com/120497130/223472768-7bb42c14-f27d-42f5-9a07-77a8a8c3fc3a.png) [Chivalry is Undead (10)](https://retroachievements.org/achievement/6041)**  
 _Have Zombie Cyan escort Terra through 'The Cave to the Sealed Gate'_
@@ -700,10 +754,6 @@ _Find the Air Anchor in the Fanatics' Tower_
 _Learn all Lores_
 
 All Lore can be acquired in the WoR.  Strago's final Lore is obtained from Doom during the final boss sequence.  In order for Strago to fight against Doom, he must be in the first or third party when assaulting Kefka's Tower.  At the end of the switch puzzle where all 3 parties come together, Strago's party must be on the left side switch.
-
-**![image](https://user-images.githubusercontent.com/120497130/223578916-72af4e95-370d-4fab-a85d-54c582560ed3.png)
-[Beastlore I (5)](https://retroachievements.org/achievement/6423)**  
-_Learn the Tier 1 Rages_
 
 **![image](https://user-images.githubusercontent.com/120497130/223578931-22fd0280-ac57-4da0-ae40-d4559f74530c.png)
 [Beastlore II (5)](https://retroachievements.org/achievement/6197)**  
