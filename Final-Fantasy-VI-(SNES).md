@@ -663,7 +663,7 @@ All elixirs can be obtained once the Floating Continent is created.  If you miss
 * Doma Castle - West Sleeping Quarters  
 ![image](https://user-images.githubusercontent.com/120497130/224524973-57032ae1-d2b8-4e7c-9eb9-76148e31bf00.png)
 
-🚩 **For LLG runs, no member of your party should be level 25 or higher in order to be eligible for the LLG achievement. 🚩**  
+🚩 **For LLG runs, no member of your party should be level 25 or higher at the end of the World of Balance.** 🚩    
 This is your last opportunity to learn magic and earn GP on the Veldt without earning exp for a while.  In particular, Celes, Edgar, and Setzer should have useful magic such as Cure and Life.  You will also want roughly 150k GP for an upcoming achievement.
 
 ⚠️ Before leaving the World of Balance, double check all achievements in this section to see if any have been missed.  
@@ -675,7 +675,7 @@ This is your last opportunity to learn magic and earn GP on the Veldt without ea
 
 ⚠️ **Add Locke to your party before heading to the Floating Continent to unlock an upcoming achievement.**
 
-*  Prior to facing AtmaWeapon, make a separate save file.  This will be used for an exclusive achievement based on an upcoming decision. 🚩
+🚩 **Prior to facing AtmaWeapon, make a separate save file.  This will be used for an exclusive achievement based on an upcoming decision.** 🚩
 
 **![image](https://user-images.githubusercontent.com/120497130/223473160-15ca1dd8-eb77-4008-a515-a66037b10102.png) [The Decisive Battle (10)](https://retroachievements.org/achievement/6255)**  
 _Steal a Ribbon from and defeat AtmaWeapon, no instant death moves_
