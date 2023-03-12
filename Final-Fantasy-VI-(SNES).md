@@ -663,7 +663,7 @@ All elixirs can be obtained once the Floating Continent is created.  If you miss
 * Doma Castle - West Sleeping Quarters  
 ![image](https://user-images.githubusercontent.com/120497130/224524973-57032ae1-d2b8-4e7c-9eb9-76148e31bf00.png)
 
-🚩 **For LLG runs, no member of your party should be level 25 or higher at the end of the World of Balance.** 🚩    
+🚩 **For LLG runs, all members of your party should be level 25 or lower at the end of the World of Balance.** 🚩    
 This is your last opportunity to learn magic and earn GP on the Veldt without earning exp for a while.  In particular, Celes, Edgar, and Setzer should have useful magic such as Cure and Life.  You will also want roughly 150k GP for an upcoming achievement.
 
 ⚠️ Before leaving the World of Balance, double check all achievements in this section to see if any have been missed.  
