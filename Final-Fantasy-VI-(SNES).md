@@ -31,6 +31,7 @@ Several achievements that require specific actions, such as not opening a chest 
 * 🚩 Do not open the chest containing Rune Edge in the Moogle Cave of the Narshe Mines. 🚩
 * 🚩 Do not purchase both Magicite in the Jidoor Auction House until you win the Zephyr Cloak in the World of Ruin. 🚩
 * 🚩 Rescue Mog in the World of Balance and learn the Water Rondo dance in Serpent Trench. 🚩
+* 🚩 Make a separate save file on the Floating Continent. 🚩
 
 Two achievements are mutually exclusive depending on choices made.  Most of these occur late in the game, so creating a separate save file at the split is recommended.  
 * [Beyond the Shadows I (10)](https://retroachievements.org/achievement/5653) and [Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)  
@@ -662,9 +663,10 @@ All elixirs can be obtained once the Floating Continent is created.  If you miss
 * Doma Castle - West Sleeping Quarters  
 ![image](https://user-images.githubusercontent.com/120497130/224524973-57032ae1-d2b8-4e7c-9eb9-76148e31bf00.png)
 
-⚠️ **For LLG runs, this is your last opportunity to learn magic and earn GP on the Veldt without earning exp for a while.  In particular, Celes, Edgar, and Setzer should have useful magic such as Cure and Life.  You will also want roughly 150k GP for an upcoming achievement.**
+🚩 **For LLG runs, no member of your party should be level 25 or higher in order to be eligible for the LLG achievement. 🚩**  
+This is your last opportunity to learn magic and earn GP on the Veldt without earning exp for a while.  In particular, Celes, Edgar, and Setzer should have useful magic such as Cure and Life.  You will also want roughly 150k GP for an upcoming achievement.
 
-🚩 Before leaving the World of Balance, double check all achievements in this section to see if any have been missed.  
+⚠️ Before leaving the World of Balance, double check all achievements in this section to see if any have been missed.  
 * Make sure Mog knows Water Rondo
 * Defeat the Intangir on Triangle Island.
 * Find any Veldt encounters that you missed (some may be inaccessible now)
@@ -672,6 +674,8 @@ All elixirs can be obtained once the Floating Continent is created.  If you miss
 ### Floating Continent
 
 ⚠️ **Add Locke to your party before heading to the Floating Continent to unlock an upcoming achievement.**
+
+*  Prior to facing AtmaWeapon, make a separate save file.  This will be used for an exclusive achievement based on an upcoming decision. 🚩
 
 **![image](https://user-images.githubusercontent.com/120497130/223473160-15ca1dd8-eb77-4008-a515-a66037b10102.png) [The Decisive Battle (10)](https://retroachievements.org/achievement/6255)**  
 _Steal a Ribbon from and defeat AtmaWeapon, no instant death moves_
