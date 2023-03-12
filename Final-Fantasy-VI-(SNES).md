@@ -44,8 +44,9 @@ Create a separate save before choosing which form Ragnarok should take in Narshe
 _Clear the game with no character exceeding level 30_
 
 While doing a single playthrough is possible for this set, many people will prefer to do this achievement on a 2nd playthrough.  That said, most LLG guides for Final Fantasy 6 aim for level 10 or lower, so this is quite lenient compared to what is possible.  Here are some tips that can help:
-* Run away from as many battles as you can and aim to leave the WoB with no character level 25 or higher.  
-* Put all characters in the back row to reduce damage while running away.  
+* Run away from as many battles as you can and aim to leave the WoB with all characters level 25 or lower.
+* Most bosses do not grant exp.  Some exp is unavoidable such as the Mine Cart and Air Force sequence.
+* Put all characters in the back row to reduce damage while running away. Magic and special commands like Throw and Blitz will still do full damage. 
 * The evade stat is bugged and uses the magic evade value instead. For example, Priest's Miter gives +10% to both Magic and Physical Evasion instead of only Magic.  
 * Obtain the Genji Glove by rejecting Banon's offer 3 times.  Buy two Morning Stars and equip them on Locke for big damage. 
 
@@ -414,12 +415,12 @@ Just flip the left switches before the rightmost switch to unlock this achieveme
 **![image](https://user-images.githubusercontent.com/120497130/223471872-2fb8a189-0969-449c-9a20-98bc907a7f0c.png) [Rat Race (10)](https://retroachievements.org/achievement/5987)**  
 _Rats in the rafters - kill as many as you can!_
 
-While racing to stop Ultros, kill 23 rats before the timer runs out.  Combining this achievement with the time waste achievement may not leave enough room to stop Ultros in time.  If this happens, reload your save to ensure a flawless opera performance.
+While racing to stop Ultros, kill 23 rats before the timer runs out.  There are not enough rats in the encounters to reach 23, so leave some of the gold rats alive.  When the grey rats are killed, the gold rats will summon more.  Combining this achievement with the time waste achievement may not leave enough room to stop Ultros in time.  If this happens, reload your save to ensure a flawless opera performance.
 
 **![image](https://user-images.githubusercontent.com/120497130/223471998-028387da-ae60-4daf-9320-d0223c402385.png) [Encore! (5)](https://retroachievements.org/achievement/5935)**  
 _Flawless performance on opening night at the Opera House_
 
-Successfully complete the Opera House event on the first attempt.  If you get kicked out and told to try again, reload your save.  This will unlock when Ultros is defeated.
+Successfully complete the Opera House event on the first attempt.  If you get kicked out and told to try again, reload your save.  This will unlock when Setzer appears on the stage.
 
 ### Southern Continent
 
@@ -566,7 +567,7 @@ As a zombie, Cyan will automatically attack anyone in battle, including Terra.  
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
 |Mega Armor||Does not appear on the Veldt|
-|Sp Forces|Imperial Elite|
+|Sp Forces|Imperial Elite|Banquet Only|
 
 **![image](https://user-images.githubusercontent.com/120497130/223472880-1c1c7cf1-9160-4d7d-a10d-5d4e0d6221ab.png) [Master Philanthropist (10)](https://retroachievements.org/achievement/6154)**  
 _Max out Emperor Gestahl's favor during the banquet_
@@ -663,8 +664,8 @@ All elixirs can be obtained once the Floating Continent is created.  If you miss
 * Doma Castle - West Sleeping Quarters  
 ![image](https://user-images.githubusercontent.com/120497130/224524973-57032ae1-d2b8-4e7c-9eb9-76148e31bf00.png)
 
-🚩 **For LLG runs, all members of your party should be level 25 or lower at the end of the World of Balance.** 🚩    
-This is your last opportunity to learn magic and earn GP on the Veldt without earning exp for a while.  In particular, Celes, Edgar, and Setzer should have useful magic such as Cure and Life.  You will also want roughly 150k GP for an upcoming achievement.
+🚩 **For LLG runs, all members of your party should be level 24 or lower at the end of the World of Balance.** 🚩    
+This is your last opportunity to learn magic and earn GP on the Veldt without earning exp for a while.  In particular, Celes, Edgar, and Setzer should have useful magic such as Cure and Life.  You will also want roughly 150k GP for an upcoming achievement.  Traveling to the floating continent has some unavoidable exp encounters, so plan accordingly.
 
 ⚠️ Before leaving the World of Balance, double check all achievements in this section to see if any have been missed.  
 * Make sure Mog knows Water Rondo
@@ -675,7 +676,7 @@ This is your last opportunity to learn magic and earn GP on the Veldt without ea
 
 ⚠️ **Add Locke to your party before heading to the Floating Continent to unlock an upcoming achievement.**
 
-🚩 **Prior to facing AtmaWeapon, make a separate save file.  This will be used for an exclusive achievement based on an upcoming decision.** 🚩
+🚩 **Prior to facing AtmaWeapon, make a separate save file by going south of the platform that led you back to the Blackjack.  This will be used for an exclusive achievement based on an upcoming decision.** 🚩
 
 **![image](https://user-images.githubusercontent.com/120497130/223473160-15ca1dd8-eb77-4008-a515-a66037b10102.png) [The Decisive Battle (10)](https://retroachievements.org/achievement/6255)**  
 _Steal a Ribbon from and defeat AtmaWeapon, no instant death moves_
