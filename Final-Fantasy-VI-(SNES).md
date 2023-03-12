@@ -30,6 +30,7 @@ Several achievements that require specific actions, such as not opening a chest 
 * 🚩 Do not open any chests in South Figaro Cave in the World of Balance. 🚩
 * 🚩 Do not open the chest containing Rune Edge in the Moogle Cave of the Narshe Mines. 🚩
 * 🚩 Do not purchase both Magicite in the Jidoor Auction House until you win the Zephyr Cloak in the World of Ruin. 🚩
+* 🚩 Rescue Mog in the World of Balance and learn the Water Rondo dance in Serpent Trench. 🚩
 
 Two achievements are mutually exclusive depending on choices made.  Most of these occur late in the game, so creating a separate save file at the split is recommended.  
 * [Beyond the Shadows I (10)](https://retroachievements.org/achievement/5653) and [Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)  
@@ -529,7 +530,7 @@ Purchasing both will lock out [Patron Auctioneer (10)](https://retroachievements
 |Celapher|Devourer|East of Vedlt|
 |Intangir||Triangle Island|
 
-Triangle Island is located in the north west corner of the map.  Intangir is invisible and asleep at the start of the fight, so simply run from this fight to add it to the Veldt for now.  Alternatively, you can attempt to beat him at this time as well.
+Triangle Island is located in the north west corner of the map.  Intangir is invisible and asleep at the start of the fight, so simply run from this fight to add it to the Veldt for now.  Alternatively, you can attempt to beat him at this time as well.  This fight will be available until you move into the World of Ruin at the end of the Floating Continent.
 
 **![image](https://user-images.githubusercontent.com/120497130/223472627-811613a0-549d-4b6f-a27a-17b12273ef74.png) [Intangible! (10)](https://retroachievements.org/achievement/6024)**  
 _Defeat Intangir in his homeland, no instant death moves, no dances_
@@ -542,17 +543,135 @@ An easier strategy that can also be used by low level groups involves using Demi
 
 Remember for the achievement, you cannot use any Dances or instant death moves, including Edgar's chainsaw.
 
+### Cave of the Sealed Gate
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Apparite|Provoker|Caves Only|
+|Lich||Caves Only|
+|Coelecite|Antares|Caves Only|
+|Zombone|Zombie Dragon|Lava Only|
+|Ing|Outcast|Lava Only|
+
 **![image](https://user-images.githubusercontent.com/120497130/223472768-7bb42c14-f27d-42f5-9a07-77a8a8c3fc3a.png) [Chivalry is Undead (10)](https://retroachievements.org/achievement/6041)**  
 _Have Zombie Cyan escort Terra through 'The Cave to the Sealed Gate'_
+
+Cyan and Terra must be the only party members for this achievement.  It can also help to have Terra learn Vanish to prevent Cyan from hitting her during battle.  Head to the western continent near Figaro Castle.  The desert around Figaro contains FossilFang (Fossil Dragon).  Allow the dragon to hit Cyan with Bone, which will turn him into a zombie.  With this prep complete, head to the Imperial Base on the southern continent and through to the Cave of the Sealed Gate.
+
+As a zombie, Cyan will automatically attack anyone in battle, including Terra.  It may be best to just run away from battles here.  They will still count for the Veldt and you reduce the risk of dying.  You can save inside the cave, but if you die you will need to return to the beginning of the cave in order to make the achievement unlock.  Once you successfully make it to the Esper gate, this achievement will unlock.
+
+### Imperial Palace
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Mega Armor||Does not appear on the Veldt|
+|Sp Forces|Imperial Elite|
 
 **![image](https://user-images.githubusercontent.com/120497130/223472880-1c1c7cf1-9160-4d7d-a10d-5d4e0d6221ab.png) [Master Philanthropist (10)](https://retroachievements.org/achievement/6154)**  
 _Max out Emperor Gestahl's favor during the banquet_
 
+Prior to entering the Imperial Palace in Vector, equip a party member with SprintShoes for faster movement speed.  After speaking with the emperor, you will have 4 minutes to speak with 24 imperial soldiers.  Start by heading all the way south to the entrance of the palace and then moving around in a clockwise direction.  4 of the soldiers will attack you.  Do not run from these fights, otherwise it will not grant the points you need (even though it counts as having talked to that soldier).  Do not talk to Kefka in his prison unless you have already found all 24 soldiers since it is a lengthy dialogue.
+
+At the banquet, answer with the following options:  
+* To our hometowns...
+* Leave him in jail...
+* That was inexcusable.
+* Celes is one of us!
+* Next, ask each question once, but do not repeat any questions.  Remember the first question you asked.
+> Why'd you start the war?  
+> Why do you want peace now?  
+> Why'd we have to talk to your men?  
+* Yes, the Espers have gone too far.
+* Reply with the first question you asked.
+* Yes, let's take a break.
+* Fight the soldiers near the emperor during the break.  After defeating them, return to your seat.
+* That your war's truly over.
+* Yes
+
+If you are successful, the achievement will unlock as soon as you gain control of your character.  If it does not, reload your save and try again.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578683-8bac8e97-ec84-4ca2-9a3b-9f569b2b057a.png)
+[Repairing the Airship (10)](https://retroachievements.org/achievement/6155)**  
+_Witness a hidden scene that reveals Setzer's past_
+
+After the banquet, return to the Blackjack located on the southwest part of the continent.  Enter the engine room for a hidden scene with Setzer.
+
+### Thamasa
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Balloon|
+
 **![image](https://user-images.githubusercontent.com/120497130/223472976-104041aa-1647-426e-be0f-1558dc9e0ec4.png) [Psychic Flame (5)](https://retroachievements.org/achievement/6156)**  
 _Defeat FireEater by draining away its Magic Points_
 
+FireEater has 480 MP.  In order to drain MP, Terra or Locke must know Rasp and Osmose, both learned from Shiva.  Start by casting Rasp on the boss to drain large amount of MP.  Once reflect is put up, use Osmose since it ignores reflect.  Osmose will only drain as much MP as the user is missing.  Once it is all drained, the battle ends and the achievement will unlock.
+
+### Esper Caves
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Adamanchyt|Adamankary|Caves Only|
+|Slurm|Bonnacon|Caves Only|
+|Mandrake||Outside Only|
+|Abolisher|Venobennu|Outside Only|
+|Insecare|Land Grillion|Outside Only|
+
+**![image](https://user-images.githubusercontent.com/120497130/223578558-83ac8615-ced8-4675-bae1-e689676b1c3b.png)
+[OMG FURRIES! (2)](https://retroachievements.org/achievement/6220)**  
+_Have Strago and Relm wear Tabby, Chocobo, Moogle, Nutkin, or Behemoth suits_
+
+After the save point in the Esper Caves, fall down the north trap door.  Follow the paths north and west to find a Chocobo Suit and a Tabby Suit.  Equip them on Strago and Relm to earn this achievement.
+
 **![image](https://user-images.githubusercontent.com/120497130/223473117-bc7fb957-6dfd-4cff-8ba6-5c9ff529d014.png) [And Finally ... Peace (5)](https://retroachievements.org/achievement/6198)**  
 _A happy ending_
+
+This achievement will unlock automatically after the scenes in the Esper Caves.
+
+### World of Balance Cleanup
+
+Before heading to the Floating Continent, there are a couple of tasks to wrap up.
+
+✅**Elixir-in-a-clock 8 out of 8**  
+Head to Doma Castle.  The guards are now gone, so we can search the castle for treasure.  One of the rooms has an alarm clock on top of a dresser.  Interact with it to get the final elixir.  
+![image](https://user-images.githubusercontent.com/120497130/224524973-57032ae1-d2b8-4e7c-9eb9-76148e31bf00.png)
+
+**![image](https://user-images.githubusercontent.com/120497130/223579097-f9a31991-4ef4-42b2-86a7-0310aff0d814.png)
+[Elixirs of Life (10)](https://retroachievements.org/achievement/118693)**  
+_Obtain all of the clock elixirs_
+
+All elixirs can be obtained once the Floating Continent is created.  If you missed any, return to these locations to find them.
+
+* Narshe - Old Man's (Arvis) House  
+![image](https://user-images.githubusercontent.com/120497130/224184472-b61ae00b-ced7-4e04-baac-5f3d5bbcb754.png)  
+* South Figaro - Hidden in a secret passage behind the large mansion in the top left corner of town.  Locke runs through this room during his scenario.  
+![image](https://user-images.githubusercontent.com/120497130/223548252-ec2a92b4-2b68-4a1f-b912-e9728a7084bf.png)
+![image](https://user-images.githubusercontent.com/120497130/223548049-0ff75542-6b2e-4c77-a055-d72dc437a467.png)
+![image](https://user-images.githubusercontent.com/120497130/223548446-f84a841a-7f44-4a64-86ab-ebc7e056e17d.png)
+![image](https://user-images.githubusercontent.com/120497130/223547771-26346b78-df00-40f8-9c0f-3d615ed49ff1.png)
+* Mobliz - Post Office  
+![image](https://user-images.githubusercontent.com/120497130/223878076-a4e33e8c-981e-4688-95cc-005b9e3083d1.png)
+* Nikeah - Inn  
+![image](https://user-images.githubusercontent.com/120497130/224177286-6d9e4ef8-545b-4fe4-a671-abdeac6e0d9c.png)
+* Narshe - Elder's House  
+![image](https://user-images.githubusercontent.com/120497130/224185275-526b4721-35f0-4111-b3eb-942dc3660440.png)
+* Kohlingen - Rachel's House  
+![image](https://user-images.githubusercontent.com/120497130/224214195-54de9a58-688b-417c-b22b-4eac891c2784.png)
+* Albrook - Cafe  
+![image](https://user-images.githubusercontent.com/120497130/224228616-0673e838-31b3-4210-ba3f-edcff2f4e2c7.png)
+* Doma Castle - West Sleeping Quarters  
+![image](https://user-images.githubusercontent.com/120497130/224524973-57032ae1-d2b8-4e7c-9eb9-76148e31bf00.png)
+
+⚠️ **For LLG runs, this is your last opportunity to learn magic and earn GP on the Veldt without earning exp for a while.  In particular, Celes, Edgar, and Setzer should have useful magic such as Cure and Life.  You will also want roughly 150k GP for an upcoming achievement.**
+
+🚩 Before leaving the World of Balance, double check all achievements in this section to see if any have been missed.  
+* Make sure Mog knows Water Rondo
+* Defeat the Intangir on Triangle Island.
+* Find any Veldt encounters that you missed (some may be inaccessible now)
+
+### Floating Continent
+
+⚠️ **Add Locke to your party before heading to the Floating Continent to unlock an upcoming achievement.**
 
 **![image](https://user-images.githubusercontent.com/120497130/223473160-15ca1dd8-eb77-4008-a515-a66037b10102.png) [The Decisive Battle (10)](https://retroachievements.org/achievement/6255)**  
 _Steal a Ribbon from and defeat AtmaWeapon, no instant death moves_
@@ -676,10 +795,6 @@ Tactics for each boss.
 
 ### Hidden Scenes
 
-**![image](https://user-images.githubusercontent.com/120497130/223578683-8bac8e97-ec84-4ca2-9a3b-9f569b2b057a.png)
-[Repairing the Airship (10)](https://retroachievements.org/achievement/6155)**  
-_Witness a hidden scene that reveals Setzer's past_
-
 **![image](https://user-images.githubusercontent.com/120497130/223578706-4fa30a9f-a9ec-44e2-8f62-1437086f0d88.png)
 [What is a Man? (10)](https://retroachievements.org/achievement/7286)**  
 _Witness a hidden scene that involves Gau and his father_
@@ -767,29 +882,6 @@ _Learn the Tier 5 and 6 Rages_
 [Beastlord (25)](https://retroachievements.org/achievement/5432)**  
 _Learn the rarest, most elusive Rages_
 
-**![image](https://user-images.githubusercontent.com/120497130/223579097-f9a31991-4ef4-42b2-86a7-0310aff0d814.png)
-[Elixirs of Life (10)](https://retroachievements.org/achievement/118693)**  
-_Obtain all of the clock elixirs_
-
-* Narshe - Old Man's (Arvis) House  
-![image](https://user-images.githubusercontent.com/120497130/224184472-b61ae00b-ced7-4e04-baac-5f3d5bbcb754.png)  
-* South Figaro - Hidden in a secret passage behind the large mansion in the top left corner of town.  Locke runs through this room during his scenario.  
-![image](https://user-images.githubusercontent.com/120497130/223548252-ec2a92b4-2b68-4a1f-b912-e9728a7084bf.png)
-![image](https://user-images.githubusercontent.com/120497130/223548049-0ff75542-6b2e-4c77-a055-d72dc437a467.png)
-![image](https://user-images.githubusercontent.com/120497130/223548446-f84a841a-7f44-4a64-86ab-ebc7e056e17d.png)
-![image](https://user-images.githubusercontent.com/120497130/223547771-26346b78-df00-40f8-9c0f-3d615ed49ff1.png)
-* Mobliz - Post Office  
-![image](https://user-images.githubusercontent.com/120497130/223878076-a4e33e8c-981e-4688-95cc-005b9e3083d1.png)
-* Nikeah - Inn  
-![image](https://user-images.githubusercontent.com/120497130/224177286-6d9e4ef8-545b-4fe4-a671-abdeac6e0d9c.png)
-* Narshe - Elder's House  
-![image](https://user-images.githubusercontent.com/120497130/224185275-526b4721-35f0-4111-b3eb-942dc3660440.png)
-* Kohlingen - Rachel's House  
-![image](https://user-images.githubusercontent.com/120497130/224214195-54de9a58-688b-417c-b22b-4eac891c2784.png)
-* Albrook - Cafe  
-![image](https://user-images.githubusercontent.com/120497130/224228616-0673e838-31b3-4210-ba3f-edcff2f4e2c7.png)
-* Doma Castle - West Sleeping Quarters
-
 **![image](https://user-images.githubusercontent.com/120497130/223482334-486361bb-322e-4567-971b-8a76d0753ec7.png) [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440)**  
 _Win all the exclusive items at the Auction House_
 
@@ -825,10 +917,6 @@ In addition to unlocking the achievement, defeating all 8 dragons will grant the
 _Collect all Magicite_
 
 ## Step 5: Miscellaneous | Total Points: XX
-
-**![image](https://user-images.githubusercontent.com/120497130/223578558-83ac8615-ced8-4675-bae1-e689676b1c3b.png)
-[OMG FURRIES! (2)](https://retroachievements.org/achievement/6220)**  
-_Have Strago and Relm wear Tabby, Chocobo, Moogle, Nutkin, or Behemoth suits_
 
 **![image](https://user-images.githubusercontent.com/120497130/223578575-0290038d-33c5-4758-84b3-cba9dd2b6158.png)
 [Mascot Relm (3)](https://retroachievements.org/achievement/6221)**  
