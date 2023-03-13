@@ -25,6 +25,7 @@ Often listed as one of the greatest RPGs of all time, Final Fantasy 6 is the sto
 # 3) Walkthrough
 
 ## Before you Begin
+This guide frequently references the World of Balance (WoB) and the World of Ruin (WoR).  These terms refer to the locations from the first and second half of the game respectively.
 
 Several achievements that require specific actions, such as not opening a chest or purchasing an item, but the achievement does not unlock until additional actions are taken much later in the game.  These are noted with 🚩 in the guide, but here is a summary:
 * 🚩 Do not open any chests in South Figaro Cave in the World of Balance. 🚩
@@ -676,7 +677,7 @@ This is your last opportunity to learn magic and earn GP on the Veldt without ea
 
 ⚠️ **Add Locke to your party before heading to the Floating Continent to unlock an upcoming achievement.**
 
-🚩 **Prior to facing AtmaWeapon, make a separate save file by going south of the platform that led you back to the Blackjack.  This will be used for an exclusive achievement based on an upcoming decision.** 🚩
+🚩 **Prior to facing AtmaWeapon, make two separate save files at the save point south of the platform that led to the Blackjack.  This will be used for an exclusive achievement based on an upcoming decision.** 🚩
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
@@ -710,11 +711,46 @@ This achievement will unlock automatically after you complete the World of Balan
 
 ## Step 2: World of Ruin | Total Points: XX
 
+### Solitary Island
+
+⚠️ As soon as you can control Celes, head out to the world map and save your game.  
+This next section is timed, so you want to be able to reload if you fail.  Remember to keep a separate save from the Floating Continent for killing Shadow later.
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|EarthGuard|Land Ray|Desert Only|
+|Peepers|
+|Black Drgn|Black Dragon|Desert Only|
+
+With only one party member, these rage encounters may be difficult to get.  Either run, or return and get these later when you have an airship.
+
 **![image](https://user-images.githubusercontent.com/120497130/223474516-39fad5dc-3145-4b33-a164-b143fabf2fcc.png) [The Cold Embrace of Death (5)](https://retroachievements.org/achievement/6279)**  
 _A dramatic moment_
 
+If you are unable to save Cid, this achievement will unlock during the following scene.  Do this once for the achievement and then reload your save to attempt the next one.
+
 **![image](https://user-images.githubusercontent.com/120497130/223576242-e97128fa-77f3-457a-8115-9b3f291815ec.png) [Choose Life (5)](https://retroachievements.org/achievement/6280)**  
 _A healthy fish diet_
+
+In order to save Cid's life, Celes must continually feed him a diet of health fish.  Cid starts with 120 health which decreases every second.  The goal is to raise his health to 255 before it reaches 0.  Head south from Cid's house to find the fishing area.  The goal is to catch fast moving fish while avoiding the slow moving fish.  Each time you feed a fish to Cid, new fish will appear.
+
+|![image](https://user-images.githubusercontent.com/120497130/224608150-c27bf57a-9caa-48d1-bbf4-345e4414a9c0.png)Name|Alt Name|Speed|Health|
+|--|--|--|--|
+|Fish|A fish|Slow|-16|
+|A rotten fish|A foul-tasting fish|Medium|-4|
+|Just a Fish|An ordinary fish|Medium|+16|
+|A yummy fish|A delicious fish|Fast|+32|
+
+Tips:
+* Collect as many fast and medium fish as you can.  Their totals will add up.
+* There's no way to know if a medium fish is -4 or +16, but they are worth picking up on average
+* If no fish spawn, leave to the world map and return quickly.
+* Cid's dialog will change based on his health.
+* This can take lots of attempts due to RNG.  Reload if things are not going well.
+
+After saving Cid, return to the fishing spot to get 1 of each fish for your rare items inventory.  Having all 4 is a prerequisite for [So Long and Thanks for All the Fish (25)](https://retroachievements.org/achievement/6889).
+
+### Albrook
 
 **![image](https://user-images.githubusercontent.com/120497130/223576317-62a5a2cf-04f3-4ac4-a608-f8b466fa4e37.png)
 [Child Endangerment (3)](https://retroachievements.org/achievement/6295)**  
