@@ -678,15 +678,35 @@ This is your last opportunity to learn magic and earn GP on the Veldt without ea
 
 🚩 **Prior to facing AtmaWeapon, make a separate save file by going south of the platform that led you back to the Blackjack.  This will be used for an exclusive achievement based on an upcoming decision.** 🚩
 
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Sky Armor||Initial Approach|
+|Spitfire||Initial Approach|
+|Ninja|
+|Wirey Dragon|Platinum Dragon|
+|Misfit|
+|Apokryphos|Apocrypha|
+|Behemoth|
+|Brainpan|
+|Dragon|
+|Gigantos||Monster-in-a-Box|
+
 **![image](https://user-images.githubusercontent.com/120497130/223473160-15ca1dd8-eb77-4008-a515-a66037b10102.png) [The Decisive Battle (10)](https://retroachievements.org/achievement/6255)**  
 _Steal a Ribbon from and defeat AtmaWeapon, no instant death moves_
+
+Ribbon has a 12.5% chance to be on AtmaWeapon.  If you steal an elixir, reset and try again.  Once you successfully steal the ribbon, kill AtmaWeapon.  If doing a LLG run, it may be easier to spam Rasp on the enemy to drain its MP to zero rather than attempt to bring its HP to zero.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578989-f2092a91-ce29-468b-9d57-4c2b91f9f451.png)
 [Patience Pays I (3)](https://retroachievements.org/achievement/6257)**  
 _Earn Shadow's eternal respect_
 
+After you reach the end of the escape sequence, choose to "Wait" instead of jumping onto the airship.  Do not move from the spot as the countdown continues.  Once the countdown reaches 5 seconds remaining, Shadow will appear and this achievement will unlock.  
+Note: Saving Shadow is a requirement for several achievements in the WoR.  However, the alternate save you made earlier will be used for [Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132), which requires Shadow to be dead.
+
 **![image](https://user-images.githubusercontent.com/120497130/223473235-169a6468-d0e5-4cf8-b1a7-bb572e11f9b6.png) [This is the End (5)](https://retroachievements.org/achievement/6258)**  
 _Reach the second world_
+
+This achievement will unlock automatically after you complete the World of Balance.
 
 ## Step 2: World of Ruin | Total Points: XX
 
