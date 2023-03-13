@@ -490,6 +490,14 @@ _Pilot the Airship for the first time_
 
 Unlocks as soon as you take control of the Blackjack.
 
+**![image](https://user-images.githubusercontent.com/120497130/223578897-4f484b43-74dd-4036-a345-91d129ac6c4e.png)
+[Why So Serious? (10)](https://retroachievements.org/achievement/6017)**  
+_Cast 7-7-7 Joker Doom_
+
+Now that Setzer has officially joined the team, this achievement can be earned at any time.  Slots are a combination of skill and luck.  Lining up all 7s on the Slot wheel can be difficult to do legitimately.  In fact, the game will change the RNG odds of getting certain combinations if you pause during the slot.  Fortunately, there is a trick that allows use of pause buffering.
+
+At the start of a battle, use an Echo Screen to manipulate the RNG into a state where 7-7-7 is possible even with pausing.  Before any other animations occur (enemy or player), start the Slots on Setzer.  Use pause buffering to line up the slot left slot on the 3rd Chocobo, right before 7 appears. Unpause and quickly press A to get the first 7.  Do the same for the center slot, this time aiming for the 4th Chocobo, right before the 7 appears.  Finally, do the same for the right slot, this time aiming for the 2nd dragon.  If successful, Setzer will cast Joker Doom and unlock this achievement.  If you fail, you will need to start the battle over again to get the right RNG manipulation.
+
 **![image](https://user-images.githubusercontent.com/120497130/223472549-46f25656-c868-43bd-a7c6-60a1f84cf565.png) [Hanging by a Pom-pom (2)](https://retroachievements.org/achievement/6025)**  
 _Choose to rescue Mog_
 
@@ -681,8 +689,8 @@ This is your last opportunity to learn magic and earn GP on the Veldt without ea
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
-|Sky Armor||Initial Approach|
-|Spitfire||Initial Approach|
+|Sky Armor||Sky Blockade|
+|Spitfire||Sky Blockade|
 |Ninja|
 |Wirey Dragon|Platinum Dragon|
 |Misfit|
@@ -716,14 +724,6 @@ This achievement will unlock automatically after you complete the World of Balan
 ⚠️ As soon as you can control Celes, head out to the world map and save your game.  
 This next section is timed, so you want to be able to reload if you fail.  Remember to keep a separate save from the Floating Continent for killing Shadow later.
 
-|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
-|--|--|--|
-|EarthGuard|Land Ray|Desert Only|
-|Peepers|
-|Black Drgn|Black Dragon|Desert Only|
-
-With only one party member, these rage encounters may be difficult to get.  Either run, or return and get these later when you have an airship.
-
 **![image](https://user-images.githubusercontent.com/120497130/223474516-39fad5dc-3145-4b33-a164-b143fabf2fcc.png) [The Cold Embrace of Death (5)](https://retroachievements.org/achievement/6279)**  
 _A dramatic moment_
 
@@ -750,19 +750,87 @@ Tips:
 
 After saving Cid, return to the fishing spot to get 1 of each fish for your rare items inventory.  Having all 4 is a prerequisite for [So Long and Thanks for All the Fish (25)](https://retroachievements.org/achievement/6889).
 
-### Albrook
+### Southern Continent
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|EarthGuard|Land Ray|Desert Only|
+|Peepers|
+|Black Drgn|Black Dragon|Desert Only|
+|Gilomantis|Killer Mantis|
+|Mesosaur|Fafnir|
+|Chitonid|Murussu|
+|Gigan Toad|Gigantoad|
+|Osprey|Rukh|
+|Lunaris|Luna Wolf|
+
+With only one party member, these rage encounters may be difficult to get.  Either run, or return and get these later when you have more party members.
+
+### Tzen
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Scorpion||Collapsing House|
+|HermitCrab|Zokka|Collapsing House|
+|Pm Stalker|Nightcrawler|Collapsing House|
+
+⚠️ Purchase 15 Super Balls from the item store before leaving Tzen for an upcoming achievement.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576317-62a5a2cf-04f3-4ac4-a608-f8b466fa4e37.png)
 [Child Endangerment (3)](https://retroachievements.org/achievement/6295)**  
 _Collect every treasure from the collapsing house and escape_
 
+There are 8 chests in the collapsing house and all of them are in plain sight.  There is plenty of time, but consider equipping Sprint Shoes to move through the house more quickly.  This achievement will unlock after your discussion with Sabin.
+
+### South Figaro Cave & Figaro Castle
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|NeckHunter|Neck Hunter|
+|Cruller|
+|Humpty|
+|Dante|
+|Drop|Dropper|Engine Room Only|
+
+**![image](https://user-images.githubusercontent.com/120497130/223579008-70b64d58-6c9c-4a4a-854e-948da95f8e4f.png)
+[Patience Pays II (5)](https://retroachievements.org/achievement/6400)**  
+_Find a Hero Ring in the South Figaro Cave_
+
+The treasure chests in the South Figaro Cave are now upgraded so long as they were not opened in the WoB.  One of these chests will now contain a Hero Ring.  Obtaining the ring will unlock this acheivement.
+
 **![image](https://user-images.githubusercontent.com/120497130/223576360-1b00e4ef-2e09-4b60-94d0-e32b49becace.png)
 [Edgar's 'Interests' (10)](https://retroachievements.org/achievement/6412)**  
 _Celes is Seized by Tentacles, and Edgar decides to snap a picture_
 
+The Tentacle boss in Figaro Castle will use Seize on characters and then entangle them soon after.  While Celes is entangled by a Tentacle, use Edgar's Flash tool to unlock this achievement.
+
+### Western Continent
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Bogy|
+|Harpiai|Marchosias|
+|Deep Eye|Deepeye|
+|Muus|Mousse|
+|Sand Horse|Sandhorse|Desert Only|
+
+### Darill's Tomb
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Osteosaur|Skeletal Horror|First Room|
+|Orog|Borghese|First Room|
+|PowerDemon|Cloudwraith|
+|Exoray|
+|Mad Oscar|Malboro|
+
 **![image](https://user-images.githubusercontent.com/120497130/223576390-ef090983-2418-40d6-82ea-ee04e160dbb5.png)
 [Super Bouncy Doom (10)](https://retroachievements.org/achievement/6424)**  
 _Use nothing but Super Balls against Dullahan and win_
+
+Superballs are purchased in Tzen, the town where you found Sabin.  Dullahan will open with L.? Pearl (Lv.? Holy) which deals massive damage to any character who's level is a multiple of the last digit of your GP.  If several of your members are being hit, consider fighting an enemy to change the amount of GP you have and try again.  Consider adding a Wall Ring to some characters to prevent damage from some of his normal spells.  
+
+Once the fight starts, the only command you can use is Item > Superball.  Each ball can cause anywhere from 256 to 8192 damage, so different attempts may yield different results.  On average, only 7 or 8 should be necessary.  
 
 **![image](https://user-images.githubusercontent.com/120497130/223576419-27a6c9f4-0bdb-4b0a-a8a8-736cfab6e19d.png)
 [Kuku's Treasures (5)](https://retroachievements.org/achievement/5818)**  
@@ -990,14 +1058,6 @@ _Equip DragoonBoots and Dragon Horns on Edgar and Mog at once_
 WoR
 DragoonBoots - Purchased at Thamasa, Tzen.
 Dragon Horn - One found in Phoenix Cave, other obtained through colosseum.
-
-**![image](https://user-images.githubusercontent.com/120497130/223578897-4f484b43-74dd-4036-a345-91d129ac6c4e.png)
-[Why So Serious? (10)](https://retroachievements.org/achievement/6017)**  
-_Cast 7-7-7 Joker Doom_
-
-**![image](https://user-images.githubusercontent.com/120497130/223579008-70b64d58-6c9c-4a4a-854e-948da95f8e4f.png)
-[Patience Pays II (5)](https://retroachievements.org/achievement/6400)**  
-_Find a Hero Ring in the South Figaro Cave_
 
 **![image](https://user-images.githubusercontent.com/120497130/223579015-47bad205-f021-4acb-ba7f-52bf37f209bf.png)
 [Patience Pays III (5)](https://retroachievements.org/achievement/7284)**  
