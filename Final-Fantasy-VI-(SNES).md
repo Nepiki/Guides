@@ -469,8 +469,8 @@ After defeating Ifrit and Shiva, pick up their magicite.  Ifrit is technically m
 |General|
 |Rhinox|Destroyer|
 |Gobbler|Lenergia|
-|Mag Roader (Red)||Mine Cart Only|
-|Mag Roader (Purple)||Mine Cart Only|
+|Mag Roader (Red)|Magna Roader|Mine Cart Only|
+|Mag Roader (Purple)|Magna Roader|Mine Cart Only|
 |Chaser||After Mine Cart Only|
 
 ✅**Magicite 12 out of 26**  
@@ -481,7 +481,7 @@ _Steal a Tempest from Number 128_
 
 During the mine cart ride, you will encounter Number 128.  This is a tough item to steal, however, you can double your chances by equipping the Thief Gloves (Brigand Gloves) on Locke prior to the fight if you obtained them in Zozo.
 
-### Airship Exploration
+### Blackjack Exploration
 
 After escaping from Vector, you will have have free access to the Blackjack airship for the first time! With the airship, the game opens up significantly.  Party members can be changed by talking to them on the airship.  We now have an opportunity to gather some collectibles.  Head to Narshe first to pick up a new party member and a cutscene.
 
@@ -724,6 +724,9 @@ This achievement will unlock automatically after you complete the World of Balan
 ⚠️ As soon as you can control Celes, head out to the world map and save your game.  
 This next section is timed, so you want to be able to reload if you fail.  Remember to keep a separate save from the Floating Continent for killing Shadow later.
 
+✅**Character 1 out of 14**  
+The World of Ruin starts with Celes as your only character.  Other characters will need to be found again.
+
 **![image](https://user-images.githubusercontent.com/120497130/223474516-39fad5dc-3145-4b33-a164-b143fabf2fcc.png) [The Cold Embrace of Death (5)](https://retroachievements.org/achievement/6279)**  
 _A dramatic moment_
 
@@ -782,6 +785,9 @@ _Collect every treasure from the collapsing house and escape_
 
 There are 8 chests in the collapsing house and all of them are in plain sight.  There is plenty of time, but consider equipping Sprint Shoes to move through the house more quickly.  This achievement will unlock after your discussion with Sabin.
 
+✅**Character 2 out of 14**  
+Sabin will join your party after the Collapsing House event.
+
 ### South Figaro Cave & Figaro Castle
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
@@ -804,6 +810,9 @@ _Celes is Seized by Tentacles, and Edgar decides to snap a picture_
 
 The Tentacle boss in Figaro Castle will use Seize on characters and then entangle them soon after.  While Celes is entangled by a Tentacle, use Edgar's Flash tool to unlock this achievement.
 
+✅**Character 3 out of 14**  
+Edgar will join your party after the Tentacle boss.
+
 ### Western Continent
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
@@ -813,6 +822,9 @@ The Tentacle boss in Figaro Castle will use Seize on characters and then entangl
 |Deep Eye|Deepeye|
 |Muus|Mousse|
 |Sand Horse|Sandhorse|Desert Only|
+
+✅**Character 4 out of 14**  
+Setzer will join your party after speaking with him in the Cafe.
 
 ### Darill's Tomb
 
@@ -832,9 +844,56 @@ Superballs are purchased in Tzen, the town where you found Sabin.  Dullahan will
 
 Once the fight starts, the only command you can use is Item > Superball.  Each ball can cause anywhere from 256 to 8192 damage, so different attempts may yield different results.  On average, only 7 or 8 should be necessary.  
 
+### Falcon Exploration
+
+After finishing Darill's Tomb, the rest of the World of Ruin can be completed in any order.  As with the Blackjack, party members can be changed by talking to them on the airship.  The game takes you straight to Maranda, but there are some easy collectibles we can get that will make other sections of the game easier (especially for LLG runs).
+
+✅**Magicite 15 out of 26**  
+Travel to Cid's House on Solitary Island in the south west corner of the world map.  Return to the beach with the fish to find the Palidor (Quetzalli) magicite.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578817-2648bace-b403-4ea1-bd4e-5e0063eef9a0.png)
+[Blitz Expert (10)](https://retroachievements.org/achievement/6439)**  
+_Perform Bum Rush_
+
+Travel to Duncan's House located northeast of Narshe inside a cross of trees on the world map.  
+![image](https://user-images.githubusercontent.com/120497130/224817391-e7a65a11-2833-4d51-9691-bac058e6fb44.png)  
+Speak with Duncan to learn the Bum Rush (Phantom Rush) Blitz.  Perform this on any enemy by inputting a circle starting on the left:  
+`Left > Up/Left > Up > Up/Right > Right > Down/Right > Down > Down/Left > Left`
+
+### Narshe
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Lukhavi|Nastidon||
+|Garm|
+|Test Rider|
+|Wizard|
+|Psychot|Psychos|
+|Mag Roader|Magna Roader|Brown|
+|Mag Roader|Magna Roader|Yellow|
+
+✅**Character 5 out of 14**  
+Travel to Narshe and take the back entrance to the mines via Arvis's House.  Speak with Mog in the Moogle Caves to have him rejoin your party.
+
 **![image](https://user-images.githubusercontent.com/120497130/223576419-27a6c9f4-0bdb-4b0a-a8a8-736cfab6e19d.png)
 [Kuku's Treasures (5)](https://retroachievements.org/achievement/5818)**  
 _Find Kuku's Charm and Ribbon she left behind for Mog_
+
+After recruiting Mog, interact with the wall behind him to obtain the Moogle Charm (Molulu's Charm).  In the same room, check the western passage to find a treasure chest.  If it was not opened in the WoB, it will contain a Ribbon.  Once both items are acquired, this achievement will unlock.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578825-fab89dab-50a4-4ca7-9bf8-19333e2f91cc.png)
+[Slam Dancin' (10)](https://retroachievements.org/achievement/6465)**  
+_Learn all Dances_
+
+✅**Mog Dances 8 out of 8**
+|![image](https://user-images.githubusercontent.com/120497130/224417209-7eb3ce46-4907-4632-bef5-9452a96a4e94.png) Dance|Alt Name|Battlefield Type|
+|--|--|--|
+|Snowman Jazz|Snowman Rondo|Snow|
+
+Mog's final dance can be learned on the snowy battlefield where the Battle of Narshe took place.  Travel through the northern mines to reach this area.
+
+✅**Dragon 1 out of 8**  
+The first of 8 dragons in the World of Ruin is also on the Narshe battlefield.  If you are unable to beat this boss at this time, you can come back later.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576444-d5735972-2cd0-4bcd-a97a-eb95e0e6aa5a.png)
 [Avenging Vicks and Wedge (10)](https://retroachievements.org/achievement/6535)**  
@@ -883,6 +942,16 @@ _Transform Odin into Raiden_
 **![image](https://user-images.githubusercontent.com/120497130/223576907-2a1ceb59-db09-446f-882a-01e74aaa4735.png)
 [Psychic Vampires (10)](https://retroachievements.org/achievement/7298)**  
 _Defeat MagiMaster by draining away his Magic Points_
+
+### Kefka's Tower
+
+You will enter with 3 parties. In order to get your achievements you will need to have the following setup:
+
+Party 1 (left box): Must have Strago (Lore)
+Party 2 (middle box): Must have Celes (Runic)
+Party 3 (right box): Must have Locke or Gogo (Steal)
+
+There will be a point at the end of the tower where you will step on three switches. Have party 1 enter and go left. This will set you up for the boss challenge achievements.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576970-c2592ddf-efd1-4015-bbca-b1a84d3c56af.png)
 [Shielded from View (5)](https://retroachievements.org/achievement/6705)**  
@@ -969,21 +1038,6 @@ _Recruit Umaro_
 **![image](https://user-images.githubusercontent.com/120497130/223578637-066238b5-4a5c-4266-98c5-129bd692249f.png)
 [You Are Not Alone (10)](https://retroachievements.org/achievement/6296)**  
 _Recruit every character_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578817-2648bace-b403-4ea1-bd4e-5e0063eef9a0.png)
-[Blitz Expert (10)](https://retroachievements.org/achievement/6439)**  
-_Perform Bum Rush_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578825-fab89dab-50a4-4ca7-9bf8-19333e2f91cc.png)
-[Slam Dancin' (10)](https://retroachievements.org/achievement/6465)**  
-_Learn all Dances_
-
-All Dances can be learned in the WoR EXCEPT Water Rondo.  To learn Water Rondo, Mog must be taken to the Lethe River or Serpent's Trench.  The quicker option is Serpent's Trench.  
-* Park the airship outside Crescent Cave on the Veldt
-* Go through the cave and learn Water Rondo in the Serpent's Trench
-* Do not get on the ship to South Figaro or you will need to go through the Lethe River sequence again
-* Hire a Chocobo in Nikeah and ride it to Baron Falls
-* Jump off Baron Falls to return to the Veldt and your airship
 
 **![image](https://user-images.githubusercontent.com/120497130/223578837-7edf3f33-d623-4d0f-8282-0f6ed35694f8.png)
 [Swordity Sword (10)](https://retroachievements.org/achievement/6890)**  
