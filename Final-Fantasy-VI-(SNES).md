@@ -881,23 +881,54 @@ _Find Kuku's Charm and Ribbon she left behind for Mog_
 
 After recruiting Mog, interact with the wall behind him to obtain the Moogle Charm (Molulu's Charm).  In the same room, check the western passage to find a treasure chest.  If it was not opened in the WoB, it will contain a Ribbon.  Once both items are acquired, this achievement will unlock.
 
-**![image](https://user-images.githubusercontent.com/120497130/223578825-fab89dab-50a4-4ca7-9bf8-19333e2f91cc.png)
-[Slam Dancin' (10)](https://retroachievements.org/achievement/6465)**  
-_Learn all Dances_
+
 
 ✅**Mog Dances 8 out of 8**
 |![image](https://user-images.githubusercontent.com/120497130/224417209-7eb3ce46-4907-4632-bef5-9452a96a4e94.png) Dance|Alt Name|Battlefield Type|
 |--|--|--|
 |Snowman Jazz|Snowman Rondo|Snow|
 
-Mog's final dance can be learned on the snowy battlefield where the Battle of Narshe took place.  Travel through the northern mines to reach this area.
+Mog's final dance can be learned on the snowy battlefield where the Battle of Narshe took place.  Travel through the northern mines to reach this area. 
 
-✅**Dragon 1 out of 8**  
-The first of 8 dragons in the World of Ruin is also on the Narshe battlefield.  If you are unable to beat this boss at this time, you can come back later.
+**![image](https://user-images.githubusercontent.com/120497130/223578825-fab89dab-50a4-4ca7-9bf8-19333e2f91cc.png)
+[Slam Dancin' (10)](https://retroachievements.org/achievement/6465)**  
+_Learn all Dances_
+
+|![image](https://user-images.githubusercontent.com/120497130/224417209-7eb3ce46-4907-4632-bef5-9452a96a4e94.png) Dance|Alt Name|Battlefield Type|
+|--|--|--|
+|Snowman Jazz|Snowman Rondo|Snow|
+|Wing Song|Wind Rhapsody|Grassland|
+|Forest Suite|Forest Nocturne|Forest|
+|Desert Aria|Desert Lullaby|Desert|
+|Love Sonata|Love Serenade|City|
+|Earth Blues||Mountains|
+|Dusk Requiem|Twilight Requiem|Cave|
+|Water Rondo|Water Harmony|Water|
+
+If you missed any dances, all of them except Water Rondo can be learned in the WoR.
+
+Avoid the roaming dragon, especially if you are doing a LLG run.  We will come back for it later.  For now, head north to battle Tritoch.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576444-d5735972-2cd0-4bcd-a97a-eb95e0e6aa5a.png)
 [Avenging Vicks and Wedge (10)](https://retroachievements.org/achievement/6535)**  
 _Defeat Tritoch, no instant death moves_
+
+Tritoch only has one damaging move, Ice 3.  It will also attempt to drain your MP using Rasp or freeze your characters temporarily.  Equip Wall Rings on your characters and you are essentially invulnerable.  Use fire spells to damage it and Osmose to replenish your MP.  Be sure not to use any instant death spells or glitches.
+
+✅**Magicite 16 out of 26**  
+Defeating Tritoch will grant you the Tritoch (Valigarmanda) magicite.
+
+### Yeti's Cave
+
+✅**Magicite 17 out of 26**  
+After defeating Tritoch, a path will open behind where it was frozen.  Jump down this pit with Mog in your party to find the Yeti's Cave.  At the end of the cave, examine the skull to receive the Terrato (Midgardsormr) magicite.  This will also cause Umaro to attack you.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578616-e4cda938-eca8-44ac-8d22-a7fa40e088ef.png)
+[The Abominable Comrade (5)](https://retroachievements.org/achievement/6619)**  
+_Recruit Umaro_
+
+✅**Character 6 out of 14**  
+If you defeat Umaro with Mog in your party, he will join your team.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576483-319622cf-d0da-4beb-886b-670ebe2a54a6.png)
 [Hold Onto Your Butts... (10)](https://retroachievements.org/achievement/6798)**  
@@ -1030,10 +1061,6 @@ _Defeat the true Siegfried_
 **![image](https://user-images.githubusercontent.com/120497130/223578603-f28f8ae1-1ea0-448e-a5a2-a5d3e7ffabaa.png)
 [Gender Crisis (5)](https://retroachievements.org/achievement/6767)**  
 _Recruit Gogo_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578616-e4cda938-eca8-44ac-8d22-a7fa40e088ef.png)
-[The Abominable Comrade (5)](https://retroachievements.org/achievement/6619)**  
-_Recruit Umaro_
 
 **![image](https://user-images.githubusercontent.com/120497130/223578637-066238b5-4a5c-4266-98c5-129bd692249f.png)
 [You Are Not Alone (10)](https://retroachievements.org/achievement/6296)**  
