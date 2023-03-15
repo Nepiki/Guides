@@ -690,7 +690,7 @@ This is your last opportunity to learn magic and earn GP on the Veldt without ea
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
 |Sky Armor||Sky Blockade|
-|Spitfire||Sky Blockade|
+|Spit Fire|Spitfire||Sky Blockade|
 |Ninja|
 |Wirey Dragon|Platinum Dragon|
 |Misfit|
@@ -860,12 +860,30 @@ Travel to Duncan's House located northeast of Narshe inside a cross of trees on 
 Speak with Duncan to learn the Bum Rush (Phantom Rush) Blitz.  Perform this on any enemy by inputting a circle starting on the left:  
 `Left > Up/Left > Up > Up/Right > Right > Down/Right > Down > Down/Left > Left`
 
+**![image](https://user-images.githubusercontent.com/120497130/223482334-486361bb-322e-4567-971b-8a76d0753ec7.png) [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440)**  
+_Win all the exclusive items at the Auction House_
+
+✅**Magicite 16 out of 26**  
+The remaining unique items can now be purchased at the Auction House in Jidoor.  If you purchased Golem in the WoB, 70k GP is needed to purchase the remaining items.  The following items need to be purchased to unlock this achievement:
+* Zoneseek Magicite
+* Golem Magicite
+* Hero's Ring (WoR only)
+* Zephyr Cape (WoR only)
+
+As a reminder, the Zephyr Cape will NOT be auctioned if the player has both Zoneseek and Golem.  Only purchase one of these in the WoB and wait to purchase the other until you buy Zephyr Cape in the WoR.
+
+While in Jidoor, stop by Owzer's mansion at the top of town.  Inside the mansion, interact with the painting of flowers to encounter NightShade (Rafflesia).  This is a one time only encounter, but grants Gau his most broken Rage.  It will charm any creature, including bosses, making them attack themselves.  This is very helpful for LLG runs.  Do not continue into the mansion, as you will need to do it solo with Shadow for [I Work Alone (10)](https://retroachievements.org/achievement/7128)
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|NightShade|Rafflesia|Flower Painting (One Time Only)|
+
 ### Narshe
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
-|Lukhavi|Nastidon||
-|Garm|
+|Nastidon|Lukhavi|
+|Red Wolf|Garm|
 |Test Rider|
 |Wizard|
 |Psychot|Psychos|
@@ -880,8 +898,6 @@ Travel to Narshe and take the back entrance to the mines via Arvis's House.  Spe
 _Find Kuku's Charm and Ribbon she left behind for Mog_
 
 After recruiting Mog, interact with the wall behind him to obtain the Moogle Charm (Molulu's Charm).  In the same room, check the western passage to find a treasure chest.  If it was not opened in the WoB, it will contain a Ribbon.  Once both items are acquired, this achievement will unlock.
-
-
 
 ✅**Mog Dances 8 out of 8**
 |![image](https://user-images.githubusercontent.com/120497130/224417209-7eb3ce46-4907-4632-bef5-9452a96a4e94.png) Dance|Alt Name|Battlefield Type|
@@ -915,28 +931,80 @@ _Defeat Tritoch, no instant death moves_
 
 Tritoch only has one damaging move, Ice 3.  It will also attempt to drain your MP using Rasp or freeze your characters temporarily.  Equip Wall Rings on your characters and you are essentially invulnerable.  Use fire spells to damage it and Osmose to replenish your MP.  Be sure not to use any instant death spells or glitches.
 
-✅**Magicite 16 out of 26**  
+✅**Magicite 17 out of 26**  
 Defeating Tritoch will grant you the Tritoch (Valigarmanda) magicite.
 
 ### Yeti's Cave
 
-✅**Magicite 17 out of 26**  
-After defeating Tritoch, a path will open behind where it was frozen.  Jump down this pit with Mog in your party to find the Yeti's Cave.  At the end of the cave, examine the skull to receive the Terrato (Midgardsormr) magicite.  This will also cause Umaro to attack you.
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Ceritops|Illuyankas|
+|Poppers|Knotty|
+|Pugs|Tonberries|Monster-in-a-Box. Will appear on Veldt, but you can't learn anything|
+|Anemone|
+|Tomb Thumb|Onion Dasher|
+|Kiwok|Tzakmaquiel|
+|Pug|Tonberry|
+
+✅**Magicite 18 out of 26**  
+After defeating Tritoch, a path will open behind where it was frozen.  Jump down this pit with Mog in your party to find the Yeti's Cave.  At the end of the cave, examine the skull to receive the Terrato (Midgardsormr) magicite.  This will also cause Umaro to attack you.  Use a combination of Fire spells and defense ignoring skills such as Drill.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578616-e4cda938-eca8-44ac-8d22-a7fa40e088ef.png)
 [The Abominable Comrade (5)](https://retroachievements.org/achievement/6619)**  
 _Recruit Umaro_
 
 ✅**Character 6 out of 14**  
-If you defeat Umaro with Mog in your party, he will join your team.
+After you Umaro, speak with him with Mog in your party and he will join your team.
 
-**![image](https://user-images.githubusercontent.com/120497130/223576483-319622cf-d0da-4beb-886b-670ebe2a54a6.png)
-[Hold Onto Your Butts... (10)](https://retroachievements.org/achievement/6798)**  
-_Defeat Brachosaur, no instant death moves_
+### Veldt & Cave On the Veldt
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Toe Cutter|Twinscythe|
+|Rhyos|Gorgimera|
+|Allo Ver|Death Warden|
+
+✅**Character 7 out of 14**  
+Travel to the Veldt with 3 people in the party.  You need at least 5 characters recruited to access the party change screen, which is why Narshe was the first stop.  Winning a battle of the Veldt will have a chance for Gau to join just like he does when learning new rages.
+
+Once again, the Veldt is a great opportunity to learn new magic, earn GP and acquire rages.
+
+Enter the Cave on the Veldt and find Striker (Ichigeki) in one of the chests.  At the end of the Cave, you will fight a Behemoth King and find Shadow.  Shadow will not join your party at this time, but you must rescue him to recruit him later.  Note: After killing the boss, he will reappear in an undead variant.  Use a Fenix Down on him to kill him instantly.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578706-4fa30a9f-a9ec-44e2-8f62-1437086f0d88.png)
+[What is a Man? (10)](https://retroachievements.org/achievement/7286)**  
+_Witness a hidden scene that involves Gau and his father_
+
+With Gau and Sabin in the party, travel northeast of the Veldt to lone house on the Northern Continent.  Speak with Gau's Father for a scene and an achievement.
+
+### Colosseum
+
+✅**Character 8 out of 14**  
+The Colosseum is located in the northwest corner of the map.  Bet the Striker found in the Cave on the Vedlt to battle against Shadow.  Defeating Shadow will add him back into the party.  Shadow is particularly useful as a fighter in the Colosseum since the AI will not use Throw.  If Shadow has no magic, he will only attack.  Even better, he can equip Striker for instant kills on many enemies and has a high base evasion.
+
+It is highly recommended to bet the Czarina Gown (Regal Gown) found in Darill's Tomb to obtain a Minerva for Celes.  This is a fantastic piece of armor that will help greatly with [Minerva Twins (10)](https://retroachievements.org/achievement/6887).
+
+**![image](https://user-images.githubusercontent.com/120497130/223578728-b2db75f0-feea-4062-91bd-854ebd6acbc7.png)
+[Beyond the Shadows I (10)](https://retroachievements.org/achievement/5653)**  
+_Witness Shadow's first set of dreams_  
+
+Add Shadow to your party and stay at an inn repeated for some hidden scenes involving his backstory.  This achievement will unlock after viewing the final scene.
+
+### Mobliz
+
+✅**Magicite 19 out of 26**  
+After Phunbaba escapes during the 2nd encounter, attempt to leave the house.  A child will hand over Fenrir.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576517-d23ee4aa-cbcb-411c-bdbb-2be8b4bc7053.png)
 [Minerva Twins (10)](https://retroachievements.org/achievement/6887)**  
 _Defeat Phunbaba's final form using only Celes and Terra, no instant death moves_
+
+After obtaining Fenrir, leave Mobliz.  Before returning to Mobliz, adjust the party so that Celes is the only member.  Equipping the Minvera armor will grant high defense and make Celes immune to half of Phunbaba's attacks.  Put Celes in the back row and cast Bio repeatedly.  With luck, he will not use 1000 Needles until Terra shows up, allowing you to beat him even at low levels.
+
+✅**Character 9 out of 14**  
+After your battle against Phunbaba, Terra will rejoin the party.
+
+### Jidoor
 
 **![image](https://user-images.githubusercontent.com/120497130/223576551-89ec89b9-f735-4296-b481-3598ece38f22.png)
 [I Work Alone (10)](https://retroachievements.org/achievement/7128)**  
@@ -1024,23 +1092,20 @@ Tactics for each boss.
 
 ### Hidden Scenes
 
-**![image](https://user-images.githubusercontent.com/120497130/223578706-4fa30a9f-a9ec-44e2-8f62-1437086f0d88.png)
-[What is a Man? (10)](https://retroachievements.org/achievement/7286)**  
-_Witness a hidden scene that involves Gau and his father_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578728-b2db75f0-feea-4062-91bd-854ebd6acbc7.png)
-[Beyond the Shadows I (10)](https://retroachievements.org/achievement/5653)**  
-_Witness Shadow's first set of dreams_
-
 **![image](https://user-images.githubusercontent.com/120497130/223578745-aa61f3c8-32be-4485-8d90-e976b1facebd.png)
 [Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)**  
 _Witness Relm's dream_
 
-### Colosseum
-
 **![image](https://user-images.githubusercontent.com/120497130/223578767-149cb9c3-0682-4e7d-9d42-935ca6a38c66.png)
 [Tetra-Miracle (4)](https://retroachievements.org/achievement/6861)**  
 _Win a pair of Marvel Shoes at the colosseum_
+
+Winning the Marvel Shoes requires a few different fights to get the item you actually need to bet.
+
+|Bet|Reward|Enemy|Notes|
+|--|--|--|
+|Elixir|Rename Card|Cactrot|Equip Sniper Eye for 100% hit|
+|Rename Card|Marvel Shoes|Doom Drgn|
 
 **![image](https://user-images.githubusercontent.com/120497130/223578786-643ddf22-d9be-41e0-a41c-3b5de399476d.png)
 [Miao-Miao! (4)](https://retroachievements.org/achievement/7158)**  
@@ -1092,17 +1157,6 @@ _Learn the Tier 5 and 6 Rages_
 [Beastlord (25)](https://retroachievements.org/achievement/5432)**  
 _Learn the rarest, most elusive Rages_
 
-**![image](https://user-images.githubusercontent.com/120497130/223482334-486361bb-322e-4567-971b-8a76d0753ec7.png) [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440)**  
-_Win all the exclusive items at the Auction House_
-
-Several unique items can be purchased at the Auction House in Jidoor.  The following items need to be purchased to unlock this achievement:
-* Zoneseek Magicite
-* Golem Magicite
-* Hero's Ring (WoR only)
-* Zephyr Cape (WoR only)
-
-The Zephyr Cape will NOT be auctioned if the player has both Zoneseek and Golem.  Only purchase one of these in the WoB and wait to purchase the other until you buy Zephyr Cape in the WoR.
-
 **![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
 [N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
 _Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
@@ -1143,6 +1197,10 @@ Dragon Horn - One found in Phoenix Cave, other obtained through colosseum.
 **![image](https://user-images.githubusercontent.com/120497130/223579015-47bad205-f021-4acb-ba7f-52bf37f209bf.png)
 [Patience Pays III (5)](https://retroachievements.org/achievement/7284)**  
 _Uncurse the Curse Shield_
+
+**![image](https://user-images.githubusercontent.com/120497130/223576483-319622cf-d0da-4beb-886b-670ebe2a54a6.png)
+[Hold Onto Your Butts... (10)](https://retroachievements.org/achievement/6798)**  
+_Defeat Brachosaur, no instant death moves_
 
 **![image](https://user-images.githubusercontent.com/120497130/223579029-4becc292-26f8-4d93-871a-5481df0afc26.png)
 [Power Level I (5)](https://retroachievements.org/achievement/7295)**  
