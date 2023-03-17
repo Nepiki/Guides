@@ -105,8 +105,8 @@ While defending Terra with the Moogles, use Locke to steal from the boss until y
 |--|--|--|
 |Leafer|Leaf Bunny|
 |Darkwind||
-|Areneid|Alacran|
-|Sand Ray||
+|Areneid|Alacran|Desert Only
+|Sand Ray||Desert Only
 |M-Tek Armor||Default|
 
 **![image](https://user-images.githubusercontent.com/120497130/223467206-f17b72bf-e3a4-4781-8efb-4045a6efac09.png) [Every Little Thing She Does Is Magic (5)](https://retroachievements.org/achievement/5006)**    
@@ -243,7 +243,7 @@ This chest needs to be opened in the WoR to earn [Kuku's Treasures (5)](https://
 |Rhobite|Chippirabbit|
 |Beakor|Aepyornis|
 |Doberman||Kick Chest|
-|Telstar|Satellite|
+|Telstar|Satellite|Monster-in-a-Box|
 |Templar|
 |Soldier|Imperial Soldier|
 
@@ -475,6 +475,8 @@ After defeating Ifrit and Shiva, pick up their magicite.  Ifrit is technically m
 
 ✅**Magicite 12 out of 26**  
 After defeating Number 024, you will receive Unicorn, Maduin, Shoat (Catoblepas), Phantom, Carbunkl (Carbuncle), and Bismarck.
+
+⚠️ Mag Roader (Red) encounters during the mine cart section is dependent on the character in slot 1.  If it does not appear, try changing characters or changing the slot 1 character into an imp.
 
 **![image](https://user-images.githubusercontent.com/120497130/223472265-7fb01411-4424-46bd-8e8e-5c8292884261.png) [The Tempest (3)](https://retroachievements.org/achievement/6016)**  
 _Steal a Tempest from Number 128_
