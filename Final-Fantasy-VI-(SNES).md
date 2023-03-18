@@ -848,6 +848,8 @@ Once the fight starts, the only command you can use is Item > Superball.  Each b
 
 ### Falcon Exploration
 
+🚩 While flying in the Falcon, you may encounter Doom Gaze.  Do not deal any damage to him until you are ready to kill him in one encounter, otherwise you will be locked out of [N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801).  Smoke Bombs and Warp can be used to flee immediately.
+
 After finishing Darill's Tomb, the rest of the World of Ruin can be completed in any order.  As with the Blackjack, party members can be changed by talking to them on the airship.  The game takes you straight to Maranda, but there are some easy collectibles we can get that will make other sections of the game easier (especially for LLG runs).
 
 ✅**Magicite 15 out of 26**  
@@ -964,7 +966,7 @@ After you Umaro, speak with him with Mog in your party and he will join your tea
 |--|--|--|
 |Toe Cutter|Twinscythe|
 |Rhyos|Gorgimera|
-|Allo Ver|Death Warden|
+|Allo Ver|Death Warden|Does not appear on Veldt|
 
 ✅**Character 7 out of 14**  
 Travel to the Veldt with 3 people in the party.  You need at least 5 characters recruited to access the party change screen, which is why Narshe was the first stop.  Winning a battle of the Veldt will have a chance for Gau to join just like he does when learning new rages.
@@ -979,26 +981,30 @@ _Witness a hidden scene that involves Gau and his father_
 
 With Gau and Sabin in the party, travel northeast of the Veldt to lone house on the Northern Continent.  Speak with Gau's Father for a scene and an achievement.
 
-**![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
-[N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
-_Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
-
-✅**Magicite 19 out of 26**  
-Use Gau's Rafflesia Rage and pummel away at Doom Gaze.  While charmed, the boss will not attempt to flee and will attack himself repeatedly until all his HP is gone.  The achievement will unlock once you pick up the Bahamut magicite.
-
-
 ### Colosseum
 
 ✅**Character 8 out of 14**  
 The Colosseum is located in the northwest corner of the map.  Bet the Striker found in the Cave on the Vedlt to battle against Shadow.  Defeating Shadow will add him back into the party.  Shadow is particularly useful as a fighter in the Colosseum since the AI will not use Throw.  If Shadow has no magic, he will only attack.  Even better, he can equip Striker for instant kills on many enemies and has a high base evasion.
 
-It is highly recommended to bet the Czarina Gown (Regal Gown) found in Darill's Tomb to obtain a Minerva for Celes.  This is a fantastic piece of armor that will help greatly with [Minerva Twins (10)](https://retroachievements.org/achievement/6887).  The Behemoth Suit can also be bet in exchange for a Snow Muffler (Snow Scarf).  This item is Gau's best armor and will make him an even more unstoppable force.  Both of the enemies for these exchanges are vulnerable to Striker's instant death ability.
+It is highly recommended to bet the Czarina Gown (Regal Gown) found in Darill's Tomb to obtain a Minerva for Celes.  This is a fantastic piece of armor that will help greatly with [Minerva Twins (10)](https://retroachievements.org/achievement/6887).  The Behemoth Suit can also be bet in exchange for a Snow Muffler (Snow Scarf).  This item is Gau's (and Mog's/Umaro's) best armor and will make him an even more unstoppable force.  Both of the enemies for these exchanges are vulnerable to Striker's instant death ability.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578728-b2db75f0-feea-4062-91bd-854ebd6acbc7.png)
 [Beyond the Shadows I (10)](https://retroachievements.org/achievement/5653)**  
 _Witness Shadow's first set of dreams_  
 
 Add Shadow to your party and stay at an inn repeated for some hidden scenes involving his backstory.  This achievement will unlock after viewing the final scene.
+
+### Mt. Zozo
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Ursus|Mugbear|
+|Punisher|
+|Borras|Glasya Labolas|
+|Scrapper|Devil Fist|Outside Only|
+|Luridan||Outside Only|
+
+✅**Character 9 out of 14**  
+Travel to Maranda and speak with the girl in the house with the carrier pigeons.  Follow the pigeon to Zozo and speak with the man near the Inn to buy a Rust-Rid.  Enter the Pub and use the Rust-Rid on the door outside to reach Mt. Zozo.  At the end of Mt Zozo, you will encounter Cyan who will rejoin your party.
 
 ### Mobliz
 
@@ -1011,7 +1017,7 @@ _Defeat Phunbaba's final form using only Celes and Terra, no instant death moves
 
 After obtaining Fenrir, leave Mobliz.  Before returning to Mobliz, adjust the party so that Celes is the only member.  Equipping the Minvera armor will grant high defense and make Celes immune to half of Phunbaba's attacks.  Put Celes in the back row and cast Bio repeatedly.  With luck, he will not use 1000 Needles until Terra shows up, allowing you to beat him even at low levels.
 
-✅**Character 9 out of 14**  
+✅**Character 10 out of 14**  
 After your battle against Phunbaba, Terra will rejoin the party.
 
 ### Jidoor
@@ -1051,6 +1057,19 @@ _Transform Odin into Raiden_
 **![image](https://user-images.githubusercontent.com/120497130/223576907-2a1ceb59-db09-446f-882a-01e74aaa4735.png)
 [Psychic Vampires (10)](https://retroachievements.org/achievement/7298)**  
 _Defeat MagiMaster by draining away his Magic Points_
+
+### Doom Gaze
+
+**![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
+[N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
+_Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
+
+✅**Magicite 25 out of 26**  
+While flying with the airship, you may encounter a battle with Doom Gaze.  Doom Gaze has a fixed amount of HP that can be chipped away over the course of several encounters.  He will attempt to flee on turn 3 and every turn after, but in order to earn this achievement, you need to deplete all 55k HP in one encounter.  This means that a 4 party team needs to hit him for an average of 7k damage each turn to beat him before he runs.  He is weak to fire and holy, so high level spells such as Fire 3 or Pearl will deal lots of damage.  Gau's Io Rage can cast Flare Star which will always hit for 9999 damage.
+
+An easier alternative is to use Gau's Rafflesia Rage.  While charmed, Doom Gaze will not attempt to flee and will attack himself repeatedly until all his HP is gone.
+
+The achievement will unlock once you pick up the Bahamut magicite.
 
 ### Kefka's Tower
 
