@@ -969,7 +969,7 @@ After you Umaro, speak with him with Mog in your party and he will join your tea
 ✅**Character 7 out of 14**  
 Travel to the Veldt with 3 people in the party.  You need at least 5 characters recruited to access the party change screen, which is why Narshe was the first stop.  Winning a battle of the Veldt will have a chance for Gau to join just like he does when learning new rages.
 
-Once again, the Veldt is a great opportunity to learn new magic, earn GP and acquire rages.
+Once again, the Veldt is a great opportunity to learn new magic, earn GP and acquire rages.  Be sure to pick up the Rafflesia Rage to make several upcoming achievements much easier.
 
 Enter the Cave on the Veldt and find Striker (Ichigeki) in one of the chests.  At the end of the Cave, you will fight a Behemoth King and find Shadow.  Shadow will not join your party at this time, but you must rescue him to recruit him later.  Note: After killing the boss, he will reappear in an undead variant.  Use a Fenix Down on him to kill him instantly.
 
@@ -979,12 +979,20 @@ _Witness a hidden scene that involves Gau and his father_
 
 With Gau and Sabin in the party, travel northeast of the Veldt to lone house on the Northern Continent.  Speak with Gau's Father for a scene and an achievement.
 
+**![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
+[N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
+_Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
+
+✅**Magicite 19 out of 26**  
+Use Gau's Rafflesia Rage and pummel away at Doom Gaze.  While charmed, the boss will not attempt to flee and will attack himself repeatedly until all his HP is gone.  The achievement will unlock once you pick up the Bahamut magicite.
+
+
 ### Colosseum
 
 ✅**Character 8 out of 14**  
 The Colosseum is located in the northwest corner of the map.  Bet the Striker found in the Cave on the Vedlt to battle against Shadow.  Defeating Shadow will add him back into the party.  Shadow is particularly useful as a fighter in the Colosseum since the AI will not use Throw.  If Shadow has no magic, he will only attack.  Even better, he can equip Striker for instant kills on many enemies and has a high base evasion.
 
-It is highly recommended to bet the Czarina Gown (Regal Gown) found in Darill's Tomb to obtain a Minerva for Celes.  This is a fantastic piece of armor that will help greatly with [Minerva Twins (10)](https://retroachievements.org/achievement/6887).
+It is highly recommended to bet the Czarina Gown (Regal Gown) found in Darill's Tomb to obtain a Minerva for Celes.  This is a fantastic piece of armor that will help greatly with [Minerva Twins (10)](https://retroachievements.org/achievement/6887).  The Behemoth Suit can also be bet in exchange for a Snow Muffler (Snow Scarf).  This item is Gau's best armor and will make him an even more unstoppable force.  Both of the enemies for these exchanges are vulnerable to Striker's instant death ability.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578728-b2db75f0-feea-4062-91bd-854ebd6acbc7.png)
 [Beyond the Shadows I (10)](https://retroachievements.org/achievement/5653)**  
@@ -994,7 +1002,7 @@ Add Shadow to your party and stay at an inn repeated for some hidden scenes invo
 
 ### Mobliz
 
-✅**Magicite 19 out of 26**  
+✅**Magicite 20 out of 26**  
 After Phunbaba escapes during the 2nd encounter, attempt to leave the house.  A child will hand over Fenrir.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576517-d23ee4aa-cbcb-411c-bdbb-2be8b4bc7053.png)
@@ -1158,10 +1166,6 @@ _Learn the Tier 5 and 6 Rages_
 **![image](https://user-images.githubusercontent.com/120497130/223578972-66619ecf-a270-4a75-9f75-9262a53f8e6e.png)
 [Beastlord (25)](https://retroachievements.org/achievement/5432)**  
 _Learn the rarest, most elusive Rages_
-
-**![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
-[N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
-_Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
 
 **![image](https://user-images.githubusercontent.com/120497130/223579129-bbb3309e-4e13-478e-8528-6f97b934fb6e.png)
 [Dragon Slayer (10)](https://retroachievements.org/achievement/6534)**  
