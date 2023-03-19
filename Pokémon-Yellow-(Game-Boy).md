@@ -13,7 +13,7 @@
 
 # 2) Introduction
 
-Pokémon Yellow is the fourth version of Generation 1, and the third version for us in the west. This version is an enhancement over Pokémon Red and Blue, having some quality-of-life features but mostly attempting to draw in more people due to the popularity of the anime at the time. While the story is still the exact same as the original game, some anime characters like Officer Jenny and Jessie and James are more prevalent, and the starter Pokémon is Pikachu. This Pikachu is special as it can evolve, and will always follow the trainer and can be interacted with.
+Pokémon Yellow is the fourth version of Generation 1, and the third version for us in the west. This version is an enhancement over Pokémon Red and Blue, having some quality-of-life features but mostly attempting to draw in more people due to the popularity of the anime at the time. While the story is still the exact same as the original game, some anime characters like Officer Jenny and Jessie and James are more prevalent, and the starter Pokémon is Pikachu. This Pikachu is special as it can't evolve, and will always follow the trainer and can be interacted with.
 
 The achievement set consists of a total of 77 achievements, created by users Blazekickn, [stfN1337](https://retroachievements.org/user/stfN1337), and [dude1286](https://retroachievements.org/user/dude1286). This set covers everything there is to do in the main story, as well as some additional challenges that mostly revolve around you using your own pikachu, and a bunch of friendship achievements to see if Pikachu is happy with you or not. Be sure to shower him with love, as he will be your best friend during this game--whether you want to or not.
 
