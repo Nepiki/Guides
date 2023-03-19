@@ -1038,12 +1038,32 @@ Within the cave, you will encounter the Red Dragon.  It is weak to ice and casts
 ![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 20 out of 26**  
 After you complete the dungeon and find Locke, he will rejoin your party after a scene.  You will also receive the Phoenix Magicite.
 
+**![image](https://user-images.githubusercontent.com/120497130/223579015-47bad205-f021-4acb-ba7f-52bf37f209bf.png)
+[Patience Pays III (5)](https://retroachievements.org/achievement/7284)**  
+_Uncurse the Curse Shield_
+
+With Locke in the party, return to Narshe and head to the building north of the relic shop.  In the basement, a man will hand over a Cursed Shield.  This shield will put every status affect on the character that equips it, so be sure to give them a ribbon to counter these affects.  The Cursed Shield will turn into a Paladin Shield by fighting in 256 AP granting battles with it equipped.  The Paladin Shield is the best shield in the game and is key to beating some of the Colosseum bosses.
+
+🚩 **Make a separate save before accepting Ragnarok.** 🚩  
+
+After making a backup save, add Locke to the party and head to the weapon shop in Narshe.  Down the stairs is the shop owner who will offer you Raganrok either as a weapon or as an Esper.  
+
+**![image](https://user-images.githubusercontent.com/120497130/223578799-92bd54ae-52a5-4351-9925-083ae2311063.png)
+[Illuminated! (4)](https://retroachievements.org/achievement/7299)**  
+_Win an Illumina at the colosseum_
+
+Illumina is obtained by betting the Ragnarok weapon at the Colosseum.  The opponent, Didalos, uses a variety of spells, but doesn't have have much MP.  Place Mog in the back row equipped with a Flame Shield, Snow Muffler, Ribbon, and Reflect Ring.  This will counter or absorb most of his abilities.  Mog will likely use Dance to start Wind Song, which will deal the remaining damage while also keeping Mog's HP topped off with Sun Beam.  Once you win, this achievement will unlock.  
+
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 24 out of 26**  
+Once Illumina is acquired, revert back to your original save and instead choose the Magicite version of Ragnarok for your main playthrough.
 
 ### Jidoor
 
 **![image](https://user-images.githubusercontent.com/120497130/223576551-89ec89b9-f735-4296-b481-3598ece38f22.png)
 [I Work Alone (10)](https://retroachievements.org/achievement/7128)**  
 _Have Shadow rescue Relm, alone_
+
+### Thasma & Ebon Rock
 
 **![image](https://user-images.githubusercontent.com/120497130/223576583-4026f39d-d00f-4d4d-8412-4bc1f0f2b122.png)
 [Step Aside, Gramps! (10)](https://retroachievements.org/achievement/7162)**  
@@ -1089,7 +1109,7 @@ Holy Dragon
 [Psychic Vampires (10)](https://retroachievements.org/achievement/7298)**  
 _Defeat MagiMaster by draining away his Magic Points_
 
-### Final Preparation
+### Final Preparations
 
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 6 out of 8**  
 Earth Dragon (Opera House)
@@ -1172,17 +1192,13 @@ _Win a pair of Marvel Shoes at the colosseum_
 Winning the Marvel Shoes requires a few different fights to get the item you actually need to bet.
 
 |Bet|Reward|Enemy|Notes|
-|--|--|--|
+|--|--|--|--|
 |Elixir|Rename Card|Cactrot|Equip Sniper Eye for 100% hit|
 |Rename Card|Marvel Shoes|Doom Drgn|
 
 **![image](https://user-images.githubusercontent.com/120497130/223578786-643ddf22-d9be-41e0-a41c-3b5de399476d.png)
 [Miao-Miao! (4)](https://retroachievements.org/achievement/7158)**  
 _Win a Cat Hood at the colosseum_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578799-92bd54ae-52a5-4351-9925-083ae2311063.png)
-[Illuminated! (4)](https://retroachievements.org/achievement/7299)**  
-_Win an Illumina at the colosseum_
 
 **![image](https://user-images.githubusercontent.com/120497130/223578809-a374a29f-c1dc-45a2-b8db-016963f1a3ce.png)
 [The Master Swordsman (10)](https://retroachievements.org/achievement/7164)**  
@@ -1258,10 +1274,6 @@ _Equip DragoonBoots and Dragon Horns on Edgar and Mog at once_
 WoR
 DragoonBoots - Purchased at Thamasa, Tzen.
 Dragon Horn - One found in Phoenix Cave, other obtained through colosseum.
-
-**![image](https://user-images.githubusercontent.com/120497130/223579015-47bad205-f021-4acb-ba7f-52bf37f209bf.png)
-[Patience Pays III (5)](https://retroachievements.org/achievement/7284)**  
-_Uncurse the Curse Shield_
 
 **![image](https://user-images.githubusercontent.com/120497130/223576483-319622cf-d0da-4beb-886b-670ebe2a54a6.png)
 [Hold Onto Your Butts... (10)](https://retroachievements.org/achievement/6798)**  
