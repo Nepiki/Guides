@@ -1034,6 +1034,8 @@ The Phoenix Cave is located in a hole in the mountains north of Tzen.  Land your
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 3 out of 8**  
 Within the cave, you will encounter the Red Dragon.  It is weak to ice and casts mostly fire based spells.  The party is likely better equipped at this point, but as with the other dragons, this fight is available later if the party is unable to defeat it.
 
+Note: Be sure to pick up the Dragoon Horn in the chest above the Red Dragon.  It will be used later to unlock [Double Dragoon (5)](https://retroachievements.org/achievement/7285).
+
 ✅**Character 11 out of 14**  
 ![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 20 out of 26**  
 After you complete the dungeon and find Locke, he will rejoin your party after a scene.  You will also receive the Phoenix Magicite.
@@ -1140,7 +1142,9 @@ _Defeat MagiMaster by draining away his Magic Points_
 
 As with the White Drgn, this is quite simple.  Cast Berserk on the MagiMaster to prevent him from casting spells.  After that, continually cast Rasp to drain the magic points.  When a character runs out, cast Osmose to replenish their MP and go back to rasp.  Normally the boss will cast Ultima as a desperate attack dying, but since he has no MP, it fails!
 
-### Thamasa & Ebon Rock
+### Ebot's Rock
+
+With Relm and Strago in the party, return the Thamasa for a scene.  The entrance to Ebot's Rock will now be open on the island north of Thamasa.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576583-4026f39d-d00f-4d4d-8412-4bc1f0f2b122.png)
 [Step Aside, Gramps! (10)](https://retroachievements.org/achievement/7162)**  
