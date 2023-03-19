@@ -1034,7 +1034,7 @@ The Phoenix Cave is located in a hole in the mountains north of Tzen.  Land your
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 3 out of 8**  
 Within the cave, you will encounter the Red Dragon.  It is weak to ice and casts mostly fire based spells.  The party is likely better equipped at this point, but as with the other dragons, this fight is available later if the party is unable to defeat it.
 
-✅**Character 10 out of 14**  
+✅**Character 11 out of 14**  
 ![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 20 out of 26**  
 After you complete the dungeon and find Locke, he will rejoin your party after a scene.  You will also receive the Phoenix Magicite.
 
@@ -1057,13 +1057,90 @@ Illumina is obtained by betting the Ragnarok weapon at the Colosseum.  The oppon
 ![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 24 out of 26**  
 Once Illumina is acquired, revert back to your original save and instead choose the Magicite version of Ragnarok for your main playthrough.
 
-### Jidoor
+### Zone Eater
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Woolly|Baalzephon|
+|Wart Puck|Wartpuck|
+|Karkass|Shambling Corpse|
+|Ogor|Kamui|
+|Convert|
+|Tap Dancer|Amdusciast|
+
+**![image](https://user-images.githubusercontent.com/120497130/223578603-f28f8ae1-1ea0-448e-a5a2-a5d3e7ffabaa.png)
+[Gender Crisis (5)](https://retroachievements.org/achievement/6767)**  
+_Recruit Gogo_
+
+✅**Character 12 out of 14**  
+Travel to the Triangle Island in the northeast corner of the map.  This island is the home of the Zone Eater.  While fighting the Zone Eater, it will engulf your party members.  Once all party members are engulfed, the battle will end and the party will end up in the Zone Eater dungeon.  Traverse this dungeon and speak to Gogo at the end to invite him to the party.
+
+### Owzer's Mansion
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|NightShade|Rafflesia|Flower Painting (One Time Only)|
+|Dahling|Misty|
+|Vindr|Cladrius|
+|Crusher|
+|Wild Cat|Coeurl Cat|
+|SoulDancer|Blade Dancer|
+|Still Life|
+
+Note: Rafflesia was a recommended pick up earlier in the guide, so it may already be encountered.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576551-89ec89b9-f735-4296-b481-3598ece38f22.png)
 [I Work Alone (10)](https://retroachievements.org/achievement/7128)**  
 _Have Shadow rescue Relm, alone_
 
-### Thasma & Ebon Rock
+Navigating this dungeon with only Shadow can be tricky, especially while doing a LLG run.  Purchase around 20 Smoke Bombs (300gp each) and 50 Ninja Stars (500gp each) from the item and weapon shop in Thamasa.  Put Shadow in the back row and equip the best armor available.  Recommendations include Genji Helmet, Genji Armor and Thunder Shield.  The shield is particularly useful for the boss.  For relics, equip Shadow with a Memento Ring to counter Doom cast by the boss.  Consider a Zephyr Cape as the other relic to stack Magic evasion and avoid Charm.
+
+Use Smoke Bombs to escape any encounters.  This is faster than running away and will reduce the risk of getting killed.  Using a Smoke Bomb will still add the encounter to the Veldt.  The most dangerous encounter is SoulDancr as they can throw weapons at Shadow, ignoring back row and defense.  On LLG runs, one or two of these is enough to kill Shadow.
+
+The boss uses a combination of thunder element magic, non-elemental attacks, and charm.  The thunder shield will absorb most of the attacks, and heal Shadow too.  The biggest risk is charm.  When it hits, Shadow may hit himself enough times to die before it wears off.  Fortunately, there is a save point before the boss so it is easy to retry.  Once the boss dies, this achievement will unlock.
+
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 21 out of 26**  
+After defeating the boss, interact with the bookshelf in Owzer's back room.  This will grant the Starlet (Lakshmi) magicite.
+
+✅**Character 13 out of 14**  
+After obtaining the magicite, speak with Relm to have her rejoin the party.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578575-0290038d-33c5-4758-84b3-cba9dd2b6158.png)
+[Mascot Relm (3)](https://retroachievements.org/achievement/6221)**  
+_Have Relm dress up in a Moogle Suit_
+The Moogle Suit is found in Owzer's Mansion in the left door at the first split.  It can also be stolen from Dahling (Misty) or SoulDancer(Blade Dancer).  Equip it on Relm to unlock this achievement.
+
+### Tower of Fanatics
+
+The Tower of Fanatics is unique in that only the Magic ability can be used here.  Using the Moogle Charm to avoid enemy encounters is highly recommended, especially for LLG runs.  There is only one normal enemy that shows up on the Veldt, Magic Urn.  For the bosses, equip Wall/Reflect Rings on the whole party to negate a large number of the attacks.  Keep in mind that cure spells cast on your party will also reflect back to the enemy.
+
+✅**Character 14 out of 14**  
+With Relm in the party, travel to the Tower of Fanatics in the center of Serpent's Trench.  Relm will snap Strago out of his delusions and he will join the party.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578637-066238b5-4a5c-4266-98c5-129bd692249f.png)
+[You Are Not Alone (10)](https://retroachievements.org/achievement/6296)**  
+_Recruit every character_
+
+Now that the whole gang is back together again, this achievement will unlock!
+
+**![image](https://user-images.githubusercontent.com/120497130/223578859-3cbb474f-1bc0-4277-bfc6-c0b3f1d9f065.png)
+[Complete Toolset (10)](https://retroachievements.org/achievement/6704)**  
+_Find the Air Anchor in the Fanatics' Tower_
+
+In the room on Floor 8, interact with a hidden switch on the wall to the right of the treasure chest.  This will reveal a door on floor 7 that contains the Air Anchor.  Opening that chest will unlock this achievement.
+
+Note: The Air Anchor room has a 100% chance of spawning Magic Urns and no other enemies.  Temporarily unequip the Moogle Charm in this room to get this encounter.
+
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 4 out of 8**  
+The White Drgn (Holy Dragon) is the easiest of the bunch.  Ensure that all characters are equipped with Wall/Reflect Rings and it will not be able to hit you with its most powerful attacks.  Even better, it will waste turns trying to dispel reflect.  Hit it with your best magic attacks and use Osmose to replenish your MP as needed.
+
+**![image](https://user-images.githubusercontent.com/120497130/223576907-2a1ceb59-db09-446f-882a-01e74aaa4735.png)
+[Psychic Vampires (10)](https://retroachievements.org/achievement/7298)**  
+_Defeat MagiMaster by draining away his Magic Points_
+
+As with the White Drgn, this is quite simple.  Cast Berserk on the MagiMaster to prevent him from casting spells.  After that, continually cast Rasp to drain the magic points.  When a character runs out, cast Osmose to replenish their MP and go back to rasp.  Normally the boss will cast Ultima as a desperate attack dying, but since he has no MP, it fails!
+
+### Thamasa & Ebon Rock
 
 **![image](https://user-images.githubusercontent.com/120497130/223576583-4026f39d-d00f-4d4d-8412-4bc1f0f2b122.png)
 [Step Aside, Gramps! (10)](https://retroachievements.org/achievement/7162)**  
@@ -1097,17 +1174,8 @@ _Steal from and defeat KatanaSoul, no instant death moves_
 [Shin-Zantetsuken (3)](https://retroachievements.org/achievement/7238)**  
 _Transform Odin into Raiden_
 
-![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 4 out of 8**  
-Blue Dragon
-
-### Cultist's Tower
-
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 5 out of 8**  
-Holy Dragon
-
-**![image](https://user-images.githubusercontent.com/120497130/223576907-2a1ceb59-db09-446f-882a-01e74aaa4735.png)
-[Psychic Vampires (10)](https://retroachievements.org/achievement/7298)**  
-_Defeat MagiMaster by draining away his Magic Points_
+Blue Dragon
 
 ### Final Preparations
 
@@ -1208,21 +1276,9 @@ _Defeat the true Siegfried_
 
 ### Character/Skill Collections
 
-**![image](https://user-images.githubusercontent.com/120497130/223578603-f28f8ae1-1ea0-448e-a5a2-a5d3e7ffabaa.png)
-[Gender Crisis (5)](https://retroachievements.org/achievement/6767)**  
-_Recruit Gogo_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578637-066238b5-4a5c-4266-98c5-129bd692249f.png)
-[You Are Not Alone (10)](https://retroachievements.org/achievement/6296)**  
-_Recruit every character_
-
 **![image](https://user-images.githubusercontent.com/120497130/223578837-7edf3f33-d623-4d0f-8282-0f6ed35694f8.png)
 [Swordity Sword (10)](https://retroachievements.org/achievement/6890)**  
 _Learn all Swordtechs_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578859-3cbb474f-1bc0-4277-bfc6-c0b3f1d9f065.png)
-[Complete Toolset (10)](https://retroachievements.org/achievement/6704)**  
-_Find the Air Anchor in the Fanatics' Tower_
 
 **![image](https://user-images.githubusercontent.com/120497130/223578870-16f43910-64f7-492b-8f23-a10b5dcca9dc.png)
 [Elder Wisdom (10)](https://retroachievements.org/achievement/7157)**  
@@ -1262,11 +1318,6 @@ In addition to unlocking the achievement, defeating all 8 dragons will grant the
 _Collect all Magicite_
 
 ## Step 5: Miscellaneous | Total Points: XX
-
-**![image](https://user-images.githubusercontent.com/120497130/223578575-0290038d-33c5-4758-84b3-cba9dd2b6158.png)
-[Mascot Relm (3)](https://retroachievements.org/achievement/6221)**  
-_Have Relm dress up in a Moogle Suit_
-Found in Jidoor.  Steal from Misty, Blade Dancer
 
 **![image](https://user-images.githubusercontent.com/120497130/223578586-f88e226f-3b42-4cdf-a6e0-c4094165306d.png)
 [Double Dragoon (5)](https://retroachievements.org/achievement/7285)**  
