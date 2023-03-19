@@ -692,7 +692,7 @@ This is your last opportunity to learn magic and earn GP on the Veldt without ea
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
 |Sky Armor||Sky Blockade|
-|Spit Fire|Spitfire||Sky Blockade|
+|Spit Fire|Spitfire|Sky Blockade|
 |Ninja|
 |Wirey Dragon|Platinum Dragon|
 |Misfit|
@@ -848,7 +848,8 @@ Once the fight starts, the only command you can use is Item > Superball.  Each b
 
 ### Falcon Exploration
 
-🚩 While flying in the Falcon, you may encounter Doom Gaze.  Do not deal any damage to him until you are ready to kill him in one encounter, otherwise you will be locked out of [N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801).  Smoke Bombs and Warp can be used to flee immediately.
+🚩 **Run away if you encounter Doom Gaze.** 🚩  
+While flying in the Falcon,  you may run into a boss encounter with Doom Gaze.  Do not deal any damage to him until you are ready to kill him in one encounter, otherwise you will be locked out of [N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801).  Smoke Bombs and Warp can be used to flee immediately.
 
 After finishing Darill's Tomb, the rest of the World of Ruin can be completed in any order.  As with the Blackjack, party members can be changed by talking to them on the airship.  The game takes you straight to Maranda, but there are some easy collectibles we can get that will make other sections of the game easier (especially for LLG runs).
 
@@ -901,7 +902,8 @@ Travel to Narshe and take the back entrance to the mines via Arvis's House.  Spe
 [Kuku's Treasures (5)](https://retroachievements.org/achievement/5818)**  
 _Find Kuku's Charm and Ribbon she left behind for Mog_
 
-After recruiting Mog, interact with the wall behind him to obtain the Moogle Charm (Molulu's Charm).  In the same room, check the western passage to find a treasure chest.  If it was not opened in the WoB, it will contain a Ribbon.  Once both items are acquired, this achievement will unlock.
+After recruiting Mog, interact with the wall behind him to obtain the Moogle Charm (Molulu's Charm).  In the same room, check the western passage to find a treasure chest.  If it was not opened in the WoB, it will contain a Ribbon.  Once both items are acquired, this achievement will unlock.  
+Note: The Moogle Charm can only be equipped my Mog, but it prevents all enemy encounters while active.  This is great for LLG runs and the main reason we detoured to Narshe.
 
 ✅**Mog Dances 8 out of 8**
 |![image](https://user-images.githubusercontent.com/120497130/224417209-7eb3ce46-4907-4632-bef5-9452a96a4e94.png) Dance|Alt Name|Battlefield Type|
@@ -948,7 +950,7 @@ Defeating Tritoch will grant you the Tritoch (Valigarmanda) magicite.
 |Anemone|
 |Tomb Thumb|Onion Dasher|
 |Kiwok|Tzakmaquiel|
-|Pug|Tonberry|
+|Pug|Tonberry|Cave Entrance Only|
 
 ✅**Magicite 18 out of 26**  
 After defeating Tritoch, a path will open behind where it was frozen.  Jump down this pit with Mog in your party to find the Yeti's Cave.  At the end of the cave, examine the skull to receive the Terrato (Midgardsormr) magicite.  This will also cause Umaro to attack you.  Use a combination of Fire spells and defense ignoring skills such as Drill.
@@ -958,7 +960,7 @@ After defeating Tritoch, a path will open behind where it was frozen.  Jump down
 _Recruit Umaro_
 
 ✅**Character 6 out of 14**  
-After you Umaro, speak with him with Mog in your party and he will join your team.
+After you defeat Umaro, speak with him with Mog in your party and he will join your team.
 
 ### Veldt & Cave On the Veldt
 
@@ -967,6 +969,7 @@ After you Umaro, speak with him with Mog in your party and he will join your tea
 |Toe Cutter|Twinscythe|
 |Rhyos|Gorgimera|
 |Allo Ver|Death Warden|Does not appear on Veldt|
+|SrBehemoth|King Behemoth|Boss|
 
 ✅**Character 7 out of 14**  
 Travel to the Veldt with 3 people in the party.  You need at least 5 characters recruited to access the party change screen, which is why Narshe was the first stop.  Winning a battle of the Veldt will have a chance for Gau to join just like he does when learning new rages.
