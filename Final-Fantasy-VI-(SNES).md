@@ -393,7 +393,7 @@ _Perform an instant kill with the chainsaw_
 
 Enter the Inn in Zozo.  Interact with the clock and set the time to 6:10:50 to find the chain saw. When you use the chainsaw in combat, it has a 25% chance to insta kill the enemy.  Doing so will unlock this achievement.
 
-✅**Magicite 4 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 4 out of 26**  
 Upon finding Terra, you will receive Ramuh, Kirin, Siren and Stray (Cait Sith) magicite
 
 ### Opera House
@@ -458,7 +458,7 @@ _Find a way to escape the battle with Ifrit and Shiva_
 
 There is a save point in the door north of Ifrit, which could be helpful for reattempting this achievement.  Attack Ifrit 5 times to force him to swap to Shiva.  Start running away after the 5th hit and you will have a chance to run away while they swap.  Once you run away, the battle will be considered successful.
 
-✅**Magicite 6 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 6 out of 26**  
 After defeating Ifrit and Shiva, pick up their magicite.  Ifrit is technically missable, so be sure to get him before leaving the room.
 
 ### Magitek Research Facility
@@ -473,7 +473,7 @@ After defeating Ifrit and Shiva, pick up their magicite.  Ifrit is technically m
 |Mag Roader (Purple)|Magna Roader|Mine Cart Only|
 |Chaser||After Mine Cart Only|
 
-✅**Magicite 12 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 12 out of 26**  
 After defeating Number 024, you will receive Unicorn, Maduin, Shoat (Catoblepas), Phantom, Carbunkl (Carbuncle), and Bismarck.
 
 ⚠️ Mag Roader (Red) encounters during the mine cart section is dependent on the character in slot 1.  If it does not appear, try changing characters or changing the slot 1 character into an imp.
@@ -527,10 +527,10 @@ To learn Water Rondo, Mog must be taken to the Lethe River or Serpent's Trench. 
 
 All Dances can be learned in the WoR EXCEPT Water Rondo, so be sure to get this as early as possible.  The final dance will be learned in the World of Ruin.
 
-✅**Magicite 13 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 13 out of 26**  
 Travel to Tzen at the northern tip of the Southern Continent.  In the north east corner of town, a thief will sell you Sraphim (Seraph) for 3000gp.
 
-✅**Magicite 14 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 14 out of 26**  
 Travel to Jidoor on the Western continent near Zozo and the Opera House.  Participate in the auction until Golem is available for purchase.  Outbid the competitors to acquire this magicite.  If you fail to outbid, it will show up in the Auction House again.  
 🚩 **Do not purchase both Golem and ZoneSeek (Zona Seeker) in the Auction House.** 🚩  
 Purchasing both will lock out [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440).  We will get the other magicite later.  Feel free to purchase the Cherub Down (Angel Wings) and Cure Ring (Angel Ring).
@@ -853,7 +853,7 @@ While flying in the Falcon,  you may run into a boss encounter with Doom Gaze.  
 
 After finishing Darill's Tomb, the rest of the World of Ruin can be completed in any order.  As with the Blackjack, party members can be changed by talking to them on the airship.  The game takes you straight to Maranda, but there are some easy collectibles we can get that will make other sections of the game easier (especially for LLG runs).
 
-✅**Magicite 15 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 15 out of 26**  
 Travel to Cid's House on Solitary Island in the south west corner of the world map.  Return to the beach with the fish to find the Palidor (Quetzalli) magicite.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578817-2648bace-b403-4ea1-bd4e-5e0063eef9a0.png)
@@ -868,7 +868,7 @@ Speak with Duncan to learn the Bum Rush (Phantom Rush) Blitz.  Perform this on a
 **![image](https://user-images.githubusercontent.com/120497130/223482334-486361bb-322e-4567-971b-8a76d0753ec7.png) [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440)**  
 _Win all the exclusive items at the Auction House_
 
-✅**Magicite 16 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 16 out of 26**  
 The remaining unique items can now be purchased at the Auction House in Jidoor.  If you purchased Golem in the WoB, 70k GP is needed to purchase the remaining items.  The following items need to be purchased to unlock this achievement:
 * Zoneseek Magicite
 * Golem Magicite
@@ -938,7 +938,7 @@ _Defeat Tritoch, no instant death moves_
 
 Past the dragon is your final encounter with Tritoch.  Tritoch only has one damaging move, Ice 3.  It will also attempt to drain your MP using Rasp or freeze your characters temporarily.  Equip Wall Rings on your characters and you are essentially invulnerable.  Use fire spells to damage it and Osmose to replenish your MP.  Be sure not to use any instant death spells or glitches.
 
-✅**Magicite 17 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 17 out of 26**  
 Defeating Tritoch will grant you the Tritoch (Valigarmanda) magicite.
 
 ### Yeti's Cave
@@ -953,7 +953,7 @@ Defeating Tritoch will grant you the Tritoch (Valigarmanda) magicite.
 |Kiwok|Tzakmaquiel|
 |Pug|Tonberry|Cave Entrance Only|
 
-✅**Magicite 18 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 18 out of 26**  
 After defeating Tritoch, a path will open behind where it was frozen.  Jump down this pit with Mog in your party to find the Yeti's Cave.  At the end of the cave, examine the skull to receive the Terrato (Midgardsormr) magicite.  This will also cause Umaro to attack you.  Use a combination of Fire spells and defense ignoring skills such as Drill.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578616-e4cda938-eca8-44ac-8d22-a7fa40e088ef.png)
@@ -1015,7 +1015,7 @@ Stepping on a switch in Mt. Zozo will unleash the Storm Dragon.  This dragon use
 
 ### Mobliz
 
-✅**Magicite 20 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 19 out of 26**  
 After Phunbaba escapes during the 2nd encounter, attempt to leave the house.  A child will hand over Fenrir.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576517-d23ee4aa-cbcb-411c-bdbb-2be8b4bc7053.png)
@@ -1034,6 +1034,11 @@ The Phoenix Cave is located in a hole in the mountains north of Tzen.  Land your
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 3 out of 8**  
 Within the cave, you will encounter the Red Dragon.  It is weak to ice and casts mostly fire based spells.  The party is likely better equipped at this point, but as with the other dragons, this fight is available later if the party is unable to defeat it.
 
+✅**Character 10 out of 14**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 20 out of 26**  
+After you complete the dungeon and find Locke, he will rejoin your party after a scene.  You will also receive the Phoenix Magicite.
+
+
 ### Jidoor
 
 **![image](https://user-images.githubusercontent.com/120497130/223576551-89ec89b9-f735-4296-b481-3598ece38f22.png)
@@ -1048,6 +1053,8 @@ _Solo Hidon using only Relm, no instant death moves_
 * Respawn Hidon by talking to Gungho repeatedly in Thamasa
 * Defeat Hidon with Relm as the only party member
 
+### Doma Castle
+
 **![image](https://user-images.githubusercontent.com/120497130/223576625-86ec91ac-90a6-4e00-b15a-7d23705f2994.png)
 [We're All Mad Here (25)](https://retroachievements.org/achievement/119158)**  
 _Defeat the Dream Stooges with a party of three imps and full imp gear_
@@ -1055,6 +1062,8 @@ _Defeat the Dream Stooges with a party of three imps and full imp gear_
 **![image](https://user-images.githubusercontent.com/120497130/223576716-39bbc1b0-c37a-459d-9cda-c6c25c81b309.png)
 [Throne Retained (10)](https://retroachievements.org/achievement/7173)**  
 _Defeat Wrexsoul and win a Pod Bracelet_
+
+### Ancient Castle
 
 **![image](https://user-images.githubusercontent.com/120497130/223576744-098c8eae-4f1a-4a8f-91dc-0fa43faafe44.png)
 [Alone in the Dark (10)](https://retroachievements.org/achievement/7197)**  
@@ -1068,8 +1077,13 @@ _Steal from and defeat KatanaSoul, no instant death moves_
 [Shin-Zantetsuken (3)](https://retroachievements.org/achievement/7238)**  
 _Transform Odin into Raiden_
 
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 4 out of 8**  
+Blue Dragon
+
 ### Cultist's Tower
 
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 5 out of 8**  
+Holy Dragon
 
 **![image](https://user-images.githubusercontent.com/120497130/223576907-2a1ceb59-db09-446f-882a-01e74aaa4735.png)
 [Psychic Vampires (10)](https://retroachievements.org/achievement/7298)**  
@@ -1077,11 +1091,14 @@ _Defeat MagiMaster by draining away his Magic Points_
 
 ### Final Preparation
 
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 6 out of 8**  
+Earth Dragon (Opera House)
+
 **![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
 [N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
 _Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
 
-✅**Magicite 25 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 25 out of 26**  
 While flying with the airship, you may encounter a battle with Doom Gaze.  Doom Gaze has a fixed amount of HP that can be chipped away over the course of several encounters.  He will attempt to flee on turn 3 and every turn after, but in order to earn this achievement, you need to deplete all 55k HP in one encounter.  This means that a 4 party team needs to hit him for an average of 7k damage each turn to beat him before he runs.  He is weak to fire and holy, so high level spells such as Fire 3 or Pearl will deal lots of damage.  Gau's Io Rage can cast Flare Star which will always hit for 9999 damage.
 
 An easier alternative is to use Gau's Rafflesia Rage.  While charmed, Doom Gaze will not attempt to flee and will attack himself repeatedly until all his HP is gone.
@@ -1097,6 +1114,12 @@ Party 2 (middle box): Must have Celes (Runic)
 Party 3 (right box): Must have Locke or Gogo (Steal)
 
 There will be a point at the end of the tower where you will step on three switches. Have party 1 enter and go left. This will set you up for the boss challenge achievements.
+
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 7 out of 8**  
+Gold Dragon
+
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 8 out of 8**  
+Skull Dragon
 
 **![image](https://user-images.githubusercontent.com/120497130/223576970-c2592ddf-efd1-4015-bbca-b1a84d3c56af.png)
 [Shielded from View (5)](https://retroachievements.org/achievement/6705)**  
