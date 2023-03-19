@@ -929,13 +929,14 @@ _Learn all Dances_
 
 If you missed any dances, all of them except Water Rondo can be learned in the WoR.
 
-Avoid the roaming dragon, especially if you are doing a LLG run.  We will come back for it later.  For now, head north to battle Tritoch.
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 1 out of 8**  
+Around the Narshe battlefield is a quick moving dragon.  This is the first of 8 dragons in the WoR that will drop rare weapons and other useful items.  Defeating all 8 will grant an Esper and [Dragon Slayer (10)](https://retroachievements.org/achievement/6534).  If it weak to fire and uses mostly ice attacks.  If you struggle with this boss, especially if you are doing a LLG run, come back for it later.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576444-d5735972-2cd0-4bcd-a97a-eb95e0e6aa5a.png)
 [Avenging Vicks and Wedge (10)](https://retroachievements.org/achievement/6535)**  
 _Defeat Tritoch, no instant death moves_
 
-Tritoch only has one damaging move, Ice 3.  It will also attempt to drain your MP using Rasp or freeze your characters temporarily.  Equip Wall Rings on your characters and you are essentially invulnerable.  Use fire spells to damage it and Osmose to replenish your MP.  Be sure not to use any instant death spells or glitches.
+Past the dragon is your final encounter with Tritoch.  Tritoch only has one damaging move, Ice 3.  It will also attempt to drain your MP using Rasp or freeze your characters temporarily.  Equip Wall Rings on your characters and you are essentially invulnerable.  Use fire spells to damage it and Osmose to replenish your MP.  Be sure not to use any instant death spells or glitches.
 
 ✅**Magicite 17 out of 26**  
 Defeating Tritoch will grant you the Tritoch (Valigarmanda) magicite.
@@ -1009,6 +1010,9 @@ Add Shadow to your party and stay at an inn repeated for some hidden scenes invo
 ✅**Character 9 out of 14**  
 Travel to Maranda and speak with the girl in the house with the carrier pigeons.  Follow the pigeon to Zozo and speak with the man near the Inn to buy a Rust-Rid.  Enter the Pub and use the Rust-Rid on the door outside to reach Mt. Zozo.  At the end of Mt Zozo, you will encounter Cyan who will rejoin your party.
 
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 2 out of 8**  
+Stepping on a switch in Mt. Zozo will unleash the Storm Dragon.  This dragon uses mostly wind based attacks and is weak to lightning.  Equipping a Thunder Shield and Minerva will help negate a lot of the damage.  Again, if you cannot defeat him now, come back later when you have better equipment.
+
 ### Mobliz
 
 ✅**Magicite 20 out of 26**  
@@ -1022,6 +1026,13 @@ After obtaining Fenrir, leave Mobliz.  Before returning to Mobliz, adjust the pa
 
 ✅**Character 10 out of 14**  
 After your battle against Phunbaba, Terra will rejoin the party.
+
+### Phoenix Cave
+
+The Phoenix Cave is located in a hole in the mountains north of Tzen.  Land your airship inside to gain access to the dungeon.  Two parties will be required to navigate the dungeon.  For LLG runs, consider putting Mog with the Moogle Charm in one party to avoid fighting.  For the other team, be aware that Phase (Face) will prevent the party from running.  Killing all the Phases will allow the party to run again.
+
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 3 out of 8**  
+Within the cave, you will encounter the Red Dragon.  It is weak to ice and casts mostly fire based spells.  The party is likely better equipped at this point, but as with the other dragons, this fight is available later if the party is unable to defeat it.
 
 ### Jidoor
 
@@ -1057,11 +1068,14 @@ _Steal from and defeat KatanaSoul, no instant death moves_
 [Shin-Zantetsuken (3)](https://retroachievements.org/achievement/7238)**  
 _Transform Odin into Raiden_
 
+### Cultist's Tower
+
+
 **![image](https://user-images.githubusercontent.com/120497130/223576907-2a1ceb59-db09-446f-882a-01e74aaa4735.png)
 [Psychic Vampires (10)](https://retroachievements.org/achievement/7298)**  
 _Defeat MagiMaster by draining away his Magic Points_
 
-### Doom Gaze
+### Final Preparation
 
 **![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
 [N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
