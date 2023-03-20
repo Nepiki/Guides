@@ -1308,6 +1308,38 @@ Interact with the Stone Queen beyond the Blue Dragon to transform Odin into Raid
 
 ### Colosseum & Final Preparations
 
+Most of Strago's Lore can be learned in Kefka's Tower, but there are a few that need to be obtained through other means.  Strago should already know GrandTrain from his fight with Hidon.  Gau can help Strago learn a few others by using the following rages.
+|![image](https://user-images.githubusercontent.com/120497130/226339950-f3ce4c08-afcf-4755-bfb6-3364c084d3bc.png) Lore|Enemy|Notes|
+|--|--|--|
+|GrandTrain|Grand Train|Hidon Boss|
+|Big Guard|Mighty Guard|EarthRay/Land Ray Rage|
+|PepUp|Transfusion|Intangir Rage|
+
+Kefka's Tower has a special enemy that uses every Lore ability except 3.  Before going after the final battle, add Strago and Relm to group 2.  Strago will be assigned to a different group later.  Lead group 2 into the tower until you reach an area that looks like a bathroom.  DarkForce (Dark Force) spawns in this area.  They will repeatedly cast Lore abilities until they run out of MP and die (or use Exploder).  Relm can also use Control using the FakeMustache to force it to cast CleanSweep (Tsunami).  This is an excellent opportunity to learn missing lore.  For LLG runs, keep in mind that Strago only learns the rage when the battle is won.  Kill off characters that are close to level 30 before completing the battle to avoid earning exp.
+
+|![image](https://user-images.githubusercontent.com/120497130/226339950-f3ce4c08-afcf-4755-bfb6-3364c084d3bc.png) Lore|Alt Name|Notes|
+|--|--|--|
+|Condemned|Doom|
+|Roulette|
+|CleanSweep|Tsunami|Control Only|
+|Aero|
+|Blowfish|1000 Needles|
+|Revenge|Revenge Blast|
+|Pearl Wind|White Wind|
+|L.5 Doom|Lv.5 Death|
+|L.4 Flare|Lv.4 Flare|
+|L.3 Muddle|Lv.3 Confuse|
+|Reflect???|
+|L.? Pearl|Lv.? Holy|
+|Step Mine|Traveler|
+|Dischord|
+|Sour Mouth|Bad Breath|
+|Rippler|
+|Quasar|
+|Exploder|Self-Destruct|
+
+When Strago learns the majority of the Lores, check to see if there is an easier way to get specific lores, such as through Gau's rages or other encounters.  The final lore will be earned further into Kefka's Tower.
+
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 6 out of 8**  
 Earth Dragon (Opera House)
 
@@ -1356,13 +1388,12 @@ Alternatively, a more RNG dependent strategy can be used since he is vulnerable 
 
 ### Kefka's Tower
 
-You will enter with 3 parties. In order to get your achievements you will need to have the following setup:
+Upon approaching Kefka's towr, the party will be split into 3 groups. Each group should have the following characters in order to obtain specific achievements:  
+* Left Group: Must have Strago (Lore)
+* Middle Group: Must have Celes (Runic)
+* Right Group: Must have Locke or Gogo (Steal)
 
-Party 1 (left box): Must have Strago (Lore)
-Party 2 (middle box): Must have Celes (Runic)
-Party 3 (right box): Must have Locke or Gogo (Steal)
-
-There will be a point at the end of the tower where you will step on three switches. Have party 1 enter and go left. This will set you up for the boss challenge achievements.
+There will be a point at the end of the tower where the group leaders will step on three switches. Have Group 1 enter and go left. This will ensure that each group goes to the correct boss for the challenge achievements.
 
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 7 out of 8**  
 Gold Dragon
