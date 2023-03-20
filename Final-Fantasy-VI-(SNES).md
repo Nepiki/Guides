@@ -1029,6 +1029,17 @@ After your battle against Phunbaba, Terra will rejoin the party.
 
 ### Phoenix Cave
 
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Sea Flower|Seaflower|
+|Trixter|Clymenus|
+|Necromancr|Necromancer|
+|Phase|Face|
+|Chaos Drgn|Chaos Dragon|
+|Aquila|Galypdes|
+|Uroburos|Ouroboros|Lava Level Only|
+|Parasoul|Zeveak|
+
 The Phoenix Cave is located in a hole in the mountains north of Tzen.  Land your airship inside to gain access to the dungeon.  Two parties will be required to navigate the dungeon.  For LLG runs, consider putting Mog with the Moogle Charm in one party to avoid fighting.  For the other team, be aware that Phase (Face) will prevent the party from running.  Killing all the Phases will allow the party to run again.
 
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 3 out of 8**  
@@ -1056,7 +1067,7 @@ _Win an Illumina at the colosseum_
 
 Illumina is obtained by betting the Ragnarok weapon at the Colosseum.  The opponent, Didalos, uses a variety of spells, but doesn't have have much MP.  Place Mog in the back row equipped with a Flame Shield, Snow Muffler, Ribbon, and Reflect Ring.  This will counter or absorb most of his abilities.  Mog will likely use Dance to start Wind Song, which will deal the remaining damage while also keeping Mog's HP topped off with Sun Beam.  Once you win, this achievement will unlock.  
 
-![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 24 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 21 out of 26**  
 Once Illumina is acquired, revert back to your original save and instead choose the Magicite version of Ragnarok for your main playthrough.
 
 ### Zone Eater
@@ -1101,7 +1112,7 @@ Use Smoke Bombs to escape any encounters.  This is faster than running away and 
 
 The boss uses a combination of thunder element magic, non-elemental attacks, and charm.  The thunder shield will absorb most of the attacks, and heal Shadow too.  The biggest risk is charm.  When it hits, Shadow may hit himself enough times to die before it wears off.  Fortunately, there is a save point before the boss so it is easy to retry.  Once the boss dies, this achievement will unlock.
 
-![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 21 out of 26**  
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 22 out of 26**  
 After defeating the boss, interact with the bookshelf in Owzer's back room.  This will grant the Starlet (Lakshmi) magicite.
 
 ✅**Character 13 out of 14**  
@@ -1114,10 +1125,24 @@ The Moogle Suit is found in Owzer's Mansion in the left door at the first split.
 
 ### Tower of Fanatics
 
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Magic Urn|
+|White Drgn|Holy Dragon|Boss|
+
+Note: All other enemies do not appear on the Veldt.
+
 The Tower of Fanatics is unique in that only the Magic ability can be used here.  Using the Moogle Charm to avoid enemy encounters is highly recommended, especially for LLG runs.  There is only one normal enemy that shows up on the Veldt, Magic Urn.  For the bosses, equip Wall/Reflect Rings on the whole party to negate a large number of the attacks.  Keep in mind that cure spells cast on your party will also reflect back to the enemy.
 
 ✅**Character 14 out of 14**  
-With Relm in the party, travel to the Tower of Fanatics in the center of Serpent's Trench.  Relm will snap Strago out of his delusions and he will join the party.
+With Relm in the party, travel to the Tower of Fanatics in the center of Serpent's Trench.  Relm will snap Strago out of his delusions and he will join the party.  With Strago back in the party, he can now continue to learn Lores towards [Elder Wisdom (10)](https://retroachievements.org/achievement/7157).  To learn a Lore, Strago must be present in battle when the spell is cast.  If done successfully, a message will appear at the end of battle indicating that it was learned.  
+Strago starts with 3 Lores to start.  Others may have already been learned in the WoB.
+
+|![image](https://user-images.githubusercontent.com/120497130/226339950-f3ce4c08-afcf-4755-bfb6-3364c084d3bc.png) Lore|Enemy|Notes|
+|--|--|--|
+|Aqua Rake|N/A|Default|
+|Revenge|N/A|Default|
+|Stone|N/A|Default|
 
 **![image](https://user-images.githubusercontent.com/120497130/223578637-066238b5-4a5c-4266-98c5-129bd692249f.png)
 [You Are Not Alone (10)](https://retroachievements.org/achievement/6296)**  
@@ -1144,54 +1169,146 @@ As with the White Drgn, this is quite simple.  Cast Berserk on the MagiMaster to
 
 ### Ebot's Rock
 
-With Relm and Strago in the party, return the Thamasa for a scene.  The entrance to Ebot's Rock will now be open on the island north of Thamasa.
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Prussian|Purusa|Near Thamasa|
+|Gloomshell|Gloomwind|Near Thamasa|
+|Harpy|Vasegiatta|Near Thamasa (Forest Only)|
+|Slatter|Sorath|
+|Opinicus|Aspidochelon|
+|Eland|Creature|
+|Hipocampus|Moonform|
+|Displayer|Mahadeva|
+|Cluck|Medusa Chicken|
+|Warlock|
+
+With Relm and Strago in the party, return the Thamasa for a scene.  The entrance to Ebot's Rock will now be open on the island north of Thamasa.  Collect at least 22 pieces of Coral inside Ebot's Rock and give them to the talking treasure chest to face off against Hidon.  Hidon is the only encounter that can teach Strago GrandTrain.  It will only use it if all the Hidonites are defeated.  Use Life 3 to ensure that it does not wipe the party out
+
+|![image](https://user-images.githubusercontent.com/120497130/226339950-f3ce4c08-afcf-4755-bfb6-3364c084d3bc.png) Lore|Enemy|Notes|
+|--|--|--|
+|GrandTrain|Hidon|Unique|
 
 **![image](https://user-images.githubusercontent.com/120497130/223576583-4026f39d-d00f-4d4d-8412-4bc1f0f2b122.png)
 [Step Aside, Gramps! (10)](https://retroachievements.org/achievement/7162)**  
 _Solo Hidon using only Relm, no instant death moves_
 
-* Defeat Hidon normally with Strago (Learn Grand Train)
-* Respawn Hidon by talking to Gungho repeatedly in Thamasa
-* Defeat Hidon with Relm as the only party member
+After defeating Hidon normally, respawn him by talking to Gungho repeatedly in Thamasa.  When Gungho mentions that Hidon has returned, return with Relm as the only party member.  Relm should be placed in the back slot and equipped with the best gear (Behemoth Suit in particular) and know Fire 3 and Life 3.  For relics, the Gem Box and Economizer are particularly useful.  If the Economizer isn't available, equip a Ribbon instead.  With this set up, the only major threat is Grand Train, so leave at least 1 Hidonite alive.  Hidon is weak against Fire, so cast Fire 3 repeatedly and replenish MP as needed.  This achievement will unlock when Hidon dies.
+
+### Dinosaur Forest
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Reach Frog|Leap Frog|
+|Geckorex|Basilisk|
+|Mantodea|Greater Mantis|
+|Crawler|
+|Spek Tor|Lyacno|
+|Sprinter|
+|TumbleWeed|Tumbleweed|
+|Tyranosaur|Tyrannosaur|Forest Only|
+|Brachiosaur||Forest Only|
+
+Before heading to Doma Castle, three full sets of imp equipment is needed for an upcoming achievement.  The best place to find this equipment is Dinosaur Forest near Gau's Father's house.
+
+While there are other sources for these items, stealing them with Locke/Gogo can be quick and LLG run friendly.  Equip Locke with the Sneak Ring (Thief's Gloves) and set steal as one of Gogo's commands in Status.  Use Phantom or Vanish to make your team invisible and then repeatedly steal from the following enemies for the equipment.  Be sure to save after obtaining each piece of equipment, particularly when facing Tyranosaurs.  Their Meteor attack will pierce through the invisibility and likely wipe the team.  
+
+Three full sets of imp equipment are needed.  
+* Imp Halberd (Impartisan) - Stolen from Mantodea (Greater Mantis)
+* TortoiseShld (Tortoise Shild) - Stolen from Geckorex (Basilisk)
+* Titanium (Saucer) - Stolen from TumbleWeed (Tumbleweed)
+* Imp's Armor (Reed Cloak) - Stolen from Tyranosaur (Tyrannosaur)
 
 ### Doma Castle
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Parasite|
+|Allosaurus|Weredragon|First Area|
+|Critic|Alluring Rider|First Area|
+|Barb-E|Coco|First Area|
+|Pan Dora|Pandora|First Area|
+|Samurai||Train Area|
+|Suriander||Train Area|
+|Rain Man|Al Jabr|Train Area|
+|Io||Magitek Area|
+|PlutoArmor|Pluto Armor|Magitek Area|
+|Sky Cap|Schmidt|Magitek Area|
+
+⚠️ This is the only opportunity to get the Rage encounters in Doma Castle.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576625-86ec91ac-90a6-4e00-b15a-7d23705f2994.png)
 [We're All Mad Here (25)](https://retroachievements.org/achievement/119158)**  
 _Defeat the Dream Stooges with a party of three imps and full imp gear_
 
+Gather the party and equip them with the imp equipment farmed earlier.  Turn the party into imps using magic and be sure they are put in the front row to ensure they deal more damage than the enemy can heal.  Equip Jewel Rings to prevent Petrify but do not use Ribbons as they will also cure imp.  Curlax (top) should be the primary target as he will revive the other two.  Since the imp armor is so powerful, the trio will hardly deal any damage.  If needed, heal any characters using items such as Potions, Fenix Down, and Soft.  This achievement will unlock as soon as the final enemy is defeated.
+
 **![image](https://user-images.githubusercontent.com/120497130/223576716-39bbc1b0-c37a-459d-9cda-c6c25c81b309.png)
 [Throne Retained (10)](https://retroachievements.org/achievement/7173)**  
 _Defeat Wrexsoul and win a Pod Bracelet_
 
+The Pod Bracelet is a guaranteed drop.  Wrexsoul will possess a character at the start of battle.  When the character is dead or petrified, Wrexsoul will reappear and can be damaged.  Unfortunately, there is no way to know which character is possessed.  After reappearing, hit him with as many ice or non-elemental damage as possible until he possesses another character.  Repeat this until he dies.  This achievement will unlock after the battle ends.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578837-7edf3f33-d623-4d0f-8282-0f6ed35694f8.png)
+[Swordity Sword (10)](https://retroachievements.org/achievement/6890)**  
+_Learn all Swordtechs_
+
+Once Wrexsoul is defeated, a scene will play where Cyan comes to terms with his guilt.  This will teach him all his remaining Swordtechs and unlock this achievement.
+
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 23 out of 26**  
+When the party returns the Doma Castle, head to the throne room to find the Alexander magicite resting on the throne.
+
 ### Ancient Castle
+
+|![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
+|--|--|--|
+|Figaliz|Fiagro Lizard|
+|Goblin|Devil|
+|Enuo|
+|Boxed Set|Lunatys|Castle Only|
+|Lethal Wpn|Armored Weapon|Castle Only|
+
+Two achievements require specific party members here.  First is a party with only Gau and later a party including Locke or Gogo for stealing.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576744-098c8eae-4f1a-4a8f-91dc-0fa43faafe44.png)
 [Alone in the Dark (10)](https://retroachievements.org/achievement/7197)**  
 _Solo Master Pug using only Gau, no instant death moves_
 
+The Master Pug is a monster-in-a-box in the caves leading to the Ancient Castle.  Master Pug hits for massive damage and has some unavoidable attacks such as Step Mine.  Sleep can be used to slow its advance but physical attacks will wake it up.  Its weaknesses will change often, so hit it with non-elemental magic such as Ultima and Flare.  Rages can be too unpredictable and should be avoided.
+For LLG runs or an easier solution, using Gau's Rafflesia is also a viable option.  Once charmed, Master Pug will hit himself for 9999 repeatedly until he dies.  Using this method will also unlock [Godhand (10)](https://retroachievements.org/achievement/6799).
+
 **![image](https://user-images.githubusercontent.com/120497130/223576822-4cd33c0a-0203-480a-b639-ff2752cb2287.png)
 [Samurai Showdown (10)](https://retroachievements.org/achievement/7201)**  
-_Steal from and defeat KatanaSoul, no instant death moves_
+_Steal a Strato from and defeat KatanaSoul, no instant death moves_
+
+KatanaSoul can drop a Murasame (Common) and a Strato (Rare).  This achievement requires stealing the rare Strato.  Once successfully stolen, hit him with Bio or other powerful magic.  Once defeated, this achievement will unlock. 
+
+![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 24 out of 26**  
+Interact with Odin in the Ancient Castle to obtain his magicite.
+
+Move 4-5 steps south of the right throne and interact with the floor to hit a hidden switch.  This will open a new passage in the east room.
+
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 5 out of 8**  
+The Blue Dragon uses water magic and is weak to lightning.  Strago can learn the CleanSweep (Tsunami) lore from this boss, but it is also available from other sources.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576868-615d536a-5fce-4438-9fd9-a6c6a53b1be5.png)
 [Shin-Zantetsuken (3)](https://retroachievements.org/achievement/7238)**  
 _Transform Odin into Raiden_
 
-![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 5 out of 8**  
-Blue Dragon
+Interact with the Stone Queen beyond the Blue Dragon to transform Odin into Raiden.  Since Odin is replaced, it does not count as a new magicite for [Life, Crystalized (25)](https://retroachievements.org/achievement/6618).  Even though Odin teaches the Meteor magic, the final magicite also teaches this at a much faster rate.
 
 ### Final Preparations
 
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 6 out of 8**  
 Earth Dragon (Opera House)
 
+The Earth Dragon is hiding in the Opera House near Jidoor and Maranda.  It uses earth attacks and is weak to wind and water attacks.  The party is so powerful at this point, they shouldn't have much trouble.
+
 **![image](https://user-images.githubusercontent.com/120497130/223579165-638e759c-5b1e-465e-8687-e51360e0ab09.png)
 [N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801)**  
 _Deplete all 55,555 HP from Doom Gaze in one encounter, and obtain Bahamut_
 
 ![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 25 out of 26**  
-While flying with the airship, you may encounter a battle with Doom Gaze.  Doom Gaze has a fixed amount of HP that can be chipped away over the course of several encounters.  He will attempt to flee on turn 3 and every turn after, but in order to earn this achievement, you need to deplete all 55k HP in one encounter.  This means that a 4 party team needs to hit him for an average of 7k damage each turn to beat him before he runs.  He is weak to fire and holy, so high level spells such as Fire 3 or Pearl will deal lots of damage.  Gau's Io Rage can cast Flare Star which will always hit for 9999 damage.
+While flying with the airship, you may encounter a battle with Doom Gaze.  Doom Gaze has a fixed amount of HP that can be chipped away over the course of several encounters.  He will attempt to flee on turn 3 and every turn after, but in order to earn this achievement, you need to deplete all 55k HP in one encounter.  This means that a 4 party team needs to hit him for an average of 7k damage each turn to beat him before he runs.  He is weak to fire and holy, so high level spells such as Fire 3 or Pearl will deal lots of damage.  Ultima is also a powerful option.  Gau's Io Rage can cast Flare Star which will always hit for 9999 damage.
 
 An easier alternative is to use Gau's Rafflesia Rage.  While charmed, Doom Gaze will not attempt to flee and will attack himself repeatedly until all his HP is gone.
 
@@ -1279,10 +1396,6 @@ _Defeat the true Siegfried_
 ## Step 4: Collections | Total Points: XX
 
 ### Character/Skill Collections
-
-**![image](https://user-images.githubusercontent.com/120497130/223578837-7edf3f33-d623-4d0f-8282-0f6ed35694f8.png)
-[Swordity Sword (10)](https://retroachievements.org/achievement/6890)**  
-_Learn all Swordtechs_
 
 **![image](https://user-images.githubusercontent.com/120497130/223578870-16f43910-64f7-492b-8f23-a10b5dcca9dc.png)
 [Elder Wisdom (10)](https://retroachievements.org/achievement/7157)**  
