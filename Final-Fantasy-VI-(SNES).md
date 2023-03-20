@@ -1001,6 +1001,8 @@ Add Shadow to your party and stay at an inn repeated for some hidden scenes invo
 ### Mt. Zozo
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
+|Cactrot|Cactuar|Desert Near Maranda|
+|Hoover|Slagworm|Desert Near Maranda|
 |Ursus|Mugbear|
 |Punisher|
 |Borras|Glasya Labolas|
@@ -1167,6 +1169,8 @@ _Defeat MagiMaster by draining away his Magic Points_
 
 As with the White Drgn, this is quite simple.  Cast Berserk on the MagiMaster to prevent him from casting spells.  After that, continually cast Rasp to drain the magic points.  When a character runs out, cast Osmose to replenish their MP and go back to rasp.  Normally the boss will cast Ultima as a desperate attack dying, but since he has no MP, it fails!
 
+⚠️ Save the Megaelixir you earn from defeating the MagiMaster to bet it at the colosseum for [The Master Swordsman (10)](https://retroachievements.org/achievement/7164)
+
 ### Ebot's Rock
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
@@ -1206,7 +1210,7 @@ After defeating Hidon normally, respawn him by talking to Gungho repeatedly in T
 |Sprinter|
 |TumbleWeed|Tumbleweed|
 |Tyranosaur|Tyrannosaur|Forest Only|
-|Brachiosaur||Forest Only|
+|Brachosaur|Brachiosaur|Forest Only|
 
 Before heading to Doma Castle, three full sets of imp equipment is needed for an upcoming achievement.  The best place to find this equipment is Dinosaur Forest near Gau's Father's house.
 
@@ -1217,6 +1221,12 @@ Three full sets of imp equipment are needed.
 * TortoiseShld (Tortoise Shild) - Stolen from Geckorex (Basilisk)
 * Titanium (Saucer) - Stolen from TumbleWeed (Tumbleweed)
 * Imp's Armor (Reed Cloak) - Stolen from Tyranosaur (Tyrannosaur)
+
+**![image](https://user-images.githubusercontent.com/120497130/223576483-319622cf-d0da-4beb-886b-670ebe2a54a6.png)
+[Hold Onto Your Butts... (10)](https://retroachievements.org/achievement/6798)**  
+_Defeat Brachosaur, no instant death moves_
+
+In addition to the Tyranosaurs, the Dinosaur Forest also has Brachosaurs.  These are very powerful enemies that have a rare chance to drop an Economizer (Celestriad), which reduces all MP usage to 1.  They will often start battles by inflicting several status effects on the party, so Ribbons are highly recommended.  Celes and Gogo can use Runic to absorb Ultima.  They are weak to ice and other powerful spells such as Flare and Ultima.  Defeating one without using any instant death moves will unlock this achievement.
 
 ### Doma Castle
 
@@ -1296,7 +1306,7 @@ _Transform Odin into Raiden_
 
 Interact with the Stone Queen beyond the Blue Dragon to transform Odin into Raiden.  Since Odin is replaced, it does not count as a new magicite for [Life, Crystalized (25)](https://retroachievements.org/achievement/6618).  Even though Odin teaches the Meteor magic, the final magicite also teaches this at a much faster rate.
 
-### Final Preparations
+### Colosseum & Final Preparations
 
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 6 out of 8**  
 Earth Dragon (Opera House)
@@ -1313,6 +1323,36 @@ While flying with the airship, you may encounter a battle with Doom Gaze.  Doom 
 An easier alternative is to use Gau's Rafflesia Rage.  While charmed, Doom Gaze will not attempt to flee and will attack himself repeatedly until all his HP is gone.
 
 The achievement will unlock once you pick up the Bahamut magicite.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578767-149cb9c3-0682-4e7d-9d42-935ca6a38c66.png)
+[Tetra-Miracle (4)](https://retroachievements.org/achievement/6861)**  
+_Win a pair of Marvel Shoes at the colosseum_
+
+In order to win the Marvel Shoes, first bet an Elixir to fight against a Cactrot.  Equip a Sniper Eye to guarantee a 100% hit rate.  Defeating it will reward a Rename Card.
+
+Bet the Rename Card to fight against the Doom Drgn.  Equip Mog with his best equipment, including a Flame Shield, Snow Muffler and Cure Ring.  The Doom Drgn will put Mog into critical status, but the Cure Ring will give him enough health to withstand a normal attack.  All other attacks will be absorbed or do not deal damage.  Eventually, Mog will defeat the enemy and this achievement will unlock.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578786-643ddf22-d9be-41e0-a41c-3b5de399476d.png)
+[Miao-Miao! (4)](https://retroachievements.org/achievement/7158)**  
+_Win a Cat Hood at the colosseum_
+
+Bet a Imp Halberd (Impartisan) to fight against an Allosaurus.  Be sure to equip a Safety Bit or Memento Ring to avoid instant death from Doom.  This is a normal monster, so it won't be difficult to defeat it.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578586-f88e226f-3b42-4cdf-a6e0-c4094165306d.png)
+[Double Dragoon (5)](https://retroachievements.org/achievement/7285)**  
+_Equip DragoonBoots and Dragon Horns on Edgar and Mog at once_
+
+Only one Dragon Horn can be found in a treasure chest above the Red Dragon in Phoenix Cave.  The other must be earned through the Colosseum.  Bet a Charm Bangle against a Retainer.  Retainers have a special ability that can cause instant death, but it is not blocked by Safety Bits or Memento Rings.  The best option for dealing with it is to bring a character stacked with evasion, such as Shadow.
+
+DragoonBoots can be purchased in Thamasa or Tzen.  Equip both relics on Mog and Edgar to unlock this achievement.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578809-a374a29f-c1dc-45a2-b8db-016963f1a3ce.png)
+[The Master Swordsman (10)](https://retroachievements.org/achievement/7164)**  
+_Defeat the true Siegfried_
+
+Betting a Megaelixir will initiate a fight against Siegfried, the ultimate boss of the Colosseum.  He has a basic attack and two very powerful magic all of which can deal massive damage.  The quickest way to defeat him is to equip your best physical attack character with the Genji Glove and Offering (Master's Scroll).  This combo will allow them to attack 8 times in a row.  So long as the attacks deal around 5000 damage per hit, Siegfried will die before he has a chance to act.
+
+Alternatively, a more RNG dependent strategy can be used since he is vulnerable to stop.  Equip Shadow with Stunner (Kagenui) which has a 25% chance to cast stop when hitting an enemy.  Use the DragoonBoots and Dragon Horn relics to repeatedly jump.  This will avoid some of Siegfried's attacks while also giving multiple chances to hit him with Stop.  Even with this approach LLG runs are unlikely to deal enough damage, so this achievement should be saved until post-game.
 
 ### Kefka's Tower
 
@@ -1374,25 +1414,6 @@ Tactics for each boss.
 [Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)**  
 _Witness Relm's dream_
 
-**![image](https://user-images.githubusercontent.com/120497130/223578767-149cb9c3-0682-4e7d-9d42-935ca6a38c66.png)
-[Tetra-Miracle (4)](https://retroachievements.org/achievement/6861)**  
-_Win a pair of Marvel Shoes at the colosseum_
-
-Winning the Marvel Shoes requires a few different fights to get the item you actually need to bet.
-
-|Bet|Reward|Enemy|Notes|
-|--|--|--|--|
-|Elixir|Rename Card|Cactrot|Equip Sniper Eye for 100% hit|
-|Rename Card|Marvel Shoes|Doom Drgn|
-
-**![image](https://user-images.githubusercontent.com/120497130/223578786-643ddf22-d9be-41e0-a41c-3b5de399476d.png)
-[Miao-Miao! (4)](https://retroachievements.org/achievement/7158)**  
-_Win a Cat Hood at the colosseum_
-
-**![image](https://user-images.githubusercontent.com/120497130/223578809-a374a29f-c1dc-45a2-b8db-016963f1a3ce.png)
-[The Master Swordsman (10)](https://retroachievements.org/achievement/7164)**  
-_Defeat the true Siegfried_
-
 ## Step 4: Collections | Total Points: XX
 
 ### Character/Skill Collections
@@ -1435,17 +1456,6 @@ In addition to unlocking the achievement, defeating all 8 dragons will grant the
 _Collect all Magicite_
 
 ## Step 5: Miscellaneous | Total Points: XX
-
-**![image](https://user-images.githubusercontent.com/120497130/223578586-f88e226f-3b42-4cdf-a6e0-c4094165306d.png)
-[Double Dragoon (5)](https://retroachievements.org/achievement/7285)**  
-_Equip DragoonBoots and Dragon Horns on Edgar and Mog at once_
-WoR
-DragoonBoots - Purchased at Thamasa, Tzen.
-Dragon Horn - One found in Phoenix Cave, other obtained through colosseum.
-
-**![image](https://user-images.githubusercontent.com/120497130/223576483-319622cf-d0da-4beb-886b-670ebe2a54a6.png)
-[Hold Onto Your Butts... (10)](https://retroachievements.org/achievement/6798)**  
-_Defeat Brachosaur, no instant death moves_
 
 **![image](https://user-images.githubusercontent.com/120497130/223579029-4becc292-26f8-4d93-871a-5481df0afc26.png)
 [Power Level I (5)](https://retroachievements.org/achievement/7295)**  
