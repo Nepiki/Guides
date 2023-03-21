@@ -1388,18 +1388,24 @@ Alternatively, a more RNG dependent strategy can be used since he is vulnerable 
 
 ### Kefka's Tower
 
-Upon approaching Kefka's towr, the party will be split into 3 groups. Each group should have the following characters in order to obtain specific achievements:  
-* Left Group: Must have Strago (Lore)
-* Middle Group: Must have Celes (Runic)
-* Right Group: Must have Locke or Gogo (Steal)
+Upon approaching Kefka's Tower, the party will be split into 3 groups. Each group should have the following characters in order to obtain specific achievements:  
+* Group 1 (Left): Must have Strago (Lore)
+* Group 2 (Center): Must have Celes (Runic)
+* Group 3 (Right): Must have Locke or Gogo (Steal)
 
-There will be a point at the end of the tower where the group leaders will step on three switches. Have Group 1 enter and go left. This will ensure that each group goes to the correct boss for the challenge achievements.
+There will be a point at the end of the tower where the group leaders will step on three switches. Have Group 1 enter and go left. This will ensure that each group goes to the correct boss for the challenge achievements.  Keep in mind that equipment can be traded between all characters, even if they are not in the same group.  If a boss is difficult, consider swapping your best armor from another character.
 
 **![image](https://user-images.githubusercontent.com/120497130/223576970-c2592ddf-efd1-4015-bbca-b1a84d3c56af.png)
 [Shielded from View (5)](https://retroachievements.org/achievement/6705)**  
 _Find the well-hidden Aegis Shield in Kefka's Tower_
 An Aegis shield is hidden in Group 3's path, south of the rotating machinery in the Magitek Factory section.  Go around the machinery and take a hidden path south to find it.  
 ![image](https://user-images.githubusercontent.com/120497130/226506831-bff028ba-aca4-47ba-828a-707ff419d230.png)
+
+**![image](https://user-images.githubusercontent.com/120497130/223577005-a9cef435-8135-4cd5-9a74-a10bc9b45c9e.png)
+[Pro-Runic (10)](https://retroachievements.org/achievement/7354)**  
+_Use Runic to counter Atma's Ultima_
+
+Group 2 will encounter Atma (Ultima Buster) in a prison area shortly into their section.  After countering 12 attacks, it will start to charge up Ultima.  When this happens, use Runic on Celes.  If Ultima is absorbed successfully, the achievement will unlock.
 
 ![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 7 out of 8**  
 Group 2 will encounter the Gold Dragon.  It uses lightning based attacks and is weak against water.  As with the other recent dragons, this one is a pushover due to how powerful the party has become.  For extra protection, equip Thunder Shields to absorb most of its attacks.
@@ -1428,19 +1434,31 @@ _Collect all Magicite_
 
 Defeating all 8 dragons will grant the Crusader magicite.  If all other magicite have been obtained, this achievement will unlock.  
 
-**![image](https://user-images.githubusercontent.com/120497130/223577005-a9cef435-8135-4cd5-9a74-a10bc9b45c9e.png)
-[Pro-Runic (10)](https://retroachievements.org/achievement/7354)**  
-_Use Runic to counter Atma's Ultima_
-
 **![image](https://user-images.githubusercontent.com/120497130/223577054-b3726833-1a20-4381-9130-91608449f01f.png)
 [Goddess of Darkness (10)](https://retroachievements.org/achievement/6000)**  
 _Steal a Red Jacket from and defeat Poltergeist, no instant death moves_
 
+Group 3 will face off against Poltergeist.  Ensure that Locke/Gogo has the Sneak Ring equipped to double the steal chance.  It is tough to steal and will be even more difficult for LLG runs where Locke is a low level.  Once the Red Jacket is successfully stolen, finish off the boss (without using instant death moves) to unlock this achievement.
+
 **![image](https://user-images.githubusercontent.com/120497130/223577083-2e0ca9cd-0067-47e4-b50d-9cfef0d20447.png)[Doomfiend (10)](https://retroachievements.org/achievement/7126)**  
 _Defeat Doom and learn Forcefield, no instant death moves_
 
+|![image](https://user-images.githubusercontent.com/120497130/226339950-f3ce4c08-afcf-4755-bfb6-3364c084d3bc.png) Lore|Enemy|Notes|
+|--|--|--|
+|ForceField|Doom|Missable|
+
+Group 3 will face off against Doom.  Ensure that Strago is in this group as it is the only opportunity to learn ForceField.  Doom will use this lore when he is under 32k health, so soften him up a little and then hit him repeatedly to get it to trigger.  Once Doom has used ForceField, finish him off (without using instant death moves) to unlock this achievement.
+
+**![image](https://user-images.githubusercontent.com/120497130/223578870-16f43910-64f7-492b-8f23-a10b5dcca9dc.png)
+[Elder Wisdom (10)](https://retroachievements.org/achievement/7157)**  
+_Learn all Lores_
+
+If all previous lore has been learned, this achievement will unlock.  As a reminder, all Lore can be acquired in the WoR.  ForceField is the only missable lore so make sure to bring Strago to that fight by placing him in Group 1 and having that group go left at the switches.  If any are still missing you can leave the dungeon to find them.
+
 **![image](https://user-images.githubusercontent.com/120497130/223577382-dca35d93-e6ef-4206-8798-d834c4072b4d.png)[Goddess of Light (10)](https://retroachievements.org/achievement/6617)**  
 _Defeat Goddess, no instant death moves_
+
+No special requirements needed for this boss, except to not use instant death moves.  Goddess will use lots of lightning abilities, so Thunder Shields can help with healing.  The most difficult part of this boss is dealing with Entice which will Charm your characters.
 
 **![image](https://user-images.githubusercontent.com/120497130/223577148-d2268d7e-3e9c-407f-88fe-c1e8ded9b24d.png)
 [Night Into Day (25)](https://retroachievements.org/achievement/294591)**  
@@ -1471,12 +1489,6 @@ _Witness Relm's dream_
 ## Step 4: Collections | Total Points: XX
 
 ### Character/Skill Collections
-
-**![image](https://user-images.githubusercontent.com/120497130/223578870-16f43910-64f7-492b-8f23-a10b5dcca9dc.png)
-[Elder Wisdom (10)](https://retroachievements.org/achievement/7157)**  
-_Learn all Lores_
-
-All Lore can be acquired in the WoR.  Strago's final Lore is obtained from Doom during the final boss sequence.  In order for Strago to fight against Doom, he must be in the first or third party when assaulting Kefka's Tower.  At the end of the switch puzzle where all 3 parties come together, Strago's party must be on the left side switch.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578931-22fd0280-ac57-4da0-ae40-d4559f74530c.png)
 [Beastlore II (5)](https://retroachievements.org/achievement/6197)**  
