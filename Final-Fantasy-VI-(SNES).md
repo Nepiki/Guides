@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/120497130/223250255-7db8e822-2db2-4216-9888-813a7bc293a7.png)
 
 **RAGuide Author:** [Sutarion](https://retroachievements.org/user/Sutarion)  
-**Special Thanks:** [Xymjak](https://retroachievements.org/user/Xymjak),  [pitapocket17](https://retroachievements.org/user/pitapocket17)  
+**Special Thanks:** [Xymjak](https://retroachievements.org/user/Xymjak),  [pitapocket17](https://retroachievements.org/user/pitapocket17), [BahamutVoid](https://retroachievements.org/user/BahamutVoid)    
 **Set Authors:** [cirellio](https://retroachievements.org/user/cirellio) and  [televandalist](https://retroachievements.org/user/televandalist)
 
 
@@ -13,14 +13,14 @@
 |:--|:--|
 |Set Difficulty|5/10, but requires time and patience|
 |Approximate time to master|25 hours for main game. Doubled to grind all Rages|
-|Minimum numbers of playthroughs needed|1.25|
+|Minimum numbers of playthroughs needed|1.25 with save splits|
 |Number of missable achievements|X|
 |Does difficulty affect achievements?|No|
-|Hardest achievement of the set|[Beastlord (25)](https://retroachievements.org/achievement/5432) & other Gau Rage achievements due to time requirements|
+|Hardest achievement of the set|[Beastlord (25)](https://retroachievements.org/achievement/5432) due to time & missables|
 
 # 2) Introduction
 
-Often listed as one of the greatest RPGs of all time, Final Fantasy 6 is the story of a young girl born with magical abilities in a world where magic was destroyed long ago.  The game boasts an impressive cast, quick combat and excellent music.  The set was primarily created by [cirellio](https://retroachievements.org/user/cirellio) with additional achievements by [televandalist](https://retroachievements.org/user/televandalist). Many of the achievements in the set are showcases of easter eggs or unique dialog, making a large portion of them missable during a normal playthrough. This guide will tackle the achievements in chronological order to get the most out of your playthrough.
+Often praised as one of the greatest RPGs of all time, Final Fantasy 6 is the story of a young girl born with magical abilities in a world where magic was destroyed long ago.  It was my introduction to Final Fantasy and RPGs in general, so it holds a special place in my heart.  The game boasts an impressive cast, quick combat and excellent music.  The set was primarily created by [cirellio](https://retroachievements.org/user/cirellio) with additional achievements by [televandalist](https://retroachievements.org/user/televandalist). Many of the achievements in the set are showcases of easter eggs or unique dialog, making a large portion of them missable during a normal playthrough. This guide will tackle the achievements in chronological order to get the most out of your playthrough.
 
 # 3) Walkthrough
 
@@ -33,6 +33,7 @@ Several achievements that require specific actions, such as not opening a chest 
 * 🚩 Do not purchase both Magicite in the Jidoor Auction House until you win the Zephyr Cloak in the World of Ruin. 🚩
 * 🚩 Rescue Mog in the World of Balance and learn the Water Rondo dance in Serpent Trench. 🚩
 * 🚩 Make a separate save file on the Floating Continent. 🚩
+* 🚩 Do not attack Doom Gaze until the party can kill it in 4 turns. 🚩
 
 Two achievements are mutually exclusive depending on choices made.  Most of these occur late in the game, so creating a separate save file at the split is recommended.  
 * [Beyond the Shadows I (10)](https://retroachievements.org/achievement/5653) and [Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)  
@@ -44,16 +45,25 @@ Create a separate save before choosing which form Ragnarok should take in Narshe
 [LLG (50)](https://retroachievements.org/achievement/7296)**  
 _Clear the game with no character exceeding level 30_
 
-While doing a single playthrough is possible for this set, many people will prefer to do this achievement on a 2nd playthrough.  That said, most LLG guides for Final Fantasy 6 aim for level 10 or lower, so this is quite lenient compared to what is possible.  Here are some tips that can help:
+While doing a single playthrough is possible for this set, many people will prefer to do this achievement on a 2nd playthrough.  That said, most LLG guides for Final Fantasy 6 aim for level 10 or lower, so this is quite lenient compared to a minimal LLG run.  Here are some tips that can help:
 * Run away from as many battles as you can and aim to leave the WoB with all characters level 25 or lower.
-* Most bosses do not grant exp.  Some exp is unavoidable such as the Mine Cart and Air Force sequence.
 * Put all characters in the back row to reduce damage while running away. Magic and special commands like Throw and Blitz will still do full damage. 
-* The evade stat is bugged and uses the magic evade value instead. For example, Priest's Miter gives +10% to both Magic and Physical Evasion instead of only Magic.  
-* Obtain the Genji Glove by rejecting Banon's offer 3 times.  Buy two Morning Stars and equip them on Locke for big damage. 
+* Most bosses do not grant exp.  The Veldt region also does not granted exp, so it can be used to earn GP and learn Magic.  
+* Some exp is unavoidable such as the Mine Cart and Air Force sequence.  Some random encounters also prevent running, such as Ninjas on the Floating Continent.
+* Earned exp is retained after the party is annihilated.  If farming for a drop, be sure to reset after each exp granting kill.
+* In the unpatched versions, the evade stat is bugged and uses the magic evade value instead. Stack Magic Evade % to avoid most attacks.
+* Obtain the Genji Glove by rejecting Banon's offer 3 times.  Buy two Morning Stars and equip them on Locke for big damage in the WoB. 
+* Ultima is extremely powerful in the WoR and should be taught to many team members once Ragnarok is obtained.
+* Gau has some powerful rages that can make bosses much easier.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578972-66619ecf-a270-4a75-9f75-9262a53f8e6e.png)
 [Beastlord (25)](https://retroachievements.org/achievement/5432) & Others**  
 Mastery requires learning all of Gau's Rage abilities from the Veldt.  In order for monsters to appear on the Veldt, they must first be encountered in the world.  Each section will begin with a list of the monsters you can encounter and marked with a ![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png).  Ensure that you run into at least 1 formation so that you can collect their rage on the Veldt later in the game.  For Low Level playthroughs, you can simply run away from the battle and it will still count.  Check the entries in the main guide for additional tips to optimize this process.
+
+Use this spreadsheet to track the enemies you have encountered.  https://docs.google.com/spreadsheets/d/16ophKhgLjYwCdvqEqAsJqVn-XrwLD-GGd2XVsNK8S_A/  
+* Check the first column when the party encounters an enemy in the wild
+* Check the second column when Gau Leaps or returns to the party during a Veldt encounter with that enemy.
+* Check the third column when Gau's Rage list under Skills contains that enemy.
 
 ***
 
@@ -294,11 +304,7 @@ _Deliver all the letters and items on behalf of the wounded soldier in Mobliz an
 1. Repeat these steps until no more letters show up.
 1. Speak to the soldier to unlock the achievement.
 
-**![image](https://user-images.githubusercontent.com/120497130/223578916-72af4e95-370d-4fab-a85d-54c582560ed3.png)
-[Beastlore I (5)](https://retroachievements.org/achievement/6423)**  
-_Learn the Tier 1 Rages_
-
-If you have encountered all the enemies in the Rage checklist so far, this achievement can be earned on your first trip to the Vedlt.  This could be recommended for LLG runs as Gau's Rages are some of the best abilities to use against bosses.  Remember that Gau will learn Rages from both the encounter he leapt on and the encounter he returned on.  If you accidently hit Gau, he will not learn the rages from that encounter.  See [Beastlord (25)](https://retroachievements.org/achievement/5432) for tips on how to optimize learning rages.
+If you have encountered all the enemies in the Rage checklist so far, [Beastlore I (5)](https://retroachievements.org/achievement/6423) can be earned on your first trip to the Vedlt.  This could be recommended for LLG runs as Gau's Rages are some of the best abilities to use against bosses.  Remember that Gau will learn Rages from both the encounter he leapt on and the encounter he returned on.  If you accidently hit Gau, he will not learn the rages from that encounter.  See [Beastlord (25)](https://retroachievements.org/achievement/5432) for tips on how to optimize learning rages.
 
 ### Serpent's Trench & Nikeah
 
@@ -848,10 +854,12 @@ Once the fight starts, the only command you can use is Item > Superball.  Each b
 
 ### Falcon Exploration
 
+⚠️ After finishing Darill's Tomb, the rest of the World of Ruin can be completed in any order.  This guide will focus on just one path, but feel free to explore.  Check each section for any missables or achievements.  
+
+As with the Blackjack, party members can be changed by talking to them on the airship.  The game takes you straight to Maranda, but there are some easy collectibles we can get that will make other sections of the game easier (especially for LLG runs).
+
 🚩 **Run away if you encounter Doom Gaze.** 🚩  
 While flying in the Falcon,  you may run into a boss encounter with Doom Gaze.  Do not deal any damage to him until you are ready to kill him in one encounter, otherwise you will be locked out of [N.o...e.s.c.a.p.e...! (10)](https://retroachievements.org/achievement/6801).  Smoke Bombs and Warp can be used to flee immediately.
-
-After finishing Darill's Tomb, the rest of the World of Ruin can be completed in any order.  As with the Blackjack, party members can be changed by talking to them on the airship.  The game takes you straight to Maranda, but there are some easy collectibles we can get that will make other sections of the game easier (especially for LLG runs).
 
 ![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 15 out of 26**  
 Travel to Cid's House on Solitary Island in the south west corner of the world map.  Return to the beach with the fish to find the Palidor (Quetzalli) magicite.
@@ -1057,7 +1065,7 @@ After you complete the dungeon and find Locke, he will rejoin your party after a
 [Patience Pays III (5)](https://retroachievements.org/achievement/7284)**  
 _Uncurse the Curse Shield_
 
-With Locke in the party, return to Narshe and head to the building north of the relic shop.  In the basement, a man will hand over a Cursed Shield.  This shield will put every status affect on the character that equips it, so be sure to give them a ribbon to counter these affects.  The Cursed Shield will turn into a Paladin Shield by fighting in 256 AP granting battles with it equipped.  The Paladin Shield is the best shield in the game and is key to beating some of the Colosseum bosses.
+With Locke in the party, return to Narshe and head to the building north of the relic shop.  In the basement, a man will hand over a Cursed Shield.  This shield will put every status affect on the character that equips it, so be sure to give them a ribbon to counter these affects.  The Cursed Shield will turn into a Paladin Shield by fighting in 256 Magic Point granting battles with it equipped.  The Paladin Shield is the best shield in the game and is key to beating some of the Colosseum bosses.
 
 🚩 **Make a separate save before accepting Ragnarok.** 🚩  
 
@@ -1232,17 +1240,17 @@ In addition to the Tyranosaurs, the Dinosaur Forest also has Brachosaurs.  These
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
-|Parasite|
-|Allosaurus|Weredragon|First Area|
-|Critic|Alluring Rider|First Area|
-|Barb-E|Coco|First Area|
-|Pan Dora|Pandora|First Area|
-|Samurai||Train Area|
-|Suriander||Train Area|
-|Rain Man|Al Jabr|Train Area|
-|Io||Magitek Area|
-|PlutoArmor|Pluto Armor|Magitek Area|
-|Sky Cap|Schmidt|Magitek Area|
+|Parasite||Dreamscape|
+|Allosaurus|Weredragon|Dreamscape|
+|Critic|Alluring Rider|Dreamscape|
+|Barb-E|Coco|Dreamscape|
+|Pan Dora|Pandora|Dreamscape|
+|Samurai||Train|
+|Suriander||Train|
+|Rain Man|Al Jabr|Train|
+|Io||Caves|
+|PlutoArmor|Pluto Armor|Caves|
+|Sky Cap|Schmidt|Caves|
 
 ⚠️ This is the only opportunity to get the Rage encounters in Doma Castle.
 
@@ -1368,7 +1376,7 @@ Bet the Rename Card to fight against the Doom Drgn.  Equip Mog with his best equ
 [Miao-Miao! (4)](https://retroachievements.org/achievement/7158)**  
 _Win a Cat Hood at the colosseum_
 
-Bet a Imp Halberd (Impartisan) to fight against an Allosaurus.  Be sure to equip a Safety Bit or Memento Ring to avoid instant death from Doom.  This is a normal monster, so it won't be difficult to defeat it.
+Bet a Imp Halberd (Impartisan) to fight against an Allosaurus.  Be sure to equip a Safety Bit or Memento Ring to avoid instant death from Doom.  This is a normal monster, so it won't be difficult to defeat.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578586-f88e226f-3b42-4cdf-a6e0-c4094165306d.png)
 [Double Dragoon (5)](https://retroachievements.org/achievement/7285)**  
@@ -1469,17 +1477,11 @@ _Clear the game with all the fish!_
 Make sure you have all 4 fish in your Rare items list before facing Kefka.  If Cid is still alive, you can obtain them anytime in the WoR.  As soon as Kefka is defeated, this achievement will unlock.  If it doesn't, check the list below for any that may be missing.
 
 |![image](https://user-images.githubusercontent.com/120497130/224608150-c27bf57a-9caa-48d1-bbf4-345e4414a9c0.png)Name|Description|
-|--|--|--|--|
+|--|--|
 |Fish|A fish|
 |A rotten fish|A foul-tasting fish|
 |Just a Fish|An ordinary fish|
 |A yummy fish|A delicious fish|
-
-**![image](https://user-images.githubusercontent.com/120497130/223577148-d2268d7e-3e9c-407f-88fe-c1e8ded9b24d.png)
-[Night Into Day (25)](https://retroachievements.org/achievement/294591)**  
-_Defeat Kefka and view the ending_
-
-Once Kefka is defeated, watch the entire ending credits sequence.  It is about 20 minutes long if all party members were rescued, but well worth it.
 
 **![image](https://user-images.githubusercontent.com/120497130/223577198-0b85b25c-3bdf-41c2-bdda-96257f7feaa2.png)
 [LLG (50)](https://retroachievements.org/achievement/7296)**  
@@ -1487,15 +1489,19 @@ _Clear the game with no character exceeding level 30_
 
 If all party members are level 29 or lower, this achievement will unlock once Kefka is defeated.
 
-### Hidden Scenes
+**![image](https://user-images.githubusercontent.com/120497130/223577148-d2268d7e-3e9c-407f-88fe-c1e8ded9b24d.png)
+[Night Into Day (25)](https://retroachievements.org/achievement/294591)**  
+_Defeat Kefka and view the ending_
 
-**![image](https://user-images.githubusercontent.com/120497130/223578745-aa61f3c8-32be-4485-8d90-e976b1facebd.png)
-[Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)**  
-_Witness Relm's dream_
+Once Kefka is defeated, watch the entire ending credits sequence.  It is about 20 minutes long if all party members were rescued, but well worth it.
 
 ## Step 4: Collections | Total Points: XX
 
-### Character/Skill Collections
+### Rage Collection
+
+**![image](https://user-images.githubusercontent.com/120497130/223578916-72af4e95-370d-4fab-a85d-54c582560ed3.png)
+[Beastlore I (5)](https://retroachievements.org/achievement/6423)**  
+_Learn the Tier 1 Rages_
 
 **![image](https://user-images.githubusercontent.com/120497130/223578931-22fd0280-ac57-4da0-ae40-d4559f74530c.png)
 [Beastlore II (5)](https://retroachievements.org/achievement/6197)**  
@@ -1511,18 +1517,32 @@ _Learn the rarest, most elusive Rages_
 
 ## Step 5: Miscellaneous | Total Points: XX
 
+**![image](https://user-images.githubusercontent.com/120497130/223578745-aa61f3c8-32be-4485-8d90-e976b1facebd.png)
+[Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)**  
+_Witness Relm's dream_
+
+Relm's dream requires Shadow to die on the Floating Continent.  Since other WoR achievements require Shadow, make a separate save on the Floating Continent to do this achievement later.  When the party reaches the airship during the escape sequence, immediately jump instead of waiting for Shadow.  The introduction to the WoR will play out the same.  After retrieving the Falcon, travel to the Cave on the Vedlt.  At the end of the cave, Relm will be found instead of Shadow.  Defeat the King Behemoth and witness the scenes in Thamasa.  This achievement will unlock once Relm's finishes her dream.
+
 **![image](https://user-images.githubusercontent.com/120497130/223579029-4becc292-26f8-4d93-871a-5481df0afc26.png)
 [Power Level I (5)](https://retroachievements.org/achievement/7295)**  
 _At least one character has reached level 40_
+
+See [Power Level II (10)](https://retroachievements.org/achievement/7297)
 
 **![image](https://user-images.githubusercontent.com/120497130/223579048-3735ce0f-aa84-4487-a552-9085b5d63591.png)
 [Power Level II (10)](https://retroachievements.org/achievement/7297)**  
 _At least one character has reached level 99_
 
+The best place to earn exp is Dinosaur Forest.  By the time the party is fully equipped, these fights will become quite easy.  Have the entire party cast Ultima and equip any Economizers to speed things up.  Since only one characters needs to reach 99, equip an Exp Egg on one of them to double their exp.
+
 **![image](https://user-images.githubusercontent.com/120497130/223579183-b94b3c8e-236f-465e-8335-a79057b95282.png)
 [Godhand (10)](https://retroachievements.org/achievement/6799)**  
 _Deal 9,999 base damage in a single attack (Final value may be reduced)_
 
+There are many opportunities to reach this threshold.  This will be earned naturally as the party uses Ultima while leveling to 99.
+
 **![image](https://user-images.githubusercontent.com/120497130/223579194-b7884c6c-6e28-4ba0-987c-25cf78efff15.png)
 [Gillionaire (10)](https://retroachievements.org/achievement/7200)**  
 _Earn 5,000,000 Gp_
+
+As with the other farming achievements, Dinosaur Forest is the best place to earn GP.  Double GP can be obtained by equipping Relm with the Cat Hood (Cat-Ear Hood) won by betting an Imp Halberd (Impartisan) at the Colloseum.  Don't forget that the Veldt will also give GP, so you will earn GP while farming Rages.
