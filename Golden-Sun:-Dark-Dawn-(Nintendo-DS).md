@@ -4,16 +4,8 @@ Golden Sun Dark Dawn Missables guide. This guide will help to guide users playin
 
 Guide by [SlashTangent](https://retroachievements.org/user/SlashTangent)
 
-# 1) Synopsis
-
-|   |   |
-|:--|:--|
-|Set Difficulty|Number between 1 to 10|
-|Approximate time to master|Time needed in hours)|
-|Minimum numbers of playthroughs needed|If more than one, specify the reason (like difficulty)|
-|Number of missable achievements|If the number is <5, specify what achievements|
-|Does difficulty affect achievements?|Yes/No/Not applicable|
-|Hardest achievement of the set|Achievement name here|
+# 1. Table of Contents
+- [Start of Game - End of Konpa Cave](#2-collectibles---start-of-game---end-of-konpa-cave)
 
 # Missable Guide
 
@@ -317,6 +309,89 @@ Cold Snap Psynergy | Upon Defeating the Ice Queen
 
 
 ***
+# 2. Collectibles - Start of Game - End of Konpa Cave
+
+Everything below must be done before the Point of no return (Listed Below)
+
+<details> <summary> Djinn
+
+Total: 6 Djinn
+
+</summary>
+
+[![](https://media.retroachievements.org/Badge/128901.png)](https://retroachievements.org/achievement/118099) 
+**Forge [m]** 
+
+Obtain the Mars Djinn Forge
+
+[![](https://media.retroachievements.org/Badge/128898.png)](https://retroachievements.org/achievement/118096) 
+**Gust [m]** 
+
+Obtain the Jupiter Djinn Gust
+
+[![](https://media.retroachievements.org/Badge/128897.png)](https://retroachievements.org/achievement/118095) 
+**Chill [m]** 
+
+Obtain the Mercury Djinn Chill
+
+[![](https://media.retroachievements.org/Badge/128899.png)](https://retroachievements.org/achievement/118097) 
+**Fever [m]** 
+
+Obtain the Mars Djinn Fever
+
+[![](https://media.retroachievements.org/Badge/128900.png)](https://retroachievements.org/achievement/118098) 
+**Flower [m]** 
+
+Obtain the Venus Djinn Flower
+
+[![](https://media.retroachievements.org/Badge/128943.png)](https://retroachievements.org/achievement/118140) 
+**Jolt [m]** 
+
+Obtain the Jupiter Djinn Jolt
+
+</details>
+
+<details> <summary> Summons
+
+Total: 1 Summon Tablet</summary>
+
+[![](https://media.retroachievements.org/Badge/109796.png)](https://retroachievements.org/achievement/100690) 
+**Summoning Tablet: Zagan [m]** 
+
+Obtain the Summon Zagan
+
+</details>
+
+<details> <summary> Items
+
+Total: 2 Areas</summary>
+
+[![](https://media.retroachievements.org/Badge/109660.png)](https://retroachievements.org/achievement/100595) 
+**Item Scavenger: Patcher's Place [m]** 
+
+Collect all the hidden Items in Patcher's Place
+
+[![](https://media.retroachievements.org/Badge/109660.png)](https://retroachievements.org/achievement/100669) 
+**Item Scavenger: Carver's Camp [m]** 
+
+Collect all the hidden Items in Carver's Camp
+
+</details>
+
+<details> <summary>Challenges
+
+Total: 1</summary>
+
+[![](https://media.retroachievements.org/Badge/109661.png)](https://retroachievements.org/achievement/100596) 
+**Defeat Dim Dragon Plus [m]** 
+
+Defeat the Dim Dragon Plus after finishing Psynergy Training Grounds Hard Mode
+
+</details>
+
+***
 
 **Point OF NO RETURN**
+
+Everything above here except for Encyclopedia must be collected before this point.
  <details> <summary>After the completion of Konpa Cave</summary> Rief joins the party</details>
