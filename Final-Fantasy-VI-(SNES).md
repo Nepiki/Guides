@@ -739,7 +739,7 @@ _A healthy fish diet_
 
 In order to save Cid's life, Celes must continually feed him a diet of health fish.  Cid starts with 120 health which decreases every second.  The goal is to raise his health to 255 before it reaches 0.  Head south from Cid's house to find the fishing area.  The goal is to catch fast moving fish while avoiding the slow moving fish.  Each time you feed a fish to Cid, new fish will appear.
 
-|![image](https://user-images.githubusercontent.com/120497130/224608150-c27bf57a-9caa-48d1-bbf4-345e4414a9c0.png)Name|Alt Name|Speed|Health|
+|![image](https://user-images.githubusercontent.com/120497130/224608150-c27bf57a-9caa-48d1-bbf4-345e4414a9c0.png)Name|Description|Speed|Health|
 |--|--|--|--|
 |Fish|A fish|Slow|-16|
 |A rotten fish|A foul-tasting fish|Medium|-4|
@@ -1460,25 +1460,32 @@ _Defeat Goddess, no instant death moves_
 
 No special requirements needed for this boss, except to not use instant death moves.  Goddess will use lots of lightning abilities, so Thunder Shields can help with healing.  The most difficult part of this boss is dealing with Entice which will Charm your characters.
 
-**![image](https://user-images.githubusercontent.com/120497130/223577148-d2268d7e-3e9c-407f-88fe-c1e8ded9b24d.png)
-[Night Into Day (25)](https://retroachievements.org/achievement/294591)**  
-_Defeat Kefka and view the ending_
+After the three statues, all that is left is the final boss.  The boss is a gauntlet of 4 phases.  If an ally is dead at the end of a phase, they will be replaced with the next person in line.  Make sure the first four characters are best equipped, but also equip the other characters in case someone dies.  Nearly all of the phases have multiple targets, so Ultima is the best approach here.  Keep everyone healthy and beat the game!
 
 **![image](https://user-images.githubusercontent.com/120497130/223577174-bb9ed983-5c16-4a06-9ed2-1671b255b386.png)
 [So Long and Thanks for All the Fish (25)](https://retroachievements.org/achievement/6889)**  
 _Clear the game with all the fish!_
 
+Make sure you have all 4 fish in your Rare items list before facing Kefka.  If Cid is still alive, you can obtain them anytime in the WoR.  As soon as Kefka is defeated, this achievement will unlock.  If it doesn't, check the list below for any that may be missing.
+
+|![image](https://user-images.githubusercontent.com/120497130/224608150-c27bf57a-9caa-48d1-bbf4-345e4414a9c0.png)Name|Description|
+|--|--|--|--|
+|Fish|A fish|
+|A rotten fish|A foul-tasting fish|
+|Just a Fish|An ordinary fish|
+|A yummy fish|A delicious fish|
+
+**![image](https://user-images.githubusercontent.com/120497130/223577148-d2268d7e-3e9c-407f-88fe-c1e8ded9b24d.png)
+[Night Into Day (25)](https://retroachievements.org/achievement/294591)**  
+_Defeat Kefka and view the ending_
+
+Once Kefka is defeated, watch the entire ending credits sequence.  It is about 20 minutes long if all party members were rescued, but well worth it.
+
 **![image](https://user-images.githubusercontent.com/120497130/223577198-0b85b25c-3bdf-41c2-bdda-96257f7feaa2.png)
 [LLG (50)](https://retroachievements.org/achievement/7296)**  
 _Clear the game with no character exceeding level 30_
 
-WIP - Needs to be fleshed out  
-Tips from Xymjak  
-Evade stat is bugged and uses magic evade value instead. For example, Priest's Miter gives +10% to both Magic and Physical Evasion instead of only Magic.  
-Put all characters in the back row  
-Fid Genji Glove and buy two Morning Stars.  Equip on Locke for big damage.  
-About Traveler lore (and mb corresponding rage in WoR). Anguiform, Stray cat and Aspiran rages for WoB.  
-Tactics for each boss.
+If all party members are level 29 or lower, this achievement will unlock once Kefka is defeated.
 
 ### Hidden Scenes
 
