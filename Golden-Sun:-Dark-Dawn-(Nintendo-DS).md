@@ -389,6 +389,45 @@ Defeat the Dim Dragon Plus after finishing Psynergy Training Grounds Hard Mode
 
 </details>
 
+<details> <summary>Sun Saga Books
+
+Total: 2</summary>
+
+[![](https://media.retroachievements.org/Badge/131397.png)](https://retroachievements.org/achievement/120386) 
+**Sun Saga [m]** 
+
+Find all of the Sun Saga books (must be found, not bought)
+
+Sun Saga 1 - Lookout Cabin
+Sun Saga 2 - Patcher's Place
+
+</details>
+
+<details> <summary>Chests
+
+Total: 11</summary>
+
+[![](https://media.retroachievements.org/Badge/131350.png)](https://retroachievements.org/achievement/120385) 
+**Treasure Hunter [m]** 
+
+Find every chest in the main story
+
+Lookout Cabin - 2
+
+Goma Plateau - 0
+
+Tanglewood - 3
+
+Patcher's Place - 0
+
+Goma Highlands Road - 1
+
+Carver's Camp - 0
+
+Konpa Ruins - 5
+
+</details>
+
 ***
 
 **Point OF NO RETURN**
