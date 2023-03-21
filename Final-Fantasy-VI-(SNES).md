@@ -1395,15 +1395,38 @@ Upon approaching Kefka's towr, the party will be split into 3 groups. Each group
 
 There will be a point at the end of the tower where the group leaders will step on three switches. Have Group 1 enter and go left. This will ensure that each group goes to the correct boss for the challenge achievements.
 
-![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 7 out of 8**  
-Gold Dragon
-
-![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 8 out of 8**  
-Skull Dragon
-
 **![image](https://user-images.githubusercontent.com/120497130/223576970-c2592ddf-efd1-4015-bbca-b1a84d3c56af.png)
 [Shielded from View (5)](https://retroachievements.org/achievement/6705)**  
 _Find the well-hidden Aegis Shield in Kefka's Tower_
+An Aegis shield is hidden in Group 3's path, south of the rotating machinery in the Magitek Factory section.  Go around the machinery and take a hidden path south to find it.  
+![image](https://user-images.githubusercontent.com/120497130/226506831-bff028ba-aca4-47ba-828a-707ff419d230.png)
+
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 7 out of 8**  
+Group 2 will encounter the Gold Dragon.  It uses lightning based attacks and is weak against water.  As with the other recent dragons, this one is a pushover due to how powerful the party has become.  For extra protection, equip Thunder Shields to absorb most of its attacks.
+
+![image](https://user-images.githubusercontent.com/120497130/226151732-8b92de1b-8723-44c4-9848-a9ffe3174768.png)**Dragon 8 out of 8**  
+Group  3 will encounter the Skull Dragon.  It uses poison based attacks and is weak to fire and holy.  Hit it with these types of spells or just stick with Flare and Ultima.  It will go down quickly.
+
+**![image](https://user-images.githubusercontent.com/120497130/223579129-bbb3309e-4e13-478e-8528-6f97b934fb6e.png)
+[Dragon Slayer (10)](https://retroachievements.org/achievement/6534)**  
+_Defeat the eight legendary dragons_
+
+If all the dragons have been killed, this achievement will unlock.  If it does not, check this list for any that were missed.
+
+* Storm Dragon - Mt. Zozo
+* Ice Dragon - Narshe Battlefield
+* Earth Dragon - Opera House
+* Holy Dragon - Fanatic's Tower
+* Blue Dragon - Ancient Castle
+* Red Dragon - Phoenix Cave
+* Gold Dragon - Kefka's Tower
+* Skull Dragon - Kefka's Tower
+
+**![image](https://user-images.githubusercontent.com/120497130/223579143-6794560c-df5e-4447-a269-fe936695ae29.png)
+[Life, Crystalized (25)](https://retroachievements.org/achievement/6618)**  
+_Collect all Magicite_
+
+Defeating all 8 dragons will grant the Crusader magicite.  If all other magicite have been obtained, this achievement will unlock.  
 
 **![image](https://user-images.githubusercontent.com/120497130/223577005-a9cef435-8135-4cd5-9a74-a10bc9b45c9e.png)
 [Pro-Runic (10)](https://retroachievements.org/achievement/7354)**  
@@ -1466,25 +1489,6 @@ _Learn the Tier 5 and 6 Rages_
 **![image](https://user-images.githubusercontent.com/120497130/223578972-66619ecf-a270-4a75-9f75-9262a53f8e6e.png)
 [Beastlord (25)](https://retroachievements.org/achievement/5432)**  
 _Learn the rarest, most elusive Rages_
-
-**![image](https://user-images.githubusercontent.com/120497130/223579129-bbb3309e-4e13-478e-8528-6f97b934fb6e.png)
-[Dragon Slayer (10)](https://retroachievements.org/achievement/6534)**  
-_Defeat the eight legendary dragons_
-
-* Storm Dragon - Mt. Zozo
-* Ice Dragon - Narshe
-* Earth Dragon - Opera House
-* Holy Dragon - Cultists' Tower
-* Blue Dragon - Ancient Castle
-* Red Dragon - Phoenix Cave
-* Gold Dragon - Kefka's Tower
-* Skull Dragon - Kefka's Tower
-
-In addition to unlocking the achievement, defeating all 8 dragons will grant the Crusader magicite.
-
-**![image](https://user-images.githubusercontent.com/120497130/223579143-6794560c-df5e-4447-a269-fe936695ae29.png)
-[Life, Crystalized (25)](https://retroachievements.org/achievement/6618)**  
-_Collect all Magicite_
 
 ## Step 5: Miscellaneous | Total Points: XX
 
