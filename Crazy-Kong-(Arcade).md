@@ -522,6 +522,8 @@ The speedrun achievements aren't messing around anymore. This will be quite chal
 
 <br><br>
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/325579.png">
+
 ```
 Turbo Rivet [50 Points]
 Finish a rivet board with at least 5000 left on the timer
