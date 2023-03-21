@@ -1,9 +1,7 @@
-# **Work in Progress**
-
 ![image](https://user-images.githubusercontent.com/120497130/223250255-7db8e822-2db2-4216-9888-813a7bc293a7.png)
 
 **RAGuide Author:** [Sutarion](https://retroachievements.org/user/Sutarion)  
-**Special Thanks:** [Xymjak](https://retroachievements.org/user/Xymjak),  [pitapocket17](https://retroachievements.org/user/pitapocket17), [BahamutVoid](https://retroachievements.org/user/BahamutVoid)    
+**Special Thanks:** [Xymjak](https://retroachievements.org/user/Xymjak),  [pitapocket17](https://retroachievements.org/user/pitapocket17)  
 **Set Authors:** [cirellio](https://retroachievements.org/user/cirellio) and  [televandalist](https://retroachievements.org/user/televandalist)
 
 
@@ -12,11 +10,11 @@
 |   |   |
 |:--|:--|
 |Set Difficulty|5/10, but requires time and patience|
-|Approximate time to master|25 hours for main game. Doubled to grind all Rages|
+|Approximate time to master|25 hours for main game. Doubled to obtain all Rages|
 |Minimum numbers of playthroughs needed|1.25 with save splits|
-|Number of missable achievements|X|
-|Does difficulty affect achievements?|No|
-|Hardest achievement of the set|[Beastlord (25)](https://retroachievements.org/achievement/5432) due to time & missables|
+|Number of missable achievements|68|
+|Does difficulty affect achievements?|N/A|
+|Hardest achievement of the set|[Beastlord (25)](https://retroachievements.org/achievement/5432) due to missables|
 
 # 2) Introduction
 
@@ -60,14 +58,14 @@ While doing a single playthrough is possible for this set, many people will pref
 [Beastlord (25)](https://retroachievements.org/achievement/5432) & Others**  
 Mastery requires learning all of Gau's Rage abilities from the Veldt.  In order for monsters to appear on the Veldt, they must first be encountered in the world.  Each section will begin with a list of the monsters you can encounter and marked with a ![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png).  Ensure that you run into at least 1 formation so that you can collect their rage on the Veldt later in the game.  For Low Level playthroughs, you can simply run away from the battle and it will still count.  Check the entries in the main guide for additional tips to optimize this process.
 
-Use this spreadsheet to track the enemies you have encountered.  https://docs.google.com/spreadsheets/d/16ophKhgLjYwCdvqEqAsJqVn-XrwLD-GGd2XVsNK8S_A/  
+Use this spreadsheet to track the enemies you have encountered:  [Gau Rage Checklist](https://docs.google.com/spreadsheets/d/16ophKhgLjYwCdvqEqAsJqVn-XrwLD-GGd2XVsNK8S_A/)  
 * Check the first column when the party encounters an enemy in the wild
 * Check the second column when Gau Leaps or returns to the party during a Veldt encounter with that enemy.
 * Check the third column when Gau's Rage list under Skills contains that enemy.
 
 ***
 
-## Step 1: World of Balance | Total Points: XX
+## Step 1: World of Balance | Total Points: 218
 
 ### Narshe
 
@@ -725,7 +723,7 @@ _Reach the second world_
 
 This achievement will unlock automatically after you complete the World of Balance.
 
-## Step 2: World of Ruin | Total Points: XX
+## Step 2: World of Ruin | Total Points: 486
 
 ### Solitary Island
 
@@ -1495,9 +1493,9 @@ _Defeat Kefka and view the ending_
 
 Once Kefka is defeated, watch the entire ending credits sequence.  It is about 20 minutes long if all party members were rescued, but well worth it.
 
-## Step 4: Collections | Total Points: XX
+## Step 4: Rage Collection| Total Points: 45
 
-### Rage Collection
+Learning all of the Rages will unlock the following achievements:
 
 **![image](https://user-images.githubusercontent.com/120497130/223578916-72af4e95-370d-4fab-a85d-54c582560ed3.png)
 [Beastlore I (5)](https://retroachievements.org/achievement/6423)**  
@@ -1515,7 +1513,34 @@ _Learn the Tier 5 and 6 Rages_
 [Beastlord (25)](https://retroachievements.org/achievement/5432)**  
 _Learn the rarest, most elusive Rages_
 
-## Step 5: Miscellaneous | Total Points: XX
+### Adding Veldt Encounters
+
+Gau can learn over 250 rages by leaping on monsters encountered on the Veldt.  In order to have a monster spawn on the Veldt, it must first be encountered in battle.  Defeating the enemy or escaping from battle will both add it to the Veldt encounter list.  Since the monsters must be encountered in the world, there are many missable Rages.  To avoid missing a monster, use the checklist provided here to confirm that each monster in an area is encountered: [Gau Rage Checklist](https://docs.google.com/spreadsheets/d/16ophKhgLjYwCdvqEqAsJqVn-XrwLD-GGd2XVsNK8S_A/)
+
+* Check the first column when the party encounters an enemy in the wild
+* Check the second column when Gau Leaps or returns to the party during a Veldt encounter with that enemy.
+* Check the third column when Gau's Rage list under Skills contains that enemy.
+
+Veldt battles will cycle through a set order of groups which contains several encounters.  The Formation List tab on the checklist shows all of the groups and the encounters they contain.  After earning most rages, it can be helpful to consult this list to know when a missing rage is coming up.
+
+### Encounter Manipulation
+
+Group order is randomized when loading a save game.  Although there is no way to control where the group order will land, resetting can be helpful to get closer to a group that has an encounter with a missing rage.
+
+Groups will increment 1 time after each battle won or escaped on the Veldt.  The specific encounter selected is randomized across all obtained encounters in that group.  For example, if group 1 has all 8 encounters unlocked, there is a 1/8 chance to get a specific encounter.  If only 4 encounters are unlocked, there is a 1/4 chance to get a specific encounter.
+
+Since the specific encounter is randomized, obtaining specific rages can be manipulated using the following steps:  
+* Battle until the next group contains a missing Rage
+* Save the game
+* Start the next encounter.  If it contains the missing rage, have Gau Leap.  If not, die to the encounter.  Remove armor to speed this up.
+* The game will automatically load the save game, but the Group will not change.
+* Entering a battle immediately will always give the same encounter.  To randomize the encounter, enter a non-Veldt battle.
+* Return to the Veldt.  The next encounter will be in the same group, but a new random encounter.
+* Repeat these steps as needed.
+
+This approach is time consuming so it best used when down to a handful of missing rages.  
+
+## Step 5: Miscellaneous | Total Points: 45
 
 **![image](https://user-images.githubusercontent.com/120497130/223578745-aa61f3c8-32be-4485-8d90-e976b1facebd.png)
 [Beyond the Shadows II (10)](https://retroachievements.org/achievement/5132)**  
