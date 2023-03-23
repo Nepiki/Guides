@@ -512,16 +512,6 @@ As you gain levels with experience, choose Defense seven times to unlock this ac
 
 ***
 
-![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249590.png) **Palatial Inertia** (10 points)
-
-_Beginning with a jump from the grass in front of the steps of any palace except the Grand Palace and Island Palace, reach the platform with the second Iron Knuckle statue without pressing the directional pad_
-
-As shown in the video, jump from the grass and ensure that you release the directional pad before Link crosses over the bottom step. Continue to jump as soon as Link touches the ground and he will preserve his momentum during subsequent jumps. Eventually he will start losing speed, but it should not be especially difficult to achieve this.  Casting Jump and/or Dash will make this significantly easier.
-
-[Palatial Inertia demonstration video](https://www.youtube.com/watch?v=S8wfU6h8XM0)
-
-***
-
 ![image](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/249605.png) **Jackpot!** (10 points)
 
 _Collect a 1000 point treasure bag_
