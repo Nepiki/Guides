@@ -872,10 +872,10 @@ Speak with Duncan to learn the Bum Rush (Phantom Rush) Blitz.  Perform this on a
 `Left > Up/Left > Up > Up/Right > Right > Down/Right > Down > Down/Left > Left`
 
 **![image](https://user-images.githubusercontent.com/120497130/223482334-486361bb-322e-4567-971b-8a76d0753ec7.png) [Patron Auctioneer (10)](https://retroachievements.org/achievement/6440)**  
-_Win all the exclusive items at the Auction House_
+_Win all the limited items at the Auction House_
 
 ![image](https://user-images.githubusercontent.com/120497130/226152245-a3b207aa-6177-4c0b-818e-8d7773dd9cfb.png) **Magicite 16 out of 26**  
-The remaining unique items can now be purchased at the Auction House in Jidoor.  If you purchased Golem in the WoB, 70k GP is needed to purchase the remaining items.  The following items need to be purchased to unlock this achievement:
+The remaining limited items can now be purchased at the Auction House in Jidoor.  If you purchased Golem in the WoB, 70k GP is needed to purchase the remaining items.  The following items need to be purchased to unlock this achievement:
 * Zoneseek Magicite
 * Golem Magicite
 * Hero's Ring (WoR only)
