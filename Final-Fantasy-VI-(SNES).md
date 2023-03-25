@@ -1444,7 +1444,7 @@ Defeating all 8 dragons will grant the Crusader magicite.  If all other magicite
 [Goddess of Darkness (10)](https://retroachievements.org/achievement/6000)**  
 _Steal a Red Jacket from and defeat Poltergeist, no instant death moves_
 
-Group 3 will face off against Poltergeist.  Ensure that Locke/Gogo has the Sneak Ring equipped to double the steal chance.  It is tough to steal and will be even more difficult for LLG runs where Locke is a low level.  Once the Red Jacket is successfully stolen, finish off the boss (without using instant death moves) to unlock this achievement.
+Group 3 will face off against Poltergeist.  Ensure that Locke/Gogo has the Sneak Ring equipped to double the steal chance.  It is tough to steal and will be even more difficult for LLG runs where Locke is a low level.  Cast Vanish on Poltergeist and have Gogo use the Dischord Lore to halve its level.  This will make stealing much easier.  Once the Red Jacket is successfully stolen, finish off the boss (without using instant death moves) to unlock this achievement.
 
 **![image](https://user-images.githubusercontent.com/120497130/223577083-2e0ca9cd-0067-47e4-b50d-9cfef0d20447.png)[Doomfiend (10)](https://retroachievements.org/achievement/7126)**  
 _Defeat Doom and learn Forcefield, no instant death moves_
@@ -1453,7 +1453,7 @@ _Defeat Doom and learn Forcefield, no instant death moves_
 |--|--|--|
 |ForceField|Doom|Missable|
 
-Group 3 will face off against Doom.  Ensure that Strago is in this group as it is the only opportunity to learn ForceField.  Doom will use this lore when he is under 32k health, so soften him up a little and then hit him repeatedly to get it to trigger.  Once Doom has used ForceField, finish him off (without using instant death moves) to unlock this achievement.
+Group 1 will face off against Doom.  Ensure that Strago is in this group as it is the only opportunity to learn ForceField.  Doom will use this lore when he is under 32k health, so soften him up a little and then hit him repeatedly to get it to trigger.  Once Doom has used ForceField, finish him off (without using instant death moves) to unlock this achievement.
 
 **![image](https://user-images.githubusercontent.com/120497130/223578870-16f43910-64f7-492b-8f23-a10b5dcca9dc.png)
 [Elder Wisdom (10)](https://retroachievements.org/achievement/7157)**  
