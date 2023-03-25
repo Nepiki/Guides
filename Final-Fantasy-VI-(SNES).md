@@ -1570,4 +1570,4 @@ There are many opportunities to reach this threshold.  This will be earned natur
 [Gillionaire (10)](https://retroachievements.org/achievement/7200)**  
 _Earn 5,000,000 Gp_
 
-As with the other farming achievements, Dinosaur Forest is the best place to earn GP.  Double GP can be obtained by equipping Relm with the Cat Hood (Cat-Ear Hood) won by betting an Imp Halberd (Impartisan) at the Colloseum.  Don't forget that the Veldt will also give GP, so you will earn GP while farming Rages.
+Cactrot Desert near Maranda is the best place to earn GP.  Cactrots and Hoovers will both give 10k GP per kill.  Double GP can be obtained by equipping Relm with the Cat Hood (Cat-Ear Hood) won by betting an Imp Halberd (Impartisan) at the Colloseum.  Don't forget that the Veldt will also give GP, so you will earn GP while farming Rages.
