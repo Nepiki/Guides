@@ -1399,7 +1399,9 @@ Upon approaching Kefka's Tower, the party will be split into 3 groups. Each grou
 * Group 2 (Center): Must have Celes (Runic)
 * Group 3 (Right): Must have Locke or Gogo (Steal)
 
-There will be a point at the end of the tower where the group leaders will step on three switches. Have Group 1 enter and go left. This will ensure that each group goes to the correct boss for the challenge achievements.  Keep in mind that equipment can be traded between all characters, even if they are not in the same group.  If a boss is difficult, consider swapping your best armor from another character.
+Keep in mind that equipment can be traded between all characters, even if they are not in the same group.  If a boss is difficult, consider swapping your best armor from another character.
+
+⚠️ Near the end of the dungeon, the group leaders will step on three switches. Have Group 1 enter and go left. This will ensure that each group goes to the correct boss for the challenge achievements.  
 
 **![image](https://user-images.githubusercontent.com/120497130/223576970-c2592ddf-efd1-4015-bbca-b1a84d3c56af.png)
 [Shielded from View (5)](https://retroachievements.org/achievement/6705)**  
@@ -1439,6 +1441,8 @@ If all the dragons have been killed, this achievement will unlock.  If it does n
 _Collect all Magicite_
 
 Defeating all 8 dragons will grant the Crusader magicite.  If all other magicite have been obtained, this achievement will unlock.  
+
+⚠️ Remember to send Group 1 to the left at the fork when all 3 switches are pressed.
 
 **![image](https://user-images.githubusercontent.com/120497130/223577054-b3726833-1a20-4381-9130-91608449f01f.png)
 [Goddess of Darkness (10)](https://retroachievements.org/achievement/6000)**  
