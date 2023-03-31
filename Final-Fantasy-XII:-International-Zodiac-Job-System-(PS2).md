@@ -1,7 +1,8 @@
-![](https://imgbox.com/Dpgf4HYi)
 
-Achievement Guide Author: [QuinnWasTaken](https://retroachievements.org/user/QuinnWasTaken)
+![FF12Header](https://user-images.githubusercontent.com/129541573/229205131-88c96e32-f138-46b9-a20c-8983240c0128.png)Achievement Guide Author: [QuinnWasTaken](https://retroachievements.org/user/QuinnWasTaken) 
+
 Special Thanks: [TheLooseGroose](https://retroachievements.org/user/TheLooseGroose), [Agnam](https://retroachievements.org/user/Agnam) Who directly or indirectly assisted in my playthrough which this guide is based upon. [Sutarion](https://retroachievements.org/user/Sutarion) for inspiring this project.
+
 Set Authors: [siouxerskate](https://retroachievements.org/user/siouxerskate) and [Snow](https://retroachievements.org/user/Snow)
 
 # 1) Synopsis
