@@ -1,17 +1,15 @@
 
-![FF12Header](https://user-images.githubusercontent.com/129541573/229205131-88c96e32-f138-46b9-a20c-8983240c0128.png)Achievement Guide Author: [QuinnWasTaken](https://retroachievements.org/user/QuinnWasTaken) 
-
-Special Thanks: [TheLooseGroose](https://retroachievements.org/user/TheLooseGroose), [Agnam](https://retroachievements.org/user/Agnam) Who directly or indirectly assisted in my playthrough which this guide is based upon. [Sutarion](https://retroachievements.org/user/Sutarion) for inspiring this project.
-
+![FF12Header](https://user-images.githubusercontent.com/129541573/229205131-88c96e32-f138-46b9-a20c-8983240c0128.png)Achievement Guide Author: [QuinnWasTaken](https://retroachievements.org/user/QuinnWasTaken)  
+Special Thanks: [TheLooseGroose](https://retroachievements.org/user/TheLooseGroose), [Agnam](https://retroachievements.org/user/Agnam) Who directly or indirectly assisted in my playthrough which this guide is based upon. [Sutarion](https://retroachievements.org/user/Sutarion) for inspiring this project.  
 Set Authors: [siouxerskate](https://retroachievements.org/user/siouxerskate) and [Snow](https://retroachievements.org/user/Snow)
 
 # 1) Synopsis
-Set Difficulty | 4/10, but requires time and patience
-Approximate time to master | 80-90 hours is my guesstimate
-Minimum numbers of playthroughs needed | 1.01 with good save discipline (There's one NG+ Achievement too)
-Number of missable achievements | 36
-Does difficulty affect achievements? | N/A
-Hardest achievement of the set | Uncertain Right now
+Set Difficulty | 4/10, but requires time and patience  
+Approximate time to master | 80-90 hours is my guesstimate  
+Minimum numbers of playthroughs needed | 1.01 with good save discipline (There's one NG+ Achievement too)  
+Number of missable achievements | 36  
+Does difficulty affect achievements? | N/A  
+Hardest achievement of the set | Uncertain Right now  
 
 # 2) Introduction
 
@@ -19,10 +17,10 @@ Hardest achievement of the set | Uncertain Right now
 ## Before you begin
 Anything important or that affects future achievement gains will be marked with a 🚩
 
-🚩 I recommend thinking through your class choices for your party, You have 6 characters and there's 12 choices, Certain choices might make the set easier or harder 🚩
-🚩 Make sure to grab a job with Poach, Not having any access to it means you will need a second playthrough!!🚩
-🚩 Jobs with Poach: Uhlan, Machinist, Time Battlemage, Archer, Black Mage (Requires Zalera unless it's Fran, Vaan or Balthier) 🚩
-🚩 There are cartographer moogles in most towns that sell maps of the various areas. Buy the maps from them it will make it easier to navigate 🚩
+🚩 I recommend thinking through your class choices for your party, You have 6 characters and there's 12 choices, Certain choices might make the set easier or harder 🚩  
+🚩 Make sure to grab a job with Poach, Not having any access to it means you will need a second playthrough!!🚩  
+🚩 Jobs with Poach: Uhlan, Machinist, Time Battlemage, Archer, Black Mage (Requires Zalera unless it's Fran, Vaan or Balthier) 🚩  
+🚩 There are cartographer moogles in most towns that sell maps of the various areas. Buy the maps from them it will make it easier to navigate 🚩  
 
 There are several boss achievements which require the characters taking part in the fight to be at or below a certain level. Keep these in mind (I'll mention them in the relevant story chapter.
 
@@ -64,12 +62,12 @@ Red & Rotten in the Desert (1)](https://retroachievements.org/achievement/223460
 After some more story you'll come to discover you have two marks for missable achievements on your screen. One we have to do immediately the other we'll get some help on.
 
 I strongly reccomend you grind to around level 3-4 it will help you survive the upcoming run.
+We need to make our way to Dalmasca Westersands, 
 
 Here's a list of stuff you can do now that Pamelo has joined you (In order of ascending difficulty):
 
-[Wolf in the Waste (5)](https://retroachievements.org/achievement/223461)	
-
-*Complete hunt Wolf in the Waste*
+![image](https://user-images.githubusercontent.com/129541573/229205968-cffbeb29-77d4-4099-8370-c75541162b42.png)
+[Wolf in the Waste (5)](https://retroachievements.org/achievement/223461) - *Complete hunt Wolf in the Waste*
 
 Petitioner: Gatsly
 Petitioner's Location: Rabanastre/East End (The Sandsea)
