@@ -19,7 +19,7 @@ Your character starts the game only knowing one girl, Shiori. The other girls ha
 ### Dating
 Once you meet a girl (and call Yoshio to get her phone number), you can use a “Day off” timeslot to invite her out on a date, which will be scheduled for a subsequent day off. Invitations are one of the game’s more RNG-dependent mechanics; no matter how much a girl likes you, there’s never a 100% chance she’ll accept. (Anecdotally, I think you have a higher chance of a Yes if you set the date further out from the current day, but this is unconfirmed.) Depending on your choice of date location and dialog responses, you’ll either gain or lose affection with your date partner. Sometimes you’ll see a unique “event date” if you match up specific combinations of girl, location, and calendar season.  
 ### Bomb Warnings
-You may receive periodic notifications that unsavory rumors are circulating about your character. This means one or more girls are about to “bomb” you. This generally occurs when too much time has passed since you’ve interacted with someone. When you get a bomb warning, you’ll need to quickly arrange a date with the girl in question, as a detonation will lower your affection with every girl. Due to this mechanic, it’s wise to limit the number of girls you meet in each playthrough - girls you haven’t met can’t set bombs. I recommend trying to limit your meetings to no more than two girls (besides Shiori and Yumi) per playthrough.  
+You may receive periodic notifications that unsavory rumors are circulating about your character. This means one or more girls are about to “bomb” you. This generally occurs when too much time has passed since you’ve interacted with someone. When you get a bomb warning, you’ll need to quickly arrange a date with the girl in question, as a detonation will lower your affection with _every_ girl. Due to this mechanic, it’s wise to limit the number of girls you meet in each playthrough; girls you haven’t met can’t set bombs. I recommend trying to limit your meetings to no more than 2-3 girls (besides Shiori and Yumi) per playthrough.  
 ### Endings
 When you reach the final day of the ingame calendar, you’ll see one of several ending cutscenes based on how you performed throughout your playthrough. Each girl has a unique “good ending” that can trigger if you have both a high affection level with her and have raised your stats above specific thresholds. Each time you see a new good ending, a “heart” counter on your save file will increment, and you’ll be prompted to start a fresh playthrough. Your biggest overarching goal while mastering the achievement set will be to gain 13 hearts on a single save file.
 
@@ -132,6 +132,7 @@ Take Shiori to the Pool during the 2nd or 3rd Summer (1997 or 1998). You’ll se
 
 ![Badge: Right Here, Ten Years Ago](https://media.retroachievements.org/Badge/305006.png) [Right Here, Ten Years Ago](https://retroachievements.org/achievement/275604) (5)
 > See a special event on a Fall date with Shiori.
+
 Take Shiori to the Local Park during Fall of any year.
 
 ![Badge: Don’t You Feel Lucky?](https://media.retroachievements.org/Badge/305007.png) [Don't You Feel Lucky?](https://retroachievements.org/achievement/275605) (5)
@@ -433,11 +434,11 @@ Take Yumi to the Stadium during November of 1997 or 1998.
 > See a special event on a Winter date with Yumi.
 Take Yumi to the Ski Resort during Winter of any year.
 
-##Where's Shiori's SFC event, and Yumi's school and SFC events?
+## Where's Shiori's SFC event, and Yumi's school and SFC events?
 I have not been able to confirm the existence of an SFC event for Shiori; it may be that one was simply never implemented in the game. If you have information otherwise, please let me know!  
 Yumi does have both school and SFC events, but their occurance is disproportionately rare compared to those of the other girls, to the point that I decided to omit them from the achievement set as a potential RNG-unwelcome-concept issue. Yumi's school event is unique in that it requires high affection with both Yumi _and_ Saki, and you have to have already seen Saki's school event within the same playthrough. Yumi's SFC event can happen randomly on New Years' day after meeting her, but with an unusually low probability of triggering; even if you have a high affection level, she will usually just invite you to the Shrine like anyone else would.
 
-## Achievements III: Endings
+# Achievements III: Endings
 
 The end of the game is always on March 31st, 1999. Each girl has different requirements to trigger their “good” ending (a confession under the Tree of Legends). In the event you’ve met the requirements for multiple girls’ endings during a single playthrough, the game will choose whoever you have the highest affection level with. (Your affection ratings are more granular than just the 7 levels you see in Yoshio’s notebook.)  
 The first 11 endings listed below each require some combination of your stats to be at a minimum threshold. They may also require you to pass a certain level of university/career exam (administered about five weeks before graduation). As of this writing I have yet to confirm what all of these requirements actually are - doing so will take several hours of testing. What I _have_ confirmed is that if you've managed to find one of the other text guides available online covering other versions of the game (PC Engine, PlayStation, etc), then great news! The stat requirements _do not_ match precisely between versions. They'll be _close_, but don't be surprised if you have to grind some stat more or less in this version than you would on PlayStation.
@@ -472,7 +473,7 @@ The first 11 endings listed below each require some combination of your stats to
 
 [TBD: Stat / Career Requirements]
 
-![Badge: Hope And Change](https://media.retroachievements.org/Badge/305059.png) [Hope And Change(https://retroachievements.org/achievement/275657) (25)
+![Badge: Hope And Change](https://media.retroachievements.org/Badge/305059.png) [Hope And Change](https://retroachievements.org/achievement/275657) (25)
 > Confess to Nozomi under the Tree of Legends.
 
 [TBD: Stat / Career Requirements]
@@ -512,7 +513,7 @@ I left this achievement’s description vague to avoid spoiling too much, but ye
 
 This one is simple, albeit time-consuming. Your save file has a “Hearts” counter which tracks the number of unique confession endings you’ve seen, and this achievement requires reaching the maximum of 13 (for the 11 dateable girls, plus Miharu and Rei.) In order to earn multiple hearts, you must save your game using the prompt that appears immediately after the credits, and then start a new playthrough using the same save file. As such, it’s not possible to save time by rolling back to partially-complete save backups; this truly requires 13 start-to-finish playthroughs, so buckle up. Fortunately, you’re free to complete the endings in any order.
 
-## Achievements IV: Miscellaneous
+# Achievements IV: Miscellaneous
 
 This section covers all the ingame events which aren’t tied to any specific girl.
 
