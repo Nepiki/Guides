@@ -111,11 +111,11 @@ Yumi is the only girl besides Shiori who you’re guaranteed to meet in every pl
 # Achievements II: Events
 
 There are three types of special events (cutscenes) you can see for each girl.
-###Seasonal
+### Seasonal
 Each dateable girl has four event dates you can trigger by taking her to a certain location during a certain season. Unlike real life, the seasons align cleanly with calendar months. Spring is March-April-May, Summer is June-July-August, Fall is September-October-November, and Winter is December-January-February. Some seasonal event dates also require a high affection level; if you take a girl to the right location during the right season and don’t get the event, just try again once your affection is higher.
-###School
+### School
 Each girl has one event that can trigger randomly during school days. For better or worse this is another RNG-heavy part of the achievement set; even after 13+ playthroughs I’m still uncertain which elements of the game state (if any) influence the likelihood of seeing these events. On average I saw school events for about 2-3 girls per playthrough.
-###SFC
+### SFC
 Each girl also has one extra event date that’s exclusive to the Super Famicom version of Tokimeki Memorial; I call these “SFC Events”. These each involve a small minigame, though actually winning said minigame is not required for the achievements.
 
 There are a lot of these to unlock, but the good news is that you can (and probably will) see multiple events for multiple girls per playthrough.
