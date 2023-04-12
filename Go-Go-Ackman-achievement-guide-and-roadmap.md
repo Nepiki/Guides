@@ -26,10 +26,10 @@ Overall, although it's a fairly short game, which can be beaten in less than 30 
 **Roadmap**
 
 
-Step 1: Beat the game on Easy, beat all bosses damageless, weapons achievements and get ending A
+Step 1: Beat the game on Normal, beat all bosses damageless, weapons achievements and get ending A
 
 
-First of all, there is not a lot of differences between easy and normal modes except starting the game with more health on easy and having a bit more enemies on normal. I suggest starting the game on easy to get used to it and learning most level layouts. Immediately go for some miscellaneous weapons achievements and try to beat every boss damageless. The vast majority of bosses are extremely easy, easier than the easiest Mega Man boss, with only 3 attack patterns (and most have even less than that) that you can see coming quite easily. If you get hit, you can die on purpose and try again. The only challenge here is that these achievements can only be earned without special weapons, so no sword, gun or boomerang powerup is allowed. Exceptionally, you can use bombs for certain bosses when specified in the achievement description. Upon completion, beating the game on easy will give you ending A.
+First of all, there is not a lot of differences between easy and normal modes except starting the game with more health on easy and having a bit more enemies on normal. All damageless bosses achievements requires a Normal playthrough though, so I suggest starting the game on Normal right away. Use this playthrough to get used to the game and to learn most level layouts. Immediately go for some miscellaneous weapons achievements and try to beat every boss damageless. The vast majority of bosses are extremely easy, easier than the easiest Mega Man boss, with only 3 attack patterns (and most have even less than that) that you can see coming quite easily. If you get hit, you can die on purpose and try again. The only challenge here is that these achievements can only be earned without special weapons, so no sword, gun or boomerang powerup is allowed. Exceptionally, you can use bombs for certain bosses when specified in the achievement description. Also take all the upper options when having to pick a branch at some points in the game. Upon completion, make sure to have less than 2000 points to get ending A. Beating the game on easy will automatically give you ending A.
 
 
 
