@@ -28,10 +28,34 @@ As time went on, our skills and scores improved, and during my college years, I 
 <p align="center">
   <img src="https://i.imgur.com/gIFVKj5.jpg" height="400">
 </p>
-<p align="center">Our family's Defender machine, sitting in our computer lab.</p>
+<p align="center">Our family's Defender machine, resting in our computer lab.</p>
 
 <br>
 
 ---
 
 ## Introduction
+
+Defender is a groundbreaking arcade game developed in 1980 by Eugene Jarvis and Larry DeMar and published in 1981 by Williams Electronics. It stands as an iconic side-scrolling shooter that captivated players with its challenging gameplay, remarkable complexity, and innovative mechanics. In fact, its difficulty and advanced controls even attracted the attention of Air Force pilots, who used the game for supplementary training. As you explore the RetroAchievements set for Defender, prepare to embrace the excitement of this timeless and challenging classic.
+
+In Defender, you pilot a spaceship tasked with defending humanoids from alien invaders across a horizontally-scrolling terrain. Featuring a unique radar screen and the ability to thrust in both directions, Defender brought an unprecedented level of control and strategy to the gaming world.
+
+This game comprises of multiple waves of increasing difficulty, with varied alien adversaries attempting to abduct the humanoids scattered across the landscape. Your mission is to protect them by eliminating the alien threat while avoiding collisions and hostile fire. Strategic use of your ship's arsenal, including the powerful smart bomb, is essential for success.
+
+The intense action, steep learning curve, and intricate controls make Defender an undeniably challenging experience. However, mastering its gameplay is an incredibly rewarding accomplishment, akin to learning a dead language. By the end of this guide, I hope to empower you with the skills and knowledge needed to conquer the alien invasion and defend the humanoids with confidence.
+
+Remember, practice makes perfect, and with dedication, you'll soon be able to overcome even the toughest waves of alien attackers and understand why this game was considered a hand-eye-coordination training tool for elite pilots in the U.S. military.
+
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/gjCHGgC.png" height="350">
+</p>
+
+> "Donkey Kong, Pac-Man, Ms. Pac-Man, Galaga, and Defender ... these are the games that caught the public eye. These are the games people cared about. And so, if you want to be known as being world-class, you've got to master one of those games." — **[The King of Kong: A Fistful of Quarters (2007)](https://en.wikipedia.org/wiki/The_King_of_Kong)**
+
+<br>
+
+---
+
+## Gameplay Mechanics and Tips
