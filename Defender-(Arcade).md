@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://retroachievements.org/game/15020">Defender (Arcade</a></h1>
+<h1 align="center"><a href="https://retroachievements.org/game/15020">Defender (Arcade)</a></h1>
 
 <p align="center">
   <span>8/10 Difficulty</span>  •
