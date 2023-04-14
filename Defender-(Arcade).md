@@ -358,6 +358,10 @@ Continuity Cache [10 Points]
 Hold more than five lives in reserve
 ```
 
+Once you have five lives in reserve and earn a sixth, the game will still give you the life, but it won't appear on the top left of the screen anymore.
+
+<br><br>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340311.png">
 
 ```
@@ -365,7 +369,9 @@ Space Invaders Tribute [10 Points]
 Clear Wave 1 without pressing Up or Down
 ```
 
-TODO: note the hyperspace trick
+One trick to make this achievement easier is to use the Hyperspace button. Hyperspace causes you to teleport to a randomly-selected spot on the map, which includes a different position along the screen's Y-axis. Note that Hyperspace also has a 50% chance of killing you, but achievement doesn't need to be done on a single life.
+
+<br><br>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340312.png">
 
@@ -395,6 +401,10 @@ No-Bomb Natural [25 Points]
 Clear Wave 4 without ever using a smart bomb during the playthrough
 ```
 
+Your biggest hurdle with these achievements will be handling the pods and swarmers that emerge from them without smart bombs. The best way to deal with swarmers is to kill as many as possible by spamming the fire button as soon as they start coming out of a pod. To hunt them down, don't face them head-to-head. Instead, chase behind them and try to match their speed while shooting at them.
+
+<br><br>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340316.png">
 
 ```
@@ -416,12 +426,20 @@ Minimalist Marksman [10 Points]
 Clear Wave 1 without pressing Fire more than 5 times
 ```
 
+To earn this achievement, you will need a few well-placed smart bomb uses. Wait until many enemies are clustered on the screen, then kill them using one of your smart bombs.
+
+<br><br>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340319.png">
 
 ```
 Baiter-Free Breeze [10 Points]
 Reach Wave 3 with no baiters ever spawning
 ```
+
+This will all come down to how quickly you can reach Wave 3. If you play aggressively, it should be possible to reach Wave 3 with no baiters ever spawning. Consider this practice for the "Beat the Clock" achievement.
+
+<br><br>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340320.png">
 
@@ -444,6 +462,13 @@ Edge of Extinction III [10 Points]
 Begin Wave 3 with one humanoid remaining, and ensure it survives until reaching Wave 5
 ```
 
+This is easier than it sounds. There are two approaches you can take:
+
+* Camp the humanoid and defend it, not allowing anything to come near.
+* Deliberately allow a lander to pick up the humanoid, then kill the lander and grab the humanoid as it falls, never setting it back on the ground. Landers will now float aimlessly with no objective.
+
+<br><br>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340329.png">
 
 ```
@@ -451,9 +476,11 @@ Free-space Explorer [25 Points]
 Begin Wave 2 with no humanoids remaining, and reach Wave 5
 ```
 
-### Technique Achievements
+The most critical thing to understand when it comes to earning this achievement is how to abuse the invisible line while in free-space mode. You'll want to combine this with maximizing your smart bombs to destroy as many mutants as possible.
 
-TODO
+<br><br>
+
+### Technique Achievements
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340309.png">
 
@@ -469,9 +496,15 @@ Life Saver II [2 Points]
 Return a humanoid to the ground
 ```
 
-### Time-based Achievements
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Save%20Humanoid%202.gif?raw=true" height="450">
+</p>
+<p align="center">
+<sup>Life Saver I & Life Saver II can be earned in rapid succession.</sup>
+</p>
+<br><br>
 
-TODO
+### Time-based Achievements
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340323.png">
 
@@ -494,12 +527,22 @@ Three-Minute Warrior [25 Points]
 Survive for longer than three minutes on your first life
 ```
 
+These achievements will take a lot of practice, and you will need to combine multiple tactics that are discussed earlier in this guide. There is one trick you may find helpful: when you're down to one enemy left in a wave, delay killing them for as long as possible. Hunt a baiter or two if that's what it takes. This will buy you valuable seconds that can help you unlock these achievements.
+
+<br><br>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340327.png">
 
 ```
 Beat the Clock [10 Points]
 Reach Wave 4 within two minutes and fifteen seconds
 ```
+
+This will truly test your ability to approach Defender with an aggressive playstyle. Even with deaths, you should be able to achieve this with such a playstyle. Take a look at the video below:
+
+https://user-images.githubusercontent.com/3984985/232169437-cc858cdb-a013-40c9-8f48-9c93100b9760.mp4
+
+<br><br>
 
 ### End of the Road
 
@@ -532,9 +575,3 @@ Score 200,000 points
 Hell in Space [100 Points]
 Begin Wave 2 with no humanoids remaining, and reach Wave 5 without ever using a smart bomb
 ```
-
----
-
-## Highlighted Footage
-
-TODO
