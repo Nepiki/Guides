@@ -52,7 +52,7 @@ Remember, practice makes perfect, and with dedication, you'll soon be able to ov
   <img src="https://i.imgur.com/gjCHGgC.png" height="350">
 </p>
 
-> "Donkey Kong, Pac-Man, Ms. Pac-Man, Galaga, and Defender ... these are the games that caught the public eye. These are the games people cared about. And so, if you want to be known as being world-class, you've got to master one of those games." — **[The King of Kong: A Fistful of Quarters (2007)](https://en.wikipedia.org/wiki/The_King_of_Kong)**
+> "Donkey Kong, Pac-Man, Ms. Pac-Man, Galaga, and Defender ... these are the games that caught the public eye. These are the games people cared about. And so, if you want to be known as being world-class, you've got to master one of these games." — **[The King of Kong: A Fistful of Quarters (2007)](https://en.wikipedia.org/wiki/The_King_of_Kong)**
 
 <br>
 
