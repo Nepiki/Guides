@@ -265,6 +265,8 @@ Unfortunately, there is no silver bullet that will carry you through the various
 
 The best way to get good fast is to [force yourself to play by only watching the scanner](https://github.com/RetroAchievements/guides/wiki/Defender-(Arcade)#force-yourself-to-watch-the-scanner).
 
+<br><br>
+
 ### Challenge Achievements
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340297.png">
@@ -304,6 +306,8 @@ Clear Wave 5 on your first life
 
 Remember to use your smart bombs effectively and do not allow any to go to waste during these deathless runs. That means ensure they're all exhausted before the possibility of your first death - it doesn't matter if you bring them with you for your second life.
 
+<br><br>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340302.png">
 
 ```
@@ -342,8 +346,10 @@ Clear Wave 5 with 10 humanoids remaining
 Note that _Full House V_ can actually be earned independently of the first four achievements in this series. This is due to all of your humanoids regenerating on Wave 5. You will always enter Wave 5 with 10 humanoids left, you just need to keep them alive.
 
 There are two tricks you can use to make these achievements easier:
-* Don't put your rescued humanoids back on the ground. Keep carrying them to not only protect them, but to slow down time.
+* Don't put your rescued humanoids back on the ground. Keep carrying them to not only protect them, but to [slow down time](https://github.com/RetroAchievements/guides/wiki/Defender-(Arcade)#how-to-abuse-the-games-hardware-and-slow-down-time).
 * If there is a humanoid about to die from a lander that you're unable to reach, intentionally suicide. On your next life, the humanoid will still be alive, even if it was being held by a lander at the time of your death.
+
+<br><br>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340308.png">
 
