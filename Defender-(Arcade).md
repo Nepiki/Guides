@@ -75,6 +75,7 @@ Humanoids can die in three different ways:
 
 When you lose all your humanoids, the planet explodes and you enter "free-space" mode, where all the enemies are incredibly more difficult and aggressive. Successfully playing in free-space mode requires special training and tactics. As a result, most games end very quickly, with seconds, when entering free-space mode.
 
+<br>
 <p align="center">
   <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Humanoid%20Abduction.gif?raw=true" height="400">
 </p>
