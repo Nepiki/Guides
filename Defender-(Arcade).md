@@ -73,7 +73,7 @@ Humanoids can die in three different ways:
 * When they're dropped by a lander.
 * When you accidentally shoot them.
 
-When you lose all your humanoids, the planet explodes and you enter "free-space" mode, where all the enemies are incredibly more difficult and aggressive. Successfully playing in free-space mode requires special training and tactics. As a result, most games end very quickly, with seconds, when entering free-space mode.
+When you lose all your humanoids, the planet explodes and you enter "free-space" mode, where all the enemies are incredibly more difficult and aggressive. Successfully playing in free-space mode requires special training and tactics. As a result, most games end very quickly, within seconds, when entering free-space mode.
 
 <br>
 <p align="center">
@@ -546,14 +546,16 @@ https://user-images.githubusercontent.com/3984985/232169437-cc858cdb-a013-40c9-8
 
 ### End of the Road
 
-TODO
-
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340296.png">
 
 ```
 Celestial Champion [50 Points]
 Clear Wave 8
 ```
+
+The significance of this wave is it is the game's maximum difficulty threshold. After clearing this wave, you will notice that Wave 9 returns to using the same blue border from Wave 1. It never gets any tougher from here!
+
+<br><br>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340326.png">
 
@@ -562,6 +564,10 @@ Four-Minute Warrior [50 Points]
 Survive for longer than four minutes on your first life
 ```
 
+As suggested earlier in the other time-based achievements, you want to buy as much time as possible during the downtime that occurs near the end of stages. Practice killing baiters as they spawn. If you can manage that, there is no urge to actually progress.
+
+<br><br>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340328.png">
 
 ```
@@ -569,9 +575,13 @@ Unstoppable Force [50 Points]
 Score 200,000 points
 ```
 
+A true test of skill! If you are able to break the 200,000 point barrier, you're probably only one more step on the ladder away from being able to play to 1,000,000 points. 200,000 points will occur several waves after Wave 8. Depending on your playstyle, this threshold should be reached somewhere between Waves 12 and 14.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340330.png">
 
 ```
 Hell in Space [100 Points]
 Begin Wave 2 with no humanoids remaining, and reach Wave 5 without ever using a smart bomb
 ```
+
+The hardest achievement in the game by far, and one you should not attempt until you unlock everything else. To unlock this, you must have mastered literally everything else in this guide. This will take an incredible amount of skill and just a pinch of luck. Be sure to abuse the hidden vertical line, follow the scanner as appropriate, and don't be overwhelmed by baiters while doing so. Pods and swarmers are also exceptionally dangerous. Keep in mind that _the number of swarmers which spawn from a pod is random_. Therefore, it is certainly possible to have bad games where an overwhelming number of swarmers appear. Don't get discouraged! Just keep grinding, and with enough practice you will eventually unlock this and master the game.
