@@ -77,7 +77,7 @@ When you lose all your humanoids, the planet explodes and you enter "free-space"
 
 <br>
 <p align="center">
-  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Humanoid%20Abduction.gif?raw=true" height="400">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Humanoid%20Abduction.gif?raw=true" height="600">
 </p>
 <p align="center">
 <sup>A humanoid being killed by a lander.</sup>
@@ -85,9 +85,20 @@ When you lose all your humanoids, the planet explodes and you enter "free-space"
 <br>
 
 <p align="center">
-  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Save%20Humanoid%202.gif?raw=true" height="400">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Save%20Humanoid%202.gif?raw=true" height="600">
 </p>
 <p align="center">
 <sup>Saving a humanoid from certain death.</sup>
 </p>
+<br><br>
+
+#### Force Yourself to Watch the Scanner
+
+One secret to getting really good at Defender very quickly is to force yourself to not even watch the main play area. Just practice playing while watching _only the scanner_ at the top of the screen. The best Defender players in the world are watching the scanner roughly 80% of the time. Given the expansive map, it is absolutely critical to have map awareness (and map control). The only way to learn that ability is by focusing on the scanner.
+
+<br>
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Scanner%20Clear.gif?raw=true" height="600">
+</p>
+<p align="center"><sup>A Wave 1 clear by only looking at the scanner! Do this a bit and you'll be a pro in no time.</sup></p>
 <br><br>
