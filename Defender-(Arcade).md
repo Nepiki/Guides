@@ -149,27 +149,62 @@ Unlike many games of the period, Defender has no explicit timer. Instead, super-
 
 #### How to Reliably Kill Mutants
 
-TODO
+The secret to killing mutants is to let them get behind you, then quickly turn around and kill them. The worst way to fight mutants is directly head-on.
+
+<br>
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Mutant%20Kill.gif?raw=true" height="450">
+</p>
+<p align="center"><sup>A basic demonstration of the mutant-killing technique.</sup></p>
+<br>
+
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Mutant%20Kill%202.gif?raw=true" height="450">
+</p>
+<p align="center"><sup>The technique can even be used to kill multiple mutants at once.</sup></p>
+<br><br>
 
 #### How to Reliably Kill Bombers
 
-TODO
+You can kill bombers with a similar approach that you use to kill mutants. Never chase bombers from behind - their movement pattern and speed makes them very difficult to shoot in this manner. The best way to kill bombers is to jet in front of them, then quickly turn around and blast them head-on.
+
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Bomber%20Kill.gif?raw=true" height="450">
+</p>
+<p align="center"><sup>Kill bombers by racing in front of them and turning around to shoot.</sup></p>
+<br><br>
 
 #### How to Reliably Kill Baiters
 
-TODO
+When you first encounter baiters, it will probably seem like an insurmountable challenge to be able to dispose of them. However, there is a secret that makes managing them much more reasonable. When you realize a baiter is spawning, immediately let go of the Thrust button (stop moving). Baiters will initially try to match your speed when they first appear, so by decreasing your speed, you have a short window where you can outmaneuver them.
 
-#### How to Kill Pods Without Smart Bombs
-
-TODO - mention wave 2 practice
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Baiter%20Kill.gif?raw=true" height="450">
+</p>
+<p align="center"><sup>Use the speed-matching technique to kill baiters.</sup></p>
+<br><br>
 
 #### How to Abuse the Game's Hardware and Slow Down Time
 
-TODO
+Defender's hardware was ultimately limited by the restraints of the time, and you can abuse and exploit this to make the game easier. When you are holding an carrying humanoids, the game is constantly calculating what position the humanoids should be in on the screen for every frame of your movement. This is a very expensive calculation, and if you are holding multiple humanoids you can quite literally bring the machine to a crawl. In fact, _dropping ten humanoids simultaneously will freeze the game._
 
-#### How to Survive Free Space
+If things are too fast-paced, try to deliberately hold three or more humanoids. You will find you can zip across the map much faster than landers can carry humanoids to their death.
 
-TODO
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Slow%20Down%20Time.gif?raw=true" height="450">
+</p>
+<p align="center"><sup>Slow down time by holding multiple humanoids.</sup></p>
+<br><br>
+
+#### How to Survive Free-space
+
+There is a trick you can abuse to make your time spent in free-space mode easier. There is actually an invisible vertical line on the map that sits at the point the screen technically wraps in the game's code. Mutants cannot cross this line, and they will instantly reverse. Because of this, you can exploit their movements and actually push mutants away from you when you feel too much pressure. You just need to identify where the invisible line is.
+
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Free%20Space%20Invisible%20Line.gif?raw=true" height="450">
+</p>
+<p align="center"><sup>Try to find the invisible line when in free-space mode, then abuse the mutants' movement.</sup></p>
+<br><br>
 
 ---
 
