@@ -28,7 +28,7 @@ As time went on, our skills and scores improved, and during my college years, I 
 <p align="center">
   <img src="https://i.imgur.com/gIFVKj5.jpg" height="400">
 </p>
-<p align="center">Our family's Defender machine, resting in our computer lab.</p>
+<p align="center"><sup>Our family's Defender machine, resting in our computer lab.</sup></p>
 
 <br>
 
@@ -59,3 +59,34 @@ Remember, practice makes perfect, and with dedication, you'll soon be able to ov
 ---
 
 ## Gameplay Mechanics and Tips
+
+There is a lot of depth in the gameplay mechanics of Defender. As soon as you learn the game's rules, you can start learning how to exploit them.
+
+### Basics
+
+#### You Are Defending Humanoids
+
+This is why the game is called Defender. Your purpose is to not only survive the waves, but to protect your humanoids as you progress. You start with ten humanoids, and all ten regenerate at the beginning of every 5 waves (ie: the first regeneration occurs at Wave 5).
+
+Humanoids can die in three different ways:
+* When they're captured by a lander and taken to the top of the screen.
+* When they're dropped by a lander.
+* When you accidentally shoot them.
+
+When you lose all your humanoids, the planet explodes and you enter "free-space" mode, where all the enemies are incredibly more difficult and aggressive. Successfully playing in free-space mode requires special training and tactics. As a result, most games end very quickly, with seconds, when entering free-space mode.
+
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Humanoid%20Abduction.gif?raw=true" height="400">
+</p>
+<p align="center">
+<sup>A humanoid being killed by a lander.</sup>
+</p>
+<br>
+
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Save%20Humanoid%202.gif?raw=true" height="400">
+</p>
+<p align="center">
+<sup>Saving a humanoid from certain death.</sup>
+</p>
+<br><br>
