@@ -77,7 +77,7 @@ When you lose all your humanoids, the planet explodes and you enter "free-space"
 
 <br>
 <p align="center">
-  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Humanoid%20Abduction.gif?raw=true" height="600">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Humanoid%20Abduction.gif?raw=true" height="450">
 </p>
 <p align="center">
 <sup>A humanoid being killed by a lander.</sup>
@@ -85,7 +85,7 @@ When you lose all your humanoids, the planet explodes and you enter "free-space"
 <br>
 
 <p align="center">
-  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Save%20Humanoid%202.gif?raw=true" height="600">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Save%20Humanoid%202.gif?raw=true" height="450">
 </p>
 <p align="center">
 <sup>Saving a humanoid from certain death.</sup>
@@ -98,7 +98,20 @@ One secret to getting really good at Defender very quickly is to force yourself 
 
 <br>
 <p align="center">
-  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Scanner%20Clear.gif?raw=true" height="600">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Scanner%20Clear.gif?raw=true" height="450">
 </p>
 <p align="center"><sup>A Wave 1 clear by only looking at the scanner! Do this a bit and you'll be a pro in no time.</sup></p>
+<br><br>
+
+#### Don't Play for Precision
+
+The game will attempt to process a shot every time you press the Fire button. "Spray and Pray" is a viable tactic and one you should grow accustomed to. Defender will richly reward you if you adopt a playstyle of unbridled speed and aggression. There is a time and place for more measured and precise shots (such as saving humanoids from landers), but those times are few and far between.
+
+Notice in the video clip below that while spamming the Fire button, I also spam quick presses of up and down. This causes shots to fan outwards, meaning I need to be less precise to land more kills.
+
+<br>
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Spray%20and%20Pray.gif?raw=true" height="450">
+</p>
+<p align="center"><sup>Spamming the Fire button while pacing up and down will get you far.</sup></p>
 <br><br>
