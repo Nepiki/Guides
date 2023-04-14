@@ -177,15 +177,310 @@ TODO
 
 ### Progression Achievements
 
-TODO
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340288.png">
+
+```
+First Flight [5 Points]
+Clear Wave 1
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340290.png">
+
+```
+Skyward Sentry [5 Points]
+Clear Wave 2
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340291.png">
+
+```
+Star Patrol [5 Points]
+Clear Wave 3
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340292.png">
+
+```
+Aerial Adept [10 Points]
+Clear Wave 4
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340293.png">
+
+```
+Cosmic Captain [10 Points]
+Clear Wave 5
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340294.png">
+
+```
+Galactic Gatekeeper [10 Points]
+Clear Wave 6
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340295.png">
+
+```
+Stellar Sentinel [25 Points]
+Clear Wave 7
+```
+
+### Challenge Achievements
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340297.png">
+
+```
+Flawless First Flight [5 Points]
+Clear Wave 1 on your first life
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340298.png">
+
+```
+Flawless Skyward Sentry [10 Points]
+Clear Wave 2 on your first life
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340299.png">
+
+```
+Flawless Star Patrol [10 Points]
+Clear Wave 3 on your first life
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340300.png">
+
+```
+Flawless Aerial Adept [25 Points]
+Clear Wave 4 on your first life
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340301.png">
+
+```
+Flawless Cosmic Captain [25 Points]
+Clear Wave 5 on your first life
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340302.png">
+
+```
+Full House I [5 Points]
+Clear Wave 1 with 10 humanoids remaining
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340303.png">
+
+```
+Full House II [5 Points]
+Clear Wave 2 with 10 humanoids remaining
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340304.png">
+
+```
+Full House III [10 Points]
+Clear Wave 3 with 10 humanoids remaining
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340305.png">
+
+```
+Full House IV [10 Points]
+Clear Wave 4 with 10 humanoids remaining
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340306.png">
+
+```
+Full House V [25 Points]
+Clear Wave 5 with 10 humanoids remaining
+```
+
+TODO: note the player can ignore the first 4 when going for this one
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340308.png">
+
+```
+Continuity Cache [10 Points]
+Hold more than five lives in reserve
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340311.png">
+
+```
+Space Invaders Tribute [10 Points]
+Clear Wave 1 without pressing Up or Down
+```
+
+TODO: note the hyperspace trick
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340312.png">
+
+```
+No-Bomb Novice [5 Points]
+Clear Wave 1 without ever using a smart bomb during the playthrough
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340313.png">
+
+```
+No-Bomb Newcomer [5 Points]
+Clear Wave 2 without ever using a smart bomb during the playthrough
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340314.png">
+
+```
+No-Bomb Notable [10 Points]
+Clear Wave 3 without ever using a smart bomb during the playthrough
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340315.png">
+
+```
+No-Bomb Natural [25 Points]
+Clear Wave 4 without ever using a smart bomb during the playthrough
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340316.png">
+
+```
+Straight Shooter I [5 Points]
+Clear Wave 1 without ever using reverse
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340317.png">
+
+```
+Straight Shooter II [5 Points]
+Clear Wave 2 without ever using reverse during the playthrough
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340318.png">
+
+```
+Minimalist Marksman [10 Points]
+Clear Wave 1 without pressing Fire more than 5 times
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340319.png">
+
+```
+Baiter-Free Breeze [10 Points]
+Reach Wave 3 with no baiters ever spawning
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340320.png">
+
+```
+Edge of Extinction I [5 Points]
+Begin Wave 2 with one humanoid remaining, and ensure it survives until reaching Wave 3
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340321.png">
+
+```
+Edge of Extinction II [10 Points]
+Begin Wave 2 with one humanoid remaining, and ensure it survives until reaching Wave 4
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340322.png">
+
+```
+Edge of Extinction III [10 Points]
+Begin Wave 3 with one humanoid remaining, and ensure it survives until reaching Wave 5
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340329.png">
+
+```
+Free-space Explorer [25 Points]
+Begin Wave 2 with no humanoids remaining, and reach Wave 5
+```
 
 ### Technique Achievements
 
 TODO
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340309.png">
+
+```
+Life Saver I [3 Points]
+Catch a humanoid
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340310.png">
+
+```
+Life Saver II [2 Points]
+Return a humanoid to the ground
+```
+
+### Time-based Achievements
+
+TODO
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340323.png">
+
+```
+One-Minute Warrior [5 Points]
+Survive for longer than one minute on your first life
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340324.png">
+
+```
+Two-Minute Warrior [10 Points]
+Survive for longer than two minutes on your first life
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340325.png">
+
+```
+Three-Minute Warrior [25 Points]
+Survive for longer than three minutes on your first life
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340327.png">
+
+```
+Beat the Clock [10 Points]
+Reach Wave 4 within two minutes and fifteen seconds
+```
+
 ### End of the Road
 
 TODO
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340296.png">
+
+```
+Celestial Champion [50 Points]
+Clear Wave 8
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340326.png">
+
+```
+Four-Minute Warrior [50 Points]
+Survive for longer than four minutes on your first life
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340328.png">
+
+```
+Unstoppable Force [50 Points]
+Score 200,000 points
+```
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340330.png">
+
+```
+Hell in Space [100 Points]
+Begin Wave 2 with no humanoids remaining, and reach Wave 5 without ever using a smart bomb
+```
 
 ---
 
