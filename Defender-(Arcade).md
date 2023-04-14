@@ -115,3 +115,21 @@ Notice in the video clip below that while spamming the Fire button, I also spam 
 </p>
 <p align="center"><sup>Spamming the Fire button while pacing up and down will get you far.</sup></p>
 <br><br>
+
+#### Use Smart Bombs Effectively
+
+The smart bomb button is one of Defender's most important features. When you use a smart bomb, every enemy on the screen instantly dies. You start the game with 3 and will be awarded a new smart bomb every 10,000 points until you Game Over. 
+
+Be cognizant of your smart bomb use. They are a precious resource, and you don't want to waste them! But what does "waste them" even mean?
+
+* Unless it's a matter of life and death of a humanoid(s), don't use a smart bomb to kill three or fewer enemies at once. You want big kills, not tiny kills.
+* Don't forget about opportunity cost: when you Game Over, try not to have a single smart bomb remaining. An unused smart bomb is a wasted smart bomb.
+
+**The best place to use smart bombs is right at the beginning of waves, starting at Wave 3.** You will spawn near some pods, and you want to smart bomb them all simultaneously. This very often instantly awards an extra life and another smart bomb.
+
+<br>
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Smart%20Bomb%20Use.gif?raw=true" height="450">
+</p>
+<p align="center"><sup>The best place to use smart bombs is at the beginning of Wave 3+ against multiple pods.</sup></p>
+<br><br>
