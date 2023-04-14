@@ -118,7 +118,7 @@ Notice in the video clip below that while spamming the Fire button, I also spam 
 
 #### Use Smart Bombs Effectively
 
-The smart bomb button is one of Defender's most important features. When you use a smart bomb, every enemy on the screen instantly dies. You start the game with 3 and will be awarded a new smart bomb every 10,000 points until you Game Over. 
+The smart bomb button is one of Defender's most important features. When you use a smart bomb, every enemy on the screen instantly dies. You start the game with 3 and will be awarded a new smart bomb (and life) every 10,000 points until you Game Over. 
 
 Be cognizant of your smart bomb use. They are a precious resource, and you don't want to waste them! But what does "waste them" even mean?
 
@@ -133,3 +133,62 @@ Be cognizant of your smart bomb use. They are a precious resource, and you don't
 </p>
 <p align="center"><sup>The best place to use smart bombs is at the beginning of Wave 3+ against multiple pods.</sup></p>
 <br><br>
+
+#### The Baiters are the Timer
+
+Unlike many games of the period, Defender has no explicit timer. Instead, super-challenging enemies called baiters spawn if you take too long during a wave. This usually spirals out of control, as baiters continue to spawn faster and faster until you die.
+
+<br>
+<p align="center">
+  <img src="https://github.com/wescopeland/RAScripts/blob/main/assets/guides/Defender%20-%20Baiter%20Onslaught.gif?raw=true" height="450">
+</p>
+<p align="center"><sup>Baiters left unabated will eventually become an insurmountable challenge.</sup></p>
+<br><br>
+
+### Tactics
+
+#### How to Reliably Kill Mutants
+
+TODO
+
+#### How to Reliably Kill Bombers
+
+TODO
+
+#### How to Reliably Kill Baiters
+
+TODO
+
+#### How to Kill Pods Without Smart Bombs
+
+TODO - mention wave 2 practice
+
+#### How to Abuse the Game's Hardware and Slow Down Time
+
+TODO
+
+#### How to Survive Free Space
+
+TODO
+
+---
+
+## Walkthrough
+
+### Progression Achievements
+
+TODO
+
+### Technique Achievements
+
+TODO
+
+### End of the Road
+
+TODO
+
+---
+
+## Highlighted Footage
+
+TODO
