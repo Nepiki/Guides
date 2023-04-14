@@ -577,6 +577,8 @@ Score 200,000 points
 
 A true test of skill! If you are able to break the 200,000 point barrier, you're probably only one more step on the ladder away from being able to play to 1,000,000 points. 200,000 points will occur several waves after Wave 8. Depending on your playstyle, this threshold should be reached somewhere between Waves 12 and 14.
 
+<br><br>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340330.png">
 
 ```
