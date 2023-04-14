@@ -261,6 +261,10 @@ Stellar Sentinel [25 Points]
 Clear Wave 7
 ```
 
+Unfortunately, there is no silver bullet that will carry you through the various waves of Defender. You will need to study all of the tips and strategies in the previous sections to be able to progress through the waves and make it this far. With time and practice, you will get better and better.
+
+The best way to get good fast is to force yourself to play by only watching the scanner.
+
 ### Challenge Achievements
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/340297.png">
