@@ -134,9 +134,9 @@ One of these chests needs to be opened in the WoR in order to earn [Patience Pay
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
-|Crawley|Urok|
-|Bleary|Foper|
-|Hornet||Default|
+|Crawley|Urok|Only appears on first time through cave|
+|Bleary|Foper|Only appears on first time through cave|
+|Hornet||Default - Only appears on first time through cave|
 
 ### South Figaro
 
@@ -204,9 +204,9 @@ Use Terra to cast fire on Ultros when you run into him after the 2nd save point.
 |Heavy Armor||Town Only|
 |Commander|
 |Vector Pup|Vector Hound|
-|Trilobiter|Cartagra|Default|
-|Gold Bear|
-|Primordite|Acrophies|
+|Trilobiter|Cartagra|Default - Only appears on first time through cave|
+|Gold Bear||Only appears on first time through cave|
+|Primordite|Acrophies|Only appears on first time through cave|
 
 **![image](https://user-images.githubusercontent.com/120497130/223470912-72c01fe3-44f0-4429-9c90-7b7d788311ab.png) [No, Really! I'm Not a Thief! (5)](https://retroachievements.org/achievement/5522)**  
 _Negotiate Locke's scenario without stealing any clothes (no guard clipping)_
@@ -230,9 +230,9 @@ Locke should still be equipped with Genji Gloves and his best weapons.  Heal up 
 |--|--|--|
 |1st Class|Valeor|
 |Wild Rat|
-|Rinn|Eukaryote|Fail Light Puzzle|
-|Spectere|Specter|Fail Light Puzzle|
-|Dark Side|Darkside|Fail Light Puzzle|
+|Rinn|Eukaryote|Only appears in Terra's Scenario - Fail Light Puzzle|
+|Spectere|Specter|Only appears in Terra's Scenario - Fail Light Puzzle|
+|Dark Side|Darkside|Only appears in Terra's Scenario - Fail Light Puzzle|
 
 **![image](https://user-images.githubusercontent.com/120497130/223469399-e29dc2b1-d0a7-4c4e-b0da-55f6f2a8450e.png) [What the-?!? (5)](https://retroachievements.org/achievement/5131)**  
 _Make Banon ride a chocobo_
@@ -250,8 +250,8 @@ This chest needs to be opened in the WoR to earn [Kuku's Treasures (5)](https://
 |Stray Cat|
 |Rhobite|Chippirabbit|
 |Beakor|Aepyornis|
-|Doberman||Kick Chest|
-|Telstar|Satellite|Monster-in-a-Box|
+|Doberman||Missable - Kick Chest|
+|Telstar|Satellite|Missable - Monster-in-a-Box|
 |Templar|
 |Soldier|Imperial Soldier|
 
@@ -332,9 +332,9 @@ If you've collected every elixir up until this point, you will unlock this achie
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
 |Trooper|Corporal|Brown & Green Soldiers|
-|Bounty Man|Hunting Dog|Green Soldiers|
-|Fidor||Brown Soldiers|
-|Rider|Hell's Rider|Final Soldier|
+|Bounty Man|Hunting Dog|Missable - Green Soldiers|
+|Fidor||Missable - Brown Soldiers|
+|Rider|Hell's Rider|Missable - Final Soldier|
 
 The timing for this next achievement is tight, so be sure to make a save before the battle.  You'll also want to reload this save so you can fight the soldiers for Rage encounters.
 
@@ -449,7 +449,7 @@ An elixir is hidden in the Albrook Cafe clock above the relic shop.  Albrook is 
 |Garm|Belzecue|
 |Pipsqueak|Onion Knight|
 |Proto Armor||No Rage|
-|Flan||Near Ifrit & Shiva|
+|Flan||Missable - Near Ifrit & Shiva|
 
 **![image](https://user-images.githubusercontent.com/120497130/223579153-741f103e-9df3-46a2-b372-94b4c68e4eda.png)
 [None Shall Pass (3)](https://retroachievements.org/achievement/6002)**  
@@ -473,7 +473,7 @@ After defeating Ifrit and Shiva, pick up their magicite.  Ifrit is technically m
 |General|
 |Rhinox|Destroyer|
 |Gobbler|Lenergia|
-|Mag Roader (Red)|Magna Roader|Mine Cart Only|
+|Mag Roader (Red)|Magna Roader|Missable - Mine Cart Only|
 |Mag Roader (Purple)|Magna Roader|Mine Cart Only|
 |Chaser||After Mine Cart Only|
 
@@ -582,7 +582,7 @@ As a zombie, Cyan will automatically attack anyone in battle, including Terra.  
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
 |Mega Armor||Does not appear on the Veldt|
-|Sp Forces|Imperial Elite|Banquet Only|
+|Sp Forces|Imperial Elite|Missable - Banquet Only|
 
 **![image](https://user-images.githubusercontent.com/120497130/223472880-1c1c7cf1-9160-4d7d-a10d-5d4e0d6221ab.png) [Master Philanthropist (10)](https://retroachievements.org/achievement/6154)**  
 _Max out Emperor Gestahl's favor during the banquet_
@@ -779,9 +779,9 @@ With only one party member, these rage encounters may be difficult to get.  Eith
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
-|Scorpion||Collapsing House|
-|HermitCrab|Zokka|Collapsing House|
-|Pm Stalker|Nightcrawler|Collapsing House|
+|Scorpion||Missable - Collapsing House|
+|HermitCrab|Zokka|Missable - Collapsing House|
+|Pm Stalker|Nightcrawler|Missable - Collapsing House|
 
 ⚠️ Purchase 15 Super Balls from the item store before leaving Tzen for an upcoming achievement.
 
@@ -887,7 +887,7 @@ While in Jidoor, stop by Owzer's mansion at the top of town.  Inside the mansion
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
-|NightShade|Rafflesia|Flower Painting (One Time Only)|
+|NightShade|Rafflesia|Missable - Flower Painting (One Time Only)|
 
 ### Narshe
 
@@ -1100,7 +1100,7 @@ Travel to the Triangle Island in the northeast corner of the map.  This island i
 
 |![image](https://user-images.githubusercontent.com/120497130/223925308-05cdd86e-eb5b-4f21-9c0c-60e07e2f55ef.png) Enemy|Alt Name| Notes|
 |--|--|--|
-|NightShade|Rafflesia|Flower Painting (One Time Only)|
+|NightShade|Rafflesia|Missable - Flower Painting (One Time Only)|
 |Dahling|Misty|
 |Vindr|Cladrius|
 |Crusher|
@@ -1245,7 +1245,7 @@ In addition to the Tyranosaurs, the Dinosaur Forest also has Brachosaurs.  These
 |Pan Dora|Pandora|Dreamscape|
 |Samurai||Train|
 |Suriander||Train|
-|Rain Man|Al Jabr|Train|
+|Rain Man|Al Jabr|Missable - Train|
 |Io||Caves|
 |PlutoArmor|Pluto Armor|Caves|
 |Sky Cap|Schmidt|Caves|
