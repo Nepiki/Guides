@@ -4,12 +4,12 @@
 
   |  
 -- | --
-Set Difficulty | Number between 1 to 10
-Approximate time to master | Time needed in hours)
-Minimum numbers of playthroughs needed | If more than one, specify the reason (like difficulty)
-Number of missable achievements | If the number is <5, specify what achievements
-Does difficulty affect achievements? | Yes/No/Not applicable
-Hardest achievement of the set | Achievement name here
+Set Difficulty | 6/10
+Approximate time to master | 5 hours
+Minimum numbers of playthroughs needed | 1
+Number of missable achievements | 0
+Does difficulty affect achievements? | Not applicable
+Hardest achievement of the set | Uncanny Performance
 
 
 <h1><a id="user-content-2-introduction" class="anchor" aria-hidden="true" href="https://github.com/RetroAchievements/guides/wiki/Achievement-Guide-template#2-introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></h1><h1>2) Introduction</h1>
@@ -47,14 +47,50 @@ cover game-specific steps (like no-damage bosses, item collection etc.)</p>
 applied in the previous three sections. Remove for yourself if not 
 necessary.</p>
 <hr>
-<h2><a id="user-content-step-1-dummy-step--total-points-999" class="anchor" aria-hidden="true" href="https://github.com/RetroAchievements/guides/wiki/Achievement-Guide-template#step-1-dummy-step--total-points-999"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></h2><h2>Step 1: Dummy Step | <strong>Total points: 999</strong>
+<h2><a id="user-content-step-1-Complete all levels--total-points-160" class="anchor" aria-hidden="true" href="https://github.com/RetroAchievements/guides/wiki/Achievement-Guide-template#complete-all-levels--total-points-160"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></h2><h2>Step 1: Complete all levels | <strong>Total points: 160</strong>
 </h2>
-<p>![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)<br>
-<em>Achievement description</em></p>
+<p>![Highway Hopper](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/123954.png) [Highway Hopper (10)]( https://retroachievements.org/achievement/113652)<br>
+<em>Complete Retro Zone.</em></p>
 <p>Guide for the achievement.</p>
 <hr>
-<p>![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)<br>
-<em>Achievement description</em></p>
+<p>![Island Hopper](https://media.retroachievements.org/Badge/123953.png) [Island Hopper (10)](https://retroachievements.org/achievement/113653)<br>
+<em>Complete Lily Zone.</em></p>
+<p>Guide for the achievement.</p>
+<hr>
+<p>![Tree Hopper](https://media.retroachievements.org/Badge/123964.png) [Tree Hopper (10)](https://retroachievements.org/achievement/113654)<br>
+<em>Complete Leaf Zone.</em></p>
+<p>Guide for the achievement.</p>
+<hr>
+<p>![Hot Hopper](https://media.retroachievements.org/Badge/123952.png) [Hot Hopper (10)](https://retroachievements.org/achievement/113655)<br>
+<em>Complete Gear Zone.</em></p>
+<p>Guide for the achievement.</p>
+<hr>
+<p>![Cave Hopper](https://media.retroachievements.org/Badge/123951.png) [Cave Hopper (10)](https://retroachievements.org/achievement/113656)<br>
+<em>Complete Cave Zone.</em></p>
+<p>Guide for the achievement.</p>
+<hr>
+<p>![Cloud Hopper](https://media.retroachievements.org/Badge/123950.png) [Cloud Hopper (25)](https://retroachievements.org/achievement/113657)<br>
+<em>Complete Sky Zone.</em></p>
+<p>Guide for the achievement.</p>
+<hr>
+<p>![Waste Hopper](https://media.retroachievements.org/Badge/123949.png) [Waste Hopper (25)](https://retroachievements.org/achievement/113658)<br>
+<em>Complete Sewer Zone.</em></p>
+<p>Guide for the achievement.</p>
+<hr>
+<p>![Sand Hopper](https://media.retroachievements.org/Badge/123948.png) [Sand Hopper (25)](https://retroachievements.org/achievement/113659)<br>
+<em>Complete Desert Zone.</em></p>
+<p>Guide for the achievement.</p>
+<hr>
+<p>![Jungle Hopper](https://media.retroachievements.org/Badge/123946.png) [Jungle Hopper (5)](https://retroachievements.org/achievement/113660)<br>
+<em>Open the ruin door in Tropical Zone.</em></p>
+<p>Guide for the achievement.</p>
+<hr>
+<p>![Hopping All Over](https://media.retroachievements.org/Badge/123947.png) [Hopping All Over (5)](https://retroachievements.org/achievement/113661)<br>
+<em>Unlock every zone by getting 5 total golden frogs.</em></p>
+<p>Guide for the achievement.</p>
+<hr>
+<p>![I Camel, I Saw, I Conker](https://media.retroachievements.org/Badge/123960.png) [I Camel, I Saw, I Conker (25)](https://retroachievements.org/achievement/113662)<br>
+<em>Complete Tropical Zone after rescuing all 9 golden frogs.</em></p>
 <p>Guide for the achievement.</p>
 <hr>
 <h2><a id="user-content-step-2-dummy-step-2--total-points-999" class="anchor" aria-hidden="true" href="https://github.com/RetroAchievements/guides/wiki/Achievement-Guide-template#step-2-dummy-step-2--total-points-999"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></h2><h2>Step 2: Dummy Step 2 | <strong>Total points: 999</strong>
