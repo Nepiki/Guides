@@ -60,5 +60,84 @@ Finishing Basic Progress requires minimal effort as you have nothing to stop you
    > The woman who gives you the BIG Magic spell tells you about the two dyes necessary to make the Purple Dye.  From her small chamber, head down to the main path and head right; save the NPC here and they will tell you to save another person to the north.  Save that person and they will drop a dye for you.  Keep heading north; eventually you will encounter a shop keeper, and if you buy something they tell you that the remaining dye is inside a wall to the left.  You will see two doors above them, head left and keep heading left as far as you can.  Eventually you will encounter a typical breakable-wall, but instead of a path behind it, you will get a dye that falls out like most coins/items do.
    > > This is not the end, however.  Walk back to the right until you find a pair of floating platforms facing what seems to be an empty wall.  Behind this wall is a path leading to someone who can make the purple dye out of the two that you have.  Doing this will trigger the achievement, giving you 'immunity to lava'.  However, despite being immune to BOILING ROCK, you are still damaged/burned by tiny fire attacks from the boss, which is the only place remaining to benefit from lava-immunity.
 
-##Stage 4 Collectibles
-   > To be continued;
+## Stage 4 Collectibles
+[![Tornado Magic](https://media.retroachievements.org/Badge/342888.png)](https://retroachievements.org/achievement/309662) - Tornado HOLD!!!
+   > Stage 4 starts out as a sort of 'maze' of various directions that can be taken.  As the first shop keeper reveals, most correct directions are indicated by a wooden 'spoon' you jump on to continue.  As the stage progresses, you will eventually encounter 3 rooms on the side of a brick wall.  Enter the center door.  Once inside, kill every enemy, shop if you like, but make sure to pick up the key from the left chest.  Once you have this key, unlock the center jail-cell filled with tiny creatures.  They will become an old woman who gives you the 'Tornado Magic' spell.
+   > > Tornado Magic is nearly essential to defeat the boss of Stage 5, so this is highly recommended to pick up.  It turns Valkyrie into her own personal tornado that you can very-loosely control.
+
+[![Chameleon Magic](https://media.retroachievements.org/Badge/342890.png)](https://retroachievements.org/achievement/309664) - Camouflage Pepper Spray **PART ONE**
+   > This spell is not in Stage 4, but you need this item from Stage 4 to get it in Stage 6.  Before you get to the boss of Stage 4, you will find yourself standing on top of a castle-tower roof with a square in the middle.  Touch the square, and you will be transported into a room with a woman, she will give you the Magic Pepper item, telling you to give it to her village, which is in Stage 6.  The achievement does not pop in this Stage 4.
+
+## Stage 5 Collectibles
+   ... there aren't any.
+
+## Stage 6 Collectibles
+[![Valkyrie Light](https://media.retroachievements.org/Badge/342889.png)](https://retroachievements.org/achievement/309663) - Valkyrie Light
+   > When you beat Stage 5, the story reveals that you received the first of three armor-of-light pieces.  In Stage 6 you will get the second piece by taking the left-path on the first crossroads and defeating a group of worms to save a girl. (Be sure to lift your curse first, or any fighting will be very difficult.)  The third piece is located in a house in the second half of the stage, on the upper-left side of the map.
+   > > Once you get all 3 pieces, head to the right side of the second half of the map to find a house.  This is the blacksmith who can forge the 3 pieces into the whole Armor of Light.  Valkyrie will be "invincible" wearing this armor, although in reality it just means she has more/separate HP; once the armor's HP is depleted, it breaks and disappears.  If you can manage to get to Stage 7 with it, then you will continue to have it each time you use a Continue in Stage 7, just try to get it there with as much armor-HP as you can.
+
+[![Chameleon Magic](https://media.retroachievements.org/Badge/342890.png)](https://retroachievements.org/achievement/309664) - Camouflage Pepper Spray **PART TWO**
+   > If you have the Magic Pepper item, this happens automatically - the pig in the house will be 'cured' and become human again, they will give you the 'Chameleon Magic' spell.
+
+***
+
+# All Game Challenges
+The following can either activate at any time in the game, or they require the entire game to be played in order to work.
+
+[![1up](https://media.retroachievements.org/Badge/342891.png)](https://retroachievements.org/achievement/309665) - There Can Be Only One Plus X
+   > You start the game with zero lives.  You get your first life at 10,000 points/EXP, that is when you get this achievement.  Take it as an indication that lives are difficult to gain and you should be careful with them.
+
+[![No Passwords](https://media.retroachievements.org/Badge/342899.png)](https://retroachievements.org/achievement/309673) - Welcome To Valhalla
+   > Since the game and the progress-achievements allow you to use a password to continue at a later time, this is an achievement for beating the game in one sitting, regardless of whether Continues were used or not.  Think of it as a 1CC-lite.  This achievement uses "Trigger" to display an icon until the achievement is either reset or unlocked.
+
+[![No Continue](https://media.retroachievements.org/Badge/342900.png)](https://retroachievements.org/achievement/309674) - Dark Valkyrie Mode
+   > No, this is not an achievement for defeating Dark Valkyrie, this is the typical Arcade "1 Credit Clear" achievement for beating the game without using continues.  "Continue" and "Game Over" are difficult to indicate directly in this game.  The achievement will reset if you have 0 HP and 0 Lives while the stage is Active.
+
+***
+
+# Per-Stage "No Death" Challenges
+Each stage has a 'no death for the entire stage' challenge attached to it.  This includes beating the boss of that stage.  Trigger icons will be displayed on each stage until the player dies or clears the challenge.
+
+I won't go into too much detail about these, as the player may discover their own method of attacking the stage without dying, but I will try to list some things to watch out for.
+
+[![No Death 1](https://media.retroachievements.org/Badge/342892.png)](https://retroachievements.org/achievement/309666)
+## Stage 1
+Not too hard.  In fact if you don't GET an extra life, it's impossible to lose a life here... but since it's likely you may get 10,000 points before beating it, you still can lose a life here.  Fun Fact: you cannot continue on this stage or get a natural/not-cheated password for it either, so if you don't get an extra life and die, the game kicks you back out to the Title Screen.
+
+[![No Death 1](https://media.retroachievements.org/Badge/342893.png)](https://retroachievements.org/achievement/309667)
+## Stage 2
+Falling is a major hazard here.  Take the left path and rack up as much cash as possible(even consider destroying the boulders for bigger coin drops).  If you're not confident about jumping across tricky platforms just go for the original Treant boss and not the others.  Don't bother getting the 4-Way Shot from emerald Treant if you already have his achievement(or plan to get it later) because it's not really a great weapon in most circumstances.
+
+[![No Death 1](https://media.retroachievements.org/Badge/342894.png)](https://retroachievements.org/achievement/309668)
+## Stage 3
+Avoid lava as much as possible.  Take safe routes, but get as many accessories as you can care to risk.  Consider getting purple dye even if you already have the achievement.  You may want to avoid getting the Eternal Blade if you think it's a risk of losing HP(I don't think it is).  Make absolutely sure to avoid all the tiny fireballs on the boss as that's where you lose most HP.
+
+[![No Death 1](https://media.retroachievements.org/Badge/342895.png)](https://retroachievements.org/achievement/309669)
+## Stage 4
+More falling hazards.  Take on Knights individually and not as a group.  Go ahead and use magic on ant-lion mini-bosses if you know an enemy that can resupply MP.  Keep moving on the boss to avoid the floor-space hazards and finger-lightning.
+
+[![No Death 1](https://media.retroachievements.org/Badge/342896.png)](https://retroachievements.org/achievement/309670)
+## Stage 5
+No falling hazards that I remember, but there are many freeze-flame enemies that stun you repeatedly, and some that pop out of chests.  The bird boss can be defeated by the Tornado Magic easily but is a bit difficult to setup correctly.
+
+[![No Death 1](https://media.retroachievements.org/Badge/342897.png)](https://retroachievements.org/achievement/309671)
+## Stage 6
+The curse is annoying but can be mitigated easily by avoiding enemies and heading straight to the healing spring.  The only falling hazard is at the beginning and only IF you can fall at the "boss".  Get the armor safely without losing too much HP, and try not to get hit ever after getting it.  Probably choose 'fighting' as your 'boss' as any error on the 'boss' will send you straight back to the beginning of the level, unless you want to use this as an opportunity to farm coins!
+
+[![No Death 1](https://media.retroachievements.org/Badge/342898.png)](https://retroachievements.org/achievement/309672)
+## Stage 7
+This stage is a nightmare.  Skirt the outsides if you want to avoid as many battles as possible.  The only shop I know of is at the beginning, so don't bother trying to farm coins as _you can't use them anyway._
+
+# Optimal Path
+## Or, 'how to get as many achievements without replaying the game'.
+Personally I think games should be replayed, and that it's easier to do if you have a goal to come back to later.  But if you can do it, it IS possible to get all achievements at once.
+- Beat the entire game without dying.
+   > Seems difficult, but if you know how to do it for each stage, you can do it for all of them.  Carefully plan out your weapon usage and money-spending and know where every enemy-ambush is going to be.
+- Get all optional and obtainable items in each stage carefully.
+   > Many optional items are in dangerous places.  Nothing, not even falling, can kill you instantly, but Hearts are difficult to come by each bit of damage slowly chips away at No-Death-All-Stage and 1CC-All-Game.
+- Complete Stage 2 by defeating the Emerald Treant.
+   > Simple enough, but it's definitely safer to go for the normal Treant, and beating the stage 'regularly' will lead to needing at least one more playthrough.
+
+
+# Conclusion
+I hope you enjoy playing Valkyrie no Densetsu!  The platforming can be a little tedious and repositioning yourself to both maneuver across the stage and point in the right direction to attack is difficult, but it's a very charming game with excellent music.  I wish that platforming was a little less awkward, or that you could shoot and move independently in different directions, but it's an interesting game all the same.
