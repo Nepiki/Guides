@@ -35,6 +35,7 @@ List of platforms with guides
 
 ### Sony
 * [PlayStation](PlayStation)
+* [PlayStation 2](PlayStation-2)
 * [PlayStation Portable](PlayStation-Portable)
 
 
