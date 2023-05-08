@@ -13,7 +13,7 @@ Replace this sentence by inserting a picture/banner of the game here for visual 
 
 # 2) Introduction
 
-In this section, you can give a short synopsis about the game, your feelings about the set, as well as placing credits to the achievement set makers.
+In this section, you can give a short synopsis about the game, your feelings about the set, as well as placing credits to the achievement set makers if you so desire.
 
 # 3) Walkthrough
 
@@ -51,60 +51,14 @@ Dummy section that can be used for any other comments not already applied in the
 
 ## Step 1: Dummy Step | **Total points: 999**
 
-**You can choose either of the following two code blocks to display your achievements in the guide. A visual representation is found in step 2.**
+Here is where you list the achievements and a guide for each. If multiple achievements are similar to each other and don't need a separate guide, feel free to put multiple achievement blocks below each other with a description after the final one.
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
-
-Guide for the achievement.
-
-***
-
-<img align="left" width="72" height="72" src="Achievement icon link (no locked ones)">
-
-```
-Achievement name [Points]
-Achievement description
-```
-
-Guide for the achievement.
-
-***
+For achievement blocks, please copy the one you prefer from [this page](https://github.com/RetroAchievements/guides/wiki/Achievement-Code-Blocks).
 
 ## Step 2: Dummy Step 2 | **Total points: 999**
 
-This is how the achievements look visually:
-
-![](https://media.retroachievements.org/Badge/250336.png) [That Was Easy (3)]( https://retroachievements.org/achievement/9)   
-_Complete the first act in Green Hill Zone_
-
-Beat the first act in Green Hill Zone.
-
-***
-
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/250336.png">
-
-```
-That Was Easy [3 Points]
-Complete the first act in Green Hill Zone
-```
-
-Beat the first act in Green Hill Zone.
-
-***
+Empty Dummy Step, remove if unnecessary.
 
 ## Step 3: Dummy Step 3 | **Total points: 999**
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
-
-Guide for the achievement.
-
-***
-
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
-
-Guide for the achievement.
-
-***
+Empty Dummy Step, remove if unnecessary.
