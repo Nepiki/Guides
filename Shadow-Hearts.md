@@ -4,8 +4,7 @@
 
 Welcome to the Shadow Hearts Missable Guide!
 
-Number of missable achievements: 
-[They Don't Need It](https://retroachievements.org/achievement/256798)
+Number of missable achievements: 25
 
 # 2) Missables
 
