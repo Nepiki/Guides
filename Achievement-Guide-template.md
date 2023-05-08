@@ -1,4 +1,4 @@
-Replace this sentence by inserting a picture/banner of the game here for visual flair.
+Replace this sentence by inserting a picture/banner of the game here for visual flair if you want to.
 
 # 1) Synopsis
 
@@ -51,6 +51,8 @@ Dummy section that can be used for any other comments not already applied in the
 
 ## Step 1: Dummy Step | **Total points: 999**
 
+**You can choose either of the following two code blocks to display your achievements in the guide. A visual representation is found in step 2.**
+
 ![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
 _Achievement description_
 
@@ -58,8 +60,12 @@ Guide for the achievement.
 
 ***
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
+<img align="left" width="72" height="72" src="Achievement icon link (no locked ones)">
+
+```
+Achievement name [Points]
+Achievement description
+```
 
 Guide for the achievement.
 
@@ -67,17 +73,23 @@ Guide for the achievement.
 
 ## Step 2: Dummy Step 2 | **Total points: 999**
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
+This is how the achievements look visually:
 
-Guide for the achievement.
+![](https://media.retroachievements.org/Badge/250336.png) [That Was Easy (3)]( https://retroachievements.org/achievement/9)   
+_Complete the first act in Green Hill Zone_
+
+Beat the first act in Green Hill Zone.
 
 ***
 
-![](Achievement icon link (no locked ones)) [Achievement name (Points)]( Achievement page link)   
-_Achievement description_
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/250336.png">
 
-Guide for the achievement.
+```
+That Was Easy [3 Points]
+Complete the first act in Green Hill Zone
+```
+
+Beat the first act in Green Hill Zone.
 
 ***
 
