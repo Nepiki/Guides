@@ -32,7 +32,8 @@ Beat Needle Man's level without being damaged using only the Mega Buster.
 ![](https://media.retroachievements.org/Badge/343959.png) [Magnetic Generator Mastered (10)](https://retroachievements.org/achievement/314085)
 
 Beat Magnet Man's level without being damaged using only the Mega Buster.
-[![](https://img.youtube.com/vi/-deTP-frezg/0.jpg)](https://www.youtube.com/watch?v=-deTP-frezg)
+
+[![Youtube Link](https://img.youtube.com/vi/-deTP-frezg/0.jpg)](https://www.youtube.com/watch?v=-deTP-frezg)
 
 ![](https://media.retroachievements.org/Badge/343960.png) [Mirror Cavern Mastered (10)](https://retroachievements.org/achievement/314086)
 
