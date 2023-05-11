@@ -14,7 +14,7 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 * **Mew** or **Mewtwo** (You may only choose 1 of these 2 Pokémon, the other is unobtainable.)
 * **Suicune** or **Articuno** (You may only choose 1 of these 2 Pokémon, the other is unobtainable.)
 * **Lugia** or **Ho-Oh** (You may only choose 1 of these 2 Pokémon, the other is unobtainable.)
-* **Clefable**, **Wigglypuff** (There is only one Moon Stone in Brown Version, and for maximum Pokédex completion you must use that Moon Stone on Nidorina to obtain a **Nidoqueen** so that you can trade **Nidoqueen** for **Nidoking** in Moraga Town House.)
+* **Clefable**, **Wigglypuff** (There is only one Moon Stone in Brown Version, and for maximum Pokédex completion you must use that Moon Stone on a **Nidorina** to obtain a **Nidoqueen** so that you can trade **Nidoqueen** for **Nidoking** in Moraga Town House.)
 
 # **New Evolutions: 32**
 * **Electabuzz** -> **Electivire** (use Electrizer)
