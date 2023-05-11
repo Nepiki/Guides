@@ -4,17 +4,17 @@ Pokémon [Brown](https://retroachievements.org/game/7317) game page
 
 # **Unobtainable Pokémon: 15**
 
-* **Bulbasaur**, **Ivysaur**, **Venusaur**, **Charmander**, **Charmeleon** and **Charizard** (if you choose **Squirtle**, this means 6 Pokémon are unobtainable.)
-* **Charmander**, **Charmeleon**, **Charizard**, **Squirtle**, **Wartortle** and **Blastoise** (if you choose **Bulbasaur**, this means 6 Pokémon are unobtainable.)
-* **Squirtle**, **Wartortle**, **Blastoise**, **Bulbasaur**, **Ivysaur** and **Venusaur** (if you choose **Charmander**, this means 6 Pokémon are unobtainable.)
-* **Mankey** (This means 1 Pokémon is unobtainable.)
-* **Mr. Mime** (This means 1 Pokémon is unobtainable.)
-* **Zapdos** or **Raikou** (Only one, this means 1 Pokémon is obtainable and other 1 Pokémon is unobtainable.)
-* **Moltres** or **Entei** (Only one, this means 1 Pokémon is obtainable and other 1 Pokémon is unobtainable.)
-* **Mew** or **Mewtwo** (Only one, this means 1 Pokémon is obtainable and other 1 Pokémon is unobtainable.)
-* **Suicune** or **Articuno** (Only one, this means 1 Pokémon is obtainable and other 1 Pokémon is unobtainable.)
-* **Lugia** or **Ho-Oh** (Only one, this means 1 Pokémon is obtainable and other 1 Pokémon is unobtainable.)
-* **Clefable**, **Wigglypuff**, **Nidoqueen** or **Nidoking** (It has only one Moon Stone in Brown Version, not only 3 Pokémon are unobtainable but 2 Pokémon can be unobtainable (**Clefable** and **Wigglypuff**) because you can trade **Nidoqueen** for **Nidoking** in Moraga Town House only if **Nidorina** evolved into **Nidoqueen** with using Moon Stone, this means 2 Pokémon are obtainable and other 2 Pokémon are unobtainable.)
+* **Bulbasaur**, **Ivysaur**, **Venusaur**, **Charmander**, **Charmeleon** and **Charizard** (if you choose **Squirtle**) or
+* **Charmander**, **Charmeleon**, **Charizard**, **Squirtle**, **Wartortle** and **Blastoise** (if you choose **Bulbasaur**) or
+* **Squirtle**, **Wartortle**, **Blastoise**, **Bulbasaur**, **Ivysaur** and **Venusaur** (if you choose **Charmander**)
+* **Mankey**
+* **Mr. Mime**
+* **Zapdos** or **Raikou** (You may only choose 1 of these 2 Pokémon, the other is unobtainable.)
+* **Moltres** or **Entei** (You may only choose 1 of these 2 Pokémon, the other is unobtainable.)
+* **Mew** or **Mewtwo** (You may only choose 1 of these 2 Pokémon, the other is unobtainable.)
+* **Suicune** or **Articuno** (You may only choose 1 of these 2 Pokémon, the other is unobtainable.)
+* **Lugia** or **Ho-Oh** (You may only choose 1 of these 2 Pokémon, the other is unobtainable.)
+* **Clefable**, **Wigglypuff** (There is only one Moon Stone in Brown Version, and for maximum Pokédex completion you must use that Moon Stone on Nidorina to obtain a **Nidoqueen** so that you can trade **Nidoqueen** for **Nidoking** in Moraga Town House.)
 
 # **New Evolutions: 32**
 * **Electabuzz** -> **Electivire** (use Electrizer)
