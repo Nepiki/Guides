@@ -33,7 +33,7 @@ Beat Needle Man's level without being damaged using only the Mega Buster.
 
 Beat Magnet Man's level without being damaged using only the Mega Buster.
 
-<iframe width="768" height="672" src="https://cdn.discordapp.com/attachments/782686900871757824/1106363923889934437/2023-05-11_16-12-31.mp4" frameborder="0" allowfullscreen></iframe> 
+<video width="768" height="672" src="https://cdn.discordapp.com/attachments/782686900871757824/1106363923889934437/2023-05-11_16-12-31.mp4" frameborder="0" allowfullscreen></video> 
 
 ![](https://media.retroachievements.org/Badge/343960.png) [Mirror Cavern Mastered (10)](https://retroachievements.org/achievement/314086)
 
