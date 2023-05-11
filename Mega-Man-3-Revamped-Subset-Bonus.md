@@ -33,6 +33,10 @@ Beat Needle Man's level without being damaged using only the Mega Buster.
 
 Beat Needle Man's level without being damaged using only the Mega Buster.
 
+![](https://media.retroachievements.org/Badge/343960.png) [Mirror Cavern Mastered (10)](https://retroachievements.org/achievement/314086)
+
+Beat Gemini Man's level without being damaged using only the Mega Buster.
+
 </body>
 </html>
 
