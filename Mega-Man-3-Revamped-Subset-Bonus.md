@@ -62,11 +62,13 @@ Beat Top Man's level without being damaged using only the Mega Buster.
 
 Beat Snake Man's level without being damaged using only the Mega Buster.
 
-![](https://media.retroachievements.org/Badge/343965.png) [Sewer System Mastered (10)](https://retroachievements.org/achievement/314091)
+![](https://media.retroachievements.org/Badge/343963.png) [Sewer System Mastered (10)](https://retroachievements.org/achievement/314089)
 
 [![](https://img.youtube.com/vi/fQzRhWBVNUA/0.jpg)](https://www.youtube.com/fQzRhWBVNUA)
 
 Beat Shadow Man's level without being damaged using only the Mega Buster.
+
+![](https://media.retroachievements.org/Badge/343965.png) [Sewer System Mastered (10)](https://retroachievements.org/achievement/314091)
 
 [![](https://img.youtube.com/vi/vC6K7kgFuYc/0.jpg)](https://www.youtube.com/vC6K7kgFuYc)
 
