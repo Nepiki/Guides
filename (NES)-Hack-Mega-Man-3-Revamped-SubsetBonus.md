@@ -152,28 +152,28 @@ Beat Shadow Revisit Under 2 minutes.
 
 ![](https://media.retroachievements.org/Badge/347379.png) [Outrun RNG Turtles (10)](https://retroachievements.org/achievement/314111)
 
-Beat Wily Castle 1 under 2 minutes and 30 seconds
+Beat Wily Castle 1 under 2 minutes and 30 seconds.
 
 [![](https://img.youtube.com/vi/u_mMJxAhKMg/0.jpg)](https://www.youtube.com/watch?v=u_mMJxAhKMg)
 
 
 ![](https://media.retroachievements.org/Badge/347380.png) [Outrun Yellow Devil (10)](https://retroachievements.org/achievement/314112)
 
-Beat Wily Castle 2 under 2 minutes and 30 seconds
+Beat Wily Castle 2 under 2 minutes and 30 seconds.
 
 [![](https://img.youtube.com/vi/D4E2DQfnXSU/0.jpg)](https://www.youtube.com/watch?v=D4E2DQfnXSU)
 
 
 ![](https://media.retroachievements.org/Badge/347413.png) [Outrun Yourself (10)](https://retroachievements.org/achievement/314113)
 
-Beat Wily Castle 3 under 2 minutes and 10 seconds
+Beat Wily Castle 3 under 2 minutes and 10 seconds.
 
 [![](https://img.youtube.com/vi/AsbC3WZwNkE/0.jpg)](https://www.youtube.com/watch?v=AsbC3WZwNkE)
 
 
 ![](https://media.retroachievements.org/Badge/348145.png) [Faster Stronger Better (10)](https://retroachievements.org/achievement/314114)
 
-Defeat the Boss Rush under 2 minutes
+Defeat the Boss Rush under 2 minutes.
 
 [![](https://img.youtube.com/vi/tkbK2ECps0U/0.jpg)](https://www.youtube.com/watch?v=tkbK2ECps0U)
 
