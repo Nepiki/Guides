@@ -32,6 +32,13 @@ Defeat the 8 Doc Robots without being damaged. (Password Allowed only with all D
 
 [![](https://img.youtube.com/vi/ewAMS3q7tsE/0.jpg)](https://www.youtube.com/watch?v=ewAMS3q7tsE)
 
+![](https://media.retroachievements.org/Badge/350192.png) [Invincible with Mega Buster (100)](https://retroachievements.org/achievement/314110)
+
+Defeat the Boss Rush without being damaged and only using the Mega Buster.
+
+[![](https://img.youtube.com/vi/3lPQ1ImfYcE/0.jpg)](https://www.youtube.com/watch?v=3lPQ1ImfYcE)
+
+
 <!--EndFragment-->
 
 
