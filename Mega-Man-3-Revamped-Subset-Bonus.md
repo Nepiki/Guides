@@ -78,7 +78,15 @@ Beat Shadow Man's level without being damaged using only the Mega Buster.
 Defeat Gamma under 10 seconds.
 
 https://github.com/RetroAchievements/guides/assets/133280349/0698eaa4-ac25-499b-86e2-5efd73dfc9f6
+<!--StartFragment--><h1>Misc Achievement</h1>
 
+![](https://media.retroachievements.org/Badge/349435.png) [Sons of the Silent Age (1)](https://retroachievements.org/achievement/315539)
+
+In one of two Doc Robot levels, Touch a spike during a screen transition and survive.
+
+https://github.com/RetroAchievements/guides/assets/133280349/6bd51455-7cce-46df-a39d-b67e64b1e26d
+
+<!--EndFragment-->
 </body>
 </html>
 
