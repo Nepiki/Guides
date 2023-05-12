@@ -97,6 +97,20 @@ Beat Needle Man Under 1 minute and 40 seconds.
 
 ![](https://media.retroachievements.org/Badge/348495.png) [Is this a joke...? (5)](https://retroachievements.org/achievement/314895)
 
+![](https://media.retroachievements.org/Badge/347149.png) [Outrun Snake (10)](https://retroachievements.org/achievement/314097)
+
+Beat Snake Man Under 2 minutes
+
+[![](https://img.youtube.com/vi/K_L70ful3us/0.jpg)](https://www.youtube.com/watch?v=K_L70ful3us)
+
+![](https://media.retroachievements.org/Badge/347150.png) [Outrun Spark (10)](https://retroachievements.org/achievement/314098)
+
+Beat Spark Man Under 1 minutes and 50 seconds.
+
+[![](https://img.youtube.com/vi/s6UfKSHe9cw/0.jpg)](https://www.youtube.com/watch?v=s6UfKSHe9cw)
+
+
+
 Defeat Gamma under 10 seconds.
 
 https://github.com/RetroAchievements/guides/assets/133280349/0698eaa4-ac25-499b-86e2-5efd73dfc9f6
