@@ -83,6 +83,18 @@ Beat Shadow Man Under 1 minutes and 35 seconds.
 
 [![](https://img.youtube.com/vi/oYc1w1bEb1o/0.jpg)](https://www.youtube.com/watch?v=oYc1w1bEb1o)
 
+![](https://media.retroachievements.org/Badge/347146.png) [Outrun Gemini (10)](https://retroachievements.org/achievement/314094)
+
+Beat Gemini Man Under 2 minutes and 20 seconds.
+
+[![](https://img.youtube.com/vi/k6bB-mrO1cc/0.jpg)](https://www.youtube.com/watch?v=k6bB-mrO1cc)
+
+![](https://media.retroachievements.org/Badge/347144.png) [Outrun Needle (10)](https://retroachievements.org/achievement/314092)
+
+Beat Needle Man Under 1 minute and 40 seconds.
+
+[![](https://img.youtube.com/vi/Vf9gUv81jKY/0.jpg)](https://www.youtube.com/watch?v=Vf9gUv81jKY)
+
 ![](https://media.retroachievements.org/Badge/348495.png) [Is this a joke...? (5)](https://retroachievements.org/achievement/314895)
 
 Defeat Gamma under 10 seconds.
