@@ -19,6 +19,21 @@ Massive thanks to wolfman2000 for finding such useful Code Notes for the game.
 
 <!--EndFragment-->
 
+<!--StartFragment--><h1>No Damage Segments</h1>
+![](https://media.retroachievements.org/Badge/350189.png) [Invincible Versus Light & Wily Alliance (50)](https://retroachievements.org/achievement/314119)
+
+Defeat the 8 Robot Masters without being damaged. (No Passwords)
+
+[![](https://img.youtube.com/vi/-deTP-frezg/0.jpg)](https://www.youtube.com/watch?v=-deTP-frezg)
+
+![](https://media.retroachievements.org/Badge/350190.png) [Invincible Versus Resurrection (100)](https://retroachievements.org/achievement/314120)
+
+Defeat the 8 Doc Robots without being damaged. (Password Allowed only with all Doc Robots Undefeated)
+
+[![](https://img.youtube.com/vi/ewAMS3q7tsE/0.jpg)](https://www.youtube.com/watch?v=ewAMS3q7tsE)
+
+<!--EndFragment-->
+
 
 <!--StartFragment--><h1>Buster Only No Damage Achievements</h1>
 
@@ -31,8 +46,6 @@ Beat Needle Man's level without being damaged using only the Mega Buster.
 ![](https://media.retroachievements.org/Badge/343959.png) [Magnetic Generator Mastered (10)](https://retroachievements.org/achievement/314085)
 
 Beat Magnet Man's level without being damaged using only the Mega Buster.
-
-[![](https://img.youtube.com/vi/-deTP-frezg/0.jpg)](https://www.youtube.com/watch?v=-deTP-frezg)
 
 ![](https://media.retroachievements.org/Badge/343960.png) [Mirror Cavern Mastered (10)](https://retroachievements.org/achievement/314086)
 
