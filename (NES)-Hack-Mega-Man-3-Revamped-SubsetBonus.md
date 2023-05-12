@@ -107,6 +107,23 @@ Beat Spark Man Under 1 minutes and 50 seconds.
 
 [![](https://img.youtube.com/vi/s6UfKSHe9cw/0.jpg)](https://www.youtube.com/watch?v=s6UfKSHe9cw)
 
+
+![](https://media.retroachievements.org/Badge/347145.png) [Outrun Magnet (10)](https://retroachievements.org/achievement/314093)
+
+Beat Magnet Man Under 1 minute and 35 seconds.
+
+[![](https://img.youtube.com/vi/enR25QBL7Hc/0.jpg)](https://www.youtube.com/watch?v=enR25QBL7Hc)
+
+
+![](https://media.retroachievements.org/Badge/347147.png) [Outrun Hard (10)](https://retroachievements.org/achievement/314095)
+
+Beat Hard Man Under 1 minutes and 50 seconds.
+
+[![](https://img.youtube.com/vi/2ijl3OYPc6Q/0.jpg)](https://www.youtube.com/watch?v=2ijl3OYPc6Q)
+
+
+
+
 ![](https://media.retroachievements.org/Badge/348495.png) [Is this a joke...? (5)](https://retroachievements.org/achievement/314895)
 
 Defeat Gamma under 10 seconds.
