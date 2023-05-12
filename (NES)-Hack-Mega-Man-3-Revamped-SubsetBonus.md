@@ -124,34 +124,58 @@ Beat Hard Man Under 1 minutes and 50 seconds.
 
 ![](https://media.retroachievements.org/Badge/347373.png) [Outrun Skull Bot 1 (10)](https://retroachievements.org/achievement/314102)
 
-Beat Spark Revisit Under 2 minutes
+Beat Spark Revisit Under 2 minutes.
 
 [![](https://img.youtube.com/vi/seFnYGLy3j8/0.jpg)](https://www.youtube.com/watch?v=seFnYGLy3j8)
 
 
 ![](https://media.retroachievements.org/Badge/347374.png) [Outrun Skull Bot 2 (10)](https://retroachievements.org/achievement/314103)
 
-Beat Needle Revisit Under 2 minutes and 30 Seconds
+Beat Needle Revisit Under 2 minutes and 30 Seconds.
 
 [![](https://img.youtube.com/vi/21sg6wqlKnE/0.jpg)](https://www.youtube.com/watch?v=21sg6wqlKnE)
 
 
 ![](https://media.retroachievements.org/Badge/347375.png) [Outrun Skull Bot 3 (10)](https://retroachievements.org/achievement/314104)
 
-Beat Gemini Revisit Under 2 minutes and 30 Seconds
+Beat Gemini Revisit Under 2 minutes and 30 Seconds.
 
 [![](https://img.youtube.com/vi/DDq3_YUtZQU/0.jpg)](https://www.youtube.com/watch?v=DDq3_YUtZQU)
 
 
 ![](https://media.retroachievements.org/Badge/347376.png) [Outrun Skull Bot 4 (10)](https://retroachievements.org/achievement/314105)
 
-Beat Shadow Revisit Under 2
+Beat Shadow Revisit Under 2 minutes.
 
 [![](https://img.youtube.com/vi/1qIX3H_wGHM/0.jpg)](https://www.youtube.com/watch?v=1qIX3H_wGHM)
 
 
+![](https://media.retroachievements.org/Badge/347379.png) [Outrun RNG Turtles (10)](https://retroachievements.org/achievement/314111)
+
+Beat Wily Castle 1 under 2 minutes and 30 seconds
+
+[![](https://img.youtube.com/vi/u_mMJxAhKMg/0.jpg)](https://www.youtube.com/watch?v=u_mMJxAhKMg)
 
 
+![](https://media.retroachievements.org/Badge/347380.png) [Outrun Yellow Devil (10)](https://retroachievements.org/achievement/314112)
+
+Beat Wily Castle 2 under 2 minutes and 30 seconds
+
+[![](https://img.youtube.com/vi/D4E2DQfnXSU/0.jpg)](https://www.youtube.com/watch?v=D4E2DQfnXSU)
+
+
+![](https://media.retroachievements.org/Badge/347413.png) [Outrun Yourself (10)](https://retroachievements.org/achievement/314113)
+
+Beat Wily Castle 3 under 2 minutes and 10 seconds
+
+[![](https://img.youtube.com/vi/AsbC3WZwNkE/0.jpg)](https://www.youtube.com/watch?v=AsbC3WZwNkE)
+
+
+![](https://media.retroachievements.org/Badge/348145.png) [Faster Stronger Better (10)](https://retroachievements.org/achievement/314114)
+
+Defeat the Boss Rush under 2 minutes
+
+[![](https://img.youtube.com/vi/tkbK2ECps0U/0.jpg)](https://www.youtube.com/watch?v=tkbK2ECps0U)
 
 ![](https://media.retroachievements.org/Badge/348495.png) [Is this a joke...? (5)](https://retroachievements.org/achievement/314895)
 
