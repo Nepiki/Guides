@@ -20,14 +20,13 @@ Massive thanks to wolfman2000 for finding such useful Code Notes for the game.
 <!--EndFragment-->
 
 
-<!--StartFragment--><h1>1) Buster Only No Damage Achievements</h1>
+<!--StartFragment--><h1>Buster Only No Damage Achievements</h1>
 
 note: for sake of keeping the Logic simple if you switch to a weapon the achievement will be cancelled regardless of if you pressed the shoot button or not. This applies to all except two* of the doc robot achievements.
 
 ![](https://media.retroachievements.org/Badge/343958.png) [Construction Site Mastered (10)](https://retroachievements.org/achievement/314084)
 
 Beat Needle Man's level without being damaged using only the Mega Buster.
-
 
 ![](https://media.retroachievements.org/Badge/343959.png) [Magnetic Generator Mastered (10)](https://retroachievements.org/achievement/314085)
 
@@ -38,6 +37,15 @@ Beat Magnet Man's level without being damaged using only the Mega Buster.
 ![](https://media.retroachievements.org/Badge/343960.png) [Mirror Cavern Mastered (10)](https://retroachievements.org/achievement/314086)
 
 Beat Gemini Man's level without being damaged using only the Mega Buster.
+
+<!--EndFragment-->
+
+<!--StartFragment--><h1>Speedrun Achievements</h1>
+![](https://media.retroachievements.org/Badge/348495.png) [Is this a joke...? (5)](https://retroachievements.org/achievement/314895)
+
+Defeat Gamma under 10 seconds.
+
+https://github.com/RetroAchievements/guides/assets/133280349/0698eaa4-ac25-499b-86e2-5efd73dfc9f6
 
 </body>
 </html>
