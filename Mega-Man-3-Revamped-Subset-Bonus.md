@@ -3,10 +3,8 @@
 
   |  
 -- | --
-Set Difficulty | 7
 Approximate time to master | 100 hours
-Minimum numbers of playthroughs needed | 2 (you can get most if you stick to buster, but you will miss the 50 minute achievement)
-Does difficulty affect achievements? | Not applicable
+Minimum numbers of playthroughs needed | 2 (you can get a lot if you stick to buster, but you will still miss almost all of the speedrun achievements)
 Hardest achievement of the set | Invincible vs Third Time's the Charm/ Invincible vs Resurrection/ Rainbow Warrior Miracle Kid/ Invincible With Mega Buster 
 
 <!--EndFragment-->
@@ -62,17 +60,29 @@ Beat Top Man's level without being damaged using only the Mega Buster.
 
 Beat Snake Man's level without being damaged using only the Mega Buster.
 
-[![](https://img.youtube.com/vi/fQzRhWBVNUA/0.jpg)](https://www.youtube.com/fQzRhWBVNUA)
+[![](https://img.youtube.com/vi/fQzRhWBVNUA/0.jpg)](https://www.youtube.com/watch?v=fQzRhWBVNUA)
 
 ![](https://media.retroachievements.org/Badge/343965.png) [Sewer System Mastered (10)](https://retroachievements.org/achievement/314091)
 
 Beat Shadow Man's level without being damaged using only the Mega Buster.
 
-[![](https://img.youtube.com/vi/vC6K7kgFuYc/0.jpg)](https://www.youtube.com/vC6K7kgFuYc)
+[![](https://img.youtube.com/vi/vC6K7kgFuYc/0.jpg)](https://www.youtube.com/watch?v=vC6K7kgFuYc)
 
 <!--EndFragment-->
 
 <!--StartFragment--><h1>Speedrun Achievements</h1>
+![](https://media.retroachievements.org/Badge/347148.png) [Outrun Top (10)](https://retroachievements.org/achievement/314096)
+
+Beat Top Man under 1 minute and 35 seconds.
+
+[![](https://img.youtube.com/vi/LmXGPP6MWt8/0.jpg)](https://www.youtube.com/watch?v=LmXGPP6MWt8)
+
+![](https://media.retroachievements.org/Badge/347151.png) [Outrun Shadow (10)](https://retroachievements.org/achievement/314099)
+
+Beat Shadow Man Under 1 minutes and 35 seconds.
+
+[![](https://img.youtube.com/vi/oYc1w1bEb1o/0.jpg)](https://www.youtube.com/watch?v=oYc1w1bEb1o)
+
 ![](https://media.retroachievements.org/Badge/348495.png) [Is this a joke...? (5)](https://retroachievements.org/achievement/314895)
 
 Defeat Gamma under 10 seconds.
@@ -89,5 +99,3 @@ https://github.com/RetroAchievements/guides/assets/133280349/6bd51455-7cce-46df-
 <!--EndFragment-->
 </body>
 </html>
-
-
