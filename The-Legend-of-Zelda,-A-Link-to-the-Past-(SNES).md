@@ -1,19 +1,14 @@
-# 0) Author Information
-
-Hello there, I'm Nepiki! I'm a gamer who has an unofficial case of amnesia so I have an obsession with writing everything down so I don't forget about it! Joking aside, I do genuinely like writing, especially if it helps out other people. I don't have a lot of guides yet, but expect to see more pop up in the future!
-
-For everything me related, here are some links you can check out:
-
-[Retro Achievements](https://retroachievements.org/user/Nepiki) | [Website](https://nepikigaming.com/) | [Discord Server](https://discord.gg/z2gUCmFg2K)
-
 # 1) Synopsis
 
-Set Difficulty: 5/10  
-Approximate time to Master: Around 20 to 25 hours
 
-Minimum Number of Playthroughs Needed: 1  
-Number of Missable Achievements: 12 (One item upgrade achievement, everything else no-damage bosses achievements)  
-Does Difficulty Affect Achievements?: N/A
+|   |   |
+|:--|:--|
+|Set Difficulty|5/10|
+|Approximate time to master|20 to 25 hours|
+|Minimum numbers of playthroughs needed|1 (using all three save files recommended)|
+|Number of missable achievements|12 (One item upgrade achievement, everything else no-damage bosses achievements)|
+|Does difficulty affect achievements?|N/A|
+|Hardest achievement of the set|Bested Ganon (25)|
 
 # 2) Introduction
 
@@ -29,22 +24,25 @@ A Link to the Past has a total of 55 Achievements worth 435 points. The achievem
 
 All of the story achievements are not missable, and will come to you over time when beating the game. The guide has sorted them on the chronological order of getting them in-game.
 
-[**Step 2: Item (upgrade) achievements (1 missable)**](#step-2-item-upgrade-achievements-1-missable--total-points-163)
+[**Step 2: Collecting Achievements (1 missable)**](#step-2-collecting-achievements-1-missable--total-points-163)
 
-Some items not found in dungeons are optional, and can be done after some specific progress has been made. The only missable achievement happens when you don't upgrade the shield through the waterfall, but by buying it in the dark world. The guide has sorted the achievements on the chronological order of getting them in-game.
+This step will lead you through finding every item, upgrades, and every chest in the dungeons and overworld. Every item achievement will also list what the requirements are that you need before you can go out to hunt them, sorted chronologically as much as possible.
 
-[**Step 3: No-damage achievements (11 missable)**](#step-3-no-damage-achievements-11-missable--total-points-135)
+This step has one missable achievement:
 
-These achievements are all missed when beating the boss while taking damage. This may sound intimidating, but there are some ways to cheese bosses. Some do still require legitimate strategies and skill, but they can be made easier by doing a few optional sidequests.
+* [Magical Shield (5)](https://retroachievements.org/achievement/2294) - The Magical Shield needs to be upgraded in the waterfall next to Zora's domain rather than be bought in one of the shops in the Dark World.
+
+[**Step 3: Boss Achievements (11 missable)**](#step-3-boss-achievements-11-missable--total-points-135)
+
+There are multiple achievements per boss that you fight in this game. Note that once you beat a boss, it will be gone forever and cannot be fought again, therefore making all of these achievements missable. It is recommended to copy your save file to the other in-game save slots before finishing a dungeon in case you need multiple attempts.
 
 # 4) Tips and tricks (no spoilers)
 
 * Remember that the game has a built-in copy feature for save files, for a maximum of 3 slots. This can be especially useful if you want to keep a boss for later due to it being too tough, or if you want to do dungeons in a specific order as you can (kinda) do the Dark World dungeons in a different order than stated.
 * * One such example is by getting the item from the dungeon, but not beating the boss yet. This way, you can keep the boss from the first dungeon in the Dark World alive and kill him last for example.
 * By visiting the ice cave in the lower-right part of the Light World and charging into the fairy statue in the middle, a bee will fly out. This bee is special as it stays alive for longer, and will attack enemies for you when you store it in a bottle. This also works on bosses, and can in some situations be very effective.
-* After beating the second dungeon in the Dark World, I recommend getting the item from the fourth dungeon in Thieves Town first. That way, you can lift up heavier stones and get a lot of items that will make no-damage bosses easier. For example, you can get your sword tempered and obtain the Magic Cape from the cemetery, which makes you invincible at the cost of magic points. For the latter, also be sure to half your magic meter A.S.A.P. near the smithies because this will be essential for no-damage runs.
+* After beating the second dungeon in the Dark World, I recommend getting the item from the fourth dungeon in Thieves Town first. That way, you can lift up heavier stones and get a lot of items that will make parts of the game and no-damage bosses easier. For example, you can get your sword tempered and obtain the Magic Cape from the cemetery, which makes you invincible at the cost of magic points. Do keep in mind that both the Magic Cape and Cane of Byrna are NOT allowed for no-damage bosses.
 * When taking damage from a boss, your best option is to use the magic mirror to teleport back to the entrance. Resetting the game will place you at a specific spot on the map, so you'd have to walk all the way back to the dungeon.
-* **ALWAYS ENTER A BOSS ROOM WITH FULL HEALTH IF YOU ARE ATTEMPTING THE NO-DAMAGE ACHIEVEMENTS.** I am not 100% sure this is required to get the achievement, but it's better to be safe than sorry.
 
 ## Step 1: Story Achievements | **Total points: 137**
 
@@ -167,7 +165,7 @@ Unlocked after beating the final boss of the game, located at the pyramid in cen
 
 ***
 
-## Step 2: Item (upgrade) achievements (1 missable) | **Total points: 163**
+## Step 2: Collecting achievements (1 missable) | **Total points: 163**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129304.png) [Illuminating (2)]( https://retroachievements.org/achievement/943)   
 _Acquire the Lamp_
@@ -402,8 +400,7 @@ There are a total of 24 Heart Pieces to be found, making for a total of 6 comple
 
 ***
 
-## Step 3: No-damage achievements (11 missable) | **Total points: 135**
-**REMEMBER TO BE FULL HEALTH WHEN YOU ENTER THE BOSS ROOM, OTHERWISE THE ACHIEVEMENT WON'T UNLOCK**
+## Step 3: Boss achievements (11 missable) | **Total points: 135**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129287.png) [Bested Armos Knights (10)]( https://retroachievements.org/achievement/2285)   
 _Defeat all the Armos Knights without being harmed._
