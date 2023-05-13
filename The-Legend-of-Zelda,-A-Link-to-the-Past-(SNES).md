@@ -332,8 +332,8 @@ After having the requirements, climb Death Mountain again and cross the bridge w
 ![](https://media.retroachievements.org/Badge/345918.png) [Hit Hyrule Castle (5)]( https://retroachievements.org/achievement/312938)   
 _Open all treasure chests in Hyrule Castle and its sewers._
 
-[Map Link (Hyrule Castle)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD01.html)
-[Map Link (Sanctuary/Secret Passage](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD01a.html)
+[Map Link (Hyrule Castle)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD01.html)   
+[Map Link (Sanctuary/Secret Passage)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD01a.html)   
 [Map Link (Castle Tower)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD05.html)
 
 There are a total of 10 Treasure Chests to be found in the Hyrule Castle. Note that this is done over multiple visits. This guide does not include the Lantern, which I'm not sure is part of the achievement, but is essentially mandatory so you are unlikely to have misses this. If you did, then it can be found south of where you found your dying uncle who gave you the sword and shield.
