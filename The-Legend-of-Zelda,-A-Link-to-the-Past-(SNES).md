@@ -579,7 +579,7 @@ _Open all treasure chests in Ganon's Tower._
 
 [Map Link](https://mikesrpgcenter.com/zelda3/maps/ganonstower.html)
 
-There are a total of 26 Treasure Chests to be found in Ganon's Tower. The last 3 of them are found beyond the Big Key door. Chest c
+There are a total of 26 Treasure Chests to be found in Ganon's Tower. The last 3 of them are found beyond the Big Key door.
 
 1. **???** - From the main entrance, take the right staircase down to find two chests.
 2. **???** - See chest 1.
@@ -607,6 +607,28 @@ There are a total of 26 Treasure Chests to be found in Ganon's Tower. The last 3
 24. **???** - See chest 23.
 25. **Key** - On the mandatory path. You will find this chest shortly before fighting Moldorm again, in the room with the switches.
 26. **???** - You will find this chest after defeating Moldorm. Hookshot towards it after the battle is over.
+
+***
+
+![](https://media.retroachievements.org/Badge/345919.png) [Looted the Light World (10)]( https://retroachievements.org/achievement/312939)   
+_Open all treasure chests in the Light World (excluding dungeons)._
+
+[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3LightOverworld.html)
+
+There are a total of ??? Treasure Chests to be found in the Light World. Getting all of the chests should be possible after having obtained the Hookshot.
+
+Full guide will follow soon. Apologies for the inconvenience.
+
+***
+
+![](https://media.retroachievements.org/Badge/346034.png) [Despoiled the Dark World (10)]( https://retroachievements.org/achievement/313050)   
+_Open all treasure chests in the Dark World (excluding dungeons)._
+
+[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3DarkOverworld.html)
+
+There are a total of ??? Treasure Chests to be found in the Dark World. Getting all of the chests should be possible after having obtained the Titan's Mitt.
+
+Full guide will follow soon.
 
 ***
 
