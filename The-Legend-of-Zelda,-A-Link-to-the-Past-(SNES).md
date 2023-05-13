@@ -221,12 +221,41 @@ Go to south-east Hyrule and find a cave with a destructible entrance right next 
 
 ***
 
+![](https://retroachievements.org/Badge/345915.png) [Emptied the Eastern Palace (3)]( https://retroachievements.org/achievement/312935)   
+_Open all treasure chests in the Eastern Palace._
+
+[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD02.html)
+
+There are a total of 5 Treasure Chests to be found in the Eastern Palace:
+
+1. **100 Rupees** - In the room with the big rolling ball, go left at the end and walk down to go up the stairs.
+2. **Map** - After the room with the big rolling ball, go right. Take the northern door here, lift the middle barrel, and go down for the chest.
+3. **Compass** - On the mandatory road, after the room with the skeleton corpses on the ground.
+4. **Big Key** - Mandatory. Lift the barrel surrounded by four Anti-Fairies in the room with the empty blue platform.
+5. **Bow** - Mandatory. In the big room in the middle after having obtained the Big Key.
+
+***
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129310.png) [Book of Prayer (5)]( https://retroachievements.org/achievement/2288)   
 _Obtain the Book of Mudora._
 
 **Requirements: Beat the first dungeon and obtain the Pegasus Boots from Sahasrahla.**
 
 You can obtain this book from the library south of Kakariko Village. Use the Pegasus Boots to charge into the bookcase with the book on top.
+
+***
+
+![](https://media.retroachievements.org/Badge/345916.png) [Despoiled the Desert Palace (3)]( https://retroachievements.org/achievement/312936)   
+_Open all treasure chests in the Desert Palace._
+
+[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD03.html)
+
+There are a total of 4 Treasure Chests to be found in the Desert Palace, all in the first half:
+
+1. **Map** - In the northern-most room. Lift the barrel behind the two unlit torches to reveal a switch.
+2. **Compass** - On the mandatory road, on the right side behind a key-locked door.
+3. **Big Key** - Mandatory. North of the compass.
+4. **Power Glove** - Mandatory. Located in the most north-western room.
 
 ***
 
@@ -277,6 +306,20 @@ This can be done at any given point in the game after obtained the Zora's Flippe
 
 ***
 
+![](https://media.retroachievements.org/Badge/345917.png) [Took the Tower of Hera (3)]( https://retroachievements.org/achievement/312937)   
+_Open all treasure chests in the Tower of Hera._
+
+[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD04.html)
+
+There are a total of 4 Treasure Chests to be found in the Tower of Hera:
+
+1. **Map** - Found when walking straight north after the entrance and toggling the switches.
+2. **Big Key** - Mandatory. Take the locked door to the left of the map chest and proceed.
+3. **Compass** - On the mandatory road. South of the big chest.
+4. **Moon Pearl** - Mandatory. Fall down from the floor above the big chests by making the floor appear north in the middle.
+
+***
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129318.png) [Thunderstruck (5)]( https://retroachievements.org/achievement/2334)   
 _Obtain the Ether Medallion_
 
@@ -286,12 +329,65 @@ After having the requirements, climb Death Mountain again and cross the bridge w
 
 ***
 
+![](https://media.retroachievements.org/Badge/345918.png) [Hit Hyrule Castle (5)]( https://retroachievements.org/achievement/312938)   
+_Open all treasure chests in Hyrule Castle and its sewers._
+
+[Map Link (Hyrule Castle)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD01.html)
+[Map Link (Sanctuary/Secret Passage](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD01a.html)
+[Map Link (Castle Tower)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD05.html)
+
+There are a total of 10 Treasure Chests to be found in the Hyrule Castle. Note that this is done over multiple visits. This guide does not include the Lantern, which I'm not sure is part of the achievement, but is essentially mandatory so you are unlikely to have misses this. If you did, then it can be found south of where you found your dying uncle who gave you the sword and shield.
+
+Hyrule Castle: 3 chests
+
+1. **Map** - On the mandatory road. Walk all around to the back of the castle and go downstairs to find the chest.
+2. **Boomerang** - On the mandatory road. Keep making progress beyond the map chest and you'll eventually find it in a room that also has a knight with a key necessary to proceed.
+3. **Blue Rupee** - In the same cell where Princess Zelda is kept hostage.
+
+Sanctuary/Secret Passage: 5 chests
+
+1. **Key** - Mandatory. South to the right of the first locked door you come across in the secret passage.
+2. **Heart Container** - In the main hall of the Sanctuary where you arrive with Princess Zelda.
+3. **Bombs** - Can only be done after having obtained Bombs and the Power Glove. At the graveyard right of the sanctuary, lift the gray rocks blocking a grave and push the grave to reveal a hole. Fall down here and bomb one of the walls on the left.
+4. **300 Rupees** - See chest 3.
+5. **10 Arrows** - See chest 3.
+
+Castle Tower: 2 chests
+
+1. **Key** - Mandatory. In the third room from the entrance with a locked door, defeat the two knights to have a chest appear.
+2. **Key** - Mandatory. In the big dark maze, all the way on the left.
+
+***
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129319.png) [Fault Line (5)]( https://retroachievements.org/achievement/2350)   
 _Obtain the Quake Medallion_
 
 **Requirements: Make your way to the Dark World.**
 
 Go to north-east Hyrule where the entrance to the Zora's Domain used to be. Throw a random rock in the middle of the rock formation in the water, and the medallion will be thrown out.
+
+***
+
+![](https://media.retroachievements.org/Badge/345917.png) [Took the Tower of Hera (3)]( https://retroachievements.org/achievement/312937)   
+_Open all treasure chests in the Tower of Hera._
+
+[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD06.html)
+
+There are a total of 13 Treasure Chests to be found in the Dark Palace. At least 2 bombs are required to get everything in this dungeon.
+
+1. **Key** - Take the left path from the entrance and proceed downstairs. Lift the barrel for a switch in the bottom-left.
+2. **Map** - Take the right path from the entrance and proceed until you arrive at a chest on a green floor.
+3. **Key** - Bombs needed. Bomb the wall to the left of the map chest.
+4. **Key** - Take the middle path and then fall down, either by pushing the block on the right path or bombing the floor on the left path. Hit a switch to the right of the green floor to make it appear.
+5. **Big Key** - Mandatory. Bombs and one key needed. Bomb the cracked floor mentioned at chest 4 and fall down here. Unlock the door and go upstairs for the chest.
+6. **Key** - Take the right path mentioned at chest 4 where you can fall down and leave through the north entrance for this chest.
+7. **Bombs** - In the dark maze room to the left of the collapsing floor room. Located in the north-west.
+8. **Key** - In the dark maze room to the left op the collapsing floor room. Located in the south-east.
+9. **Hammer** - Mandatory. Bomb the wall north of chest 8 to reach the platform with the big chest.
+10. **Compass** - In the room to the right of the collapsing floor room.
+11. **Arrows** - Go downstairs in the room with chest 10 to find a dark room with blue rupees. This chest is in the south-west.
+12. **Key** - Go downstairs in the room with chest 10 to find a dark room with blue rupees. This chest is in the south-east.
+13. **Blue Rupee** - In the room south of chest 10. Lift a skull on the left to reach it.
 
 ***
 
