@@ -368,12 +368,12 @@ Go to north-east Hyrule where the entrance to the Zora's Domain used to be. Thro
 
 ***
 
-![](https://media.retroachievements.org/Badge/345917.png) [Took the Tower of Hera (3)]( https://retroachievements.org/achievement/312937)   
-_Open all treasure chests in the Tower of Hera._
+![](https://media.retroachievements.org/Badge/345920.png) [Plundered the Palace of Darkness (5)]( https://retroachievements.org/achievement/312940)   
+_Open all treasure chests in the Palace of Darkness._
 
 [Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD06.html)
 
-There are a total of 13 Treasure Chests to be found in the Dark Palace. At least 2 bombs are required to get everything in this dungeon.
+There are a total of 13 Treasure Chests to be found in the Palace of Darkness. At least 2 bombs are required to get everything in this dungeon.
 
 1. **Key** - Take the left path from the entrance and proceed downstairs. Lift the barrel for a switch in the bottom-left.
 2. **Map** - Take the right path from the entrance and proceed until you arrive at a chest on a green floor.
@@ -418,6 +418,59 @@ Go to the smithies' house in the Light World and use your hammer to gain access 
 
 ***
 
+![](https://media.retroachievements.org/Badge/345921.png) [Stripped the Swamp Palace (5)]( https://retroachievements.org/achievement/312941)   
+_Open all treasure chests in the Swamp Palace._
+
+[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD07.html)
+
+There are a total of 9 Treasure Chests to be found in the Palace of Darkness. At least 1 bomb is required to get everything in this dungeon.
+
+1. **Key** - Mandatory. At the entrance, beat the three water skaters to make a chest appear.
+2. **Map** - Go downstairs after chest 1 and bomb the wall right next to you to reach the map.
+3. **Compass** - South of the room with the big chest. Make your way around and push the bottom block to the right for it to appear.
+4. **Red Rupee** - Go all the way to the left of the big chest. Once you head upstairs, fall down in the north-west hole for this chest.
+5. **Big Key** - Mandatory. Go all the way to the left of the big chest. Once you head upstairs, fall down in the north-west hole for this chest.
+6. **Hookshot** - Mandatory. The big chest is in the big central room in the middle connecting every other room.
+7. **Red Rupee** - North of the big chest, drag the left statue to the top on a switch to open two rooms. Go through the second-right one first to lower the water level, then take either the left or right-most room to find two chests next to each other.
+8. **Red Rupee** - See chest 7.
+9. **Red Rupee** - On the mandatory road. In the room with the many waterfalls and blocks in the middle, push the third one from the left to reveal a chest. If you are missing a chest in this dungeon, it is very likely this one.
+
+***
+
+![](https://media.retroachievements.org/Badge/345922.png) [Sacked Skull Woods (5)]( https://retroachievements.org/achievement/312942)   
+_Open all treasure chests in the Skull Woods._
+
+[Map Link](https://mikesrpgcenter.com/zelda3/maps/skulldungeon.html)
+
+There are a total of 7 Treasure Chests to be found in the Skull Woods. The first 6 chests are in the first half, the last chest in the second half requiring the Fire Rod.
+
+1. **Compass** - Fall down the hole south-west of the "normal" entrance, then go one room right to find the chest.
+2. **Key** - Go north of the room with chest 1 to find this chest.
+3. **Key** - Fall down the hole south-east of the "normal" entrance, or go one room right of the room with chest 1. The chest is in the middle of the room.
+4. **Map** - North of the room with chest 3. You can either hookshot to it or fall down the hole in the bushes north of the "normal" entrance to switch the bottomless holes around.
+5. **Big Key** - Mandatory. Find the other entrance by going north-west of the "normal" entrance, then drag the right statue on the switch in the middle blocking a door. Go through it for the big key chest.
+6. **Fire Rod** - Mandatory. Fall down the hole in the bushes north of the "normal" entrance, then go left and pull the switch to open the path to the treasure.
+7. **Key** - In the first room of the second half of the dungeon, go down the stairs and make your way to the north, go to the right room, then to the south and left room.
+
+***
+
+![](https://media.retroachievements.org/Badge/345923.png) [Thieved Thieves' Town (5)]( https://retroachievements.org/achievement/312944)   
+_Open all treasure chests in Thieves' Town._
+
+[Map Link](https://mikesrpgcenter.com/zelda3/maps/blindshideout.html)
+
+There are a total of 7 Treasure Chests to be found in Thieves' Town:
+
+1. **Map** - From the entrance, go down the stairs and walk a bit to the north to find the chest.
+2. **Red Rupee** - Go north of the room with chest 1 and go upstairs to find the chest near the middle of the room.
+3. **Compass** - In the room with chest 2, go to the room to the right and then the room down. The chest is upstairs near the middle of the room.
+4. **Big Key** - Mandatory. In the room with chest 3, go downstairs and the go to the room to the left to find this chest.
+5. **Rupees** - Found in the same room where you bomb the floor to bring light into the boss room, which is mandatory to do.
+6. **Key** - In the same cell where you rescue the girl, which is mandatory to do.
+7. **Titan's Mitt** - Mandatory. From the room with chest 6, go all the way to the left until you find a room with the big chest.
+
+***
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129301.png) [The Swordsmith's Brother (5)]( https://retroachievements.org/achievement/2363)   
 _Obtain the Tempered Sword._
 
@@ -457,12 +510,103 @@ Make your way up Death Mountain and go to the teleporter that first brought you 
 
 ***
 
+![](https://media.retroachievements.org/Badge/345924.png) [Plundered the Ice Palace (5)]( https://retroachievements.org/achievement/312945)   
+_Open all treasure chests in the Ice Palace._
+
+[Map Link](https://mikesrpgcenter.com/zelda3/maps/icepalace.html)
+
+There are a total of 7 Treasure Chests to be found in the Ice Palace:
+
+1. **Compass** - In the room where you can only enter one direction by pushing the blocks, go south and kill every enemy here to make a chest appear.
+2. **Bombs** - Once you reach another four-way room, go left for a slippery room and then downstairs. Kill the two Freezors for a chest.
+3. **Key** - Drop down in the room with chest 2, then continue your path. Coming across this chest naturally happens in the same room where you are forced to go upstairs.
+4. **Key** - Proceed onwards and open the locked door on your path, then in the big slippery room take the north-eastern door and proceed. Once you go up the stairs, the chest is south of you.
+5. **Map** - Go over the spikes in the same room as chest 4, head upstairs and the chest will appear when you step on the switch by lifting a barrel south of the statue with the tongue.
+6. **Big Key** - Open the door in the room with chest 5, then head upstairs to find the chest.
+7. **Blue Mail** - In the same room as chest 2, bomb the floor left of it to create a new hole. Fall down here to reach the big chest.
+
+***
+
+![](https://media.retroachievements.org/Badge/345925.png) [Marauded Misery Mire (5)]( https://retroachievements.org/achievement/312946)   
+_Open all treasure chests in Misery Mire._
+
+[Map Link](https://mikesrpgcenter.com/zelda3/maps/miserymire.html)
+
+There are a total of 7 Treasure Chests to be found in Misery Mire:
+
+1. **Key** - In the room where a block is blocking the path to the door, push it aside and proceed to reach this chest.
+2. **Key** - To the room right of the room with the block blocking the path to a door, lift the barrel in bottom-right on the spikes to hit a switch and reveal the chest.
+3. **Map** - This chest is south of the room with chest 2 once the blue switches are down, or by using a key on the north-east door in the main central room.
+4. **Key** - Upstairs in the main central room, reachable for example by going to the room with a block blocking the path to a door and then to the left.
+5. **Compass** - In the room with the flying tiles, light the four torches and go up. Be sure to have the blue switches down (room before the flying tiles).
+6. **Big Key** - Mandatory. Go south from the room with the flying tiles and continue your path.
+7. **Cane of Somaria** - Mandatory. In the central room, take the south-eastern door all the way to the right and then make your way across a crumbling floor to reach it.
+
+***
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129302.png) [Golden Wish (10)]( https://retroachievements.org/achievement/2369)   
 _Obtain the Golden Sword._
 
 **Requirements: Beat the Fifth and Sixth dungeon, and have the Tempered Sword.**
 
 Buy a big bomb from Link's House in the Dark World, then make your way to the pyramid and bomb the cracked wall. Throw your sword in the fountain located inside.
+
+***
+
+![](https://media.retroachievements.org/Badge/345926.png) [Ransacked Turtle Rock (5)]( https://retroachievements.org/achievement/312947)   
+_Open all treasure chests in Turtle Rock._
+
+[Map Link](https://mikesrpgcenter.com/zelda3/maps/turtlerock.html)
+
+There are a total of 11 Treasure Chests to be found in Turtle Rock:
+
+1. **Compass** - In the big room north of the entrance, take the south-western door to reach this chest.
+2. **Key** - In the big room north of the entrance, take the north-eastern door to a fire rod puzzle room. Solve it, and find two chests in the room beyond.
+3. **Map** - See chest 2.
+4. **Key** - In the big room north of the entrance, take the north-western locked door and go two rooms north. Press the south-western block to the right to unveil a chest.
+5. **Big Key** - Mandatory. In the middle of the room with a large lava pit and a pipe puzzle.
+6. **Mirror Shield** - Mandatory. Go all the way south from the lava room, then to the left to exit the dungeon and enter it from the right again to reach the chest.
+7. **Key** - Move deeper into the dungeon until you reach a locked door. Toggle the switch and open the chest.
+8. **???** - Once you proceed further and see another locked door, go south to reach a room with four chests.
+9. **???** - See chest 8.
+10. **???** - See chest 8.
+11. **Key** - See chest 8.
+
+***
+
+![](https://media.retroachievements.org/Badge/346029.png) [Gutted Ganon's Tower (10)]( https://retroachievements.org/achievement/312948)   
+_Open all treasure chests in Ganon's Tower._
+
+[Map Link](https://mikesrpgcenter.com/zelda3/maps/ganonstower.html)
+
+There are a total of 26 Treasure Chests to be found in Ganon's Tower. The last 3 of them are found beyond the Big Key door. Chest c
+
+1. **???** - From the main entrance, take the right staircase down to find two chests.
+2. **???** - See chest 1.
+3. **Key** - Go one room to the right from the previous room and avoid/slash all the flying tiles until a chest appears.
+4. **Compass** - Continue one more room to the right and then all the way south until you reach a room with a switch puzzle. Solve it by throwing bombs to right conveyor belt, then reach a room with four chests.
+5. **???** - See chest 4.
+6. **???** - See chest 4.
+7. **???** - See chest 4.
+8. **???** - From the main entrance, take the left staircase and move as fair left as you can. Once you reach the hookshot puzzle room, take the north door for four chests.
+9. **???** - See chest 8.
+10. **???** - See chest 8.
+11. **???** - See chest 8.
+12. **Map** - In the hookshot room, make your way south to the switches and then open the locked door to reach the map chest.
+13. **Key** - Move onwards until you reach a block maze. Move the odd block in the middle row on the far left to toggle a chest to appear that you can hookshot towards.
+14. **???** - Take the teleporters until you reach the left part of the main room with a breakable wall. Destroy it with a bomb, then walk on the floor until the wall opens, revealing four chests.
+15. **???** - See chest 14.
+16. **???** - See chest 14.
+17. **???** - See chest 14.
+18. **???** - When you reach the massive room with a seemingly big black pit, light the torch to reveal a path and make your way across. Lift the skull here to gain access to a chest.
+19. **Big Key** - In the same room as chest 18, bomb the floor and fall down for an Armos Knights boss battle. Defeat it and open the door for three chests.
+20. **???** - See chest 19.
+21. **???** - See chest 19.
+22. **Red Mail** - Climb up the room next to the Armos Knights boss battle, then open the Big Chest.
+23. **???** - On the mandatory path. You will find two chests shortly before fighting Moldorm again.
+24. **???** - See chest 23.
+25. **Key** - On the mandatory path. You will find this chest shortly before fighting Moldorm again, in the room with the switches.
+26. **???** - You will find this chest after defeating Moldorm. Hookshot towards it after the battle is over.
 
 ***
 
@@ -622,7 +766,7 @@ This boss might look menacing, but it's not that bad. What you want to do first 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129298.png) [Bested Ganon (25)]( https://retroachievements.org/achievement/2388)   
 _Defeat Ganon without being harmed._
 
-**Recommendations: Golden Sword, 1 Full Heal Potion, 2-3 Magic Potions, Magic Cape
+**Recommendations: Golden Sword, 1 Full Heal Potion, 2-3 Magic Potions, Magic Cape**
 
 Ganon's fight has 4 "phases", but the first 3 are pretty much insignificant as you can take care of all of them by just going invincible and slashing at him. You'll need to drink a magic potion on his 3rd phase, but that should pose no problem as a lot of his time is spent just teleporting around. The 4th phase is where it can get slightly tricky, and where you also need to be cautious. You need to light two beacons while Ganon is shooting a fire bat at you, so make sure to light them fast with the Fire Rod. When he's visible again, ONLY attack him when you know
 where exactly he will appear, and if you can hit him the moment he appears. If you're even a second late, he'll fire his bat at you which is hard to avoid when you're close to him. Hit him so he's stunned, fire a silver arrow at him and repeat this 4 times. Take your time for the final phase and you'll be just fine. If you do take damage, reset the game and drink a full heal potion as your health/magic bar won't be full upon restart to ensure you can try it again very easily.
