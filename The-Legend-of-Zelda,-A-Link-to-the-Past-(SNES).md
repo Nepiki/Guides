@@ -664,6 +664,15 @@ There are a total of 24 Heart Pieces to be found, making for a total of 6 comple
 
 ## Step 3: Boss achievements (11 missable) | **Total points: 135**
 
+![](https://retroachievements.org/Badge/347420.png) [Toying with the Red Knight (5)]( https://retroachievements.org/achievement/314001)   
+_Kill the Red Armos Knight of the Eastern Palace using only the boomerang and collect the Pendant of Courage._
+
+-=MISSABLE=-
+
+Kill five of the six Armos Knights with arrows. You should be able to do this damageless by remaining in the south-east or south-west corner and just keep shooting. When the final one becomes red, damage it only with your boomerang to kill it. Keep your distance at all times and play it safe, only using the boomerang when he does his stomp attack, as the boomerang does very little damage so you will be here for the long run.
+
+***
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129287.png) [Bested Armos Knights (10)]( https://retroachievements.org/achievement/2285)   
 _Defeat all the Armos Knights without being harmed._
 
@@ -672,6 +681,15 @@ _Defeat all the Armos Knights without being harmed._
 **Recommendations: None. They can be harmed with a sword, but the arrows are definitely the better option here.**
 
 The Armos Knights most likely won't give you too much trouble. Just stay in one corner (I prefer south-east) and keep shooting arrows till only one Armos Knight remains. Every Armos Knight dies within 3 arrows, so use that to your advantage. The final Armos Knight will jump around and try to hit you from above, but this shouldn't be too much trouble if you keep walking around away from his landing position.
+
+***
+
+![](https://retroachievements.org/Badge/347421.png) [Worm Kebabs (10)]( https://retroachievements.org/achievement/314001)   
+_Kill the Lanmolas of the Desert Palace dealing all damage with arrows, then collect the Pendant of Power._
+
+-=MISSABLE=-
+
+It takes four arrows to kill each Lanmolas, meaning that you need at the very least 12 arrows to subdue them all. It's important in this boss fight to keep your distance and aim correctly, as you can only shoot one arrow at a time. Trying to shoot 3 arrows through every Lanmolas and then finishing them off one by one may be a preferred method due to the final one spitting out eight rocks when resurfacing rather than four.
 
 ***
 
@@ -686,6 +704,15 @@ Surprisingly one of the tougher bosses to no-damage since there isn't really an 
 
 ***
 
+![](https://retroachievements.org/Badge/347422.png) [Gone is 20 Seconds (10)]( https://retroachievements.org/achievement/314003)   
+_Defeat Moldorm in Hera's Tower within 20 seconds._
+
+-=MISSABLE=-
+
+This is relatively tough and not advised to combine with the no-damage achievement, as you have practically no time to miss attacks and play it safe. There will be a trigger available at all time to let you know whether the 20 seconds has passed or not, so use that to your advantage--if it's not there, drop down and retry. My recommended approach is that after the first hit, stand right behind Moldorm and unsheathe your sword and follow where it goes, which should guarantee another quick hit. Using the Pegasus Boots is also a recommended approach during his last phase when he starts moving faster.
+
+***
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129289.png) [Bested Moldorm (10)]( https://retroachievements.org/achievement/2314)   
 _Defeat Moldorm without being harmed._
 
@@ -697,6 +724,15 @@ I unfortunately don't have much advice for Moldorm. The good thing about him is 
 
 ***
 
+![](https://retroachievements.org/Badge/347423.png) [You Really Bug Me Out (5)]( https://retroachievements.org/achievement/314004)   
+_Defeat Agahnim in Hyrule Castle Tower without unsheathing your sword._
+
+-=MISSABLE=-
+
+As the achievement icon and title hint at, you can only use the Bug Catching Net to reflect Agahnim's hits. Since the damage returned is always the same, this boss battle follows the exact same pattern as described in the no-damage achievement, and can very well be combined together.
+
+***
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129290.png) [Bested Agahnim (10)]( https://retroachievements.org/achievement/2337)   
 _Defeat Agahnim in Hyrule Castle without being harmed._
 
@@ -704,7 +740,16 @@ _Defeat Agahnim in Hyrule Castle without being harmed._
 
 **Recommendations: None.**
 
-The worst part about Agahnim? Having to go through that entire dungeon again if you mess up. Joking aside, Agahnim isn't too bad of a boss. He has three different attacks, of which one is very easily predictable- and avoidable. Whenever he goes to the most northern-middle spot, he will use a lightning attack that can be avoided by going to the left or right wall. The other two aren't as easily identifiable, but shouldn't pose too much trouble either. The red shot can be reflected with the sword (or bug net) right at Agahnim, and it's recommended to stand straight across him to make sure it hits. The other attack is a bit trickier, as it is a blue circle that goes into 6 directions upon hitting a sword or a wall. You can hit it and hope the shield protects you if one of the directions is towards you, but I personally found that to be a bit too RNG-heavy for my liking. Avoiding the blue circle is definitely my preferred option. Keep this up for a bit and Agahnim is down.
+The worst part about Agahnim? Having to go through that entire dungeon again if you mess up. Joking aside, Agahnim isn't too bad of a boss. He has three different attacks, of which one is very easily predictable- and avoidable. Whenever he goes to the most northern-middle spot and does not follow you around the room, he will use a lightning attack that can be avoided by going to the left or right wall. The other two aren't as easily identifiable, but shouldn't pose too much trouble either. The red shot can be reflected with the sword (or bug net) right at Agahnim, and it's recommended to stand straight across him to make sure it hits. The other attack is a bit trickier, as it is a blue circle that goes into 6 directions upon hitting a sword or a wall. You can hit it and hope the shield protects you if one of the directions is towards you, but I personally found that to be a bit too RNG-heavy for my liking. Avoiding the blue circle is definitely my preferred option. Keep this up for a bit and Agahnim is down.
+
+***
+
+![](https://retroachievements.org/Badge/347424.png) [Mallet and Skewer (10)]( https://retroachievements.org/achievement/314005)   
+_Crack the Helmasaur's face Shield using only the hammer, then deal the rest of the damage with a silver arrow._
+
+-=MISSABLE=-
+
+Due to the necessity of the silver arrows, this achievement can no be attempted before having beaten the Ice Palace and Misery Mire, so get the hammer and leave the dungeon for later. You'll first have to deal with his face shield, which takes a total of 16 hammer hits. Once that is down, shoot one silver arrow and it's dead. Due to the first phase being more predictable/easier to avoid attacks due to him moving around slower, it may be favourable combining this achievement with the no-damage achievement.
 
 ***
 
@@ -713,9 +758,18 @@ _Defeat Helmasaur King without being harmed._
 
 -=MISSABLE=-
 
-**Recommendations: Bombs. If you're keeping this boss for later, you can also bring a Magic Cape/Upgraded Sword**
+**Recommendations: Bombs. If you're keeping this boss for later, you can also bring an Upgraded Sword or the Light Arrows**
 
 The Helmasaur King is an interesting boss: he's not too difficult, but you have to be careful at all times. I recommend getting rid of the shield by dropping/throwing bombs (I prefer the former), as his movements are pretty predictable. It only takes 4 bombs to get rid of the shield, while it takes 16 hammer hits. The Helmasaur King only has two attacks to worry about: the first is where he spits out a fireball, that turns into three fireballs that implode diagonally. For this attack, it's best to go to the wall that's farthest away so you can easily dodge them. The other is his tail attack, indicated by when the tail starts moving faster. This is actually easily avoidable by standing directly in front of him. The only thing you need to be careful about here, especially in his second phase, is that he starts moving again right after the tail attack ends. If he runs into you, that obviously counts as damage. You can also avoid this by going to the wall that's farthest away, but I find standing in front of him easier.
+
+***
+
+![](https://retroachievements.org/Badge/347425.png) [I Only Have Ice For You (5)]( https://retroachievements.org/achievement/314006)   
+_Defeat Arrghus's final phase dealing damage only with the Ice Rod then rescue the maiden._
+
+-=MISSABLE=-
+
+Defeat the first phase as you would do normally: stand on either the left- or right side of Arrghus, hookshot his puffs and slash at them. Once all are gone, he will jump and move around the room diagonally. Use the Ice Rod to deal damage four times, and the boss fight is over. This achievement can very well be combined with the no-damage achievement and shouldn't pose too much trouble.
 
 ***
 
@@ -730,14 +784,23 @@ Arrghus is a really easy boss, but you still have to be careful. ONLY Hookshot t
 
 ***
 
+![](https://retroachievements.org/Badge/347426.png) [Oprah's Dramatic Gift Reveal (10)]( https://retroachievements.org/achievement/314007)   
+_Finish off Mothula with bees and then rescue the maiden._
+
+-=MISSABLE=-
+
+It is recommended to keep this boss until you have obtained the Tempered Sword (not Golden Sword), but you can also do it with the Fire Rod. Hit it about three times with the tempered sword or five times with the Fire Rod, then let the Good Bee do the remainder of the work.
+
+***
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129293.png) [Bested Mothula (10)]( https://retroachievements.org/achievement/2358)   
 _Defeat Mothula without being harmed._
 
 -=MISSABLE=-
 
-**Recommendations: Magic Cape, Good Bee, 1-2 Magic Potions, Tempered Sword (or Golden Sword if you're killing Mothula after the 5th and 6th dungeon).**
+**Recommendations: Good Bee, Tempered Sword (NOT THE GOLDEN SWORD, THIS IS BUGGED).**
 
-The easiest way to get rid of Mothula is by releasing the Good Bee and then going invincible with the Magic Cape while attacking with your sword. Keep good track of your magic meter and if necessary, drink a magic potion only when you are truly safe to do so as you won't be invincible during that time. Watch out for the moving floor, otherwise you'll run into a spike upon re-appearing.
+Mothula is a tough boss, so it is recommended to use both your sword- and Fire Rod and alternate between the two depending on how safe you have you play it. Mothula uses his beam attack every two-three seconds, so the only time you should go in for a sword attack is right after the attack happened. After the sword attack, keep your distance and use the Fire Rod until he repeats the pattern. Remaining near the middle of the screen is always favourable due to the spikes from the sides moving slowly towards the opposite side of the screen. They do a little nudge before moving, so pause buffering may be something to consider if the boss gives you too much trouble.
 
 ***
 
