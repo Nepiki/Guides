@@ -804,14 +804,32 @@ Mothula is a tough boss, so it is recommended to use both your sword- and Fire R
 
 ***
 
+![](https://retroachievements.org/Badge/347427.png) [Cane You See Me Now? (10)]( https://retroachievements.org/achievement/314008)   
+_Defeat Blind using only the Cane of Somaria then rescue the maiden._
+
+-=MISSABLE=-
+
+This cannot be done before progress has been made in Misery Mire, so keep that in mind before attempting this achievement. No matter the weapon, Blind will always need nine hits to be defeated, and this also applies to the Cane of Somaria. Put a block somewhere while you are on the opposite side of him, and when he is in good range, press the item button again to have the block explode. Depending on your skill with the Cane, this may be a very viable way to do the no-damage achievement as well. Remember to bring Magic Potions as well, and recommended is to have the magic meter halved by the Mad Batter as well.
+
+***
+
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129294.png) [Bested Blind (10)]( https://retroachievements.org/achievement/2360)   
 _Defeat Blind without being harmed._
 
 -=MISSABLE=-
 
-**Recommendations: Magic Cape, Good Bee, 1-2 Magic Potions, Tempered Sword (or Golden Sword if you're killing Blind after the 5th and 6th dungeon).**
+**Recommendations: Good Bee, 1-2 Magic Potions if using the Cane of Somaria**
 
-The easiest way to get rid of Blind is by releasing the Good Bee and then going invincible with the Magic Cape while attacking with your sword. Keep good track of your magic meter and if necessary, drink a magic potion only when you are truly safe to do so as you won't be invincible during that time. Be extra careful with re-appearing as both the heads and their lasers will damage you.
+Blind is a very chaotic boss and should be approached carefully. While the Good Bee is not a necessity, it can give you a bit more breathing space. Every phase takes three hits no matter what weapon you use, and after every phase an extra head flies through the screen shooting beams at you which, mind you, Blind with the cloth on is able to do as well. The other heads are definitely the most dangerous aspect though, so only go in for sword slashes when they are far enough away while also being able to dodge clothed Blind's laser. The Cane of Somaria may be a very viable option due to being able to keep your distance at all times.
+
+***
+
+![](https://retroachievements.org/Badge/347428.png) [Kholdstare into the Flames (10)]( https://retroachievements.org/achievement/314009)   
+_Defeat Kholdstare in the Ice Palace using only the Fire Rod to damage it then rescue the maiden._
+
+-=MISSABLE=-
+
+You will absolutely need to bring at least one, preferably two Magic Potions before attempting this achievement. Getting rid of Kholdstare's shield will already require the entire magic bar from the Fire Rod, let alone the three eyes moving around after the shield is gone. Fortunately the Fire Rod does good damage against the eyes moving around so this shouldn't take too much effort, just remember that there is an ice ball falling every two-three seconds that you need to dodge.
 
 ***
 
@@ -820,9 +838,18 @@ _Defeat Kholdstare without being harmed._
 
 -=MISSABLE=-
 
-**Recommendations: Bombos Medallion, Fire Rod and/or Magic Cape, 1-2 Magic Potions**
+**Recommendations: Bombos Medallion, Fire Rod, 1-2 Magic Potions**
 
-Upon entrance, use the Bombos Medallion immediately to get rid of Kholdstare's ice armour. From there, it really is up to you on how you want to beat him as Kholdstare isn't too difficult--you just need to beware of the falling snow. You can use the Fire Rod to do massive damage, or take it the safe way and just go invincible with the Magic Cape and then keep slashing with the sword.
+Upon entrance, use the Bombos Medallion immediately to get rid of Kholdstare's ice armour (unless you are also going for the boss challenge achievement, then just use the Fire Rod). From there, it really is up to you on how you want to beat him as Kholdstare isn't too difficult--you just need to beware of the falling ice every two-three seconds that fortunately is easy to dodge by just walking slightly diagonally. You can use the Fire Rod to do massive damage to the eyes, so be sure to do so. It will always double damage than the tempered sword, and you can keep your distance. The sword is preferable if they get close however, just to bump them back a bit.
+
+***
+
+![](https://retroachievements.org/Badge/347429.png) [A Bomb for Sore Eyes, An Arrow for the Star Pupil (10)]( https://retroachievements.org/achievement/314010)   
+_Defeat Vitreous's little eyes by damaging them only with bombs, kill the big eye with only arrows, then rescue the maiden._
+
+-=MISSABLE=-
+
+Lay- or throw bombs just slightly in front of Vitreous for the most effective damage and when the big eye starts popping out, move to either wall furthest away from you to dodge the lightning attack. Repeat this until all the eyes are gone, after which the big eye will pop out. Just keep standing south of it and spam arrows as it will be unable to do anything.
 
 ***
 
@@ -831,9 +858,18 @@ _Defeat Vitreous without being harmed._
 
 -=MISSABLE=-
 
-**Recommendations: Magic Cape, 1-2 magic potions, Arrows**
+**Recommendations: Tempered Sword, Arrows**
 
-Magic Cape is your best friend for the first phase as you can just stand in front of Vitreous and keep slashing and the eyes that keep popping out. When he only has 4 eyes left, the big eye itself will pop out. Just stand in front of the door and keep shooting at him with arrows as he won't try to do anything except getting close to you.
+The tempered sword will be your best friend unless you are also going for the boss-specific challenge to use bombs. If the latter, use the strategy described there. If not, stay in front of Vitreous and keep slashing at the little eyes. Once the big eye starts popping out, move to one of the walls currently furthest away from you and you should be able to avoid damage consistently. Do watch out for the little eyes that may come out at that specific time however; safety is more important than a quick kill. Once all the little eyes are defeated, stand south of the big eye and just keep spamming arrows as he will be unable to attack/come closer to you.
+
+***
+
+![](https://retroachievements.org/Badge/347430.png) [Elemental Master: Ice, Fire, and... Hammer? (10)]( https://retroachievements.org/achievement/314011)   
+_Completely destroy the Trinexx's Fire Head with the Ice Rod, then completely destroy the Ice Head with the Fire Rod, then Hammer the snake to death._
+
+-=MISSABLE=-
+
+This is a very magic-expensive achievement, so be sure to bring as many Magic Potions as you can. The elemental rods are a necessity to stun the heads, but they also deal damage even when they are stunned. Important to keep in mind is that you have to deal with the Fire Head first before ever doing damage to the Ice Head. Once both heads are gone, the snake will go around the room in a specific pattern, so use the hammer on the middle part 5 times for it to die.
 
 ***
 
@@ -842,18 +878,26 @@ _Defeat Trinexx without being harmed._
 
 -=MISSABLE=-
 
-**Recommendations: Golden Sword, Magic Cape, 1-2 Magic Potions, Fire and Ice rod**
+**Recommendations: Golden Sword, 1-2 Magic Potions, Fire and Ice rod**
 
-This boss might look menacing, but it's not that bad. What you want to do first is getting rid of the ice head on the right. The head movements may be confusing at first, but if you have the Golden Sword you only need to hit it 3 times. You can hit 2 times per stun with the rod. If you do this flawlessly, you should be able to kill it before the main body attacks but if not, just back off for a bit as his only attack is very predictable: the head will lunge at you when the tail starts moving faster. This attack won't hit you if you keep walking in a straight line. After taking care of the ice head, repeat the same for the fire head. Once those are down, use the Magic Cape to go invincible and you've won.
+This boss might look menacing, but it's not that bad. What you want to do first is getting rid of the ice head on the right. The head movements may be confusing at first, but if you have the Golden Sword you only need to hit it 3 times. You can hit 2-3 times per stun with the rod. If you do this flawlessly, you should be able to kill it before the main body attacks but if not, just back off for a bit as his only attack is very predictable: the head will lunge at you when the tail starts moving faster. This attack won't hit you if you keep walking in a straight line. After taking care of the ice head, repeat the same for the fire head. Once those are down, the snake will move around in a predictable pattern. Take large circles around it and when it moves slow preparing to turn around, go it for the hit. With the Golden Sword, this should only take 3 hits in total.
+
+***
+
+![](https://retroachievements.org/Badge/347714.png) [Bringing a Hammer to a Magic Fight (10)]( https://retroachievements.org/achievement/314422)   
+_Defeated Agahnim in Ganon's Tower without using a sword or bug net._
+
+-=MISSABLE=-
+
+The title of the achievement already hints at it, but you can only return Agahnim's magic by hitting it with a hammer. The hammer works the exact same as the Master Sword in this battle, so just keep reflecting magic until he inevitably dies. There are a total of three Agahnim's with only one being vulnerable so watch out for other attacks, though he is unable to use the lightning attack in this battle.
 
 ***
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129298.png) [Bested Ganon (25)]( https://retroachievements.org/achievement/2388)   
 _Defeat Ganon without being harmed._
 
-**Recommendations: Golden Sword, 1 Full Heal Potion, 2-3 Magic Potions, Magic Cape**
+**Recommendations: Golden Sword, 1 Full Heal Potion (for resets)**
 
-Ganon's fight has 4 "phases", but the first 3 are pretty much insignificant as you can take care of all of them by just going invincible and slashing at him. You'll need to drink a magic potion on his 3rd phase, but that should pose no problem as a lot of his time is spent just teleporting around. The 4th phase is where it can get slightly tricky, and where you also need to be cautious. You need to light two beacons while Ganon is shooting a fire bat at you, so make sure to light them fast with the Fire Rod. When he's visible again, ONLY attack him when you know
-where exactly he will appear, and if you can hit him the moment he appears. If you're even a second late, he'll fire his bat at you which is hard to avoid when you're close to him. Hit him so he's stunned, fire a silver arrow at him and repeat this 4 times. Take your time for the final phase and you'll be just fine. If you do take damage, reset the game and drink a full heal potion as your health/magic bar won't be full upon restart to ensure you can try it again very easily.
+Ganon can only be damaged with either the Tempered or Golden Sword during his first few phases, as no other weapons have any effect. This means there is no safe way to play by keeping your distance, and instead I recommend going ham on him as soon as you fall down the hole. If you keep slashing him as much as you can, he will only use the trident throw attack once which is fairly easy to avoid as it will go in the direction where Ganon will teleport to. For the next fire attack, just be as far away from him as possible and it won't be able to hit you, but do beware of them turning into fire bats afterwards which can be annoying. After that phase is over, follow Ganon's teleports and hit him as quickly as possible to avoid his other fire attack, but if he still does use it, just move away as far as possible (but beware of the falling floors). The 4th and final phase is where it can get slightly tricky, and where you also need to be extra cautious. You need to light two beacons while Ganon is shooting a fire bat at you, so make sure to light them fast with the Fire Rod. When he's visible again, ONLY attack him when you know where exactly he will appear, and if you can hit him the moment he appears. If you're even a second late, he'll fire his bat at you which is hard to avoid when you're close to him. Hit him so he's stunned, fire a silver arrow at him and repeat this 4 times. Take your time for the final phase and you'll be just fine. If you do take damage, reset the game and drink a full heal potion as your health/magic bar won't be full upon restart to ensure you can try it again very easily.
 
 ***
