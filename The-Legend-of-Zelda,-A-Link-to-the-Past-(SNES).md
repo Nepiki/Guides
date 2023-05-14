@@ -34,12 +34,29 @@ This step has one missable achievement:
 
 [**Step 3: Boss Achievements (11 missable)**](#step-3-boss-achievements-11-missable--total-points-135)
 
-There are multiple achievements per boss that you fight in this game. Note that once you beat a boss, it will be gone forever and cannot be fought again, therefore making all of these achievements missable. It is recommended to copy your save file to the other in-game save slots before finishing a dungeon in case you need multiple attempts.
+There are multiple achievements per boss that you fight in this game. Note that once you beat a boss, it will be gone forever and cannot be fought again, therefore making ALL of these achievements missable. It is recommended to copy your save file to the other in-game save slots before finishing a dungeon in case you need multiple attempts.
+
+[**Step 4: Miscellaneous Achievements (5 missable)**](#step-4-miscellaneous-achievements-5-missable--total-points-135)
+
+This section covers the miscellaneous achievements that can be done at most points in the game, but do keep in mind that there are a few missables here as well as three achievements that involve you having to skip entire parts of the game for later. If you want to master this game in as few playthroughs as possible, it is important to work around these achievements. I will describe what you need to prepare for in full in Section 4.
+
+This step has five missable achievement:
+
+* [Lightning Link (2)](https://retroachievements.org/achievement/313069) - This achievement needs to be done before obtaining the Master Sword.
+* [Granny's Coming Alone For The Ride (5)](https://retroachievements.org/achievement/313071) - This achievement needs to be done before obtaining the Master Sword.
+* [I Shoulda Saved the Others Too? Well Excuuuuuuse Me, Princess! (10)](https://retroachievements.org/achievement/315755) - This achievement needs you to not defeat any of the Dark World bosses before having beaten the one from the very last Dungeon, Turtle Rock.
+* [Jack of All Trades (25)](https://retroachievements.org/achievement/313073) - This achievement needs you to not have upgraded the Master Sword to the Tempered Sword, which becomes possible after the fourth dungeon in the Dark World.
+* [Link's Not Old Enough To Drink (2)](https://retroachievements.org/achievement/314433) - This achievement asks you to not get a single Bottle before beating the game.
 
 # 4) Tips and tricks (no spoilers)
 
+* You can *technically* master the entire set in one playthrough with a lot of save back-ups (see the hint under this one), though I personally wouldn't recommend it as you'll probably not have as much fun actually enjoying the game that way. If you still want to, keep the following do's and don'ts in mind:
+   * Do NOT get any bottles before beating the game.
+   * Do NOT upgrade the Master Sword to Tempered Sword before having beaten Ganon's Tower.
+   * Do NOT beat any Dark World bosses before having beaten the one from Turtle Rock, the seventh dungeon in the Dark World.
+   * Do NOT defeat the first boss of the Dark World before having obtained the Light Arrows (requires fifth/sixth dungeon beaten). 
 * Remember that the game has a built-in copy feature for save files, for a maximum of 3 slots. This can be especially useful if you want to keep a boss for later due to it being too tough, or if you want to do dungeons in a specific order as you can (kinda) do the Dark World dungeons in a different order than stated.
-* * One such example is by getting the item from the dungeon, but not beating the boss yet. This way, you can keep the boss from the first dungeon in the Dark World alive and kill him last for example.
+   * One such example is by getting the item from the dungeon, but not beating the boss yet. This way, you can keep the boss from the first dungeon in the Dark World alive and kill him last for example.
 * By visiting the ice cave in the lower-right part of the Light World and charging into the fairy statue in the middle, a bee will fly out. This bee is special as it stays alive for longer, and will attack enemies for you when you store it in a bottle. This also works on bosses, and can in some situations be very effective.
 * After beating the second dungeon in the Dark World, I recommend getting the item from the fourth dungeon in Thieves Town first. That way, you can lift up heavier stones and get a lot of items that will make parts of the game and no-damage bosses easier. For example, you can get your sword tempered and obtain the Magic Cape from the cemetery, which makes you invincible at the cost of magic points. Do keep in mind that both the Magic Cape and Cane of Byrna are NOT allowed for no-damage bosses.
 * When taking damage from a boss, your best option is to use the magic mirror to teleport back to the entrance. Resetting the game will place you at a specific spot on the map, so you'd have to walk all the way back to the dungeon.
@@ -610,14 +627,29 @@ There are a total of 26 Treasure Chests to be found in Ganon's Tower. The last 3
 
 ***
 
+![](https://retroachievements.org/Badge/346212.png) [Ferdinand Magellink (10)]( https://retroachievements.org/achievement/313062)   
+_Obtain all maps and compasses._
+
+Every dungeon, including Hyrule Castle, has a map and compass. All achievements have their locations listed, so just check what dungeon you have not completed yet from the achievement list and look there if you are missing one.
+
+***
+
 ![](https://media.retroachievements.org/Badge/345919.png) [Looted the Light World (10)]( https://retroachievements.org/achievement/312939)   
 _Open all treasure chests in the Light World (excluding dungeons)._
 
 [Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3LightOverworld.html)
 
-There are a total of ??? Treasure Chests to be found in the Light World. Getting all of the chests should be possible after having obtained the Hookshot.
+There are a total of 31 Treasure Chests to be found in the Light World. Getting all of the chests should be possible after having obtained the Titan's Mitt.
 
-Full guide will follow soon. Apologies for the inconvenience.
+I will probably go in more detail later, but for now, here are the broad locations:
+
+* Great Swamp (south of Link's house): 1 Treasure Chest
+* Hype Cave (east of Great Swamp): 4 Treasure Chests
+* Ice Rod (south-east Hyrule): 1 Treasure Chest
+* Kakariko Village: 12 Treasure Chests
+* Rock formation west of Sanctuary: 1 Treasure Chest
+* Sahasrahla Hut: 3 Treasure Chests
+* Death Mountain (East side): 9 Treasure Chests
 
 ***
 
@@ -626,23 +658,15 @@ _Open all treasure chests in the Dark World (excluding dungeons)._
 
 [Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3DarkOverworld.html)
 
-There are a total of ??? Treasure Chests to be found in the Dark World. Getting all of the chests should be possible after having obtained the Titan's Mitt.
+There are a total of 15 Treasure Chests to be found in the Dark World. Getting all of the chests should be possible after having obtained the Titan's Mitt.
 
-Full guide will follow soon.
+I will probably go in more detail later, but for now, here are the broad locations:
 
-***
-
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129322.png) [Rupee Hunter (2)]( https://retroachievements.org/achievement/960)   
-_Have 100 Rupees_
-
-See _Rupee Hoarder._
-
-***
-
-![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129323.png) [Rupee Collector (5)]( https://retroachievements.org/achievement/961)   
-_Have 400 Rupees_
-
-See _Rupee Hoarder._
+* Great Swamp (south of Link's house): 4 Treasure Chests
+* Village of Outcasts: 3 Treasure Chests
+* Misery Mire: 2 Treasure Chests
+* Death Mountain (West side): 1 Treasure Chest
+* Death Mountain (East side): 6 Treasure Chests
 
 ***
 
@@ -659,6 +683,15 @@ _Have all 20 Heart Containers_
 **Requirements: Beat all dungeons.**
 
 There are a total of 24 Heart Pieces to be found, making for a total of 6 complete hearts. I would list where you can find them but I'm lazy so instead, have this link to the [Zelda Dungeon wikipedia](https://www.zeldadungeon.net/wiki/A_Link_to_the_Past_Heart_Pieces).
+
+***
+
+![](https://retroachievements.org/Badge/351579.png) [Link Builds a Treasure Hoard (10)]( https://retroachievements.org/achievement/317103)   
+_Obtain all key items, equipment, and their upgrades._
+
+**Requirements: Beat all dungeons.**
+
+All of the individual key items and upgrades have been listed above as their own achievement, so make sure you have them all and this achievement should be yours. If you are missing something, check your item screen for empty spots, or the upgrades in the bottom-right.
 
 ***
 
@@ -899,5 +932,150 @@ _Defeat Ganon without being harmed._
 **Recommendations: Golden Sword, 1 Full Heal Potion (for resets)**
 
 Ganon can only be damaged with either the Tempered or Golden Sword during his first few phases, as no other weapons have any effect. This means there is no safe way to play by keeping your distance, and instead I recommend going ham on him as soon as you fall down the hole. If you keep slashing him as much as you can, he will only use the trident throw attack once which is fairly easy to avoid as it will go in the direction where Ganon will teleport to. For the next fire attack, just be as far away from him as possible and it won't be able to hit you, but do beware of them turning into fire bats afterwards which can be annoying. After that phase is over, follow Ganon's teleports and hit him as quickly as possible to avoid his other fire attack, but if he still does use it, just move away as far as possible (but beware of the falling floors). The 4th and final phase is where it can get slightly tricky, and where you also need to be extra cautious. You need to light two beacons while Ganon is shooting a fire bat at you, so make sure to light them fast with the Fire Rod. When he's visible again, ONLY attack him when you know where exactly he will appear, and if you can hit him the moment he appears. If you're even a second late, he'll fire his bat at you which is hard to avoid when you're close to him. Hit him so he's stunned, fire a silver arrow at him and repeat this 4 times. Take your time for the final phase and you'll be just fine. If you do take damage, reset the game and drink a full heal potion as your health/magic bar won't be full upon restart to ensure you can try it again very easily.
+
+***
+
+## Step 4: Miscellaneous achievements (5 missable) | **Total points: 135**
+
+![](https://retroachievements.org/Badge/346035.png) [Kamicucco! (2)]( https://retroachievements.org/achievement/313056)   
+_Start a cucco frenzy._
+
+Can be done at any point in the game. To get this achievement, head to Kakariko Village and find a chicken. Just keep slashing it over and over again until the chickens have decided to start a war with you.
+
+***
+
+![](https://retroachievements.org/Badge/348464.png) [It's-a Me ....Hario? ()]( https://retroachievements.org/achievement/314829)   
+_Unleash the blue rupees from a portrait of a famous lumber's Hyrulian doppelganger._
+
+In Kakariko Village, go to one of the east houses that has a portrait of Mario. Approach it and try to pull it, after which rupees will fall out.
+
+***
+
+![](https://retroachievements.org/Badge/348208.png) [Lost Woods Winner (5)]( https://retroachievements.org/achievement/314697)   
+_Win the 300 rupee prize in the Lost Woods Treasure Chest Gambling Game._
+
+Near the north-eastern exit of the Lost Woods, enter the log and play the gambling minigame. This achievement is pure RNG and therefore it's just a matter of trying over and over again until you win, but it shouldn't take too long. In case you have rupee problems, save before going there and reset on failure.
+
+***
+
+![](https://retroachievements.org/Badge/346217.png) [A Friend In Need Is a Friend Indeed? (2)]( https://retroachievements.org/achievement/313072)   
+_Be rewarded for saving a helpless life._
+
+**Requirements: Bug Net, a Bottle**
+
+South of Link's house where you can drain the water, catch one of the dying fishes with your Bug Net. Then go to a watery place (for example north-west of where you currently are) and use the bottle with the fish to release it.
+
+***
+
+![](https://retroachievements.org/Badge/346216.png) [Granny's Coming Along For The Ride [m] (2)]( https://retroachievements.org/achievement/313071)   
+_Take a trusting old lady with you on your journey._
+
+**Requirements: Magic Powder, Bug Net, a Bottle**
+
+This needs to be done before acquiring the Master Sword, after which Kakariko Village is overrun with guards. Outside a house near where the runner is located, an old lady is sweeping the floor. Sprankle some Magic Powder over her and she turns into a fairy, then capture her for the achievement to trigger.
+
+***
+
+![](https://retroachievements.org/Badge/346216.png) [Granny's Coming Along For The Ride [m] (5)]( https://retroachievements.org/achievement/313071)   
+_Take a trusting old lady with you on your journey._
+
+-=MISSABLE=-
+
+**Requirements: Magic Powder, Bug Net, a Bottle**
+
+This needs to be done before acquiring the Master Sword, after which Kakariko Village is overrun with guards. Outside a house near where the runner is located, an old lady is sweeping the floor. Sprankle some Magic Powder over her and she turns into a fairy, then capture her for the achievement to trigger.
+
+***
+
+![](https://retroachievements.org/Badge/346215.png) [Lightning Link [m] (2)]( https://retroachievements.org/achievement/313069)   
+_Catch the running man in Kakiriko village._
+
+-=MISSABLE=-
+
+**Requirements: Pegasus Boots**
+
+This needs to be done before acquiring the Master Sword, after which Kakariko Village is overrun with guards. Approach the runner from the right and as soon as the starts to run away, hold the dash button to catch up to him.
+
+***
+
+![](https://retroachievements.org/Badge/348465.png) [Golden Honey Friend (5)]( https://retroachievements.org/achievement/314830)   
+_Release the Good Bee from it's hidden home and stick it in a bottle._
+
+**Requirements: Pegasus Boots, Bug Net, a Bottle**
+
+In the cave next to where the Ice Rod is located, dash into the statue in the middle of the room inhabited by fairies. A bee will pop out, use the Bug Net to catch it and stick it in a bottle.
+
+***
+
+![](https://retroachievements.org/Badge/349631.png) [The Joy of Entomology (5)]( https://retroachievements.org/achievement/315718)   
+_Sell a rare bug to a merchant._
+
+**Requirements: Pegasus Boots, Bug Net, a Bottle**
+
+The Good Bee that you caught in the "Golden Honey Friend" achievement can be sold to the bottle merchant in Kakariko Village. Just stand in front of him, release the bee, and he will buy it from you.
+
+***
+
+![](https://retroachievements.org/Badge/349634.png) [Masonry Maneuver (5)]( https://retroachievements.org/achievement/315722)   
+_Survive the onslaught of all flying tiles without taking damage or hiding in a doorway. (No Cape or Cane of Byrna allowed.)_
+
+This achievement can be obtained as early as the Desert Palace, and is also present in the Tower of Hera, Misery Mire, and Ganon's Tower. You will have to skillfully maneuver around all flying tiles without the Cape, Cane, or hiding in the doorway, so your best method would be to either walk around and dodge them or my preferred method, standing against one wall and try to dodge them there while occasionally slashing a tile coming your way.
+
+***
+
+![](https://retroachievements.org/Badge/346214.png) [This One's on the House (2)]( https://retroachievements.org/achievement/313064)   
+_Be rewarded for your honesty with a bottleful of Medicine of Magic._
+
+**Requirements: Zora Flippers, a Bottle**
+
+Behind the waterfall next to Zora's domain where you upgrade the Boomerang and Shield, throw in a Bottle. Reply that it is yours, and you will get a free refill.
+
+***
+
+![](https://retroachievements.org/Badge/348207.png) [Link's Longbow Training Master (10)]( https://retroachievements.org/achievement/314696)   
+_Achieve a Perfect Score at the Archery Minigame._
+
+South of the Village of Outcasts is where the Archery Minigame is located. Your goal is to hit all 5 arrows on the Octopuses in the back row that are being blocked by the hands. Do so all 5 times, and the achievement is yours.
+
+***
+
+![](https://retroachievements.org/Badge/348206.png) [He's a Golddigger (5)]( https://retroachievements.org/achievement/314695)   
+_Earn up 100 rupees or more in the digging minigame. (Must have room for all of them in your purse!)._
+
+West of the Archery Minigame in the Dark World is where the digging minigame is located. Keep digging here as fast as you can until you have earned 100 rupees during a single run. As indicated by the description, make sure you have space for all of them. This depends on RNG, but 100 rupees shouldn't be too tough to get.
+
+***
+
+![](https://retroachievements.org/Badge/346096.png) [To the Hereafter (2)]( https://retroachievements.org/achievement/313057)   
+_Fulfill the flute boy's final wish and grant him eternal rest._
+
+In the Dark World where you first got the shovel, return to the Flute Boy sitting on a stump after having obtained the Flute. He will ask you to play it, after which he will turn into a stump.
+
+***
+
+![](https://retroachievements.org/Badge/349679.png) [I Shoulda Saved the Others Too? Well Excuuuuuuse Me, Princess! (10)]( https://retroachievements.org/achievement/315755)   
+_Rescue Zelda in Turtle Rock before any other maiden._
+
+-=MISSABLE=-
+
+Once arriving in the Dark World, you may not beat any of the dungeon bosses except the one of Turtle Rock. To access Turtle Rock, you will have need to made significant progress in every dungeon except for the Ice Palace to receive their items. This achievement will pop after defeating Trinexx.
+
+***
+
+![](https://retroachievements.org/Badge/346218.png) [Jack of All Trades (25)]( https://retroachievements.org/achievement/313073)   
+_Complete Ganon's Tower without ever entering while possessing a sword, exiting or dying. Must start and finish in one attempt, entirely swordless._
+
+-=MISSABLE=-
+
+Before anything else, the only way to lose your sword temporarily is to have it tempered at the smithies. This means that you must beat all dungeons, then go to the smithies to get rid of your sword, and then enter Ganon's Tower. What you can do before entering this dungeon is obtaining the Light Arrows and as many hearts and bottles with medicine/fairies (not for revival use) as possible. While this might sound like a menacing achievement, it is very doable due to how powerful the arrows and hookshot are, as well as the elemental rods and Cane of Somaria depending on if you brought Magic Potions. Remember that you may not ever exit the dungeon or die, which will permanently void this achievement for you. For Agahnim, you must use either the Bug Net or Hammer to defeat him. If you are in need of healing, there is a convenient healing spot on the third floor after the bridge where you are barraged by cannons. Use the Pegasus Boots to charge off of the blocks to the south where a breakable wall if located, with many refreshing items inside.
+
+***
+
+![](https://retroachievements.org/Badge/347716.png) [Link's Not Old Enough To Drink (10)]( https://retroachievements.org/achievement/314433)   
+_Defeat Ganon and reach the Triforce without having collected any bottles during the game._
+
+-=MISSABLE=-
+
+For this achievement, you may not have picked up a single Bottle before defeating Ganon. Check "All Your Bottles Are Belong To Us" to see what locations you should avoid. This also means that during this playthrough, you will not have access to healing outside of enemy/pot drops, nor the revival of a fairy.
 
 ***
