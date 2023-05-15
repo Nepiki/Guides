@@ -4,18 +4,22 @@
 
 Welcome to the Shadow Hearts Missable Guide!
 
-Number of missable achievements: 25
+[Game Page](https://retroachievements.org/game/2989)
 
-This set has 160 achievements of which only 25 are missable. That is a pretty good rate for a big JRPG.
+Missable Achievements: 25 out of 160
 
-First read the first post in the forum https://retroachievements.org/viewtopic.php?t=18268 so you understand you need to play this on a fresh new game (Not NG+)
+Number of Playthroughs needed: 1 (You can just redo the last bit of the game for a different ending)
 
-The game is basically split in two parts. The first half takes place in Asia while the second part and the endgame takes place in Europe. 
+Please read the [Forum Topic](https://retroachievements.org/viewtopic.php?t=18268) to understand the following: You need to play this on a fresh new game (Not NG+)
 
-Most Missables are encountered in the first half because the story and area progression is very linear and you won't be able to return to earlier areas. So make sure to save in the beginning of every new area you arrive in.
+The game is basically split into two parts. While the first half takes place in a fictional, otherworldy version of Asia the second part and the endgame take place in Europe. 
+
+Most missables are encountered in the first half because the story and area progression is very linear and you won't be able to return to earlier areas. So make sure to save in the beginning of every new area you arrive in.
 The second half lets you travel around the world more freely and visit earlier areas, BUT there is some missable endgame sidequest content. So make sure to save before entering the last dungeon.
 
-Secondly: Be aware of missable monsters for the library achievement
+# 2) Before you play 
+
+Be aware of those two achievements that require you to fill out the Bestiary.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/300326.png">
 
@@ -32,7 +36,25 @@ Defeat at least one of every kind of monster that shows up in Asia.
 Defeat at least one of every kind of monster that shows up in the entire game. Don't forget if you're on NG+ to claim a reward from Old Carl!
 ```
 
-# 2) Missables
+Fortunately the monsters are listed in the order of appearance in the game. So if you are missing a numbered entry from an area before, reload and make sure you have everything.
+Apart from the main story areas and optional areas make sure you have defeated two special Wind Shear Types unique to the Shanghai Pit Fights and two unique to the London Pit Fights, clear the [malice](https://shadowhearts.fandom.com/wiki/Malice_Meter) once every Malice Meter Level to defeat four evil spirits in Asia, do the same in Europe and then they will be replaced by the Masks which are tied to an Ending.
+This sounds like a lot but it's not hard if you know not to miss it.
+
+Shanghai Pit Fights: No. 101: Prototype Wind Shear, No. 102: Custom Wind Shear
+
+London Pit Fights: No. 103: Full Armor Windshear, No. 104: Perfect Wind Shear
+
+Graveyard Asia: No. 105 - 108: Evil 1 - 4
+
+Graveyard Europe: No. 109 - 112: Gust Eins - Gust Vier
+
+Endgame: No. 113 - 120: Sword, Grail, Staff and Gold Mask (Normal and damaged type)
+
+You can look up the full Monster List [here](https://gamefaqs.gamespot.com/ps2/459510-shadow-hearts/faqs/18841)
+
+Take note that you unlike other achievements can also unlock this in NG+ in case you missed some.
+
+# 3) Asia
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/288374.png">
 
@@ -50,7 +72,7 @@ There are only 2 items here and they are not very well hidden. You can do this.
 Obtain all treasure found in the Plains (not including Zhaoyang Village)
 ```
 
-There are 5 treasures here.
+There are 5 treasures here. Some are tricky to find. If you can't find everything refer to a guide of your liking.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/288370.png">
 
@@ -68,18 +90,16 @@ There are 6 treasures here.
 Obtain all treasure in Fengtian and the Sewers.
 ```
 
-There are 8 Treasures 
+There are 8 Treasures here.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/296001.png">
 
 ```
-[Yuri the Turtle Catcher ] (3)
+[Yuri the Turtle Catcher] (3)
 Receive a reward for finding the man's turtle in Dalian. Any reward for this is fine.
 ```
 
 You can only do this before certain events in Dalian. Just do it right when you arrive.
-
-
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/296003.png">
 
@@ -87,6 +107,8 @@ You can only do this before certain events in Dalian. Just do it right when you 
 [Fishing for Treasure] (5)
 Obtain all treasure in Dalian.
 ```
+
+There are 8 treasures.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/296004.png">
 
@@ -102,12 +124,15 @@ Find a secret stash of cash in Dalian.
 Find a Third Key in the field in Dalian.
 ```
 
+At a later point in Dalian the turtle search gets replaced by a digging mini game.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/297291.png">
 
 ```
 [Looting from the Smugglers] (5)
 Obtain all treasure on the Smuggler's Boat.
 ```
+There are 3 treasures on the boat.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/299341.png">
 
@@ -116,12 +141,16 @@ Obtain all treasure on the Smuggler's Boat.
 Open all treasure chests in the Temple Ruins, Dan Tian Court, Jiang Palace, and Ni Wan Palace. Empty Chests are included.
 ```
 
+There are 36 treasures. This can be very tough, but fun if you are a dungeon crawler. Don't worry if you don't get every chest before fighting the trial boss because you can come back (as long as you don't beat the next dungeon because that will end the Asia part of the game).
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/298034.png">
 
 ```
 [Fighting For the Past] (25)
 Win ten rounds in the Pit Fights in Shanghai as Yuri and obtain Anne's Cross along with a story of the past.
 ```
+
+This is not too hard because Yuri is pretty strong. Make sure to defeat two Wind Shear enemies that are unique to this.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/299694.png">
 
@@ -130,12 +159,16 @@ Win ten rounds in the Pit Fights in Shanghai as Yuri and obtain Anne's Cross alo
 Give the correct responses in the torture scene to unlock access to Kowloon.
 ```
 
+The correct responses are always the top ones.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/299651.png">
 
 ```
 [Sharp Eyed] (10)
 Conquer all levels of the dog mini game and win a Monkey's Paw for your troubles.
 ```
+
+Go down to the harbor to play this game. Another mini game that becomes unaccessible later in the story.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/299877.png">
 
@@ -155,11 +188,12 @@ Defeat the Cursed Puppet.
 
 ```
 [Picked it Up For the Articles] (1)
-Conquer all levels of the dog mini game and win a Monkey's Paw for your troubles.
+Find the Erotic Book.
 ```
 
+Search Kuhai Tower to get this (It's in the same room you find the Red Phoenix Votive Picture).
 
-EUROPE
+# 4) Europe
 
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/302063.png">
@@ -191,7 +225,7 @@ Talk to Joshua (The boy who stole your wallet) when you are in the hideout in Lo
 [Yuri the Priest] (3)
 [Fusion] Help the fighting couple make up and obtain the Water Gravestone for free in return.
 ```
--You have to do this before going to the Neameeto Float. You can still get the Gravestone later, but to unlock the achievement you have to do this sidequest which is only available before that point.
+You have to do this before going to the Neameeto Float. You can still get the Gravestone later, but to unlock the achievement you have to do this sidequest which is only available before that point.
 Hint: Find the couple in the inn in Rouen
 Spoiler: Go to the church afterwards and in the confessional tell him to buy a ring. Return to the inn and receive the gravestone.
 
@@ -210,9 +244,4 @@ When you first enter Nemeton Monestary you can find this Stone lying around in t
 [Forbidden Texts] Trade for the Pulse Tract.
 ```
 
-
-
-
-
-
-
+You need to complete the [Cave Temple](https://shadowhearts.fandom.com/wiki/Cave_Temple) and the [Ancient Ruins](https://shadowhearts.fandom.com/wiki/Ancient_Ruins). You also need the [Codex of Lurie](https://shadowhearts.fandom.com/wiki/Codex_of_Lurie) and received [Amon](https://shadowhearts.fandom.com/wiki/Amon) from Albert Simon (So you basically have to complete all of the optional endgame content). Look at the [Erotic Book](https://shadowhearts.fandom.com/wiki/Erotic_Book) on the world map. Now you can go to Roger Bacon and trade it for the Pulse Tract.
