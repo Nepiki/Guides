@@ -15,7 +15,7 @@ Please read the [Forum Topic](https://retroachievements.org/viewtopic.php?t=1826
 The game is basically split into two parts. While the first half takes place in a fictional, otherworldy version of Asia the second part and the endgame take place in Europe. 
 
 Most missables are encountered in the first half because the story and area progression is very linear and you won't be able to return to earlier areas. So make sure to save in the beginning of every new area you arrive in.
-The second half lets you travel around the world more freely and visit earlier areas, BUT there is some missable endgame sidequest content. So make sure to save before entering the last dungeon.
+The second half lets you travel around the world more freely and visit earlier areas, BUT there is some missable [endgame sidequest content](https://shadowhearts.fandom.com/wiki/Shadowhearts:SH1_Sidequests). So make sure to save before entering the last dungeon.
 
 # 2) Before you play 
 
