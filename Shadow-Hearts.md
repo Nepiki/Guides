@@ -69,7 +69,7 @@ There are only 2 items here and they are not very well hidden. You can do this.
 
 ```
 [Hunting Treasure in the Moonlight] (5)
-Obtain all treasure found in the Plains (not including Zhaoyang Village)
+Obtain all treasure found in the Plains (not including Zhaoyang Village).
 ```
 
 There are 5 treasures here. Some are tricky to find. If you can't find everything refer to a guide of your liking.
@@ -176,7 +176,7 @@ Go down to the harbor to play this game. Another mini game that becomes unaccess
 
 ```
 [Cursed Treasure Hunting] (10)
-Obtain all treasure in the Kowloon Fortress
+Obtain all treasure in the Kowloon Fortress.
 ```
 
 There are 9 treasures here. Remember to defeat every enemy once for the Bestiary. Defeating the boss without Judgement Ring fails also provides an achievement. This guide leaves those out because it's pretty self explanatory.
@@ -213,7 +213,7 @@ Talk to Joshua (The boy who stole your wallet) when you are in the hideout in Lo
 
 ```
 [Pulled from the Flames] (5)
-[Fusion] Obtain the Destruction Stone
+[Fusion] Obtain the Destruction Stone.
 ```
 
 Before fighting Albert Simon, the boss in the Nemeton Monastery Basement, you have to solve the torch puzzle by lighting all the colored torches and opening all the chests accordingly. Then you go to the well-like structure for the Destruction Stone to appear.
