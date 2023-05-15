@@ -48,9 +48,9 @@ London Pit Fights: No. 103: Full Armor Windshear, No. 104: Perfect Wind Shear
 
 Graveyard Asia: No. 105 - 108: Evil 1 - 4
 
-Graveyard Europe: No. 109 - 112: Gust Eins - Gust Vier
+Graveyard Europe: No. 109 - 112: Gust Eins - Gust Vier (locks you out of 105 - 108)
 
-Endgame: No. 113 - 120: Sword, Grail, Staff and Gold Mask (Normal and damaged type)
+Endgame: No. 113 - 120: Sword, Grail, Staff and Gold Mask (Normal and damaged type) (locks you out of 109 - 112)
 
 You can look up the full Monster List [here](https://gamefaqs.gamespot.com/ps2/459510-shadow-hearts/faqs/18841)
 
