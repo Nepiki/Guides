@@ -117,6 +117,8 @@ There are 8 treasures.
 Find a secret stash of cash in Dalian.
 ```
 
+At the end of the events in Dalian go back to Sea Mother who hints at a secret stash and gives you the hint: "where the turtle looks take three steps". The restaurant is called 海龟饭店 (Hǎiguī Fàndiàn) = Sea Turtle Restaurant. Take three steps 
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/296237.png">
 
 ```
