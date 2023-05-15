@@ -179,12 +179,7 @@ Go down to the harbor to play this game. Another mini game that becomes unaccess
 Obtain all treasure in the Kowloon Fortress
 ```
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/299878.png">
-
-```
-[Wasn't Expecting to Find That] (5)
-Defeat the Cursed Puppet.
-```
+There are 9 treasures here. Remember to defeat every enemy once for the Bestiary. Defeating the boss without Judgement Ring fails also provides an achievement. This guide leaves those out because it's pretty self explanatory.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/300322.png">
 
