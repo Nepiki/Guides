@@ -219,6 +219,8 @@ Talk to Joshua (The boy who stole your wallet) when you are in the hideout in Lo
 [Fusion] Obtain the Destruction Stone
 ```
 
+Before fighting Albert Simon, the boss in the Nemeton Monastery Basement, you have to solve the torch puzzle by lighting all the colored torches and opening all the chests accordingly. Then you go to the well-like structure for the Destruction Stone to appear.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/301840.png">
 
 ```
