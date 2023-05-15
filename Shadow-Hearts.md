@@ -19,6 +19,8 @@ The second half lets you travel around the world more freely and visit earlier a
 
 # 2) Before you play 
 
+__A) Bestiary__
+
 Be aware of those two achievements that require you to fill out the Bestiary.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/300326.png">
@@ -53,6 +55,10 @@ Endgame: No. 113 - 120: Sword, Grail, Staff and Gold Mask (Normal and damaged ty
 You can look up the full Monster List [here](https://gamefaqs.gamespot.com/ps2/459510-shadow-hearts/faqs/18841)
 
 Take note that you unlike other achievements can also unlock this in NG+ in case you missed some.
+
+__B) Point of no return__
+
+If you want to unlock both endings with one playthrough the optimal save point is right at the end of the sequence of actions needed for the [Good Ending](https://shadowhearts.fandom.com/wiki/Shadowhearts:SH1_Sidequests/GoodEnd). This is right before you unlock [Overcoming Disbelief](https://retroachievements.org/achievement/273230) by reading the small tombstone with Yuri and before you enter the last dungeon 'Neameto Float'.
 
 # 3) Asia
 
@@ -117,7 +123,7 @@ There are 8 treasures.
 Find a secret stash of cash in Dalian.
 ```
 
-At the end of the events in Dalian go back to Sea Mother who hints at a secret stash and gives you the hint: "where the turtle looks take three steps". The hint is a bit more easy to understand if can read Chinese Characters. The restaurant is called 海龟饭店 (Hǎiguī Fàndiàn) = Sea Turtle Restaurant. Take three steps out of the door to find it.
+At the end of the events in Dalian go back to Sea Mother who hints at a secret stash and gives you the hint: "where the turtle looks take three steps". The hint is a bit more easy to understand if you can read Chinese Characters. The restaurant is called 海龟饭店 (Hǎiguī Fàndiàn) = Sea Turtle Restaurant. Take three steps out of the door to find it.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/296237.png">
 
