@@ -53,7 +53,7 @@ Dummy section that can be used for any other comments not already applied in the
 
 Here is where you list the achievements and a guide for each. If multiple achievements are similar to each other and don't need a separate guide, feel free to put multiple achievement blocks below each other with a description after the final one.
 
-For achievement blocks, please copy the one you prefer from [this page](https://github.com/RetroAchievements/guides/wiki/Achievement-Code-Blocks).
+For achievement blocks, please copy the one you prefer from [this page](https://github.com/RetroAchievements/guides/wiki/Achievement-Code-Blocks), or use this [generator](https://raguides-template-generator.vercel.app/) to convert all achievements of a set.
 
 ## Step 2: Dummy Step 2 | **Total points: 999**
 
