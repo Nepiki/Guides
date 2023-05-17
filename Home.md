@@ -32,6 +32,7 @@ List of platforms with guides
 ### Sega
 * [Master System](https://github.com/RetroAchievements/guides/wiki/Master-System)
 * [Genesis/Mega Drive](Mega-Drive)
+* [Sega CD](Sega-CD)
 * [Game Gear](Game-Gear)
 * [Saturn](Saturn)
 
