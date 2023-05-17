@@ -11,7 +11,7 @@
 5. For the achievements within your guide, you can use either of the following to make it convenient for yourself and just focus on writing:
    * [Achievement Block Generator](https://raguides-template-generator.vercel.app/), to convert all of the achievements of a set into achievement code blocks that can easily be copied to your guide.
    * [Achievement Block Templates](https://github.com/RetroAchievements/guides/wiki/Achievement-Code-Blocks), loose achievement block templates if you prefer to create your own.
-6. Save the page.
+6. Save the page. Remember that you can also save it if it's not finished yet, but if you do, please put (WIP) before the title of the game to indicate so!
 7. When the achievement guide is complete, please go to the directory of the game and add it to the table in alphabetical order. In the "Guide" column, use either "Full", "[m]", or anything else that describes your guide in one word.
 
 ## Take note!
