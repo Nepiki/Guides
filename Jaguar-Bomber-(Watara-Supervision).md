@@ -85,7 +85,7 @@ The Stage 3 boss is a ferocious dragon with bad breath.  It can only move vertic
 _Complete Stage 4_
 </pre></big>
 
-The final stages features another split road with even more enemies than last time.  This is a good opportunity to get the rest of the score you need for the score based achievements.  If you need a breather, head to the left or right of the screen and keep firing.  The land based enemies will not appear here, but you still need to be alert for any bullets heading your way.
+The final stages features another split road with even more enemies than last time.  This is a good opportunity to get the rest of the score you need for the score based achievements.  If you need a breather, head to the left or right of the screen and keep firing.  The land based enemies will not appear here, but you still need to be alert for any bullets heading your way.  This level also has a surprise ship formation towards the end of the level.  A squadron of ships will come up from the bottom and destroy you if they hit.  Dodge between them again to avoid getting hit.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/180608.png">
 
@@ -125,6 +125,19 @@ _Score 60000 points, decimating the enemy forces_
 [Aim High (10)](https://retroachievements.org/achievement/160508)
 _Score 80000 points, just because you can_
 </pre></big>
+
+Earning 80k points in a single run can be difficult.  Especially in the early levels, try to focus on the flying enemies, since they are worth 200 points compared to the tanks granted 100 points.  In later levels, especially level 4, prioritize the enemies that shoot horizontally, as they are worth 3x as much as the basic tank enemies that accompany them.  In some cases, it may be worth a risky move to earn a few more points, but keep in mind that respawning may take a while and can cause you to lose more points in the long run.
+  
+Enemies
+* Tanks: 100 Points
+* Flying: 200 Points
+* Large Ground Enemies: 300 Points
+
+Bosses
+* Boss 1: 1000 Points
+* Boss 2: 2000 Points
+* Boss 3: 3000 Points
+* Boss 4: 4000 points
 
 ## Step 3: 1CC Playthroughs | **Total points: 35**
     
