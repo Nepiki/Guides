@@ -1,5 +1,9 @@
 ![image](https://github.com/RetroAchievements/guides/assets/120497130/2d779d1c-0f22-4896-bc5d-f98143073eb4)
 
+RAGuide Author: [Sutarion](https://retroachievements.org/user/Sutarion)
+Special Thanks: [Hotscrock](https://retroachievements.org/user/Hotscrock)
+Set Authors: [BahamutVoid](https://retroachievements.org/user/BahamutVoid)
+
 # 1) Synopsis
 
 |   |   |
