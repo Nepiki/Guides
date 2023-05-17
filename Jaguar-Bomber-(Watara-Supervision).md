@@ -40,6 +40,8 @@ The first stage introduces all of the enemies you'll encounter except one.  Most
 _Defeat the Stage 1 Guardian without losing a life_
 </pre></big>
 
+![image](https://github.com/RetroAchievements/guides/assets/120497130/887ee757-cdd7-4e43-8912-18a1781cca10)
+
 The Stage 1 boss is a massive alien ship with an impressive array of forward facing guns.  Unfortunately for the boss, it cannot move and neither can its cannons.  There is a safe spot right between the outer cannons and inner cannons on both sides that you can place your ship in and fire at will on the boss.  Keep in mind that the closer you are to the boss, the faster your ship will fire.  The only surprise ship formation is towards the end of the level when a fleet of enemies come up from the bottom of the screen.  Dodge between them to avoid getting hit.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/180603.png">
@@ -76,6 +78,9 @@ Stage 3 features another road, but this one splits off into different paths full
 _Defeat the Stage 3 Guardian without losing a life_
 </pre></big>
 
+![image](https://github.com/RetroAchievements/guides/assets/120497130/7f50dcd3-ca5f-49e4-aad9-7ff5fa5029e7)
+
+
 The Stage 3 boss is a ferocious dragon with bad breath.  It can only move vertically but boasts a lot of fire power.  Fortunately, this boss also has a safe spot which makes it a breeze.  Stick to the bottom of the screen and position yourself directly left of the bullet it shoots from its mouth.  If you are in this position, nothing can harm you (even though it will come close).  Fire away to victory!
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/180607.png">
@@ -94,7 +99,7 @@ The final stages features another split road with even more enemies than last ti
 _Defeat the Stage 4 Guardian without losing a life_
 </pre></big>
 
-The final boss is a UF...Oblong?  This boss will start by moving downward in the center.  This is the most dangerous part of the fight, so I recommend hiding in the top corners of the screen until it reaches the bottom.  After this, you can expertly dodge the horizontal bullets it shoots while it moves up or down.  The best way to hit it is to fire ahead of it as it moves from left to right at the top of the screen.  It has an impressive amount of HP, but eventually it will go down, earning this achievement!
+The final boss is a UF...Oblong?  This boss will start by moving downward in the center.  Hiding in the bottom corners of the screen will prevent you from being hit from any of its bullets. Once it starts to move in a square pattern, pop out while it moves upward.  The best way to hit it is to fire ahead of it as it moves from left to right at the top of the screen.  It has an impressive amount of HP, but eventually it will go down, earning this achievement!
 
 ## Step 2: Scores | **Total points: 21**
 
@@ -126,12 +131,12 @@ _Score 60000 points, decimating the enemy forces_
 _Score 80000 points, just because you can_
 </pre></big>
 
-Earning 80k points in a single run can be difficult.  Especially in the early levels, try to focus on the flying enemies, since they are worth 200 points compared to the tanks granted 100 points.  In later levels, especially level 4, prioritize the enemies that shoot horizontally, as they are worth 3x as much as the basic tank enemies that accompany them.  In some cases, it may be worth a risky move to earn a few more points, but keep in mind that respawning may take a while and can cause you to lose more points in the long run.
+Earning 80k points in a single run can be difficult, but the goal is not particularly tight.  Especially in the early levels, try to focus on the flying enemies, since they are worth 200 points compared to the tanks granted 100 points.  In later levels, especially level 4, prioritize the enemies that shoot horizontally, as they are worth 2x as much as the basic tank enemies that accompany them.  In some cases, it may be worth a risky move to earn a few more points, but keep in mind that respawning may take a while and can cause you to lose more points in the long run.
   
 Enemies
 * Tanks: 100 Points
 * Flying: 200 Points
-* Large Ground Enemies: 300 Points
+* Large Enemies: 300 Points
 
 Bosses
 * Boss 1: 1000 Points
@@ -148,7 +153,9 @@ Bosses
 _Reach the ending without ever running out of lives_
 </pre></big>
 
-All levels have a safe spot about midway up the screen in the leftmost and rightmost columns.  While staying in this spot, enemies will fire horizontally just above your ship, preventing them from hitting you.  Be sure to continue firing to destroy any flying enemies that come from offscreen.  The number of points you earn using this strategy is drastically reduced since most enemies will fly by you unharmed.  This means fewer extra lives, but you shouldn't need them.
+![image](https://github.com/RetroAchievements/guides/assets/120497130/a73aeed3-61a1-49a7-9040-1157f2f59f9f)
+
+All levels have a safe spot about midway up the screen in the leftmost and rightmost columns.  While staying in this spot, enemies will fire horizontally just above your ship, preventing them from hitting you.  Be sure to continue firing to destroy any flying enemies that come from offscreen.  The number of points you earn using this strategy is drastically reduced since most enemies will fly by you unharmed.  This means fewer extra lives, but you shouldn't need them.  You may need to adjust your position slightly, such as when the enemies come up from the bottom on Stage 1 and 4, but for the most part this location is safe.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/180613.png">
 
