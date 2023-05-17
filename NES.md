@@ -2,7 +2,7 @@ List of Guides (Alphabetical)
 
 |Game|Guide|RA Page|
 |:--|:--:|:--:|
-|Adventures of Dino Riki, The|[Full](Adventures-of-Dino-Riki-achievement-guide-roadmap)|[1529](https://retroachievements.org/game/1529) |
+|Adventures of Dino Riki, The|[Full](Adventures-of-Dino-Riki,-The-(NES))|[1529](https://retroachievements.org/game/1529) |
 |Blaster Master|[Full](Blaster-Master-(NES))|[1459](https://retroachievements.org/game/1459)|
 |Final Fantasy III (J)|[Full](Final-Fantasy-III-(J)-(NES))|[5553](https://retroachievements.org/game/5553)|
 |Ghoul School|[Full](Ghoul-School-(NES))|[1711](https://retroachievements.org/game/1711)|
