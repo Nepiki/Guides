@@ -27,6 +27,7 @@ List of platforms with guides
 * [GameBoy](Game-Boy)
 * [GameBoy Color](Game-Boy-Color)
 * [GameBoy Advance](Game-Boy-Advance)
+* [Nintendo DS](Nintendo-DS)
 
 ### Sega
 * [Master System](https://github.com/RetroAchievements/guides/wiki/Master-System)
@@ -48,4 +49,5 @@ List of platforms with guides
 * [PC Engine](PC-Engine)
 
 ### Other
-* [Arcade](https://github.com/RetroAchievements/guides/wiki/Arcade)
+* [Arcade](Arcade)
+* [Watara Supervision](Watara-Supervision)
