@@ -1,3 +1,5 @@
+![](https://i.imgur.com/qPjTG78.png)
+
 # 1) Synopsis
 
 |   |   |
