@@ -13,12 +13,12 @@
 # Synopsis
   |  
 -- | --
-Set Difficulty | 6/10
-Approximate time to master | 5 hours
+Set Difficulty | 8/10
+Approximate time to master | 8 hours
 Minimum numbers of playthroughs needed | 1
 Number of missable achievements | 0
 Does difficulty affect achievements? | Not applicable
-Hardest achievement of the set | Uncanny Performance
+Hardest achievement of the set | Waste Hopper & Sand Hopper
 
 # Introduction
 In this section, you can give a short synopsis about the game, your 
@@ -105,7 +105,7 @@ Lily Islands:
 Bow Wow Falls:   
 <details> 
 <summary>Map</summary> 
-<img src="https://i.imgur.com/DJUwjze.png"> 
+<img src="https://i.imgur.com/hJVckNM.png"> 
 </details> 
 
 Mower Mania:
@@ -275,14 +275,16 @@ Uncanny Crusher:
 https://www.youtube.com/watch?v=q4_soUnrZ24
 
 Boom Boom Barrel:
-
-
+<details> 
+<summary>Map</summary> 
+<img src="https://i.imgur.com/Pj6rI3t.png"> 
+</details> 
 
 Reservoir Frogs:
-
-
-
-
+<details> 
+<summary>Map</summary> 
+<img src="https://i.imgur.com/ntlWvMR.png"> 
+</details> 
 
 ***
 
@@ -290,26 +292,34 @@ Reservoir Frogs:
 _Complete Desert Zone._
 
 Cactus Point:
-
-
+<details> 
+<summary>Map</summary> 
+<img src="https://i.imgur.com/r1zUhk4.png"> 
+</details> 
 
 Boulder Alley:
+<details> 
+<summary>Map</summary> 
+<img src="https://i.imgur.com/Z8RbXDR.png"> 
+</details> 
 
-
-
-Tumbling Alley:
-
-
+Tumbling Valley:
+<details> 
+<summary>Map</summary> 
+<img src="https://i.imgur.com/cBW4QEa.png"> 
+</details> 
 
 Crumbled Point:
-
-
+<details> 
+<summary>Map</summary> 
+<img src="https://i.imgur.com/dfu7Qi9.png"> 
+</details> 
 
 Big Boulder Alley:
-
-
-
-
+<details> 
+<summary>Map</summary> 
+<img src="https://i.imgur.com/cg1d7PR.png"> 
+</details> 
 
 ***
 
@@ -317,10 +327,10 @@ Big Boulder Alley:
 _Open the ruin door in Tropical Zone._
 
 Tropical Trouble:
-
-
-
-
+<details> 
+<summary>Map</summary> 
+<img src="https://i.imgur.com/OzgVhT9.png"> 
+</details> 
 
 ***
 
