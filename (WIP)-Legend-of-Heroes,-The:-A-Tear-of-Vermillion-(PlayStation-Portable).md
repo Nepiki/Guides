@@ -51,6 +51,14 @@ Dummy step. Remove if unnecessary.
 
 ## Step 1: Chapter 1 | **Total points: 64**
 
+<details>
+
+<summary>
+
+### Story-related achievement in toggle: 2
+
+</summary>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220061.png">
 
 <big><pre>
@@ -58,7 +66,7 @@ Dummy step. Remove if unnecessary.
 _Mile and Avin are now grown and decide to depart to find Eimelle together_
 </pre></big>
 
-Story-related achievement. This achievement will trigger after the conversation with Mile at the village entrance after becoming adults.
+This achievement will trigger after the conversation with Mile at the village entrance after becoming adults.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220695.png">
 
@@ -67,7 +75,9 @@ Story-related achievement. This achievement will trigger after the conversation 
 _Avin and Mile prove their worth and leave on their journey to find Eimelle_
 </pre></big>
 
-Story-related achievement. This achievement will trigger after the villagers bid you farewell on your journey.
+This achievement will trigger after the villagers bid you farewell on your journey.
+
+</details>
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220696.png">
 
@@ -94,6 +104,14 @@ _Read a book in the Phildin library that adds a history entry_
 **Point of no return: after revisiting the capital at the start of Chapter 2**
 
 After arriving at the capital of Phildin for the first time, go one screen north and one east to reach the library. The book you are looking for is in the top-right side of the library, indicated by a red exclamation mark.
+
+<details>
+
+<summary>
+
+### Story-related achievements in toggle: 2
+
+</summary>
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220097.png">
 
@@ -102,7 +120,7 @@ After arriving at the capital of Phildin for the first time, go one screen north
 _Avin and Mile complete the first quest in their test to become Adventurers_
 </pre></big>
 
-Story-related achievement. This achievement will trigger after having completed your first task for the Adventurers Guild. You need to collect donations, which means you have to enter every house (except the library) and talk to the people with a red exclamation mark. Once you've got every house, make your way to the fighting couple, and then to the church.
+This achievement will trigger after having completed your first task for the Adventurers Guild. You need to collect donations, which means you have to enter every house (except the library) and talk to the people with a red exclamation mark. Once you've got every house, make your way to the fighting couple, and then to the church.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220095.png">
 
@@ -111,7 +129,9 @@ Story-related achievement. This achievement will trigger after having completed 
 _Found Bang Bang and returned him to Fururu (albeit a bit dirty) and completed the second test._
 </pre></big>
 
-Story-related achievement. Head into the waterways and make your way to the end to find Fururu's teddy bear, then return to the Adventurers Guild.
+Head into the waterways and make your way to the end to find Fururu's teddy bear, then return to the Adventurers Guild.
+
+</details>
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220096.png">
 
@@ -126,6 +146,14 @@ _Obtain the Swordmaster 2 book from Fururu's mom_
 
 After having found Fururu's teddy bear in the waterways, go to where Fururu lives and talk to her mom to get the book. Fururu's house is located at the lower level of Phildin right next to the Adventurers Guild, behind a wooden door in the north-east.
     
+<details>
+
+<summary>
+
+### Story-related achievements in toggle: 2
+
+</summary>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220698.png">
 
 <big><pre>
@@ -133,7 +161,7 @@ After having found Fururu's teddy bear in the waterways, go to where Fururu live
 _Avin and Mile complete the final test and become Adventurers_
 </pre></big>
 
-Story-related achievement. After having finished the third task for the Adventurers Guild, return there for this achievement to trigger.
+After having finished the third task for the Adventurers Guild, return there for this achievement to trigger.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220699.png">
 
@@ -142,7 +170,9 @@ Story-related achievement. After having finished the third task for the Adventur
 _Save Tibri Village from bandits_
 </pre></big>
 
-Story-related achievement. Triggers after rescuing the villagers of Tibri Village.
+Triggers after rescuing the villagers of Tibri Village.
+
+</details>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220701.png">
 
@@ -173,6 +203,14 @@ In chronological order:
 12. **Prayer Woods** - Silver Anklet (On the second screen, keep going straight up from the entrance)
 13. **Prayer Woods** - Royal Powder (On the second screen in the top-middle)
     
+<details>
+
+<summary>
+
+### Story-related achievement in toggle: 1
+
+</summary>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220700.png">
 
 <big><pre>
@@ -180,7 +218,9 @@ In chronological order:
 _Complete chapter 1 upon learning of Octum's Apostles and why Eimelle is sought out_
 </pre></big>
 
-Story-related achievement. Pops up at the beginning of Chapter 2.
+Pops up at the beginning of Chapter 2.
+
+</details>
 
 ## Step 2: Dummy Step 2 | **Total points: 999**
 
