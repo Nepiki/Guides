@@ -52,11 +52,9 @@ Dummy step. Remove if unnecessary.
 ## Step 1: Chapter 1 | **Total points: 64**
 
 <details>
-
 <summary>
 
 ### Story-related achievement in toggle: 2
-
 </summary>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220061.png">
@@ -106,11 +104,9 @@ _Read a book in the Phildin library that adds a history entry_
 After arriving at the capital of Phildin for the first time, go one screen north and one east to reach the library. The book you are looking for is in the top-right side of the library, indicated by a red exclamation mark.
 
 <details>
-
 <summary>
 
 ### Story-related achievements in toggle: 2
-
 </summary>
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220097.png">
@@ -147,11 +143,9 @@ _Obtain the Swordmaster 2 book from Fururu's mom_
 After having found Fururu's teddy bear in the waterways, go to where Fururu lives and talk to her mom to get the book. Fururu's house is located at the lower level of Phildin right next to the Adventurers Guild, behind a wooden door in the north-east.
     
 <details>
-
 <summary>
 
 ### Story-related achievements in toggle: 2
-
 </summary>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220698.png">
@@ -204,11 +198,9 @@ In chronological order:
 13. **Prayer Woods** - Royal Powder (On the second screen in the top-middle)
     
 <details>
-
 <summary>
 
 ### Story-related achievement in toggle: 1
-
 </summary>
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/220700.png">
