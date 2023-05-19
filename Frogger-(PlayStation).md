@@ -1,12 +1,42 @@
 # Table of Contents:
-* [Synopsis](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#synopsis) 
-* [Introduction](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#introduction) 
-* [Controls, Tips, & Tricks](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#controls-tips--tricks) 
-* [Step 1: Complete all levels](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-1-complete-all-levels--total-points-160) 
-* [Step 2: Speedrun!](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-2-speedrun--total-points-120) 
-* [Step 3: Deathless!](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-3-deathless--total-points-20) 
-* [Step 4: Miscellaneous Cleanup](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-4-miscellaneous-cleanup--total-points-75) 
-* [Credits](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#credits)
+> [Synopsis](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#synopsis) 
+
+> [Introduction](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#introduction) 
+
+> [Credits](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#credits)
+
+> [Controls, Tips, & Tricks](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#controls-tips--tricks) 
+
+> [Step 1: Complete all levels](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-1-complete-all-levels--total-points-160) 
+>>><details><summary>Retro Zone</summary>
+
+>>>[Retro Level 1](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-1)
+
+>>>[Retro Level 2](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-2)
+
+>>>[Retro Level 3](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-3)
+
+>>>[Retro Level 4](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-4)
+
+>>>[Retro Level 5](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-5)
+</details>
+
+>> Lily Zone
+>>> [Lily Islands](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#lily-islands)
+
+>>> [Bow Wow Falls](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#bow-wow-falls)
+
+>>> [Mower Mania](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#mower-mania)
+
+>>> [Spinning Lilies](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#spinning-lilies)
+
+>>> [Bow Wow Revenge](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#bow-wow-revenge)
+
+
+> [Step 2: Speedrun!](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-2-speedrun--total-points-120) 
+
+> [Step 3: Deathless!](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-3-deathless--total-points-20) 
+> [Step 4: Miscellaneous Cleanup](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-4-miscellaneous-cleanup--total-points-75) 
 
 ***
 
@@ -35,6 +65,29 @@ Finally, the last section of the walkthrough will be some miscellaneous achievem
 
 Good luck, and happy hopping!
 
+***
+
+# Credits
+
+Credits for this guide go to:
+
+* **Empovyle** - writing, graphics, videos, programming and formatting (https://retroachievements.org/user/Empovyle - https://twitter.com/Empovyle)
+* **Hath** - graphical assistance, inspiration, and advice for the overall quality of the guide (https://retroachievements.org/user/Hath)
+* **Sony Computer Entertainment Studio Cambridge** - game developers
+* **Dexterspet** and **eldexter** - achievement set developers and badge artists (https://retroachievements.org/game/11412)
+* **CaneofPacci** - shortcuts and strategies found in his world-record 100% speedrun (https://www.speedrun.com/froggerhb/run/y43jkw3z)
+* **HFMiles/auxfox** and **Mabeas** - sprite and graphic uploaders on The Spriters Resource (https://www.spriters-resource.com/)
+* **Kneesnap** - main developer of the Frogger modding tool FrogLord and administrator of Highway Frogs
+* The **Highway Frogs community** for keeping the Frogger series alive! If you want to check out more Frogger content, consider visiting the Highway Frogs website or Discord server to see all the modding projects being worked on (https://highwayfrogs.net/)
+
+Programs used:
+
+* **GitHub** / **Google Docs** - programming, writing, and formatting
+* **FrogLord** - map freecam and level editing
+* **paint.NET** / **Inkscape** - graphics editing
+* **Open Broadcaster Software** / **DuckStation** - videos and gameplay
+
+***
 
 # Controls, Tips, & Tricks
 
@@ -106,25 +159,13 @@ _Complete Retro Zone._
 
 Retro Level 1:
 
-
-
 Retro Level 2:
-
-
 
 Retro Level 3:
 
-
-
 Retro Level 4:
 
-
-
 Retro Level 5:
-
-
-
-
 
 ***
 
@@ -141,31 +182,47 @@ _Complete Lily Zone._
 <img src="https://i.imgur.com/zvMhO7L.png"> 
 </details> 
 
+
 Frogger starts in the bottom-left corner of the map. Jump up onto a floating log and let it take you around some lily pads. Cross the next log and jump onto the central island. From here, you will take all 5 frog paths. 
 
-**Red and green**: From the central island, jump back onto a log and cross the turtles to the north. Be very careful and make sure to jump directly onto a turtle and not the space between them, as it can be finicky whether Frogger will stick the landing or drown. Once you make it to the land with the unoccupied dog houses, you will now need to take the highway and go left. The lane closest to the turtles with the purple car is quite slow, so stick to that lane primarily. Not far from the dog houses is the green frog, which you can reach by jumping across the orange and blue car lanes to a small grassy clearing. The red frog is further down the highway, right next to a tunnel entrance. You can reach it the same way as the green frog.
+**Red and green:** 
 
-**Blue**: From the central island, jump back onto the log and hop to the lilypads to the east. Jump on the next log that passes you. Let it carry you to another set of lily pads which you will need to cross to reach the blue frog stuck on a lone tile. Be wary of the last lily pad that will spin you around.
+* From the central island, jump back onto a log and cross the turtles to the north. Be very careful and make sure to jump directly onto a turtle and not the space between them, as it can be finicky whether Frogger will stick the landing or drown. Once you make it to the land with the unoccupied dog houses, you will now need to take the highway and go left. The lane closest to the turtles with the purple car is quite slow, so stick to that lane primarily. Not far from the dog houses is the green frog, which you can reach by jumping across the orange and blue car lanes to a small grassy clearing. The red frog is further down the highway, right next to a tunnel entrance. You can reach it the same way as the green frog.
 
-**Purple and orange**: [Shortcut video guide](https://www.youtube.com/watch?v=CR-pDpKg3os) -- From the central island, jump back onto the log and hop to the lily pads to the east. There will be another log that comes by; jump onto it and then cross onto the next one that’s floating faster than the one you’re on. After that, jump to the large island and use a super hop to get onto the raised plateau in the middle. There will be a pelican that flies by that you will want to get on. It will carry you directly to the purple frog. For the orange frog, ride the pelican to where the purple frog was, but don’t hop onto the mountain. Instead, jump off the pelican onto the land by the highway below. Frogger will survive the fall and you will be very close to the orange frog. Enter the purple car’s lane and head to the left. When you see the clearing, cross the orange and blue car lanes and save the orange frog. Level complete!
+**Blue:** 
+
+* From the central island, jump back onto the log and hop to the lilypads to the east. Jump on the next log that passes you. Let it carry you to another set of lily pads which you will need to cross to reach the blue frog stuck on a lone tile. Be wary of the last lily pad that will spin you around.
+
+**Purple and orange:** 
+
+* [Shortcut video guide](https://www.youtube.com/watch?v=CR-pDpKg3os) -- From the central island, jump back onto the log and hop to the lily pads to the east. There will be another log that comes by; jump onto it and then cross onto the next one that’s floating faster than the one you’re on. After that, jump to the large island and use a super hop to get onto the raised plateau in the middle. There will be a pelican that flies by that you will want to get on. It will carry you directly to the purple frog. For the orange frog, ride the pelican to where the purple frog was, but don’t hop onto the mountain. Instead, jump off the pelican onto the land by the highway below. Frogger will survive the fall and you will be very close to the orange frog. Enter the purple car’s lane and head to the left. When you see the clearing, cross the orange and blue car lanes and save the orange frog. Level complete!
+</details>
  
 ### Bow Wow Falls:   
 
 * Time limit: 45s
 * Cycle reset: No
 * Golden frog: No
-<details> 
-<summary>Map (click to expand)</summary> 
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/hJVckNM.png"> 
 </details> 
 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
 Frogger starts at the bottom of the map. Cross the 3 highway lanes and reach the clearing. From here you will take all 5 frog paths.
 
-**Purple**: From the clearing, hop up the hill to the west and cross the bridge. Be very careful here, there are 5 hungry dogs in front of you and you need to pass through all of them. Try to wait to cross the moment when they enter their houses. Once you narrowly escape all the dogs, the purple frog will be right in front of you.
+**Purple:** 
+* From the clearing, hop up the hill to the west and cross the bridge. Be very careful here, there are 5 hungry dogs in front of you and you need to pass through all of them. Try to wait to cross the moment when they enter their houses. Once you narrowly escape all the dogs, the purple frog will be right in front of you.
 
-**Green and orange**: From the clearing, hop across the lanes of traffic to the north to reach a small strip of land with a lawnmower. You can super hop over the lawnmower if you time it well. Cross the river by jumping across the logs and turtles that float past. If you wait too long, you will eventually run out of land and they will float you directly to your doom, so be quick. After you cross the river, you will find yourself on a crooked island. Hop onto a swan’s back and let it carry you around in a circle. There is a small piece of land to the south with a lawnmower and the green frog. Jump onto it when the lawnmower is moving towards the mountain. If it’s moving towards the river, do not jump and wait until the swan takes you around again. For the orange frog, take the swan to the grassy clearing north from where the green frog was stuck. It is hiding in a small alcove in the mountainside. Before you super hop onto it, reap your reward of 6 bugs and an extra life around the corner.
+**Green and orange:**
 
-**Blue and red**: [Shortcut video guide](https://www.youtube.com/watch?v=yTgbKxe3Hvo) -- The game’s intended path for you is to go up the hill, pass the dogs, and ride balloons over to a mountain. There is another safer and faster method which won’t take you through the dogs, however it can be a little tricky to pull off at first. From the clearing, hop north across the lanes of traffic again to reach the small strip of land with the lawnmower. The goal here is to hop onto the first log/turtle, hop onto the next log and then immediately hop back onto the first log/turtle before it passes you so Frogger is now facing south towards the lawnmower strip. Ideally, you should aim to do this as close to the waterfall as possible. You will have to wait for a good opportunity and in the meantime, you will probably need to super hop over the lawnmower. There will be a thin arched strip of land as you turn the first corner on the first log/turtle. Super hop onto the tile in front of the palm tree and wait in that exact position. A balloon will eventually pass you and you will need to super hop up to reach it. This balloon will take you to a mountain and from there, eat all of the flies and super hop up the platforms to reach the blue frog. For the red frog, ride this balloon around the loop and it will take you back to the palm tree where the red frog is stuck. Level complete!
+* From the clearing, hop across the lanes of traffic to the north to reach a small strip of land with a lawnmower. You can super hop over the lawnmower if you time it well. Cross the river by jumping across the logs and turtles that float past. If you wait too long, you will eventually run out of land and they will float you directly to your doom, so be quick. After you cross the river, you will find yourself on a crooked island. Hop onto a swan’s back and let it carry you around in a circle. There is a small piece of land to the south with a lawnmower and the green frog. Jump onto it when the lawnmower is moving towards the mountain. If it’s moving towards the river, do not jump and wait until the swan takes you around again. For the orange frog, take the swan to the grassy clearing north from where the green frog was stuck. It is hiding in a small alcove in the mountainside. Before you super hop onto it, reap your reward of 6 bugs and an extra life around the corner.
+
+**Blue and red:**
+ 
+* [Shortcut video guide](https://www.youtube.com/watch?v=yTgbKxe3Hvo) -- The game’s intended path for you is to go up the hill, pass the dogs, and ride balloons over to a mountain. There is another safer and faster method which won’t take you through the dogs, however it can be a little tricky to pull off at first. From the clearing, hop north across the lanes of traffic again to reach the small strip of land with the lawnmower. The goal here is to hop onto the first log/turtle, hop onto the next log and then immediately hop back onto the first log/turtle before it passes you so Frogger is now facing south towards the lawnmower strip. Ideally, you should aim to do this as close to the waterfall as possible. You will have to wait for a good opportunity and in the meantime, you will probably need to super hop over the lawnmower. There will be a thin arched strip of land as you turn the first corner on the first log/turtle. Super hop onto the tile in front of the palm tree and wait in that exact position. A balloon will eventually pass you and you will need to super hop up to reach it. This balloon will take you to a mountain and from there, eat all of the flies and super hop up the platforms to reach the blue frog. For the red frog, ride this balloon around the loop and it will take you back to the palm tree where the red frog is stuck. Level complete!
+</details>
 
 ### Mower Mania:
 
@@ -173,17 +230,22 @@ Frogger starts at the bottom of the map. Cross the 3 highway lanes and reach the
 * Cycle reset: Yes
 * Golden frog: No
 
-<details> 
-<summary>Map (click to expand)</summary> 
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/YxAk2ii.png"> 
 </details> 
 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
 Frogger starts at the bottom of the map. 
 
-**Green and blue**: Take the west path. There is a mower circling clockwise that you need to avoid. Immediately after the first mower is a second mower circling counterclockwise. Take the path south from the second mower and turn north by the flowerbed. From here, you can see where the green frog is located. Keep traveling north, dodging the mowers along the way. When you reach the 3-way fork, go west then follow the path south after the extremely fast mower turns to travel south. Wait for it to pass you again, then rescue the green frog below. For the blue frog, take the same path as the green frog, but instead of where you turned west at the 3-way fork, go east and north through more flowerbeds. There will be three mowers mowing side-to-side that are fairly simple to dodge. After those, you will come across three more mowers, but this time, they are moving counterclockwise around some trees. Follow behind them as they pass you, and the blue frog will be patiently waiting at the end.
+**Green and blue:**
 
-**Purple, red, and orange**: Take the east path. There are some mowers that you will need to hide along the holes in the northern mud patch to avoid, or if you are fast enough, you can beat them. Keep going all the way east until you can’t anymore, then go north and to the west until you reach a small clearing. For the purple frog, you will want to keep moving west around some hedges, dodging many mowers along the way until you reach the first flowerbed. At this point you will need to turn and go north. Tthe purple frog is only a few tiles away, directly behind two mowers moving side-to-side. For the red frog, after you’ve raced the three mowers at the start of the east path, reach the small clearing again and take the path northeast. You will come across a hedge maze, which isn’t much of a maze at all. The goal here is to make it through the first three columns of hedges - you can super hop onto the low cut hedges to save time. After the third hedge column, go south into a small clearing. There is only one more speedy mower blocking you from the red frog, so carefully time your dodge and the red frog is yours. For the orange frog, instead of going through the hedge maze to get to where the red frog was, keep traveling northeast. There are two mowers moving side-to-side and one moving in a counterclockwise circle in the southeast. They are fairly easy to dodge to rescue the Orange frog hiding at the end of the path. Level complete!
+* Take the west path. There is a mower circling clockwise that you need to avoid. Immediately after the first mower is a second mower circling counterclockwise. Take the path south from the second mower and turn north by the flowerbed. From here, you can see where the green frog is located. Keep traveling north, dodging the mowers along the way. When you reach the 3-way fork, go west then follow the path south after the extremely fast mower turns to travel south. Wait for it to pass you again, then rescue the green frog below. For the blue frog, take the same path as the green frog, but instead of where you turned west at the 3-way fork, go east and north through more flowerbeds. There will be three mowers mowing side-to-side that are fairly simple to dodge. After those, you will come across three more mowers, but this time, they are moving counterclockwise around some trees. Follow behind them as they pass you, and the blue frog will be patiently waiting at the end.
 
+**Purple, red, and orange:**
+
+* Take the east path. There are some mowers that you will need to hide along the holes in the northern mud patch to avoid, or if you are fast enough, you can beat them. Keep going all the way east until you can’t anymore, then go north and to the west until you reach a small clearing. For the purple frog, you will want to keep moving west around some hedges, dodging many mowers along the way until you reach the first flowerbed. At this point you will need to turn and go north. Tthe purple frog is only a few tiles away, directly behind two mowers moving side-to-side. For the red frog, after you’ve raced the three mowers at the start of the east path, reach the small clearing again and take the path northeast. You will come across a hedge maze, which isn’t much of a maze at all. The goal here is to make it through the first three columns of hedges - you can super hop onto the low cut hedges to save time. After the third hedge column, go south into a small clearing. There is only one more speedy mower blocking you from the red frog, so carefully time your dodge and the red frog is yours. For the orange frog, instead of going through the hedge maze to get to where the red frog was, keep traveling northeast. There are two mowers moving side-to-side and one moving in a counterclockwise circle in the southeast. They are fairly easy to dodge to rescue the Orange frog hiding at the end of the path. Level complete!
+</details>
 
 ### Spinning Lilies: 
 
@@ -191,19 +253,27 @@ Frogger starts at the bottom of the map.
 * Cycle reset: No
 * Golden frog: Yes
 
-<details> 
-<summary>Map (click to expand)</summary> 
+<details> <summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/NLcaZ6s.png"> 
 </details> 
 
-Frogger starts in the bottom-left corner of the map. This level is a harder version of Lily Islands. This time, there is now a Golden frog for you to collect. From the start, hop on a floating log.
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
 
-**Red**: Right after jumping on the floating log at the start, you will quickly need to jump to a small island to the north. Super hop onto the single raised tile on this island and wait for a pelican to arrive. Let it carry you to a wooden tile platform in a tree, where another pelican will fly by and carry you further north to the red frog waiting high up on a mountain.
+Frogger starts in the bottom-left corner of the map. This level is a harder version of Lily Islands. This time, there is now a Golden frog for you to collect. From the start, hop on a floating log. 
 
-**Green**: After jumping on the floating log at the start, let it carry you around some cattails and jump to the lily pads. Wait here for the next log, then move north onto the central island. You are going to have to travel across the turtles to the north again, except this time it’s much harder as there’s only one lonely turtle instead of three in a row. Wait around on the island until a good opportunity appears when the log and the first turtle are synced up. After you make it to the other side of the river, watch out for the two now-occupied dog houses. Wait for the orange car in the closest lane to pass, then travel west along the highway for a few tiles. Cross the lanes to the clearing where the Green frog patiently awaits.
+**Red:**
 
-**Golden, blue, purple, and orange**: After jumping on the log at the start, let it carry you around some cattails and jump to the lily pads. Wait here for the next log, then take the log around the first corner of the central island and jump to the next set of lily pads. The first log that floats by here will carry you to a small forested island to the south with hedges and an occupied dog house. Navigate the small maze and the golden frog will be waiting at the end. Afterwards, retrace your steps and hop back onto the log. It will turn around another corner, then jump to the spinning lilies and rescue the blue frog at the end. For the purple and orange frogs, instead of jumping onto the spinning lilies to reach the blue frog, jump onto the large island which is now occupied with mowers. The tile directly across from the blue frog’s spinning lilies is a safe spot where the mowers won’t hurt you, so feel free to wait there for one to pass. You need to make it to the center of this island to super hop up onto the plateau. A pelican will swoop by and carry you directly to the purple frog mountain. Using the same strategy that you performed in Lily Islands, take the pelican a second time, except, instead of jumping onto the purple frog mountain, jump down onto the ground by the highway below. Frogger will survive and you will be very close to the orange frog, which is across the lanes of traffic from where you landed. Level complete!
+* Right after jumping on the floating log at the start, you will quickly need to jump to a small island to the north. Super hop onto the single raised tile on this island and wait for a pelican to arrive. Let it carry you to a wooden tile platform in a tree, where another pelican will fly by and carry you further north to the red frog waiting high up on a mountain.
 
+**Green:**
+
+* After jumping on the floating log at the start, let it carry you around some cattails and jump to the lily pads. Wait here for the next log, then move north onto the central island. You are going to have to travel across the turtles to the north again, except this time it’s much harder as there’s only one lonely turtle instead of three in a row. Wait around on the island until a good opportunity appears when the log and the first turtle are synced up. After you make it to the other side of the river, watch out for the two now-occupied dog houses. Wait for the orange car in the closest lane to pass, then travel west along the highway for a few tiles. Cross the lanes to the clearing where the Green frog patiently awaits.
+
+**Golden, blue, purple, and orange:** 
+
+* After jumping on the log at the start, let it carry you around some cattails and jump to the lily pads. Wait here for the next log, then take the log around the first corner of the central island and jump to the next set of lily pads. The first log that floats by here will carry you to a small forested island to the south with hedges and an occupied dog house. Navigate the small maze and the golden frog will be waiting at the end. Afterwards, retrace your steps and hop back onto the log. It will turn around another corner, then jump to the spinning lilies and rescue the blue frog at the end. 
+* For the purple and orange frogs, instead of jumping onto the spinning lilies to reach the blue frog, jump onto the large island which is now occupied with mowers. The tile directly across from the blue frog’s spinning lilies is a safe spot where the mowers won’t hurt you, so feel free to wait there for one to pass. You need to make it to the center of this island to super hop up onto the plateau. A pelican will swoop by and carry you directly to the purple frog mountain. Using the same strategy that you performed in Lily Islands [(Shortcut video guide)](https://www.youtube.com/watch?v=CR-pDpKg3os), take the pelican a second time, except, instead of jumping onto the purple frog mountain, jump down onto the ground by the highway below. Frogger will survive and you will be very close to the orange frog, which is across the lanes of traffic from where you landed. Level complete!
+</details>
 
 ### Bow Wow Revenge: 
 
@@ -211,35 +281,83 @@ Frogger starts in the bottom-left corner of the map. This level is a harder vers
 * Cycle reset: No
 * Golden frog: No
 
-<details> 
-<summary>Map (click to expand)</summary> 
+<details> <summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/RxnsNLH.png"> 
 </details> 
 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
 Frogger starts at the bottom of the map. This is a harder version of Bow Wow Falls, but you will take almost the same exact paths as before. From the start, cross the three lanes of traffic to reach a grassy clearing to the north.
 
-**Purple frog**: Travel up the hill to the west and cross the bridge. Carefully navigate the angry dogs, waiting for each one to enter its house before passing. The purple frog is waiting at the end of the path.
+**Purple:**
 
-**Green and orange**: From the clearing, travel north through three more lanes of traffic to reach a strip of land with a mower. Hop onto a turtle and then make your way across the river. After you’ve successfully crossed, take a ride on a swan and hop to the small island to the south with the mower when it’s moving towards the mountain. If it’s moving towards the river, wait until you circle back around again. The green frog is hiding behind the mower on this island. For the orange frog, after you’ve crossed the river, go northwest on the big island and you will find the frog hiding in a mountain alcove. Before you grab it with a super hop, reap your reward of 4 flies and a 1-Up around the corner.
+* Travel up the hill to the west and cross the bridge. Carefully navigate the angry dogs, waiting for each one to enter its house before passing. The purple frog is waiting at the end of the path.
 
-**Blue and red**: [Shortcut video guide](https://www.youtube.com/watch?v=yTgbKxe3Hvo) -- Just like in Bow Wow Falls, you can take a shortcut by super hopping onto a balloon. From the clearing, cross three more lanes of traffic to reach the strip of land with the mower. Hop onto a turtle, jump to the log, then hop right back onto the first turtle so you are now facing south. When your turtle turns the corner, super hop onto the arched strip of land in front of the palm tree at the highest point. Wait for a balloon to pass by and use a well-timed super hop to get up onto it. The balloon will carry you to a mountain where you will find a mower circling around the edge. Super hop up the steep platforms here to reach the blue frog. For the red frog, take the balloon around again until it reaches the red frog stuck high up in the palm tree. Zone complete! 
+**Green and orange:**
+
+* From the clearing, travel north through three more lanes of traffic to reach a strip of land with a mower. Hop onto a turtle and then make your way across the river. After you’ve successfully crossed, take a ride on a swan and hop to the small island to the south with the mower when it’s moving towards the mountain. If it’s moving towards the river, wait until you circle back around again. The green frog is hiding behind the mower on this island. For the orange frog, go northwest on the big island and you will find the frog hiding in a mountain alcove. Before you grab it with a super hop, reap your reward of 4 flies and a 1-Up around the corner.
+
+
+**Blue and red:**
+* [Shortcut video guide](https://www.youtube.com/watch?v=yTgbKxe3Hvo) -- Just like in Bow Wow Falls, you can take a shortcut by super hopping onto a balloon. From the clearing, cross three more lanes of traffic to reach the strip of land with the mower. Hop onto a turtle, jump to the log, then hop right back onto the first turtle so you are now facing south. When your turtle turns the corner, super hop onto the arched strip of land in front of the palm tree at the highest point. Wait for a balloon to pass by and use a well-timed super hop to get up onto it. The balloon will carry you to a mountain where you will find a mower circling around the edge. Super hop up the steep platforms here to reach the blue frog. For the red frog, take the balloon around again until it reaches the red frog stuck high up in the palm tree. Zone complete! 
+</details>
 
 ***
 
 ![Tree Hopper](https://media.retroachievements.org/Badge/123964.png) [Tree Hopper (10)](https://retroachievements.org/achievement/113654)   
 _Complete Leaf Zone._
 
-Honey Bee Hollow:
+### Honey Bee Hollow:
+
+* Time limit: 25s
+* Cycle reset: N/A
+* Golden frog: No
+
 <details> 
 <summary>Map</summary> 
 <img src="https://i.imgur.com/PuNTXTx.png"> 
 </details> 
 
-Canopy Capers: 
+Frogger starts at the bottom of the map. This is a very simple and small level, and all of the baby frogs are close in proximity to each other. Be wary of the bees here, if they have a direct line of sight to you they will accelerate rapidly, so hide behind the tree stumps to mitigate this. From the start of the level, go northeast to the river and cross the bridge. 
+
+<details><summary>Red, blue, purple, orange, and green:</summary>
+
+* Red: Go directly north from the bridge, the red frog will be waiting a few tiles away by some mushrooms.
+
+* Blue and purple: Go northwest from the bridge until you hit the northern wall. The blue frog is directly north of a beehive. The purple frog is a few tiles west of the blue frog.
+
+* Orange and green: Go northwest from the bridge until you hit the northern wall. Travel along the wall to the west until you reach the corner, then turn south and swiftly rescue the orange frog. The green frog is two tiles below the orange frog. Level complete!
+</details>
+
+
+### Canopy Capers: 
+
+* Time limit: 45s
+* Cycle reset: No
+* Golden frog: Yes
+
 <details> 
-<summary>Map</summary> 
+<summary>Map:</summary> 
 <img src="https://i.imgur.com/dHeKVXV.png"> 
 </details> 
+
+Frogger starts in the center of the map. This level is the complete opposite of the previous one: it’s a massive and complex forest! From the start, jump south onto the owl circling the platform you’re standing on.
+
+<details><summary>Orange, purple, red, golden, and green:</summary> 
+
+* Orange: Immediately jump off the owl to land onto the log bridge. There’s three squirrels on this bridge running side-to-side, dodge them before they reach you. Go to the west end of the bridge and wait for an owl to fly around the tree. Make a well-timed jump off the bridge to land on top of the owl. The owl will do laps around this tree, where the orange frog rests on top of a mushroom. 
+
+* Purple: Ride the owl you jumped off the bridge to land on and travel around the tree. Jump off onto the branch on the other side of the tree from where the orange frog was. Hop to the end of this branch and onto the next set, avoiding the hungry hawk in the process. These branches will collapse after you jump on them. You need to time your jump off of the final branch to land onto a slow owl before the branch collapses, so manage your time spent on each branch carefully here. It can take a while for the owl to show up, meaning the final branch can collapse before you have a chance to escape. After you land on the owl, it’ll take you to a higher tree with some more branches and squirrels. The purple frog is behind the second squirrel.
+
+* For the red frog, jump off the owl to land on the mushroom where the orange frog was. Jump down from the mushroom and make your way to the southwest corner of the map. There are a bunch of porcupines rolling down this hill so make sure to move out of their way before they roll into you. The red frog is on a raised stump in the corner; use a super hop to get up to it.
+
+* Golden and green: Go back to the orange frog’s mushroom and jump down onto the ground below. Go southeast towards the river, avoiding any rolling porcupines in the way. A fallen hollow log stretches across the river that you can use to safely cross. As soon as you come out on the other end of the log, wait in that position for a squirrel in the next hollow log to turn and travel south away from you. After the squirrel is out of the way, enter the log and rescue the golden frog hiding to the north. Retrace your steps to escape the log before the squirrel returns, then use a few super hops to jump on top of the first hollow log over the river. When a squirrel comes down the branch and turns around, follow closely behind it. There is a second branch to the west with another squirrel and the green frog in the center. You need to wait for a good opportunity when you can safely rush to the center of the second branch before the squirrel on the first branch turns around and bites you. It may take a few cycles before the squirrels sync up. As soon as they do, the green frog is yours.
+</details>
+
+<details><summary>Blue frog:</summary>
+
+* From the start, jump onto the owl and let it carry you a quarter of the way around the starting platform. Hop onto the falling branch staircase here and travel down the tree, avoiding some hawks in the process. When you reach the bottom of the staircase, continue south, wedging Frogger between some hawks and crossing some more branches and mushrooms. After that, you should find yourself on top of a large hollow log. The blue frog is slightly west of you, being guarded by one last hawk. Wait for it to swoop by before you jump through and rescue the blue frog. Level complete!
+</details>
 
 ***
 
@@ -593,9 +711,5 @@ Guide for the achievement.
 _Complete all of Retro Zone consecutively without a game over. [Start with 3 lives from level 1]_
 
 Guide for the achievement.
-
-***
-
-## Credits
 
 ***
