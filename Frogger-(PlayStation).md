@@ -8,35 +8,114 @@
 > [Controls, Tips, & Tricks](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#controls-tips--tricks) 
 
 > [Step 1: Complete all levels](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-1-complete-all-levels--total-points-160) 
->>><details><summary>Retro Zone</summary>
+<blockquote><blockquote><details><summary>Zone 1: Retro Zone</summary>
 
->>>[Retro Level 1](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-1)
+> [Retro Level 1](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-1)
 
->>>[Retro Level 2](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-2)
+> [Retro Level 2](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-2)
 
->>>[Retro Level 3](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-3)
+> [Retro Level 3](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-3)
 
->>>[Retro Level 4](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-4)
+> [Retro Level 4](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-4)
 
->>>[Retro Level 5](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-5)
+> [Retro Level 5](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#retro-level-5)
+
 </details>
 
->> Lily Zone
->>> [Lily Islands](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#lily-islands)
+<details><summary>Zone 2: Lily Zone</summary>
 
->>> [Bow Wow Falls](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#bow-wow-falls)
+> [Lily Islands](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#lily-islands)
 
->>> [Mower Mania](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#mower-mania)
+> [Bow Wow Falls](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#bow-wow-falls)
 
->>> [Spinning Lilies](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#spinning-lilies)
+> [Mower Mania](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#mower-mania)
 
->>> [Bow Wow Revenge](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#bow-wow-revenge)
+> [Spinning Lilies](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#spinning-lilies)
 
+> [Bow Wow Revenge](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#bow-wow-revenge)
 
-> [Step 2: Speedrun!](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-2-speedrun--total-points-120) 
+</details>
 
-> [Step 3: Deathless!](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-3-deathless--total-points-20) 
-> [Step 4: Miscellaneous Cleanup](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-4-miscellaneous-cleanup--total-points-75) 
+<details><summary>Zone 3: Leaf Zone</summary>
+
+> [Honey Bee Hollow](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#honey-bee-hollow)
+
+> [Canopy Capers](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#canopy-capers)
+
+</details>
+
+<details><summary>Zone 4: Gear Zone</summary>
+
+> [Scorching Switches](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#scorching-switches)
+
+> [Platform Madness](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#platform-madness)
+
+> [Lava Crush](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#lava-crush)
+
+</details>
+
+<details><summary>Zone 5: Cave Zone</summary>
+
+> [Dark Dark Cavern](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#dark-dark-cavern)
+
+> [Frogger Goes Skiing](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#frogger-goes-skiing)
+
+> [Webs Cavern](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#webs-cavern)
+
+</details>
+
+<details><summary>Zone 6: Sky Zone</summary>
+
+> [Looney Balloons](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#looney-balloons)
+
+> [Time Flies](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#time-flies)
+
+> [Loonier Balloons](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#loonier-balloons)
+
+> [Airshow Antics](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#airshow-antics)
+
+</details>
+
+<details><summary>Zone 7: Sewer Zone</summary>
+
+> [Bang Bang Barrel](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#bang-bang-barrel)
+
+> [Slime Sliding](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#slime-sliding)
+
+> [Uncanny Crusher](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#uncanny-crusher)
+
+> [Boom Boom Barrel](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#boom-boom-barrel)
+
+> [Reservoir Frogs](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#reservoir-frogs)
+
+</details>
+
+<details><summary>Zone 8: Desert Zone</summary>
+
+> [Cactus Point](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#cactus-point)
+
+> [Boulder Alley](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#boulder-alley)
+
+> [Tumbling Valley](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#tumbling-valley)
+
+> [Crumbled Point](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#crumbled-point)
+
+> [Big Boulder Alley](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#big-boulder-alley)
+
+</details>
+
+<details><summary>Zone 9: Tropical Zone</summary>
+
+> [Tropical Trouble](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)#tropical-trouble)
+
+</details>
+</blockquote>
+
+[Step 2: Speedrun!](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-2-speedrun--total-points-120) 
+
+[Step 3: Deathless!](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-3-deathless--total-points-20) 
+
+[Step 4: Miscellaneous Cleanup](https://github.com/RetroAchievements/guides/wiki/Frogger-(PlayStation)/#step-4-miscellaneous-cleanup--total-points-75) </blockquote>
 
 ***
 
@@ -49,6 +128,8 @@ Minimum numbers of playthroughs needed | 1
 Number of missable achievements | 0
 Does difficulty affect achievements? | Not applicable
 Hardest achievement of the set | Waste Hopper & Sand Hopper
+
+***
 
 # Introduction
 Frogger's back and he's ready to hop to the rescue! Your goal in this game is to save all of the colorful baby frogs that got stuck in very dangerous situations for the small amphibian that you happen to be. Along the way, you will traverse 33 levels, designated into 9 different zones, all in 3D!
@@ -109,33 +190,23 @@ Programs used:
 
 * R2 button: Rotates the camera counterclockwise by 90 degrees.
 
-<br>
-
 You can access the game options on the main menu. From here, you can load/save your game, change your control layout, and change the audio settings. There is no autosave, so make sure to save before you close the game.
-
-<br>
 
 ## Understanding the gameplay:
 
 In each level, there are five colored frogs for you to collect: red, orange, green, blue, and purple. Frogger has a limited amount of time to rescue a frog per life, which differs for every level. Each time you collect a colored frog, you will be sent back to the start of the level. The level will end after you have rescued the last colored frog. If you run out of time or die, you will lose a life and respawn at the start of the level. If you run out of lives, you will get a game over, lose all of your points, and have to start the entire level over from the beginning. Sometimes a level will have a golden frog which won't send you back to the start when you collect it. There are one of these golden frogs in every zone and they are usually hidden very well; you need to collect all 9 in order to get the 100% ending. Once you collect a golden frog, it will disappear from that level forever on that save file.
 
-<br>
-
 ## Cycle reset:
-This game mechanic refers to how in some levels, all (or most) moving entities on the map will return to their original position when you lose a life or rescue a frog. This means that for every life except your first one, you can take the same exact paths as long as you take the same amount of time. An example of this is in Mower Mania: you will notice that all lawnmowers will always be in the same position at the beginning of every new life. The reason this excludes your first life is because there is a small cutscene after entering the level that shows the time limit. Taking advantage of this mechanic is very useful for learning the maps, completing them quickly, and saving as many lives as possible! 
+This unintentional game mechanic refers to the programming of certain objects and hazards. In some levels, all (or many) moving entities on the map will return to their original position when you lose a life or rescue a frog. This means for every life/rescue (except for your first one), you can take the same exact paths as long as you take the same amount of time. The reason the first life/rescue is excluded is because there is a small cutscene upon entering any level that shows the time limit. 
 
-<br>
+An example of this is in Mower Mania; you will notice that all mowers will always be in the same position at the beginning of every new life. Another example would be in Zone 7: Sewer Zone; every level in this zone has the floating barrels and newspapers reset on every life. You can test these yourself by using the infinite lives cheat code and observing where these objects reset to after every death. Taking advantage of this mechanic is very useful for learning the maps, completing them quickly, and saving as many lives as possible! 
 
 ## Tongue guide:
 
-This image contains a list of the standard kinds of insects you will come across in the game. Avoid eating glowing red insects, they will give you a hindrance rather than help you. Score bugs, 1-Up frogs, super tongue worms, and the grasshoppers will only show up once per level; the rest will respawn for every life.
+This image contains a list of the standard edible pickups you will come across in the game. Avoid eating insects with a glowing red aura because they will give you a hindrance. Score bugs, 1-Up frogs, super tongue worms, and the grasshoppers will only show up once per level; the rest will respawn for every life.
 
-<br>
+![Tongue Pickups](https://i.imgur.com/0kQu8l4.png)
 
-![Tongue Pickups](https://i.imgur.com/jfWVf68.png)
-
-<br>
-  
 ## Cheat codes: 
 
 **These WILL DISABLE achievements for your current session!** Enter a level,  pause the game, then insert these codes. Use these for practice runs only. 
@@ -146,10 +217,6 @@ This image contains a list of the standard kinds of insects you will come across
 
 * Unlock all levels - _Right, Square, Triangle, Square, Triangle, R1, L1, R1, L1, Triangle, Square, Down_ 
  
-
-<br> 
-
-
 ***
 
 # Step 1: Complete all levels | Total points: 160
@@ -172,16 +239,19 @@ Retro Level 5:
 ![Island Hopper](https://media.retroachievements.org/Badge/123953.png) [Island Hopper (10)](https://retroachievements.org/achievement/113653)   
 _Complete Lily Zone._
 
-### Lily Islands: 
+### Level 1/5: Lily Islands 
 
 * Time limit: 60s
 * Cycle reset: No
 * Golden frog: No
-<details> 
-<summary>Map (click to expand)</summary> 
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/zvMhO7L.png"> 
 </details> 
 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
 
 Frogger starts in the bottom-left corner of the map. Jump up onto a floating log and let it take you around some lily pads. Cross the next log and jump onto the central island. From here, you will take all 5 frog paths. 
 
@@ -196,9 +266,11 @@ Frogger starts in the bottom-left corner of the map. Jump up onto a floating log
 **Purple and orange:** 
 
 * [Shortcut video guide](https://www.youtube.com/watch?v=CR-pDpKg3os) -- From the central island, jump back onto the log and hop to the lily pads to the east. There will be another log that comes by; jump onto it and then cross onto the next one that’s floating faster than the one you’re on. After that, jump to the large island and use a super hop to get onto the raised plateau in the middle. There will be a pelican that flies by that you will want to get on. It will carry you directly to the purple frog. For the orange frog, ride the pelican to where the purple frog was, but don’t hop onto the mountain. Instead, jump off the pelican onto the land by the highway below. Frogger will survive the fall and you will be very close to the orange frog. Enter the purple car’s lane and head to the left. When you see the clearing, cross the orange and blue car lanes and save the orange frog. Level complete!
+
+***
 </details>
  
-### Bow Wow Falls:   
+### Level 2/5: Bow Wow Falls  
 
 * Time limit: 45s
 * Cycle reset: No
@@ -209,6 +281,8 @@ Frogger starts in the bottom-left corner of the map. Jump up onto a floating log
 </details> 
 
 <details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
 
 Frogger starts at the bottom of the map. Cross the 3 highway lanes and reach the clearing. From here you will take all 5 frog paths.
 
@@ -222,9 +296,11 @@ Frogger starts at the bottom of the map. Cross the 3 highway lanes and reach the
 **Blue and red:**
  
 * [Shortcut video guide](https://www.youtube.com/watch?v=yTgbKxe3Hvo) -- The game’s intended path for you is to go up the hill, pass the dogs, and ride balloons over to a mountain. There is another safer and faster method which won’t take you through the dogs, however it can be a little tricky to pull off at first. From the clearing, hop north across the lanes of traffic again to reach the small strip of land with the lawnmower. The goal here is to hop onto the first log/turtle, hop onto the next log and then immediately hop back onto the first log/turtle before it passes you so Frogger is now facing south towards the lawnmower strip. Ideally, you should aim to do this as close to the waterfall as possible. You will have to wait for a good opportunity and in the meantime, you will probably need to super hop over the lawnmower. There will be a thin arched strip of land as you turn the first corner on the first log/turtle. Super hop onto the tile in front of the palm tree and wait in that exact position. A balloon will eventually pass you and you will need to super hop up to reach it. This balloon will take you to a mountain and from there, eat all of the flies and super hop up the platforms to reach the blue frog. For the red frog, ride this balloon around the loop and it will take you back to the palm tree where the red frog is stuck. Level complete!
+
+***
 </details>
 
-### Mower Mania:
+### Level 3/5: Mower Mania
 
 * Time limit: 50s
 * Cycle reset: Yes
@@ -236,6 +312,8 @@ Frogger starts at the bottom of the map. Cross the 3 highway lanes and reach the
 
 <details><summary><b>Written walkthrough: (click to expand)</b></summary>
 
+***
+
 Frogger starts at the bottom of the map. 
 
 **Green and blue:**
@@ -245,9 +323,12 @@ Frogger starts at the bottom of the map.
 **Purple, red, and orange:**
 
 * Take the east path. There are some mowers that you will need to hide along the holes in the northern mud patch to avoid, or if you are fast enough, you can beat them. Keep going all the way east until you can’t anymore, then go north and to the west until you reach a small clearing. For the purple frog, you will want to keep moving west around some hedges, dodging many mowers along the way until you reach the first flowerbed. At this point you will need to turn and go north. Tthe purple frog is only a few tiles away, directly behind two mowers moving side-to-side. For the red frog, after you’ve raced the three mowers at the start of the east path, reach the small clearing again and take the path northeast. You will come across a hedge maze, which isn’t much of a maze at all. The goal here is to make it through the first three columns of hedges - you can super hop onto the low cut hedges to save time. After the third hedge column, go south into a small clearing. There is only one more speedy mower blocking you from the red frog, so carefully time your dodge and the red frog is yours. For the orange frog, instead of going through the hedge maze to get to where the red frog was, keep traveling northeast. There are two mowers moving side-to-side and one moving in a counterclockwise circle in the southeast. They are fairly easy to dodge to rescue the Orange frog hiding at the end of the path. Level complete!
+
+***
+
 </details>
 
-### Spinning Lilies: 
+### Level 4/5: Spinning Lilies 
 
 * Time limit: 60s
 * Cycle reset: No
@@ -258,6 +339,8 @@ Frogger starts at the bottom of the map.
 </details> 
 
 <details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
 
 Frogger starts in the bottom-left corner of the map. This level is a harder version of Lily Islands. This time, there is now a Golden frog for you to collect. From the start, hop on a floating log. 
 
@@ -273,9 +356,12 @@ Frogger starts in the bottom-left corner of the map. This level is a harder vers
 
 * After jumping on the log at the start, let it carry you around some cattails and jump to the lily pads. Wait here for the next log, then take the log around the first corner of the central island and jump to the next set of lily pads. The first log that floats by here will carry you to a small forested island to the south with hedges and an occupied dog house. Navigate the small maze and the golden frog will be waiting at the end. Afterwards, retrace your steps and hop back onto the log. It will turn around another corner, then jump to the spinning lilies and rescue the blue frog at the end. 
 * For the purple and orange frogs, instead of jumping onto the spinning lilies to reach the blue frog, jump onto the large island which is now occupied with mowers. The tile directly across from the blue frog’s spinning lilies is a safe spot where the mowers won’t hurt you, so feel free to wait there for one to pass. You need to make it to the center of this island to super hop up onto the plateau. A pelican will swoop by and carry you directly to the purple frog mountain. Using the same strategy that you performed in Lily Islands [(Shortcut video guide)](https://www.youtube.com/watch?v=CR-pDpKg3os), take the pelican a second time, except, instead of jumping onto the purple frog mountain, jump down onto the ground by the highway below. Frogger will survive and you will be very close to the orange frog, which is across the lanes of traffic from where you landed. Level complete!
+
+***
+
 </details>
 
-### Bow Wow Revenge: 
+### Level 5/5: Bow Wow Revenge 
 
 * Time limit: 40s
 * Cycle reset: No
@@ -286,6 +372,8 @@ Frogger starts in the bottom-left corner of the map. This level is a harder vers
 </details> 
 
 <details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
 
 Frogger starts at the bottom of the map. This is a harder version of Bow Wow Falls, but you will take almost the same exact paths as before. From the start, cross the three lanes of traffic to reach a grassy clearing to the north.
 
@@ -307,54 +395,60 @@ Frogger starts at the bottom of the map. This is a harder version of Bow Wow Fal
 ![Tree Hopper](https://media.retroachievements.org/Badge/123964.png) [Tree Hopper (10)](https://retroachievements.org/achievement/113654)   
 _Complete Leaf Zone._
 
-### Honey Bee Hollow:
+### Level 1/2: Honey Bee Hollow
 
 * Time limit: 25s
 * Cycle reset: N/A
 * Golden frog: No
 
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/PuNTXTx.png"> 
 </details> 
 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+
 Frogger starts at the bottom of the map. This is a very simple and small level, and all of the baby frogs are close in proximity to each other. Be wary of the bees here, if they have a direct line of sight to you they will accelerate rapidly, so hide behind the tree stumps to mitigate this. From the start of the level, go northeast to the river and cross the bridge. 
 
-<details><summary>Red, blue, purple, orange, and green:</summary>
+**Red:** 
+* Go directly north from the bridge, the red frog will be waiting a few tiles away by some mushrooms.
 
-* Red: Go directly north from the bridge, the red frog will be waiting a few tiles away by some mushrooms.
+**Blue and purple:**
+* Go northwest from the bridge until you hit the northern wall. The blue frog is directly north of a beehive. The purple frog is a few tiles west of the blue frog.
 
-* Blue and purple: Go northwest from the bridge until you hit the northern wall. The blue frog is directly north of a beehive. The purple frog is a few tiles west of the blue frog.
-
-* Orange and green: Go northwest from the bridge until you hit the northern wall. Travel along the wall to the west until you reach the corner, then turn south and swiftly rescue the orange frog. The green frog is two tiles below the orange frog. Level complete!
+**Orange and green:**
+* Go northwest from the bridge until you hit the northern wall. Travel along the wall to the west until you reach the corner, then turn south and swiftly rescue the orange frog. The green frog is two tiles below the orange frog. Level complete!
+***
 </details>
 
 
-### Canopy Capers: 
+### Level 2/2: Canopy Capers
 
 * Time limit: 45s
 * Cycle reset: No
 * Golden frog: Yes
 
-<details> 
-<summary>Map:</summary> 
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/dHeKVXV.png"> 
 </details> 
 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+
 Frogger starts in the center of the map. This level is the complete opposite of the previous one: it’s a massive and complex forest! From the start, jump south onto the owl circling the platform you’re standing on.
 
-<details><summary>Orange, purple, red, golden, and green:</summary> 
+**Orange, purple, red, golden, green:**
+* Immediately jump off the owl to land onto the log bridge. There’s three squirrels on this bridge running side-to-side, dodge them before they reach you. Go to the west end of the bridge and wait for an owl to fly around the tree. Make a well-timed jump off the bridge to land on top of the owl. The owl will do laps around this tree, where the orange frog rests on top of a mushroom. 
 
-* Orange: Immediately jump off the owl to land onto the log bridge. There’s three squirrels on this bridge running side-to-side, dodge them before they reach you. Go to the west end of the bridge and wait for an owl to fly around the tree. Make a well-timed jump off the bridge to land on top of the owl. The owl will do laps around this tree, where the orange frog rests on top of a mushroom. 
-
-* Purple: Ride the owl you jumped off the bridge to land on and travel around the tree. Jump off onto the branch on the other side of the tree from where the orange frog was. Hop to the end of this branch and onto the next set, avoiding the hungry hawk in the process. These branches will collapse after you jump on them. You need to time your jump off of the final branch to land onto a slow owl before the branch collapses, so manage your time spent on each branch carefully here. It can take a while for the owl to show up, meaning the final branch can collapse before you have a chance to escape. After you land on the owl, it’ll take you to a higher tree with some more branches and squirrels. The purple frog is behind the second squirrel.
+* For the purple frog, ride the owl you jumped off the bridge to land on and travel around the tree. Jump off onto the branch on the other side of the tree from where the orange frog was. Hop to the end of this branch and onto the next set, avoiding the hungry hawk in the process. These branches will collapse after you jump on them. You need to time your jump off of the final branch to land onto a slow owl before the branch collapses, so manage your time spent on each branch carefully here. It can take a while for the owl to show up, meaning the final branch can collapse before you have a chance to escape. After you land on the owl, it’ll take you to a higher tree with some more branches and squirrels. The purple frog is behind the second squirrel.
 
 * For the red frog, jump off the owl to land on the mushroom where the orange frog was. Jump down from the mushroom and make your way to the southwest corner of the map. There are a bunch of porcupines rolling down this hill so make sure to move out of their way before they roll into you. The red frog is on a raised stump in the corner; use a super hop to get up to it.
 
-* Golden and green: Go back to the orange frog’s mushroom and jump down onto the ground below. Go southeast towards the river, avoiding any rolling porcupines in the way. A fallen hollow log stretches across the river that you can use to safely cross. As soon as you come out on the other end of the log, wait in that position for a squirrel in the next hollow log to turn and travel south away from you. After the squirrel is out of the way, enter the log and rescue the golden frog hiding to the north. Retrace your steps to escape the log before the squirrel returns, then use a few super hops to jump on top of the first hollow log over the river. When a squirrel comes down the branch and turns around, follow closely behind it. There is a second branch to the west with another squirrel and the green frog in the center. You need to wait for a good opportunity when you can safely rush to the center of the second branch before the squirrel on the first branch turns around and bites you. It may take a few cycles before the squirrels sync up. As soon as they do, the green frog is yours.
-</details>
+* Go back to the orange frog’s mushroom and jump down onto the ground below. Go southeast towards the river, avoiding any rolling porcupines in the way. A fallen hollow log stretches across the river that you can use to safely cross. As soon as you come out on the other end of the log, wait in that position for a squirrel in the next hollow log to turn and travel south away from you. After the squirrel is out of the way, enter the log and rescue the golden frog hiding to the north. Retrace your steps to escape the log before the squirrel returns, then use a few super hops to jump on top of the first hollow log over the river. When a squirrel comes down the branch and turns around, follow closely behind it. There is a second branch to the west with another squirrel and the green frog in the center. You need to wait for a good opportunity when you can safely rush to the center of the second branch before the squirrel on the first branch turns around and bites you. It may take a few cycles before the squirrels sync up. As soon as they do, the green frog is yours.
 
-<details><summary>Blue frog:</summary>
+**Blue:**
 
 * From the start, jump onto the owl and let it carry you a quarter of the way around the starting platform. Hop onto the falling branch staircase here and travel down the tree, avoiding some hawks in the process. When you reach the bottom of the staircase, continue south, wedging Frogger between some hawks and crossing some more branches and mushrooms. After that, you should find yourself on top of a large hollow log. The blue frog is slightly west of you, being guarded by one last hawk. Wait for it to swoop by before you jump through and rescue the blue frog. Level complete!
 </details>
@@ -364,189 +458,362 @@ Frogger starts in the center of the map. This level is the complete opposite of 
 ![Hot Hopper](https://media.retroachievements.org/Badge/123952.png) [Hot Hopper (10)](https://retroachievements.org/achievement/113655)   
 _Complete Gear Zone._
 
-Scorching Switches:
+### Level 1/3: Scorching Switches
+
+* Time limit: 40s
+* Cycle reset: Yes
+* Golden frog: Yes
+
 <details> 
-<summary>Map</summary> 
+<summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/KwgplYN.png"> 
 </details> 
 
-Platform Madness:
-<details> 
-<summary>Upper Level Map</summary> 
-<img src="https://i.imgur.com/bVtmP89.png"> 
-</details> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
 
-<details> 
-<summary>Lower Level Map</summary> 
+***
+</details>
+
+### Level 2/3: Platform Madness
+
+* Time limit: 60s
+* Cycle reset: No
+* Golden frog: No
+
+<details><summary><b>Upper level map: (click to expand)</b></summary> 
+<img src="https://i.imgur.com/bVtmP89.png"> 
+</details>
+ 
+<details><summary><b>Lower level map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/BAOAG5Q.png"> 
 </details> 
 
-Lava Crush:
-<details> 
-<summary>Orange, Blue, Purple, Red Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 3/3: Lava Crush
+
+* Time limit: 60s
+* Cycle reset: No
+* Golden frog: No
+
+<details><summary><b>Orange, blue, purple, red map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/2CJyegz.png"> 
 </details> 
 
 <details> 
-<summary>Green Map</summary> 
+<summary><b>Green map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/RlJk7Dg.png"> 
 </details> 
+
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+</details>
 
 ***
 
 ![Cave Hopper](https://media.retroachievements.org/Badge/123951.png) [Cave Hopper (10)](https://retroachievements.org/achievement/113656)   
 _Complete Cave Zone._
 
-Dark Dark Cavern: 
-<details> 
-<summary>Map</summary> 
+### Level 1: Dark Dark Cavern
+
+* Time limit: 60s
+* Cycle reset: No
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/y79sMP6.png"> 
 </details> 
 
-Frogger Goes Skiing:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 2/3: Frogger Goes Skiing
+
+* Time limit: 52s
+* Cycle reset: No
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/DHxTmns.png"> 
 </details> 
 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
 
-Webs Cavern: 
-<details> 
-<summary>Full Map</summary> 
+***
+</details>
+
+### Level 3/3: Webs Cavern
+
+* Time limit: 38s
+* Cycle reset: No
+* Golden frog: Yes
+
+<details><summary><b>Full map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/sajbNYe.png"> 
 </details> 
 
-<details> 
-<summary>Orange Maze Map</summary> 
+<details><summary><b>Orange maze map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/T5QbfP2.png"> 
 </details> 
 
-<details> 
-<summary>Green Maze Map</summary> 
+<details><summary><b>Green maze map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/IiqLi4u.png"> 
 </details> 
 
-<details> 
-<summary>Blue Maze Map</summary> 
+<details><summary><b>Blue maze map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/PpcWlKO.png"> 
 </details> 
 
-<details> 
-<summary>Purple Maze Map</summary> 
+<details><summary><b>Purple maze map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/0I3aHlQ.png"> 
 </details> 
+
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+</details>
 
 ***
 
 ![Cloud Hopper](https://media.retroachievements.org/Badge/123950.png) [Cloud Hopper (25)](https://retroachievements.org/achievement/113657)   
 _Complete Sky Zone._
 
-Looney Balloons:
-<details> 
-<summary>Map</summary> 
+### Level 1/4: Looney Balloons
+
+* Time limit: 70s
+* Cycle reset: No
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/a2UmYBl.png"> 
 </details> 
 
-Time Flies:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 2/4: Time Flies
+
+* Time limit: 22s
+* Cycle reset: Yes
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/FpfxSlw.png"> 
 </details> 
 
-Loonier Balloons:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 3/4: Loonier Balloons
+
+* Time limit: 34s
+* Cycle reset: No
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/SRAFKbp.png"> 
 </details> 
 
-Airshow Antics:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 4/4: Airshow Antics
+
+* Time limit: 60s
+* Cycle reset: No
+* Golden frog: Yes
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/JktAhTK.png"> 
 </details> 
+
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+</details>
 
 ***
 
 ![Waste Hopper](https://media.retroachievements.org/Badge/123949.png) [Waste Hopper (25)](https://retroachievements.org/achievement/113658)   
 _Complete Sewer Zone._
 
-Bang Bang Barrel:
-<details> 
-<summary>Map</summary> 
+### Level 1/5: Bang Bang Barrel
+
+* Time limit: 23s
+* Cycle reset: Yes
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/5hkVBNj.png"> 
 </details> 
 
-Slime Sliding:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 2/5: Slime Sliding
+
+* Time limit: 45s
+* Cycle reset: Partial (barrels, slugs: yes; pelicans, rats, acid: no)
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/jwc1RGM.png"> 
 </details> 
 
-Uncanny Crusher:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 3/5: Uncanny Crusher
+
+* Time limit: 40s
+* Cycle reset: Yes
+* Golden frog: Yes
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/66p2yqD.png"> 
 </details> 
 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
 https://www.youtube.com/watch?v=q4_soUnrZ24
 
-Boom Boom Barrel:
-<details> 
-<summary>Map</summary> 
+***
+</details>
+
+### Level 4/5: Boom Boom Barrel
+
+* Time limit: 50s
+* Cycle reset: Yes
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/Pj6rI3t.png"> 
 </details> 
 
-Reservoir Frogs:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 5/5: Reservoir Frogs
+
+* Time limit: 60s
+* Cycle reset: Partial (barrels, newspapers: yes; raccoons: no)
+* Golden frog: No
+
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/ntlWvMR.png"> 
 </details> 
+
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+</details>
 
 ***
 
 ![Sand Hopper](https://media.retroachievements.org/Badge/123948.png) [Sand Hopper (25)](https://retroachievements.org/achievement/113659)   
 _Complete Desert Zone._
 
-Cactus Point:
-<details> 
-<summary>Map</summary> 
+### Level 1/5: Cactus Point
+
+* Time limit: 40s
+* Cycle reset: No
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/r1zUhk4.png"> 
 </details> 
 
-Boulder Alley:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 2/5: Boulder Alley
+
+* Time limit: 50s
+* Cycle reset: No
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/Z8RbXDR.png"> 
 </details> 
 
-Tumbling Valley:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 3/5: Tumbling Valley
+
+* Time limit: 30s
+* Cycle reset: No
+* Golden frog: No
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/cBW4QEa.png"> 
 </details> 
 
-Crumbled Point:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 4/5: Crumbled Point
+
+* Time limit: 70s
+* Cycle reset: No
+* Golden frog: Yes
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/dfu7Qi9.png"> 
 </details> 
 
-Big Boulder Alley:
-<details> 
-<summary>Map</summary> 
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+
+***
+</details>
+
+### Level 5/5: Big Boulder Alley
+
+* Time limit: 75s
+* Cycle reset: No
+* Golden frog: No
+
+<details><summary></b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/cg1d7PR.png"> 
 </details> 
+
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+</details>
 
 ***
 
 ![Jungle Hopper](https://media.retroachievements.org/Badge/123946.png) [Jungle Hopper (5)](https://retroachievements.org/achievement/113660)   
 _Open the ruin door in Tropical Zone._
 
-Tropical Trouble:
-<details> 
-<summary>Map</summary> 
+### Final level: Tropical Trouble:
+
+* Time limit: 45s
+* Cycle reset: Yes
+* Golden frog: Yes
+
+<details><summary><b>Map: (click to expand)</b></summary> 
 <img src="https://i.imgur.com/OzgVhT9.png"> 
 </details> 
+
+<details><summary><b>Written walkthrough: (click to expand)</b></summary>
+</details>
 
 ***
 
