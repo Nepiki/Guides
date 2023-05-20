@@ -7,7 +7,7 @@
 |Set Difficulty|5/10|
 |Approximate time to master|20 to 25 hours|
 |Minimum numbers of playthroughs needed|1 (using all three save files recommended)|
-|Number of missable achievements|10 + All boss-related achievements|
+|Number of missable achievements|11 + All boss-related achievements|
 |Does difficulty affect achievements?|N/A|
 |Hardest achievement of the set|Bested Ganon (25)|
 
@@ -25,11 +25,11 @@ A Link to the Past has a total of 55 Achievements worth 435 points. The achievem
 
 All of the story achievements are not missable, and will come to you over time when beating the game. The guide has sorted them on the chronological order of getting them in-game.
 
-[**Step 2: Collecting Achievements (1 missable)**](#step-2-collecting-achievements-1-missable--total-points-163)
+[**Step 2: Collecting Achievements (2 missable)**](#step-2-collecting-achievements-2-missable--total-points-163)
 
 This step will lead you through finding every item, upgrades, and every chest in the dungeons and overworld. Every item achievement will also list what the requirements are that you need before you can go out to hunt them, sorted chronologically as much as possible.
 
-This step has one missable achievement:
+This step has two missable achievements:
 
 * [Magical Shield (5)](https://retroachievements.org/achievement/2294) - The Magical Shield needs to be upgraded in the waterfall next to Zora's domain rather than be bought in one of the shops in the Dark World.
 * [Hit Hyrule Castle (5)](https://retroachievements.org/achievement/312938) - The Castle becomes inaccessible after having beaten Agahnim in the Castle Tower.
@@ -188,7 +188,7 @@ Unlocked after beating the final boss of the game, located at the pyramid in cen
 
 ***
 
-## Step 2: Collecting achievements (1 missable) | **Total points: 163**
+## Step 2: Collecting achievements (2 missable) | **Total points: 163**
 
 ![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/129304.png) [Illuminating (2)]( https://retroachievements.org/achievement/943)   
 _Acquire the Lamp_
