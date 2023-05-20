@@ -1,12 +1,13 @@
-# 1) Synopsis
+![LTTP](https://github.com/RetroAchievements/guides/assets/76693803/76424af5-f756-42df-bb20-d6202dc41f1c)
 
+# 1) Synopsis
 
 |   |   |
 |:--|:--|
 |Set Difficulty|5/10|
 |Approximate time to master|20 to 25 hours|
 |Minimum numbers of playthroughs needed|1 (using all three save files recommended)|
-|Number of missable achievements|12 (One item upgrade achievement, everything else no-damage bosses achievements)|
+|Number of missable achievements|10 + All boss-related achievements|
 |Does difficulty affect achievements?|N/A|
 |Hardest achievement of the set|Bested Ganon (25)|
 
@@ -31,22 +32,27 @@ This step will lead you through finding every item, upgrades, and every chest in
 This step has one missable achievement:
 
 * [Magical Shield (5)](https://retroachievements.org/achievement/2294) - The Magical Shield needs to be upgraded in the waterfall next to Zora's domain rather than be bought in one of the shops in the Dark World.
+* [Hit Hyrule Castle (5)](https://retroachievements.org/achievement/312938) - The Castle becomes inaccessible after having beaten Agahnim in the Castle Tower.
 
-[**Step 3: Boss Achievements (11 missable)**](#step-3-boss-achievements-11-missable--total-points-135)
+[**Step 3: Boss Achievements**](#step-3-boss-achievements--total-points-135)
 
 There are multiple achievements per boss that you fight in this game. Note that once you beat a boss, it will be gone forever and cannot be fought again, therefore making ALL of these achievements missable. It is recommended to copy your save file to the other in-game save slots before finishing a dungeon in case you need multiple attempts.
 
-[**Step 4: Miscellaneous Achievements (5 missable)**](#step-4-miscellaneous-achievements-5-missable--total-points-135)
+[**Step 4: Miscellaneous Achievements (9 missable)**](#step-4-miscellaneous-achievements-10-missable--total-points-135)
 
 This section covers the miscellaneous achievements that can be done at most points in the game, but do keep in mind that there are a few missables here as well as three achievements that involve you having to skip entire parts of the game for later. If you want to master this game in as few playthroughs as possible, it is important to work around these achievements. I will describe what you need to prepare for in full in Section 4.
 
-This step has five missable achievement:
+This step has nine missable achievements:
 
 * [Lightning Link (2)](https://retroachievements.org/achievement/313069) - This achievement needs to be done before obtaining the Master Sword.
 * [Granny's Coming Alone For The Ride (5)](https://retroachievements.org/achievement/313071) - This achievement needs to be done before obtaining the Master Sword.
+* [Toppo the Line Thief (2)](https://retroachievements.org/achievement/319722) - This achievement needs to be done before beating Agahnim in the Castle Tower.
+* [Monkey Business (2)](https://retroachievements.org/achievement/319715) - This achievement needs to be done while Kiki the Monkey is following you towards the Dark Palace.
+* [A Cape Not Just For Titans (10)](https://retroachievements.org/achievement/319721) - This achievement needs to be done before getting the Titans' Mitt from Thieves' Town.
+* [It's a Trap! (2)](https://retroachievements.org/achievement/319717) - This achievement needs to be done while the maiden is following you in Thieves' Town.
 * [I Shoulda Saved the Others Too? Well Excuuuuuuse Me, Princess! (10)](https://retroachievements.org/achievement/315755) - This achievement needs you to not defeat any of the Dark World bosses before having beaten the one from the very last Dungeon, Turtle Rock.
 * [Jack of All Trades (25)](https://retroachievements.org/achievement/313073) - This achievement needs you to not have upgraded the Master Sword to the Tempered Sword, which becomes possible after the fourth dungeon in the Dark World.
-* [Link's Not Old Enough To Drink (2)](https://retroachievements.org/achievement/314433) - This achievement asks you to not get a single Bottle before beating the game.
+* [Link's Not Old Enough To Drink (10)](https://retroachievements.org/achievement/314433) - This achievement asks you to not get a single Bottle before beating the game.
 
 # 4) Tips and tricks (no spoilers)
 
@@ -346,14 +352,16 @@ After having the requirements, climb Death Mountain again and cross the bridge w
 
 ***
 
-![](https://media.retroachievements.org/Badge/345918.png) [Hit Hyrule Castle (5)]( https://retroachievements.org/achievement/312938)   
+![](https://media.retroachievements.org/Badge/345918.png) [Hit Hyrule Castle [m] (5)]( https://retroachievements.org/achievement/312938)   
 _Open all treasure chests in Hyrule Castle and its sewers._
+
+-=MISSABLE=-
 
 [Map Link (Hyrule Castle)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD01.html)   
 [Map Link (Sanctuary/Secret Passage)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD01a.html)   
 [Map Link (Castle Tower)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD05.html)
 
-There are a total of 10 Treasure Chests to be found in the Hyrule Castle. Note that this is done over multiple visits. This guide does not include the Lantern, which I'm not sure is part of the achievement, but is essentially mandatory so you are unlikely to have misses this. If you did, then it can be found south of where you found your dying uncle who gave you the sword and shield.
+There are a total of 10 Treasure Chests to be found in the Hyrule Castle. Note that this is done over multiple visits. This guide does not include the Lantern, which I'm not sure is part of the achievement, but is essentially mandatory so you are unlikely to have misses this. If you did, then it can be found south of where you found your dying uncle who gave you the sword and shield. Note that after having beaten the Castle Tower, the Castle becomes inaccessible.
 
 Hyrule Castle: 3 chests
 
@@ -695,7 +703,7 @@ All of the individual key items and upgrades have been listed above as their own
 
 ***
 
-## Step 3: Boss achievements (11 missable) | **Total points: 135**
+## Step 3: Boss achievements | **Total points: 135**
 
 ![](https://retroachievements.org/Badge/347420.png) [Toying with the Red Knight (5)]( https://retroachievements.org/achievement/314001)   
 _Kill the Red Armos Knight of the Eastern Palace using only the boomerang and collect the Pendant of Courage._
@@ -935,12 +943,19 @@ Ganon can only be damaged with either the Tempered or Golden Sword during his fi
 
 ***
 
-## Step 4: Miscellaneous achievements (5 missable) | **Total points: 135**
+## Step 4: Miscellaneous achievements (9 missable) | **Total points: 135**
+
+![](https://retroachievements.org/Badge/00000.png) [A Cure For the Muteness (2)]( https://retroachievements.org/achievement/319716)   
+_Expose the "mute" man near the desert._
+
+Head to the entrance of the desert south of Link's house, where a man is sitting next to a sign who you will later give a chest to in exchange for a bottle. Lift the sign next to him to make him talk.
+
+***
 
 ![](https://retroachievements.org/Badge/346035.png) [Kamicucco! (2)]( https://retroachievements.org/achievement/313056)   
 _Start a cucco frenzy._
 
-Can be done at any point in the game. To get this achievement, head to Kakariko Village and find a chicken. Just keep slashing it over and over again until the chickens have decided to start a war with you.
+To get this achievement, head to Kakariko Village and find a chicken. Just keep slashing it over and over again until the chickens have decided to start a war with you.
 
 ***
 
@@ -961,22 +976,21 @@ Near the north-eastern exit of the Lost Woods, enter the log and play the gambli
 ![](https://retroachievements.org/Badge/346217.png) [A Friend In Need Is a Friend Indeed? (2)]( https://retroachievements.org/achievement/313072)   
 _Be rewarded for saving a helpless life._
 
+**Requirements: None**
+
+South of Link's house where you can drain the water, pick up one of the dying fishes. Then go to a watery place (for example north-west of where you currently are) and throw the fish in it for a reward.
+
+***
+
+![](https://retroachievements.org/Badge/148258.png) [A Fishy Exchange (5)]( https://retroachievements.org/achievement/319718)   
+_Sell a fish to a merchant._
+
 **Requirements: Bug Net, a Bottle**
 
-South of Link's house where you can drain the water, catch one of the dying fishes with your Bug Net. Then go to a watery place (for example north-west of where you currently are) and use the bottle with the fish to release it.
-
+South of Link's house where you can drain the water, pick up one of the dying fishes. Go to the bottle seller and sell the fish to him.
 ***
 
 ![](https://retroachievements.org/Badge/346216.png) [Granny's Coming Along For The Ride [m] (2)]( https://retroachievements.org/achievement/313071)   
-_Take a trusting old lady with you on your journey._
-
-**Requirements: Magic Powder, Bug Net, a Bottle**
-
-This needs to be done before acquiring the Master Sword, after which Kakariko Village is overrun with guards. Outside a house near where the runner is located, an old lady is sweeping the floor. Sprankle some Magic Powder over her and she turns into a fairy, then capture her for the achievement to trigger.
-
-***
-
-![](https://retroachievements.org/Badge/346216.png) [Granny's Coming Along For The Ride [m] (5)]( https://retroachievements.org/achievement/313071)   
 _Take a trusting old lady with you on your journey._
 
 -=MISSABLE=-
@@ -984,6 +998,15 @@ _Take a trusting old lady with you on your journey._
 **Requirements: Magic Powder, Bug Net, a Bottle**
 
 This needs to be done before acquiring the Master Sword, after which Kakariko Village is overrun with guards. Outside a house near where the runner is located, an old lady is sweeping the floor. Sprankle some Magic Powder over her and she turns into a fairy, then capture her for the achievement to trigger.
+
+***
+
+![](https://retroachievements.org/Badge/148418.png) [A Fowl Date For Link (2)]( https://retroachievements.org/achievement/319719)   
+_Turn a cucco into a woman and see what she has to say._
+
+**Requirements: Magic Powder**
+
+In the north-western house in Kakariko Village with a bottle on the top side of the house, lift it and sprinkle some Magic Powder on the Cucco hiding underneath.
 
 ***
 
@@ -1023,12 +1046,46 @@ This achievement can be obtained as early as the Desert Palace, and is also pres
 
 ***
 
+![](https://retroachievements.org/Badge/00000.png) [Spider Bonus (3)]( https://retroachievements.org/achievement/319714)   
+_Get a red rupee from a hoarder._
+
+**Requirements: Power Glove**
+
+The hoarder is a spider hiding underneath stones. Pick up the stone, and he'll try to flee while dropping rupees. I always found this fairly consistent to do at the rock blocking the entrance to Death Mountain in the Light World.
+
+***
+
 ![](https://retroachievements.org/Badge/346214.png) [This One's on the House (2)]( https://retroachievements.org/achievement/313064)   
 _Be rewarded for your honesty with a bottleful of Medicine of Magic._
 
 **Requirements: Zora Flippers, a Bottle**
 
 Behind the waterfall next to Zora's domain where you upgrade the Boomerang and Shield, throw in a Bottle. Reply that it is yours, and you will get a free refill.
+
+***
+
+![](https://retroachievements.org/Badge/152941.png) [Toppo the Line Thief (2)]( https://retroachievements.org/achievement/319722)   
+_Make Toppo drop an item._
+
+-=MISSABLE=-
+
+Toppo will stop appearing after having defeated Agahnim in the Light World, but this enemy can be found south of Link's house so it's very easy to do this on a fresh save. Toppo is the enemy that jumps out of the grass and hangs out in the Great Swamp. When he jumps out, cut the grass that is underneath him for Toppo to crash into the ground. Doing so will grand you one of various items.
+
+***
+
+![](https://retroachievements.org/Badge/148860.png) [Stone Hard Cash (2)]( https://retroachievements.org/achievement/319723)   
+_Unleash the rupees from from an Agahnim statue._
+
+At the Pyramid of Power, go all the way downstairs and then to the statue furthest on the left. Pull on it to receive rupees.
+
+***
+
+![](https://retroachievements.org/Badge/152145.png) [Monkey Business (2)]( https://retroachievements.org/achievement/319715)   
+_Try to draw Kiki into the Light World._
+
+-=MISSABLE=-
+
+When heading towards the first dungeon in the Dark World, the Dark Palace, you'll be followed by a monkey that is needed to open the entrance. While he is following you, use the mirror to go to the Light World for this achievement to trigger.
 
 ***
 
@@ -1050,6 +1107,41 @@ West of the Archery Minigame in the Dark World is where the digging minigame is 
 _Fulfill the flute boy's final wish and grant him eternal rest._
 
 In the Dark World where you first got the shovel, return to the Flute Boy sitting on a stump after having obtained the Flute. He will ask you to play it, after which he will turn into a stump.
+
+***
+
+![](https://retroachievements.org/Badge/149396.png) [A Cape Not Just For Titans (10)]( https://retroachievements.org/achievement/319721)   
+_Get the Magic Cape without having the Titan's Mitt._
+
+-=MISSABLE=-
+
+Must be done before opening the big chest in Thieves Town. To do this, you need to reach the gravestone in the top-right of the Light World but instead of going there, you need to get to the same location in the Dark World. Once there, use the Mirror to go back to the Light World and dash into the grave and get the Magic Cape.
+
+***
+
+![](https://retroachievements.org/Badge/00000.png) [It's a Trap! (2)]( https://retroachievements.org/achievement/319717)   
+_Bring the maiden in Thieves' Town to both places where she will refuse to go further._
+
+-=MISSABLE=-
+
+After the maiden in Thieves' Town starts following you, bring her to the following two locations:
+
+1. The entrance of the dungeon
+2. The stairs to the second floor where you would bomb the floor so light can come in
+
+***
+
+![](https://retroachievements.org/Badge/151584.png) [A Link Between Jobs (2)]( https://retroachievements.org/achievement/319720)   
+_Get reprimanded for doing your descendant's job._
+
+Once the smithies are reunited, approach the anvil from above that they are hitting and hit it with your own hammer.
+
+***
+
+![](https://retroachievements.org/Badge/148860.png) [Shaking Hands With Dinosaurs (2)]( https://retroachievements.org/achievement/319724)   
+_Unleash the rupees from from Turtle Rock._
+
+When near the entrance of Turtle Rock in the Dark World, pull on the right hand of the turtle for rupees to come out.
 
 ***
 
@@ -1077,5 +1169,14 @@ _Defeat Ganon and reach the Triforce without having collected any bottles during
 -=MISSABLE=-
 
 For this achievement, you may not have picked up a single Bottle before defeating Ganon. Check "All Your Bottles Are Belong To Us" to see what locations you should avoid. This also means that during this playthrough, you will not have access to healing outside of enemy/pot drops, nor the revival of a fairy.
+
+***
+
+![](https://retroachievements.org/Badge/350656.png) [A Link to the Past (5)]( https://retroachievements.org/achievement/25154)   
+_Enter Chris Houlihan's secret room._
+
+While technically a glitch, being able to do this is fairly easy. There are a total of five ways to enter Chris Houlihan's room, which can all be found in the video below. Follow the most important steps (e.g. bomb blasts getting you off-screen or in a hole, charging into a specific tree or object) and you should be fine. There is no time limit so take your time replicating the steps. You only need to enter one of the specified entrances for this achievement to trigger.
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/b7i2AHjvPMg/0.jpg)](https://www.youtube.com/watch?v=b7i2AHjvPMg)
 
 ***
