@@ -20,9 +20,11 @@ WIP
 
 [**Step 1: Chapter 1**](#step-1-chapter-1--total-points-64)
 
-This step covers all the achievements that can be obtained during chapter 1 in chronological order of when you can first get them. There are a total of four missable achievements, though chapter two still allows you to revisit most of the places from chapter one, meaning that if you missed one, you can still get it then. There are only two real missable achievements to watch out for that can only be obtained during chapter 1:
+This step covers all the achievements that can be obtained during chapter 1 in chronological order of when you can first get them. There are a total of four missable achievements, though chapter two still allows you to revisit most of the places from chapter one, meaning that if you missed one, you can still get it then. There are only two real missable achievements to watch out for that can only be obtained during chapter 1, namely Gingko Round Dance and Rookie Treasure Hunter, but these are all four:
 
 - [Gingko Round Dance](https://retroachievements.org/achievement/197982) - Has to be done before reaching the capital for the first time.
+- [The Unofficial History of El Phildin](https://retroachievements.org/achievement/198670) - Is available for the whole chapter after entering Phildin, as well as the start of chapter 2.
+- [Opening of War](https://retroachievements.org/achievement/197985) - Is available for the whole chapter after the second Adventurer's Guild task, as well as the start of chapter 2.
 - [Rookie Treasure Hunter](https://retroachievements.org/achievement/197989) - While it can technically be finished in chapter 2, it is recommended to do this before the end of chapter 1 due to the first area listed in the achievement becoming inaccessible after chapter 1 ends. The point of no return is upon finishing the Prayer Woods.
 
 Other important events that need to be done in Chapter 1 and will take an important role in later chapters:
@@ -37,29 +39,40 @@ Other important events that need to be done in Chapter 1 and will take an import
 
 This step covers all the achievements that can be obtained during chapter 2 in chronological order of when you can first get them. Unlike chapter 1 however, your breathing room for missable achievements is decreased by quite a lot. Whenever you leave a town or a route, be under the assumption that you cannot go back to them whatsoever. Therefore, every missable achievement is also truly missable. Check them out in the following order:
 
+- [Winner!](https://retroachievements.org/achievement/197990) - Must be done before leaving Borun.
+- [The Swordsmaster](https://retroachievements.org/achievement/197992) - Must be done before leaving for New Borun.
+- [Business Influencer](https://retroachievements.org/achievement/197999) - Must be done before leaving for Guia.
+- [Wandering With Wind](https://retroachievements.org/achievement/197998) - Involves the Karamus and Jyamane events. Read the "Other important events" segment of Step 1 and 2 carefully for this. Must be done before leaving for Guia.
+- [A Change of Plan](https://retroachievements.org/achievement/198000) - Involves the Karamus and Jyamane events. Read the "Other important events" segment of Step 1 and 2 carefully for this. Must be done before leaving for Koruna.
+- [Autumn Rain](https://retroachievements.org/achievement/198001) - Must be done before going back to Koruna after leaving the Sorcerer's School.
+- [A Well Earned Reward](https://retroachievements.org/achievement/198002) - Must be done before leaving for Balloa.
+- [The Witchcraft Master](https://retroachievements.org/achievement/197996) - Needs to be done during a specific spoiler event in Balloa.
+- [A Joyful Reunion](https://retroachievements.org/achievement/198003) - Needs to be done during a specific spoiler event in Balloa.
+- [Interception](https://retroachievements.org/achievement/198004) - Must be done before leaving for the Silver Mine.
+- [Save the Miners and Make History!](https://retroachievements.org/achievement/198777) - The game is buggy at this part, so read the achievement carefully. In the Silver Mine, right tunnel first, then left.
+- [Knowledge of the Enemy](https://retroachievements.org/achievement/199009) - Can be done after first arriving at Valkd, as well as early Chapter 3.
+- [Gawaine the Hero](https://retroachievements.org/achievement/200253) - Must be done before going back to Theta after leaving Valkd.
+- [Dark Eyes](https://retroachievements.org/achievement/199554) - Involves the Karamus and Jyamane events. Read the "Other important events" segment of Step 1 and 2 carefully for this. Must be done before leaving for Truth Island.
+- [Experienced Treasure Hunter](https://retroachievements.org/achievement/199760) - The chests achievement of Chapter 2. You get very few chances to revisit the roads, so be sure to do everything on your first visit.
+
 Other important events that need to be done in Chapter 2 and will take an important role in later chapters:
 
-- You will first be meeting Karamus and Jyamane on the top floor of the inn in Borum. Talk to them both.
-- Karamus will appear after some events in New Borum (before heading to the monastery for the first time), while Jyamane will appear later after the fog has been cleared.
-- Karamus will be at Guia right from the start, while Jyamane will appear after having gone to the power plant.
-- Karamus will be at Balloa right from the start, while Jyamane is only shortly available before going to the Silver Mine.
-- Jyamane will be at Theta during your second visit.
-- Karamus will be at Dorx
-- This chapter has a total of **tree** Swordmaster books to collect. Both of them have missable achievements so you know when you have them.
+- Karamus and Jyamane events:
+   - You will first be meeting Karamus and Jyamane on the top floor of the inn in Borun. Talk to them both.
+   - Karamus will appear after some events in New Borun (before heading to the monastery for the first time), while Jyamane will appear later after the fog has been cleared.
+   - Karamus will be at Guia right from the start, while Jyamane will appear after having gone to the power plant.
+   - Karamus will be at Balloa right from the start, while Jyamane is only shortly available before going to the Silver Mine.
+   - Jyamane will be at Theta during your second visit.
+   - Karamus will be at Dorx.
+- This chapter has a total of **three** Swordmaster books to collect. Both of them have missable achievements so you know when you have them.
+
+**Chapter 2's point of no return is after leaving Dorx.**
 
 ***
 
 [**Step 3: Dummy Step 3**](#step-3-dummy-step-3--total-points-999)
 
 Dummy step. Remove if unnecessary.
-
-# 4) General Gameplay Tips
-
-- Due to how the PlayStation Portable works, it is very easy to create multiple saves. Use that to your advantage!
-- Use Mile's Steal ability frequently to save yourself some cash with getting items, as well as good gear. His stealing probability is pretty high, so you're almost always guaranteed to get something.
-- You are at all times followed by a rabbit companion. It showing loving- or angry emotions can both be beneficial in battle, while it trying to get your attention means it found an item.
-
-***
 
 ## Step 1: Chapter 1 | **Total points: 64**
 
