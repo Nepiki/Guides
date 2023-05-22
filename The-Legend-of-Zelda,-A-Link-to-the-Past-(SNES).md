@@ -297,7 +297,15 @@ Go to south-east Hyrule and find a cave with a destructible entrance right next 
 _Open all treasure chests in the Eastern Palace._
 </pre></big>
 
-[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD02.html)
+<details>
+<summary>
+
+### Map
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/0/0a/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_Eastern_Palace.png)
+
+</details>
 
 There are a total of 5 Treasure Chests to be found in the Eastern Palace:
 
@@ -325,7 +333,15 @@ You can obtain this book from the library south of Kakariko Village. Use the Peg
 _Open all treasure chests in the Desert Palace._
 </pre></big>
 
-[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD03.html)
+<details>
+<summary>
+
+### Map
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/8/88/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_Desert_Palace.png)
+
+</details>
 
 There are a total of 4 Treasure Chests to be found in the Desert Palace, all in the first half:
 
@@ -398,7 +414,15 @@ This can be done at any given point in the game after obtained the Zora's Flippe
 _Open all treasure chests in the Tower of Hera._
 </pre></big>
 
-[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD04.html)
+<details>
+<summary>
+
+### Map
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/3/31/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_Mountain_Tower.png)
+
+</details>
 
 There are a total of 4 Treasure Chests to be found in the Tower of Hera:
 
@@ -427,9 +451,17 @@ _Open all treasure chests in Hyrule Castle and its sewers._
 
 -=MISSABLE=-
 
-[Map Link (Hyrule Castle)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD01.html)   
-[Map Link (Sanctuary/Secret Passage)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD01a.html)   
-[Map Link (Castle Tower)](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD05.html)
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](https://www.snesmaps.com/maps/ZeldaALinkToThePast/D01HyruleCastle.png)
+![](https://www.snesmaps.com/maps/ZeldaALinkToThePast/D01aSanctuarySecretPassage.png)
+![](https://www.snesmaps.com/maps/ZeldaALinkToThePast/D05HyruleCastleTower.png)
+
+</details>
 
 There are a total of 10 Treasure Chests to be found in the Hyrule Castle. Note that this is done over multiple visits. This guide does not include the Lantern, which I'm not sure is part of the achievement, but is essentially mandatory so you are unlikely to have misses this. If you did, then it can be found south of where you found your dying uncle who gave you the sword and shield. Note that after having beaten the Castle Tower, the Castle becomes inaccessible.
 
@@ -470,7 +502,15 @@ Go to north-east Hyrule where the entrance to the Zora's Domain used to be. Thro
 _Open all treasure chests in the Palace of Darkness._
 </pre></big>
 
-[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD06.html)
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/b/bc/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_1_-_Dark_Palace.png)
+
+</details>
 
 There are a total of 13 Treasure Chests to be found in the Palace of Darkness. At least 2 bombs are required to get everything in this dungeon.
 
@@ -528,7 +568,15 @@ Go to the smithies' house in the Light World and use your hammer to gain access 
 _Open all treasure chests in the Swamp Palace._
 </pre></big>
 
-[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3MapD07.html)
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/1/15/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_2_-_Swamp_Palace.png)
+
+</details>
 
 There are a total of 9 Treasure Chests to be found in the Palace of Darkness. At least 1 bomb is required to get everything in this dungeon.
 
@@ -549,7 +597,15 @@ There are a total of 9 Treasure Chests to be found in the Palace of Darkness. At
 _Open all treasure chests in Skull Woods._
 </pre></big>
 
-[Map Link](https://mikesrpgcenter.com/zelda3/maps/skulldungeon.html)
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/8/87/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_3_-_Skull_Wood.png)
+
+</details>
 
 There are a total of 7 Treasure Chests to be found in the Skull Woods. The first 6 chests are in the first half, the last chest in the second half requiring the Fire Rod.
 
@@ -567,6 +623,16 @@ There are a total of 7 Treasure Chests to be found in the Skull Woods. The first
 [Thieved Thieves' Town (5)](https://retroachievements.org/achievement/312944)
 _Open all treasure chests in Thieves' Town._
 </pre></big>
+
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/b/b6/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_4_-_Thieves_Town.png)
+
+</details>
 
 [Map Link](https://mikesrpgcenter.com/zelda3/maps/blindshideout.html)
 
@@ -634,7 +700,15 @@ Make your way up Death Mountain and go to the teleporter that first brought you 
 _Open all treasure chests in the Ice Palace._
 </pre></big>
 
-[Map Link](https://mikesrpgcenter.com/zelda3/maps/icepalace.html)
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/e/e3/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_5_-_Ice_Tower.png)
+
+</details>
 
 There are a total of 7 Treasure Chests to be found in the Ice Palace:
 
@@ -653,7 +727,15 @@ There are a total of 7 Treasure Chests to be found in the Ice Palace:
 _Open all treasure chests in Misery Mire._
 </pre></big>
 
-[Map Link](https://mikesrpgcenter.com/zelda3/maps/miserymire.html)
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/e/ec/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_6_-_Misery_Mire.png)
+
+</details>
 
 There are a total of 7 Treasure Chests to be found in Misery Mire:
 
@@ -683,7 +765,15 @@ Buy a big bomb from Link's House in the Dark World, then make your way to the py
 _Open all treasure chests in Turtle Rock._
 </pre></big>
 
-[Map Link](https://mikesrpgcenter.com/zelda3/maps/turtlerock.html)
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/0/0d/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_7_-_Turtle_Rock.png)
+
+</details>
 
 There are a total of 11 Treasure Chests to be found in Turtle Rock:
 
@@ -694,9 +784,9 @@ There are a total of 11 Treasure Chests to be found in Turtle Rock:
 5. **Big Key** - Mandatory. In the middle of the room with a large lava pit and a pipe puzzle.
 6. **Mirror Shield** - Mandatory. Go all the way south from the lava room, then to the left to exit the dungeon and enter it from the right again to reach the chest.
 7. **Key** - Move deeper into the dungeon until you reach a locked door. Toggle the switch and open the chest.
-8. **???** - Once you proceed further and see another locked door, go south to reach a room with four chests.
-9. **???** - See chest 8.
-10. **???** - See chest 8.
+8. **Green Rupee** - Once you proceed further and see another locked door, go south to reach a room with four chests.
+9. **Blue Rupee** - See chest 8.
+10. **Red Rupee** - See chest 8.
 11. **Key** - See chest 8.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/346029.png">
@@ -706,36 +796,44 @@ There are a total of 11 Treasure Chests to be found in Turtle Rock:
 _Open all treasure chests in Ganon's Tower._
 </pre></big>
 
-[Map Link](https://mikesrpgcenter.com/zelda3/maps/ganonstower.html)
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](http://www.thealmightyguru.com/Wiki/images/8/82/Legend_of_Zelda%2C_The_-_Link_to_the_Past%2C_A_-_SNES_-_Map_-_8_-_Ganon%27s_Tower.png)
+
+</details>
 
 There are a total of 26 Treasure Chests to be found in Ganon's Tower. The last 3 of them are found beyond the Big Key door.
 
-1. **???** - From the main entrance, take the right staircase down to find two chests.
-2. **???** - See chest 1.
+1. **10 Arrows** - From the main entrance, take the right staircase down to find two chests.
+2. **Bombs** - See chest 1.
 3. **Key** - Go one room to the right from the previous room and avoid/slash all the flying tiles until a chest appears.
 4. **Compass** - Continue one more room to the right and then all the way south until you reach a room with a switch puzzle. Solve it by throwing bombs to right conveyor belt, then reach a room with four chests.
-5. **???** - See chest 4.
-6. **???** - See chest 4.
-7. **???** - See chest 4.
-8. **???** - From the main entrance, take the left staircase and move as fair left as you can. Once you reach the hookshot puzzle room, take the north door for four chests.
-9. **???** - See chest 8.
-10. **???** - See chest 8.
-11. **???** - See chest 8.
+5. **Green Rupee** - See chest 4.
+6. **Red Rupee** - See chest 4.
+7. **10 Arrows** - See chest 4.
+8. **Red Rupee** - From the main entrance, take the left staircase and move as fair left as you can. Once you reach the hookshot puzzle room, take the north door for four chests.
+9. **Red Rupee** - See chest 8.
+10. **Bombs** - See chest 8.
+11. **10 Arrows** - See chest 8.
 12. **Map** - In the hookshot room, make your way south to the switches and then open the locked door to reach the map chest.
 13. **Key** - Move onwards until you reach a block maze. Move the odd block in the middle row on the far left to toggle a chest to appear that you can hookshot towards.
-14. **???** - Take the teleporters until you reach the left part of the main room with a breakable wall. Destroy it with a bomb, then walk on the floor until the wall opens, revealing four chests.
-15. **???** - See chest 14.
-16. **???** - See chest 14.
-17. **???** - See chest 14.
-18. **???** - When you reach the massive room with a seemingly big black pit, light the torch to reveal a path and make your way across. Lift the skull here to gain access to a chest.
+14. **Bombs** - Take the teleporters until you reach the left part of the main room with a breakable wall. Destroy it with a bomb, then walk on the floor until the wall opens, revealing four chests.
+15. **Bombs** - See chest 14.
+16. **10 Arrows** - See chest 14.
+17. **10 Arrows** - See chest 14.
+18. **10 Arrows** - When you reach the massive room with a seemingly big black pit, light the torch to reveal a path and make your way across. Lift the skull here to gain access to a chest.
 19. **Big Key** - In the same room as chest 18, bomb the floor and fall down for an Armos Knights boss battle. Defeat it and open the door for three chests.
-20. **???** - See chest 19.
-21. **???** - See chest 19.
+20. **10 Arrows** - See chest 19.
+21. **Bombs** - See chest 19.
 22. **Red Mail** - Climb up the room next to the Armos Knights boss battle, then open the Big Chest.
-23. **???** - On the mandatory path. You will find two chests shortly before fighting Moldorm again.
-24. **???** - See chest 23.
+23. **Bombs** - On the mandatory path. You will find two chests shortly before fighting Moldorm again.
+24. **Bombs** - See chest 23.
 25. **Key** - On the mandatory path. You will find this chest shortly before fighting Moldorm again, in the room with the switches.
-26. **???** - You will find this chest after defeating Moldorm. Hookshot towards it after the battle is over.
+26. **Red Rupee** - You will find this chest after defeating Moldorm. Hookshot towards it after the battle is over.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/346212.png">
 
@@ -753,7 +851,15 @@ Every dungeon, including Hyrule Castle, has a map and compass. All achievements 
 _Open all treasure chests in the Light World (excluding dungeons)._
 </pre></big>
 
-[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3LightOverworld.html)
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3LightOverworld.png)
+
+</details>
 
 There are a total of 31 Treasure Chests to be found in the Light World. Getting all of the chests should be possible after having obtained the Titan's Mitt.
 
@@ -774,7 +880,15 @@ I will probably go in more detail later, but for now, here are the broad locatio
 _Open all treasure chests in the Dark World (excluding dungeons)._
 </pre></big>
 
-[Map Link](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3DarkOverworld.html)
+<details>
+<summary>
+
+### Maps
+</summary>
+
+![](https://www.snesmaps.com/maps/ZeldaALinkToThePast/Zelda3DarkOverworld.png)
+
+</details>
 
 There are a total of 15 Treasure Chests to be found in the Dark World. Getting all of the chests should be possible after having obtained the Titan's Mitt.
 
