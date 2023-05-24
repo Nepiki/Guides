@@ -5,8 +5,8 @@
 |   |   |
 |:--|:--|
 |Set Difficulty|5/10|
-|Approximate time to master|20 to 25 hours|
-|Minimum numbers of playthroughs needed|1 (using all three save files recommended)|
+|Approximate time to master|10 to 15 hours|
+|Minimum numbers of playthroughs needed|1 (using all three save files recommended), but 2 is recommended|
 |Number of missable achievements|11 + All boss-related achievements|
 |Does difficulty affect achievements?|N/A|
 |Hardest achievement of the set|Bested Ganon (25)|
