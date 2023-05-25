@@ -861,15 +861,18 @@ _Open all treasure chests in the Light World (excluding dungeons)._
 
 </details>
 
-There are a total of 31 Treasure Chests to be found in the Light World. Getting all of the chests should be possible after having obtained the Titan's Mitt.
+There are a total of 35 Treasure Chests to be found in the Light World. Getting all of the chests should be possible after having obtained the Titan's Mitt.
 
 I will probably go in more detail later, but for now, here are the broad locations:
 
-* Great Swamp (south of Link's house): 1 Treasure Chest
+* Link's house: 1 Treasure Chest
+* Desert (cave on the east side): 1 Treasure Chest
+* Great Swamp (south of Link's house, inside the small water temple): 1 Treasure Chest
 * Hype Cave (east of Great Swamp): 4 Treasure Chests
 * Ice Rod (south-east Hyrule): 1 Treasure Chest
 * Kakariko Village: 12 Treasure Chests
 * Rock formation west of Sanctuary: 1 Treasure Chest
+* Magic Cape (Graveyard): 1 Treasure Chest
 * Sahasrahla Hut: 3 Treasure Chests
 * Death Mountain (East side): 9 Treasure Chests
 
@@ -942,7 +945,7 @@ _Kill the Red Armos Knight of the Eastern Palace using only the boomerang and co
 
 -=MISSABLE=-
 
-Kill five of the six Armos Knights with arrows. You should be able to do this damageless by remaining in the south-east or south-west corner and just keep shooting. When the final one becomes red, damage it only with your boomerang to kill it. Keep your distance at all times and play it safe, only using the boomerang when he does his stomp attack, as the boomerang does very little damage so you will be here for the long run.
+Kill five of the six Armos Knights with arrows. You should be able to do this damageless by remaining in the south-east or south-west corner and just keep shooting. When the final one becomes red, damage it only with your boomerang to kill it. Just stand south of it and spam the boomerang as it is unable to come closer to you. It will take a lot of hits from the boomerang, so just keep spamming it.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/129287.png">
 
@@ -966,7 +969,7 @@ _Kill the Lanmolas of the Desert Palace dealing all damage with arrows, then col
 
 -=MISSABLE=-
 
-It takes four arrows to kill each Lanmolas, meaning that you need at the very least 12 arrows to subdue them all. It's important in this boss fight to keep your distance and aim correctly, as you can only shoot one arrow at a time. Trying to shoot 3 arrows through every Lanmolas and then finishing them off one by one may be a preferred method due to the final one spitting out eight rocks when resurfacing rather than four.
+It takes four arrows to kill each Lanmolas, meaning that you need at the very least 12 arrows to subdue them all. It's important in this boss fight to keep your distance and aim correctly, as you can only shoot one arrow at a time and only the head will take damage, meaning the hitbox isn't as big as you might think. If you have aiming troubles, stay near the south wall and stand underneath a hole where a Lanmolas comes out. If it goes south, that's an easy hit. Trying to shoot 3 arrows through every Lanmolas and then finishing them off one by one may be a preferred method due to the final one spitting out eight rocks when resurfacing rather than four.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/129288.png">
 
@@ -985,12 +988,12 @@ Surprisingly one of the tougher bosses to no-damage since there isn't really an 
 
 <big><pre>
 [Gone in 20 Seconds (10)](https://retroachievements.org/achievement/314003)
-_Defeat Moldorm in the Tower of Hera ithin 20 seconds._
+_Defeat Moldorm in the Tower of Hera within 20 seconds. (Must have Fighter Sword, May Not Have Hammer)_
 </pre></big>
 
 -=MISSABLE=-
 
-This is relatively tough and not advised to combine with the no-damage achievement, as you have practically no time to miss attacks and play it safe. There will be a trigger available at all time to let you know whether the 20 seconds has passed or not, so use that to your advantage--if it's not there, drop down and retry. My recommended approach is that after the first hit, stand right behind Moldorm and unsheathe your sword and follow where it goes, which should guarantee another quick hit. Using the Pegasus Boots is also a recommended approach during his last phase when he starts moving faster.
+This is relatively tough and not advised to combine with the no-damage achievement, as you have practically no time to miss attacks and play it safe. The time will start running once you enter the arena, with a trigger and leaderboard time being available. Just fall down and retry if you are close to or surpass the 20 seconds. To gain an advantage, get Moldorm to roam near the entrance of the arena and slash with your sword when entering for a free quick hit. After that, observe what direction he goes into and go to the opposite side, then slash the tail once his full body starts moving. It is recommended to charge your sword to prevent easily falling down or taking damage. Once he starts moving quick and you are not in a good position, use the Pegasus Boots as that goes right through him, and then just slash for that final hit.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/129289.png">
 
@@ -1014,7 +1017,7 @@ _Defeat Agahnim in Hyrule Castle Tower without unsheathing your sword._
 
 -=MISSABLE=-
 
-As the achievement icon and title hint at, you can only use the Bug Catching Net to reflect Agahnim's hits. Since the damage returned is always the same, this boss battle follows the exact same pattern as described in the no-damage achievement, and can very well be combined together.
+As the achievement icon and title hint at, you can only use the Bug Catching Net to reflect Agahnim's hits. Since the damage returned is always the same, this boss battle follows the exact same pattern as described in the no-damage achievement, and can very well be combined together. Do keep in mind that the Bug Net is slightly slower than the Master Sword.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/129290.png">
 
