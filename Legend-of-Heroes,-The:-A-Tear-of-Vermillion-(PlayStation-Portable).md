@@ -5,12 +5,12 @@
 
 |   |   |
 |:--|:--|
-|Set Difficulty|WIP|
-|Approximate time to master|WIP|
-|Minimum numbers of playthroughs needed|WIP|
-|Number of missable achievements|WIP|
-|Does difficulty affect achievements?|WIP|
-|Hardest achievement of the set|WIP|
+|Set Difficulty|3/10|
+|Approximate time to master|30-35 hours|
+|Minimum numbers of playthroughs needed|1|
+|Number of missable achievements|45|
+|Does difficulty affect achievements?|N/A|
+|Hardest achievement of the set|Expert Treasure Hunter|
 
 # 2) Introduction
 
@@ -18,12 +18,12 @@ WIP
 
 # 3) Walkthrough
 
-[**Step 1: Chapter 1**](#step-1-chapter-1--total-points-64)
+### [**Step 1: Chapter 1**](#step-1-chapter-1--total-points-64)
 
 This step covers all the achievements that can be obtained during chapter 1 in chronological order of when you can first get them. There are a total of four missable achievements, though chapter two still allows you to revisit most of the places from chapter one, meaning that if you missed one, you can still get it then. There are only two real missable achievements to watch out for that can only be obtained during chapter 1, namely Gingko Round Dance and Rookie Treasure Hunter, but these are all four:
 
 - [Gingko Round Dance](https://retroachievements.org/achievement/197982) - Has to be done before reaching the capital for the first time.
-- [The Unofficial History of El Phildin](https://retroachievements.org/achievement/198670) - Is available for the whole chapter after entering Phildin, as well as the start of chapter 2.
+- [The Unofficial History of El Phildin](https://retroachievements.org/achievement/198670) - Is available for the whole chapter after entering Phildin, as well as the start of chapter 2. Possibly chapter 3 as well, but don't quote me on that.
 - [Opening of War](https://retroachievements.org/achievement/197985) - Is available for the whole chapter after the second Adventurer's Guild task, as well as the start of chapter 2.
 - [Rookie Treasure Hunter](https://retroachievements.org/achievement/197989) - While it can technically be finished in chapter 2, it is recommended to do this before the end of chapter 1 due to the first area listed in the achievement becoming inaccessible after chapter 1 ends. The point of no return is upon finishing the Prayer Woods.
 
@@ -35,7 +35,7 @@ Other important events that need to be done in Chapter 1 and will take an import
 
 ***
 
-[**Step 2: Chapter 2**](#step-2-chapter-2--total-points-138)
+### [**Step 2: Chapter 2**](#step-2-chapter-2--total-points-138)
 
 This step covers all the achievements that can be obtained during chapter 2 in chronological order of when you can first get them. Unlike chapter 1 however, your breathing room for missable achievements is decreased by quite a lot. Whenever you leave a town or a route, be under the assumption that you cannot go back to them whatsoever. Therefore, every missable achievement is also truly missable. Check them out in the following order:
 
@@ -74,6 +74,18 @@ Other important events that need to be done in Chapter 2 and will take an import
 
 Dummy step. Remove if unnecessary.
 
+***
+
+# 4) Books to collect
+
+There are a total of two separate book series to collect: Swordmaster, and Quick Ravin. While all separate volumes have an achievement, these are the only missable objects in the game that are all needed to unlock something at the end for a final achievement. While other missable achievements can therefore be accidentally skipped, these books are essential to get.
+
+### Swordmaster
+
+### Quick Rivin
+
+***
+
 ## Step 1: Chapter 1 | **Total points: 64**
 
 <details>
@@ -109,8 +121,6 @@ This achievement will trigger after the villagers bid you farewell on your journ
 _Obtained Swordmaster 1 book from Alsa_
 </pre></big>
 
--=MISSABLE=-
-
 **Point of no return: after first entering the capital**
 
 After the villagers bid you farewell on your journey, head back into town and talk to Alsa in the Tool Shop to acquire this book.
@@ -121,8 +131,6 @@ After the villagers bid you farewell on your journey, head back into town and ta
 [The Unofficial History of El Phildin [m] (3)](https://retroachievements.org/achievement/198670)
 _Read a book in the Phildin library that adds a history entry_
 </pre></big>
-
--=MISSABLE=-
 
 **Point of no return: after revisiting the capital at the start of Chapter 2**
 
@@ -161,8 +169,6 @@ Head into the waterways and make your way to the end to find Fururu's teddy bear
 _Obtain the Swordmaster 2 book from Fururu's mom_
 </pre></big>
 
--=MISSABLE=-
-
 **Point of no return: after revisiting the capital at the start of Chapter 2**
 
 After having found Fururu's teddy bear in the waterways, go to where Fururu lives and talk to her mom to get the book. Fururu's house is located at the lower level of Phildin right next to the Adventurers Guild, behind a wooden door in the north-east.
@@ -199,8 +205,6 @@ Triggers after rescuing the villagers of Tibri Village.
 [Rookie Treasure Hunter [m] (10)](https://retroachievements.org/achievement/197989)
 _Open all treasure chests found in chapter 1 (Gemstone Stope, Tibri Hwy, Ziziki Mtn Path, Ziziki Cave and Prayer Woods)_
 </pre></big>
-
--=MISSABLE=-
 
 **Point of no return: after finishing Prayer Woods (you can still backtrack afterwards)**
 
@@ -248,8 +252,6 @@ Pops up at the beginning of Chapter 2.
 _Win first prize in the raffle and exchange the ticket for a Treasure Sword Kasnard before meeting Douglas_
 </pre></big>
 
--=MISSABLE=-
-
 **Point of no return: after leaving Borun**
 
 When you first enter Borun, head straight up to reach the Raffle house. Go upstairs to play the raffle and play until you win the gold ticket. The options you want to go for are either:
@@ -282,8 +284,6 @@ Unlocks after apprehending the bandits in the Torkas Cave.
 [The Swordsmaster [m] (3)](https://retroachievements.org/achievement/197992)
 _Receive Swordmaster 3 from Paan in Borun_
 </pre></big>
-
--=MISSABLE=-
 
 **Point of no return: after reaching New Borun**
 
@@ -322,8 +322,6 @@ Unlocks after rescuing the Meefas in the Golda Cave.
 _Advise Ramicum in New Borun on what type of shop he should open.  It can be any of the three types of shops._
 </pre></big>
 
--=MISSABLE=-
-
 **Point of no return: after entering Guia**
 
 After resolving the fog problem in New Borun, go to the house in the north-west and give Ramicum any advise.
@@ -334,8 +332,6 @@ After resolving the fog problem in New Borun, go to the house in the north-west 
 [Wandering With Wind [m] (5)](https://retroachievements.org/achievement/197998)
 _Receive Quick Ravin 1 from Jyamane in New Borun.  Must have found Jyamane and Karamus in Phildin, Borun and New Borun previously_
 </pre></big>
-
--=MISSABLE=-
 
 **Point of no return: before heading to the Monastery after the fog issue**
 
@@ -353,8 +349,6 @@ Resolve the fog problem in New Borun, after which Jyamane is located in the midd
 [A Change of Plan [m] (5)](https://retroachievements.org/achievement/198000)
 _Receive Quick Ravin 2 from Jyamane in Guia_
 </pre></big>
-
--=MISSABLE=-
 
 **Point of no return: before leaving Guia for Koruna**
 
@@ -384,8 +378,6 @@ After having helped out at the Blast Furnace, try to move on with your journey a
 _Obtain Swordmaster 4 from Max_
 </pre></big>
 
--=MISSABLE=-
-
 **Point of no return: after having saved Guia from the monster invasion**
 
 When you meet Max on Anol Highway on his way to the Sorcery School, follow him and talk to him there to obtain the book.
@@ -414,8 +406,6 @@ Unlocks after the attack at Guia has settled.
 _Receive 2000 Rozes in payment for defending Guia even if Avin doesn't think he deserves it._
 </pre></big>
 
--=MISSABLE=-
-
 **Point of no return: after leaving Guia to depart to Balloa**
 
 After having saved Guia from the monster attacks, go to the Adventurer's Guild for your reward.
@@ -427,8 +417,6 @@ After having saved Guia from the monster attacks, go to the Adventurer's Guild f
 _Obtain Swordmaster 5 from the sailor in Balloa_
 </pre></big>
 
--=MISSABLE=-
-
 **Point of no return: after bringing back Eimelle to the Baron's house**
 
 While traveling through Balloa with Eimelle, head to the sailor bar next to the lighthouse. Talk to the sailor standing in front of the bar to obtain the book.
@@ -439,8 +427,6 @@ While traveling through Balloa with Eimelle, head to the sailor bar next to the 
 [A Joyful Reunion [m] (5)](https://retroachievements.org/achievement/198003)
 _After Avin and Eimelle finally meet up again see all the scenes with Mile, Avin and Eimelle before returning to Baron Conrad's_
 </pre></big>
-
--=MISSABLE=-
 
 **Point of no return: after bringing back Eimelle to the Baron's house**
 
@@ -457,8 +443,6 @@ While there are multiple scenes where dialog with Eimelle happens (e.g. the poet
 _Obtain Quick Ravin 3 from Jyamane in Balloa_
 </pre></big>
 
--=MISSABLE=-
-
 **Point of no return: after leaving for the Silver Mine**
 
 When first entering Balloa, talk to Karamus in front of the lighthouse. After having escorted Eimelle back to the Baron's house, go to the far top-left of the same screen where Jyamane is hanging around in a family house.
@@ -469,8 +453,6 @@ When first entering Balloa, talk to Karamus in front of the lighthouse. After ha
 [Save the Miners and Make History! [m] (5)](https://retroachievements.org/achievement/198777)
 _Save the miners from the monsters and get the bugged history entry.  Start with clearing out the right tunnel to avoid missing it._
 </pre></big>
-
--=MISSABLE=-
 
 **Point of no return: after having cleared the left tunnel of the mine**
 
@@ -509,8 +491,6 @@ Triggers after the cutscene when leaving Theta.
 _Find the optional history entry in Reference Room One in Valkd Grand Cathedral_
 </pre></big>
 
--=MISSABLE=-
-
 **Point of no return: Early Chapter 3**
 
 When having awakened in the Valkd Grand Cathedral, take the right stairs up from the main hall with Sir Gawaine and go down a room. Find the bookcase with the red exclamation mark.
@@ -539,8 +519,6 @@ Triggers after trying (and failing) to approach the black barrier surrounding th
 _Talk to Arts in the town of Valkd after Gawaine joins to gain a missable history entry_
 </pre></big>
 
--=MISSABLE=-
-
 **Point of no return: After going back to Theta with Gawaine**
 
 When Gawaine joins the party, head to the bottom-left of the right screen of Valkd. Inside the house is Arts, talk to him for this achievement.
@@ -551,8 +529,6 @@ When Gawaine joins the party, head to the bottom-left of the right screen of Val
 [Dark Eyes [m] (5)](https://retroachievements.org/achievement/199554)
 _Receive Quick Ravin 4 from Jyamane in Theta_
 </pre></big>
-
--=MISSABLE=-
 
 **Point of no return: When departing for Truth Island**
 
@@ -626,6 +602,555 @@ Triggers at the start of Chapter 3.
 
 </details>
 
-## Step 3: Dummy Step 3 | **Total points: 999**
+## Step 3: Chapter 3 and 4 | **Total points: 999**
 
-Empty Dummy Step, remove if unnecessary.
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/221882.png">
+
+<big><pre>
+[A Turn For the Worse [m] (3)](https://retroachievements.org/achievement/199761)
+_Obtain Swordmaster 6 from Kurason in Valkd_
+</pre></big>
+
+**Point of no return: After departing for Quitt Village**
+
+After the start of Chapter 3, head to the top-left room in the Grand Cathedral where a family of three are staying. Talk to the man for the achievement.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/221913.png">
+
+<big><pre>
+[A Chorus of Insects [m] (5)](https://retroachievements.org/achievement/199797)
+_Receive Quick Ravin 5 in Valkd Grand Cathedral (must tell stories to Karamus in Dorx and Valkd first)_
+</pre></big>
+
+**Point of no return: After departing for Quitt Village**
+
+As the achievement description indicated, you must have talked to Karamus in Dorx, chapter 2 first. Afterwards, he will appear in Valkd after a familiar face joins your party again. Talk to him again on the right screen, then head straight to the Grand Cathedral in the top-right room of the entrance to gain this achievement.
+
+<details>
+<summary>
+
+### Story-related achievements in toggle: 2
+</summary>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222016.png">
+
+<big><pre>
+[Beaten by a Kid (5)](https://retroachievements.org/achievement/199899)
+_With some help from Jimmy, deal with the monsters being summoned to Pregon Cave_
+</pre></big>
+
+This achievement will unlock at the end of Pregon Cave.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222028.png">
+
+<big><pre>
+[Scotia of Beautiful Water (10)](https://retroachievements.org/achievement/199902)
+_Restore Scotia to her original form, obtain the sacred treasure Dellepied and Scotia's power along with saving Lita_
+</pre></big>
+
+This achievement will unlock following the cutscene at the end of Scotia's Shrine.
+
+</details>
+  
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222212.png">
+
+<big><pre>
+[An Unexpected Encounter [m] (3)](https://retroachievements.org/achievement/200086)
+_Receive Swordmaster 7 from Cerine in Quitt Village_
+</pre></big>
+
+**Point of no return: After going back to Valkd**
+
+Once the situation at Quitt Village is dealt with and you are on your way back to Valkd, turn around and talk to Cerine for this book.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222213.png">
+
+<big><pre>
+[Another Well-Earned Reward [m] (3)](https://retroachievements.org/achievement/200087)
+_Receive 3000 Roze from Chief Godal for helping the village_
+</pre></big>
+
+**Point of no return: After going back to Valkd**
+
+Once the situation at Quitt Village is dealt with and you are on your way back to Valkd, turn around and talk to the chief for this reward.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222214.png">
+
+<big><pre>
+[In a Tight Corner [m] (4)](https://retroachievements.org/achievement/200088)
+_Receive Swordmaster 8 from Neil in Dorx_
+</pre></big>
+
+**Point of no return: After departing for Balloa**
+
+When heading back to Theta for a boat, don't leave right away and go to Dorx first instead. Talk to Neil here to gain Swordmaster 8.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222215.png">
+
+<big><pre>
+[Foregone Dreams [m] (5)](https://retroachievements.org/achievement/200089)
+_Receive Quick Ravin 6 from Jyamane in Theta_
+</pre></big>
+
+**Point of no return: After departing for Balloa**
+
+Jyamane is waiting at the inn again, just like when you gained Quick Ravin 4. If you followed every Jyamane/Karamus event before this one, he should give you the book.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222216.png">
+
+<big><pre>
+[The Continuity Nod [m] (2)](https://retroachievements.org/achievement/200090)
+_Have a chat with Karamus in Theta and find out that Lucias was the star of Sapphie, the series of another game_
+</pre></big>
+
+**Point of no return: After departing for Balloa**
+
+In the same inn where Jyamane gives you Quick Ravin 6, head to the back where Karamus is standing. A short dialog will play after which the achievement will unlock.
+
+<details>
+<summary>
+
+### Story-related achievements in toggle: 1
+</summary>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222217.png">
+
+<big><pre>
+[Save the Baron! (5)](https://retroachievements.org/achievement/200091)
+_Assist Baron Conrad in defeating some of Octum's Apostles_
+</pre></big>
+
+Triggers after defeating the assassins at the bridge towards Guia.
+
+</details>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222218.png">
+
+<big><pre>
+[The Decision [m] (3)](https://retroachievements.org/achievement/200092)
+_Received Swordmaster 9 from Sion at the Sorcery School_
+</pre></big>
+
+**Point of no return: Entering Guia before going to the Sorcery School**
+
+Before entering Guia for the first time again, head down to the Sorcery School instead. Here, talk to the director to receive the book.
+
+<details>
+<summary>
+
+### Story-related achievements in toggle: 1
+</summary>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222253.png">
+
+<big><pre>
+[Loss of Hope (5)](https://retroachievements.org/achievement/200127)
+_In the Ice Palace, Avin has a dream that confirms his worst fears and asks him to save someone_
+</pre></big>
+
+Triggers after a cutscene plays in the Ice Palace.
+
+</details>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222369.png">
+
+<big><pre>
+[The Monument in the Mine [m] (3)](https://retroachievements.org/achievement/200254)
+_Find and read the stone monument in the depths of Guia Mine to gain an optional history entry._
+</pre></big>
+
+**Point of no return: Finishing the Guia Mine**
+
+Very important to not go to the top-right in the screen after the cutscene with Lucias. You'll be dragged into a boss battle and lose the chance permanently to get this achievement. Instead, head to the top-left. There you fill find a stone monument for the achievement.
+
+<details>
+<summary>
+
+### Story-related achievements in toggle: 1
+</summary>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222370.png">
+
+<big><pre>
+[A Happy Sibling Reunion (5)](https://retroachievements.org/achievement/200255)
+_Defeat the hooded sorcerer, saving Rouca and the plant manager and also putting a stop to monsters being summoned in the mine._
+</pre></big>
+
+Triggers after finishing the story segment as the Guia Mine.
+
+</details>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222371.png">
+
+<big><pre>
+[Atoning for Her Sins [m] (2)](https://retroachievements.org/achievement/200256)
+_After clearing Guia Mine of monsters, speak with Oldwoman Rao in her home_
+</pre></big>
+
+**Point of no return: Upon entering Garden Hill**
+
+After you are done with Guia and tasked to move on to Garden Hill, stop by at Oldwoman Rao's home in the bottom-right of the town for a cutscene.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222651.png">
+
+<big><pre>
+[The Duel [m] (2)](https://retroachievements.org/achievement/200451)
+_Receive Swordmaster 10 from a meefa in Garden Hill after the air is cleaned_
+</pre></big>
+
+**Point of no return: Upon finishing Idun Shrine**
+
+After you go back to Garden Hill with the Meefas, talk to the one in the top-right of the town. He'll have the book for you.
+
+<details>
+<summary>
+
+### Story-related achievements in toggle: 2
+</summary>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222652.png">
+
+<big><pre>
+[Idun of Gentle Wind (10)](https://retroachievements.org/achievement/200452)
+_Restore Idun back to normal, gain the fouth sacred treasure and the power of the wind._
+</pre></big>
+
+Triggers after the cutscene at the end of Idun Shrine.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222747.png">
+
+<big><pre>
+[Eimelle's Friends Saved! (5)](https://retroachievements.org/achievement/200537)
+_Assist with dealing with an attack on Benequia Monastery by Octum's Apostles_
+</pre></big>
+
+Triggers after helping out at the Benequia Monastery.
+
+</details>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222748.png">
+
+<big><pre>
+[Avin the Mail Carrier [m] (2)](https://retroachievements.org/achievement/200538)
+_Receive a reward for delivering a letter to Linde's grandmother_
+</pre></big>
+
+**Point of no return: when heading to Ourt Village**
+
+After helping out at the Benequia Monastery, return there and talk to Linde outside of the building to the top-left. Receive her letter, and deliver it to her grandmother in Phildin. She is located on the left-most screen in the top-right building.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222749.png">
+
+<big><pre>
+[The Flashing Sword [m] (3)](https://retroachievements.org/achievement/200539)
+_Receive Swordmaster 11 from the librarian in Phildin_
+</pre></big>
+
+**Point of no return: when heading to Ourt Village**
+
+Talk to the librarian in, where else, the library of Phildin, located on the right-most screen.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222759.png">
+
+<big><pre>
+[He Truly is Famous! [m] (3)](https://retroachievements.org/achievement/200549)
+_Have Muse introduce Avin to the King and see how famous Avin has become._
+</pre></big>
+
+**Point of no return: when heading to Ourt Village**
+
+When first in the castle after Martie and Muse rejoin the party, approach the king for a cutscene to play.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/222760.png">
+
+<big><pre>
+[Time For More History [m] (5)](https://retroachievements.org/achievement/200550)
+_Gain all the optional history entries from Phildin Castle's library_
+</pre></big>
+
+**Point of no return: When heading to Ourt Village**
+
+On the right side of the main hall in the castle is the library. Read all of the books here that have a red exclamation mark for this achievement to pop up.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223030.png">
+
+<big><pre>
+[Fond Remembrance [m] (5)](https://retroachievements.org/achievement/200765)
+_While in the Ziziki Cave to get the Firefly Mushroom, revisit the area where the Syamseal Gang was previously found_
+</pre></big>
+
+**Point of no return: when heading to Ourt Village**
+
+As the description indicates, you have to get to the deepest part of the Ziziki Cave for a cutscene to trigger.
+
+<details>
+<summary>
+
+### Story-related achievements in toggle: 1
+</summary>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223031.png">
+
+<big><pre>
+[A Fungus Among Us (5)](https://retroachievements.org/achievement/200766)
+_Defeat the monsters and obtain the Firefly Mushroom.  Clearly monsters love fungus._
+</pre></big>
+
+Triggers after picking up the mushrooms in the Ziziki Cave.
+
+</details>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223032.png">
+
+<big><pre>
+[Knowledge of Phildin's Past [m] (3)](https://retroachievements.org/achievement/200767)
+_After obtaining the Jenis Water, talk to Oldman Loberus in Phildin to get the last missable history entry._
+</pre></big>
+
+**Point of no return: when heading to Ourt Village**
+
+When returning to Phildin, go to the house next to the Adventurer's Guild. Speak to the old man in the basement for this missable history entry.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223033.png">
+
+<big><pre>
+[The Girl [m] (5)](https://retroachievements.org/achievement/200768)
+_Receive Quick Ravin 7 from Jyamane in Phildin_
+</pre></big>
+
+**Point of no return: when heading to Ourt Village**
+
+After having talked to Karamus in Borum, Jyamane will be in the inn in Phildin after having retrieved the Jenis Water.
+
+<details>
+<summary>
+
+### Story-related achievements in toggle: 1
+</summary>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223170.png">
+
+<big><pre>
+[Nephtys of the Harvested Earth (10)](https://retroachievements.org/achievement/200898)
+_Restore Nephtys back to normal, gain power and another sacred treasure_
+</pre></big>
+
+Triggers after the cutscene at the end of Nepthys' Shrine.
+
+</details>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223171.png">
+
+<big><pre>
+[Fall of the Swordsmaster [m] (3)](https://retroachievements.org/achievement/200899)
+_Receive Swordmaster 12 from Luc in Brizahc_
+</pre></big>
+
+**Point of no return: before leaving with the ship towards Kanaphia**
+
+During your first visit to Brizahc, talk to Luc at the inn to receive Swordmaster 12.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223172.png">
+
+<big><pre>
+[Gems in the Peat [m] (5)](https://retroachievements.org/achievement/200900)
+_Find all five of the egg sized Crimson Fires in the Eiton Cave_
+</pre></big>
+
+**Point of no return: Leaving Eiton Cave**
+
+There are a total of five egg-sized Crimson Fires to be found. The first one is mandatory in the swamp where you start. The other four are in the next screen, with two of them being in the swamp when taking the first route up, while the other two are in the smaller swamps on the way to the fist-sized Crimson Fire.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223174.png">
+
+<big><pre>
+[The Sorcerer [m] (2)](https://retroachievements.org/achievement/200901)
+_Receive Quick Ravin 8 from Jyamane in Brizahc_
+</pre></big>
+
+**Point of no return: before leaving with the ship towards Kanaphia after Eiton Cave**
+
+Talk to Karamus during your first visit in Brizahc before leaving with the ship. Then, fulfill the story segment at Eiton Cave, after which Jyamane will be waiting at the inn.
+
+<details>
+<summary>
+
+### Story-related achievements in toggle: 3
+</summary>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223176.png">
+
+<big><pre>
+[The Blade of Carnage (5)](https://retroachievements.org/achievement/200902)
+_Madram challenges Avin to a duel to see who should hold the sacred treasures_
+</pre></big>
+
+Triggers after the cutscene where Madram battle Avin.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223177.png">
+
+<big><pre>
+[A Gift 15 Years in the Making (10)](https://retroachievements.org/achievement/200903)
+_Borgeid is defeated once and for all_
+</pre></big>
+
+Trigger after the cutscene that plays after the battle with Borgeid.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223178.png">
+
+<big><pre>
+[The Holy Sword, Elucion (5)](https://retroachievements.org/achievement/200904)
+_Meet with Zar, gain the last sacred treasure, his power and the Holy Sword Elucion_
+</pre></big>
+
+Triggers after the cutscene at the end of Zar's Shrine.
+
+</details>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223179.png">
+
+<big><pre>
+[Thoughts Handed Down [m] (3)](https://retroachievements.org/achievement/200905)
+_Visit Dominique's grave again after obtaining the Holy Sword_
+</pre></big>
+
+**Point of no return: after leaving Kanaphia**
+
+After leaving Zar's Shrine, head up to where Dominique's grave is. A cutscene will play, after which the achievement will trigger.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223243.png">
+
+<big><pre>
+[Finding Hope in a Storm [m] (5)](https://retroachievements.org/achievement/200969)
+_Receive Quick Ravin 9 from Jyamane in Valkd_
+</pre></big>
+
+**Point of no return: before leaving for the Cathedral**
+
+Jyamane is found after the start of Chapter 4 at the top floor of the inn in Valkd. Talk to him to receive the final book.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223256.png">
+
+<big><pre>
+[Quick Ravin Collector [m] (10)](https://retroachievements.org/achievement/200981)
+_Trade all nine Quick Ravin books to Duke Aron for a Moon Amulet_
+</pre></big>
+
+**Point of no return: before leaving for the Cathedral**
+
+When having talked to Jyamane for the final book, as well as having all other eight volumes, talk to Duke Aron who is in the Cathedral, to the right of the main hall near the library.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223264.png">
+
+<big><pre>
+[Swordmaster Collector [m] (5)](https://retroachievements.org/achievement/200989)
+_Trade all volumes of Swordmaster to Muche for the Zero Field accessory_
+</pre></big>
+
+**Point of no return: before leaving for the Catherdral**
+
+Bring all the volumes of Swordmaster to Muche, who is the guy always sleeping in his bed next to the Adventurer's Guild in Valkd.
+
+<details>
+<summary>
+
+### Story-related achievements in toggle: 1
+</summary>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223283.png">
+
+<big><pre>
+[A Bond That Can Never Be Broken (10)](https://retroachievements.org/achievement/201009)
+_Reunite with Mile_
+</pre></big>
+
+Triggers after the boss battle with possessed Mile below the Cathedral.
+
+</details>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223423.png">
+
+<big><pre>
+[Expert Treasure Hunter [m] (25)](https://retroachievements.org/achievement/201149)
+_Open all treasure chests in chapters 3 and 4 (Quitt Byway, Pregon Cave, Scotia Shrine, Grand Canyon, Idun Shrine, Notos Forest, Nephtys Shrine, Valkd Cathedral, Eiton Cave, Zar Shrine and Sealed Land)  Refilled chests do not count._
+</pre></big>
+
+Be extra wary of this achievement as there are a lot of chests, and the shrines have a tendency to play with see-through walls.
+
+1. **Pregon Cave** - Marvel Mail (On the second screen of the cave, keep heading to the left to reach the chest)
+2. **Pregon Cave** - Rarer Potion (When you see the bridge, don't go on it but head down instead for this chest)
+3. **Pregon Cave** - Circlet (After the short cutscene where you are surrounded by monsters, go a bit to the left)
+4. **Quitt Byway** - Rarest Potion (On the screen before Quitt in the top-left corner)
+5. **Scotia Shrine** - Helios Blade (On the first floor down, open the door south of you and then go downstairs until you reach the chest)
+6. **Scotia Shrine** - Rarer Potion (On the first floor down, continue on until you see a small alleyway, go down here until you reach the chest)
+7. **Scotia Shrine** - Antidote Ore (On the second floor down on the main path, can't miss it)
+8. **Scotia Shrine** - Arcuvas (Just slightly beyond chest 7, head right through an invisible wall)
+9. **Scotia Shrine** - Royal Powder (On the third floor down, open the leftmost room to find this chest)
+10. **Scotia Shrine** - Rarest Potion (Once you enter the fancy room, there are two chests)
+11. **Scotia Shrine** - Theresia H2O (Next to chest 9)
+12. **Scotia Shrine** - Asura Charm (Once you exit the teleporter, take the narrow path left of you)
+13. **Scotia Shrine** - Dashing Boots (Once you exit the teleporter, take the narrow path right of you)
+14. **Grand Canyon** - Mobius Ring (When first going outside in the Grand Canyon, can't miss it)
+15. **Grand Canyon** - Bind Talisman (On floor 5 on the main path, also can't miss it)
+16. and 17. **Idun Shrine** - 2x SP Arcanum 2 (From the entrance, take the first path to the left for two chests.
+18. to 25. **Idun Shrine** - 6x Rare Potion, Battle Wrist, Shield Orb (From the entrance, take the first path to the right. Go all the way down until you see an empty room. The wall on the bottom is see-through, so keep walking down and you'll find a room with 8 chests)
+26. **Idun Shrine** - Theresia H2O (When arriving at the room with two separate stairs down, the the right one to find this chest)
+27. **Idun Shrine** - Frissa (When arriving at the room with two separate stairs down, take the left one and go to the right in that room to find this chest)
+28. **Idun Shrine** - Acinaces (Proceed a bit through the fancy-looking rooms until you see two chests. The one on your left will give you this item)
+29. **Idun Shrine** - Rarest Potion (Proceed a bit through the fancy-looking rooms until you see two chests. The one on your right will give you this item)
+30. **Idun Shrine** - Sp Arcanum 3 (After the teleporter and moving platform, check the chest on your left)
+31. **Idun Shrine** - Rarest Potion (After the teleporter and moving platform, check the chest on your right)
+32. **Notos Forest** - Sp Arcanum 2 (On the first screen in the top-middle)
+33. **Notos Forest** - Sp Arcanum 2 (On the first screen near the exit)
+34. **Nepthys Shrine** - Shield Astarte (Take the first stairs down and walk to the end for this chest)
+35. **Nepthys Shrine** - Anti-Chaos (Take the first stairs down and walk to the end for this chest)
+36. **Nepthys Shrine** - Stimulant (Continue onward with the mandatory path. When you eventually go up again, continue until you see the first stairs, go down here)
+37. **Nepthys Shrine** - Rarer Potion (Continue onward. When the mandatory path wants you to take stairs to the right, go up in a small hallway instead)
+38. and 39. **Nepthys Shrine** - Rare Tiamat, Royal Powder (After the maze, head down and continue all the way south. Instead of going down the stairs, the bottom wall is see-through and will bring you to the two chests)
+40. **Nepthys Shrine** - Theresia H2O (In the fancy room before the teleporter, go to left near the end of the screen for this chest)
+41. **Nepthys Shrine** - Shield Orb (After teleporting, head to your left right away to end up at this chest)
+42. **Nepthys Shrine** - Sp Arcanum 3 (After the moving platform, on your left)
+43. **Nepthys Shrine** - Royal Powder (After the moving platform, on your right)
+44. to 68. **Valkd Cathedral** - Too many to mention. Choosing the lazy way out here, but remember the basement of Valkd Cathedral where you escaped for the first time? You probably saw some chests there that you couldn't access. Now you can, so be sure to open all 25. There are no hidden ones, all of them are in plain sight.
+69. **Eiton Mountain Path** - Rune Boots (When at the three-way split shortly after the entrance, keep heading down to reach the chest)
+70. **Eiton Cave** - Chanting Tiara (Head straight up from the entrance without diversion and you'll eventually reach it)
+71. **Zar Shrine** - Guardian (From the entrance, go through the closed door and take the stairs on your right. Follow the path to this chest)
+72. **Zar Shrine** - Stimulant (From the entrance, go through the closed door and take the stairs on your left. Follow the path to this chest)
+73. to 75. **Zar Shrine** - Sp Arcanum 3, Theresia H2O, Skuld Elixer (Keep going up stairs as much as you can, then continue your path until you reach a supposed dead end. The bottom wall is see-through, go through it for these chests.
+76. **Zar Shrine** - Zepuros Hammer (In the room with the three chests is another secret see-through wall on your left. Go through it to reach this chest)
+77. **Zar Shrine** - Stimulant (Once arriving at the fancy room, walk a bit ahead and then it will be on your left)
+78. **Zar Shrine** - Holy Iris (Once arriving at the fancy room, walk a bit ahead and then it will be on your right)
+79. **Sealed Land** - Sp Arcanum 3 (When going outside for the first time with a short cutscene happening that looks at the elevator, go to your top right)
+80. **Sealed Land** - Rarest Potion (In the same area as chest 79, go down the skeletal ''staircases'' for this chest)
+81. **Sealed Land** - Impact Orb (In the cave after the area with the previous chests, near the very end)
+82. **Sealed Land** - Chanting Tiara (After a long descent of skeletal ''staircases'' and entering a new cave, head down as soon as you can to a supposed dead-end. There's a see-through wall here in the screen before the last one, head through it for the chest)
+83. **Sealed Land** - Famed Pleiades (When almost going down another screen, head down the skeletal "staircases" on your left first)
+84. **Sealed Land** - Godly Altezza (After going down the before-mentioned screen, head to your right and you'll find this chest)
+85. **Sealed Land** - Godly Crypton (In the same area as chest 84, head down and then all the way to the left. Go up the skeleton "staircase" for this chest)
+86. **Sealed Land** - War Torr (After the very short cave, head up the first skeletal "staircase" you'll see for this chest.
+87. to 89. **Sealed Land** - Royal Powder, Theresia H2O, Skuld Elixer (Three chests on the mandatory road)
+90. **Time Labyrinth** - Theresia H2O (In the first screen, go up after the first teleporter and cross the floating islands)
+91. **Time Labyrinth** - Riebe Leaf (Take the teleporter slightly below chest 90)
+92. **Time Labyrinth** - Stimulant (After a few mandatory teleporters, it is in clear sight)
+93. **Time Labyrinth** - Evil Workus (Head down and then right of chest 92, and there's another floating island you can walk towards)
+94. **Time Labyrinth** - Magic Trident (Head down from chest 93 and use two teleporters to get to this chest)
+95. **Time Labyrinth** - Rarest Potion (After some more mandatory teleporters, cross a bridge to your left for this chest)
+96. **Time Labyrinth** - Sp Arcanum 3 (Take the top-left teleporter in the same area as chest 95)
+97. **Time Labyrinth** - Skuld Elixer (Take the top-right teleporter in the same area as chest 95. Then hop in the first teleporter you see and it will be at the end)
+
+<details>
+<summary>
+
+### Story-related achievements in toggle: 1
+</summary>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/223565.png">
+
+<big><pre>
+[To Lay A Path of Hope (25)](https://retroachievements.org/achievement/201291)
+_Beat the game and watch the ending_
+</pre></big>
+
+Beat the game. Congratulations!
+
+</details>
