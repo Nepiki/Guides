@@ -14,7 +14,9 @@
 
 # 2) Introduction
 
-WIP
+The Legend of Heroes IV: A Tear of Vermillion is a role-playing game originally developed by [Nihon Falcom Corporation](https://nihon-falcom.fandom.com/wiki/Nihon_Falcom_Corporation). It is the first game in regards to the timeline in the "Gagharv Trilogy", a trilogy spanning three games with [The Legend of Heroes II: Prophecy of the Moonlight Witch](https://retroachievements.org/game/3563) and [The Legend of Heroes III: Song of the Ocean](https://retroachievements.org/game/3567). The localization did mess a bit with the chronological order, but it is commonly accepted for A Tear of Vermillion to be the first in the trilogy. This series is known to be the predecessor to the sixth game in the The Legend of Heroes series, Trails in the Sky, which is now commonly knows as the Trails series.
+
+This achievement set is created by developer [ladynadiad](https://retroachievements.org/user/ladynadiad), who has done an excellent job covering everything the game has to offer. There are a lot of missable achievements in this set that are chronologically ordered on the game page, but I wanted to emphasise on them further by introducing a completely spoiler-free guide. This guide hides all the story achievements in a toggle with the amount described, making it so that this guide can be approached without the worry that you will be spoiling yourself. For example, if the toggle says 2 achievements, then everything between this toggle and the next toggle can be gained in-between that time. If you are a veteran of the series however, you are most likely familiar with how this game handles missables: talking to every NPC after every major happening in the story. By following this approach, most if not all achievements shouldn't be a problem for you!
 
 # 3) Walkthrough
 
@@ -26,10 +28,6 @@ This step covers all the achievements that can be obtained during chapter 1 in c
 - [The Unofficial History of El Phildin](https://retroachievements.org/achievement/198670) - Is available for the whole chapter after entering Phildin, as well as the start of chapter 2. Possibly chapter 3 as well, but don't quote me on that.
 - [Opening of War](https://retroachievements.org/achievement/197985) - Is available for the whole chapter after the second Adventurer's Guild task, as well as the start of chapter 2.
 - [Rookie Treasure Hunter](https://retroachievements.org/achievement/197989) - While it can technically be finished in chapter 2, it is recommended to do this before the end of chapter 1 due to the first area listed in the achievement becoming inaccessible after chapter 1 ends. The point of no return is upon finishing the Prayer Woods.
-
-Other important events that need to be done in Chapter 1 and will take an important role in later chapters:
-- You will be seeing the writer Karamus and his manager Jyamane frequently throughout the game. You will first meet them in the Phildin. When your first Adventurer's Guild task starts, talk to Karamus in the north side of the bottom screen of the capital, and Jyamane in the inn south of him. They both must leave for this interaction to be finished.
-- This chapter has a total of **two** Swordmaster books to collect. Both of them have missable achievements so you know when you have them.
 
 **Chapter 1's point of no return is after the Prayer Woods.**
 
@@ -55,24 +53,43 @@ This step covers all the achievements that can be obtained during chapter 2 in c
 - [Dark Eyes](https://retroachievements.org/achievement/199554) - Involves the Karamus and Jyamane events. Read the "Other important events" segment of Step 1 and 2 carefully for this. Must be done before leaving for Truth Island.
 - [Experienced Treasure Hunter](https://retroachievements.org/achievement/199760) - The chests achievement of Chapter 2. You get very few chances to revisit the roads, so be sure to do everything on your first visit.
 
-Other important events that need to be done in Chapter 2 and will take an important role in later chapters:
-
-- Karamus and Jyamane events:
-   - You will first be meeting Karamus and Jyamane on the top floor of the inn in Borun. Talk to them both.
-   - Karamus will appear after some events in New Borun (before heading to the monastery for the first time), while Jyamane will appear later after the fog has been cleared.
-   - Karamus will be at Guia right from the start, while Jyamane will appear after having gone to the power plant.
-   - Karamus will be at Balloa right from the start, while Jyamane is only shortly available before going to the Silver Mine.
-   - Jyamane will be at Theta during your second visit.
-   - Karamus will be at Dorx.
-- This chapter has a total of **three** Swordmaster books to collect. Both of them have missable achievements so you know when you have them.
-
 **Chapter 2's point of no return is after leaving Dorx.**
 
 ***
 
-[**Step 3: Dummy Step 3**](#step-3-dummy-step-3--total-points-999)
+### [**Step 3: Chapter 3 and 4**](#step-3-chapter-3-and-4--total-points-234)
 
-Dummy step. Remove if unnecessary.
+This step covers all the achievements that can be obtained during chapter 3 and 4 in chronological order of when you can first get them. Like chapter 2, the breathing room for missable achievements isn't too big. Leaving a town or route can very well mean that you will not be able to get it again, so do be wary. Check them out in the following order:
+
+**Chapter 3**
+- [A Turn For the Worse](https://retroachievements.org/achievement/199761) - Must be done before going to Quitt Village
+- [A Chorus of Insects](https://retroachievements.org/achievement/199797) - Must be done before going to Quitt Village
+- [An Unexpected Encounter](https://retroachievements.org/achievement/200086) - Must be done before going back to Valkd
+- [Another Well-Earned Reward](https://retroachievements.org/achievement/200087) - Must be done before going back to Valkd
+- [In a Tight Corner](https://retroachievements.org/achievement/200088) - Must be done before departing for Balloa
+- [Foregone Dreams](https://retroachievements.org/achievement/200089) - Must be done before departing for Balloa
+- [The Continuity Nod](https://retroachievements.org/achievement/200090) - Must be done before departing for Balloa
+- [The Decision](https://retroachievements.org/achievement/200092) - Must be done before entering Guia
+- [The Monument in the Mine](https://retroachievements.org/achievement/200254) - Must be done before finishing the Guia Mine. Make some saves here as you will be dragged in a cutscene, boss battle, and will then be unable to revisit the mine
+- [Atoning for Her Sins](https://retroachievements.org/achievement/200256) - Must be done before leaving for Garden Hill
+- [The Duel](https://retroachievements.org/achievement/200451) - Must be done before finishing Idun Shrine
+- [Avin the Mail Carrier](https://retroachievements.org/achievement/200538) - Must be done before leaving for Ourt Village
+- [The Flashing Sword](https://retroachievements.org/achievement/200539) - Must be done before leaving for Ourt Village
+- [He Truly is Famous!](https://retroachievements.org/achievement/200549) - Must be done before leaving for Ourt Village
+- [Time For More History](https://retroachievements.org/achievement/200550) - Must be done before leaving for Ourt Village
+- [Fond Remembrance](https://retroachievements.org/achievement/200765) - Must be done before leaving for Ourt Village
+- [Knowledge of Phildin's Past](https://retroachievements.org/achievement/200767) - Must be done before leaving for Ourt Village
+- [The Girl](https://retroachievements.org/achievement/200768) - Must be done before leaving for Ourt Village
+- [Fall of the Swordsmaster](https://retroachievements.org/achievement/200899) - Must be done before leaving for Kanaphia
+- [Gems in the Peat](https://retroachievements.org/achievement/200900) - Must be done before leaving Eiton Cave
+- [The Sorcerer](https://retroachievements.org/achievement/200901) - Must be done before leaving for Kanaphia after Eiton Cave
+- [Thoughts Handed Down](https://retroachievements.org/achievement/200905) - Must be done before leaving Kanaphia
+
+**Chapter 4**
+- [Finding Hope in a Storm](https://retroachievements.org/achievement/200969) - Must be done before leaving for the Cathedral
+- [Quick Raving Collector](https://retroachievements.org/achievement/200981) - Must be done before leaving for the Cathedral
+- [Swordmaster Collector](https://retroachievements.org/achievement/200989) - Must be done before leaving for the Cathedral
+- [Expert Treasure Hunter](https://retroachievements.org/achievement/201149) - The chests achievement of Chapter 3 and 4. You get very few chances to revisit the roads, so be sure to do everything on your first visit.
 
 ***
 
@@ -82,7 +99,53 @@ There are a total of two separate book series to collect: Swordmaster, and Quick
 
 ### Swordmaster
 
+**Chapter 1**
+- [Swordmaster 1](https://retroachievements.org/achievement/197982) - NPC located in Ourt Village. Get this before entering the Capital.
+- [Swordmaster 2](https://retroachievements.org/achievement/197985) - NPC located in the lower side of Phildin. Get this after the second Adventurer's Guild assignment. Before Chapter 2.
+
+**Chapter 2**
+- [Swordmaster 3](https://retroachievements.org/achievement/197992) - NPC located in Borun. Get this before leaving for New Borun.
+- [Swordmaster 4](https://retroachievements.org/achievement/198001) - NPC located at Sorcery School. Get this after meeting Max on the road next to Guia.
+- [Swordmaster 5](https://retroachievements.org/achievement/197996) - NPC located at the sailor's bar in Balloa. Get this during a specific spoilery event in Balloa.
+
+**Chapter 3**
+- [Swordmaster 6](https://retroachievements.org/achievement/199761) - NPC located in the Grand Cathedral. Get this before leaving for Quitt Village.
+- [Swordmaster 7](https://retroachievements.org/achievement/200086) - NPC located in Quitt Village. Get this before going back to Valkd.
+- [Swordmaster 8](https://retroachievements.org/achievement/200088) - NPC located in Dorx. Get this before leaving for Balloa.
+- [Swordmaster 9](https://retroachievements.org/achievement/200092) - NPC located at Sorcery School. Get this before entering Guia.
+- [Swordmaster 10](https://retroachievements.org/achievement/200451) - NPC located at Garden Hill. Get this before finishing Idun Shrine.
+- [Swordmaster 11](https://retroachievements.org/achievement/200539) - NPC located at Phildin. Get this before leaving for Ourt Village.
+- [Swordmaster 12](https://retroachievements.org/achievement/200899) - NPC located at Brizahc. Get this before leaving for Kanaphia.
+
 ### Quick Rivin
+
+You will be seeing the writer Karamus and his manager Jyamane frequently throughout the game. They are usually found in each town with a few exceptions, e.g. when there hasn't been anything interesting going on in the story. Talking to them at every occassion is essential, so do not skip on any of these.
+
+**Chapter 1**
+- Talk to Karamus in the northern house of the bottom screen at the capital after starting the Adventurer's Guild story segment. Then talk to Jyamane at the inn.
+
+**Chapter 2**
+- Talk to Karamus and Jyamane at the top floor of the inn in Borun.
+- Talk to Karamus in New Borun (he appears before heading to the monastery for the first time)
+- [Quick Ravin 1](https://retroachievements.org/achievement/197998) - Talk to Jyamane in New Borun (he appears after the fog has been lifted in New Borun)
+- Talk to Karamus upon entering Guia.
+- [Quick Ravin 2](https://retroachievements.org/achievement/198000) - Talk to Jyamane in Guia after having gone to the Power Plant.
+- Talk to Karamus upon entering Guia.
+- [Quick Ravin 3](https://retroachievements.org/achievement/198004) - Talk to Jyamane in Guia before heading to the Silver Mine.
+- [Quick Ravin 4](https://retroachievements.org/achievement/199554) - Talk to Jyamane at Theta during your second visit there.
+- Talk to Karamus at Dorx.
+
+**Chapter 3**
+- Talk to Karamus in Valkd after a familiar face joins your party again.
+- [Quick Ravin 5](https://retroachievements.org/achievement/199797) - Talk to Jyamane at the Grand Cathedral.
+- [Quick Ravin 6](https://retroachievements.org/achievement/200089) - Talk to both Karamus and Jyamane at Theta.
+- Talk to Karamus in Borun.
+- [Quick Ravin 7](https://retroachievements.org/achievement/200768) - Talk to Jyamane in Phildin.
+- Talk to Karamus upon entering Brizahc.
+- [Quick Ravin 8](https://retroachievements.org/achievement/200901) - Talk to Jyamane in Brizahc after having gone to Eiton Cave.
+
+**Chapter 4**
+- [Quick Ravin 9](https://retroachievements.org/achievement/200981) - Talk to Jyamane at the inn in Valkd.
 
 ***
 
@@ -602,7 +665,7 @@ Triggers at the start of Chapter 3.
 
 </details>
 
-## Step 3: Chapter 3 and 4 | **Total points: 999**
+## Step 3: Chapter 3 and 4 | **Total points: 234**
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/221882.png">
 
