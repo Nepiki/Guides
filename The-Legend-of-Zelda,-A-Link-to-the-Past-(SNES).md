@@ -60,9 +60,12 @@ This step has nine missable achievements:
    * Do NOT get any bottles before beating the game.
    * Do NOT upgrade the Master Sword to Tempered Sword before having beaten Ganon's Tower.
    * Do NOT beat any Dark World bosses before having beaten the one from Turtle Rock, the seventh dungeon in the Dark World.
-   * Do NOT defeat the first boss of the Dark World before having obtained the Light Arrows (requires fifth/sixth dungeon beaten). 
+   * Do NOT defeat the first boss of the Dark World before having obtained the Light Arrows (requires fifth/sixth dungeon beaten).
 * Remember that the game has a built-in copy feature for save files, for a maximum of 3 slots. This can be especially useful if you want to keep a boss for later due to it being too tough, or if you want to do dungeons in a specific order as you can (kinda) do the Dark World dungeons in a different order than stated.
    * One such example is by getting the item from the dungeon, but not beating the boss yet. This way, you can keep the boss from the first dungeon in the Dark World alive and kill him last for example.
+   * Using the save file copy is recommended for the following places:
+      * Before heading to the Castle Tower, as you need to defeat Agahnim with the Bug's Net that you can't get on a bottle-less playthrough.
+      * Before Turtle Rock. Mothula, Kholdstare, and Trinexx have challenge achievements that are impossible to get without the bottles, be it magic potions or the Good Bee.
 * By visiting the ice cave in the lower-right part of the Light World and charging into the fairy statue in the middle, a bee will fly out. This bee is special as it stays alive for longer, and will attack enemies for you when you store it in a bottle. This also works on bosses, and can in some situations be very effective.
 * After beating the second dungeon in the Dark World, I recommend getting the item from the fourth dungeon in Thieves Town first. That way, you can lift up heavier stones and get a lot of items that will make parts of the game and no-damage bosses easier. For example, you can get your sword tempered and obtain the Magic Cape from the cemetery, which makes you invincible at the cost of magic points. Do keep in mind that both the Magic Cape and Cane of Byrna are NOT allowed for no-damage bosses.
 * When taking damage from a boss, your best option is to use the magic mirror to teleport back to the entrance. Resetting the game will place you at a specific spot on the map, so you'd have to walk all the way back to the dungeon.
@@ -1041,7 +1044,7 @@ _Crack the Helmasaur's face Shield using only the hammer, then deal the rest of 
 
 -=MISSABLE=-
 
-Due to the necessity of the silver arrows, this achievement can no be attempted before having beaten the Ice Palace and Misery Mire, so get the hammer and leave the dungeon for later. You'll first have to deal with his face shield, which takes a total of 16 hammer hits. Once that is down, shoot one silver arrow and it's dead. Due to the first phase being more predictable/easier to avoid attacks due to him moving around slower, it may be favourable combining this achievement with the no-damage achievement.
+Due to the necessity of the silver arrows, this achievement can not be attempted before having beaten the Ice Palace and Misery Mire, so get the hammer and leave the dungeon for later. You'll first have to deal with his face shield, which takes a total of 16 hammer hits. Once that is down, shoot one silver arrow and it's dead. Due to the first phase being more predictable/easier to avoid attacks due to him moving around slower, it may be favourable combining this achievement with the no-damage achievement.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/129291.png">
 
@@ -1089,7 +1092,7 @@ _Finish off Mothula with bees and then rescue the maiden._
 
 -=MISSABLE=-
 
-It is recommended to keep this boss until you have obtained the Tempered Sword (not Golden Sword), but you can also do it with the Fire Rod. Hit it about three times with the tempered sword or five times with the Fire Rod, then let the Good Bee do the remainder of the work.
+It is recommended to keep this boss until you have obtained the Tempered Sword (not Golden Sword), but you can also do it with the Fire Rod. Hit it about three times with the tempered sword or five times with the Fire Rod, then let the Good Bee do the remainder of the work. Can very well be combined with the no-damage achievement.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/129293.png">
 
@@ -1113,7 +1116,7 @@ _Defeat Blind using only the Cane of Somaria then rescue the maiden._
 
 -=MISSABLE=-
 
-This cannot be done before progress has been made in Misery Mire, so keep that in mind before attempting this achievement. No matter the weapon, Blind will always need nine hits to be defeated, and this also applies to the Cane of Somaria. Put a block somewhere while you are on the opposite side of him, and when he is in good range, press the item button again to have the block explode. Depending on your skill with the Cane, this may be a very viable way to do the no-damage achievement as well. Remember to bring Magic Potions as well, and recommended is to have the magic meter halved by the Mad Batter as well.
+This cannot be done before progress has been made in Misery Mire, so keep that in mind before attempting this achievement. No matter the weapon, Blind will always need nine hits to be defeated, and this also applies to the Cane of Somaria. Put a block somewhere while you are on the opposite side of him, and when he is in good range, press the item button again to have the block explode. Depending on your skill with the Cane, this may be a very viable way to do the no-damage achievement as well. The Cane of Somaria doesn't consume a lot of magic so potions are not needed, but having your magic meter halved by the Mad Batter is recommended.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/129294.png">
 
@@ -1136,6 +1139,8 @@ _Defeat Kholdstare in the Ice Palace using only the Fire Rod to damage it then r
 </pre></big>
 
 -=MISSABLE=-
+
+**Recommendations: at least one Magic potion, Magic Meter halved by Mad Batter**
 
 You will absolutely need to bring at least one, preferably two Magic Potions before attempting this achievement. Getting rid of Kholdstare's shield will already require the entire magic bar from the Fire Rod, let alone the three eyes moving around after the shield is gone. Fortunately the Fire Rod does good damage against the eyes moving around so this shouldn't take too much effort, just remember that there is an ice ball falling every two-three seconds that you need to dodge.
 
@@ -1161,7 +1166,9 @@ _Defeat Vitreous's little eyes by damaging them only with bombs, kill the big ey
 
 -=MISSABLE=-
 
-Lay- or throw bombs just slightly in front of Vitreous for the most effective damage and when the big eye starts popping out, move to either wall furthest away from you to dodge the lightning attack. Repeat this until all the eyes are gone, after which the big eye will pop out. Just keep standing south of it and spam arrows as it will be unable to do anything.
+**Recommendations: Having upgraded the Bomb Capacity to AT LEAST 40**
+
+Lay- or throw bombs just slightly in front of Vitreous for the most effective damage and when the big eye starts popping out, move to either wall furthest away from you to dodge the lightning attack. I found throwing them more favourable than laying them. The Bombs don't do a lot of damage, so you really do need as many as you can. Repeat this until all the eyes are gone, after which the big eye will pop out. Just keep standing south of it and spam arrows as it will be unable to do anything.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/129296.png">
 
@@ -1184,6 +1191,8 @@ _Completely destroy the Trinexx's Fire Head with the Ice Rod, then completely de
 </pre></big>
 
 -=MISSABLE=-
+
+**Recommendations: At least two Magic Potions and your Magic Meter halved by the Mad Batter**
 
 This is a very magic-expensive achievement, so be sure to bring as many Magic Potions as you can. The elemental rods are a necessity to stun the heads, but they also deal damage even when they are stunned. Important to keep in mind is that you have to deal with the Fire Head first before ever doing damage to the Ice Head. Once both heads are gone, the snake will go around the room in a specific pattern, so use the hammer on the middle part 5 times for it to die.
 
@@ -1209,7 +1218,7 @@ _Defeated Agahnim in Ganon's Tower without using a sword or bug net._
 
 -=MISSABLE=-
 
-The title of the achievement already hints at it, but you can only return Agahnim's magic by hitting it with a hammer. The hammer works the exact same as the Master Sword in this battle, so just keep reflecting magic until he inevitably dies. There are a total of three Agahnim's with only one being vulnerable so watch out for other attacks, though he is unable to use the lightning attack in this battle.
+The title of the achievement already hints at it, but you can only return Agahnim's magic by hitting it with a hammer. The hammer works the exact same as the Master Sword in this battle, so just keep reflecting magic until he inevitably dies. There are a total of three Agahnim's with only one being vulnerable so watch out for other attacks, though he is unable to use the lightning attack in this battle. Keep in mind that the hammer is slower than both the Master Sword and Bug Net, so be wary of your timing. Agahnim only does one heart of damage with the Red Mail, so you do have a lot of breathing room for this one.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/129298.png">
 
@@ -1493,7 +1502,7 @@ _Complete Ganon's Tower without ever entering while possessing a sword, exiting 
 
 -=MISSABLE=-
 
-Before anything else, the only way to lose your sword temporarily is to have it tempered at the smithies. This means that you must beat all dungeons, then go to the smithies to get rid of your sword, and then enter Ganon's Tower. What you can do before entering this dungeon is obtaining the Light Arrows and as many hearts and bottles with medicine/fairies (not for revival use) as possible. While this might sound like a menacing achievement, it is very doable due to how powerful the arrows and hookshot are, as well as the elemental rods and Cane of Somaria depending on if you brought Magic Potions. Remember that you may not ever exit the dungeon or die, which will permanently void this achievement for you. For Agahnim, you must use either the Bug Net or Hammer to defeat him. If you are in need of healing, there is a convenient healing spot on the third floor after the bridge where you are barraged by cannons. Use the Pegasus Boots to charge off of the blocks to the south where a breakable wall if located, with many refreshing items inside.
+Before anything else, the only way to lose your sword temporarily is to have it tempered at the smithies. This means that you must beat all dungeons, then go to the smithies to get rid of your sword, and then enter Ganon's Tower. What you can do before entering this dungeon is obtaining the Light Arrows and as many hearts and bottles with medicine/fairies (not for revival use) as possible, but you can ignore the latter if you are doing the no-bottle achievement at the same time. While this might sound like a menacing achievement, it is very doable due to how powerful the arrows and hookshot are, as well as the elemental rods and Cane of Somaria. Remember that you may not ever exit the dungeon or die, which will permanently void this achievement for you. For Agahnim, you must use either the Bug Net or Hammer to defeat him. If you are in need of healing, there is a convenient healing spot on the third floor after the bridge where you are barraged by cannons. Use the Pegasus Boots to charge off of the blocks to the south where a breakable wall if located, with many refreshing items inside. If you are somehow in danger, use the Magic Mirror to teleport back to the start of the dungeon, as this will not nullify the achievement for you. Slowly get your health up and try again, and you'll get this in no time.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/347716.png">
 
