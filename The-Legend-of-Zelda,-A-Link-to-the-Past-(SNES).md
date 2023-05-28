@@ -1403,6 +1403,15 @@ _Try to draw Kiki into the Light World._
 
 When heading towards the first dungeon in the Dark World, the Dark Palace, you'll be followed by a monkey that is needed to open the entrance. While he is following you, use the mirror to go to the Light World for this achievement to trigger.
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/356501.png">
+
+<big><pre>
+[A Link Between Jobs (3)](https://retroachievements.org/achievement/319720)
+_Get reprimanded for doing your descendant's job._
+</pre></big>
+
+Once you got the hammer, head to the smithy. Approach the anvil from above and hit it with your hammer.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/348207.png">
 
 <big><pre>
@@ -1433,7 +1442,7 @@ In the Dark World where you first got the shovel, return to the Flute Boy sittin
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/356502.png">
 
 <big><pre>
-[A Cape Not Just For Titans (10)](https://retroachievements.org/achievement/319721)
+[A Cape Not Just For Titans [m] (10)](https://retroachievements.org/achievement/319721)
 _Get the Magic Cape without having the Titan's Mitt._
 </pre></big>
 
@@ -1444,7 +1453,7 @@ Must be done before opening the big chest in Thieves Town. To do this, you need 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/356781.png">
 
 <big><pre>
-[It's a Trap! (3)](https://retroachievements.org/achievement/319717)
+[It's a Trap! [m] (3)](https://retroachievements.org/achievement/319717)
 _Bring the maiden in Thieves' Town to both places where she will refuse to go further._
 </pre></big>
 
@@ -1454,15 +1463,6 @@ After the maiden in Thieves' Town starts following you, bring her to the followi
 
 1. The entrance of the dungeon
 2. The stairs to the second floor where you would bomb the floor so light can come in
-
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/356501.png">
-
-<big><pre>
-[A Link Between Jobs (3)](https://retroachievements.org/achievement/319720)
-_Get reprimanded for doing your descendant's job._
-</pre></big>
-
-Once the smithies are reunited, approach the anvil from above that they are hitting and hit it with your own hammer.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/356505.png">
 
@@ -1476,7 +1476,7 @@ When near the entrance of Turtle Rock in the Dark World, pull on the right hand 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/349679.png">
 
 <big><pre>
-[I Shoulda Saved the Others Too? Well Excuuuuuuse Me, Princess! (10)](https://retroachievements.org/achievement/315755)
+[I Shoulda Saved the Others Too? Well Excuuuuuuse Me, Princess! [m] (10)](https://retroachievements.org/achievement/315755)
 _Rescue Zelda in Turtle Rock before any other maiden._
 </pre></big>
 
@@ -1487,7 +1487,7 @@ Once arriving in the Dark World, you may not beat any of the dungeon bosses exce
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/346218.png">
 
 <big><pre>
-[Jack of All Trades (25)](https://retroachievements.org/achievement/313073)
+[Jack of All Trades [m] (25)](https://retroachievements.org/achievement/313073)
 _Complete Ganon's Tower without ever entering while possessing a sword, exiting or dying. Must start and finish in one attempt, entirely swordless._
 </pre></big>
 
@@ -1498,7 +1498,7 @@ Before anything else, the only way to lose your sword temporarily is to have it 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/347716.png">
 
 <big><pre>
-[Link's Not Old Enough To Drink (10)](https://retroachievements.org/achievement/314433)
+[Link's Not Old Enough To Drink [m] (10)](https://retroachievements.org/achievement/314433)
 _Defeat Ganon and reach the Triforce without having collected any bottles during the game._
 </pre></big>
 
