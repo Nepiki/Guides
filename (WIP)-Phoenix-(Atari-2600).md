@@ -9,8 +9,8 @@
 
 |   |   |
 |:--|:--|
-|Set Difficulty|6|
-|Approximate time to master|2 to 3 Hours|
+|Set Difficulty|7|
+|Approximate time to master|1 to 2 Hours|
 |Minimum numbers of playthroughs needed|10 consecutive Phases|
 |Number of missable achievements|0|
 |Does difficulty affect achievements?|No Difficulty Settings|
