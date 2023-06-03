@@ -18,7 +18,7 @@
 
 # 2) Introduction
 
-One of my all time favorite Atari 2600 games. While inferior in graphics to it's arcade counterpart, this version holds it's own and is allot of fun to play. I would like to credit suspect15 for a really awesome review process and helping with making this as close to the best it could be before release. Also every over at the jr. dev discord. While I don't post allot, it is usually only because someone has either already asked or because someone posts something that answers my question before I ask it, I appreciate all of the invaluable info that you all have provided. 
+One of my all time favorite Atari 2600 games. While inferior in graphics to it's arcade counterpart, this version holds it's own and is allot of fun to play. I would like to credit suspect15 for a really awesome review process and helping with making this as close to the best it could be before release. Also everyone over at the jr. dev discord. While I don't post allot, it is usually only because someone has either already asked or because someone posts something that answers my question before I ask it, I appreciate all of the invaluable info that you all have provided. 
 
 # 3) Walkthrough
 
