@@ -24,17 +24,7 @@ One of my all time favorite Atari 2600 games. While inferior in graphics to it's
 
 [**Step 1: Getting the easy ones out of the way**](#step-1-getting-the-easy-ones-out-of-the-way--total-points-TBD)
 
-Here you can give a detailed explanation about every step, such as what the achievements are about, if there are any missables in this step, general tips to make sure every achievement is gotten in one run etc.
-
-To make this header link to the section with these achievements, go to where the step is and hover over the header. A link icon should be visible on the left of the header, which you can right-click + copy and then paste where #step-1-dummy-step--total-points-999 currently is. Remove everything of the link before "step".
-
-You can create as many steps as you desire. Recommended is to have one step dedicated to unmissable story achievements, while the others cover game-specific steps (like no-damage bosses, item collection etc.)
-
-If the step has missables, be sure to make a bulletpoint list like below to inform the reader right away.
-
-* [Missable achievement 1](Link to achievement)
-* [Missable achievement 2](Link to achievement)
-* [Missable achievement 3](Link to achievement)
+Will be finishing up the guide shortly. Just wanted to get a place holder here to remind myself to write it up.
 
 ***
 
