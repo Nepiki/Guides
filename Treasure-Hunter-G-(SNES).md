@@ -91,4 +91,4 @@ _Find all the items in Sebia Village._
 
 * Total items: 10
 
-**[Item Map]**(https://imgur.com/a/mlI3jY3)
+**[Item Map](https://imgur.com/a/mlI3jY3)**
