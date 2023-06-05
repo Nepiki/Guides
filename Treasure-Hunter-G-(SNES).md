@@ -79,6 +79,7 @@ There's five rat infestations in total:
 2. 
 
 
+***
 
 ![Rouen Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/32aa859d-3b49-4ef3-b711-4af4616910c3) Rouen Village Scavenger (m)
 
