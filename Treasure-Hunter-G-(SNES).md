@@ -89,4 +89,6 @@ _Find all the items in Rouen Village outside the sandpit._
 
 _Find all the items in Sebia Village._
 
-* Total items: 
+* Total items: 10
+
+[Item Map](https://imgur.com/a/mlI3jY3)
