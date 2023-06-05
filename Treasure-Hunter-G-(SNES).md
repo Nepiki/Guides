@@ -255,9 +255,7 @@ _Find all the items in Irato Forest, Herman's Forest, and Herman's Cave._
 
 Total items: 9
 
-**[Item Map (Irato Forest)](https://imgur.com/a/3KA7pO6)**
-
-**[Item Map (Herman's Forest/Cave)](https://imgur.com/a/KIzsYRa)**
+**[Item Map](https://imgur.com/a/3KA7pO6)**
 
 ***
 
@@ -333,4 +331,105 @@ _Set foot in Arkrass._
 * Progression achievement.
 
 ***
+
+![Five Finger Discount  m](https://github.com/RetroAchievements/guides/assets/97459553/4416c388-6300-47cf-8964-d73562f7c6a0) Five Finger Discount (m)
+
+_Steal from the item shop in the Port Town of Arkrass._
+
+* Grab all the items for sale in the item shop and punch the cracked wall to escape with your ill gotten goods.
+
+***
+
+![Akrass Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/7525a91d-9749-4d60-9293-85312625f147) Arkrass Scavenger (m)
+
+_Find all the items in the Port Town of Arkrass._
+
+Total items: *Coming soon*
+
+***
+
+![Aurelian Helix](https://github.com/RetroAchievements/guides/assets/97459553/09d08069-38f8-481a-ad7c-efc00e25376f) Aurelian Helix
+
+_Obtain the Gold Spiral._
+
+* Progression achievement.
+
+***
+
+![A Day Late](https://github.com/RetroAchievements/guides/assets/97459553/cecfcf01-188f-4fbd-8b42-57239c131865) A Day Late and a Buck Short
+
+_Bring a Hi-Potion to Kujira in Akrass to heal his injured tail fin._
+
+* Progression achievement.
+
+***
+
+![Capreunion  m](https://github.com/RetroAchievements/guides/assets/97459553/738b8b38-5f7c-4dc0-b03c-be1c82e088df) Capreunion (m)
+
+_Help a shepherd find his missing goat._
+
+* The shepherd and goat can be found in Noie Forest, to the right of Babel Dome.
+
+***
+
+![You're Welcome](https://github.com/RetroAchievements/guides/assets/97459553/b217b51c-d874-437e-bdf3-9db252b9e7e6) You're... Welcome?
+
+_Rescue an ungrateful girl._
+
+* Progression achievement.
+
+***
+
+![Feathered Friend](https://github.com/RetroAchievements/guides/assets/97459553/819cd75e-5701-4f07-a28f-1336b54609ad) Feathered Friend
+
+_Receive a key from a friendly bird._
+
+* Progression achievement.
+
+***
+
+![All Seeing Eye](https://github.com/RetroAchievements/guides/assets/97459553/a254b75f-1f96-4194-ae32-3cfe9746f657) All Seeing Eye
+
+_Obtain the Pyramid Eye._
+
+* Progression achievement.
+
+***
+![Pyramid Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/6287cbcc-511f-44d4-9d29-643aa11bd5bc) Pyramid Scavenger (m)
+
+_Find all the items in and around the Pyramid._
+
+Total items: 18
+
+**[Item Map](https://imgur.com/a/HMqEVSg)**
+
+***
+
+![Bloody Mary](https://github.com/RetroAchievements/guides/assets/97459553/b375874d-f5d0-4f88-9905-1f7d9992c19a) Bloody Mary (m)
+
+_Defeat Lady Mary while both mummies are still alive._
+
+* You can use traps and items to stun the mummies to make the fight easier. Just don't kill either of them.
+
+***
+
+![Crimson Duel  m](https://github.com/RetroAchievements/guides/assets/97459553/7a227ba2-bb92-41e9-b28e-6e42895ff5d3) Crimson Duel (m)
+
+_During the battle in Ara Forest, defeat the werewolves before damaging J-Elf, then defeat J-Elf using only Red to deal damage to him._
+
+* Focusing down one at a time will make the fight easier to handle.
+
+***
+
+![Aroshu Castle Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/7995ba9f-dfb7-48b0-b13a-7a8a1ce6f18e) Aroshu Scavenger (m)
+
+_Find all the items in Aroshu Castle and Ravi Town._
+
+Total items: 10
+
+**[Item Map](https://imgur.com/a/kvgKOxq)**
+
+***
+
+
 
