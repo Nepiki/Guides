@@ -1,3 +1,7 @@
+![Treasure Hunter G-230605-134817](https://github.com/RetroAchievements/guides/assets/97459553/3c4113c8-5a1d-48b0-a3e2-8f9581f72495)
+
+***
+
 # Overview
 
 * Achievement set difficulty: 4/10
