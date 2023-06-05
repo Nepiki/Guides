@@ -35,7 +35,7 @@ _Clear the widow's garden of brush in Rouen Village and be rewarded._
 
 **Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
 
-* Just left of the entrance to the village is a house with weeds all around it. Once you clear them out, the old lady will come outside and give you 200G as a reward. It can be done multiple times for various reward amounts and unique dialogue but is only necessary the first time.
+Just left of the entrance to the village is a house with weeds all around it. Once you clear them out, the old lady will come outside and give you 200G as a reward. It can be done multiple times for various reward amounts and unique dialogue but is only necessary the first time.
 
 ***
 
