@@ -25,7 +25,7 @@ A lot of the achievements are standard progression, and can't be missed, but the
 
 _Escape from the Aged Cave before it completely collapses._
 
-* Progression achievement. Not missable.
+* Progression achievement.
 
 ***
 
@@ -109,7 +109,7 @@ _Find all the items in burning Rouen._
 
 _Get vengeance for the Rouen Tragedy._
 
-* Progression achievement. Not missable.
+* Progression achievement.
 
 ***
 
@@ -227,7 +227,7 @@ _Beat the monk in a game of hide and seek in the Abonia Range monastery._
 
 _Obtain the Dark Globe._
 
-* Progression achievement. Not missable.
+* Progression achievement.
 
 ***
 
@@ -238,3 +238,99 @@ _Find all the hidden items in Abonia Range and the Monestary._
 Total items: 7
 
 **[Item Map](https://imgur.com/a/FNfxP5o)**
+
+***
+
+![When You're Going Through Hel](https://github.com/RetroAchievements/guides/assets/97459553/a6f90c81-6adb-48cd-b18c-442edcd1c204) When You're Going Through Hel, Keep Going (m)
+
+_Defeat Hel's Drill Zombies, before damaging her, without any party members falling._
+
+* If any party member has dropped to critical HP (red) at any time, Rain will learn Heal. Use Rain to keep everyone alive and the fight should be easy.
+
+***
+
+![Irato Forest Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/c5fac670-328a-4cd2-8670-872b96dee47b) Southern Forest Scavenger
+
+_Find all the items in Irato Forest, Herman's Forest, and Herman's Cave._
+
+Total items: 9
+
+**[Item Map (Irato Forest)](https://imgur.com/a/3KA7pO6)**
+
+**[Item Map (Herman's Forest/Cave)](https://imgur.com/a/KIzsYRa)**
+
+***
+
+![Limpid Mineral](https://github.com/RetroAchievements/guides/assets/97459553/f73aa976-3dab-4c5b-93cc-4463e9436546) Limpid Mineral
+
+_Obtain the Goganba Crystal._
+
+* Progression achievement.
+
+***
+
+![Neko Nabber](https://github.com/RetroAchievements/guides/assets/97459553/f2f3e874-84b6-429a-88c9-b63928e78fd6) Neko Nabber
+
+_Find all the hidden items in Neko Forest and Neko Castle._
+
+Total items: *Coming soon*
+
+***
+
+![Herbivore pm](https://github.com/RetroAchievements/guides/assets/97459553/3b4f83ee-32b9-4a9c-84f7-123abbc57451) Herbivore (m)
+
+_Defeat the Evil Bud without damaging it while another enemy is present._
+
+* The Evil Bud will occasionally spawn smaller monsters into the fight. Kill them before you begin attacking it again.
+
+***
+
+![King Ribbit](https://github.com/RetroAchievements/guides/assets/97459553/07f26815-5580-4788-9696-f818fbdc7e18) King Ribbit
+
+_Obtain the Great Frog from Neko Forest._
+
+* Progression achievement.
+
+***
+
+![Brothers Vs Brothers  m](https://github.com/RetroAchievements/guides/assets/97459553/3f7d084b-0a75-4bd3-9c33-1f4ca5a3b608) Brothers Versus Brothers (m)
+
+_During the battle with Hel Asteroth, Sinifie and Shinifian, do not damage Hel until both Sinifie and Shinifian are defeated with only Blue damaging Sinifie and only Red damaging Shinifian._
+
+* Sinifie is the red one. Shinifian is the blue one.
+* Both characters attack the opposing color of their names.
+
+***
+
+![Cetacean Cruiser](https://github.com/RetroAchievements/guides/assets/97459553/0a9eb1ee-3665-40e8-92aa-b5b77c088a8d) Cetacean Cruiser
+
+_Set foot on Carbuckle Island._
+
+* Progression achievement.
+
+***
+
+![Carbuckle Caper](https://github.com/RetroAchievements/guides/assets/97459553/638bb806-3036-4c52-b949-6e453bf85eb7) Carbuckle Caper (m)
+
+_Find all the items on Carbuckle Island._
+
+Total items: **Coming Soon**
+
+***
+
+![Ghostly Grit  m](https://github.com/RetroAchievements/guides/assets/97459553/2fb2eed5-90f6-47b1-bd53-a3eef347e0b7) Ghostly Grit (m)
+
+_Defeat Hel's ghost without using a technique or curing a status effect._
+
+* No spells/skills or status curing items. Healing items are ok.
+
+***
+
+![Just a FleshWound](https://github.com/RetroAchievements/guides/assets/97459553/89e23497-4fd0-4b64-a95c-232fd9073a07) Just a Flesh Wound
+
+_Set foot in Arkrass._
+
+* Progression achievement.
+
+***
+
