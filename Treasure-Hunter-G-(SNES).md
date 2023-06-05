@@ -1,1 +1,63 @@
-place holder
+# Overview
+
+* Achievement set difficulty: 4/10
+* Estimated time to complete: 20 hours
+* Number of play throughs necessary: 1
+* Missable achievements: 34/71
+
+# Introduction
+
+Treasure Hunter G is a JRPG that was released in 1996. It was never exported outside of Japan. A fan translation was done in 2004 and is the one still used today. The four main characters of the game were later used as main characters in Saga Frontier for the PS1, though with different roles. The game was released two weeks before Square announced that it would cease to develop games for Nintendo consoles. It would be another eight years before Square would develop for a Nintendo console again.
+
+# Road Map
+
+The game can be done in a single play through but there are plenty of missable achievements along the way. Once you leave an island, you can't return to it, so you need to make sure you have everything you need before you leave. It'll be mostly obvious when you'll be leaving an island to go to the next.
+
+A lot of the achievements are standard progression, and can't be missed, but they'll still be included in the road map below so you know what to expect and when. There isn't much in the way of guides on the internet, especially not for 100%, but I've made maps to help. All achievements should be listed in the order they can be first obtained.
+
+# Achievements
+
+![Just In the Nick of Time](https://github.com/RetroAchievements/guides/assets/97459553/f1a7325c-947a-44c7-8b30-c6741deecd30) Just in the Nick of Time
+
+_Escape from the Aged Cave before it completely collapses._
+
+* Progression achievement. Not missable.
+
+***
+
+![Landscaper  m](https://github.com/RetroAchievements/guides/assets/97459553/9dc14eab-1a69-4c9a-b313-c99d2e7f5875) Landscaper (m)
+
+_Clear the widow's garden of brush in Rouen Village and be rewarded._
+
+* Just left of the entrance to the village is a house with weeds all around it. Once you clear them out, the old lady will come outside and give you 200G as a reward. It can be done multiple times for various reward amounts and unique dialogue but is only necessary the first time.
+
+**Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
+
+***
+
+![Petty Thief  m](https://github.com/RetroAchievements/guides/assets/97459553/9aa454eb-a350-45aa-a2bd-46472bd56ca6) Petty Thief (m)
+
+_Steal a poor girl's allowance in Rouen Village._
+
+In the house left of the widow's, with the child pacing back and forth, is a little girl. Check the dresser to her left to find 5G. When she asks for it back, tell her no.
+
+**Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
+
+***
+
+![Dojo Stormer  m](https://github.com/RetroAchievements/guides/assets/97459553/f03460e5-b3ed-4965-b16e-11a2f731ea74) Dojo Stormer (m)
+
+_Defeat Tenzu in Rouen Village and learn his special technique._
+
+In the dojo, go to the bottom floor and fight Tenzu. After winning the battle, he will teach you Teleport Trap.
+
+**Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
+
+***
+
+![Beach Comber  m](https://github.com/RetroAchievements/guides/assets/97459553/b226a51b-ff49-4d6f-a433-50d2fc7c154c) Beach Comber (m)
+
+_Find the biggest prize in the Rouen Village sand pit._
+
+In the sand pit on the eastern side of town, there are 15 total spots that have varying amounts of money. 50G is the highest reward and can be found [here](https://imgur.com/a/qoTDptB).
+
