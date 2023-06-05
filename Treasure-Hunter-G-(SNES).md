@@ -65,3 +65,24 @@ _Find the biggest prize in the Rouen Village sand pit._
 
 In the sand pit on the eastern side of town, there are 15 total spots that have varying amounts of money. 50G is the highest reward and can be found [here](https://imgur.com/a/qoTDptB).
 
+**Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
+
+***
+
+![Rouen Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/32aa859d-3b49-4ef3-b711-4af4616910c3) Rouen Village Scavenger (m)
+
+_Find all the items in Rouen Village outside the sandpit._
+
+Total items: 21
+
+**[Item map](https://imgur.com/a/sRS1M48)**
+
+**Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
+
+***
+
+![Sebia Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/0e7696ef-1067-4b75-81b8-14e93116ed35) Sebia Village Scavenger (m)
+
+_Find all the items in Sebia Village._
+
+Total items: 
