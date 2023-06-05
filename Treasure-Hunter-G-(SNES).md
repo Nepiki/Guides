@@ -33,9 +33,9 @@ _Escape from the Aged Cave before it completely collapses._
 
 _Clear the widow's garden of brush in Rouen Village and be rewarded._
 
-* Just left of the entrance to the village is a house with weeds all around it. Once you clear them out, the old lady will come outside and give you 200G as a reward. It can be done multiple times for various reward amounts and unique dialogue but is only necessary the first time.
-
 **Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
+
+* Just left of the entrance to the village is a house with weeds all around it. Once you clear them out, the old lady will come outside and give you 200G as a reward. It can be done multiple times for various reward amounts and unique dialogue but is only necessary the first time.
 
 ***
 
@@ -43,9 +43,9 @@ _Clear the widow's garden of brush in Rouen Village and be rewarded._
 
 _Steal a poor girl's allowance in Rouen Village._
 
-In the house left of the widow's, with the child pacing back and forth, is a little girl. Check the dresser to her left to find 5G. When she asks for it back, tell her no.
-
 **Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
+
+In the house left of the widow's, with the child pacing back and forth, is a little girl. Check the dresser to her left to find 5G. When she asks for it back, tell her no.
 
 ***
 
@@ -53,9 +53,9 @@ In the house left of the widow's, with the child pacing back and forth, is a lit
 
 _Defeat Tenzu in Rouen Village and learn his special technique._
 
-In the dojo, go to the bottom floor and fight Tenzu. After winning the battle, he will teach you Teleport Trap.
-
 **Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
+
+In the dojo, go to the bottom floor and fight Tenzu. After winning the battle, he will teach you Teleport Trap.
 
 ***
 
@@ -63,9 +63,9 @@ In the dojo, go to the bottom floor and fight Tenzu. After winning the battle, h
 
 _Find the biggest prize in the Rouen Village sand pit._
 
-In the sand pit on the eastern side of town, there are 15 total spots that have varying amounts of money. 50G is the highest reward and can be found [here](https://imgur.com/a/qoTDptB).
-
 **Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
+
+In the sand pit on the eastern side of town, there are 15 total spots that have varying amounts of money. 50G is the highest reward and can be found [here](https://imgur.com/a/qoTDptB).
 
 ***
 
@@ -80,18 +80,17 @@ There's five rat infestations in total:
 1. Rouen Workshop Basement
 2. 
 
-
 ***
 
 ![Rouen Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/32aa859d-3b49-4ef3-b711-4af4616910c3) Rouen Village Scavenger (m)
 
 _Find all the items in Rouen Village outside the sandpit._
 
+**Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
+
 Total items: 21
 
 **[Item map](https://imgur.com/a/sRS1M48)**
-
-**Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
 
 ***
 
