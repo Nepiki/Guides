@@ -77,14 +77,28 @@ _Find all the items in Rouen Village outside the sandpit._
 
 * Total items: 21
 
-**[Item map](https://imgur.com/a/sRS1M48)**
+**[Item Map](https://imgur.com/a/sRS1M48)**
 
 ***
 
-![Sebia Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/0e7696ef-1067-4b75-81b8-14e93116ed35) Sebia Village Scavenger (m)
+![Sebia Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/0e7696ef-1067-4b75-81b8-14e93116ed35) Sebia Village Scavenger
 
 _Find all the items in Sebia Village._
+
+**Note: Can be done later in game when you return if you missed it before leaving the first island.**
 
 * Total items: 10
 
 **[Item Map](https://imgur.com/a/mlI3jY3)**
+
+***
+
+![Charred Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/80e79090-861b-4a37-b825-0a4306f92cb0) Charred Scavenger (m)
+
+**Note: This can only be done while you're in the burning village.**
+
+_Find all the items in burning Rouen._
+
+* Total items: 4
+
+**[Item Map](https://imgur.com/a/n7P9DTX)**
