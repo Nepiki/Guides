@@ -235,4 +235,6 @@ _Obtain the Dark Globe._
 
 _Find all the hidden items in Abonia Range and the Monestary._
 
-Total items: 
+Total items: 7
+
+**[Item Map](https://imgur.com/a/FNfxP5o)**
