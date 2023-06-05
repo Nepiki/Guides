@@ -220,3 +220,19 @@ _Scale the cliffs at Abonia Range without falling in less than 30 seconds._
 _Beat the monk in a game of hide and seek in the Abonia Range monastery._
 
 * He's hiding on the floor with the save point. First time, he's hiding on the left and second time on the right in the same hallway. You should be able to see the top of his head poking out from the wall. You can't find him the second time until you're leaving the monastery.
+
+***
+
+![Obtenebrated Spheroid](https://github.com/RetroAchievements/guides/assets/97459553/ac843a48-6c64-4384-8dbc-cd5be70f6073) Obtenebrated Spheroid
+
+_Obtain the Dark Globe._
+
+* Progression achievement. Not missable.
+
+***
+
+![Abnoba Range Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/7ad3bde7-ae80-43ff-8e9b-d521a22dda8d) Abonia Range Scavenger
+
+_Find all the hidden items in Abonia Range and the Monestary._
+
+Total items: 
