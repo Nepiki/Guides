@@ -102,3 +102,43 @@ _Find all the items in burning Rouen._
 * Total items: 4
 
 **[Item Map](https://imgur.com/a/n7P9DTX)**
+
+***
+
+![A Dish Best Served Hot](https://github.com/RetroAchievements/guides/assets/97459553/3d7bea29-6fe3-433a-a1f9-96475c2a08ff) A Dish Best Served Hot
+
+_Get vengeance for the Rouen Tragedy._
+
+* Progression achievement. Not missable.
+
+***
+
+![Street Fight](https://github.com/RetroAchievements/guides/assets/97459553/6c2fef16-ee5a-4cd5-a446-71ada17aec7c) Street Fight (m)
+
+_Defeat Tenzu in Tania and learn another special technique._
+
+* Talk to Tenzu outside of Dad's house to learn 
+
+**Note: Must be done before leaving first island.**
+
+***
+
+![Tania Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/1a0ad99d-85d1-4400-ba26-994ccb9b10b9) Tania Town Scavenger (m)
+
+_Find all the items in Tania Town._
+
+Total items: 17
+
+**[Item Map](https://imgur.com/a/O9oA8rR)**
+
+***
+
+![Granular Architect](https://github.com/RetroAchievements/guides/assets/97459553/f8b909d0-d148-4150-af9d-7a48917e6158) Granular Architect
+
+_Build an impressive sand castle._
+
+* Interact with the sandbox to build a sand castle and impress the kid standing there.
+
+***
+
+
