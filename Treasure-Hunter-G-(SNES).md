@@ -141,4 +141,28 @@ _Build an impressive sand castle._
 
 ***
 
+![Exterminator  m](https://github.com/RetroAchievements/guides/assets/97459553/e6994036-11ce-4af8-8f69-985fb2bb3ade) Exterminator (m)
 
+_Clear the rats from the towns on the first island._
+
+* There are five areas you need to fight rats at:
+
+1. Rouen Village workshop
+2. Sebia Item Shop
+3. Sebia Pub
+4. Sebia Armor Shop (inside dressing room)
+5. Oceania Inn (hole in front of building)
+
+**Note: The rats in Rouen Village need to be fought before Rouen burns.**
+
+***
+
+![Oceania Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/0904ae3d-7076-40a6-9c1a-0f3d057c2140) Oceania Scavenger
+
+_Find all the items in the Port Town of Oceania._
+
+Total items: 11
+
+**[Item Map](https://imgur.com/a/ltmt2Dc)**
+
+***
