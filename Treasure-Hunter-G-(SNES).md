@@ -69,16 +69,7 @@ _Find the biggest prize in the Rouen Village sand pit._
 
 ***
 
-![Exterminator  m](https://github.com/RetroAchievements/guides/assets/97459553/c52155fa-a55f-493d-bde4-3098b1e435f3) Exterminator (m)
 
-_Clear the rats from the towns on the first island._
-
-**Note: This needs to be started as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
-
-* There's five rat infestations in total:
-
-1. Rouen Workshop Basement
-2. 
 
 ***
 
