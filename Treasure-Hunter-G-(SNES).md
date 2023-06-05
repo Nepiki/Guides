@@ -207,3 +207,16 @@ _Win the Ribbit of Darkness game at a Grand Frog casino._
 
 ***
 
+![Cliff Hanger](https://github.com/RetroAchievements/guides/assets/97459553/ea545e34-322b-42ac-bd95-ab3fcb6e7fe2) Cliff Hanger
+
+_Scale the cliffs at Abonia Range without falling in less than 30 seconds._
+
+* Staying to the left side of the cliffs makes it a little easier since there's more outcrops to hide under. Hold Run the whole time, don't stop moving, and hope for good RNG.
+
+***
+
+![Ready or Not](https://github.com/RetroAchievements/guides/assets/97459553/95343cd0-133f-45d8-aa19-fdcb41591750) Ready or Not, Here I Come! (m)
+
+_Beat the monk in a game of hide and seek in the Abonia Range monastery._
+
+* He's hiding on the floor with the save point. First time, he's hiding on the left and second time on the right in the same hallway. You should be able to see the top of his head poking out from the wall. You can't find him the second time until you're leaving the monastery.
