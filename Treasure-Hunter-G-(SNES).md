@@ -69,6 +69,17 @@ In the sand pit on the eastern side of town, there are 15 total spots that have 
 
 ***
 
+![Exterminator  m](https://github.com/RetroAchievements/guides/assets/97459553/c52155fa-a55f-493d-bde4-3098b1e435f3) Exterminator (m)
+
+_Clear the rats from the towns on the first island._
+
+There's five rat infestations in total:
+
+1. Rouen Workshop Basement
+2. 
+
+
+
 ![Rouen Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/32aa859d-3b49-4ef3-b711-4af4616910c3) Rouen Village Scavenger (m)
 
 _Find all the items in Rouen Village outside the sandpit._
