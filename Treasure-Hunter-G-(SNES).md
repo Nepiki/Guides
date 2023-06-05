@@ -69,10 +69,6 @@ _Find the biggest prize in the Rouen Village sand pit._
 
 ***
 
-
-
-***
-
 ![Rouen Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/32aa859d-3b49-4ef3-b711-4af4616910c3) Rouen Village Scavenger (m)
 
 _Find all the items in Rouen Village outside the sandpit._
