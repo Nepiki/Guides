@@ -11,7 +11,7 @@
 
 # Introduction
 
-Treasure Hunter G is a JRPG that was released in 1996. It was never exported outside of Japan. A fan translation was done in 2004 and is the one still used today. The four main characters of the game were later used as main characters in Saga Frontier for the PS1, though with different roles. The game was released two weeks before Square announced that it would cease to develop games for Nintendo consoles. It would be another eight years before Square would develop for a Nintendo console again.
+Treasure Hunter G is a JRPG that was released in 1996. It was never exported outside of Japan. A fan translation was done in 2002 and is the one still used today. The four main characters of the game were later used as main characters in Saga Frontier for the PS1, though with different roles. The game was released two weeks before Square announced that it would cease to develop games for Nintendo consoles. It would be another eight years before Square would develop for a Nintendo console again.
 
 # Road Map
 
