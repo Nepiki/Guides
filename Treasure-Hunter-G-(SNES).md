@@ -431,3 +431,219 @@ Total items: 10
 
 ***
 
+![Mended a Broken Heart](https://github.com/RetroAchievements/guides/assets/97459553/f70170bb-da1b-4dab-8b02-ae8a407e42b2) Mended a Broken Heart
+
+_Provide comfort to the Queen of Aroshu Castle._
+
+* Progression achievement.
+
+***
+
+![Reality Check  m](https://github.com/RetroAchievements/guides/assets/97459553/54fbc70a-2026-4d6d-ae1d-481aa41afafb) Reality Check (m)
+
+_Help a deluded man in Akrass._
+
+* Give the deluded man in the south western part of Akrass a Delusion Ring. You can find one in Pyramid Town.
+
+***
+
+![The Tortoise and the Monkey](https://github.com/RetroAchievements/guides/assets/97459553/4f6eb38c-9c87-4960-90bc-626ee57841df) The Tortoise and the Monkey
+
+_Defeat Leonardo in Muban Forest only damaging him with Ponga._
+
+* It's an easy fight. Rain and heal while Red and Blue can play scrabble or something.
+
+***
+
+![Life Siphoner  m](https://github.com/RetroAchievements/guides/assets/97459553/493ee3c5-19f4-48d2-b6b5-04ce99fd83c2) Life Siphoner (m)
+
+_Have Rain learn Drain from Mio._
+
+* Escape the flooded house in north eastern Haama and win the battle afterwards.
+
+***
+
+![Unoi and Haama Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/37b4ad57-7080-48a8-bfff-bf6663d2a807) Unoi Village and Hamma Town Scavenger (m)
+
+_Find all the items in Unoi Village and Haama Town._
+
+Total items: *Coming soon*
+
+***
+
+![Northern Forest Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/bc578bef-f94d-4aff-80af-cb327914c5f4) Northern Forest Scavenger (m)
+
+_Find all the items in forests on the third island, including Falua's house._
+
+Total items: *Coming soon*
+
+***
+
+![Reunion of Sorts](https://github.com/RetroAchievements/guides/assets/97459553/24036828-e874-4267-9418-33bd83070e17) Reunion of Sorts
+
+_Locate Red and Blue's missing father._
+
+* Progression achievement.
+
+***
+
+![Rekur Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/b1a06f16-38e1-47d1-9ce9-bd6b61c60960) Rekur Scavenger (m)
+
+_Find all the items in Rekur Town._
+
+Total items: 7
+
+**[Item Map](https://imgur.com/a/F61c3Pz)**
+
+***
+
+![Philanthropic Marionettes  m](https://github.com/RetroAchievements/guides/assets/97459553/fc63ff25-663c-4c8b-a1da-6d4cf55714be) Philanthropic Marionettes (m)
+
+_Receive good tidings from all the dolls who will give them._
+
+* There are ten dolls in total but only nine are necessary:
+
+1. Tania Item Shop
+2. Tania Armor Shop
+3. Oceania Accessory Shop
+4. **Oceania Item Shop**
+5. Akrass Item Shop
+6. Ravi Item Shop
+7. Haama Item Shop
+8. **Unoi Item Shop**
+9. Rekur Item Shop
+10. Pyramid Town Item Shop
+
+**Note: If you talk to the doll in the Oceania Item Shop, the doll in Unoi Item Shop will not give you anything, and visa versa. You only need one of them for the achievement.**
+
+***
+
+![Untouchable Sentinels  m](https://github.com/RetroAchievements/guides/assets/97459553/2dded035-6398-4250-8d1a-d0494f13e31d) Untouchable Sentinels (m)
+
+_Defeat Artemis in Rekur Cave without damaging his golems._
+
+* Just ignore the golems and focus on Artemis. Use Boost with Rain to increase everyone's ACT to make the battle go quicker.
+
+***
+
+![Ancient Survey](https://github.com/RetroAchievements/guides/assets/97459553/2a31b368-fc1c-4b93-b0a8-358895dd6e44) Ancient Survey
+
+_Obtain the Old Map._
+
+* Progression achievement.
+
+***
+
+![The Point of No Return](https://github.com/RetroAchievements/guides/assets/97459553/2dba7faa-df20-4017-94db-9a036827898f) The Point of No Return
+
+_Reach the lost ruins of Atlantis._
+
+* Progression achievement.
+
+***
+
+![Red Hot Iron  m](https://github.com/RetroAchievements/guides/assets/97459553/594ec39d-b14c-48d2-a73c-1ea59103c3b8) Red Hot Iron (m)
+
+_Obtain the Burning Sword._
+
+* Talk to the horse man next to the stairs in Atlantis to start a fight. The Burning Sword is the reward for winning.
+
+***
+
+![Atlantis Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/ec5e2fcb-f029-4f91-a0ef-27ec549fa580) Atlantis Scavenger (m)
+
+_Find all the items in Atlantis._
+
+Total items: 5
+
+**[Item Map](https://imgur.com/a/zT0q1ul)**
+
+**Note: You cannot return to Atlantis after you leave.**
+
+***
+
+![Birds of a Feather](https://github.com/RetroAchievements/guides/assets/97459553/a25b604b-66d3-4c8e-8b41-808578681681) Birds of a Feather
+
+_Obtain the Feather._
+
+* Progression achievement.
+
+***
+
+![Weathered the Storm](https://github.com/RetroAchievements/guides/assets/97459553/70097515-a75f-4bd1-b6e3-711217a3c59d) Weathered the Storm
+
+_Use the OPARTs to survive the journey to the final island._
+
+* Progression achievement.
+
+***
+
+![Snowy Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/9a88672a-8b50-460c-8e60-7574a1b80851) Snowy Scavenger (m)
+
+_Find all the items on the snowy island._
+
+Total items: 6
+
+**[Item Map](https://imgur.com/a/LGKXEYm)**
+
+***
+
+![Lupine Champion  m](https://github.com/RetroAchievements/guides/assets/97459553/b78764bc-f236-4168-8886-f05457f9a52b) Lupine Champion (m)
+
+_Defeat Fenril on the snow island without any party members falling._
+
+* Keep Rain back a little bit so she can heal as necessary. Cast Boost on party members to make the battle quicker.
+
+***
+
+![World Tree Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/e5ba447d-347e-4d05-802e-b81a3ecbc171) Valhalla Scavenger (m)
+
+_Find all the items in Valhalla._
+
+Total items: 39
+
+**[Item Map](https://imgur.com/a/6vFLvoK)**
+
+***
+
+![Brought Light to the Dark  m](https://github.com/RetroAchievements/guides/assets/97459553/e220fc75-c995-4518-a1ff-a3949c7205ea) Brought Light to the Dark (m)
+
+_Defeat the Dark Lord without any party members falling._
+
+* Without Rain in the party, Ponga is your main healer. The fight is very simple, though.
+
+***
+
+![Regicide](https://github.com/RetroAchievements/guides/assets/97459553/75561890-76ef-4872-b365-82e298bfb1e3) Regicide
+
+_Defeat the Dark Lord in his final form._
+
+* Progression achievement.
+
+***
+
+![He Now Sleeps Beyond the Flow of Time](https://github.com/RetroAchievements/guides/assets/97459553/60c03b9c-8bed-422b-9ada-bc62cc289d1e) He Now Sleeps Beyond the Flow of Time
+
+_Recover Silver G's clock and make peace._
+
+* Progression achievement.
+
+**Note: You have to go back to Grandpa's house to trigger the cutscene before returning to your own house.**
+
+***
+
+![And Now We Rest](https://github.com/RetroAchievements/guides/assets/97459553/b341a8d5-5ee8-4db1-8ef2-2e99646d86ec) And Now We Rest
+
+_Conclude the adventure and return home._
+
+* Progression achievement.
+
+***
+
+![His Watch Has Not Ended](https://github.com/RetroAchievements/guides/assets/97459553/e6148226-2358-41e9-9d1f-e4ca5e9e9527) His Watch Has Not Ended
+
+_Watch Leonardo remain ever vigilant._
+
+* Progression achievement.
+
+# The End! You did it! Congratulations!
