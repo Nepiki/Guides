@@ -674,4 +674,8 @@ _Watch Leonardo remain ever vigilant._
 
 * Progression achievement.
 
+***
+
 # The End! You did it! Congratulations!
+
+Special thanks to Suspect15 for creating the achievement set.
