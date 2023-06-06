@@ -235,38 +235,6 @@ _Obtain the Goganba Crystal._
 
 ***
 
-![Agile Amphibian](https://github.com/RetroAchievements/guides/assets/97459553/6b10f25a-5497-4137-8b8e-467d9b8f60d2) Agile Amphibian
-
-_Win a Heaven Ring in the Dodgeball game at a Grand Frog Casino._
-
-![Froggy Feast](https://github.com/RetroAchievements/guides/assets/97459553/789f112e-740f-4684-b404-2cedf5c0a669) Froggy Feast
-
-_Win a pair of Strange Boots in the Fly Catching game at a Grand Frog casino._
-
-![Brisk Bullfrog](https://github.com/RetroAchievements/guides/assets/97459553/94f9392d-b2bd-472d-8941-6ea17a6bb905) Brisk Bullfrog
-
-_Win a Poison Ring in the Froggie Race game at a Grand Frog casino._
-
-![High Roller Lilypad](https://github.com/RetroAchievements/guides/assets/97459553/f275de1c-25b8-42ac-9c00-288be014a692) High Roller Lilipad
-
-_Gain access to the secret room in a Grand Frog casino._
-
-![Master of Darkness](https://github.com/RetroAchievements/guides/assets/97459553/7adf72ff-33bc-4c5e-b358-35b52dabb3a6) Master of Darkness
-
-_Win the Ribbit of Darkness game at a Grand Frog casino._
-
-* The entry code to access the secret room is 3131. There's a casino in Oceania and Arkrass. The password is the same for both.
-
-* If you need to buy frogs, buy them from a guy by the light house because he sells 5 for 100G. You can also find them for free in flowers/weeds in other towns.
-
-* Each game costs one frog. There's a little bit of strategy for the games but it's mostly just RNG luck. I recommend saving before attempting because the games can be rather difficult to win.
-
-* Ribbit of Darkness is all of the casino games compiled into one. Prepare for frustration.
-
-**Note: The achievements can be done at any casino at any time in the game.**
-
-***
-
 ![Neko Nabber](https://github.com/RetroAchievements/guides/assets/97459553/f2f3e874-84b6-429a-88c9-b63928e78fd6) Neko Nabber
 
 _Find all the hidden items in Neko Forest and Neko Castle._
@@ -386,7 +354,7 @@ _Help a shepherd find his missing goat._
 
 ***
 
-![You're Welcome](https://github.com/RetroAchievements/guides/assets/97459553/b217b51c-d874-437e-bdf3-9db252b9e7e6) You're... Welcome?
+![You're Welcome](https://github.com/RetroAchievements/guides/assets/97459553/b217b51c-d874-437e-bdf3-9db252b9e7e6) You're... Welcome? (m)
 
 _Rescue an ungrateful girl._
 
