@@ -491,7 +491,9 @@ _Have Rain learn Drain from Mio._
 
 _Find all the items in Unoi Village and Haama Town._
 
-Total items: *Coming soon*
+Total items: 9
+
+**[Item Map](https://imgur.com/a/nAF3XWN)**
 
 **Note: Must be done before leaving the island. Once you leave, you cannot return.**
 
@@ -501,7 +503,9 @@ Total items: *Coming soon*
 
 _Find all the items in forests on the third island, including Falua's house._
 
-Total items: *Coming soon*
+Total items: 21
+
+**[Item Map](https://imgur.com/a/nySzkEC)**
 
 **Note: Must be done before leaving the island. Once you leave, you cannot return.**
 
