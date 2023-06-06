@@ -235,6 +235,14 @@ _Obtain the Goganba Crystal._
 
 ***
 
+![High Roller Lilypad](https://github.com/RetroAchievements/guides/assets/97459553/f275de1c-25b8-42ac-9c00-288be014a692) High Roller Lilipad
+
+_Gain access to the secret room in a Grand Frog casino._
+
+* The entry code to access the secret room is 3131. There's a casino in Oceania and Arkrass. The password is the same for both.
+
+***
+
 ![Neko Nabber](https://github.com/RetroAchievements/guides/assets/97459553/f2f3e874-84b6-429a-88c9-b63928e78fd6) Neko Nabber
 
 _Find all the hidden items in Neko Forest and Neko Castle._
