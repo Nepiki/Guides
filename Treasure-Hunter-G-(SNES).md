@@ -465,7 +465,7 @@ _Help a deluded man in Akrass._
 
 _Defeat Leonardo in Muban Forest only damaging him with Ponga._
 
-* It's an easy fight. Rain and heal while Red and Blue can play scrabble or something.
+* It's an easy fight. Rain can heal while Red and Blue can play scrabble or something.
 
 ***
 
@@ -570,7 +570,7 @@ _Obtain the Burning Sword._
 
 * Talk to the horse man next to the stairs in Atlantis to start a fight. The Burning Sword is the reward for winning.
 
-**Note: You cannot return to Atlantis after you leave.**
+**Note: Must do during your visit. You cannot return to Atlantis after you leave.**
 
 ***
 
@@ -582,7 +582,7 @@ Total items: 5
 
 **[Item Map](https://imgur.com/a/zT0q1ul)**
 
-**Note: You cannot return to Atlantis after you leave.**
+**Note: Must do during your visit. You cannot return to Atlantis after you leave.**
 
 ***
 
