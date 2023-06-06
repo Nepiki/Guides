@@ -75,7 +75,7 @@ _Find all the items in Rouen Village outside the sandpit._
 
 **Note: This needs to be done as soon as possible. A story event that takes place shortly after "Just in the Nick of Time" will lock this achievement.**
 
-* Total items: 21
+Total items: 21
 
 **[Item Map](https://imgur.com/a/sRS1M48)**
 
@@ -87,7 +87,7 @@ _Find all the items in Sebia Village._
 
 **Note: Can be done later in game when you return if you missed it before leaving the first island.**
 
-* Total items: 10
+Total items: 10
 
 **[Item Map](https://imgur.com/a/mlI3jY3)**
 
@@ -99,7 +99,7 @@ _Find all the items in Sebia Village._
 
 _Find all the items in burning Rouen._
 
-* Total items: 4
+Total items: 4
 
 **[Item Map](https://imgur.com/a/n7P9DTX)**
 
