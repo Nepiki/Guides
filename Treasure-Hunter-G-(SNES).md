@@ -271,7 +271,9 @@ _Obtain the Goganba Crystal._
 
 _Find all the hidden items in Neko Forest and Neko Castle._
 
-Total items: *Coming soon*
+Total items: 28
+
+**[Item Map](https://imgur.com/a/qhsXbgU)**
 
 ***
 
