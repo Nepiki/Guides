@@ -5,7 +5,7 @@
 # Overview
 
 * Achievement set difficulty: 4/10
-* Estimated time to complete: 20 hours
+* Estimated time to complete: ~20 hours
 * Number of play throughs necessary: 1
 * Missable achievements: 34/71
 
@@ -123,7 +123,7 @@ _Defeat Tenzu in Tania and learn another special technique._
 
 ***
 
-![Tania Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/1a0ad99d-85d1-4400-ba26-994ccb9b10b9) Tania Town Scavenger (m)
+![Tania Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/1a0ad99d-85d1-4400-ba26-994ccb9b10b9) Tania Town Scavenger
 
 _Find all the items in Tania Town._
 
@@ -314,6 +314,8 @@ _Find all the items on Carbuckle Island._
 
 Total items: **Coming Soon**
 
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
+
 ***
 
 ![Ghostly Grit  m](https://github.com/RetroAchievements/guides/assets/97459553/2fb2eed5-90f6-47b1-bd53-a3eef347e0b7) Ghostly Grit (m)
@@ -338,6 +340,8 @@ _Steal from the item shop in the Port Town of Arkrass._
 
 * Grab all the items for sale in the item shop and punch the cracked wall to escape with your ill gotten goods.
 
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
+
 ***
 
 ![Akrass Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/7525a91d-9749-4d60-9293-85312625f147) Arkrass Scavenger (m)
@@ -345,6 +349,8 @@ _Steal from the item shop in the Port Town of Arkrass._
 _Find all the items in the Port Town of Arkrass._
 
 Total items: *Coming soon*
+
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
 
 ***
 
@@ -369,6 +375,8 @@ _Bring a Hi-Potion to Kujira in Akrass to heal his injured tail fin._
 _Help a shepherd find his missing goat._
 
 * The shepherd and goat can be found in Noie Forest, to the right of Babel Dome.
+
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
 
 ***
 
@@ -403,6 +411,8 @@ Total items: 18
 
 **[Item Map](https://imgur.com/a/HMqEVSg)**
 
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
+
 ***
 
 ![Bloody Mary](https://github.com/RetroAchievements/guides/assets/97459553/b375874d-f5d0-4f88-9905-1f7d9992c19a) Bloody Mary (m)
@@ -429,6 +439,8 @@ Total items: 10
 
 **[Item Map](https://imgur.com/a/kvgKOxq)**
 
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
+
 ***
 
 ![Mended a Broken Heart](https://github.com/RetroAchievements/guides/assets/97459553/f70170bb-da1b-4dab-8b02-ae8a407e42b2) Mended a Broken Heart
@@ -445,9 +457,11 @@ _Help a deluded man in Akrass._
 
 * Give the deluded man in the south western part of Akrass a Delusion Ring. You can find one in Pyramid Town.
 
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
+
 ***
 
-![The Tortoise and the Monkey](https://github.com/RetroAchievements/guides/assets/97459553/4f6eb38c-9c87-4960-90bc-626ee57841df) The Tortoise and the Monkey
+![The Tortoise and the Monkey](https://github.com/RetroAchievements/guides/assets/97459553/4f6eb38c-9c87-4960-90bc-626ee57841df) The Tortoise and the Monkey (m)
 
 _Defeat Leonardo in Muban Forest only damaging him with Ponga._
 
@@ -461,6 +475,8 @@ _Have Rain learn Drain from Mio._
 
 * Escape the flooded house in north eastern Haama and win the battle afterwards.
 
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
+
 ***
 
 ![Unoi and Haama Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/37b4ad57-7080-48a8-bfff-bf6663d2a807) Unoi Village and Hamma Town Scavenger (m)
@@ -469,6 +485,8 @@ _Find all the items in Unoi Village and Haama Town._
 
 Total items: *Coming soon*
 
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
+
 ***
 
 ![Northern Forest Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/bc578bef-f94d-4aff-80af-cb327914c5f4) Northern Forest Scavenger (m)
@@ -476,6 +494,8 @@ Total items: *Coming soon*
 _Find all the items in forests on the third island, including Falua's house._
 
 Total items: *Coming soon*
+
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
 
 ***
 
@@ -494,6 +514,8 @@ _Find all the items in Rekur Town._
 Total items: 7
 
 **[Item Map](https://imgur.com/a/F61c3Pz)**
+
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
 
 ***
 
@@ -514,7 +536,7 @@ _Receive good tidings from all the dolls who will give them._
 9. Rekur Item Shop
 10. Pyramid Town Item Shop
 
-**Note: If you talk to the doll in the Oceania Item Shop, the doll in Unoi Item Shop will not give you anything, and visa versa. You only need one of them for the achievement.**
+**Note: If you talk to the doll in the Oceania Item Shop, the doll in Unoi Item Shop will not give you anything, and visa versa. You only need one of them for the achievement. You must get dolls 5-10 before leaving the island they are on. Once you leave, you cannot return. You can only return to the first island for dolls 1-4.**
 
 ***
 
@@ -547,6 +569,8 @@ _Reach the lost ruins of Atlantis._
 _Obtain the Burning Sword._
 
 * Talk to the horse man next to the stairs in Atlantis to start a fight. The Burning Sword is the reward for winning.
+
+**Note: You cannot return to Atlantis after you leave.**
 
 ***
 
@@ -586,6 +610,8 @@ Total items: 6
 
 **[Item Map](https://imgur.com/a/LGKXEYm)**
 
+**Note: Must be done before fighting Dark Lord. Once you fight him, you cannot return.**
+
 ***
 
 ![Lupine Champion  m](https://github.com/RetroAchievements/guides/assets/97459553/b78764bc-f236-4168-8886-f05457f9a52b) Lupine Champion (m)
@@ -603,6 +629,8 @@ _Find all the items in Valhalla._
 Total items: 39
 
 **[Item Map](https://imgur.com/a/6vFLvoK)**
+
+**Note: Must be done before fighting Dark Lord. Once you fight him, you cannot return.**
 
 ***
 
