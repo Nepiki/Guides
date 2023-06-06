@@ -7,7 +7,7 @@
 * Achievement set difficulty: 4/10
 * Estimated time to complete: ~20 hours
 * Number of play throughs necessary: 1
-* Missable achievements: 34/71
+* Missable achievements: 38/67
 
 # Introduction
 
