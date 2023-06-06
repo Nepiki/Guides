@@ -390,7 +390,9 @@ _Help a shepherd find his missing goat._
 
 _Rescue an ungrateful girl._
 
-* Progression achievement.
+* Found in Dahara Forest on the eastern side. Take the north path around to fight the werewolf and rescue her.
+
+**Note: Must be done before leaving the island. Once you leave, you cannot return.**
 
 ***
 
