@@ -322,6 +322,14 @@ Total items: 3
 
 ***
 
+![Aurelian Helix](https://github.com/RetroAchievements/guides/assets/97459553/09d08069-38f8-481a-ad7c-efc00e25376f) Aurelian Helix
+
+_Obtain the Gold Spiral._
+
+* Progression achievement.
+
+***
+
 ![Ghostly Grit  m](https://github.com/RetroAchievements/guides/assets/97459553/2fb2eed5-90f6-47b1-bd53-a3eef347e0b7) Ghostly Grit (m)
 
 _Defeat Hel's ghost without using a technique or curing a status effect._
@@ -352,17 +360,11 @@ _Steal from the item shop in the Port Town of Arkrass._
 
 _Find all the items in the Port Town of Arkrass._
 
-Total items: *Coming soon*
+Total items: 13
+
+**[Item Map](https://imgur.com/a/TKxZZSA)**
 
 **Note: Must be done before leaving the island. Once you leave, you cannot return.**
-
-***
-
-![Aurelian Helix](https://github.com/RetroAchievements/guides/assets/97459553/09d08069-38f8-481a-ad7c-efc00e25376f) Aurelian Helix
-
-_Obtain the Gold Spiral._
-
-* Progression achievement.
 
 ***
 
