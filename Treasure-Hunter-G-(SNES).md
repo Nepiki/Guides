@@ -314,7 +314,9 @@ _Set foot on Carbuckle Island._
 
 _Find all the items on Carbuckle Island._
 
-Total items: **Coming Soon**
+Total items: 3
+
+**[Item Map](https://imgur.com/a/JIMLbVe)**
 
 **Note: Must be done before leaving the island. Once you leave, you cannot return.**
 
