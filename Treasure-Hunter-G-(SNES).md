@@ -255,7 +255,7 @@ _Gain access to the secret room in a Grand Frog casino._
 
 _Win the Ribbit of Darkness game at a Grand Frog casino._
 
-* The entry code to access the secret room is 3131. There's multiple casinos in the game and the password is the same for each.
+* The entry code to access the secret room is 3131. There's a casino in Oceania and Arkrass. The password is the same for both.
 
 * If you need to buy frogs, buy them from a guy by the light house because he sells 5 for 100G. You can also find them for free in flowers/weeds in other towns.
 
