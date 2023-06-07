@@ -386,6 +386,8 @@ _Obtain the Pyramid Eye._
 
 * Progression achievement.
 
+**[Pyramid Climb Solution](https://imgur.com/a/JC7iwvK)**
+
 ***
 ![Pyramid Scavenger](https://github.com/RetroAchievements/guides/assets/97459553/6287cbcc-511f-44d4-9d29-643aa11bd5bc) Pyramid Scavenger (m)
 
