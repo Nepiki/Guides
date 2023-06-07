@@ -626,6 +626,35 @@ _Buy all 5 Tier-5 Moves from the Buy Move shop. (Check notes for details.)_
 
 You don't need any tip here. Buy must buy moves first and the not needed ones later and you will get these cheevos eventually. You cannot get all of them on a first playthrough.
 
+# Part 3: Collectible
+
+# Part 4: Tips
+
+* You see the dash hulk does when you press the sprint button? You might think that might be for some damage. And you would be correct but that is not only for damage. You see if you do a max charge jump during that dash animation. Hulk will do a long jump. He will cover much greater distance than he would if he jumps while normally sprinting.
+
+# Part 5: Enemy Types
+
+* Humans : These things should cower if you just so much as stand near them. Their whole existence is their weakness.
+
+* Rocket Equipped Humans : You canno take them lightly. If a group of them gangs up on you they will melt your healthbar. So take them out one by one just like you would a normal human enemy.
+
+* Tanks : A Challenge at first but helpless after you get some moves. Steel Fists and slightly charged Dashing Uppercut OHKO's them. Even hammer without steel fists does a lot of damage. And they are dead as soon as you start hammer tossing them. They can shoot cannons and charge at you if you stand infront of them.
+
+* Missile Trucks : A Slighly charged dashing uppercut without steel fists OHKO's them. They can juggle you with their missile flurry. Or knock you back with their homing missiles. Those homing missiles are a pain in the a**. They really do find their target eventually just when you think you dodged it.
+
+* Mechs : Challenge at first, fodder later. Helpless if you dashing uppercut them and tornado frenzy them. Or gamma bomb, grind or quake them as they can be grabbed whenever you want. They can punch you, charge at you in the air, combo at you a little bit and do a rocket flurry if they grab you and deal a lot of damage than they should. They can also break out of your grab if you hold them for too long.
+
+* Warden Patrol Units : Pretty much same as Normal Mechs but they break out much faster, are faster in general and deal a lot more damage. They do pretty much the same attacks as the mechs. And the normal weaknesses apply on them too.
+
+* Helicopters : They should scare you in the first part of the game. But they should be scared of YOU later. A Super Air Strike or a cannonball and then a Skyjack will put them down for good. They fire missiles and gatling gunfire.
+
+* Jets : They may seem scary but since they show up later in the game when you have the powerful moves they don't impact as much as helicopters. Same strategy applies to them as helicopters but one extra fun thing applies to them. You can fool them by doing a slow air strike they will think you are gonna hit them so they will do a evasive manuever in place giving you time to SUPER AIR STRIKE them and Skyjack them down. They shoot missiles in specific runs mostly together with their flying partner. So a skyjack and a target kick can help you take two birds down with one of those birds.
+
+* Hulkbuster Destroyer : They may seem scary since they were a boss in Chapter 2. But since they show up as regular enemies their health pool is much lower than them as boss. They will spam missiles and sweep you if you are near them. You can cheese them if you are near a wall with elbow drops. One elbow drop and they will stagger HARD. Then you can air dash to the wall and keep elbow dropping him. This melts their health bar in 5 seconds while also taking out anything else in the area of effect of the elbow drop.
+
+# Part 6: Moves
+
 # Revisions
 
 0.1 = First draft saved
+0.2 = Added Empty Parts for Collectibles and Moves. And added completed parts of enemy types and tips. Will add more tips later if I get more.
