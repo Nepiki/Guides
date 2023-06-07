@@ -652,9 +652,129 @@ You don't need any tip here. Buy must buy moves first and the not needed ones la
 
 * Hulkbuster Destroyer : They may seem scary since they were a boss in Chapter 2. But since they show up as regular enemies their health pool is much lower than them as boss. They will spam missiles and sweep you if you are near them. You can cheese them if you are near a wall with elbow drops. One elbow drop and they will stagger HARD. Then you can air dash to the wall and keep elbow dropping him. This melts their health bar in 5 seconds while also taking out anything else in the area of effect of the elbow drop.
 
-# Part 6: Moves
+# Part 6: Upgrades
+
+* Steel Fists = A must buy. Adds a lot of damage to your base attacks!
+
+* Dashing Straight = May seem like a great move but is a bit of a nuisance. Mainly because it knocksback the opponent. Since the enemies get up really quick in this game so there's no point in using this other than on opponents who can't be knocked or buildings. Even there uppercut is much better.
+
+* Air Recovery = MUST BUY. This thing will save your ass countless of times.
+
+* Running Grab = This should be one of the base abilities. As you will be running a lot so there should be no doubts about buying this one.
+
+* Ground Smash = Great at first. But quickly becomes obsolete later. As the animation takes too long. And it doesn't cover much area. Critical counterpart is awesome though.
+
+* Backhand = No specific benefit. But it's only 500 points. So should be comfortable in the backpocket.
+
+* Punt Kick = Does a good amount of damage but takes a long time to startup.
+
+* Sonic Clap = Good area of effect move. But takes a bit of time to start.
+
+* Air Stomp = Not so much useful for combat. Since you can't target it. But useful for traversal because you can drop straight down with this. But still does a good amount of damage.
+
+* Smash Express = Basically being able to Smash while dashing with objects. A pretty meh kind of upgrade but don't underestimate it. It will save your a** in the final mission.
+
+* Double Fist Toss = Basically the ability to throw while dashing.  A kinda must buy since you will be throwing a lot of stuff. Might as well have the ability to do so while dashing.
+
+* Critical Atomic Slam = Coolest Move in the game. Does a really good amount of damage. Has a pretty wide area of effect. A must buy for hairy situtations.
+
+* Slam Kick = You won't be using this move much. I call this kind of move a kind of flair move. But still does a really good amount of damage to helicopters or jets.
+
+* Shield = You better buy this because aside some enemies who can grapple attack you they seem to ignore the shield. But this thing can help you cheese some bosses with this. Like the hulkbuster destroyer as the boss.
+
+* Shockwave Smash = Good for dealing extra damage to tanks. Looks cool. Not much else.
+
+* Air Dash = Hulk's tool to never touching the ground. Well the super variant actually. But it's a stepping stone!
+
+* Dashing Sonic Clap = I don't remember how many times I normal sonic clapped, even so dashing sonic clapped. So ain't much useful but might help if you are trying to hit a group while running.
+
+* Tornado Uppercut = This thing will make every Hulk size enemies helpless then the next move comes.
+
+* Tornado Frenzy = And this will probably act as a finisher or a damage dealer to the Tornado Uppercut.
+
+* Rapid Punch Burst = Hulk does this to Abomination in Chapter 1. So you can do it in game too now! Does a good amount of damage and looks very cool.
+
+* Critical Thunder Clap = If I seem very disinterested in the Sonic Clap. Well that's because this one captivated me over that one. This one has a much wide area of effect and good damage and clears anything hulk has around him. And bonus points for the Vaccum like effect hulk does when starting it.
+
+* Power Surge Level 1 = No reason to not get it.
+
+* Club Smash = Basically a Ground Smash for clubs or poles. Poles in general don't deal a lot of damage but have a very large area of effect.
+
+* Rising Upper = This one is a bit trickier and a bit slower uppercut. Deals good damage. Nice launcher too.
+
+* Air Ground Slam = So you can fulfil all your air falling rock dreams. Seriosuly this one is much better than the grounded slam. That thing leaves Hulk exposed. This one doesn't and has the benefit of the ground one.
+
+* Air Sonic Clap = Like Air Ground Slam but for Sonic Clap. Good area clearer in the air.
+
+* Missile punchback = You won't be doing this intentionally at all. It will happen randomly when you don't expect. Mostly when you are hammer tossing the tank will automatically punchback for you.
+
+* Headbutt = The mech's worst nightmare. Does a lot of damage than it should.
+
+* Air Critical Atomic Slam = If Air Ground Slam fulfilled your falling rock dreams. This one will be your falling NUKE dreams. Seriously hulk drops like a nuke while he does this.
+
+* Air Enemy Grapple = A very useful move against those mechs. You can grapple them with Super Air Strike and then gamma bomb or do whatever you want.
+
+* Spear Impale = It's like punchback you won't be doing it intentionally. But when you pull this off you will definitely go "WHOOOAH" like I was when If first did this. If you throw this to a hulk sized enemy and he is near a wall he will get pinned to the wall like a dart. And if he isn't near a wall it will impale him and he will be stunned for a very long time. Of all the club and pole moves this is the most useful.
+
+* Dashing Uppercut = The tanks, missile trucks worst and mech's second worst nightmare. OHKO's tanks and missile trucks and launches mechs for combos.
+
+* Bowling = This is a weaponization move. So you will have to get a spherical object. You might think "Maybe bowling will do very huge amount of damage!". It doesn't. But it's smash option has a very nice area of effect!
+
+* Cyclone Skyjack = The jet and helicopter pilots are gonna be crying when you pull this off to all of their teammates. You basically drag the aerial vehicles down with your weight. They will spin uncontrollably and fall to their definite demise.
+
+* Dashing Ground Slam = Dashing counterpart of Ground Slam. Could be of use to groups while running.
+
+* Gamma Quake = The first upgrade to Hulk's Triangle Attack. Does a LOT of damage to any foe that can be grabbed.
+
+* Elbow Drop = Those hulkbuster destroyers are puny against this move. They can't do anything but watch as you drain their healthbars.
+
+* Floor Kick = Actually a rage move. I use this when a enemy pisses me off. Hulk will stomp the enemy then kick him across.
+
+* Critical Mass Surge Level 1 = Why wouldn't you?
+
+* Shield Grind = A very cool move but one that doesn't deal a lot of damage.
+
+* Hitchhike = Hulk can latch onto enemies bigger than him punching them. They will eventually shake him off. Biggest candidates are Abomination and Hulkbuster Destroyers.
+
+* Super Air Dash = This adds onto Hulk's already pretty great traversal abilities.
+
+* Shockwave Smash Repeater = Hulk can keep doing the super shockwave smash. This can juggle a lot of mech's together. So it's usefull in that regard. Other than that if there's just one enemy. You shouldn't even bother.
+
+* Air Critical Thunder Clap = Critical Thunderclap but in the air. The tool you will probably use when you are in a tough situtation.
+
+* Hammer Toss = Deal emotional damage to General Ross in turning point with this. He won't know what hit him and also other enemies. OHKO's most of them. As well as the tank you are tossing.
+
+* Missile Pack Weaponize = A very useful weaponization. The missile packs that those missile trucks drop can be weaponized so you can fire the rockets yourself. These rockets OHKO's tanks and the missile trucks themselves. And eats Abomination's health bar in Hell Hath No Fury.
+
+* Ball and Chain = A very cool weaponization but takes a lot of time to wind up when you attack far with it.
+
+* Air Spike = Does a bit more damage than the drop kick does in the end of tornado frenzy.
+
+* Target Kick = The tool kill a bird with another bird. Basically you can kick a aerial vehicle to another if you skyjack one of them.
+
+* Gamma Grinder = As it says really grinds Hulk or lower size enemies.
+
+* Critical Pain = The most powerful critical move in the game. Aside from some enemies this will melt a lot of enemies healthbars.
+
+* Double Air Dash = As if Hulk wasn't fast already.
+
+* Running Club Ram = Smash Express but for clubs and poles. You know what to do with it.
+
+* Gamma Bomb = Do a quick grinder from the air on hulk or lower sized enemies. The more the height the more the damage.
+
+* Air Cannnball = OHKO's missile trucks in normal mode. And does a lot of damage.
+
+* Critical Mass Surge Level 2 = Hulk is gonna get another slot for another critical move.
+
+* Super Shockwave Smash = Instead of three ways it will go five ways at the end of Shockwave Smash Repeater! More damage!
+
+* Double Super Air Dash = Now Hulk is gonna fly.
+
+* Power Surge Level 3 = More health never hurt anyone.
 
 # Revisions
 
 * 0.1 = First draft saved
 * 0.2 = Added Empty Parts for Collectibles and Moves. And added completed parts of enemy types and tips. Will add more tips later if I get more.
+* 0.3 = Fixed Revisions Formatting
+* 0.4 = Renamed Moves to Upgrades, completed upgrades section.
