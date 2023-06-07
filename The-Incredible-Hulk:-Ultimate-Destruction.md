@@ -625,3 +625,7 @@ _Buy all 5 Tier-5 Moves from the Buy Move shop. (Check notes for details.)_
 </pre></big>
 
 You don't need any tip here. Buy must buy moves first and the not needed ones later and you will get these cheevos eventually. You cannot get all of them on a first playthrough.
+
+# Revisions
+
+0.1 = First draft saved
