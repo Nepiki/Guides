@@ -7,7 +7,7 @@
 * Achievement set difficulty: 4/10
 * Estimated time to complete: ~20 hours
 * Number of play throughs necessary: 1
-* Missable achievements: 38/71
+* Missable achievements: 38/70
 
 # Introduction
 
@@ -245,17 +245,15 @@ _Win a pair of Strange Boots in the Fly Catching game at a Grand Frog casino._
 
 ![Brisk Bullfrog](https://github.com/RetroAchievements/guides/assets/97459553/94f9392d-b2bd-472d-8941-6ea17a6bb905) Brisk Bullfrog
 
-_Win a Poison Ring in the Froggie Race game at a Grand Frog casino._
-
-![Master of Darkness](https://github.com/RetroAchievements/guides/assets/97459553/7adf72ff-33bc-4c5e-b358-35b52dabb3a6) Master of Darkness
-
-_Win the Ribbit of Darkness game at a Grand Frog casino._
+_Win a Poison Ring in the Froggy Race game at a Grand Frog casino._
 
 * If you need to buy frogs, buy them from a guy by the light house because he sells 5 for 100G. You can also find them for free in flowers/weeds in other towns.
 
-* Each game costs one frog. There's a little bit of strategy for the games but it's mostly just RNG luck. I recommend saving before attempting because the games can be rather difficult to win.
+* The Froggy Race is just about learning the timing. Once you get the rhythm down, it's very easy to win.
 
-* Ribbit of Darkness is all of the casino games compiled into one. Prepare for frustration.
+* Fly Catcher is RNG but you can apply some basic strategies. The start is the best time since they're all clumped together. When you tongue, move back and forth so you can catch flies with the side of your tongue as well.
+
+* Dodge Ball is easily the most frustrating. Try not to jump back and forth between the same two lanes. The game will recognize a pattern and will send dodge balls down those lanes more frequently.
 
 **Note: The achievements can be done at any casino at any time in the game.**
 
