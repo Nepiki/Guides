@@ -778,3 +778,4 @@ You don't need any tip here. Buy must buy moves first and the not needed ones la
 * 0.2 = Added Empty Parts for Collectibles and Moves. And added completed parts of enemy types and tips. Will add more tips later if I get more.
 * 0.3 = Fixed Revisions Formatting
 * 0.4 = Renamed Moves to Upgrades, completed upgrades section.
+* 0.5 = Added work in progress to the title.
