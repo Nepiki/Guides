@@ -656,5 +656,5 @@ You don't need any tip here. Buy must buy moves first and the not needed ones la
 
 # Revisions
 
-0.1 = First draft saved
-0.2 = Added Empty Parts for Collectibles and Moves. And added completed parts of enemy types and tips. Will add more tips later if I get more.
+* 0.1 = First draft saved
+* 0.2 = Added Empty Parts for Collectibles and Moves. And added completed parts of enemy types and tips. Will add more tips later if I get more.
