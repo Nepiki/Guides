@@ -8,6 +8,10 @@ Before you play you will need
 
 2. The English Patch 1.1 by [Krokodyl](https://www.romhacking.net/community/6086/) (Which you can get [from Github](https://github.com/Krokodyl/treasure-conflix) or [from romhacking.net](https://www.romhacking.net/translations/6786/))
 
+After that you are able to boot up the BS-X Menu which kind of looks like a game and is called ["The Town Whose Name Was Stolen"](https://fictionalcrossover.fandom.com/wiki/BS-X:_Sore_wa_Namae_o_Nusumareta_Machi_no_Monogatari).
+
+You start directly in front of a red building. You don't have to walk around. Just enter the building and select "Load Stored Data", then load Treasure Conflix. Have fun!
+
 # 2) Walkthrough
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344735.png">
