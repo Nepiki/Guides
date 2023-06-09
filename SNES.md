@@ -12,3 +12,4 @@ List of Guides (Alphabetical)
 |Soul Blazer|[[m]](Soul-Blazer-(SNES))|[1168](https://retroachievements.org/game/1168)|
 |Super Mario RPG: Legend of the Seven Stars|[[m]](Super-Mario-RPG-Legend-of-the-Seven-Stars-(SNES))|[471](https://retroachievements.org/game/471)|
 |Tokimeki Memorial: Densetsu no Ki no Shita de|[Full](https://github.com/RetroAchievements/guides/wiki/Tokimeki-Memorial:-Densetsu-no-Ki-no-Shita-de-(SNES))|[3913](https://retroachievements.org/game/3913)|
+|Treasure Conflix|[Full](https://github.com/RetroAchievements/guides/wiki/Treasure-Conflix)|[22135](https://retroachievements.org/game/22135)|
