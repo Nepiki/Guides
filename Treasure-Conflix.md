@@ -233,7 +233,7 @@ Northwest of Landos in a forest shaped like a cross.
 _Discover the Platinum Lantern_
 </pre></big>
 
-Fish in Fort Fatras will give you this clue. Northwest of Kazusa Base on the island that is shaped like a dog, on the part that looks like it’s leg
+Fish in Fort Fatras will give you this clue. Northwest of Kazusa Base on the island that is shaped like a dog, on the part that looks like it’s leg.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344763.png">
 
