@@ -65,7 +65,7 @@ The achievements for the Xarnax Run are ordered in such a way to guide players t
 To avoid accidentally ruining a save attempt, a trigger icon for the final achievement will always be present in the bottom right of the emulator to let you know that you are meeting the run requirements. If at any time the icon disappears, this is in an indication that you've obtained a disallowed upgrade and should immediately reset without saving.
 
 A few important tips for the run are as follows:
-- Any time you quit out, select SAVE. There may be times when Exp gains (after placing gems or killing bosses) may actually carry over after a quit out. If you save and if that does happen and you cannot quit out fast enough again, you'll be able to simply the game and reload without issue.
+- Any time you quit out, select SAVE. There may be times when Exp gains (after placing gems or killing bosses) may actually carry over after a quit out. If you save and if that does happen and you cannot quit out fast enough again, you'll be able to simply quit the game and reload without issue.
 - Limit the enemies you kill to only the ones that are absolutely necessary. You must manage your exp gain throughout this run.
 - Use Fairy to avoid dying any time it is necessary. Dying with magic you could have used is a wasting it. Often times Jump or Fairy likely could have allowed you to survive for another few rooms.
 - Be prepared to quit out immediately after placing gems and especially the sequence after defeating Thunderbird (you do not want to have to repeat the fight due to a botched quit out). It is very easy to do if you are prepared since all you need to do is pause the game then take your time to initiate the quit out.
