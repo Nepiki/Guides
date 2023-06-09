@@ -80,7 +80,7 @@ East of Kazusa Base in a forest surrounded by mountains.
 _Discover the Silver Vessel_
 </pre></big>
 
-Northwest of Kazusa Base on plains surrounded by forest
+Northwest of Kazusa Base on plains surrounded by forest.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344742.png">
 
@@ -89,7 +89,7 @@ Northwest of Kazusa Base on plains surrounded by forest
 _Discover the Angel's bow_
 </pre></big>
 
-North of Landos in a forest in the middle of the desert
+North of Landos in a forest in the middle of the desert.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344743.png">
 
@@ -98,7 +98,7 @@ North of Landos in a forest in the middle of the desert
 _Discover the Black Coral Hairpin_
 </pre></big>
 
-East of Raizeltown in a forest
+East of Raizeltown in a forest.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344744.png">
 
@@ -116,7 +116,7 @@ East of Peppermint there is a string of 7 islands. The Necklace is on the fourth
 _Discover the Golden Barrette_
 </pre></big>
 
-East of Landos on the peninsula that looks like a hand
+East of Landos on the peninsula that looks like a hand.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344746.png">
 
@@ -134,7 +134,7 @@ Near the Cloud Temple in the forest valley between two mountains.
 _Discover the Ancient Coin_
 </pre></big>
 
-Southeast of Landos in the middle of two mountains surrounded by forest
+Southeast of Landos in the middle of two mountains surrounded by forest.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344748.png">
 
@@ -143,7 +143,7 @@ Southeast of Landos in the middle of two mountains surrounded by forest
 _Discover the Three-Eyed Skull_
 </pre></big>
 
-West of Peppermint on one of three identical islands
+West of Peppermint on one of three identical islands.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344749.png">
 
@@ -152,7 +152,7 @@ West of Peppermint on one of three identical islands
 _Discover the Amethyst Bracelet_
 </pre></big>
 
-Near Fort Fatras in a forest in the valley
+Near Fort Fatras in a forest in the valley.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344750.png">
 
@@ -161,7 +161,7 @@ Near Fort Fatras in a forest in the valley
 _Discover the Enchanted Ring_
 </pre></big>
 
-North of Landos on the peninsula
+North of Landos on the peninsula.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344751.png">
 
@@ -170,7 +170,7 @@ North of Landos on the peninsula
 _Discover the Dojin Armor_
 </pre></big>
 
-West of Raizeltown on the peninsula
+West of Raizeltown on the peninsula.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344752.png">
 
@@ -179,7 +179,7 @@ West of Raizeltown on the peninsula
 _Discover the Elixir of Life_
 </pre></big>
 
-Near Raizeltown
+Near Raizeltown.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344755.png">
 
@@ -188,7 +188,7 @@ Near Raizeltown
 _Discover the Moonlight Stone_
 </pre></big>
 
-West of Kazusa Base on the desert island
+West of Kazusa Base on the desert island.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344756.png">
 
@@ -197,7 +197,7 @@ West of Kazusa Base on the desert island
 _Discover the Cursed Mirror_
 </pre></big>
 
-West of Peppermint close to the mountains
+West of Peppermint close to the mountains.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344753.png">
 
@@ -206,7 +206,7 @@ West of Peppermint close to the mountains
 _Discover the Silver Candelabra_
 </pre></big>
 
-South of Fort Fatras on an island
+South of Fort Fatras on an island.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344758.png">
 
@@ -215,7 +215,7 @@ South of Fort Fatras on an island
 _Discover the Dragon Shield_
 </pre></big>
 
-Northeast of Landos on an island
+Northeast of Landos on an island.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344754.png">
 
@@ -224,7 +224,7 @@ Northeast of Landos on an island
 _Discover the Emerald Ring_
 </pre></big>
 
-Northwest of Landos in a forest shaped like a cross
+Northwest of Landos in a forest shaped like a cross.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344757.png">
 
@@ -242,7 +242,7 @@ Fish in Fort Fatras will give you this clue. Northwest of Kazusa Base on the isl
 _Discover the Imperial Seal_
 </pre></big>
 
-Northeast of Kazusa Base by the coast
+Northeast of Kazusa Base by the coast.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344762.png">
 
@@ -358,3 +358,5 @@ Silva gives you the map for this. At the lake west of the Cloud Temple.
 [Ultimate Treasure Hunter (10)](https://retroachievements.org/achievement/311655)
 _Collect all the treasure in the game_
 </pre></big>
+
+After all this you have earned this badge. Congratulations :)
