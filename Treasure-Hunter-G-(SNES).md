@@ -127,7 +127,7 @@ _Defeat Tenzu in Tania and learn another special technique._
 
 _Find all the items in Tania Town._
 
-Total items: 17
+Total items: 18
 
 **[Item Map](https://imgur.com/a/O9oA8rR)**
 
