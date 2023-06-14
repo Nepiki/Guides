@@ -31,14 +31,14 @@ Directional Controls in Phoenix are straight forward. Left is left, Right is rig
 Something that might not be noticed immediately are point values based on enemy location. For small Phoenix, in Waves 1 and 2, wait for the enemy to swoop down and when it is nearly at it's lowest level destroy it to gain 80 points over the standard 20. For the large Phoenix in Waves 3 and 4 the lower the Phoenix is to the bottom of the screen, the more points it is worth. At it's highest level on screen a large Phoenix will net you 100 points, the lower it is when you destroy it, the higher the point value. Up to a max of 500 points. Hitting a large Phoenix in the wing will get you 20 points per wing. The mothership's point value is based on it's height at time of destruction. Ranging in value from  1,000 to 4,000 points in Phase 1. The max point value increasing by 1,000 points every time you complete a Phase, up to a max of 9,000 points.
 
 # Achievement Guide
-### Number of Achievements: 41
-### Total Points: 343
+> Number of Achievements: 41
+> Total Points: 343
 
 As Phoenix is an arcade style game there aren't any achievements that can be missed, as the game can just be reset and a complete Phase of 5 Waves can be completed in under a minute. There is a mix of progression, challenge, time trial and scoring achievements spanning all 5 Waves and at least 10 consecutive Phases of play.
 
 ***
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338282.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338282.png">
 
 <big><pre>
 [Hexagonal Edged Force Field (1)](https://retroachievements.org/achievement/305434)
@@ -49,7 +49,7 @@ Simply press down to activate your force field. This can be done on any Wave.
 
 ***
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338297.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338297.png">
 
 <big><pre>
 [Like a Phoenix to the Force Field (2)](https://retroachievements.org/achievement/305449)
@@ -60,7 +60,7 @@ If you are on Phase 1 you will have to eliminate all of the Phoenix except for t
 
 ***    
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338300.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338300.png">
 
 <big><pre>
 [The Light Was On... (3)](https://retroachievements.org/achievement/305452)
@@ -71,77 +71,86 @@ This is the same as _Like a Phoenix to the Force Field_ the large red Phoenix AI
 
 ***
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338283.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338283.png">
 
 <big><pre>
 [Left and Right (3)](https://retroachievements.org/achievement/305435)
 _Evade 50 missiles from standard enemies without dying._
 </pre></big>
 
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338284.png">
+***
+
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338284.png">
 
 <big><pre>
 [My One and Only (5)](https://retroachievements.org/achievement/305436)
 _Gain 5,000 points without dying and max out the life counter._
 </pre></big>
 
+***
     
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338285.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338285.png">
 
 <big><pre>
 [Decimation!!! (25)](https://retroachievements.org/achievement/305437)
 _Completely destroy the mother ship at the end of any Phase._
 </pre></big>
 
+***
     
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338286.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338286.png">
 
 <big><pre>
 [Phase 1 Complete!!! (1)](https://retroachievements.org/achievement/305438)
 _Finish Phase 1 and loop the game._
 </pre></big>
 
+***
     
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338287.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338287.png">
 
 <big><pre>
 [Second Verse, Same as the First (2)](https://retroachievements.org/achievement/305439)
 _Finish Phase 2 and loop the game for a second time._
 </pre></big>
 
+***
     
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338288.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338288.png">
 
 <big><pre>
 [A Little Bit Longer, and A Little Bit Worse (3)](https://retroachievements.org/achievement/305440)
 _Finish phase 3 and loop the game for a third time._
 </pre></big>
 
+***
     
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338289.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338289.png">
 
 <big><pre>
 [Crack Shot: Wave 1 (1)](https://retroachievements.org/achievement/305441)
 _Finish Wave 1 with an accuracy of at least 50%._
 </pre></big>
 
+***
     
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338290.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338290.png">
 
 <big><pre>
 [Ace: Wave 1 (5)](https://retroachievements.org/achievement/305442)
 _Finish Wave 1 with an accuracy of 100%._
 </pre></big>
 
+***
     
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338291.png">
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Badge/338291.png">
 
 <big><pre>
 [Ace: Wave 2 (5)](https://retroachievements.org/achievement/305443)
 _Finish Wave 2 with an accuracy of 100%._
 </pre></big>
 
+***
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/338292.png">
 
