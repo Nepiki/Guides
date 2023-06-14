@@ -16,7 +16,7 @@
 
 # 2) Introduction
 
-One of my all time favorite Atari 2600 games. While inferior in graphics to it's arcade counterpart, this version holds it's own and is allot of fun to play. Phoenix originally came packaged with Atari Force #4, it is very goofy but fun and very much from it's era of comics and I highly suggest giving it a read if you ever have the chance as I think it adds to the whole experience. I 
+One of my all time favorite Atari 2600 games. While inferior in graphics to it's arcade counterpart, this version holds it's own and is allot of fun to play. Phoenix originally came packaged with Atari Force #4, it is very goofy but fun and very much from it's era of comics and I highly suggest giving it a read if you ever have the chance as I think it adds to the whole experience.
 
 # 3) Walkthrough
 
