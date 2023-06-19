@@ -269,7 +269,7 @@ Silva gives you the hint for this. On an Island east of Raizeltown.
 _Discover the Sun Ring_
 </pre></big>
 
-On the island south of Kazusa.
+You will find a "confusing map" which refers very abstractly to the outline of an island, which is south of Kazusa.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344766.png">
 
