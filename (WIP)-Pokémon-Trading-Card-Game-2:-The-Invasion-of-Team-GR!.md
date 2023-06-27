@@ -43,7 +43,9 @@ _Defeat Ronald after having defeated 2 GR members!_
 
 The event trigger is collecting two pieces of the GR Coin. Once you do, Ronald will stop you in the main entrance room of whatever club you're in and challenge you. You only get one shot at the duel, and you must win, so save directly after obtaining the second coin piece. His deck is Water/Fighting.
 
-[Deck List Here](https://imgur.com/a/9TweMgF)
+
+
+[Ronald's Deck List](https://imgur.com/a/9TweMgF)
 
 ***
 
@@ -61,7 +63,7 @@ _Defeat Ronald in the GR Grass Fortress!_
 
 Ronald will stop you in the fortress main entrance room after you've collected the GR Grass Coin. You only get one shot at the duel, and you must win, so save directly after obtaining the coin. His deck is Grass/Colorless.
 
-[Deck List Here](https://imgur.com/a/UB0oGDG)
+[Ronald's Deck List](https://imgur.com/a/UB0oGDG)
 
 ***
 
@@ -87,7 +89,7 @@ _Defeat Ronald in either the GR Fire Fortress or GR Water Fortress!_
 
 The forts can be done in either order. Ronald will stop you in the fortress main entrance room after you've collected both. You only get one shot at the duel, and you must win, so save directly after obtaining both coins. His deck is mostly Colorless with a few Fighting and all three Eeveelutions.
 
-[Deck List Here](https://imgur.com/a/4pF9nDU)
+[Ronald's Deck List](https://imgur.com/a/4pF9nDU)
 
 ***
 
@@ -113,4 +115,34 @@ _Defeat Ronald in the GR Castle!_
 
 Ronald will stop you directly after you've opened the door using the GR Psychic and GR Colorless coins. You only get one shot at the duel, and you must win, so save before opening the door. His deck is Psychic/Colorless.
 
-[Deck List Here](https://imgur.com/a/mOYHhHw)
+[Ronald's Deck List](https://imgur.com/a/mOYHhHw)
+
+***
+
+![217185](https://github.com/RetroAchievements/guides/assets/97459553/f08b461a-7b83-428f-b4b6-3cf2fa3db8ce) GR Coin
+
+_Assemble the complete GR Coin!_
+
+Progression. Collect all four pieces of the GR Coin.
+
+***
+
+![217186](https://github.com/RetroAchievements/guides/assets/97459553/4793fe82-32b5-437e-a66c-7796fccbdb0a) Oddish Coin
+
+_Receive the Oddish Coin from Nikki!_
+
+After defeating Brittney in the Grass Club lobby, she'll tell you that Nikki is at Ishihara's house. Speak to Nikki and she'll give you the coin.
+
+***
+
+![217187](https://github.com/RetroAchievements/guides/assets/97459553/51eb9b11-aa69-43ee-86d8-046ac64a2abf) Charmander Coin
+
+_Receive the Charmander Coin from Ken!_
+
+After defeating GR #3 in the Fire Club, he'll release the club members and Ken will give you the coin.
+
+*** 
+
+![217188](https://github.com/RetroAchievements/guides/assets/97459553/ad72bc79-a053-407a-af92-b4be4674a0ae) Starmie Coin
+
+_Receive the Starmie Coin from Amy!_
