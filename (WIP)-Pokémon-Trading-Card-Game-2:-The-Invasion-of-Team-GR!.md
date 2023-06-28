@@ -24,9 +24,9 @@ The game adds many new features not present in the original, such as new cards, 
 
 # Road Map
 
-Some of the achievements are progression based and can't be missed, or done out of order, but many of them can be done at any time. The missable achievements are mostly events that open up and close at specific points during progression and battles with your Rival that you can only attempt once. They become available when certain conditions are met and you cannot avoid them when they do.
+Some of the achievements are progression based and can't be missed, or done out of order, but many of them can be done at any time. The missable achievements are mostly events that open up and close when certain conditions are met and battles with your Rival that you can only attempt once.
 
-This guide will have the missable achievements listed first in the order they appear in the game for convenience. This will put the missable achievements out of order from the achievement list on RA. The rest will be in the RA order otherwise.
+This guide will have the missable achievements listed first, in the order they appear in the game, for convenience. This will put the missable achievements out of order from the achievement list on RA. The rest will be in the RA order otherwise.
 
 ***
 
@@ -36,7 +36,7 @@ This guide will have the missable achievements listed first in the order they ap
 
 _Card Pop! with Imakuni?_
 
-You need to talk to people in the Water Club lounge before he'll start appearing. This can be done any time from the moment you leave Mason's Lab until you complete the GR Coin. He will only appear once, each time you load your save file, in a random Club lounge. Check each club until you hear his music. He'll Card Pop! with you the first time you talk to him.
+* Talk to people in the Water Club lounge and he'll start appearing. He'll only appear once, each time you load your save file, in a random Club lounge. Check each Club until you hear his music. He'll only Card Pop! with you before you complete the GR Coin.
 
 ***
 
@@ -44,7 +44,7 @@ You need to talk to people in the Water Club lounge before he'll start appearing
 
 _Defeat Ronald after having defeated 2 GR members!_
 
-The event trigger is collecting two pieces of the GR Coin. Once you do, Ronald will stop you in the main entrance room of whatever club you're in and challenge you. You only get one shot at the duel, and you must win, so save directly after obtaining the second coin piece. His deck is Water/Fighting.
+* This happens after collecting two pieces of the GR Coin. Ronald will stop you in the entrance room of whatever Club you're in as you try to leave. You only get one chance at the duel, and you must win, so save directly after obtaining the second coin piece. His deck is Water/Fighting.
 
 [Ronald's Deck List](https://imgur.com/a/9TweMgF)
 
@@ -54,7 +54,7 @@ The event trigger is collecting two pieces of the GR Coin. Once you do, Ronald w
 
 _Receive a Bill's Computer from Ronald at the Game Center!_
 
-Visit the Game Center at any time between arriving on GR Island and earning the GR Fighting Coin. Ronald will stop you in the main entrance room and give it to you.
+* Visit the Game Center any time between arriving on GR Island and earning the GR Fighting Coin. Ronald will stop you in the entrance room and give it to you.
 
 ***
 
@@ -62,7 +62,7 @@ Visit the Game Center at any time between arriving on GR Island and earning the 
 
 _Defeat Ronald in the GR Grass Fortress!_
 
-Ronald will stop you in the fortress main entrance room after you've collected the GR Grass Coin. You only get one shot at the duel, and you must win, so save directly after obtaining the coin. His deck is Grass/Colorless.
+* Ronald will stop you in the entrance room, after you've collected the GR Grass Coin, as you try to leave. You only get one chance, and you must win, so save directly after obtaining the coin. His deck is Grass/Colorless.
 
 [Ronald's Deck List](https://imgur.com/a/UB0oGDG)
 
@@ -70,17 +70,17 @@ Ronald will stop you in the fortress main entrance room after you've collected t
 
 ![217207](https://github.com/RetroAchievements/guides/assets/97459553/2df71f2a-a55a-4dfd-9a95-fcb958e14b74) Challenge Hall I (m)
 
-_Claim Mewtwo Lv.30 from the first Challenge Hall Event!_
+_Claim Mewtwo Lv30 from the first Challenge Hall Event!_
 
-The event will begin after the GR Coin is assembled and will automatically end when the GR Thunder Coin is obtained. Save before you compete as you only get one chance. You can save in between matches as well.
+* The event will begin after the GR Coin is assembled and will automatically end when the GR Thunder Coin is obtained. Save before you compete as you only get one chance. You can save in between matches as well.
 
 ***
 
 ![217208](https://github.com/RetroAchievements/guides/assets/97459553/0f3c7fbd-293a-4941-a057-9c602d4c1611) GR Challenge Hall I (m)
 
-_Claim Dark Persian Lv.28 from the first GR Challenge Hall event!_
+_Claim Dark Persian Lv28 from the first GR Challenge Hall event!_
 
-The event will begin after the GR Thunder Coin is obtained and will automatically end once both the GR Fire and GR Water coins are obtained. Save before you compete as you only get one chance. You can save in between matches as well.
+* The event will begin after the GR Thunder Coin is obtained and will automatically end once both the GR Fire and GR Water coins are obtained. Save before you compete as you only get one chance. You can save in between matches as well.
 
 ***
 
@@ -88,7 +88,7 @@ The event will begin after the GR Thunder Coin is obtained and will automaticall
 
 _Defeat Ronald in either the GR Fire Fortress or GR Water Fortress!_
 
-The forts can be done in either order. Ronald will stop you in the fortress main entrance room after you've collected both. You only get one shot at the duel, and you must win, so save directly after obtaining both coins. His deck is mostly Colorless with a few Fighting and all three Eeveelutions.
+* The forts can be done in either order. Ronald will stop you in the entrance room after you've collected both coins. You only get one chance, and you must win, so save directly after obtaining both coins. His deck is mostly Colorless with a few Fighting and all three Eeveelutions.
 
 [Ronald's Deck List](https://imgur.com/a/4pF9nDU)
 
@@ -96,9 +96,9 @@ The forts can be done in either order. Ronald will stop you in the fortress main
 
 ![217209](https://github.com/RetroAchievements/guides/assets/97459553/a7c6b19a-c928-4226-af38-873f68337248) Challenge Hall II (m)
 
-_Claim Pikachu Lv.13 from the second Challenge Hall event!_
+_Claim Pikachu Lv13 from the second Challenge Hall event!_
 
-The event will begin after the GR Fire Coin obtained and will automatically end when the GR Psychic Coin is obtained. Save before you compete as you only get one chance. You can save in between matches as well.
+* The event will begin after the GR Fire Coin obtained and will automatically end when the GR Psychic Coin is obtained. Save before you compete as you only get one chance. You can save in between matches as well.
 
 ***
 
@@ -106,7 +106,7 @@ The event will begin after the GR Fire Coin obtained and will automatically end 
 
 _Claim Bill's Computer from the second GR Challenge Hall event!_
 
-The event will begin after the GR Fighting Coin is obtained and will automatically end when the GR Psychic Coin is obtained. Save before you compete as you only get one chance. You can save in between matches as well.
+* The event will begin after the GR Fighting Coin is obtained and will automatically end when the GR Psychic Coin is obtained. Save before you compete as you only get one chance. You can save in between matches as well.
 
 ***
 
@@ -114,7 +114,7 @@ The event will begin after the GR Fighting Coin is obtained and will automatical
 
 _Defeat Ronald in the GR Castle!_
 
-Ronald will stop you directly after you've opened the door using the GR Psychic and GR Colorless coins. You only get one shot at the duel, and you must win, so save before opening the door. His deck is Psychic/Colorless.
+* Ronald will stop you directly after you've opened the door using the GR Psychic and GR Colorless coins. You only get one chance, and you must win, so save before opening the door. His deck is Psychic/Colorless.
 
 [Ronald's Deck List](https://imgur.com/a/mOYHhHw)
 
@@ -124,7 +124,7 @@ Ronald will stop you directly after you've opened the door using the GR Psychic 
 
 _Assemble the complete GR Coin!_
 
-Progression. Collect all four pieces of the GR Coin.
+* Collect all four pieces of the GR Coin.
 
 ***
 
@@ -132,7 +132,7 @@ Progression. Collect all four pieces of the GR Coin.
 
 _Receive the Oddish Coin from Nikki!_
 
-After defeating Brittney in the Grass Club lobby, she'll tell you that Nikki is at Ishihara's house. Speak to Nikki and she'll give you the coin.
+* After defeating Brittney in the Grass Club lobby, she'll tell you that Nikki is at Ishihara's house. Speak to Nikki and she'll give you the coin.
 
 ***
 
@@ -140,7 +140,7 @@ After defeating Brittney in the Grass Club lobby, she'll tell you that Nikki is 
 
 _Receive the Charmander Coin from Ken!_
 
-After defeating GR #3 in the Fire Club, he'll release the club members and Ken will give you the coin.
+* After defeating GR #3 in the Fire Club, he'll release the club members and Ken will give you the coin.
 
 *** 
 
@@ -148,7 +148,7 @@ After defeating GR #3 in the Fire Club, he'll release the club members and Ken w
 
 _Receive the Starmie Coin from Amy!_
 
-After defeating GR #3 in the Water Club, he'll release the members and Amy will give you the coin.
+* After defeating GR #3 in the Water Club, he'll release the members and Amy will give you the coin.
 
 ***
 
@@ -156,7 +156,7 @@ After defeating GR #3 in the Water Club, he'll release the members and Amy will 
 
 _Receive the Pikachu Coin from Isaac!_
 
-After defeating Issac in the Electric Club, and GR #4 flees, he will give you the coin.
+* After defeating Issac in the Electric Club, and GR #4 flees, he'll give you the coin.
 
 ***
 
@@ -164,7 +164,7 @@ After defeating Issac in the Electric Club, and GR #4 flees, he will give you th
 
 _Receive the Alakazam Coin from Murry!_
 
-After defeating Murry in the Psychic Club, before dueling GR #4, he will give you the coin.
+* After defeating Murry in the Psychic Club, before dueling GR #4, he'll give you the coin.
 
 ***
 
@@ -172,7 +172,7 @@ After defeating Murry in the Psychic Club, before dueling GR #4, he will give yo
 
 _Receive the Kabuto Coin from Gene!_
 
-After defeating Gene in the Rock Club, he will give you the coin.
+* After defeating Gene in the Rock Club, he'll give you the coin.
 
 ***
 
@@ -180,7 +180,7 @@ After defeating Gene in the Rock Club, he will give you the coin.
 
 _Receive the Golbat Coin from Parker!_
 
-After defeating Parker in the GR Grass Fortress, he will give you the coin.
+* After defeating Parker in the GR Grass Fortress, he'll give you the coin.
 
 ***
 
@@ -188,7 +188,7 @@ After defeating Parker in the GR Grass Fortress, he will give you the coin.
 
 _Receive the Magnemite Coin from Catherine!_
 
-After defeating Catherine in the GR Electric Fortress, she will give you the coin.
+* After defeating Catherine in the GR Electric Fortress, she'll give you the coin.
 
 ***
 
@@ -196,7 +196,7 @@ After defeating Catherine in the GR Electric Fortress, she will give you the coi
 
 _Receive the Magmar Coin from Bernard!_
 
-After defeating Bernard in the GR Fire Fortress, he will give you the coin.
+* After defeating Bernard in the GR Fire Fortress, he'll give you the coin.
 
 ***
 
@@ -204,7 +204,7 @@ After defeating Bernard in the GR Fire Fortress, he will give you the coin.
 
 _Receive the Psyduck Coin from Brooke!_
 
-After defeating Brooke in the GR Water Fortress, he will give you the coin.
+* After defeating Brooke in the GR Water Fortress, he'll give you the coin.
 
 ***
 
@@ -212,7 +212,7 @@ After defeating Brooke in the GR Water Fortress, he will give you the coin.
 
 _Receive the Machamp Coin from Brutus!_
 
-After defeating Brutus in the GR Fighting Fortress, he will give you the coin.
+* After defeating Brutus in the GR Fighting Fortress, he'll give you the coin.
 
 ***
 
@@ -220,7 +220,7 @@ After defeating Brutus in the GR Fighting Fortress, he will give you the coin.
 
 _Receive the Mew Coin from Claire!_
 
-After defeating Claire in the GR Psychic Fortress, she will give you the coin.
+* After defeating Claire in the GR Psychic Fortress, she'll give you the coin.
 
 ***
 
@@ -228,7 +228,7 @@ After defeating Claire in the GR Psychic Fortress, she will give you the coin.
 
 _Receive the Snorlax Coin from Avery!_
 
-After defeating all three members, including Avery, in the Colorless Altar, he will give you the coin.
+* After defeating all three members in the Colorless Altar, and talking to Avery, he'll give you the coin. If you defeated Avery first, talk to him after defeating the other two. You don't have to battle him a second time.
 
 ***
 
@@ -236,7 +236,7 @@ After defeating all three members, including Avery, in the Colorless Altar, he w
 
 _Receive the Togepi Coin from Villicilli!_
 
-After defeating Villicilli in the GR Castle, he will give you the coin.
+* After defeating Villicilli in the GR Castle, he'll give you the coin.
 
 ***
 
@@ -248,9 +248,9 @@ _Receive the Ponyta Coin for winning the TCG Island Challenge Cup 10 times!_
 
 _Receive the Horsea Coin for winning the GR Island Challenge Cup 10 times!_
 
-These cannot be obtained until after defeating Villicilli. Winning the cup 10 times in a row, without losing, isn't necessary. You only need to win 10 times total.
+* These can't be obtained until after defeating Villicilli. Winning the cup 10 times in a row isn't necessary. You only need to win 10 times total.
 
-To get either Challenge Cup to begin, save your game in any location that aren't the Challenge Halls, Mason's Lab, or Ishihara's house/villa. After you save, reset the game, and check the Challenge Halls. Like Imakuni?, the Challenge Cups have a chance to begin every time the save file is loaded. It isn't guaranteed each time, though. Just keep resetting and loading until it starts. It's possible to have both cups begin on the same file load.
+* To get either Challenge Cup to begin, save your game in any location that's not the Challenge Halls, Mason's Lab, or Ishihara's house/villa. After you save, reset, and check the Challenge Halls. Similar to Imakuni?, the Challenge Cups have a chance to begin every time the save file is loaded. It isn't guaranteed each time, though. Keep resetting and loading until it starts. It's possible to have both cups begin at the same time.
 
 ***
 
@@ -258,7 +258,7 @@ To get either Challenge Cup to begin, save your game in any location that aren't
 
 _Buy the Jigglypuff coin from the Game Center!_
 
-The coin costs 500 chips in the Game Center and can be bought from the lady on the right in the main entrance area. You should end up with way more than enough coins if you are grinding the "The Elusive Mew" achievement.
+* The coin can be bought from the prize counter in the Game Center for 500 chips.
 
 ***
 
@@ -270,19 +270,13 @@ _Receive the Dugtrio Coin for winning 50 consecutive matches on Dr. Mason's Chal
 
 _Receive the Gengar Coin for winning 50 consecutive matches on the GR Challenge Machine!_
 
-After defeating Villicilli, the Challenge Machine becomes available in Dr. Mason's lab, and the GR Challenge Machine on GR Island's Challenge Hall main stage when there isn't an active GR Challenge Cup. The machine tracks your "consecutive wins" after each trainer set of five you defeat. Saving after each set is recommended and resetting from a save doesn't interrupt your winning streak.
+* After defeating Villicilli, the Challenge Machine becomes available in Dr. Mason's lab and the GR Challenge Machine in GR Island's Challenge Hall. The machine tracks your "consecutive wins" after each set of five opponents you defeat. Saving after each set is recommended and resetting from a save doesn't interrupt your winning streak.
 
-You cannot stop a set until all five trainers are defeated. If you do, your streak will be broken. The game will warn you before letting you quit a set. A lady will approach you and hand you the coin upon the 50th consecutive match win.
+* You can't stop a set until all five opponents are defeated. If you try, you're warned that your streak will end. A lady will approach you and hand you the coin upon the 50th consecutive match win.
 
-The opponents are random and thus widely vary in typing. You will fight three club trainers, a club boss, and a "main boss". Main bosses are: Ronald, Villicilli, Aaron (Mason's Lab tutorial trainer), and both of Villicilli's executives.
+* The opponents are chosen at random. You'll fight three club trainers, a club/fort leader, and a "main boss". Main bosses are: Ronald, Villicilli, Aaron (Mason's Lab tutorial trainer), and both of Villicilli's executives.
 
-The easiest way to defeat each set with a single deck is to build a Legendary Zapdos deck. It consists of only a single Legendary Zapdos Lv.64 and many stalling/healing items. Zapdos has no weakness and its only attack bypasses Pokémon type resistance. Not having any other Pokémon in your deck ensures it will only hit your opponent's Pokémon since it can't target Zapdos.
-
-The best strategy is to make sure you can get all energy on Zapdos as quickly as you can, use healing items as necessary, and try to remove energy from your opponent's active Pokémon as often as possible to keep it from attacking or retreating. Many trainers will open with a Kangaskhan and only attach one energy to it to use Fetch.
-
-It's meant to be a stalling opener so they can draw the cards they need to fuel their deck. They'll start attaching energy to it for attacking after they've powered up their necessary Pokémon first. Since Zapdos' attack can target bench Pokémon as well, this AI programming gives you more of an advantage than it does them.
-
-Here's the deck build I had the most win consistency with.
+* The easiest way to defeat each set is to build a Legendary Zapdos Deck. Read the "Legendary Zapdos Deck" section at the bottom of the guide for details.
 
 ***
 
@@ -290,7 +284,7 @@ Here's the deck build I had the most win consistency with.
 
 _Open all chests in the GR Fighting Fortress!_
 
-There are six chests in the fortress that need to be opened. One of them only spawns after defeating Grace. There are many pitfalls that will drop you into the basement and back to the beginning.
+* There's 6 chests in the Fortress that need to be opened and 1 of them only spawns after defeating Grace. There's many pitfalls that'll drop you into the basement and back to the beginning.
 
 [GR Fighting Fortress Map](https://gamefaqs.gamespot.com/gbc/581059-pokemon-card-gb2/map/308?raw=1)
 
@@ -300,7 +294,7 @@ There are six chests in the fortress that need to be opened. One of them only sp
 
 _Defeat all 4 trainers in the GR Psychic Stronghold!_
 
-Defeating the fourth trainer in the lobby is optional for progression but necessary for the achievement. The fortress leader, Claire, doesn't count as a trainer for this achievement. 
+* Defeating the fourth trainer is optional for progression but necessary for the achievement. Claire doesn't count as a trainer for this achievement.
 
 ***
 
@@ -308,25 +302,26 @@ Defeating the fourth trainer in the lobby is optional for progression but necess
 
 _Defeat the Grand Masters and claim the legendary Pokémon cards!_
 
-After defeating Clair, and "rescuing" Rod, go back to the TCG Island Pokémon Dome and fight the Grand Masters. Defeat them all and you'll be granted the cards.
+* After defeating Clair, and "rescuing" Rod, go back to the TCG Island Pokémon Dome and fight the Grand Masters. Defeat them all and you'll be granted the cards.
 
-If you're having trouble, you can use the Legendary Zapdos Deck. Read the "Legendary Zapdos Deck" section at the bottom of the guide to learn how to build the deck before defeating the Grand Masters.
+* If you're having trouble, you can use the Legendary Zapdos Deck. Read the "Legendary Zapdos Deck" section at the bottom of the guide for details on how to build it early.
 
 ***
 
 ![217213](https://github.com/RetroAchievements/guides/assets/97459553/374ff168-3320-4a65-a139-338753162df8) Villicilli
 
-_Defeat Villicilli a second time and receive another GR's Mewtwo Lv.35!_
+_Defeat Villicilli a second time and receive another GR's Mewtwo Lv35!_
 
-You can immediately challenge Villicilli after defeating him the first time and the credits roll. You don't have to defeat his executives again before challenging him a second time.
+* You can challenge Villicilli after beating the game. You don't have to defeat his executives before challenging him again.
 
 ***
 
 ![217214](https://github.com/RetroAchievements/guides/assets/97459553/7fb51136-7026-4f03-9e65-5b9548dac40d) Trading Cards: Jigglypuff
 
-_Trade with Girl at Rock Club to get a Jigglypuff Lv.12!_
+_Trade with Girl at Rock Club to get a Jigglypuff Lv12!_
 
-Trade a Snorlax Lv.20 for her Jigglypuff Lv.12. It can be found in Premier packs, catalog #A50.
+Snorlax Lv20
+> Pack: Premier | Card Album: A50
 
 ***
 
@@ -334,7 +329,8 @@ Trade a Snorlax Lv.20 for her Jigglypuff Lv.12. It can be found in Premier packs
 
 _Trade with Senior at Fighting Club to get a Mewtwo Lv60!_
 
-Trade a Hitmonlee Lv.23 for his Mewtwo Lv.60. It can be found in Legends packs, catalog #B38.
+Hitmonlee Lv23
+> Pack: Legends | Card Album: B38
 
 ***
 
@@ -342,7 +338,8 @@ Trade a Hitmonlee Lv.23 for his Mewtwo Lv.60. It can be found in Legends packs, 
 
 _Trade with Punk at Fire Club to get a Meowth Lv14!_
 
-Trade a Flareon Lv28 for his Meowth Lv14. It can be found in Legends packs, catalog #B15.
+Flareon Lv28
+> Pack: Legends | Card Album: B15
 
 ***
 
@@ -350,7 +347,8 @@ Trade a Flareon Lv28 for his Meowth Lv14. It can be found in Legends packs, cata
 
 _Trade with Girl at Lightning Club to get a Pikachu Lv16!_
 
-Trade four Voltorb Lv10 for her Pikachu Lv16. It can be found in Lost Isle packs, catalog #C32.
+Voltorb Lv10 (x4)
+> Pack: Lost Isle | Card Album: C32
 
 ***
 
@@ -358,7 +356,8 @@ Trade four Voltorb Lv10 for her Pikachu Lv16. It can be found in Lost Isle packs
 
 _Trade with Student at Psychic Club to get a Kangaskhan Lv38!_
 
-Trade Alakazam Lv42 for his Kangaskhan Lv38. It can be found in Lost Isle packs, catalog #C40.
+Alakazam Lv42
+> Pack: Lost Isle | Card Album: C40
 
 ***
 
@@ -366,17 +365,26 @@ Trade Alakazam Lv42 for his Kangaskhan Lv38. It can be found in Lost Isle packs,
 
 _Trade with Boy at Challenge Hall for the first time to get a Wigglytuff Lv36!_
 
+Graveler Lv29
+> Pack: Legends | Card Album: B35
+
+***
+
 ![217220](https://github.com/RetroAchievements/guides/assets/97459553/5179c750-7801-4e1e-b138-e646acbd82d1) Trading Cards: Lapras
 
 _Trade with Boy at Challenge Hall for a second time to get a Lapras Lv31!_
+
+Omanyte Lv19
+> Pack: Lost Isle | Card Album: C27
+
+***
 
 ![217206](https://github.com/RetroAchievements/guides/assets/97459553/fdec51b1-be56-4a2a-895d-732887efbf9a) Trading Cards: Bill's Computer I
 
 _Trade with Boy at Challenge Hall for a third time to get a Bill's Computer!_
 
-Trade Graveler Lv29 for Wigglytuff Lv36. It can be found in Legends packs, catalog #B35.
-Trade Omanyte Lv19 for Lapras Lv31. It can be found in Lost Isle packs, catalog #C27.
-Trade Haunter Lv17 for Bill's Computer. It can be found in Assault packs, catalog #D34.
+Haunter Lv17
+> Pack: Assault | Card Album: D34
 
 ***
 
@@ -384,7 +392,8 @@ Trade Haunter Lv17 for Bill's Computer. It can be found in Assault packs, catalo
 
 _Trade with GR Member at GR Grass Fortress to get a Venusaur Lv67!_
 
-Trade Dark Venusaur Lv37 for Venusaur Lv37. Found in Ambition packs, catalog #H03.
+Dark Venusaur Lv37
+> Pack: Ambition | Card Album: H03
 
 ***
 
@@ -392,7 +401,8 @@ Trade Dark Venusaur Lv37 for Venusaur Lv37. Found in Ambition packs, catalog #H0
 
 _Trade with GR Girl at GR Electric Fortress to get a Pikachu Lv16!_
 
-Trade Dark Raichu Lv31 for Pikachu Lv16. Found in Ambition packs, catalog #H19.
+Dark Raichu Lv31
+> Pack: Ambition | Card Album: H19
 
 ***
 
@@ -400,7 +410,8 @@ Trade Dark Raichu Lv31 for Pikachu Lv16. Found in Ambition packs, catalog #H19.
 
 _Trade with Mr. G at GR Fire Fortress to get a Charizard Lv76!_
 
-Trade Dark Charizard Lv38. Found in Rocket packs, catalog #G08.
+Dark Charizard Lv38
+> Pack: Rocket | Card Album: G08
 
 ***
 
@@ -408,7 +419,8 @@ Trade Dark Charizard Lv38. Found in Rocket packs, catalog #G08.
 
 _Trade with Young Student at GR Water Fortress to get a Blastoise Lv52!_
 
-Trade Dark Blastoise Lv28. Found in Rocket packs, catalog #G15.
+Dark Blastoise Lv28
+> Pack: Rocket | Card Album: G15
 
 ***
 
@@ -416,7 +428,8 @@ Trade Dark Blastoise Lv28. Found in Rocket packs, catalog #G15.
 
 _Trade with Lady at GR Psychic Stronghold to get a Mewtwo Lv60!_
 
-Trade Dark Hypno Lv26. Found in Ambition packs, catalog #H28.
+Dark Hypno Lv26
+> Pack: Ambition | Card Album: H28
 
 ***
 
@@ -424,37 +437,62 @@ Trade Dark Hypno Lv26. Found in Ambition packs, catalog #H28.
 
 _Trade with Ishihara for the first time to get a Flying Pikachu Lv12!_
 
+Clefairy Lv15
+> Pack: Legends | Card Album: B45
+
+***
+
 ![217227](https://github.com/RetroAchievements/guides/assets/97459553/7cd39bec-accd-45f5-a1fc-3da8fe350780) Ishihara II: Togepi
 
 _Trade with Ishihara for a second time to get a Togepi Lv8!_
+
+Clefable Lv34 
+> Pack: Lost Isle | Card Album: C48.
+
+***
 
 ![217228](https://github.com/RetroAchievements/guides/assets/97459553/165306ae-3417-4cd4-b576-1b8f69a8eb0a) Ishihara III: Marill
 
 _Trade with Ishihara for a third time to get a Marill Lv17!_
 
+Dragonite Lv45
+> Pack: Legends | Card Album: B52
+
+***
+
 ![217229](https://github.com/RetroAchievements/guides/assets/97459553/0c1975c9-ec70-4697-9c51-194881eeda0a) Ishihara IV: Surfing Pikachu
 
 _Trade with Ishihara for a fourth time to get a Surfing Pikachu Lv13!_
+
+Moltres Lv37
+> Pack: Ambition | Card Album: H14
+
+***
 
 ![217230](https://github.com/RetroAchievements/guides/assets/97459553/a3b06b69-9cf9-4657-b805-ef29d6e5cdb9) Ishihara V: Surfing Pikachu Redux
 
 _Trade with Ishihara for a fifth time to get an alternate Surfing Pikachu Lv13!_
 
+Articuno Lv34
+> Pack: Ambition | Card Album: H18
+
+***
+
 ![217231](https://github.com/RetroAchievements/guides/assets/97459553/28f2e649-e876-4a53-9baa-5e87c5cc2df6) Ishihara VI: Flying Pikachu Redux
 
 _Trade with Ishihara for a sixth time to get an alternate Flying Pikachu Lv12!_
+
+Zapdos Lv40
+> Pack: Flight | Card Album: F27
+
+***
 
 ![217206](https://github.com/RetroAchievements/guides/assets/97459553/024a7309-d0c5-4713-a8e1-1445e90066b6) Ishihara VII: Bill's Computer
 
 _Trade with Ishihara for a seventh time to get a Bill's Computer!_
 
-1. Trade Clefairy Lv15         Found in Legends packs      Card Album #B45.
-2. Trade Clefable Lv34         Found in Lost Isle packs    Card Album #C48.
-3. Trade Dragonite Lv45        Found in Legends packs      Card Album #B52.
-4. Trade Moltres Lv37          Found in Ambition packs     Card Album #H14.
-5. Trade Articuno Lv34         Found in Ambition packs     Card Album #H18.
-6. Trade Zapdos Lv40           Found in Flight packs       Card Album #F27.
-7. Trade Dark Dragonite Lv33   Found in Ambition packs     Card Album #H39.
+Dark Dragonite Lv33
+> Pack: Ambition | Card Album: H39
 
 ***
 
@@ -462,7 +500,7 @@ _Trade with Ishihara for a seventh time to get a Bill's Computer!_
 
 _Defeat Ishihara in a match at his villa!_
 
-His deck is Water/Lightning/Colorless. Can only be done after completing all seven trades first.
+* His deck is Water/Lightning/Colorless. Can only be done after completing all seven trades first.
 
 ***
 
@@ -474,7 +512,7 @@ _Receive a Farfetch'd Lv20 from the TGC Island (Black) Imakuni? after defeating 
 
 _Receive a Slowpoke Lv9 from the GR Island (Red) Imakuni? after defeating him 3 times!_
 
-Their decks are both mostly Water/Psychic. They can be challenged in a random club lobby, on their respective islands, once each time you load a save file. You must talk to characters in the Water Club lobby to learn about Imakuni? Black. Afterwards, both Imakuni? will begin to appear on their respective islands. If you wish to farm them for packs, save, reset, and check the lobbies until you hear their music.
+* Talk to people in the Water Club lobby to learn about Imakuni? Black. Afterwards, both Imakuni? will begin to appear in random Club/Fort lobbies on their respective islands. After winning, save and reload. They spawn once per file load. Both use Water/Psychic decks.
 
 ***
 
@@ -482,9 +520,9 @@ Their decks are both mostly Water/Psychic. They can be challenged in a random cl
 
 _Get 10 Heads in the Coin Flip Combo Game, and claim Mew Lv8!_
 
-It's uncertain if results are predetermined before each flip, like they are in duels, or if there's an actual strategy for it. Just keep playing until you win. It can take a few minutes or a few hours. At least you'll end up with enough coins to purchase all the things you need from the Game Center prize counter by the time you're done. Good luck!
+* It's uncertain if results are predetermined before each flip, like they are in duels, or if there's an actual strategy to it. Just keep playing until you win. It can take a few minutes or a few hours. Good luck!
 
-**Note**: if anyone wants to look at the game's memory for the mini-game, to give a more definitive answer on if it's predetermined or not, let me know what you find and I'll update this information.
+> **Note**: if anyone wants to dive into the game's memory to find out, let me know what you find, and I'll update this information.
 
 ***
 
@@ -496,7 +534,7 @@ _Purchase a Venusaur Lv64 from the Game Center!_
 
 _Purchase a Mew Lv15 from the Game Center!_
 
-Both cards cost 2,000 chips each at the Prize Counter. Playing the 10-Head Flip game is the fastest way to earn a lot of chips quickly.
+* Both can be bought from the prize counter in the Game Center for 2,000 chips each. The Coin Flip Game is the fastest way to earn chips.
 
 ***
 
@@ -504,19 +542,17 @@ Both cards cost 2,000 chips each at the Prize Counter. Playing the 10-Head Flip 
 
 _End any match in a draw!_
 
-Easiest way is to challenge Brandon in the Lightning Club using the Deck List below. His deck is the easiest to set up against due to 
-damage resistance. Nicholas and Isaac use much more Colorless Pokémon and Jennifer uses Water.
+* Easiest way is to challenge Brandon in the Lightning Club using a Golem/Diglett Deck.
 
 Strategy Tips: 
 
-* Play Diglett as the active Pokémon since it has resistance to Electric and Geodude doesn't.
-* Build up to a Golem with enough energy for Self Destruct. Don't waste turns/energy building up Diglett.
+* Play Diglett as the active Pokémon. It has resistance to Electric but Geodude doesn't.
+* Build up to a Golem with enough energy for Self Destruct. Don't waste turns/energy on Diglett.
 * Use Scoop Up to return Diglett to your hand, leaving only Golem left in play.
 * Work your opponent down to their last Pokémon using Avalanche and then Self Destruct.
+* Computer Search, Pokémon Trader, Pokémon Breeder, and Pokéball make it much easier to get what you need quickly.
 
-Computer Search, Pokémon Trader, Pokémon Breeder, and Pokéball make it much easier to get what you need quickly.
-
-It must be done while you have two or more prizes left to win. If the final Pokémon you knock out would allow you to draw your final prize, the match is counted as a win instead of a draw. If your opponent benches more than two Pokémon while you set up, reset and try again.
+* This must be done while you have two or more prizes left to win. If the final Pokémon you knock out would allow you to draw your final prize, the match is counted as a win instead of a draw. If your opponent benches more than two Pokémon, reset and try again.
 
 ***
 
@@ -532,7 +568,7 @@ _Complete Step 2 of Aaron's training regimen!_
 
 _Complete Step 3 of Aaron's training regimen!_
 
-May as well be done before leaving Mason's Lab. You have to use preconstructed decks he hands you for each match, anyway. You can't use your own custom decks.
+May as well be done before leaving Mason's Lab. You have to use the decks that he hands you for each match, anyway. You can't use your own custom decks.
 
 ***
 
@@ -540,7 +576,9 @@ May as well be done before leaving Mason's Lab. You have to use preconstructed d
 
 _At the Game Center, defeat Pawn, Knight, Bishop, Rook, and Queen consecutively without losing or loading a save!_
 
-The easiest strategy is to use the Legendary Zapdos deck build mentioned at the beginning of this guide. If you wish to use your own builds, their deck lists are linked below.
+Recommended Build: Legendary Zapdos Deck
+
+* If you prefer to use your own builds:
 
 ***
 
@@ -548,47 +586,45 @@ The easiest strategy is to use the Legendary Zapdos deck build mentioned at the 
 
 _Defeat Axel by obtaining all prizes without ever KO-ing his active Pokémon! [No In-Battle Save]_
 
-Recommended Deck List
+Recommended Build: Stretch Kick Deck
 
 Strategy Tips:
 
-* It's common for Axel to open up with Scyther. He'll attach single energy, Swords Dance each turn, and then prioritize his bench. This gives you time to set up and do some damage.
+* It's common for Axel to open up with Scyther. He'll attach single energy, Swords Dance each turn, and then prioritize his bench. Scyther resists Fighting so he thinks it's the best option to stall with until then. The AI isn't checking to see if your Pokémon can attack the bench directly. This gives you time to set up and do some damage.
 
-* His AI is programmed to fill his bench and set up Wigglytuff to use "Do the Wave" as soon as possible. Scyther resists Fighting so it must be the best option to stall with until then. It's not checking to see if your Pokémon can attack the bench directly.
+* He'll try to fill his bench and set up Wigglytuff as soon as possible. With a full bench, he can 1-hit K.O Hitmonlee using "Do the Wave".
 
-* Try to remove energy from Jiggly/Wiggly when you're able. Use Gust of Wind to keep them benched if necessary. He usually won't bring them back out until Wigglytuff is ready or he has no other options. 
+* Remove energy from Jiggly/Wiggly when you're able and Gust of Wind to keep them benched if necessary. He usually won't bring them back out until Wigglytuff is ready or he has no other options.
 
-* Use Stretch Kick, attack his bench, and focus on knocking out Jigglypuff and/or Wigglytuff first. Then, go for whatever you want until you win.
+* Use Stretch Kick, attack his bench, and focus on knocking out Jiggly/Wiggly first. Go for whatever you want afterwards until you win.
 
-* Computer Search and Itemfinder can be used to find energy removal cards, or return them to your hand, so you can keep him from setting up. There's plenty of extra cards you can toss away to use them.
+* Computer Search and Itemfinder can be used to find energy removal cards, or return them to your hand, to keep him from setting up. There's plenty of fodder cards in the deck to fuel them.
 
-* Recycle Energy is for feeding Super Energy Removal and Super Potions since it comes right back to your hand. It doesn't return to you if you discard it to use Computer Search or Itemfinder.
+* Recycle Energy is for feeding Super Energy Removal, and Super Potions, since it comes right back to your hand. It doesn't return to you if you discard it to use Computer Search or Itemfinder.
 
-**Note: If anyone has a more efficient deck build, let me know, and I'll update this information.**
+> **Note: If anyone has a more efficient deck build, let me know, and I'll update the guide.**
 
 ***
 
 ![217248](https://github.com/RetroAchievements/guides/assets/97459553/a269551c-c4aa-4603-8460-cb8588a9b87b) Chip Away at Magician
 
-_Defeat Magician by obtaining all prizes without ever dealing more than 20 damage in a single attack to a Pokemon! [No In-Battle Save]_
+_Defeat Magician by obtaining all prizes without ever dealing more than 20 damage in a single attack to a Pokémon! [No In-Battle Save]_
 
-Recommended Deck Build
+Recommended Build: Toxic Persian Deck
 
 Strategy Tips:
 
-* Try to get Muk onto your bench ASAP and keep it there. It's only used for its Pokémon Power "Toxic Gas" to counter all of the Pokémon Powers he relies on.
+* He'll try to get Alakazam and Tentacool onto the bench as quickly as possible. Alakazam has "Damage Swap" to move damage around and Tentacool has "Cowardice" to return it to his hand. This lets him move damage to Tentacool, return it, play it, and repeat this until all damage has been removed from all of his Pokémon.
 
-* His AI is programmed to get Alakazam and Tentacool onto the bench as quickly as possible. Alakazam can use Damage Swap to move damage around as he sees fit and Tentacool can use Cowardice to return it to his had at any time. The combo is to move 20 damage to Tentacool, return it to his hand, put it back onto the bench, wash, rinse, and repeat until all damage has been removed from all of his Pokémon.
+* He uses Mr. Mime's "Neutral Damage" to remove weakness/resistance as well. This lets him damage Colorless Pokémon and keep Psychic from doing more damage than he can remove.
 
-* He also relies on Mr. Mime's "Neutral Damage" to remove weakness/resistance. This lets him damage Colorless Pokémon and keep Psychic from doing much more damage than he can remove with the strategy above.
+* Try to get Muk onto your bench ASAP and keep it there. It's only there for the Pokémon Power, "Toxic Gas", which blocks all other Pokémon Powers. The 20 damage per turn cap would make it very difficult to K.O. anything but, as long as "Toxic Gas" is in effect, he can't move damage around, return Tentacool, or remove your resistance to Psychic. It renders his strategy completely useless.
 
-* Since the achievement requires to do no less than 20 damage per attack, it's extremely difficult to kill either one, but Toxic Gas renders his deck useless. It blocks all other Pokémon Powers as long as Muk is alive and well on the bench.
+* Poison damage is done in between turns, and doesn't count towards the 20 damage cap, making Dark Persian's "Poison Claws" perfect for the job.
 
-* Dark Persian's "Poison Claws" can get in some extra damage, since poison is done in between turns, and doesn't count towards the 20 damage cap for the achievement. Both are resistant to Psychic, making it easier to keep them alive for the long haul, since Muk keeps Mr. Mime from ruining the fun. None of his Pokémon can deal enough damage to get past their resistance without that Mr. Mime.
+* Gambler's are used to shuffle your hand back into your deck, not draw cards. It's a battle of attrition and his primary goal isn't to knock out your team; it's to out last you. When your hand gets to 20+, use Gambler to shuffle it back in so you don't overdraw. He uses 4 Nightly Garbage Run's to keep from overdrawing before you.
 
-* Gambler's are used to shuffle your hand back into your deck, not draw cards. It's a battle of attrition and his primary goal isn't to knock out your team; it's to out last you. When your hand gets to 20+, use Gambler to shuffle it back in so you don't overdraw too soon. He uses four Nightly Garbage Run's to keep from overdrawing before you and the above strategy to stay alive long enough to do so.
-
-**Note: If anyone has a more efficient deck build, let me know, and I'll update this information.**
+> **Note: If anyone has a more efficient deck build, let me know, and I'll update this information.**
 
 ***
 
@@ -596,17 +632,15 @@ Strategy Tips:
 
 _Defeat Warren by obtaining all prizes after playing at least 15 Trainer cards! [No In-Battle Save]_
 
-Recommended Deck Build
+Recommended Build: Legendary Zapdos Deck
 
 Strategy Tips:
 
-* You can start defeating his Pokémon and collecting your prizes right away. As long as you play 15 trainers before drawing the final prize, it's fine.
+* You can start defeating his Pokémon and collecting your prizes right away. As long as you play 15 trainers before drawing the final prize, you're good.
 
-* The key is to crank out as many items each turn as you can. Draw/search items lend well to this, as do energy removal.
+* The Legendary Zapdos Deck utilizes so many trainer cards so it's easy to burn through 15 quickly.
 
-* A single Pokémon deck makes this much easier since you can cram a ton of items in it.
-
-**Note: If anyone has a more efficient deck build, let me know, and I'll update this information.**
+> **Note: If anyone has a more efficient build, let me know, and I'll update this information.**
 
 ***
 
@@ -614,17 +648,17 @@ Strategy Tips:
 
 _Defeat Pierrot using Moltres' Wildfire to reduce his deck down to 0 cards! [No In-Battle Save]_
 
-Recommended Deck Build
+Recommended Deck Build: Wildfire Deck
 
 Strategy Tips:
 
-* The Legendary Moltress is useful here since it lets you draw energy from your deck when it's played. You can fight the Grand Masters over and over to get multiple copies.
+* Legendary Moltress is good for drawing extra fire energy quickly. You can fight the Grand Masters to get multiple copies or use the Black Box to make your own.
 
-* Computer Error's are great, especially in the early game, because he'll usually choose to draw 5 cards, whittling his deck down quicker.
+* Computer Error's are great in the early game. He'll usually choose to draw 5 cards and whittle his deck down quicker.
 
-* You don't have to burn a lot of his deck down to win. You just need to make sure you use Wild Fire to remove the last card in his deck.
+* You don't have to burn a lot of his deck down to win. You just need to make sure you use Wild Fire to remove the last card before he draws it.
 
-* He has some draw items, such as Bill and Computer Search, which should make the match move quickly. Keep his bench as empty as you can, heal as necessary, and wait him out. When the opportunity presents itself, use Wildfire, and call it a day. He's not too difficult to defeat.
+* He has some draw items, like Bill and Computer Search, which should make the match move quickly. Keep his bench as empty as you can, heal as necessary, and wait him out. When the opportunity presents itself, use Wildfire, and call it a day.
 
 **Note: If anyone has a more efficient deck build, let me know, and I'll update this information.**
 
@@ -634,23 +668,17 @@ Strategy Tips:
 
 _Defeat Toby by obtaining all prizes without your active Pokémon ever becoming poisoned! [No In-Battle Save]_
 
-Recommended Deck Build
+Recommended Deck Build: Legendary Zapdos Deck
 
 Strategy Tips:
 
-* Taking him out as quick as possible is the goal. The only Pokemon in his deck are Magmar and Weedle. He has four of each in his deck so it's most likely he'll have at least one or two on his bench each time.
+* Taking him out as quick as possible before he can get his Magmar or Weedle out is the goal.
 
-* It's common for him to open up with Kangaskhan, like many other trainers, in order to use Fetch and set up his bench quickly. Kangaskhan can't poison so it's great to have it as his active Pokemon.
+* It's common for him to open up with Kangaskhan, like many other trainers, in order to use Fetch and set up his bench quickly. Kangaskhan can't poison so it's great if it's his active Pokemon. Keeping energy off of Kangaskhan so it can't retreat is a solid plan.
 
-* His AI doesn't really prioritize much, in comparison to other opponents. He doesn't have a wild strategy or anything. Generally, his goal is to get a Magmar or Weedle out onto the field and defeat you using poison. He doesn't always do this but will try if the opportunity presents itself.
+* His doesn't really prioritize much and doesn't have a wild strategy or anything. Generally, he tries to get a Magmar or Weedle out onto the field and defeat you using poison. He doesn't always do this but will try if the opportunity presents itself.
 
-* Energy removal, to keep his Weedle and/or Magmar from using their poison attacks is, very useful. Gust of Wind to drag his Kangaskhan's onto the field will help ensure that you won't get poisoned. He does have a few Switch's in his deck but, with a little luck, you can keep one step ahead. He has four Double Colorless Energy so remove them each time you see one if you can. They're prioritized to be played on Kangaskhan when possible.
-
-* Zapdos shines here since you can nuke his entire bench with one attack each. Kangaskhan is the only Pokémon he has with enough HP to tank a hit. With good RNG, he won't be able to do much past that if he can't fill his bench.
-
-* Keeping energy off of Kangaskhan so it can't retreat is a solid plan. It costs four energy to attack and three to retreat, making his only options to get it off the field are if you knock it out or he uses a Switch.
-
-* Using Itemfinder to bring your energy removal cards back to your hand is great for keeping his Pokemon from doing much of anything. With good RNG, you should be able to take him out within a handful of turns.
+* Energy removal and Gust of Wind, to drag his Kangaskhan's onto the field, will help ensure that you won't get poisoned. He has a few Switch's in his deck but, with a little luck, you can keep one step ahead.
 
 ***
 
@@ -660,17 +688,15 @@ _Defeat Frank using Pidgeot's Hurricane while he has no benched Pokemon! [No In-
 
 Recommended Deck Build
 
-Strategy Tips:
-
-* The only Electric Pokemon he has are four Zapdos, which don't really pose much of a threat due to the high energy cost to attack, so Pidgeot's weakness to Electric doesn't matter. His deck is mostly trainer cards and energy. He only has 12 Pokemon in his deck and no evolutions.
+Strategy Tips: Hurricane Deck
 
 * Use searching items, such as Computer Search and Pokeball, to find your evolution cards quickly. If you already have them, Double Colorless Energy or Gust of Wind are solid choices.
 
-* He has four Chansey and he'll prioritize them, if he can. He'll attach enough energy to Chansey to use Scrunch as a way to stall while he powers up the Zapdos on the bench. If you deal at least 40 damage to it, he usually won't use Double-Edge unless Zapdos is already powered up. He can use Scoop Up to get Chansey off the field, if retreating isn't an option, so don't wait until the last moment to start removing energy from Zapdos.
+* He has four Chansey and he'll prioritize them, if he can. He'll attach enough energy to Chansey and use Scrunch to stall while he powers up Zapdos on the bench. He can use Scoop Up to get Chansey off the field, if retreating isn't an option, so don't wait until the last moment to start removing energy from Zapdos.
 
 * Gust of Wind is useful in order to drag Zapdos onto the field, and Hurricane it back to his hand, if you don't have any energy removal cards available to you at the time.
 
-* He uses energy removal cards but you should end up with plenty energy to keep Pidgeot at full power. While Wing Attack isn't the strongest, it should be plenty to whittle down his Pokémon until you can Hurricane for the win. With good RNG, you can get Pidgeot onto the field, and ready to Hurricane, before he can start filling his bench.
+* He uses energy removal cards but you should end up with plenty energy to keep Pidgeot at full power. Wing Attack his Pokémon until you can Hurricane for the win. With good RNG, you can get Pidgeot onto the field, and be ready to Hurricane, before he can start filling his bench.
 
 ***
 
@@ -678,7 +704,7 @@ Strategy Tips:
 
 _Defeat Masquerade by deck out without ever picking up a prize card! [No In-Battle Save]_
 
-Recommended Deck Build
+Recommended Build: Stall for Time Deck
 
 Strategy Tips:
 
@@ -688,9 +714,7 @@ Strategy Tips:
 
 * Computer Error is great in the early game, as he'll choose to draw five each time, if his deck is still mostly full. That'll easily put you 20 cards ahead of the curve. Use your Computer Error's and Bill's to draw everything you need to stay alive, such as healing items and energy removal, and use Gambler once your hand gets too large so you don't overdraw before he does.
 
-* Since the goal isn't to fight, Chansey is a prime choice because it's a damage sponge. 120HP and Scrunch make it very hard to kill. Pulling Mewtwo onto the field with Gust of Wind, since Chansey has resistance to Psychic, is super useful for stalling.
-
-* Pokecenter is fantastic in this situation since you can remove all damage from Chansey in a single shot. If you have Recycle Energy attached, even better since they'll come right back to your hand, and you can easily keep stalling with Scrunch.
+* Pokecenter is good for removing all damage from Chansey at once. If you have Recycle Energy attached, they'll come right back to your hand, and you can easily keep stalling with Scrunch.
 
 * Much like with dueling Magician, it's a battle of attrition, except Masquerade doesn't have any cards to refill his deck from the discard pile. Keep energy off his Pokemon, drag useless stuff off of his bench and into play, and wait him out.
 
@@ -700,7 +724,7 @@ Strategy Tips:
 
 _Defeat Anna after dealing at least 300 damage at once using Exeggutor's Big Eggsplosion! [No In-Battle Save]_
 
-Recommended Deck Build
+Recommended Build: Overkill Eggsplosion Deck
 
 Strategy Tips:
 
@@ -708,7 +732,7 @@ Strategy Tips:
 
 * Big Eggsplosion takes, at minimum, 15 energy cards to do the job. Since it's virtually impossible to get 15 heads in a row, you'll want to put as much onto Exeggutor as you can. I recommend 25+ for plenty of padding to account for bad flips. She doesn't use any energy removal so no worries there.
 
-* Chansey can soak damage until you're ready but don't use it to knock out any of her Pokemon. You only get six chances to get 300 damage, if her bench is full, before you win from drawing all your prizes.
+* Chansey can soak damage until you're ready but don't use it to knock out any of her Pokemon. You only get six chances, if her bench is full, before you win from drawing all your prizes.
 
 * Since Chansey resists Psychic, healing items aren't really a priority. At most, she can only do 10 damage to it per turn if she has a Psychic on the field. Use Gust of Wind to drag one into the open, if she puts out Clefairy/Celfable, and Scrunch for a little extra protection.
 
@@ -720,15 +744,15 @@ Strategy Tips:
 
 _Defeat Mary after not playing any cards (except during setup) until your fifth turn! [No In-Battle Save]_
 
-Recommended Deck Build
+Recommended Build: Legendary Zapdos Deck (add Chansey)
 
 Strategy Tips:
 
 * Her deck only has Water Pokemon in it. She'll prioritize getting Blastoise onto the field to Raindance as quickly as possible. She has a lot of item drawing/searching cards to speed up the process and draw a lot of energy in preparation for it.
 
-* Opening with Chansey will help to soak damage until enough turns have passed. Chances are good that she'll have Blastoise onto the bench and her Pokemon will be ready for the onslaught by then.
+* Opening with Chansey will help to soak damage until enough turns have passed. Chances are good that she'll have Blastoise on the bench and her Pokémon will be powered up by then.
 
-* Use Chansey's to soak damage, get Zapdos ready as quickly as possible, and blast away. If you're having a little trouble, you can swap a Grimer/Muk into the deck for Toxic Gas to cancel out Raindance, and start using energy removal cards to drain her Pokemon back down to something more manageable.
+* Use Chansey to soak damage, get Zapdos ready as soon as you're able, and blast away.
 
 ***
 
