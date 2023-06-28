@@ -13,7 +13,10 @@
 
 # Introduction
 
-It was released on March 28, 2001, exclusively in Japan, and is the last Pokémon game released for the Game Boy Color.
+Pokémon TCG2 was released on March 28, 2001, exclusively in Japan, and was the last Pokémon game released for the Game Boy Color. Approximately two months before the game was released in Japan, IGN called it by the English title "Pokémon Trading Card Game 2: Return of Team Rocket" and declared that an English release of the game was likely. However, this obviously never happened. Despite its growing popularity, it hasn't been officially localized outside of Japan and probably never will.
+
+In 2010, Artemis251 began working on an English translation patch, despite not knowing know how to read or speak Japanese. They state on their [website](http://artemis251.fobby.net/pkmntcg2/index.html), "I figured that, since all attempts to translate the game have gone dead, I'd take a stab at it myself. Now, I'll admit that I really don't know Japanese, but I've done a 'best-effort' with the best online translators and context clue ad-libbing
+that I could." The translation wouldn't be finished and available for download until June 14th, 2012.
 
 The game adds many new features not present in the original, such as new cards, the ability to play as a female character, a much more expansive in-game world, and contains nearly all of the cards from Base Set, Jungle, Fossil, and Team Rocket. It also features a more developed story in that, rather than just collecting cards and defeating the Grand Masters, the player must defeat a new villainous team, Team Great Rocket.
 
@@ -305,9 +308,9 @@ Defeating the fourth trainer in the lobby is optional for progression but necess
 
 _Defeat the Grand Masters and claim the legendary Pokémon cards!_
 
-After defeating Clair, and "rescuing" Rod, you have to go back to the TCG Island Pokémon Dome to fight the Grand Masters from the first game. Defeat them all and you'll be granted the cards.
+After defeating Clair, and "rescuing" Rod, go back to the TCG Island Pokémon Dome and fight the Grand Masters. Defeat them all and you'll be granted the cards.
 
-If you're having trouble, you can use the Legendary Zapdos deck mentioned earlier in this guide in the Dugtrio & Gengar Coin achievements. You are able to obtain the Legendary Zapdops Lv.68 card before winning it from the Grand Masters by putting a Raichu Lv.40, Dark Raichu, and Zapdos Lv.64 into the Black Box at the Game Center and leaving the last two slots empty. This will yield a Legendary Zapdos card each time.
+If you're having trouble, you can use the Legendary Zapdos Deck. Read the "Legendary Zapdos Deck" section at the bottom of the guide to learn how to build the deck before defeating the Grand Masters.
 
 ***
 
@@ -589,4 +592,217 @@ Strategy Tips:
 
 ***
 
-![217249](https://github.com/RetroAchievements/guides/assets/97459553/fe73c9db-9969-4bb2-be41-e8c2239001e7) 
+![217249](https://github.com/RetroAchievements/guides/assets/97459553/fe73c9db-9969-4bb2-be41-e8c2239001e7) Show Warren You Ain't 'Fraid
+
+_Defeat Warren by obtaining all prizes after playing at least 15 Trainer cards! [No In-Battle Save]_
+
+Recommended Deck Build
+
+Strategy Tips:
+
+* You can start defeating his Pokémon and collecting your prizes right away. As long as you play 15 trainers before drawing the final prize, it's fine.
+
+* The key is to crank out as many items each turn as you can. Draw/search items lend well to this, as do energy removal.
+
+* A single Pokémon deck makes this much easier since you can cram a ton of items in it.
+
+**Note: If anyone has a more efficient deck build, let me know, and I'll update this information.**
+
+***
+
+![217250](https://github.com/RetroAchievements/guides/assets/97459553/e118ff54-b446-4726-8f32-c1b72c3701d2) Reduce Pierrot's Deck to Ashes
+
+_Defeat Pierrot using Moltres' Wildfire to reduce his deck down to 0 cards! [No In-Battle Save]_
+
+Recommended Deck Build
+
+Strategy Tips:
+
+* The Legendary Moltress is useful here since it lets you draw energy from your deck when it's played. You can fight the Grand Masters over and over to get multiple copies.
+
+* Computer Error's are great, especially in the early game, because he'll usually choose to draw 5 cards, whittling his deck down quicker.
+
+* You don't have to burn a lot of his deck down to win. You just need to make sure you use Wild Fire to remove the last card in his deck.
+
+* He has some draw items, such as Bill and Computer Search, which should make the match move quickly. Keep his bench as empty as you can, heal as necessary, and wait him out. When the opportunity presents itself, use Wildfire, and call it a day. He's not too difficult to defeat.
+
+**Note: If anyone has a more efficient deck build, let me know, and I'll update this information.**
+
+***
+
+![217251](https://github.com/RetroAchievements/guides/assets/97459553/fc9f2a3f-2aa2-4d93-b807-1f7bcce02c91) Defeat Toby with Poison Immunity
+
+_Defeat Toby by obtaining all prizes without your active Pokémon ever becoming poisoned! [No In-Battle Save]_
+
+Recommended Deck Build
+
+Strategy Tips:
+
+* Taking him out as quick as possible is the goal. The only Pokemon in his deck are Magmar and Weedle. He has four of each in his deck so it's most likely he'll have at least one or two on his bench each time.
+
+* It's common for him to open up with Kangaskhan, like many other trainers, in order to use Fetch and set up his bench quickly. Kangaskhan can't poison so it's great to have it as his active Pokemon.
+
+* His AI doesn't really prioritize much, in comparison to other opponents. He doesn't have a wild strategy or anything. Generally, his goal is to get a Magmar or Weedle out onto the field and defeat you using poison. He doesn't always do this but will try if the opportunity presents itself.
+
+* Energy removal, to keep his Weedle and/or Magmar from using their poison attacks is, very useful. Gust of Wind to drag his Kangaskhan's onto the field will help ensure that you won't get poisoned. He does have a few Switch's in his deck but, with a little luck, you can keep one step ahead. He has four Double Colorless Energy so remove them each time you see one if you can. They're prioritized to be played on Kangaskhan when possible.
+
+* Zapdos shines here since you can nuke his entire bench with one attack each. Kangaskhan is the only Pokémon he has with enough HP to tank a hit. With good RNG, he won't be able to do much past that if he can't fill his bench.
+
+* Keeping energy off of Kangaskhan so it can't retreat is a solid plan. It costs four energy to attack and three to retreat, making his only options to get it off the field are if you knock it out or he uses a Switch.
+
+* Using Itemfinder to bring your energy removal cards back to your hand is great for keeping his Pokemon from doing much of anything. With good RNG, you should be able to take him out within a handful of turns.
+
+***
+
+![217252](https://github.com/RetroAchievements/guides/assets/97459553/1f28d2c1-4432-46fa-b4e5-39227f0d6484) Show Frank the Bird
+
+_Defeat Frank using Pidgeot's Hurricane while he has no benched Pokemon! [No In-Battle Save]_
+
+Recommended Deck Build
+
+Strategy Tips:
+
+* The only Electric Pokemon he has are four Zapdos, which don't really pose much of a threat due to the high energy cost to attack, so Pidgeot's weakness to Electric doesn't matter. His deck is mostly trainer cards and energy. He only has 12 Pokemon in his deck and no evolutions.
+
+* Use searching items, such as Computer Search and Pokeball, to find your evolution cards quickly. If you already have them, Double Colorless Energy or Gust of Wind are solid choices.
+
+* He has four Chansey and he'll prioritize them, if he can. He'll attach enough energy to Chansey to use Scrunch as a way to stall while he powers up the Zapdos on the bench. If you deal at least 40 damage to it, he usually won't use Double-Edge unless Zapdos is already powered up. He can use Scoop Up to get Chansey off the field, if retreating isn't an option, so don't wait until the last moment to start removing energy from Zapdos.
+
+* Gust of Wind is useful in order to drag Zapdos onto the field, and Hurricane it back to his hand, if you don't have any energy removal cards available to you at the time.
+
+* He uses energy removal cards but you should end up with plenty energy to keep Pidgeot at full power. While Wing Attack isn't the strongest, it should be plenty to whittle down his Pokémon until you can Hurricane for the win. With good RNG, you can get Pidgeot onto the field, and ready to Hurricane, before he can start filling his bench.
+
+***
+
+![217253](https://github.com/RetroAchievements/guides/assets/97459553/7bfd86b9-1214-4813-9ce0-6715b86966e8) Stall Out Masquerade
+
+_Defeat Masquerade by deck out without ever picking up a prize card! [No In-Battle Save]_
+
+Recommended Deck Build
+
+Strategy Tips:
+
+* Since the goal isn't to attack, Chansey makes for a great stall. 120HP and Scrunch make it very hard to kill. His deck is mostly Colorless with a few water and two Mewtwo mixed in.
+
+* Opening with a Kangaskhan isn't uncommon in order to use Fetch and build his bench. He usually won't bother attacking with it, like most trainers, until he has all that he needs to begin his onslaught. It's meant to be a Fetch tank so he can draw what he needs quicker.
+
+* Computer Error is great in the early game, as he'll choose to draw five each time, if his deck is still mostly full. That'll easily put you 20 cards ahead of the curve. Use your Computer Error's and Bill's to draw everything you need to stay alive, such as healing items and energy removal, and use Gambler once your hand gets too large so you don't overdraw before he does.
+
+* Since the goal isn't to fight, Chansey is a prime choice because it's a damage sponge. 120HP and Scrunch make it very hard to kill. Pulling Mewtwo onto the field with Gust of Wind, since Chansey has resistance to Psychic, is super useful for stalling.
+
+* Pokecenter is fantastic in this situation since you can remove all damage from Chansey in a single shot. If you have Recycle Energy attached, even better since they'll come right back to your hand, and you can easily keep stalling with Scrunch.
+
+* Much like with dueling Magician, it's a battle of attrition, except Masquerade doesn't have any cards to refill his deck from the discard pile. Keep energy off his Pokemon, drag useless stuff off of his bench and into play, and wait him out.
+
+***
+
+![217254](https://github.com/RetroAchievements/guides/assets/97459553/b1d36849-cf7e-4d37-8487-f6ea98d87814) Blow Away Anna with a Bigger Eggsplosion
+
+_Defeat Anna after dealing at least 300 damage at once using Exeggutor's Big Eggsplosion! [No In-Battle Save]_
+
+Recommended Deck Build
+
+Strategy Tips:
+
+* Her deck is mostly Psychic and it's another battle of attrition.
+
+* Big Eggsplosion takes, at minimum, 15 energy cards to do the job. Since it's virtually impossible to get 15 heads in a row, you'll want to put as much onto Exeggutor as you can. I recommend 25+ for plenty of padding to account for bad flips. She doesn't use any energy removal so no worries there.
+
+* Chansey can soak damage until you're ready but don't use it to knock out any of her Pokemon. You only get six chances to get 300 damage, if her bench is full, before you win from drawing all your prizes.
+
+* Since Chansey resists Psychic, healing items aren't really a priority. At most, she can only do 10 damage to it per turn if she has a Psychic on the field. Use Gust of Wind to drag one into the open, if she puts out Clefairy/Celfable, and Scrunch for a little extra protection.
+
+* Build up energy until you feel comfortable, swap in Exeggutor, start blasting away, and hope for the best. With a little luck, you should get it on the first duel.
+
+***
+
+![217255](https://github.com/RetroAchievements/guides/assets/97459553/9ed15a19-3a55-421f-9100-685d1f0e50c6) Give Mary's Raindance a Chance
+
+_Defeat Mary after not playing any cards (except during setup) until your fifth turn! [No In-Battle Save]_
+
+Recommended Deck Build
+
+Strategy Tips:
+
+* Her deck only has Water Pokemon in it. She'll prioritize getting Blastoise onto the field to Raindance as quickly as possible. She has a lot of item drawing/searching cards to speed up the process and draw a lot of energy in preparation for it.
+
+* Opening with Chansey will help to soak damage until enough turns have passed. Chances are good that she'll have Blastoise onto the bench and her Pokemon will be ready for the onslaught by then.
+
+* Use Chansey's to soak damage, get Zapdos ready as quickly as possible, and blast away. If you're having a little trouble, you can swap a Grimer/Muk into the deck for Toxic Gas to cancel out Raindance, and start using energy removal cards to drain her Pokemon back down to something more manageable.
+
+***
+
+![217256](https://github.com/RetroAchievements/guides/assets/97459553/e611db11-c99a-4823-915a-61ea06c0da8e) Caught 'Em All!
+
+_Record all 443 cards into the album!_
+
+* The Legendary Zapdos deck is one of the quickest to farm with since Zapdos' attack is easy to set up, deals a lot of damage, and ignores resistance. This makes it extremely versatile in practically all situations.
+
+* I've composed a list of all the trainers, where they're located, what packs they give, and how many.
+
+* Each each card is organized the same way as the Card Album. You can Ctrl+F to quickly search for anything you need by album number. This way, you know specifically what you're looking for in each one. It also has every Promo and where/how to obtain them.
+
+* Lastly, it has my recommendations for which trainers are the most efficient to farm for packs, based on what they give, how quickly/easily they are to beat, and why I recommend them. They're based on using the Legendary Zapdos Deck and you can begin farming every pack card as soon as you can access the Black Box. Read the "Legendary Zapdos Deck" section at the bottom of the guide to learn how to build the deck early.
+
+* If you end up with a ton of chips, while grinding for "The Elusive Mew", purchase Present packs. They contain every card that's obtainable from all seven packs. It's a great way to get an early head start on fleshing out your collection, but has diminishing returns, making it less efficient over time. Spend extra chips on packs but don't bother farming more past that.
+
+* The Black Box isn't really all that useful in the long run. It has few recipes to generate specific cards but it's not worth it otherwise. The list has all currently known recipes that I could find. If anyone knows any that aren't listed, let me know and I'll add them.
+
+* If you did all the trading achievements, you'll have enough Bill's Computer's to get all five promo's without needing to purchase extras. It doesn't matter which card you feed it since each one will yield the same thing. Ex: if you have three different Machoke's, it doesn't matter which one you put in. You'll always get the same Machamp back.
+
+***
+
+# Legendary Zapdos Deck
+
+You'd normally obtain a Zapdos Lv68 after "rescuing" Rod from the GR Psychic Fortress and defeating the Grand Masters. This isn't the only way to obtain one, though. It can also be made in the Black Box at the Game Center.
+
+Black Box Recipe:
+
+* Raichu Lv40 (Assault)
+* Zapdos Lv64 (Premier)
+* Dark Raichu Lv31 (Ambition)
+* Empty
+* Empty
+
+This will result in a Zapdos Lv68 every time. Ambition packs, for the Dark Raichu, don't start showing up as rewards until the Fire/Water Fort. There's a small chance you could get one in a Present pack in the Game Center, though, allowing you to make the deck much sooner. The other two can be farmed on TCG Island.
+
+Listed below is the build I used. I found it to be very consistent against almost every opponent. If anyone has improvements to the deck that they'd like to share, let me know.
+
+Pokemon:
+* Zapdos Lv68
+
+Trainers:
+* Super Potion x4
+* Energy Removal x4
+* Potion x4
+* Gambler x2
+* Super Energy Removal x4
+* Gust of Wind x4
+* Full Heal x4
+* Computer Search x3
+* Bill x4
+
+Energy:
+* Electric Energy x18
+* Full Heal Energy x4
+* Recycle Energy x4
+
+Strategy Tips:
+
+* Using only a single Zapdos ensures you'll draw it at the start. "Big Thunder" randomly targets any Pokémon that isn't Zapdos. You don't have to worry about wasting a turn nuking your own bench by accident if you don't have one.
+
+* "Big Thunder" deals 70 damage, ignores resistance, and can take out any potential threats while they're still on the bench. Most Pokémon that opponents use don't have more than 70hp, making it a one-hit K.O. almost every turn. It's one of the fastest ways to burn through an opponents team before they have a chance to get their decks going.
+
+* Gambler's are meant to keep you from accidentally overdrawing. They're a preventative against opponents that lean heavily on energy removal cards, such as Claire, and slow down the deck. Hold onto them until your hand is larger than 12 cards, at least.
+
+* Gust of Wind's are great for drawing out high cost Pokémon, such as Kangaskhan or Chansey, that can't/won't attack. It makes the deck less reliant on healing items so you're not always scrambling to draw one.
+
+* Computer Search is for finding Electric Energy if you get an unfavorable starting hand. You can search for a Bill but there's no guarantee you'll get any energy when you play it. Otherwise, use it as needed to grab energy removal or healing. It's more versatile than Energy Search.
+
+* Recycle Energy is for fueling Super Potions and Super Energy Removals. It'll come back to your hand each time so you never have to worry about discarding a necessary energy. You can play them as soon as you draw them. Opponents will target your electric energy first since it's needed for your attack. Attaching multiples will let you play multiple Super Potions and Super Energy Removal's in a single turn if you have to.
+
+* Full Heal Energy increase your odds of getting a Full Heal item in hand. Many opponents have status effect moves in their decks and you don't want any of them slowing you down by not being able to attack.
+
+* Some trainer cards may not be necessary against some opponents. They're used as fodder for Computer Search in those situations.
+
+* The deck can be easily tweaked for specific achievements like "Leave Axel Friendless". Swap Zapdos for Hitmonlee and Electric Energy for Fighting Energy. It's very versatile for achievements where Zapdos is too powerful.
