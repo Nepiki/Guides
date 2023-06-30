@@ -46,7 +46,7 @@ _Defeat Ronald after having defeated 2 GR members!_
 
 * This happens after collecting two pieces of the GR Coin. Ronald will stop you in the entrance room of whatever Club you're in as you try to leave. You only get one chance at the duel, and you must win, so save directly after obtaining the second coin piece. His deck is Water/Fighting.
 
-[Ronald's Deck List](https://imgur.com/a/9TweMgF)
+[Ronald's Deck](https://github.com/Cykette/PokemonGB2/wiki/Pok%C3%A9mon-TCG2:-Ronald's-Decks#-ronald-i)
 
 ***
 
@@ -64,7 +64,7 @@ _Defeat Ronald in the GR Grass Fortress!_
 
 * Ronald will stop you in the entrance room, after you've collected the GR Grass Coin, as you try to leave. You only get one chance, and you must win, so save directly after obtaining the coin. His deck is Grass/Colorless.
 
-[Ronald's Deck List](https://imgur.com/a/UB0oGDG)
+[Ronald's Deck](https://github.com/Cykette/PokemonGB2/wiki/Pok%C3%A9mon-TCG2:-Ronald's-Decks#-ronald-ii)
 
 ***
 
@@ -90,7 +90,7 @@ _Defeat Ronald in either the GR Fire Fortress or GR Water Fortress!_
 
 * The forts can be done in either order. Ronald will stop you in the entrance room after you've collected both coins. You only get one chance, and you must win, so save directly after obtaining both coins. His deck is mostly Colorless with a few Fighting and all three Eeveelutions.
 
-[Ronald's Deck List](https://imgur.com/a/4pF9nDU)
+[Ronald's Deck](https://github.com/Cykette/PokemonGB2/wiki/Pok%C3%A9mon-TCG2:-Ronald's-Decks#-ronald-iii)
 
 ***
 
@@ -116,7 +116,7 @@ _Defeat Ronald in the GR Castle!_
 
 * Ronald will stop you directly after you've opened the door using the GR Psychic and GR Colorless coins. You only get one chance, and you must win, so save before opening the door. His deck is Psychic/Colorless.
 
-[Ronald's Deck List](https://imgur.com/a/mOYHhHw)
+[Ronald's Deck](https://github.com/Cykette/PokemonGB2/wiki/Pok%C3%A9mon-TCG2:-Ronald's-Decks#-ronald-iv)
 
 ***
 
@@ -125,6 +125,8 @@ _Defeat Ronald in the GR Castle!_
 _Assemble the complete GR Coin!_
 
 * Collect all four pieces of the GR Coin.
+
+[GR#1-4 Decks](https://github.com/Cykette/PokemonGB2/wiki/Pok%C3%A9mon-TCG2:-GR-Decks-(TCG-Island))
 
 ***
 
