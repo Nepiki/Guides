@@ -126,8 +126,6 @@ _Assemble the complete GR Coin!_
 
 * Collect all four pieces of the GR Coin.
 
-[GR#1-4 Decks](https://github.com/Cykette/PokemonGB2/wiki/Pok%C3%A9mon-TCG2:-GR-Decks-(TCG-Island))
-
 ***
 
 ![217186](https://github.com/RetroAchievements/guides/assets/97459553/4793fe82-32b5-437e-a66c-7796fccbdb0a) Oddish Coin
@@ -144,6 +142,8 @@ _Receive the Charmander Coin from Ken!_
 
 * After defeating GR #3 in the Fire Club, he'll release the club members and Ken will give you the coin.
 
+[GR#3's Deck](https://github.com/Cykette/PokemonGB2/wiki/Pok%C3%A9mon-TCG2:-GR-Decks-(TCG-Island)#gr3)
+
 *** 
 
 ![217188](https://github.com/RetroAchievements/guides/assets/97459553/ad72bc79-a053-407a-af92-b4be4674a0ae) Starmie Coin
@@ -151,6 +151,8 @@ _Receive the Charmander Coin from Ken!_
 _Receive the Starmie Coin from Amy!_
 
 * After defeating GR #3 in the Water Club, he'll release the members and Amy will give you the coin.
+
+[GR#3's Deck](https://github.com/Cykette/PokemonGB2/wiki/Pok%C3%A9mon-TCG2:-GR-Decks-(TCG-Island)#gr3)
 
 ***
 
@@ -160,13 +162,17 @@ _Receive the Pikachu Coin from Isaac!_
 
 * After defeating Issac in the Electric Club, and GR #4 flees, he'll give you the coin.
 
+[Isaac's Deck (ver .1)](https://github.com/Cykette/PokemonGB2/wiki/Pokemon-TCG2:-Club-Leader-Decks#-isaac-lightning-club)
+
 ***
 
 ![217190](https://github.com/RetroAchievements/guides/assets/97459553/648c1ec7-2923-43a6-9eda-8788e44d457c) Alakazam Coin
 
-_Receive the Alakazam Coin from Murry!_
+_Receive the Alakazam Coin from Murray!_
 
-* After defeating Murry in the Psychic Club, before dueling GR #4, he'll give you the coin.
+* After defeating Murray in the Psychic Club, before dueling GR #4, he'll give you the coin.
+
+[Murray's Deck (ver. 1)](https://github.com/Cykette/PokemonGB2/wiki/Pokemon-TCG2:-Club-Leader-Decks#-murry-psychic-club)
 
 ***
 
@@ -176,6 +182,8 @@ _Receive the Kabuto Coin from Gene!_
 
 * After defeating Gene in the Rock Club, he'll give you the coin.
 
+[Gene's Deck](https://github.com/Cykette/PokemonGB2/wiki/Pokemon-TCG2:-Club-Leader-Decks#-gene-rock-club)
+
 ***
 
 ![217192](https://github.com/RetroAchievements/guides/assets/97459553/f4f9ee39-e9b3-44de-b9df-93fecea57e8f) Golbat Coin
@@ -183,6 +191,8 @@ _Receive the Kabuto Coin from Gene!_
 _Receive the Golbat Coin from Parker!_
 
 * After defeating Parker in the GR Grass Fortress, he'll give you the coin.
+
+[Parker's Deck](https://github.com/Cykette/PokemonGB2/wiki/Pok%C3%A9mon-TCG-2:-GR-Fort.-Leader-Decks#parker-gr-grass-fort)
 
 ***
 
