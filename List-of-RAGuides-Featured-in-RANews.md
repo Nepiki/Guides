@@ -52,8 +52,8 @@ You can also find an on-site hub containing all games [here](https://retroachiev
 |[February (126)](https://news.retroachievements.org/issues/2023-02/)|[RoboCop (NES)](https://retroachievements.org/game/1497)|[RANews](https://news.retroachievements.org/issues/2023-02/raguide.html)|[RAGuide](RoboCop-(NES))|
 |[March (127)](https://news.retroachievements.org/issues/2023-03/)|[Pokémon Yellow (Game Boy)](https://retroachievements.org/game/723)|[RANews](https://news.retroachievements.org/issues/2023-03/raguide.html)|[RAGuide](https://github.com/RetroAchievements/guides/wiki/Pok%C3%A9mon-Yellow-(Game-Boy))|
 |[April (128)](https://news.retroachievements.org/issues/2023-04/)|[Final Fantasy VI (SNES)](https://retroachievements.org/game/341)|[RANews](https://news.retroachievements.org/issues/2023-04/raguide.html)|[RAGuide](Final-Fantasy-VI-(SNES))|
-|[]()|[]()|[]()|[]()|
-|[]()|[]()|[]()|[]()|
+|[May (129)](https://news.retroachievements.org/issues/2023-05/)|[Defender (Arcade)](https://retroachievements.org/game/15020)|[RANews](https://news.retroachievements.org/issues/2023-05/raguide.html)|[RAGuide](Defended-(Arcade))|
+|[June (130)](https://news.retroachievements.org/issues/2023-06/)|[Snatcher (Sega CD)](https://retroachievements.org/game/10067)|[RANews](https://news.retroachievements.org/issues/2023-06/raguide.html)|[RAGuide](Snatcher-(Sega-CD))|
 |[]()|[]()|[]()|[]()|
 |[]()|[]()|[]()|[]()|
 |[]()|[]()|[]()|[]()|
