@@ -5,7 +5,7 @@
 **Overview**
 
 - Estimated achievement difficulty: 8/10 
-- Approximate amount of time to master: 7+ hours (Depending on skill). 
+- Approximate amount of time to master: 7+ hours (Depending on skill) 
 - Minimum number of playthroughs needed: 1 (plus replaying the first 3 stages a few times) 
 - Number of missable achievements: 6
 - Do cheats disable achievements?: Yes, pressing Up+Start at the game over screen to restart at the stage you were will affect some achievements (mentionned in the achievement name)
