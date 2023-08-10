@@ -296,7 +296,7 @@ Go to south-east Hyrule and find a cave with a destructible entrance right next 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345915.png">
 
 <big><pre>
-[Emptied the Eastern Palace (3)](https://retroachievements.org/achievement/312935)
+[All Quiet on the Eastern Front (3)](https://retroachievements.org/achievement/312935)
 _Open all treasure chests in the Eastern Palace._
 </pre></big>
 
@@ -332,7 +332,7 @@ You can obtain this book from the library south of Kakariko Village. Use the Peg
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345916.png">
 
 <big><pre>
-[Despoiled the Desert Palace (3)](https://retroachievements.org/achievement/312936)
+[Despoiled the Desert (3)](https://retroachievements.org/achievement/312936)
 _Open all treasure chests in the Desert Palace._
 </pre></big>
 
@@ -413,7 +413,7 @@ This can be done at any given point in the game after obtained the Zora's Flippe
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345917.png">
 
 <big><pre>
-[Took the Tower of Hera (3)](https://retroachievements.org/achievement/312937)
+[Hera's Treasure (3)](https://retroachievements.org/achievement/312937)
 _Open all treasure chests in the Tower of Hera._
 </pre></big>
 
@@ -448,7 +448,7 @@ After having the requirements, climb Death Mountain again and cross the bridge w
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345918.png">
 
 <big><pre>
-[Hit Hyrule Castle [m] (5)](https://retroachievements.org/achievement/312938)
+[Castle Caper [m] (5)](https://retroachievements.org/achievement/312938)
 _Open all treasure chests in Hyrule Castle and its sewers._
 </pre></big>
 
@@ -501,7 +501,7 @@ Go to north-east Hyrule where the entrance to the Zora's Domain used to be. Thro
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345920.png">
 
 <big><pre>
-[Plundered the Palace of Darkness (5)](https://retroachievements.org/achievement/312940)
+[Plundered the Palace (5)](https://retroachievements.org/achievement/312940)
 _Open all treasure chests in the Palace of Darkness._
 </pre></big>
 
@@ -567,7 +567,7 @@ Go to the smithies' house in the Light World and use your hammer to gain access 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345921.png">
 
 <big><pre>
-[Stripped the Swamp Palace (5)](https://retroachievements.org/achievement/312941)
+[Drained the Swamp (5)](https://retroachievements.org/achievement/312941)
 _Open all treasure chests in the Swamp Palace._
 </pre></big>
 
@@ -596,7 +596,7 @@ There are a total of 9 Treasure Chests to be found in the Palace of Darkness. At
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345922.png">
 
 <big><pre>
-[Sacked Skull Woods (5)](https://retroachievements.org/achievement/312942)
+[Deforestation (5)](https://retroachievements.org/achievement/312942)
 _Open all treasure chests in Skull Woods._
 </pre></big>
 
@@ -623,7 +623,7 @@ There are a total of 7 Treasure Chests to be found in the Skull Woods. The first
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345923.png">
 
 <big><pre>
-[Thieved Thieves' Town (5)](https://retroachievements.org/achievement/312944)
+[Robbed 'em Blind (5)](https://retroachievements.org/achievement/312944)
 _Open all treasure chests in Thieves' Town._
 </pre></big>
 
@@ -699,7 +699,7 @@ Make your way up Death Mountain and go to the teleporter that first brought you 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345924.png">
 
 <big><pre>
-[Pillaged the Ice Palace (5)](https://retroachievements.org/achievement/312945)
+[Deiced the Palace (5)](https://retroachievements.org/achievement/312945)
 _Open all treasure chests in the Ice Palace._
 </pre></big>
 
@@ -726,7 +726,7 @@ There are a total of 7 Treasure Chests to be found in the Ice Palace:
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345925.png">
 
 <big><pre>
-[Marauded Misery Mire (5)](https://retroachievements.org/achievement/312946)
+[Mined the Mire (5)](https://retroachievements.org/achievement/312946)
 _Open all treasure chests in Misery Mire._
 </pre></big>
 
@@ -764,7 +764,7 @@ Buy a big bomb from Link's House in the Dark World, then make your way to the py
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345926.png">
 
 <big><pre>
-[Ransacked Turtle Rock (5)](https://retroachievements.org/achievement/312947)
+[Tanked the Turtle (5)](https://retroachievements.org/achievement/312947)
 _Open all treasure chests in Turtle Rock._
 </pre></big>
 
@@ -795,7 +795,7 @@ There are a total of 11 Treasure Chests to be found in Turtle Rock:
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/346029.png">
 
 <big><pre>
-[Gutted Ganon's Tower (10)](https://retroachievements.org/achievement/312948)
+[Boarglary (10)](https://retroachievements.org/achievement/312948)
 _Open all treasure chests in Ganon's Tower._
 </pre></big>
 
@@ -850,7 +850,7 @@ Every dungeon, including Hyrule Castle, has a map and compass. All achievements 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/345919.png">
 
 <big><pre>
-[Looted the Light World (10)](https://retroachievements.org/achievement/312939)
+[Lightened the Load (10)](https://retroachievements.org/achievement/312939)
 _Open all treasure chests in the Light World (excluding dungeons)._
 </pre></big>
 
@@ -882,7 +882,7 @@ I will probably go in more detail later, but for now, here are the broad locatio
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/346034.png">
 
 <big><pre>
-[Depleted the Dark World (10)](https://retroachievements.org/achievement/313050)
+[Shady Collection (10)](https://retroachievements.org/achievement/313050)
 _Open all treasure chests in the Dark World (excluding dungeons)._
 </pre></big>
 
