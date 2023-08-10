@@ -581,7 +581,7 @@ _Open all treasure chests in the Swamp Palace._
 
 </details>
 
-There are a total of 9 Treasure Chests to be found in the Palace of Darkness. At least 1 bomb is required to get everything in this dungeon.
+There are a total of 9 Treasure Chests to be found in the Swamp Palace. At least 1 bomb is required to get everything in this dungeon.
 
 1. **Key** - Mandatory. At the entrance, beat the three water skaters to make a chest appear.
 2. **Map** - Go downstairs after chest 1 and bomb the wall right next to you to reach the map.
