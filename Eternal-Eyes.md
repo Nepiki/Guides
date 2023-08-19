@@ -33,7 +33,7 @@ All achievements can be obtained in a single play through. Missable achievements
 
 _Obtain the Mjornir_
 
-* This item can only be found as an enemy drop in Shillay's Tower during Chapter 8. It's dropped by the Dolos on the 5th floor. The final fight of the dungeon is on the 6th floor, so make sure to avoid it until after you've found one. Once you beat the 6th floor, the chapter ends, and you can't return to the dungeon portion of Shillay's Tower!
+* This item can only be found as an enemy drop in Shillay's Tower during Chapter 8. It's dropped by the yellow Dogu enemies on the 5th floor. The final fight of the dungeon is on the 6th floor, so make sure to avoid it until after you've found one. Once you beat the 6th floor, the chapter ends, and you can't return to the dungeon portion of Shillay's Tower!
 
 _Note: If anyone has managed to find it anywhere else, please let me know, and I will update the guide accordingly._
 
@@ -96,7 +96,7 @@ _In Chapter (X): Complete the (location) in one session, dealing **only** physic
 
 * Each achievement **must** be done during their respective chapters. Once you beat the final floor, the chapter ends directly afterwards. They can't be done in New Game+ and will require a new play through if missed.
 
-* Boss fights are excluded since they have separate achievements. For chapters 2, 4, 7, and 9, the achievement will trigger before the boss fights instead. This is so you can use a max team of 4 for the dungeon and still be able to meet the requirements for the boss achievements afterwards. (explained later)
+* Boss fights are excluded since they have separate achievements. For chapters 2, 4, 7, and 9, the achievement will trigger before the boss fights instead. This is so you can use a max team of 4 for the dungeon and still be able to meet the requirements for the boss achievements afterwards.
 
 * Skipping floors you've already cleared, or loading a save file to continue from a later floor, will not start the achievement. If the achievement icon doesn't appear, or disappears during a fight, you failed an achievement requirement and will need to retry from the first floor.
 
