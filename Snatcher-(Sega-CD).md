@@ -58,7 +58,7 @@ Enjoy the intro in it's entirety.
 ![](https://media.retroachievements.org/Badge/105581.png) [A Random Topic (3)](https://retroachievements.org/achievement/95977) ![](https://github.com/RetroAchievements/guides/assets/133049176/8af2f203-6c6c-4a9f-98d3-27ba4f21befb)    
 Find out about Random Hajile from the Chief
 
-When meeting the Chief for the first time, you'll be able to `ASK` him about any topics. If you pick `ABOUT JUNKER AUTHORITY` 3 times, you'll get `ABOUT BOUNTY HUNTER`S as an option. Choosing this, the name Random Hajile will be mentioned in the dialog.
+When meeting the Chief for the first time, you'll be able to `ASK` him about any topics. If you pick `ABOUT JUNKER AUTHORITY` 3 times, you'll get `ABOUT BOUNTY HUNTERS` as an option. Choosing this, the name Random Hajile will be mentioned in the dialog.
 
 ***
 
@@ -440,7 +440,9 @@ The answer is `BENSON`.
 ![](https://media.retroachievements.org/Badge/105908.png) [Privates Investigator (5)](https://retroachievements.org/achievement/96069) ![](https://github.com/RetroAchievements/guides/assets/133049176/a9e2e43b-d265-4dbf-9e32-cfec89acdf72)    
 Attempt to investigate Mika until she cracks
 
-After you find the hidden photo, `LOOK` and then `INVESTIGATE` Mika.
+This achievement can be missed if you get in the turbocycle and try to go somewhere after doing everything at Junker HQ at this point in the game.
+
+After solving the patient record, `TALK` to Mika about the patient record. After the dialog, `INVESTIGATE` her a few times and she'll snap.
 
 ![](https://media.retroachievements.org/Badge/105731.png) [I can't Drive 55 (4)](https://retroachievements.org/achievement/95966)
 Experience some car trouble
