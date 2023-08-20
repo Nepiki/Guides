@@ -1,6 +1,8 @@
 [Illusion of Gaia](https://retroachievements.org/game/945) game page
 
 ## List of Missable Achievements
+There are a total of 15 achievements that can be make permanently inaccessible on a player's save file.
+
 * All 7 of the "take no damage" achievements can be missed by simply progressing the plot.
 
     [![](https://media.retroachievements.org/Badge/310997.png)](https://retroachievements.org/achievement/21765) (01)
@@ -11,19 +13,20 @@
 [![](https://media.retroachievements.org/Badge/311007.png)](https://retroachievements.org/achievement/21775) (06)
 [![](https://media.retroachievements.org/Badge/311008.png)](https://retroachievements.org/achievement/21776) (07)
 
-* 23 Red Jewels become permanently missable by the plot progression, locking the player out of the following 4 achievements.
+* 23 Red Jewels become permanently missable by the plot progression, locking the player out of the following 3 achievements.
 
     [![](https://media.retroachievements.org/Badge/310977.png)](https://retroachievements.org/achievement/21745) (08)
 [![](https://media.retroachievements.org/Badge/310978.png)](https://retroachievements.org/achievement/21746) (09)
 [![](https://media.retroachievements.org/Badge/310996.png)](https://retroachievements.org/achievement/21764) (10)
-[![](https://media.retroachievements.org/Badge/311010.png)](https://retroachievements.org/achievement/21779) (11)
 
-* And finally, there are 4 misc. achievements that, as with the others, can be missed by progressing the plot, but are also missable by just not being aware.
+* And finally, there are 5 misc. achievements that, as with the others, can be missed by progressing the plot, but are also missable by just not being aware.
 
-    [![](https://media.retroachievements.org/Badge/311013.png)](https://retroachievements.org/achievement/21785) (12)
-[![](https://media.retroachievements.org/Badge/311009.png)](https://retroachievements.org/achievement/21778) (13)
-[![](https://media.retroachievements.org/Badge/311011.png)](https://retroachievements.org/achievement/21780) (14)
-[![](https://media.retroachievements.org/Badge/310987.png)](https://retroachievements.org/Achievement/21755) (15)
+    [![](https://media.retroachievements.org/Badge/311013.png)](https://retroachievements.org/achievement/21785) (11)
+[![](https://media.retroachievements.org/Badge/311009.png)](https://retroachievements.org/achievement/21778) (12)
+[![](https://media.retroachievements.org/Badge/311011.png)](https://retroachievements.org/achievement/21780) (13)
+[![](https://media.retroachievements.org/Badge/310987.png)](https://retroachievements.org/Achievement/21755) (14)
+[![](https://media.retroachievements.org/Badge/310969.png)](https://retroachievements.org/achievement/21737) (15)
+
 
 ## Spoilers! 
 Only expand the following if you don't care about spoiling the game.
