@@ -33,7 +33,7 @@ While doing the secondary events is not necessary, the game requires some events
 - [Act 2 - Eating Ramen](https://retroachievements.org/achievement/95783)   
 - [Act 2 - Visiting the Fortune Teller in Act 2](https://retroachievements.org/achievement/189424)    
 
-It is possible to go for all the other events while going for the rank. However, some events will be bad enough to drop your rank, even getting just one of them. All of these events will be marked to identify which is which. For achievements about bad events, it is suggested to make a save before doing them, so to not jeopardize your run. Story related achievements won't have a need to be marked, as you'd have to do them anyway.
+It is possible to go for all events, especially those with achievements, while going for the rank. However, some events will be bad enough to drop your rank, even getting just one of them. Those events will be marked to identify which is which. For achievements about these bad events, it is suggested to make a save before doing them, so to not jeopardize your run. Story related achievements won't have a need to be marked, as you'd have to do them anyway.
 
 ![](https://github.com/RetroAchievements/guides/assets/133049176/8af2f203-6c6c-4a9f-98d3-27ba4f21befb) NEUTRAL - Nothing is affected
 
@@ -44,7 +44,10 @@ It is possible to go for all the other events while going for the rank. However,
 ![](https://media.retroachievements.org/Badge/105858.png) [Saving the Day (25)](https://retroachievements.org/achievement/96037)   
 Complete the game with less than 3 saves
 
-It is not suggested to go for this achievement on the first playthrough, as you'd have to work with just 2 saves throughout the game, while trying to do everything. It is better to go for this when done with everything else, so to not having to be preoccupied about rank, or use this opportunity to clean up anything missed.
+It is not suggested to go for this achievement on the first playthrough, as you'd have to work with just 2 saves throughout the game while trying to do everything.
+
+It is better to go for this when done with everything else, so to not having to be preoccupied about the rank. Most importantly, you'd have a better knowledged about the game and what is needed to do to beat it, making it easier, and maybe use this as an opportunity to get anything missed.
+The only suggestion to give is to save when the game prompts you to at the end of each chapter.
 
 # ACT 1: SNATCH
 
@@ -156,7 +159,7 @@ You just need to call Jamie when you're in front of Mika.
 ![](https://media.retroachievements.org/Badge/105588.png) [The Short Answer (5)](https://retroachievements.org/achievement/95769) ![](https://github.com/RetroAchievements/guides/assets/133049176/8b81a53e-8652-4a6b-aeaa-75c9cdf0c57c)    
 Give the correct password to Napoleon, AFTER taking the steps to obtain it
 
-Basically, do as you're supposed to do it.
+Basically, do as you're intended to do it by the game.
 
 <details>
 
@@ -178,22 +181,34 @@ If he's saying "The Revolution", the answer is `IS ENDED`.
 
 </details>
 
+It's important to note that whenever you give him the password, he'll ask to meet him in Alton Plaza. You have only a certain amount of time to meet him before he leaves, requiring you to call him again. It's suggested to finish everything you may need to do before calling him to not waste time.
+
 ***
 
 ![](https://media.retroachievements.org/Badge/105608.png) [Late Night Masquerade (5)](https://retroachievements.org/achievement/95785)    
 Discover the locations of Outer Heaven and Plato's Cavern
 
 You can find out from Napoleon about Outer Heaven's location when meeting him in Alton Plaza.
-For Plato's Cavern location, you need to call their videophone number, which can be found by looking for their ad on the big sign in Alton Plaza.
+For Plato's Cavern location, he'll tell you to look out the big screen in the Plaza for an ad of Plato's Cavern with their number written on it.
+
+<details>
+
+The number is 69-1170
+
+</details>
+
+You need to know about the ad from Napoleon before calling them.
 
 ***
 
 ![](https://media.retroachievements.org/Badge/105906.png) [Chief The Thief (3)](https://retroachievements.org/achievement/96049) ![](https://github.com/RetroAchievements/guides/assets/133049176/8af2f203-6c6c-4a9f-98d3-27ba4f21befb)    
 Spot the Chief in Alton Plaza
 
-While in Alton Plaza, `LOOK` at the `AREA` until Jamie and the Chief are seen together.
+Needs to be done after talking to Napoleon and discovering the two locations.
 
-Another achievement is related to this. If you don't do this and also call Jamie and `TALK` to her about her being in Alton Plaza, you won't be able to do the other.
+While in Alton Plaza, `LOOK` at the `AREA` until Jamie and the Chief are seen together. It may take a few tries to get it.
+
+Another achievement is related to this. If you don't do this, and also call Jamie and `TALK` to her about her being in Alton Plaza (you have until end of chapter to do so), you won't be able to do the other.
 
 ***
 
@@ -241,7 +256,7 @@ About Katrina, the answers are `BIRTHMARK`, `HEART-SHAPED` (`HEART` is also acce
 Get forced to leave Gibson's house
 
 This can be done right when you gain access to the house.
-Use the option `DO SOMETHINGS` accompanied by `PERSUADE` for a few times and she'll kick you out of the house.
+Use the option `DO SOMETHING` accompanied by `PERSUADE` for a few times and she'll kick you out of the house.
 
 ***
 
