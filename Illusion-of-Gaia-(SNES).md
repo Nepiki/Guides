@@ -1,54 +1,45 @@
 [Illusion of Gaia](https://retroachievements.org/game/945) game page
 
-## List of missable achievements
-Total: 12
+## List of Missable Achievements
+* All 7 of the "take no damage" achievements can be missed by simply progressing the plot.
 
-*Marked have hints in the Spoiler section at the bottom due to being easy to miss
+    [![](https://media.retroachievements.org/Badge/310997.png)](https://retroachievements.org/achievement/21765) (01)
+[![](https://media.retroachievements.org/Badge/311001.png)](https://retroachievements.org/achievement/21769) (02)
+[![](https://media.retroachievements.org/Badge/311004.png)](https://retroachievements.org/achievement/21772) (03)
+[![](https://media.retroachievements.org/Badge/311005.png)](https://retroachievements.org/achievement/21773) (04)
+[![](https://media.retroachievements.org/Badge/311006.png)](https://retroachievements.org/achievement/21774) (05)
+[![](https://media.retroachievements.org/Badge/311007.png)](https://retroachievements.org/achievement/21775) (06)
+[![](https://media.retroachievements.org/Badge/311008.png)](https://retroachievements.org/achievement/21776) (07)
 
-* 5 of the Finish level without getting hit you lose access to after a certain point* in the game.
+* 23 Red Jewels become permanently missable by the plot progression, locking the player out of the following 4 achievements.
 
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21557.png)](https://retroachievements.org/Achievement/21761) (1)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21563.png)](https://retroachievements.org/Achievement/21765) (2)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21567.png)](https://retroachievements.org/Achievement/21769) (3)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21581.png)](https://retroachievements.org/Achievement/21770) (4)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21614.png)](https://retroachievements.org/Achievement/21771) (5)
+    [![](https://media.retroachievements.org/Badge/310977.png)](https://retroachievements.org/achievement/21745) (08)
+[![](https://media.retroachievements.org/Badge/310978.png)](https://retroachievements.org/achievement/21746) (09)
+[![](https://media.retroachievements.org/Badge/310996.png)](https://retroachievements.org/achievement/21764) (10)
+[![](https://media.retroachievements.org/Badge/311010.png)](https://retroachievements.org/achievement/21779) (11)
 
-* 1 No hit boss.
+* And finally, there are 4 misc. achievements that, as with the others, can be missed by progressing the plot, but are also missable by just not being aware.
 
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21642.png)](https://retroachievements.org/Achievement/21776) (6)
-
-* 3 Misc that are pretty easy to figure out if you look at them.
-
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21555.png)](https://retroachievements.org/Achievement/21785) (7)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21562.png)](https://retroachievements.org/Achievement/21778) (8)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21615.png)](https://retroachievements.org/Achievement/21755) (9)
-
-* Red Jewel related 
-  * Many of the jewels are permanently missable so following a guide like [Red Jewel Guide](http://www.flyingomelette.com/faqs/gaiafaq.html) is recommended.
-
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21646.png)](https://retroachievements.org/Achievement/21746) (10*)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21559.png)](https://retroachievements.org/Achievement/21764) (11*)
-
-* 1 Max Stat
-
-    [![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/21641.png)](https://retroachievements.org/Achievement/21737) (12*)
+    [![](https://media.retroachievements.org/Badge/311013.png)](https://retroachievements.org/achievement/21785) (12)
+[![](https://media.retroachievements.org/Badge/311009.png)](https://retroachievements.org/achievement/21778) (13)
+[![](https://media.retroachievements.org/Badge/311011.png)](https://retroachievements.org/achievement/21780) (14)
+[![](https://media.retroachievements.org/Badge/310987.png)](https://retroachievements.org/Achievement/21755) (15)
 
 ## Spoilers! 
-Only expand the following if you don't care
-<details> 
-  <summary>Point of no return</summary>
-   After beating the boss in Mu. Once you are in Angel Village you cannot access any of the previous areas.
-</details>
+Only expand the following if you don't care about spoiling the game.
 
-<details>
-  <summary>General location of the missable Stat Upgrade</summary> 
-   In Freejia (Large town after the raft section) there is a Health Upgrade hidden.
-</details>
+<details><summary>Points of No Return (and Missable Items)</summary>
 
-<details>
-  <summary>Red Jewels Info</summary> 
-   There are a total of 50 Red Jewels.
+There are a lot of places in the game where parts of the map become inaccessible.  This is a list those turning points.
 
-   The first 23 are missable after the point of no return.
-   Of those first 23 there a few areas you cannot return to even before the point of no return so they become missable before that.
-</details>
+**Note:** In addition to the mentioned locations, all *previous* locations also remain locked.
+
+* Leaving Edward's Castle with Kara prevents further access to Edward's Castle (2 Red Jewels) and Edward's Castle Dungeon (2 Red Jewels).
+* Leaving Itory Village for the Moon Tribe Camp will prevent further access to South Cape. (3 Red Jewels)
+* Beating Castoth at the Incan Ruins will prevent further access to the Inca Ruins (1 Red Jewel) or Itory Village (1 Red Jewel).
+* Initiating the Riverson cutscene on the Gold Incan Ship (by examining the dead queen) will prevent further access to the ship and Seth. (1 Red Jewel.)
+* Leaving Oakton (the Diamond Coast cottage) and going to Freesia after will prevent further access to the Oakton. (1 Red Jewel. This is also where Turbo is.)
+* In Freejia, talking to Erik after using the Memory Melody will move the player to Neil's Cottage, preventing further access to Freejia (3 Red Jewels, 1 Health Upgrade) and the Diamond Mine (3 Red Jewels).
+* After beating Viper in the Sky Garden, the player moves to the Seaside Palace, preventing further access to Nazca and the Sky Garden (2 Red Jewels).
+* Beating Jackmond and Silvana (the vampires) in Mu will prevent further access to Mu (1 Red Jewel) and the Seaside Palace (3 Red Jewels).
+* All locations between Angel Village and Dao remain open up until the final save point (and spirit teleport to Dao) in the Towel of Babel.</details>
