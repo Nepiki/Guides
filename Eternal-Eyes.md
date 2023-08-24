@@ -33,9 +33,9 @@ All achievements can be obtained in a single play through. Missable achievements
 
 _Obtain the Mjornir_
 
-* This item can only be found as an enemy drop in Shillay's Tower during Chapter 8. It's dropped by the yellow Dogu enemies on the 5th floor. The final fight of the dungeon is on the 6th floor, so make sure to avoid it until after you've found one. Once you beat the 6th floor, the chapter ends, and you can't return to the dungeon portion of Shillay's Tower!
+* This item can only be found in Shillay's Tower during Chapter 8 and is dropped by the yellow Dogu enemies on the 5th floor. The final fight of the dungeon is on the 6th floor, so make sure to avoid it until after you've found it. Once you beat the 6th floor, the chapter ends, and you can't return to the dungeon portion of Shillay's Tower!
 
-_Note: If anyone has managed to find it anywhere else, please let me know, and I will update the guide accordingly._
+_Note: If anyone has found it anywhere else, please let me know, and I'll update the guide accordingly._
 
 ***
 
@@ -59,7 +59,7 @@ _Defeat (boss), without damaging any other enemy, with a maximum group size of 3
 
 * Chapter 9 has a back-to-back boss rush. Garland, Jaress, and Lolita on the 9th Floor, Demon on the 10th, and Vorless on the 11th.
 
-* There is no dungeon in Chapter 10. The only fight is Luna, on the Top Floor in Villee Fort, which is why there's no "Fear" achievement for that chapter.
+* There's no dungeon in Chapter 10. The only fight is Luna, on the Top Floor in Villee Fort, which is why there's no "Fear" achievement for that chapter.
 
 ***
 
@@ -75,7 +75,7 @@ _Defeat Garland and Jaress, without damaging Lolita, with a maximum group size o
 
 * You **can't** damage Lolita at all until the other two are defeated. Be careful if you plan to use AOE spells, or place down Jewels as traps, as to not accidentally hit her with one.
 
-* The easiest way to do the fight, in my opinion, is to take out Garland first. He has high evasion, and your attacks may miss, but he can be taken out in a single turn if everyone hits. Bring a couple of powerful puppets and equip them with your best Attack Power items (I recommend Mjornir if you happen to have any). I recommend the B.W. Pappet because it has the highest stats of any puppet and the second furthest movement range.
+* The easiest way to do the fight, in my opinion, is to take out Garland first. He has high evasion, and your attacks may miss, but he can be taken out in a single turn if everyone hits. Bring a couple of powerful puppets and equip them with your best Attack Power items (such as Mjornir if you happen to have any). I recommend the B.W. Pappet because it has the highest stats of any puppet and the second furthest movement range.
 
 * With Garland down early, you don't have to worry about him while you deal with Jaress' high HP and Lolita trying to keep him alive. She heals between 500-600HP each cast so you need to be able to put out some hefty damage. A strong puppet with good attack boosting equipment should be able to put out ~350 damage each. Magic is rather underpowered can't compare to the raw damage output of physical attacks.
 
@@ -98,7 +98,7 @@ _In Chapter (X): Complete the (location) in one session, dealing **only** physic
 
 * Boss fights are excluded since they have separate achievements. For chapters 2, 4, 7, and 9, the achievement will trigger before the boss fights instead. This is so you can use a max team of 4 for the dungeon and still be able to meet the requirements for the boss achievements afterwards.
 
-* Skipping floors you've already cleared, or loading a save file to continue from a later floor, will not start the achievement. If the achievement icon doesn't appear, or disappears during a fight, you failed an achievement requirement and will need to retry from the first floor.
+* Skipping floors you've already cleared, or loading a save file to continue from a later floor, won't start the achievement. If the achievement icon doesn't appear, or disappears during a fight, you failed an achievement requirement and will need to retry from the first floor.
 
 Allowed in combat:
 1. Physical Attacks
@@ -118,7 +118,7 @@ Not allowed in combat:
 
 _Obtain the Glamorous Armor_
 
-* Obtained as a drop from soldier type enemies in Villee Fort starting in Chapter 9.
+* Obtained as a drop in Villee Fort starting in Chapter 9. Most commonly dropped on the 10th Floor after the Demon fight.
 
 * You can also buy the armor... if you can get the game to let you. The way the game tracks money is a bit buggy. Even if you're showing 99,999 Maica, you can't buy it until you've _earned_ enough Maica in battle. If not, the game doesn't recognize that you have the money to buy it. You'll probably find it before the game will let you buy it, anyway.
 
@@ -130,7 +130,7 @@ _Obtain the Glamorous Armor_
 
 _Obtain the Meteor Breaker_
 
-* Obtained as a drop from soldier type enemies in Villee Fort starting in Chapter 9.
+* Obtained as a drop in Villee Fort starting in Chapter 9. Most commonly dropped on the 10th Floor after the Demon fight.
 
 ***
 
@@ -140,7 +140,7 @@ _Obtain the Meteor Breaker_
 
 _Obtain the Gawain's or Broken Bow_
 
-* The Broken Bow is obtained as a drop from the Unicorn enemies starting in Chapter 9.
+* The Broken Bow is obtained as a drop from the Unicorn enemies starting in Chapter 9. They're most commonly found on the 4th and 6th Floor.
 
 _Note: Gawain's Bow is... somewhere, but we're unable to find it in the North American version. The item may be bugged and won't drop. It's a mystery for the ages! If anyone has any information about this MIA bow, please let me know, and I'll update the guide accordingly._
 
@@ -152,7 +152,7 @@ _Note: Gawain's Bow is... somewhere, but we're unable to find it in the North Am
 
 _Obtain the Hornet_
 
-* Obtained as a drop by soldier type enemies starting in Chapter 9. Most commonly found on the 10th Floor after Demon has been defeated.
+* Obtained as a drop in Villee Fort starting in Chapter 9. Most commonly dropped on the 10th Floor after the Demon fight.
 
 ***
 
@@ -193,7 +193,7 @@ _Have 9 of every (color) jewel in your inventory at the same time_
 
 * You must have them **in your inventory** for them to count. The number of jewels the achievements track will increase as you earn them decrease as you use them.
 
-* This isn't as tedious as it may seem. If you leave the Pappet Book achievements for last, and don't blow through tons of jewels along the way, you'll end up with all six Collector achievements long before you beat the final dungeon. Especially if you decided to grind for the item drop achievements.
+* This isn't as tedious as it may seem. If you leave the Pappet Book achievements for the late game, and don't blow through tons of jewels along the way, you'll end up with all six Collector achievements long before you beat the final dungeon. Especially if you decided to grind for the item drop achievements.
 
 ***
 
@@ -223,15 +223,15 @@ No, that's not a typo. I guess the game's translation team couldn't decide on wh
 
 * To evolve the plappet to stage 2, you need to use one of two specific colors on it. That's right about where it stops making sense.
 
-* There's a total of 5 stages before it can't evolve any further. The level requirements for each stage are: 1, 3, 8, 15, and 30. If a puppet dies, or you turn it back into a doll yourself, it keeps all levels it earned. This means you don't have to grind levels every time you decide your doll needs a new makeover.
+* There's a total of 5 stages before it can't evolve any further. The level requirements for each stage are: 1, 3, 8, 15, and 30. If a porpoise dies, or you turn it back into a doll yourself, it keeps all levels it earned. This means you don't have to grind levels every time you decide your doll needs a new makeover.
 
-* My recommendation for filling out the book in the least painful way possible is pick a stage 5 pappet you don't have, work your way backwards on the evolution chart to the base pappet, and follow the evolution chain from there. Aiming for those first will fill in about ~110-120 of them in your book. There are 52 unique stage 5 puppets and 768 possible ways to get them. It's ok if you need a moment to cry, I won't judge.
+* My recommendation for filling out the book, in the least painful way possible, is pick a stage 5 pappet you don't have, work your way backwards on the evolution chart to the base pappet, and follow the evolution chain from there. Aiming for those first will fill in about ~110-120 of them in your book. There are 52 unique stage 5 puppets and 768 possible ways to get them. It's ok if you need a moment to cry, I won't judge.
 
 * A max inventory of jewels is nowhere near enough to get them all so buckle in for the grind! You have to get the level 99 and item drop achievements anyway, right? The best way to farm for jewels is to get a team of Stage 5 puppets with really good Magic Attack, equip them with the best MA accessories you have, and start each fight by casting the strongest spell each one has. Spells with the highest power hit every enemy on the map. Most fights should be over before round one is finished. Where and what you fight makes no difference when farming jewels. All enemies can drop all jewels so just pick somewhere that has a lot of enemies per battle that you can kill quickly. Stronger dungeons usually have more enemies per fight.
 
-* Blank dolls will start dropping from enemies in Villee Tower. I recommend turning one into a plurpet, level it up to 30 real quick, and endlessly reset that one over and over. This way, you don't have to turn any of your good ones into a doll just to fill out your book. There's no real point in having so many dolls. Your max team size is four and you only need one to endlessly reset. I ended up with about 20 extra dolls in my inventory collecting dust.
+* Blank dolls will eventually start dropping from enemies. I recommend turning one into a plurpet, level it up to 30 real quick, and endlessly reset that one over and over. This way, you don't have to turn any of your good ones into a doll just to fill out your book. There's no real point in having so many dolls. Your max team size is four and you only need one to endlessly reset. I ended up with about 20 extra dolls in my inventory collecting dust.
 
-Luckily, some poor soul on the internet, who isn't me, did all the hard work and completed a full evolution chart of all possible combinations! I shall now impart this vast tome of knowledge to you. Just scroll down to the "Mappemon Evolution" section for a more detailed explanation of how it all works and a multi-page evolution chart. I'll also link a Puppet Stat guide so you can see which pappets are the best of the best. Good luck and may the odds be ever in your favor!
+Luckily, some poor soul on the internet, who isn't me, did all the hard work and completed a full evolution chart of all possible combinations! I shall now impart this vast tome of knowledge unto you. Just scroll down to the "Mappemon Evolution" section for a more detailed explanation of how it all works and a multi-page evolution chart. I'll also link a Puppet Stat guide so you can see which pappets are the best of the best. Good luck and may the odds be ever in your favor!
 
 [Puppet Evolution Guide](https://gamefaqs.gamespot.com/ps/197238-eternal-eyes/faqs/23353)
 
