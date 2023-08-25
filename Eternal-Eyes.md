@@ -231,8 +231,10 @@ No, that's not a typo. I guess the game's translation team couldn't decide on wh
 
 * Blank dolls will eventually start dropping from enemies. I recommend turning one into a plurpet, level it up to 30 real quick, and endlessly reset that one over and over. This way, you don't have to turn any of your good ones into a doll just to fill out your book. There's no real point in having so many dolls. Your max team size is four and you only need one to endlessly reset. I ended up with about 20 extra dolls in my inventory collecting dust.
 
-Luckily, some poor soul on the internet, who isn't me, did all the hard work and completed a full evolution chart of all possible combinations! I shall now impart this vast tome of knowledge unto you. Just scroll down to the "Mappemon Evolution" section for a more detailed explanation of how it all works and a multi-page evolution chart. I'll also link a Puppet Stat guide so you can see which pappets are the best of the best. Good luck and may the odds be ever in your favor!
+Luckily, some poor soul on the internet, who isn't me, did all the hard work and completed a full evolution chart of all possible combinations! I shall now impart this vast tome of knowledge unto you. I'll also link a Puppet Stat guide so you can see which pappets are the best of the best. Good luck and may the odds be ever in your favor!
 
-[Puppet Evolution Guide](https://gamefaqs.gamespot.com/ps/197238-eternal-eyes/faqs/23353)
+[Puppet Evolution Guide](https://bit.ly/EternalEyesPuppets)
 
 [Puppet Stat List](https://gamefaqs.gamespot.com/ps/197238-eternal-eyes/faqs/65202)
+
+Edit: A big thank you to Taterz for reorganizing the evolution guide to make it easier to follow.
