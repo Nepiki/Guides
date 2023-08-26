@@ -84,7 +84,7 @@ There are a total of 14 monster lairs in the Underground Castle, west screen. Se
 ### Map
 </summary>
 
-![](https://www.snesmaps.com/maps/SoulBlazer/LabeledMaps/004UndergroundCastleWest.png)
+![UndergroundCastleWest](https://github.com/RetroAchievements/guides/assets/76693803/812edf7e-e514-4cf3-8195-3b7f61f616bd)
 
 </details>
     
@@ -112,7 +112,7 @@ There are a total of 15 monster lairs in the Underground Castle, east screen. Se
 ### Map
 </summary>
 
-![](https://www.snesmaps.com/maps/SoulBlazer/LabeledMaps/005UndergroundCastleEast.png)
+![UndergroundCastleEast](https://github.com/RetroAchievements/guides/assets/76693803/4d98fbd1-3115-4b5c-817d-6858131db2b0)
 
 </details>
 
@@ -123,7 +123,7 @@ There are a total of 15 monster lairs in the Underground Castle, east screen. Se
 _Sealed every monster lair in dr. Leo's painting_
 </pre></big>
 
-There are a total of 17 monster lairs in Dr. Leo's painting. This dungeon cannot be fully cleared before having obtained the Iron Sword. See the map below for all the locations.
+There are a total of 17 monster lairs in Dr. Leo's painting. This dungeon cannot be fully cleared before having obtained the Zantetsu Sword. See the map below for all the locations.
 
 <details>
 <summary>
@@ -131,7 +131,7 @@ There are a total of 17 monster lairs in Dr. Leo's painting. This dungeon cannot
 ### Map
 </summary>
 
-![](https://www.snesmaps.com/maps/SoulBlazer/LabeledMaps/006LeosPaintings.png)
+![LeoPainting](https://github.com/RetroAchievements/guides/assets/76693803/175b1535-dc58-4db6-b03a-bed8c7871686)
 
 </details>
     
@@ -187,6 +187,17 @@ After releasing an Ivy below the goat pen from a monster lair in the Underground
 _Seal all the monster lairs in the Water Shrine_
 </pre></big>
 
+There are a total of 15 monster lairs in the Water Shrine. Note that some are hidden under enemy statues that start teleporting around when you get near them. See the map below for all the locations.
+
+<details>
+<summary>
+
+### Map
+</summary>
+
+![WaterShrine](https://github.com/RetroAchievements/guides/assets/76693803/062cea64-2e51-4fa6-957e-b07873d884af)
+
+</details>
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214162.png">
 
@@ -195,6 +206,7 @@ _Seal all the monster lairs in the Water Shrine_
 _Find the "Light" Arrow magic._
 </pre></big>
 
+In the Fire Shrine on the lowest floor, cross the long fire bridge in the south-west for a monster lair. Defeat it to make a crystal spawn with a fairy that will give you this magic. 
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214155.png">
 
@@ -203,6 +215,7 @@ _Find the "Light" Arrow magic._
 _Get the Ice Armor. Hot metal won't bother you now!_
 </pre></big>
 
+After releasing the squirrel + stump combo from the Fire Shrine, go there and use the Dream Rod on the stump. While in the dream, go right and toggle the switch so you can go there when exiting the dream to reach this chest.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214192.png">
 
@@ -211,6 +224,7 @@ _Get the Ice Armor. Hot metal won't bother you now!_
 _Find a magical soul to bring light to the world._
 </pre></big>
 
+After releasing the mole from the Water Shrine, head to town and go in the rightmost hole. Talk to the mole here to have him accompany you.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214221.png">
 
@@ -219,6 +233,13 @@ _Find a magical soul to bring light to the world._
 _Defeat the Stone Lion Heads without getting hit._
 </pre></big>
 
+This boss has two very easy phases, and a final one being a bit tricky to master.
+
+- **Phase 1** - This head can only attack with a T-shaped fire breath in the four main directions. Therefore, standing either north-east, north-west, south-east, or south-west from it will ensure that you will never get hit. Just keep spamming the attack button and this phase will be over in no time.
+- **Phase 2** - When you are standing at the position in the image below, this head will be unable to hurt you for the entire duration. If you still get hit, you are most likely standing too high. Make sure your bottom feet aligns with the bottom gray square.
+- **Phase 3** - The toughest part about this phase is the setup. You will want to use the stone in the middle to influence its pattern, as it can only go in four directions so if you are on the north-eastern side while the head is on the south-western side, it will first go up and then right to reach you. It won't go to your exact position but instead a bit beyond, so the strategy here is to remain on one of the four corners practically glued to the stone, when it comes towards you attack it a maximum of three times, then it will continue its pattern at which point you have to influence it by heading towards another corner and then back to your initial position. I hope this explanation makes sense, but if you can't visualize it, [this video](https://youtu.be/-ECGpYoG5KY?si=ig4c9ZVNv6hGengh&t=42) demonstrates it well.
+
+![ElementalStatues](https://github.com/RetroAchievements/guides/assets/76693803/8a918b47-42ed-4702-bd04-5c146f180f42)
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214186.png">
 
@@ -227,6 +248,7 @@ _Defeat the Stone Lion Heads without getting hit._
 _Defeat Deathtoll's forces at GreenWood and receive the Green Stone._
 </pre></big>
 
+Story-related. Will trigger right after coming back to GreenWood after defeating the Elemental Statues.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214196.png">
 
@@ -267,6 +289,7 @@ _Reach EXP level 40 and rebuke the forces of evil._
 _Convince a squirrel to give you The Master's Emblem C._
 </pre></big>
 
+After having rescued the second squirrel in the north-eastern treehouse from the Light Shrine, talk to it for the Master's Emblem C.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214147.png">
 
@@ -275,6 +298,7 @@ _Convince a squirrel to give you The Master's Emblem C._
 _Trade the Delicious Seeds for the Psycho Sword._
 </pre></big>
 
+The hungry squirrel is rescued early on in the marsh, while the Delicious Seeds are found in a chest in the Water Shrine. Once you have found them, go to the north-eastern treehouse and talk to the squirrel with the seeds equipped.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214183.png">
 
@@ -282,6 +306,8 @@ _Trade the Delicious Seeds for the Psycho Sword._
 [Legacy of Monmo (3)](https://retroachievements.org/achievement/31340)
 _Help two wandering spririts remember love and get the Shield Bracelet._
 </pre></big>
+
+After rescueing a mole from the Light Shrine who will be standing outside near the north-eastern treehouse, lead her to one of the holes south-west from there. When she's standing on it, talk to her and then go down for a treasure chest. Then, enter another hole and talk to the mole blocking your path with the ribbon you just got, then get past him and talk to the other mole for the Shield Bracelet. These two specific moles were rescued during the earlier two shrines.
 
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214156.png">
