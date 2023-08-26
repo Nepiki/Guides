@@ -317,6 +317,7 @@ After rescueing a mole from the Light Shrine who will be standing outside near t
 _Get the Bubble Armor. Hopefully it's not carbon dioxide._
 </pre></big>
 
+Story-related. Will trigger after returning from Southerta by talking to the mermaid in the south of St. Elles.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214193.png">
 
@@ -325,6 +326,7 @@ _Get the Bubble Armor. Hopefully it's not carbon dioxide._
 _Find a magical soul to protect all creatures._
 </pre></big>
 
+Story-related. Will trigger after returning from Rockbird by talking to the angelfish in the south-east of St. Elles.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214148.png">
 
@@ -333,6 +335,7 @@ _Find a magical soul to protect all creatures._
 _Walk across magma and get the Critical Sword._
 </pre></big>
 
+After having stopped the volcano from erupting, go down two ledges and to the right to find a chest with the Critical Sword.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214163.png">
 
@@ -341,6 +344,7 @@ _Walk across magma and get the Critical Sword._
 _Get the Magic Flair._
 </pre></big>
 
+After having rescued the mermaid at Durean, go to the south-west of St. Elles and talk to her for this magic spell.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214182.png">
 
@@ -349,6 +353,7 @@ _Get the Magic Flair._
 _Get the Power Bracelet._
 </pre></big>
 
+In the final seabed area before heading to the Ghost Ship, go to the right in the small maze to reach a clearing with the chest waiting at the end.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214173.png">
 
@@ -357,6 +362,7 @@ _Get the Power Bracelet._
 _Make a dolphin's dreams come true and get The Master's Emblem D._
 </pre></big>
 
+There are multiple dolphins involved in this small sidequest. The first is rescued on Durean, which will appear on the west side of St. Elles and asks you to stand on his nose. Stand in front of him and he will bring you to a chest with the Big Pearl. Then rescue another dolphin at Blester, who will be sleeping in the same room where you rescued Lue the dolphin. Enter his dreams and give him the Big Pearl, after which you can toggle a switch that will open a cave in the final seabed area before heading to the Ghost Ship. Enter this cave for the Master's Emblem D.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214222.png">
 
@@ -365,6 +371,7 @@ _Make a dolphin's dreams come true and get The Master's Emblem D._
 _Traverse the Ghost Ship and defeat the Floating Skull all without getting hit._
 </pre></big>
 
+Ironically the hardest part about this fight is getting to the Floating Skull unharmed. Learn where the fish jump and stay far enough away from them, because the wood splinters will hurt you. The fires will only shoot out fireballs once you pass them, so keep that in mind. After a small tour you'll reach the hull, where you are always safe on the right side of it. The skull itself will go down every few second, attack it three times and then head back to the safe zone. The hands will die in one hit to magic, so make sure you have enough gems stocked up. Equipping the Power Bracelet will also be effective as it reduces the amount of hits necessary to kill the boss.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214187.png">
 
@@ -373,6 +380,7 @@ _Traverse the Ghost Ship and defeat the Floating Skull all without getting hit._
 _Defeat Deathtoll's forces at St. Elle's and receive the Blue Stone._
 </pre></big>
 
+Story-related. Will trigger after returning to St. Elles and talking to the Mermain Queen after having defeated the Floating Skull.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214157.png">
 
