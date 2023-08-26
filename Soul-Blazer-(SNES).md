@@ -1,14 +1,740 @@
-[Soul Blazer](https://retroachievements.org/game/1168) game page
+This guide is currently WIP. Please come back soon for the completed guide!
 
-## List of missable achievements
+# 1) Synopsis
 
-Total: 6
-Every No hit Boss achievements.
+|   |   |
+|:--|:--|
+|Set Difficulty|Number between 1 to 10|
+|Approximate time to master|Time needed in hours)|
+|Minimum numbers of playthroughs needed|If more than one, specify the reason (like difficulty)|
+|Number of missable achievements|If the number is <5, specify what achievements|
+|Does difficulty affect achievements?|Yes/No/Not applicable|
+|Hardest achievement of the set|Achievement name here|
 
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/05494.png)](https://retroachievements.org/Achievement/4868) (1)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/32105.png)](https://retroachievements.org/Achievement/31331) (2)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/32207.png)](https://retroachievements.org/Achievement/31449) (3)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/32227.png)](https://retroachievements.org/Achievement/31468) (4)
+# 2) Introduction
 
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/32274.png)](https://retroachievements.org/Achievement/31487) (5)
-[![](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/32313.png)](https://retroachievements.org/Achievement/31552) (6)
+In this section, you can give a short synopsis about the game, your feelings about the set, as well as placing credits to the achievement set makers if you so desire.
+
+# 3) Walkthrough
+
+[**Step 1: Dummy Step**](#step-1-dummy-step--total-points-999)
+
+Here you can give a detailed explanation about every step, such as what the achievements are about, if there are any missables in this step, general tips to make sure every achievement is gotten in one run etc.
+
+To make this header link to the section with these achievements, go to where the step is and hover over the header. A link icon should be visible on the left of the header, which you can right-click + copy and then paste where #step-1-dummy-step--total-points-999 currently is. Remove everything of the link before "step".
+
+You can create as many steps as you desire. Recommended is to have one step dedicated to unmissable story achievements, while the others cover game-specific steps (like no-damage bosses, item collection etc.)
+
+If the step has missables, be sure to make a bulletpoint list like below to inform the reader right away.
+
+* [Missable achievement 1](Link to achievement)
+* [Missable achievement 2](Link to achievement)
+* [Missable achievement 3](Link to achievement)
+
+***
+
+[**Step 2: Dummy Step 2**](#step-2-dummy-step-2--total-points-999)
+
+Dummy step. Remove if unnecessary.
+
+***
+
+[**Step 3: Dummy Step 3**](#step-3-dummy-step-3--total-points-999)
+
+Dummy step. Remove if unnecessary.
+
+# 4) Dummy Section (conclusion/tips and tricks)
+
+Dummy section that can be used for any other comments not already applied in the previous three sections. Remove for yourself if not necessary.
+
+***
+
+## Step 1: Dummy Step | **Total points: 999**
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214146.png">
+
+<big><pre>
+[Now Go and Save the World (2)](https://retroachievements.org/achievement/4761)
+_Get the Sword of Life. You're on a mission from God._
+</pre></big>
+
+Story-related. Triggers right after opening the chest in the tutorial area.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214191.png">
+
+<big><pre>
+[I Used To Live Up in the Sky (3)](https://retroachievements.org/achievement/4762)
+_Find a magical soul to bring magic back to this world._
+</pre></big>
+
+Story-related. Triggers after clearing the first monster lair in the tutorial area and talking to the wizard.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214200.png">
+
+<big><pre>
+[Vines and Bridges and Widows, Oh My (5)](https://retroachievements.org/achievement/4763)
+_Sealed every monster lair in Underground Castle, west_
+</pre></big>
+
+There are a total of 14 monster lairs in the Underground Castle, west screen. See the map below for all the locations.
+
+<details>
+<summary>
+
+### Map
+</summary>
+
+![](https://www.snesmaps.com/maps/SoulBlazer/LabeledMaps/004UndergroundCastleWest.png)
+
+</details>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214217.png">
+
+<big><pre>
+[Where Are You? (2)](https://retroachievements.org/achievement/4768)
+_A girl searches for her lost father, but finds him only in dreams._
+</pre></big>
+
+Story-related. Triggers after using the Dream Rod on Lisa and finished the dream sequence.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214201.png">
+
+<big><pre>
+[Sleepy Girls and Screaming Men (5)](https://retroachievements.org/achievement/4769)
+_Sealed every monster lair in Underground Castle, east_
+</pre></big>
+
+There are a total of 15 monster lairs in the Underground Castle, east screen. See the map below for all the locations.
+
+<details>
+<summary>
+
+### Map
+</summary>
+
+![](https://www.snesmaps.com/maps/SoulBlazer/LabeledMaps/005UndergroundCastleEast.png)
+
+</details>
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214202.png">
+
+<big><pre>
+[The Yellow Sign (5)](https://retroachievements.org/achievement/4771)
+_Sealed every monster lair in dr. Leo's painting_
+</pre></big>
+
+There are a total of 17 monster lairs in Dr. Leo's painting. This dungeon cannot be fully cleared before having obtained the Iron Sword. See the map below for all the locations.
+
+<details>
+<summary>
+
+### Map
+</summary>
+
+![](https://www.snesmaps.com/maps/SoulBlazer/LabeledMaps/006LeosPaintings.png)
+
+</details>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214218.png">
+
+<big><pre>
+[The Goat Saw Everything (2)](https://retroachievements.org/achievement/4866)
+_Find the hidden Medical Herb in Grass Valley_
+</pre></big>
+
+After having rescued a lonely goat from Dr. Leo's painting, find him in the south-east of the village and follow him on his tour. Once ht reaches the goat pen and mentions something he has seen in the corner, check the south-east corner of the pen and press A to gain a Medical Herb.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214169.png">
+
+<big><pre>
+[Kids Don't See Everything (5)](https://retroachievements.org/achievement/4867)
+_Find the hidden strange bottle in Grass Valley_
+</pre></big>
+
+After having rescued both boys from Dr. Leo's painting, go to the one in the south-east of the village. He will leave the house after you leave, standing next to a sleeping tulip. Head to the tulip again after re-entering the village, hold the L or R button to shove it aside for a pass. Go to the boy guarding the cave with this pass equipped, then proceed. When outside again, walk around on the right for this bottle.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214220.png">
+
+<big><pre>
+[Hitting Heavy Metal Mantis [m] (25)](https://retroachievements.org/achievement/4868)
+_Defeat Metal Mantis without getting hit._
+</pre></big>
+
+This boss may look intimidating, but it's actually really easy. The strategy is to hold the L or R button the entire time to hold out your sword for attacking. Then, go on either the left- or right conveyor belt and move close to attacking range when it's moving to the conveyor belt you're on. Get in a few poking attacks, two or three at most to be safe, then withdraw back to the platform behind you and move to the conveyor belt on the opposite side while making a pause at the middle belt to prevent it's fireball attack. Repeat the same strategy until it is dead.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214185.png">
+
+<big><pre>
+[Grass Valley (5)](https://retroachievements.org/achievement/4869)
+_Defeat Deathtoll's forces in Grass valley and get the Brown Stone._
+</pre></big>
+
+Story-related. Triggers after talking to the village chief in his house after defeating the Metal Mantis.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214154.png">
+
+<big><pre>
+[The Vine's Gift (2)](https://retroachievements.org/achievement/27364)
+_Get the Iron Armor. It's better than nothing!_
+</pre></big>
+
+After releasing an Ivy below the goat pen from a monster lair in the Underground Castle, East side, head down the ivy and into the cave to find the Iron Armor.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214204.png">
+
+<big><pre>
+[Hungry Squirrels and Friendly Crocs (5)](https://retroachievements.org/achievement/27404)
+_Seal all the monster lairs in the Water Shrine_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214162.png">
+
+<big><pre>
+[Four Way (5)](https://retroachievements.org/achievement/31287)
+_Find the "Light" Arrow magic._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214155.png">
+
+<big><pre>
+[Dendroid Dreams (2)](https://retroachievements.org/achievement/31288)
+_Get the Ice Armor. Hot metal won't bother you now!_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214192.png">
+
+<big><pre>
+[I Light Up the Darkness (3)](https://retroachievements.org/achievement/31289)
+_Find a magical soul to bring light to the world._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214221.png">
+
+<big><pre>
+[Stoning the Stone Lion Heads [m] (25)](https://retroachievements.org/achievement/31331)
+_Defeat the Stone Lion Heads without getting hit._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214186.png">
+
+<big><pre>
+[Turbo's Resting Place (5)](https://retroachievements.org/achievement/31332)
+_Defeat Deathtoll's forces at GreenWood and receive the Green Stone._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214196.png">
+
+<big><pre>
+[Angelo (5)](https://retroachievements.org/achievement/31333)
+_Reach EXP level 10 and become a servant of The Master._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214197.png">
+
+<big><pre>
+[Throne (5)](https://retroachievements.org/achievement/31334)
+_Reach EXP level 20. Do you feel the power of The Master?_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214198.png">
+
+<big><pre>
+[Cherub (10)](https://retroachievements.org/achievement/31335)
+_Reach EXP level 30 by driving the forces of Deathtoll from this world._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214199.png">
+
+<big><pre>
+[Seraph (10)](https://retroachievements.org/achievement/31336)
+_Reach EXP level 40 and rebuke the forces of evil._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214172.png">
+
+<big><pre>
+[Ninkilim (5)](https://retroachievements.org/achievement/31338)
+_Convince a squirrel to give you The Master's Emblem C._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214147.png">
+
+<big><pre>
+[Food for War (2)](https://retroachievements.org/achievement/31339)
+_Trade the Delicious Seeds for the Psycho Sword._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214183.png">
+
+<big><pre>
+[Legacy of Monmo (3)](https://retroachievements.org/achievement/31340)
+_Help two wandering spririts remember love and get the Shield Bracelet._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214156.png">
+
+<big><pre>
+[I'll Never Let You Go, Jack (2)](https://retroachievements.org/achievement/31341)
+_Get the Bubble Armor. Hopefully it's not carbon dioxide._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214193.png">
+
+<big><pre>
+[I Will Protect You (3)](https://retroachievements.org/achievement/31390)
+_Find a magical soul to protect all creatures._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214148.png">
+
+<big><pre>
+[Sacrifice of Fire (2)](https://retroachievements.org/achievement/31391)
+_Walk across magma and get the Critical Sword._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214163.png">
+
+<big><pre>
+[Purple Bombs (5)](https://retroachievements.org/achievement/31392)
+_Get the Magic Flair._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214182.png">
+
+<big><pre>
+[It Was Just Sitting There... (3)](https://retroachievements.org/achievement/31426)
+_Get the Power Bracelet._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214173.png">
+
+<big><pre>
+[Prohodna (5)](https://retroachievements.org/achievement/31448)
+_Make a dolphin's dreams come true and get The Master's Emblem D._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214222.png">
+
+<big><pre>
+[Flushing the Floating Skull [m] (25)](https://retroachievements.org/achievement/31449)
+_Traverse the Ghost Ship and defeat the Floating Skull all without getting hit._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214187.png">
+
+<big><pre>
+[The Underwater Level (5)](https://retroachievements.org/achievement/31450)
+_Defeat Deathtoll's forces at St. Elle's and receive the Blue Stone._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214157.png">
+
+<big><pre>
+[It's Too Cold to Wear (2)](https://retroachievements.org/achievement/31451)
+_Find the Magic Armor buried in the snow._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214149.png">
+
+<big><pre>
+[Gettin' Lucky (2)](https://retroachievements.org/achievement/31463)
+_Find the Lucky Blade and those sweet, sweet GEMs._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214164.png">
+
+<big><pre>
+[You Spin Me... (5)](https://retroachievements.org/achievement/31464)
+_Find the Rotator magic for those pesky bats._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214175.png">
+
+<big><pre>
+[Teonanacatl (5)](https://retroachievements.org/achievement/31465)
+_Get The Master's Emblem F with some fungal assistance._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214174.png">
+
+<big><pre>
+[Nerites (5)](https://retroachievements.org/achievement/31466)
+_Get The Master's Emblem E from a hidden snail._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214210.png">
+
+<big><pre>
+[Snails and Shrooms (and gnomes) (5)](https://retroachievements.org/achievement/31467)
+_Sealed every monster lair in The Mountain of Souls._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214223.png">
+
+<big><pre>
+[Pushing Poseidon [m] (25)](https://retroachievements.org/achievement/31468)
+_Defeat Poseidon without getting hit._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214188.png">
+
+<big><pre>
+[Nome Isn't a Gnome (5)](https://retroachievements.org/achievement/31469)
+_Defeat Deathtoll's forces at The Mountain of Souls and receive the Silver Stone_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214150.png">
+
+<big><pre>
+[Finally! (3)](https://retroachievements.org/achievement/31470)
+_Get the Zantetsu Sword. Now go back and seal those lairs!_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214167.png">
+
+<big><pre>
+[It Will Come... (5)](https://retroachievements.org/achievement/31471)
+_Get the Tornado magic. It smells like paint..._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214152.png">
+
+<big><pre>
+[Like a Vampire (5)](https://retroachievements.org/achievement/31472)
+_Convince a certain fairy to give you the Recovery Sword._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214170.png">
+
+<big><pre>
+[Dionysis (5)](https://retroachievements.org/achievement/31473)
+_Climb and dig to find The Master's Emblem A._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214205.png">
+
+<big><pre>
+[Heat of the Grave (5)](https://retroachievements.org/achievement/31474)
+_Seal all the lairs in the fire shrine._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214181.png">
+
+<big><pre>
+[The Phoenix Resides on the Stick (5)](https://retroachievements.org/achievement/31475)
+_Save the Red-Hot Stick from the metal apes._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214207.png">
+
+<big><pre>
+[Lots of Sea Dwelling Mammals (5)](https://retroachievements.org/achievement/31476)
+_Sealed every monster lair in Southerta and the Seabed of St Elle's._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214208.png">
+
+<big><pre>
+[Magma and Water (5)](https://retroachievements.org/achievement/31477)
+_Sealed every monster lair in Rockbird and Durean._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214209.png">
+
+<big><pre>
+[A Sound of Thunder (5)](https://retroachievements.org/achievement/31478)
+_Sealed every monster lair on Blester and on the Ghost Ship._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214158.png">
+
+<big><pre>
+[Invincible (for a second) (3)](https://retroachievements.org/achievement/31480)
+_Get the Mystic Armor._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214176.png">
+
+<big><pre>
+[Hestia (5)](https://retroachievements.org/achievement/31481)
+_Find the household Master's Emblem G._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214211.png">
+
+<big><pre>
+[Kill Robots to Make Doors! (5)](https://retroachievements.org/achievement/31482)
+_Sealed every monster lair in the Basement of the Laboratory and Power Plant._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214194.png">
+
+<big><pre>
+[They Need Doors in Heaven, Too (3)](https://retroachievements.org/achievement/31483)
+_Find a magical soul to reveal hidden enemies._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214212.png">
+
+<big><pre>
+[Does the Real Town Have So Many Monsters? (5)](https://retroachievements.org/achievement/31484)
+_Sealed every monster lair in the town models._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214165.png">
+
+<big><pre>
+[Rattus Rattus (5)](https://retroachievements.org/achievement/31485)
+_Convince the nice rat to give you the Spark Bomb magic._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214159.png">
+
+<big><pre>
+[Not Really Invincible (4)](https://retroachievements.org/achievement/31486)
+_Get the Light Armor. It is invincibility, after a fashion._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214224.png">
+
+<big><pre>
+[Terrorizing the Tin Doll [m] (25)](https://retroachievements.org/achievement/31487)
+_Defeat the Tin Doll without getting hit._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214189.png">
+
+<big><pre>
+[Doctor's Doll (5)](https://retroachievements.org/achievement/31488)
+_Defeat Deathtoll's forces at Doctor Leo's laboratory and get the Purple Stone._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214203.png">
+
+<big><pre>
+[Craving Critters and Beastie Bedtime (5)](https://retroachievements.org/achievement/31538)
+_Seal all the monster lairs in Lotside and GreenWood._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214151.png">
+
+<big><pre>
+[Ghost Buster (4)](https://retroachievements.org/achievement/31539)
+_Find the Sprit Sword and put those tortured souls to rest...THE HARD WAY._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214166.png">
+
+<big><pre>
+[By Fire, Be Purged! (5)](https://retroachievements.org/achievement/31540)
+_Light up the darkness and get the Flame Pillar magic_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214206.png">
+
+<big><pre>
+[Bringer of Light (5)](https://retroachievements.org/achievement/31541)
+_Sealed every monster lair in the Light Shrine_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214179.png">
+
+<big><pre>
+[3spooky5me (5)](https://retroachievements.org/achievement/31542)
+_Get the Red-Hot Mirror. Please don't sneak up behind that bird anymore._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214171.png">
+
+<big><pre>
+[Ophthalmitis (5)](https://retroachievements.org/achievement/31543)
+_Have someone help you see The Master's Emblem B._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214160.png">
+
+<big><pre>
+[DANGER ZONE (5)](https://retroachievements.org/achievement/31544)
+_Does Leo still dream of regret? Get the Elemental Mail._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214213.png">
+
+<big><pre>
+[Revenants for Halberdiers (5)](https://retroachievements.org/achievement/31545)
+_Sealed every monster lair in the torture chamber and basement of Castle Magridd_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214195.png">
+
+<big><pre>
+[I Know All of the Invisible Passages (3)](https://retroachievements.org/achievement/31546)
+_Find a magical soul to reveal the truth._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214214.png">
+
+<big><pre>
+[My Left or Your Left? (5)](https://retroachievements.org/achievement/31547)
+_Sealed every monster lair in the left tower of Castle Magridd._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214177.png">
+
+<big><pre>
+[Jahbulon (5)](https://retroachievements.org/achievement/31548)
+_Find The Master's Emblem H that the stone mason hid._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214184.png">
+
+<big><pre>
+[Honey, You Got Real Ugly (5)](https://retroachievements.org/achievement/31549)
+_Find the awful queen's Invulnerable...er...Super Bracelet._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214178.png">
+
+<big><pre>
+[Merlin, Gandalf, Dumbledore, YOU (5)](https://retroachievements.org/achievement/31550)
+_With the help of a deer and a fairy, get the Magic Bell._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214215.png">
+
+<big><pre>
+[Everybody Looks Left, You Go Right (5)](https://retroachievements.org/achievement/31551)
+_Sealed every monster lair in the right tower of Castle Magridd._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214225.png">
+
+<big><pre>
+[Defeating the Demon Falcon [m] (50)](https://retroachievements.org/achievement/31552)
+_Defeat the Demon Falcon without getting hit._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214190.png">
+
+<big><pre>
+[Sold Everyone's Soul But His Own (5)](https://retroachievements.org/achievement/31553)
+_Defeat Deathtoll's forces at Magridd Castle and get the Black Stone._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214180.png">
+
+<big><pre>
+[A Phoenix Needs Its Ball (5)](https://retroachievements.org/achievement/31554)
+_Get the Red-Hot Ball from outerrrrrr spaaaaace._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214168.png">
+
+<big><pre>
+[Garuda (5)](https://retroachievements.org/achievement/31555)
+_Get the Phoenix magic._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214161.png">
+
+<big><pre>
+[Space Suit (5)](https://retroachievements.org/achievement/31556)
+_Get the Soul Armor so you don't violently decompress._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214153.png">
+
+<big><pre>
+[You Cannot, but You May (5)](https://retroachievements.org/achievement/31557)
+_Wrest the Soul Blade from Deathtoll's grip._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214216.png">
+
+<big><pre>
+[Space Demons (5)](https://retroachievements.org/achievement/31558)
+_Sealed every monster lair in The World of Evil._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214226.png">
+
+<big><pre>
+[Destroying Deathtoll (25)](https://retroachievements.org/achievement/31559)
+_Defeat Deathtoll's demon form without getting hit._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214219.png">
+
+<big><pre>
+[Save the Dang World (25)](https://retroachievements.org/achievement/31560)
+_Defeat Deathtoll and banish Evil from this world._
+</pre></big>
