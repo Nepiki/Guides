@@ -389,6 +389,7 @@ Story-related. Will trigger after returning to St. Elles and talking to the Merm
 _Find the Magic Armor buried in the snow._
 </pre></big>
 
+This armour can be uncovered by clearing the last monster lair in the Aurora Ridge, which will make four chests appear.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214149.png">
 
@@ -397,6 +398,7 @@ _Find the Magic Armor buried in the snow._
 _Find the Lucky Blade and those sweet, sweet GEMs._
 </pre></big>
 
+In the Ice Field of Laynole, the map where you will reach a dead end and are forced to go back to the hub area, there are invisible bridges that show themselves every 5 seconds. For the Lucky Blade, you need to find one near the north side of the area to reach a chest.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214164.png">
 
@@ -405,6 +407,7 @@ _Find the Lucky Blade and those sweet, sweet GEMs._
 _Find the Rotator magic for those pesky bats._
 </pre></big>
 
+In the Ice Field of Laynole with the entrance taken from the Mountain of Souls, go up the slopes and watch out of an invisible bridge that shows itself every 5 seconds. Walk across it to reach a monster lair that will result in a chest.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214175.png">
 
@@ -413,6 +416,7 @@ _Find the Rotator magic for those pesky bats._
 _Get The Master's Emblem F with some fungal assistance._
 </pre></big>
 
+In the final area before the boss, there is a monster lair that will release a sleeping mushroom in jail. Enter its dream and open a path that you need to return to outside of the dream, where you will find this emblem.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214174.png">
 
@@ -421,6 +425,7 @@ _Get The Master's Emblem F with some fungal assistance._
 _Get The Master's Emblem E from a hidden snail._
 </pre></big>
 
+After having released the snail in the final area before the boss, head to where the portal is in the main hub and go south through a hidden path in the walls to reach him.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214210.png">
 
@@ -429,6 +434,7 @@ _Get The Master's Emblem E from a hidden snail._
 _Sealed every monster lair in The Mountain of Souls._
 </pre></big>
 
+WIP
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214223.png">
 
@@ -437,6 +443,12 @@ _Sealed every monster lair in The Mountain of Souls._
 _Defeat Poseidon without getting hit._
 </pre></big>
 
+This boss is really easy to do. Like the first boss, you want to keep holding your sword in front of you with the L or R buttons. Then, depending on where he is:
+
+- When he is in the middle, start all the way down so that you avoid his fireball attack from the trident, then walk up and remain in the middle of the boss' sprite. Keep standing there as the next fireball attack will miss you.
+- When he is left or right, avoid the trident fireball attack by heading opposite of which hand the trident is in, then go to the middle of the boss' sprite. Again, remain where you are when he uses his fireball attack as they will miss you.
+
+That's all there is to it. If you have trouble with the boss being on the left/right side, just focus on when he surfaces in the middle. If he is on the left- or right side while you remain in the top of the middle where you attacked him before he went underwater, he will be unable to hit you from there.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214188.png">
 
@@ -445,6 +457,7 @@ _Defeat Poseidon without getting hit._
 _Defeat Deathtoll's forces at The Mountain of Souls and receive the Silver Stone_
 </pre></big>
 
+Story-related. Triggers after talking to Nome the Snail, who will be released from prison after talking to the King.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214150.png">
 
@@ -453,6 +466,7 @@ _Defeat Deathtoll's forces at The Mountain of Souls and receive the Silver Stone
 _Get the Zantetsu Sword. Now go back and seal those lairs!_
 </pre></big>
 
+This sword can be found in the room north of the entrance in Dr. Leo's Laboratory. To get the door to appear there, head downstairs and take care of the monster lair north of you, then the one east of there.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214167.png">
 
@@ -461,6 +475,7 @@ _Get the Zantetsu Sword. Now go back and seal those lairs!_
 _Get the Tornado magic. It smells like paint..._
 </pre></big>
 
+Once you have the Zantetsu Sword, head back to Leo's Painting and take care of the first monster lair with mechanical enemies. A chest will appear with the Tornado magic.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214152.png">
 
@@ -469,6 +484,7 @@ _Get the Tornado magic. It smells like paint..._
 _Convince a certain fairy to give you the Recovery Sword._
 </pre></big>
 
+Once you have the Zantetsu Sword, head back to Leo's Painting and take care of the last monster lair with mechanical enemies. An Ivy will spawn in the cave behind the kid requiring a pass, which will bring you to a crystal with a fairy who will give you this sword.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214170.png">
 
@@ -477,6 +493,7 @@ _Convince a certain fairy to give you the Recovery Sword._
 _Climb and dig to find The Master's Emblem A._
 </pre></big>
 
+Once you have the Zantetsu Sword, head back to Leo's Painting and take care of the middle monster lair with mechanical enemies. An Ivy will spawn that leads to an empty-looking ridge. Head here and press the A button to find the Master's Emblem A.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214205.png">
 
@@ -485,6 +502,7 @@ _Climb and dig to find The Master's Emblem A._
 _Seal all the lairs in the fire shrine._
 </pre></big>
 
+WIP. Zantetsu Sword.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214181.png">
 
@@ -493,6 +511,7 @@ _Seal all the lairs in the fire shrine._
 _Save the Red-Hot Stick from the metal apes._
 </pre></big>
 
+Once you have the Zantetsu Sword, head back to Durean where you had to pass on a monster lair with Metal Apes. Defeating the monster lair will rescue a mermaid located in the south of St. Elles, who will give you the Red-Hot Stick.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214207.png">
 
