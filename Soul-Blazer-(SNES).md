@@ -43,13 +43,9 @@ Dummy step. Remove if unnecessary.
 
 Dummy step. Remove if unnecessary.
 
-# 4) Dummy Section (conclusion/tips and tricks)
-
-Dummy section that can be used for any other comments not already applied in the previous three sections. Remove for yourself if not necessary.
-
 ***
 
-## Step 1: Dummy Step | **Total points: 999**
+## Step 1: Story Achievements | **Total points: 999**
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214146.png">
 
@@ -58,8 +54,8 @@ Dummy section that can be used for any other comments not already applied in the
 _Get the Sword of Life. You're on a mission from God._
 </pre></big>
 
-Story-related. Triggers right after opening the chest in the tutorial area.
-    
+Triggers right after opening the chest in the tutorial area.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214191.png">
 
 <big><pre>
@@ -67,27 +63,8 @@ Story-related. Triggers right after opening the chest in the tutorial area.
 _Find a magical soul to bring magic back to this world._
 </pre></big>
 
-Story-related. Triggers after clearing the first monster lair in the tutorial area and talking to the wizard.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214200.png">
+Triggers after clearing the first monster lair in the tutorial area and talking to the wizard.
 
-<big><pre>
-[Vines and Bridges and Widows, Oh My (5)](https://retroachievements.org/achievement/4763)
-_Sealed every monster lair in Underground Castle, west_
-</pre></big>
-
-There are a total of 14 monster lairs in the Underground Castle, west screen. See the map below for all the locations.
-
-<details>
-<summary>
-
-### Map
-</summary>
-
-![UndergroundCastleWest](https://github.com/RetroAchievements/guides/assets/76693803/812edf7e-e514-4cf3-8195-3b7f61f616bd)
-
-</details>
-    
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214217.png">
 
 <big><pre>
@@ -95,8 +72,183 @@ There are a total of 14 monster lairs in the Underground Castle, west screen. Se
 _A girl searches for her lost father, but finds him only in dreams._
 </pre></big>
 
-Story-related. Triggers after using the Dream Rod on Lisa and finished the dream sequence.
-    
+Triggers after using the Dream Rod on Lisa and finishing the dream sequence.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214185.png">
+
+<big><pre>
+[Grass Valley (5)](https://retroachievements.org/achievement/4869)
+_Defeat Deathtoll's forces in Grass valley and get the Brown Stone._
+</pre></big>
+
+Triggers after talking to the village chief in his house after defeating the Metal Mantis.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214192.png">
+
+<big><pre>
+[I Light Up the Darkness (3)](https://retroachievements.org/achievement/31289)
+_Find a magical soul to bring light to the world._
+</pre></big>
+
+After releasing the mole from the Water Shrine, head to town and go in the rightmost hole. Talk to the mole here to have him accompany you.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214186.png">
+
+<big><pre>
+[Turbo's Resting Place (5)](https://retroachievements.org/achievement/31332)
+_Defeat Deathtoll's forces at GreenWood and receive the Green Stone._
+</pre></big>
+
+Triggers right after coming back to GreenWood after defeating the Elemental Statues.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214156.png">
+
+<big><pre>
+[I'll Never Let You Go, Jack (2)](https://retroachievements.org/achievement/31341)
+_Get the Bubble Armor. Hopefully it's not carbon dioxide._
+</pre></big>
+
+Triggers after returning from Southerta by talking to the mermaid in the south of St. Elles.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214193.png">
+
+<big><pre>
+[I Will Protect You (3)](https://retroachievements.org/achievement/31390)
+_Find a magical soul to protect all creatures._
+</pre></big>
+
+Trigger after returning from Rockbird by talking to the angelfish in the south-east of St. Elles.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214187.png">
+
+<big><pre>
+[The Underwater Level (5)](https://retroachievements.org/achievement/31450)
+_Defeat Deathtoll's forces at St. Elle's and receive the Blue Stone._
+</pre></big>
+
+Trigger after returning to St. Elles and talking to the Mermain Queen after having defeated the Floating Skull.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214188.png">
+
+<big><pre>
+[Nome Isn't a Gnome (5)](https://retroachievements.org/achievement/31469)
+_Defeat Deathtoll's forces at The Mountain of Souls and receive the Silver Stone_
+</pre></big>
+
+Triggers after talking to Nome the Snail, who will be released from prison after talking to the King.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214150.png">
+
+<big><pre>
+[Finally! (3)](https://retroachievements.org/achievement/31470)
+_Get the Zantetsu Sword. Now go back and seal those lairs!_
+</pre></big>
+
+This sword can be found in the room north of the entrance in Dr. Leo's Laboratory. To get the door to appear there, head downstairs and take care of the monster lair north of you, then the one east of there.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214194.png">
+
+<big><pre>
+[They Need Doors in Heaven, Too (3)](https://retroachievements.org/achievement/31483)
+_Find a magical soul to reveal hidden enemies._
+</pre></big>
+
+After having released the door from the town model on the same floor, _talk_ to it and the soul will accompany you.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214189.png">
+
+<big><pre>
+[Doctor's Doll (5)](https://retroachievements.org/achievement/31488)
+_Defeat Deathtoll's forces at Doctor Leo's laboratory and get the Purple Stone._
+</pre></big>
+
+Triggers after talking to the doll on the third floor after having defeated the Tin Doll.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214151.png">
+
+<big><pre>
+[Ghost Buster (4)](https://retroachievements.org/achievement/31539)
+_Find the Sprit Sword and put those tortured souls to rest...THE HARD WAY._
+</pre></big>
+
+This sword can be found in the basement of Castle Magridd and is mandatory to proceed.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214195.png">
+
+<big><pre>
+[I Know All of the Invisible Passages (3)](https://retroachievements.org/achievement/31546)
+_Find a magical soul to reveal the truth._
+</pre></big>
+
+After releasing the Soldier soul in the left tower of Castle Magridd, head back to town and talk to the soldier you just released for it to accompany you.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214190.png">
+
+<big><pre>
+[Sold Everyone's Soul But His Own (5)](https://retroachievements.org/achievement/31553)
+_Defeat Deathtoll's forces at Magridd Castle and get the Black Stone._
+</pre></big>
+
+Triggers after talking to the king of Castle Magridd after having defeated the Demon Falcon.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214181.png">
+
+<big><pre>
+[The Phoenix Resides on the Stick (5)](https://retroachievements.org/achievement/31475)
+_Save the Red-Hot Stick from the metal apes._
+</pre></big>
+
+Once you have the Zantetsu Sword, head back to Durean where you had to pass on a monster lair with Metal Apes. Defeating the monster lair will rescue a mermaid located in the south of St. Elles, who will give you the Red-Hot Stick.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214179.png">
+
+<big><pre>
+[3spooky5me (5)](https://retroachievements.org/achievement/31542)
+_Get the Red-Hot Mirror. Please don't sneak up behind that bird anymore._
+</pre></big>
+
+Once you have the Spirit Sword, head back to the Light Shrine where you couldn't defeat the diagonal-moving light balls. Defeat them on the bottom floor to rescue a bird. Approach this bird in town after which it will fly away, then follow it to the opposite side of the village and approach it from behind to receive the Red-Hot Mirror.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214180.png">
+
+<big><pre>
+[A Phoenix Needs Its Ball (5)](https://retroachievements.org/achievement/31554)
+_Get the Red-Hot Ball from outerrrrrr spaaaaace._
+</pre></big>
+
+On the first screen of the World of Evil, use magic to kill the enemies you can't reach near the end, causing a teleport to appear. You can use this teleport from the shrine, bringing you to the chest with the Red-Hot Ball.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214168.png">
+
+<big><pre>
+[Garuda (5)](https://retroachievements.org/achievement/31555)
+_Get the Phoenix magic._
+</pre></big>
+
+After having all three of the Red-Hot items, bring them to the King at the Mountain of Souls for him to turn them into the Phoenix magic.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214219.png">
+
+<big><pre>
+[Save the Dang World (25)](https://retroachievements.org/achievement/31560)
+_Defeat Deathtoll and banish Evil from this world._
+</pre></big>
+
+Triggers after having defeated the final boss of the game. Congratulations!
+
+
+
+### Grass Valley
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214200.png">
+
+<big><pre>
+[Vines and Bridges and Widows, Oh My (5)](https://retroachievements.org/achievement/4763)
+_Sealed every monster lair in Underground Castle, west_
+</pre></big>
+
+There are a total of 14 monster lairs in the Underground Castle, west screen. All of them can be done on your first visit, except for one that you need to repair the elevator for.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214201.png">
 
 <big><pre>
@@ -104,37 +256,17 @@ Story-related. Triggers after using the Dream Rod on Lisa and finished the dream
 _Sealed every monster lair in Underground Castle, east_
 </pre></big>
 
-There are a total of 15 monster lairs in the Underground Castle, east screen. See the map below for all the locations.
+There are a total of 15 monster lairs in the Underground Castle, east screen. Two of them can only be done after having visited Lisa in her dream.
 
-<details>
-<summary>
-
-### Map
-</summary>
-
-![UndergroundCastleEast](https://github.com/RetroAchievements/guides/assets/76693803/4d98fbd1-3115-4b5c-817d-6858131db2b0)
-
-</details>
-
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214202.png">
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214154.png">
 
 <big><pre>
-[The Yellow Sign (5)](https://retroachievements.org/achievement/4771)
-_Sealed every monster lair in dr. Leo's painting_
+[The Vine's Gift (2)](https://retroachievements.org/achievement/27364)
+_Get the Iron Armor. It's better than nothing!_
 </pre></big>
 
-There are a total of 17 monster lairs in Dr. Leo's painting. This dungeon cannot be fully cleared before having obtained the Zantetsu Sword. See the map below for all the locations.
+After releasing an Ivy below the goat pen from a monster lair in the Underground Castle, East side, head down the ivy and into the cave to find the Iron Armor.
 
-<details>
-<summary>
-
-### Map
-</summary>
-
-![LeoPainting](https://github.com/RetroAchievements/guides/assets/76693803/175b1535-dc58-4db6-b03a-bed8c7871686)
-
-</details>
-    
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214218.png">
 
 <big><pre>
@@ -142,7 +274,7 @@ There are a total of 17 monster lairs in Dr. Leo's painting. This dungeon cannot
 _Find the hidden Medical Herb in Grass Valley_
 </pre></big>
 
-After having rescued a lonely goat from Dr. Leo's painting, find him in the south-east of the village and follow him on his tour. Once ht reaches the goat pen and mentions something he has seen in the corner, check the south-east corner of the pen and press A to gain a Medical Herb.
+After having rescued a lonely goat from Dr. Leo's painting, find him in the south-east of the village and follow him on his tour. Once he reaches the goat pen and mentions something he has seen in the corner, check the south-east corner of the pen and press A to gain a Medical Herb.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214169.png">
 
@@ -152,34 +284,55 @@ _Find the hidden strange bottle in Grass Valley_
 </pre></big>
 
 After having rescued both boys from Dr. Leo's painting, go to the one in the south-east of the village. He will leave the house after you leave, standing next to a sleeping tulip. Head to the tulip again after re-entering the village, hold the L or R button to shove it aside for a pass. Go to the boy guarding the cave with this pass equipped, then proceed. When outside again, walk around on the right for this bottle.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214220.png">
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214202.png">
 
 <big><pre>
-[Hitting Heavy Metal Mantis [m] (25)](https://retroachievements.org/achievement/4868)
-_Defeat Metal Mantis without getting hit._
+[The Yellow Sign (5)](https://retroachievements.org/achievement/4771)
+_Sealed every monster lair in dr. Leo's painting_
 </pre></big>
 
-This boss may look intimidating, but it's actually really easy. The strategy is to hold the L or R button the entire time to hold out your sword for attacking. Then, go on either the left- or right conveyor belt and move close to attacking range when it's moving to the conveyor belt you're on. Get in a few poking attacks, two or three at most to be safe, then withdraw back to the platform behind you and move to the conveyor belt on the opposite side while making a pause at the middle belt to prevent it's fireball attack. Repeat the same strategy until it is dead.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214185.png">
+**Requirements: Zantetsu Sword**
+
+There are a total of 17 monster lairs in Dr. Leo's painting. 14 of them can be done on first visit, 3 others can only be done after having obtained the Zantetsu Sword.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214167.png">
 
 <big><pre>
-[Grass Valley (5)](https://retroachievements.org/achievement/4869)
-_Defeat Deathtoll's forces in Grass valley and get the Brown Stone._
+[It Will Come... (5)](https://retroachievements.org/achievement/31471)
+_Get the Tornado magic. It smells like paint..._
 </pre></big>
 
-Story-related. Triggers after talking to the village chief in his house after defeating the Metal Mantis.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214154.png">
+**Requirements: Zantetsu Sword**
+
+Once you have the Zantetsu Sword, head back to Leo's Painting and take care of the first monster lair with mechanical enemies. A chest will appear with the Tornado magic.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214152.png">
 
 <big><pre>
-[The Vine's Gift (2)](https://retroachievements.org/achievement/27364)
-_Get the Iron Armor. It's better than nothing!_
+[Like a Vampire (5)](https://retroachievements.org/achievement/31472)
+_Convince a certain fairy to give you the Recovery Sword._
 </pre></big>
 
-After releasing an Ivy below the goat pen from a monster lair in the Underground Castle, East side, head down the ivy and into the cave to find the Iron Armor.
+**Requirements: Zantetsu Sword**
+
+Once you have the Zantetsu Sword, head back to Leo's Painting and take care of the last monster lair with mechanical enemies. An Ivy will spawn in the cave behind the kid requiring a pass, which will bring you to a crystal with a fairy who will give you this sword.
     
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214170.png">
+
+<big><pre>
+[Dionysis (5)](https://retroachievements.org/achievement/31473)
+_Climb and dig to find The Master's Emblem A._
+</pre></big>
+
+**Requirements: Zantetsu Sword**
+
+Once you have the Zantetsu Sword, head back to Leo's Painting and take care of the middle monster lair with mechanical enemies. An Ivy will spawn that leads to an empty-looking ridge. Head here and press the A button to find the Master's Emblem A.
+
+***
+
+### GreenWood
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214204.png">
 
 <big><pre>
@@ -187,18 +340,17 @@ After releasing an Ivy below the goat pen from a monster lair in the Underground
 _Seal all the monster lairs in the Water Shrine_
 </pre></big>
 
-There are a total of 15 monster lairs in the Water Shrine. Note that some are hidden under enemy statues that start teleporting around when you get near them. See the map below for all the locations.
+There are a total of 15 monster lairs in the Water Shrine. Note that some are hidden under enemy statues that start teleporting around when you get near them.
 
-<details>
-<summary>
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214147.png">
 
-### Map
-</summary>
+<big><pre>
+[Food for War (2)](https://retroachievements.org/achievement/31339)
+_Trade the Delicious Seeds for the Psycho Sword._
+</pre></big>
 
-![WaterShrine](https://github.com/RetroAchievements/guides/assets/76693803/062cea64-2e51-4fa6-957e-b07873d884af)
+The hungry squirrel is rescued early on in the marsh, while the Delicious Seeds are found in a chest in the Water Shrine. Once you have found them, go to the north-eastern treehouse and talk to the squirrel with the seeds equipped.
 
-</details>
-    
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214162.png">
 
 <big><pre>
@@ -216,72 +368,7 @@ _Get the Ice Armor. Hot metal won't bother you now!_
 </pre></big>
 
 After releasing the squirrel + stump combo from the Fire Shrine, go there and use the Dream Rod on the stump. While in the dream, go right and toggle the switch so you can go there when exiting the dream to reach this chest.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214192.png">
 
-<big><pre>
-[I Light Up the Darkness (3)](https://retroachievements.org/achievement/31289)
-_Find a magical soul to bring light to the world._
-</pre></big>
-
-After releasing the mole from the Water Shrine, head to town and go in the rightmost hole. Talk to the mole here to have him accompany you.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214221.png">
-
-<big><pre>
-[Stoning the Stone Lion Heads [m] (25)](https://retroachievements.org/achievement/31331)
-_Defeat the Stone Lion Heads without getting hit._
-</pre></big>
-
-This boss has two very easy phases, and a final one being a bit tricky to master.
-
-- **Phase 1** - This head can only attack with a T-shaped fire breath in the four main directions. Therefore, standing either north-east, north-west, south-east, or south-west from it will ensure that you will never get hit. Just keep spamming the attack button and this phase will be over in no time.
-- **Phase 2** - When you are standing at the position in the image below, this head will be unable to hurt you for the entire duration. If you still get hit, you are most likely standing too high. Make sure your bottom feet aligns with the bottom gray square.
-- **Phase 3** - The toughest part about this phase is the setup. You will want to use the stone in the middle to influence its pattern, as it can only go in four directions so if you are on the north-eastern side while the head is on the south-western side, it will first go up and then right to reach you. It won't go to your exact position but instead a bit beyond, so the strategy here is to remain on one of the four corners practically glued to the stone, when it comes towards you attack it a maximum of three times, then it will continue its pattern at which point you have to influence it by heading towards another corner and then back to your initial position. I hope this explanation makes sense, but if you can't visualize it, [this video](https://youtu.be/-ECGpYoG5KY?si=ig4c9ZVNv6hGengh&t=42) demonstrates it well.
-
-![ElementalStatues](https://github.com/RetroAchievements/guides/assets/76693803/8a918b47-42ed-4702-bd04-5c146f180f42)
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214186.png">
-
-<big><pre>
-[Turbo's Resting Place (5)](https://retroachievements.org/achievement/31332)
-_Defeat Deathtoll's forces at GreenWood and receive the Green Stone._
-</pre></big>
-
-Story-related. Will trigger right after coming back to GreenWood after defeating the Elemental Statues.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214196.png">
-
-<big><pre>
-[Angelo (5)](https://retroachievements.org/achievement/31333)
-_Reach EXP level 10 and become a servant of The Master._
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214197.png">
-
-<big><pre>
-[Throne (5)](https://retroachievements.org/achievement/31334)
-_Reach EXP level 20. Do you feel the power of The Master?_
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214198.png">
-
-<big><pre>
-[Cherub (10)](https://retroachievements.org/achievement/31335)
-_Reach EXP level 30 by driving the forces of Deathtoll from this world._
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214199.png">
-
-<big><pre>
-[Seraph (10)](https://retroachievements.org/achievement/31336)
-_Reach EXP level 40 and rebuke the forces of evil._
-</pre></big>
-
-    
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214172.png">
 
 <big><pre>
@@ -290,16 +377,7 @@ _Convince a squirrel to give you The Master's Emblem C._
 </pre></big>
 
 After having rescued the second squirrel in the north-eastern treehouse from the Light Shrine, talk to it for the Master's Emblem C.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214147.png">
 
-<big><pre>
-[Food for War (2)](https://retroachievements.org/achievement/31339)
-_Trade the Delicious Seeds for the Psycho Sword._
-</pre></big>
-
-The hungry squirrel is rescued early on in the marsh, while the Delicious Seeds are found in a chest in the Water Shrine. Once you have found them, go to the north-eastern treehouse and talk to the squirrel with the seeds equipped.
-    
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214183.png">
 
 <big><pre>
@@ -309,25 +387,21 @@ _Help two wandering spririts remember love and get the Shield Bracelet._
 
 After rescueing a mole from the Light Shrine who will be standing outside near the north-eastern treehouse, lead her to one of the holes south-west from there. When she's standing on it, talk to her and then go down for a treasure chest. Then, enter another hole and talk to the mole blocking your path with the ribbon you just got, then get past him and talk to the other mole for the Shield Bracelet. These two specific moles were rescued during the earlier two shrines.
 
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214156.png">
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214205.png">
 
 <big><pre>
-[I'll Never Let You Go, Jack (2)](https://retroachievements.org/achievement/31341)
-_Get the Bubble Armor. Hopefully it's not carbon dioxide._
+[Heat of the Grave (5)](https://retroachievements.org/achievement/31474)
+_Seal all the lairs in the fire shrine._
 </pre></big>
 
-Story-related. Will trigger after returning from Southerta by talking to the mermaid in the south of St. Elles.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214193.png">
+**Requirements: Zantetsu Sword**
 
-<big><pre>
-[I Will Protect You (3)](https://retroachievements.org/achievement/31390)
-_Find a magical soul to protect all creatures._
-</pre></big>
+WIP.
 
-Story-related. Will trigger after returning from Rockbird by talking to the angelfish in the south-east of St. Elles.
-    
+***
+
+### St. Elles
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214148.png">
 
 <big><pre>
@@ -336,7 +410,7 @@ _Walk across magma and get the Critical Sword._
 </pre></big>
 
 After having stopped the volcano from erupting, go down two ledges and to the right to find a chest with the Critical Sword.
-    
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214163.png">
 
 <big><pre>
@@ -363,25 +437,32 @@ _Make a dolphin's dreams come true and get The Master's Emblem D._
 </pre></big>
 
 There are multiple dolphins involved in this small sidequest. The first is rescued on Durean, which will appear on the west side of St. Elles and asks you to stand on his nose. Stand in front of him and he will bring you to a chest with the Big Pearl. Then rescue another dolphin at Blester, who will be sleeping in the same room where you rescued Lue the dolphin. Enter his dreams and give him the Big Pearl, after which you can toggle a switch that will open a cave in the final seabed area before heading to the Ghost Ship. Enter this cave for the Master's Emblem D.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214222.png">
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214207.png">
 
 <big><pre>
-[Flushing the Floating Skull [m] (25)](https://retroachievements.org/achievement/31449)
-_Traverse the Ghost Ship and defeat the Floating Skull all without getting hit._
+[Lots of Sea Dwelling Mammals (5)](https://retroachievements.org/achievement/31476)
+_Sealed every monster lair in Southerta and the Seabed of St Elle's._
 </pre></big>
-
-Ironically the hardest part about this fight is getting to the Floating Skull unharmed. Learn where the fish jump and stay far enough away from them, because the wood splinters will hurt you. The fires will only shoot out fireballs once you pass them, so keep that in mind. After a small tour you'll reach the hull, where you are always safe on the right side of it. The skull itself will go down every few second, attack it three times and then head back to the safe zone. The hands will die in one hit to magic, so make sure you have enough gems stocked up. Equipping the Power Bracelet will also be effective as it reduces the amount of hits necessary to kill the boss.
     
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214187.png">
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214208.png">
 
 <big><pre>
-[The Underwater Level (5)](https://retroachievements.org/achievement/31450)
-_Defeat Deathtoll's forces at St. Elle's and receive the Blue Stone._
+[Magma and Water (5)](https://retroachievements.org/achievement/31477)
+_Sealed every monster lair in Rockbird and Durean._
+</pre></big>
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214209.png">
+
+<big><pre>
+[A Sound of Thunder (5)](https://retroachievements.org/achievement/31478)
+_Sealed every monster lair on Blester and on the Ghost Ship._
 </pre></big>
 
-Story-related. Will trigger after returning to St. Elles and talking to the Mermain Queen after having defeated the Floating Skull.
-    
+***
+
+### Mountain of Souls
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214157.png">
 
 <big><pre>
@@ -435,108 +516,11 @@ _Sealed every monster lair in The Mountain of Souls._
 </pre></big>
 
 WIP
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214223.png">
 
-<big><pre>
-[Pushing Poseidon [m] (25)](https://retroachievements.org/achievement/31468)
-_Defeat Poseidon without getting hit._
-</pre></big>
+***
 
-This boss is really easy to do. Like the first boss, you want to keep holding your sword in front of you with the L or R buttons. Then, depending on where he is:
+### Dr. Leo's Laboratory
 
-- When he is in the middle, start all the way down so that you avoid his fireball attack from the trident, then walk up and remain in the middle of the boss' sprite. Keep standing there as the next fireball attack will miss you.
-- When he is left or right, avoid the trident fireball attack by heading opposite of which hand the trident is in, then go to the middle of the boss' sprite. Again, remain where you are when he uses his fireball attack as they will miss you.
-
-That's all there is to it. If you have trouble with the boss being on the left/right side, just focus on when he surfaces in the middle. If he is on the left- or right side while you remain in the top of the middle where you attacked him before he went underwater, he will be unable to hit you from there.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214188.png">
-
-<big><pre>
-[Nome Isn't a Gnome (5)](https://retroachievements.org/achievement/31469)
-_Defeat Deathtoll's forces at The Mountain of Souls and receive the Silver Stone_
-</pre></big>
-
-Story-related. Triggers after talking to Nome the Snail, who will be released from prison after talking to the King.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214150.png">
-
-<big><pre>
-[Finally! (3)](https://retroachievements.org/achievement/31470)
-_Get the Zantetsu Sword. Now go back and seal those lairs!_
-</pre></big>
-
-This sword can be found in the room north of the entrance in Dr. Leo's Laboratory. To get the door to appear there, head downstairs and take care of the monster lair north of you, then the one east of there.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214167.png">
-
-<big><pre>
-[It Will Come... (5)](https://retroachievements.org/achievement/31471)
-_Get the Tornado magic. It smells like paint..._
-</pre></big>
-
-Once you have the Zantetsu Sword, head back to Leo's Painting and take care of the first monster lair with mechanical enemies. A chest will appear with the Tornado magic.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214152.png">
-
-<big><pre>
-[Like a Vampire (5)](https://retroachievements.org/achievement/31472)
-_Convince a certain fairy to give you the Recovery Sword._
-</pre></big>
-
-Once you have the Zantetsu Sword, head back to Leo's Painting and take care of the last monster lair with mechanical enemies. An Ivy will spawn in the cave behind the kid requiring a pass, which will bring you to a crystal with a fairy who will give you this sword.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214170.png">
-
-<big><pre>
-[Dionysis (5)](https://retroachievements.org/achievement/31473)
-_Climb and dig to find The Master's Emblem A._
-</pre></big>
-
-Once you have the Zantetsu Sword, head back to Leo's Painting and take care of the middle monster lair with mechanical enemies. An Ivy will spawn that leads to an empty-looking ridge. Head here and press the A button to find the Master's Emblem A.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214205.png">
-
-<big><pre>
-[Heat of the Grave (5)](https://retroachievements.org/achievement/31474)
-_Seal all the lairs in the fire shrine._
-</pre></big>
-
-WIP. Zantetsu Sword.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214181.png">
-
-<big><pre>
-[The Phoenix Resides on the Stick (5)](https://retroachievements.org/achievement/31475)
-_Save the Red-Hot Stick from the metal apes._
-</pre></big>
-
-Once you have the Zantetsu Sword, head back to Durean where you had to pass on a monster lair with Metal Apes. Defeating the monster lair will rescue a mermaid located in the south of St. Elles, who will give you the Red-Hot Stick.
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214207.png">
-
-<big><pre>
-[Lots of Sea Dwelling Mammals (5)](https://retroachievements.org/achievement/31476)
-_Sealed every monster lair in Southerta and the Seabed of St Elle's._
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214208.png">
-
-<big><pre>
-[Magma and Water (5)](https://retroachievements.org/achievement/31477)
-_Sealed every monster lair in Rockbird and Durean._
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214209.png">
-
-<big><pre>
-[A Sound of Thunder (5)](https://retroachievements.org/achievement/31478)
-_Sealed every monster lair on Blester and on the Ghost Ship._
-</pre></big>
-
-    
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214158.png">
 
 <big><pre>
@@ -558,14 +542,6 @@ _Find the household Master's Emblem G._
 <big><pre>
 [Kill Robots to Make Doors! (5)](https://retroachievements.org/achievement/31482)
 _Sealed every monster lair in the Basement of the Laboratory and Power Plant._
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214194.png">
-
-<big><pre>
-[They Need Doors in Heaven, Too (3)](https://retroachievements.org/achievement/31483)
-_Find a magical soul to reveal hidden enemies._
 </pre></big>
 
     
@@ -601,29 +577,12 @@ _Defeat the Tin Doll without getting hit._
 </pre></big>
 
     
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214189.png">
-
-<big><pre>
-[Doctor's Doll (5)](https://retroachievements.org/achievement/31488)
-_Defeat Deathtoll's forces at Doctor Leo's laboratory and get the Purple Stone._
-</pre></big>
-
-    
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214203.png">
 
 <big><pre>
 [Craving Critters and Beastie Bedtime (5)](https://retroachievements.org/achievement/31538)
 _Seal all the monster lairs in Lotside and GreenWood._
 </pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214151.png">
-
-<big><pre>
-[Ghost Buster (4)](https://retroachievements.org/achievement/31539)
-_Find the Sprit Sword and put those tortured souls to rest...THE HARD WAY._
-</pre></big>
-
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214166.png">
 
@@ -638,14 +597,6 @@ _Light up the darkness and get the Flame Pillar magic_
 <big><pre>
 [Bringer of Light (5)](https://retroachievements.org/achievement/31541)
 _Sealed every monster lair in the Light Shrine_
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214179.png">
-
-<big><pre>
-[3spooky5me (5)](https://retroachievements.org/achievement/31542)
-_Get the Red-Hot Mirror. Please don't sneak up behind that bird anymore._
 </pre></big>
 
     
@@ -670,14 +621,6 @@ _Does Leo still dream of regret? Get the Elemental Mail._
 <big><pre>
 [Revenants for Halberdiers (5)](https://retroachievements.org/achievement/31545)
 _Sealed every monster lair in the torture chamber and basement of Castle Magridd_
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214195.png">
-
-<big><pre>
-[I Know All of the Invisible Passages (3)](https://retroachievements.org/achievement/31546)
-_Find a magical soul to reveal the truth._
 </pre></big>
 
     
@@ -729,30 +672,6 @@ _Defeat the Demon Falcon without getting hit._
 </pre></big>
 
     
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214190.png">
-
-<big><pre>
-[Sold Everyone's Soul But His Own (5)](https://retroachievements.org/achievement/31553)
-_Defeat Deathtoll's forces at Magridd Castle and get the Black Stone._
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214180.png">
-
-<big><pre>
-[A Phoenix Needs Its Ball (5)](https://retroachievements.org/achievement/31554)
-_Get the Red-Hot Ball from outerrrrrr spaaaaace._
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214168.png">
-
-<big><pre>
-[Garuda (5)](https://retroachievements.org/achievement/31555)
-_Get the Phoenix magic._
-</pre></big>
-
-    
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214161.png">
 
 <big><pre>
@@ -784,10 +703,82 @@ _Sealed every monster lair in The World of Evil._
 _Defeat Deathtoll's demon form without getting hit._
 </pre></big>
 
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214219.png">
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214196.png">
 
 <big><pre>
-[Save the Dang World (25)](https://retroachievements.org/achievement/31560)
-_Defeat Deathtoll and banish Evil from this world._
+[Angelo (5)](https://retroachievements.org/achievement/31333)
+_Reach EXP level 10 and become a servant of The Master._
 </pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214197.png">
+
+<big><pre>
+[Throne (5)](https://retroachievements.org/achievement/31334)
+_Reach EXP level 20. Do you feel the power of The Master?_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214198.png">
+
+<big><pre>
+[Cherub (10)](https://retroachievements.org/achievement/31335)
+_Reach EXP level 30 by driving the forces of Deathtoll from this world._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214199.png">
+
+<big><pre>
+[Seraph (10)](https://retroachievements.org/achievement/31336)
+_Reach EXP level 40 and rebuke the forces of evil._
+</pre></big>
+
+## Step 3: No-damage Achievements | **Total points: 999**
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214220.png">
+
+<big><pre>
+[Hitting Heavy Metal Mantis [m] (25)](https://retroachievements.org/achievement/4868)
+_Defeat Metal Mantis without getting hit._
+</pre></big>
+
+This boss may look intimidating, but it's actually really easy. The strategy is to hold the L or R button the entire time to hold out your sword for attacking. Then, go on either the left- or right conveyor belt and move close to attacking range when it's moving to the conveyor belt you're on. Get in a few poking attacks, two or three at most to be safe, then withdraw back to the platform behind you and move to the conveyor belt on the opposite side while making a pause at the middle belt to prevent it's fireball attack. Repeat the same strategy until it is dead.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214221.png">
+
+<big><pre>
+[Stoning the Stone Lion Heads [m] (25)](https://retroachievements.org/achievement/31331)
+_Defeat the Stone Lion Heads without getting hit._
+</pre></big>
+
+This boss has two very easy phases, and a final one being a bit tricky to master.
+
+- **Phase 1** - This head can only attack with a T-shaped fire breath in the four main directions. Therefore, standing either north-east, north-west, south-east, or south-west from it will ensure that you will never get hit. Just keep spamming the attack button and this phase will be over in no time.
+- **Phase 2** - When you are standing at the position in the image below, this head will be unable to hurt you for the entire duration. If you still get hit, you are most likely standing too high. Make sure your bottom feet aligns with the bottom gray square.
+- **Phase 3** - The toughest part about this phase is the setup. You will want to use the stone in the middle to influence its pattern, as it can only go in four directions so if you are on the north-eastern side while the head is on the south-western side, it will first go up and then right to reach you. It won't go to your exact position but instead a bit beyond, so the strategy here is to remain on one of the four corners practically glued to the stone, when it comes towards you attack it a maximum of three times, then it will continue its pattern at which point you have to influence it by heading towards another corner and then back to your initial position. I hope this explanation makes sense, but if you can't visualize it, [this video](https://youtu.be/-ECGpYoG5KY?si=ig4c9ZVNv6hGengh&t=42) demonstrates it well.
+
+![ElementalStatues](https://github.com/RetroAchievements/guides/assets/76693803/8a918b47-42ed-4702-bd04-5c146f180f42)
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214222.png">
+
+<big><pre>
+[Flushing the Floating Skull [m] (25)](https://retroachievements.org/achievement/31449)
+_Traverse the Ghost Ship and defeat the Floating Skull all without getting hit._
+</pre></big>
+
+Ironically the hardest part about this fight is getting to the Floating Skull unharmed. Learn where the fish jump and stay far enough away from them, because the wood splinters will hurt you. The fires will only shoot out fireballs once you pass them, so keep that in mind. After a small tour you'll reach the hull, where you are always safe on the right side of it. The skull itself will go down every few second, attack it three times and then head back to the safe zone. The hands will die in one hit to magic, so make sure you have enough gems stocked up. Equipping the Power Bracelet will also be effective as it reduces the amount of hits necessary to kill the boss.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214223.png">
+
+<big><pre>
+[Pushing Poseidon [m] (25)](https://retroachievements.org/achievement/31468)
+_Defeat Poseidon without getting hit._
+</pre></big>
+
+This boss is really easy to do. Like the first boss, you want to keep holding your sword in front of you with the L or R buttons. Then, depending on where he is:
+
+- When he is in the middle, start all the way down so that you avoid his fireball attack from the trident, then walk up and remain in the middle of the boss' sprite. Keep standing there as the next fireball attack will miss you.
+- When he is left or right, avoid the trident fireball attack by heading opposite of which hand the trident is in, then go to the middle of the boss' sprite. Again, remain where you are when he uses his fireball attack as they will miss you.
+
+That's all there is to it. If you have trouble with the boss being on the left/right side, just focus on when he surfaces in the middle. If he is on the left- or right side while you remain in the top of the middle where you attacked him before he went underwater, he will be unable to hit you from there.
