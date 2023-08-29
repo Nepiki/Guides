@@ -236,7 +236,7 @@ _Defeat Deathtoll and banish Evil from this world._
 
 Triggers after having defeated the final boss of the game. Congratulations!
 
-
+## Step 2: Achievements per area | **Total points: 999**
 
 ### Grass Valley
 
@@ -249,6 +249,8 @@ _Sealed every monster lair in Underground Castle, west_
 
 There are a total of 14 monster lairs in the Underground Castle, west screen. All of them can be done on your first visit, except for one that you need to repair the elevator for.
 
+[Underground Castle, West](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/4848?raw=1)
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214201.png">
 
 <big><pre>
@@ -257,6 +259,8 @@ _Sealed every monster lair in Underground Castle, east_
 </pre></big>
 
 There are a total of 15 monster lairs in the Underground Castle, east screen. Two of them can only be done after having visited Lisa in her dream.
+
+[Underground Castle, East](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/4850?raw=1)
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214154.png">
 
@@ -295,6 +299,8 @@ _Sealed every monster lair in dr. Leo's painting_
 **Requirements: Zantetsu Sword**
 
 There are a total of 17 monster lairs in Dr. Leo's painting. 14 of them can be done on first visit, 3 others can only be done after having obtained the Zantetsu Sword.
+
+[Dr. Leo's Painting](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/4856?raw=1)
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214167.png">
 
@@ -342,6 +348,19 @@ _Seal all the monster lairs in the Water Shrine_
 
 There are a total of 15 monster lairs in the Water Shrine. Note that some are hidden under enemy statues that start teleporting around when you get near them.
 
+[Water Shrine](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/4936?raw=1)
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214203.png">
+
+<big><pre>
+[Craving Critters and Beastie Bedtime (5)](https://retroachievements.org/achievement/31538)
+_Seal all the monster lairs in Lotside and GreenWood._
+</pre></big>
+
+There are a total of 9 monster lairs in the Lostside. Nothing special is required for any of them beyond regular progression.
+
+[Lostside](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9450?raw=1)
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214147.png">
 
 <big><pre>
@@ -385,7 +404,7 @@ After having rescued the second squirrel in the north-eastern treehouse from the
 _Help two wandering spririts remember love and get the Shield Bracelet._
 </pre></big>
 
-After rescueing a mole from the Light Shrine who will be standing outside near the north-eastern treehouse, lead her to one of the holes south-west from there. When she's standing on it, talk to her and then go down for a treasure chest. Then, enter another hole and talk to the mole blocking your path with the ribbon you just got, then get past him and talk to the other mole for the Shield Bracelet. These two specific moles were rescued during the earlier two shrines.
+After rescuing a mole from the Light Shrine who will be standing outside near the north-eastern treehouse, lead her to one of the holes south-west from there. When she's standing on it, talk to her and then go down for a treasure chest. Then, enter another hole and talk to the mole blocking your path with the ribbon you just got, then get past him and talk to the other mole for the Shield Bracelet. These two specific moles were rescued during the earlier two shrines.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214205.png">
 
@@ -396,7 +415,42 @@ _Seal all the lairs in the fire shrine._
 
 **Requirements: Zantetsu Sword**
 
-WIP.
+There are a total of 20 monster lairs in the Water Shrine. Two of them require the Zantetsu Sword, on the bottom floor and and second-lowest floor.
+
+[Fire Shrine](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9447?raw=1)
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214166.png">
+
+<big><pre>
+[By Fire, Be Purged! (5)](https://retroachievements.org/achievement/31540)
+_Light up the darkness and get the Flame Pillar magic_
+</pre></big>
+
+**Requirements: Spirit Sword**
+
+After having obtained the Spirit Sword, head back to the Light Shrine in GreenWood. On the first floor of the shrine, kill all light balls to reveal a gem with a fairy giving you the Flame Pillar magic.
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214206.png">
+
+<big><pre>
+[Bringer of Light (5)](https://retroachievements.org/achievement/31541)
+_Sealed every monster lair in the Light Shrine_
+</pre></big>
+
+**Requirements: Spirit Sword**
+
+There are a total of 17 monster lairs in the Light Shrine. Two of them cannot be done until you have obtained the Spirit Sword, required for defeating the light ball enemies.
+
+[Light Shrine](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9504?raw=1)
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214178.png">
+
+<big><pre>
+[Merlin, Gandalf, Dumbledore, YOU (5)](https://retroachievements.org/achievement/31550)
+_With the help of a deer and a fairy, get the Magic Bell._
+</pre></big>
+
+Once you have retrieved all eight of the emblems, go back to GreenWood. A deer on the west side of the map on an island wants to cross, which it will if you have also rescued the crocodile north of the deer. Follow the deer, who will ram into a tree to drop a crystal with a fairy. Talk to her, and you will receive the Magic Bell.
 
 ***
 
@@ -444,13 +498,10 @@ There are multiple dolphins involved in this small sidequest. The first is rescu
 [Lots of Sea Dwelling Mammals (5)](https://retroachievements.org/achievement/31476)
 _Sealed every monster lair in Southerta and the Seabed of St Elle's._
 </pre></big>
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214208.png">
 
-<big><pre>
-[Magma and Water (5)](https://retroachievements.org/achievement/31477)
-_Sealed every monster lair in Rockbird and Durean._
-</pre></big>
+There are a total of 14 monster lairs on Southerta, all available right from the get-go. One of them needs to be reached from the Seabed of St. Elles. The Seabed itself is split into two sections, with the north half having 13 lairs and the south half 10. Note that you need to also have done the sidequest with the sleeping dolphin to access some lairs.
+
+[Southerta](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9452?raw=1) | [Seabed (North)](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9449?raw=1) | [Seabed (South)](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9448?raw=1)
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214209.png">
 
@@ -458,6 +509,23 @@ _Sealed every monster lair in Rockbird and Durean._
 [A Sound of Thunder (5)](https://retroachievements.org/achievement/31478)
 _Sealed every monster lair on Blester and on the Ghost Ship._
 </pre></big>
+
+There are a total of 9 monster lairs on Blester, all available right from the get-go. The Ghost Ship only has one, being the boss itself.
+
+[Blester](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9453?raw=1)
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214208.png">
+
+<big><pre>
+[Magma and Water (5)](https://retroachievements.org/achievement/31477)
+_Sealed every monster lair in Rockbird and Durean._
+</pre></big>
+
+**Requirements: Zantetsu Sword**
+
+There are a total of 16 monster lairs on Rockbird, all available right from the get-go. Durean also has 16, but one of them can only be done after having the Zantetsu Sword, being the Metal Apes.
+
+[Rockbird](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9455?raw=1) | [Durean](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9451?raw=1)
 
 ***
 
@@ -515,7 +583,9 @@ After having released the snail in the final area before the boss, head to where
 _Sealed every monster lair in The Mountain of Souls._
 </pre></big>
 
-WIP
+There are a total of 62 monster lairs on The Mountain of Souls. It's a very big collective achievement so be sure that you check the start menu whenever you proceed to another area. Be wary that this area has invisible bridges that only show themselves every 5 seconds in the caves, as well as a monster lair that is unlocked through a dream in the underground lake.
+
+[North Slope](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9457?raw=1) | [Aurora's Ridge](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9460?raw=1) | [Top of Snow Mountain](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9458?raw=1) | [Ice Hill](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9456?raw=1) | [Icy Field of Laynole](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9454?raw=1) | [Passage to Lune](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9516?raw=1) | [Underground Lake](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9514?raw=1)
 
 ***
 
@@ -528,6 +598,7 @@ WIP
 _Get the Mystic Armor._
 </pre></big>
 
+After having released multiple animals and objects from the first basement trip, enter the sleeping cat's dream on the second floor to receive a door key. Equip this door key, then go to the door in the south-west of the first floor. Once inside, talk to the drawers to get the Mystic Armor.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214176.png">
 
@@ -536,6 +607,7 @@ _Get the Mystic Armor._
 _Find the household Master's Emblem G._
 </pre></big>
 
+Remember the drawers from the "Invincible (for a second)" achievement above? With the same drawers, stand next to them and push them away with the crab-walk (hold L or R while moving). Under the drawers you'll find the Master's Emblem G.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214211.png">
 
@@ -544,6 +616,9 @@ _Find the household Master's Emblem G._
 _Sealed every monster lair in the Basement of the Laboratory and Power Plant._
 </pre></big>
 
+There are a total of 19 monster lairs in B1F, 15 in B2F, and 9 in the Power Plant. All of these can be done without any need to return later, but you do need the Zantetsu Sword which is mandatory to progress in this area.
+
+[Basement B1F](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9518?raw=1) | [Basement B2F](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9517?raw=1) | [Power Plant](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9529?raw=1)
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214212.png">
 
@@ -552,6 +627,9 @@ _Sealed every monster lair in the Basement of the Laboratory and Power Plant._
 _Sealed every monster lair in the town models._
 </pre></big>
 
+There are a total of 20 monster lairs in the first Town Model, and 10 in the second. Note that these maps have invisible enemies which you need the door soul for, which is released during the first Town Model.
+
+[Town Model 1](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9525?raw=1) | [Town Model 2](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9528?raw=1)
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214165.png">
 
@@ -560,6 +638,7 @@ _Sealed every monster lair in the town models._
 _Convince the nice rat to give you the Spark Bomb magic._
 </pre></big>
 
+After having released the rat and the two cats on the first floor from the Laboratory Basement, as well as the plant on the second floor, head up to the plant first and receive its leaves. With the leaves equipped, lure the cats out of the room so that only the rat remains. Talk to the rat who will let you into the hole, after which he will give you the Spark Bomb magic.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214159.png">
 
@@ -568,37 +647,11 @@ _Convince the nice rat to give you the Spark Bomb magic._
 _Get the Light Armor. It is invincibility, after a fashion._
 </pre></big>
 
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214224.png">
+The Light Armor is found in a chest in the Power Plant, at the end of a path unlocked by the very first monster lair you come across.
 
-<big><pre>
-[Terrorizing the Tin Doll [m] (25)](https://retroachievements.org/achievement/31487)
-_Defeat the Tin Doll without getting hit._
-</pre></big>
+***
 
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214203.png">
-
-<big><pre>
-[Craving Critters and Beastie Bedtime (5)](https://retroachievements.org/achievement/31538)
-_Seal all the monster lairs in Lotside and GreenWood._
-</pre></big>
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214166.png">
-
-<big><pre>
-[By Fire, Be Purged! (5)](https://retroachievements.org/achievement/31540)
-_Light up the darkness and get the Flame Pillar magic_
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214206.png">
-
-<big><pre>
-[Bringer of Light (5)](https://retroachievements.org/achievement/31541)
-_Sealed every monster lair in the Light Shrine_
-</pre></big>
-
+### Magridd Castle
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214171.png">
 
@@ -607,6 +660,18 @@ _Sealed every monster lair in the Light Shrine_
 _Have someone help you see The Master's Emblem B._
 </pre></big>
 
+After the soldier's soul has joined you, head to the lowest floor of the castle's basement and go to the north-western room with spikes. You will now be able to see a chest that has this emblem.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214213.png">
+
+<big><pre>
+[Revenants for Halberdiers (5)](https://retroachievements.org/achievement/31545)
+_Sealed every monster lair in the torture chamber and basement of Castle Magridd_
+</pre></big>
+
+There are a total of 27 monster lairs in the torture chamber and basement. Some monster lairs are inside of a wall and require the soldier's soul to be seen, specifically on B2F. Other than that, it's fairly straightforward.
+
+[Torture Chamber](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9553?raw=1) | [Castle Basement B2F](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9554?raw=1) | [Castle Basement B3F](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9550?raw=1)
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214160.png">
 
@@ -615,15 +680,8 @@ _Have someone help you see The Master's Emblem B._
 _Does Leo still dream of regret? Get the Elemental Mail._
 </pre></big>
 
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214213.png">
-
-<big><pre>
-[Revenants for Halberdiers (5)](https://retroachievements.org/achievement/31545)
-_Sealed every monster lair in the torture chamber and basement of Castle Magridd_
-</pre></big>
-
-    
+After having rescued the sleeping soldier from the left tower, enter his dreams. A cutscene will play, after which he will give you the Elemental Mail.
+  
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214214.png">
 
 <big><pre>
@@ -631,6 +689,20 @@ _Sealed every monster lair in the torture chamber and basement of Castle Magridd
 _Sealed every monster lair in the left tower of Castle Magridd._
 </pre></big>
 
+There are a total of 19 monster lairs in the left tower of Castle Magridd. The soldier's soul will yet again be beneficial for the second floor, albeit not a necessity.
+
+[Left Tower](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9551?raw=1)
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214215.png">
+
+<big><pre>
+[Everybody Looks Left, You Go Right (5)](https://retroachievements.org/achievement/31551)
+_Sealed every monster lair in the right tower of Castle Magridd._
+</pre></big>
+
+There are a total of 14 monster lairs in the right tower of Castle Magridd. The soldier's soul will show some hidden monster lairs in a wall, with the other lairs being fairly straightforward.
+
+[Right Tower](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9548?raw=1)
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214177.png">
 
@@ -639,6 +711,7 @@ _Sealed every monster lair in the left tower of Castle Magridd._
 _Find The Master's Emblem H that the stone mason hid._
 </pre></big>
 
+After the castle has been restored, go out of the building where the portal to the shrine is, and then immediately go left before the bridge. Keep following the path to the dead end, where the Master's Emblem H is located.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214184.png">
 
@@ -647,30 +720,11 @@ _Find The Master's Emblem H that the stone mason hid._
 _Find the awful queen's Invulnerable...er...Super Bracelet._
 </pre></big>
 
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214178.png">
+Once the queen has shown her true colours at the top of the Right Tower, go to the exact location where she used to stand in her building to find the Super Bracelet.
 
-<big><pre>
-[Merlin, Gandalf, Dumbledore, YOU (5)](https://retroachievements.org/achievement/31550)
-_With the help of a deer and a fairy, get the Magic Bell._
-</pre></big>
+***
 
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214215.png">
-
-<big><pre>
-[Everybody Looks Left, You Go Right (5)](https://retroachievements.org/achievement/31551)
-_Sealed every monster lair in the right tower of Castle Magridd._
-</pre></big>
-
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214225.png">
-
-<big><pre>
-[Defeating the Demon Falcon [m] (50)](https://retroachievements.org/achievement/31552)
-_Defeat the Demon Falcon without getting hit._
-</pre></big>
-
+### World of Evil
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214161.png">
 
@@ -679,6 +733,7 @@ _Defeat the Demon Falcon without getting hit._
 _Get the Soul Armor so you don't violently decompress._
 </pre></big>
 
+The Soul Armor is found in the second screen of the World of Evil. It is located on the right side, beyond a small alleyway with rotating plates that you need to sneak past.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214153.png">
 
@@ -687,6 +742,7 @@ _Get the Soul Armor so you don't violently decompress._
 _Wrest the Soul Blade from Deathtoll's grip._
 </pre></big>
 
+The Soul Armor is found in the Dazzling Space screen of the World of Evil. It is located on the right side, beyond the rotating plates you need to time your movements past.
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214216.png">
 
@@ -695,13 +751,9 @@ _Wrest the Soul Blade from Deathtoll's grip._
 _Sealed every monster lair in The World of Evil._
 </pre></big>
 
-    
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214226.png">
+There are a total of 14 monster lairs in the World of Evil. All of them are straight forward.
 
-<big><pre>
-[Destroying Deathtoll (25)](https://retroachievements.org/achievement/31559)
-_Defeat Deathtoll's demon form without getting hit._
-</pre></big>
+[World of Evil First Area](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9547?raw=1) | [World of Evil Second Area](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9552?raw=1) | [World of Evil Dazzling Space](https://gamefaqs.gamespot.com/snes/588673-soul-blazer/map/9549?raw=1)
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214196.png">
 
@@ -709,7 +761,6 @@ _Defeat Deathtoll's demon form without getting hit._
 [Angelo (5)](https://retroachievements.org/achievement/31333)
 _Reach EXP level 10 and become a servant of The Master._
 </pre></big>
-
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214197.png">
 
@@ -717,7 +768,6 @@ _Reach EXP level 10 and become a servant of The Master._
 [Throne (5)](https://retroachievements.org/achievement/31334)
 _Reach EXP level 20. Do you feel the power of The Master?_
 </pre></big>
-
     
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214198.png">
 
@@ -725,14 +775,15 @@ _Reach EXP level 20. Do you feel the power of The Master?_
 [Cherub (10)](https://retroachievements.org/achievement/31335)
 _Reach EXP level 30 by driving the forces of Deathtoll from this world._
 </pre></big>
-
-    
+   
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214199.png">
 
 <big><pre>
 [Seraph (10)](https://retroachievements.org/achievement/31336)
 _Reach EXP level 40 and rebuke the forces of evil._
 </pre></big>
+
+You will get the first ~23 levels by just playing the game and clearing every monster lair. The last 17 levels need to be grinded for in the World of Evil. The easiest way to do this is to get access to the Soul Blade and Armor, the Phoenix magic, and the Magic Bell. When you have all four, head to the portal connecting the second area and the Dazzling Space. Keep leaving and re-entering this portal and defeat three enemies on the Dazzling Space side by just quickly slashing your sword. Keep doing this until 10 million experience has been reached.
 
 ## Step 3: No-damage Achievements | **Total points: 999**
 
@@ -782,3 +833,30 @@ This boss is really easy to do. Like the first boss, you want to keep holding yo
 - When he is left or right, avoid the trident fireball attack by heading opposite of which hand the trident is in, then go to the middle of the boss' sprite. Again, remain where you are when he uses his fireball attack as they will miss you.
 
 That's all there is to it. If you have trouble with the boss being on the left/right side, just focus on when he surfaces in the middle. If he is on the left- or right side while you remain in the top of the middle where you attacked him before he went underwater, he will be unable to hit you from there.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214224.png">
+
+<big><pre>
+[Terrorizing the Tin Doll [m] (25)](https://retroachievements.org/achievement/31487)
+_Defeat the Tin Doll without getting hit._
+</pre></big>
+
+WIP
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214225.png">
+
+<big><pre>
+[Defeating the Demon Falcon [m] (50)](https://retroachievements.org/achievement/31552)
+_Defeat the Demon Falcon without getting hit._
+</pre></big>
+
+WIP
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214226.png">
+
+<big><pre>
+[Destroying Deathtoll (25)](https://retroachievements.org/achievement/31559)
+_Defeat Deathtoll's demon form without getting hit._
+</pre></big>
+
+WIP
