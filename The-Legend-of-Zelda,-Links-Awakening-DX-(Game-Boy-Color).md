@@ -1,4 +1,4 @@
-![](https://i.imgur.com/qPjTG78.png)
+![Links Awakening](https://github.com/RetroAchievements/guides/assets/76693803/833fab8b-7ac8-48c5-b6d7-de1bb0a2e0c0)
 
 # 1) Synopsis
 
