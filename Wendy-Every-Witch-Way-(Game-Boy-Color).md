@@ -1,10 +1,4 @@
-# 0) Author Information
-
-Hello there, I'm Nepiki! I'm a gamer who has an unofficial case of amnesia so I have an obsession with writing everything down so I don't forget about it! Joking aside, I do genuinely like writing, especially if it helps out other people. I don't have a lot of guides yet, but expect to see more pop up in the future!
-
-For everything me related, here are some links you can check out:
-
-[Retro Achievements](https://retroachievements.org/user/Nepiki) | [Website](https://nepikigaming.com/) | [Discord Server](https://discord.gg/z2gUCmFg2K)
+![Wendy](https://github.com/RetroAchievements/guides/assets/76693803/fe550a53-5e33-409a-ac55-786dba2a96eb)
 
 # 1) Synopsis
 
