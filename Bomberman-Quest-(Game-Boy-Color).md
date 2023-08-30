@@ -1,10 +1,4 @@
-# 0) Author Information
-
-Hello there, I'm Nepiki! I'm a gamer who has an unofficial case of amnesia so I have an obsession with writing everything down so I don't forget about it! Joking aside, I do genuinely like writing, especially if it helps out other people. I don't have a lot of guides yet, but expect to see more pop up in the future!
-
-For everything me related, here are some links you can check out:
-
-[Retro Achievements](https://retroachievements.org/user/Nepiki) | [Website](https://nepikigaming.com/) | [Discord Server](https://discord.gg/z2gUCmFg2K)
+![Bomberman Quest](https://github.com/RetroAchievements/guides/assets/76693803/0188d399-4304-412e-824f-dd2f6c8cc0b9)
 
 # 1) Synopsis
 
