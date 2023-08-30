@@ -1,10 +1,4 @@
-# 0) Author Information
-
-Hamha, I'm Nepiki! I'm a gamer who has an unofficial case of amnesia so I have an obsession with writing everything down so I don't forget about it! Joking aside, I do genuinely like writing, especially if it helps out other people. I don't have a lot of guides yet, but expect to see more pop up in the future!
-
-For everything me related, here are some links you can check out:
-
-[Retro Achievements](https://retroachievements.org/user/Nepiki) | [Twitch](https://www.twitch.tv/nepiki) | [Discord Server](https://discord.gg/z2gUCmFg2K)
+![ChocoboRacing](https://github.com/RetroAchievements/guides/assets/76693803/3bfbe1c5-bd55-49e6-b40d-9b5fbe4bf928)
 
 # 1) Synopsis
 
