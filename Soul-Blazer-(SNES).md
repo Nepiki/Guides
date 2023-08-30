@@ -21,13 +21,13 @@ The achievement set by developers [HeroRobb](https://retroachievements.org/user/
 
 # 3) Walkthrough
 
-[**Step 1: Story Achievements**](#step-1-dummy-step--total-points-103)
+[**Step 1: Story Achievements**](#step-1-story-achievements--total-points-103)
 
 All of these achievements are gained by naturally playing through the game, as well as a few that are _technically_ not mandatory but that will make your life tougher if you don't get them. None of these are missable.
 
 ***
 
-[**Step 2: Achievements per area**](#step-2-achievement-per-area--total-points-247)
+[**Step 2: Achievements per area**](#step-2-achievements-per-area--total-points-247)
 
 These achievements are split up per area that you visit throughout the game for the convenience of the reader. Almost all of them involve rescuing people, animals, or objects from monster lairs and doing a small sidequest for them in the hub areas. Every area must also be fully cleared out of monster lairs, with each of the respective achievements having a map to the location you need to clear out. Most can be done on first visit, but occasionally you need to return to the area later with a specific weapon- or item, such as the Zantetsu Sword for metallic enemies.
 
@@ -863,6 +863,6 @@ People have also mentioned that using the Tornado spell might glitch out some fi
 _Defeat Deathtoll's demon form without getting hit._
 </pre></big>
 
-The big baddy is a surprisingly easy final boss to do no-damage; it's just long, and a single mistake can ruin your attempt. Therefore, always remain consistent and don't take too much risk. Deathtoll has two attacks: a diagonal laser, and fire breathing that happens when he is vulnerable after taking out four blue flame pillars. What you want to do is remain on the green-coloured square during the fight. When he shoots the lasers, _wait_ for it to go to the left, and then immediately go to the right and slightly up to avoid it. This strategy to avoid the laser will not change so get good at it. When the blue pillars are out, hit them three times with the Phoenix from the right side and then retreat to the green square. Do the fourth attack after having avoided the laser to ensure the laser attack will not happen during his vulnerable state, then move back to the green square and shoot the Phoenix towards Deathtoll's head. His fire attack will not hit you as long as you are on the green square, just remember not to go too far to the right while on it. That's all there is to this boss; be patient with the laser attack, and make sure that the blue pillar(s) only need one hit after dodging the lasers so you can focus on Deathtoll.
+The big baddy is a surprisingly easy final boss to do no-damage; it's just long, and a single mistake can ruin your attempt. Therefore, always remain consistent and don't take too much risk. Deathtoll has two attacks: a diagonal laser, and fire breathing that happens when he is vulnerable after taking out four blue flame pillars. What you want to do is remain on the green-coloured square during the fight. When he shoots the lasers, _wait_ for it to go to the left, and then immediately go to the right and slightly up to avoid it. This strategy to avoid the laser will not change so get good at it. When the blue pillars are out, hit them three times with the Phoenix from the right side and then retreat to the green square. Do the fourth attack after having avoided the laser to ensure the laser attack will not happen during his vulnerable state, then move back to the green square and shoot the Phoenix towards Deathtoll's head. His fire attack will not hit you as long as you are on the green square, just remember not to go too far to the left while on it. That's all there is to this boss; be patient with the laser attack, and make sure that the blue pillar(s) only need one hit after dodging the lasers so you can focus on Deathtoll.
 
 Given that there is an achievement getting to level 40, it is obviously recommended to get that first to reduce the amount of attacks needed to deal with Deathtoll.
