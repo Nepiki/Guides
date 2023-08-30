@@ -1,51 +1,45 @@
-This guide is currently WIP. Please come back soon for the completed guide!
+![Soul Blazer](https://github.com/RetroAchievements/guides/assets/76693803/bd5874ff-2bcf-4d12-8362-c97ca5db46d4)
 
 # 1) Synopsis
 
 |   |   |
 |:--|:--|
-|Set Difficulty|Number between 1 to 10|
-|Approximate time to master|Time needed in hours)|
-|Minimum numbers of playthroughs needed|If more than one, specify the reason (like difficulty)|
-|Number of missable achievements|If the number is <5, specify what achievements|
-|Does difficulty affect achievements?|Yes/No/Not applicable|
-|Hardest achievement of the set|Achievement name here|
+|Set Difficulty|3/10|
+|Approximate time to master|7-10 hours|
+|Minimum numbers of playthroughs needed|1|
+|Number of missable achievements|6 (no-damage bosses only)|
+|Does difficulty affect achievements?|Not applicable|
+|Hardest achievement of the set|Defeating the Demon Falcon|
 
 # 2) Introduction
 
-In this section, you can give a short synopsis about the game, your feelings about the set, as well as placing credits to the achievement set makers if you so desire.
+The Master sends one of his heavenly divine companions in the form of a human warrior to the Freil Empire, where the evil spirit Deathtoll has destroyed all villages and incarcerated the souls of all living creatures in his monster lairs, leaving the world empty. The warrior must defeat the monsters and liberate the inhabitants from the lairs, gradually repopulating the kingdom. 
+
+_Soul Blazer_ is a game where you are sent out to revive a world now destroyed by the evil Deathtoll. Venture through six locations, destroying monster lairs to rescue the inhabitants, and learn about the deep psychology this world has with themes unheard of around this time in gaming, like death and resurrection, as well of the impact our inventions may have on the world as a whole. This is the first game in an unofficial trilogy, with _Illusion of Gaia_ and _Terranigma_ following a similar theme and gameplay. They are some of my favourite games on the system and I can highly recommend checking them out!
+
+The achievement set by developers [HeroRobb](https://retroachievements.org/user/HeroRobb) and [STHX](https://retroachievements.org/user/STHX) will make sure that you complete every area to its fullest potential, as well as mastering the bosses through no-damage challenges. Fortunately for you, these bosses, while tough, are very easy to learn and will therefore be a very reasonable challenge. Overall a really fun set to play through!
 
 # 3) Walkthrough
 
-[**Step 1: Dummy Step**](#step-1-dummy-step--total-points-999)
+[**Step 1: Story Achievements**](#step-1-dummy-step--total-points-103)
 
-Here you can give a detailed explanation about every step, such as what the achievements are about, if there are any missables in this step, general tips to make sure every achievement is gotten in one run etc.
-
-To make this header link to the section with these achievements, go to where the step is and hover over the header. A link icon should be visible on the left of the header, which you can right-click + copy and then paste where #step-1-dummy-step--total-points-999 currently is. Remove everything of the link before "step".
-
-You can create as many steps as you desire. Recommended is to have one step dedicated to unmissable story achievements, while the others cover game-specific steps (like no-damage bosses, item collection etc.)
-
-If the step has missables, be sure to make a bulletpoint list like below to inform the reader right away.
-
-* [Missable achievement 1](Link to achievement)
-* [Missable achievement 2](Link to achievement)
-* [Missable achievement 3](Link to achievement)
+All of these achievements are gained by naturally playing through the game, as well as a few that are _technically_ not mandatory but that will make your life tougher if you don't get them. None of these are missable.
 
 ***
 
-[**Step 2: Dummy Step 2**](#step-2-dummy-step-2--total-points-999)
+[**Step 2: Achievements per area**](#step-2-achievement-per-area--total-points-247)
 
-Dummy step. Remove if unnecessary.
-
-***
-
-[**Step 3: Dummy Step 3**](#step-3-dummy-step-3--total-points-999)
-
-Dummy step. Remove if unnecessary.
+These achievements are split up per area that you visit throughout the game for the convenience of the reader. Almost all of them involve rescuing people, animals, or objects from monster lairs and doing a small sidequest for them in the hub areas. Every area must also be fully cleared out of monster lairs, with each of the respective achievements having a map to the location you need to clear out. Most can be done on first visit, but occasionally you need to return to the area later with a specific weapon- or item, such as the Zantetsu Sword for metallic enemies.
 
 ***
 
-## Step 1: Story Achievements | **Total points: 999**
+[**Step 3: No-damage Achievements**](#step-3-no-damage-achievements--total-points-200)
+
+All of these achievements are missable as when a boss is defeated, they are permanently unable to be challenged again. The only exception is the final boss who you can battle again as many times as you wish. While some bosses may look intimidating, I have done my best to describe methods on how to consistently take out these bosses without too much trouble.
+
+***
+
+## Step 1: Story Achievements | **Total points: 103**
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214146.png">
 
@@ -236,7 +230,7 @@ _Defeat Deathtoll and banish Evil from this world._
 
 Triggers after having defeated the final boss of the game. Congratulations!
 
-## Step 2: Achievements per area | **Total points: 999**
+## Step 2: Achievements per area | **Total points: 247**
 
 ### Grass Valley
 
@@ -785,7 +779,7 @@ _Reach EXP level 40 and rebuke the forces of evil._
 
 You will get the first ~23 levels by just playing the game and clearing every monster lair. The last 17 levels need to be grinded for in the World of Evil. The easiest way to do this is to get access to the Soul Blade and Armor, the Phoenix magic, and the Magic Bell. When you have all four, head to the portal connecting the second area and the Dazzling Space. Keep leaving and re-entering this portal and defeat three enemies on the Dazzling Space side by just quickly slashing your sword. Keep doing this until 10 million experience has been reached.
 
-## Step 3: No-damage Achievements | **Total points: 999**
+## Step 3: No-damage Achievements | **Total points: 200**
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214220.png">
 
@@ -841,7 +835,12 @@ That's all there is to it. If you have trouble with the boss being on the left/r
 _Defeat the Tin Doll without getting hit._
 </pre></big>
 
-WIP
+I personally found this to be the most annoying boss out of them all; not because it's the most difficult, but because you have to make sure you get him into a pattern by quick thinking. Whenever he is attacked, he will shoot a rocket barrage and depending on where you are standing when he is finished, he will either move to a teleporter on your side or move up and down. This can lead to two separate strategies for consistently taking him out:
+
+1. Enter the area holding the sword in front of you by holding the L or R button, then hit him. He will now shoot a rocket barrage, so zigzag to the other end of the screen in a Z/S letter formation while avoiding both the rockets as well as the Tin Doll that will move towards you. Once he is in a teleporter, he will move out of another teleport on the same side. What you need to do now is make sure you have enough distance from the teleporter while holding out your sword, so when he comes out and stops you'll immediately hit him. This will trigger him to repeat the rocket barrage, so do the same strategy making sure that you are ready on the other side again when he comes out of the teleporter. Not hitting him right away when he comes out can lead to him moving around unexpectedly and also doing a few different attacks, and you definitely want to avoid that. [This video](https://youtu.be/8Ke8Z8uNinc?si=t68mZUh9PGCUfcO0) demonstrates well how you need to attack the Tin Doll when he comes out of the teleporter. 
+2. Enter the area holding the sword in front of you by holding the L or R button, then hit him. He will now shoot a rocket barrage again. Instead of zigzagging to the other side, you can remain above- or below him which causes the boss to move vertically. He will now not leave this pattern anymore and will instead resort to fireballs that are fairly easy to dodge--most of the times you don't even need to dodge. When he is moving up, you are moving down, and vice versa. Hold out your sword being either left- or right of him, and it will be over in no time. [This video](https://youtu.be/NkXxKzR5eIE?si=1PHL0Aew-9ObFlgG&t=229) demonstrates this tactic well.
+
+The second tactic is more risky, but it may be a good alternative if the first one is failing you due to how quickly the boss battle can be dealt with this way. Of course, don't forget to equip the Power Bracelet.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214225.png">
 
@@ -850,7 +849,12 @@ WIP
 _Defeat the Demon Falcon without getting hit._
 </pre></big>
 
-WIP
+Certainly the toughest boss of this set, but still very doable after a few retries. Don't forget to equip the Power Bracelet once the battle starts for more damage. The Demon Falcon changes between two attacks from either the left- or right side: a diagonal attack to the other side, or shooting a bunch of flame pillars down towards you. The Falcon can be attacked during both attacks, though it's best to focus on just one of them rather than interchanging. Therefore, there are two strategies you can use. 
+
+1. Diagonal attack - The strategy you want to execute is to remain near the middle of the front hull on the side the Falcon is on. If it dives diagonally, hold out your sword and move slightly down to damage it a few times while taking no damage yourself. Don't worry, you have a lot of wriggling room before you start taking damage, but you may want to get a feel for it by trying it out a few times. The flame pillar attack is dangerous, but can be avoided easily with quick thinking. If the Falcon starts from the left, remaining on the far left side of the ship behind will ensure you will not take damage, then move to the middle of the ship in front of the wood that is blocking you from going down more. If the Falcon is on the right side, start on the right side of the wood that blocks you and when he has shot one pillar, quickly move left so that there will be enough room between pillars, and then you can move to the right again after he fires the second pillar. Remaining near the middle of the ship after the pillar attack assures that you are prepared for a dive attack or another pillar attack without taking damage. 
+2. Flame Pillar attack - I have not used this strategy myself, but looking at [this video](https://www.youtube.com/watch?v=JdNiwTB0RPY) by Arekdias, it looks to be a solid strategy that may even be easier than the ones I suggested. What you want to do is start from the middle of the ship in front of the wood that is blocking you, then move upwards towards the wheel. If the Falcon is moving diagonally, avoid it, but if it is using the flame pillar attack, stand close to it with your sword our while moving slowly towards the opposite side. This will do a lot of damage as well as making the more dangerous attack easy to avoid.
+
+People have also mentioned that using the Tornado spell might glitch out some fire pillars due to too many things happening on screen, but this has not worked for me so use it with caution and don't rely on it.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/214226.png">
 
@@ -859,4 +863,6 @@ WIP
 _Defeat Deathtoll's demon form without getting hit._
 </pre></big>
 
-WIP
+The big baddy is a surprisingly easy final boss to do no-damage; it's just long, and a single mistake can ruin your attempt. Therefore, always remain consistent and don't take too much risk. Deathtoll has two attacks: a diagonal laser, and fire breathing that happens when he is vulnerable after taking out four blue flame pillars. What you want to do is remain on the green-coloured square during the fight. When he shoots the lasers, _wait_ for it to go to the left, and then immediately go to the right and slightly up to avoid it. This strategy to avoid the laser will not change so get good at it. When the blue pillars are out, hit them three times with the Phoenix from the right side and then retreat to the green square. Do the fourth attack after having avoided the laser to ensure the laser attack will not happen during his vulnerable state, then move back to the green square and shoot the Phoenix towards Deathtoll's head. His fire attack will not hit you as long as you are on the green square, just remember not to go too far to the right while on it. That's all there is to this boss; be patient with the laser attack, and make sure that the blue pillar(s) only need one hit after dodging the lasers so you can focus on Deathtoll.
+
+Given that there is an achievement getting to level 40, it is obviously recommended to get that first to reduce the amount of attacks needed to deal with Deathtoll.
