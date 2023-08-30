@@ -9,7 +9,7 @@ List of Guides (Alphabetical)
 |Legend of Zelda, The: A Link to the Past|[Full](The-Legend-of-Zelda,-A-Link-to-the-Past-(SNES))|[355](https://retroachievements.org/game/355)|
 |Ogre Battle: March of the Black Queen|[Full](https://github.com/RetroAchievements/guides/wiki/Ogre-Battle:-March-of-the-Black-Queen-(SNES))|[1412](https://retroachievements.org/game/1412)|
 |Shadowrun|[Full](Shadowrun-(SNES))|[566](https://retroachievements.org/game/566)|
-|Soul Blazer|[[m]](Soul-Blazer-(SNES))|[1168](https://retroachievements.org/game/1168)|
+|Soul Blazer|[Full](Soul-Blazer-(SNES))|[1168](https://retroachievements.org/game/1168)|
 |Super Mario RPG: Legend of the Seven Stars|[[m]](Super-Mario-RPG-Legend-of-the-Seven-Stars-(SNES))|[471](https://retroachievements.org/game/471)|
 |Tokimeki Memorial: Densetsu no Ki no Shita de|[Full](https://github.com/RetroAchievements/guides/wiki/Tokimeki-Memorial:-Densetsu-no-Ki-no-Shita-de-(SNES))|[3913](https://retroachievements.org/game/3913)|
 |Treasure Conflix|[Full](https://github.com/RetroAchievements/guides/wiki/Treasure-Conflix)|[22135](https://retroachievements.org/game/22135)|
