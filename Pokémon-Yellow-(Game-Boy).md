@@ -1,4 +1,4 @@
-![Pokémon Yellow Banner](https://cdn.thegamesdb.net/images/original/graphical/2359-g.jpg)
+![Pokemon Yellow](https://github.com/RetroAchievements/guides/assets/76693803/a0c40650-b2c5-4cb9-818f-0509a2068337)
 
 # 1) Synopsis
 
