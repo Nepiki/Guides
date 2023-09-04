@@ -5,8 +5,7 @@ It has total 2 hammers and 5 rocks ingame. 1 hammer is in World 1-2 (enter green
 
 About [Warp Zone (10) [m]](https://retroachievements.org/achievement/78521) and [Back In Time For Dinner [m]](https://retroachievements.org/achievement/78509):
 
-It has total 2 warp whistles ingame. 1 warp whistle is in World 1 Cross stage, use super leaf to fly on the top right in corner. And other warp whistle is in World 2. See cheevo [Scenic Route 2 (5) [m]](https://retroachievements.org/achievement/78511)
-, this one you need to collect 1 hammer from World 1-2. Then you have 2 warp whistles, so that you can use shortest route and save princess.
+It has total 2 warp whistles ingame. 1 warp whistle is in World 1 Cross stage, use super leaf to fly on the top right in corner. And other warp whistle is in World 2. See cheevo [Scenic Route 2 (5) [m]](https://retroachievements.org/achievement/78511), this one you need to collect 1 hammer from World 1-2. Then you have 2 warp whistles, so that you can use shortest route and save princess.
 
 
 About [Hammer Mario (10) [m]](https://retroachievements.org/achievement/78517), [Tanooki Mario (10) [m]](https://retroachievements.org/achievement/78516), [Frog Mario (10) [m]](https://retroachievements.org/achievement/78515) and [Kuriboh Mario (10) [m]](https://retroachievements.org/achievement/78518):
