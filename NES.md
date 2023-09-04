@@ -10,5 +10,6 @@ List of Guides (Alphabetical)
 |Robin Hood: Prince of Thieves|[Full](Robin-Hood-Prince-of-Thieves-(NES))|[1913](https://retroachievements.org/game/1913)|
 |RoboCop|[Full](RoboCop-(NES))|[1497](https://retroachievements.org/game/1497)|
 |\~Hack\~ Legend of Zelda: Shadow of Night|[Full](https://github.com/RetroAchievements/guides/wiki/~Hack~-The-Legend-of-Zelda:-Shadow-of-Night-(NES))|[19538](https://retroachievements.org/game/19538)|
+|\~Hack\~ Super Mario Bros. 3: A New Journey|[Partial](https://github.com/RetroAchievements/guides/wiki/Super-Mario-Bros.-3:-A-New-Journey-(Hack)-(NES))|[13345](https://retroachievements.org/game/13345)|
 |\~Hack\~ Toadette's Christmas Adventure|[Full](Toadettes-Christmas-Adventure-(Hack)-(NES))|[9112](https://retroachievements.org/game/9112)|
 |\~Subset\~ Zelda II: The Adventure of Link - Level 1 Runs|[Routing](https://github.com/RetroAchievements/guides/wiki/~Subset~-Zelda-II:-The-Adventure-of-Link---Level-1-Runs-(NES))|[10311](https://retroachievements.org/game/10311)|
