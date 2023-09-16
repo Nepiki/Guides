@@ -54,8 +54,8 @@ You can also find an on-site hub containing all games [here](https://retroachiev
 |[April (128)](https://news.retroachievements.org/issues/2023-04/)|[Final Fantasy VI (SNES)](https://retroachievements.org/game/341)|[RANews](https://news.retroachievements.org/issues/2023-04/raguide.html)|[RAGuide](Final-Fantasy-VI-(SNES))|
 |[May (129)](https://news.retroachievements.org/issues/2023-05/)|[Defender (Arcade)](https://retroachievements.org/game/15020)|[RANews](https://news.retroachievements.org/issues/2023-05/raguide.html)|[RAGuide](Defender-(Arcade))|
 |[June (130)](https://news.retroachievements.org/issues/2023-06/)|[Snatcher (Sega CD)](https://retroachievements.org/game/10067)|[RANews](https://news.retroachievements.org/issues/2023-06/raguide.html)|[RAGuide](Snatcher-(Sega-CD))|
-|[]()|[]()|[]()|[]()|
-|[]()|[]()|[]()|[]()|
+|[July (131)](https://news.retroachievements.org/issues/2023-07/)|[Treasure Hunter G (SNES)](https://retroachievements.org/game/1415)|[RANews](https://news.retroachievements.org/issues/2023-07/raguide.html)|[RAGuide](Treasure-Hunter-G-(SNES))|
+|[August (132)](https://news.retroachievements.org/issues/2023-08/)|[\~Homebrew\~ Repugnant Bounty (Game Boy Color)](https://retroachievements.org/game/22650)|[RANews](https://retroachievements.org/game/22650)|[RAGuide](~Homebrew~-Repugnant-Bounty-(Game-Boy-Color))|
 |[]()|[]()|[]()|[]()|
 |[]()|[]()|[]()|[]()|
 |[]()|[]()|[]()|[]()|
