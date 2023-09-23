@@ -28,7 +28,7 @@ With the focus on plot, Final Fantasy IV will push you into situations that can 
 - This achievement set, created by [MrGauss](https://retroachievements.org/User/MrGauss), uses lines from Dante's Divine Comedy for the story achievements. The demons known as "Malebranches" in the Divine Comedy are the inspiration for the Four Arch-Fiends.
 - Final Fantasy IV has had numerous ports and remakes. Notoriously, the US version released on the Super NES was censored and made easier for the American market. In Japan, Square re-released Final Fantasy IV on the Super Famicom, called "Final Fantasy IV Easy Type". Many refer to "Easy Type" as the US version, but it is actually another iteration that builds off the US Version. You can read more about the many versions for the SNES/Super Famicom [here](https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV_version_differences), as well as all of the numerous other ports and their differences.
 - A sequel game was developed for Japanese mobile phones, subtitled "The After Years". This game was eventually ported and released worldwide on the WiiWare service of the Nintendo Wii system and also experienced it's own share of ports and remakes.
-- A 3D remake was released on the 3DS, similar in appearance to the Final Fantasy III remake and made by the same studio, Matrix Software.
+- A 3D remake was released on the Nintendo DS, similar in appearance to the Final Fantasy III remake and made by the same studio, Matrix Software.
 
 ## Save Support
 
@@ -36,14 +36,9 @@ The game uses a battery to save game data across four slots. Players can save th
 
 ## Compatibility
 
-Currently this game has 4 unique ROM(s) registered for it with the following MD5s:
+Currently (as of 9/23/2023) this game has 5 unique ROM(s) registered for it. View the linked hashes at the [Supported Game Files](https://retroachievements.org/linkedhashes.php?g=3528) page.
 
-7981c47e3b3e957be5b352f8508c3f6e<br>
-7f2c8d00101bd3ee2f4ef739e499a302 - Namingway Edition (**recommended**)<br>
-936ce8c534346e61d8e21efba9177184<br>
-a2959ad8c1ff5f2719264ab4c7e40464
-
-Please view the [Final Fantasy IV Official Thread](https://retroachievements.org/viewtopic.php?t=10172) for more details on setting up the ROM with the preferred Namingway Edition patch.
+Please view the [Final Fantasy IV Official Thread](https://retroachievements.org/viewtopic.php?t=10172) for more details on setting up the ROM with the latest version of the Namingway Edition patch.
 
 ## Leaderboards
 
