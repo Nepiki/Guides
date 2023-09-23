@@ -15,7 +15,7 @@ The [Namingway Edition romhack](https://www.romhacking.net/hacks/2337/) is **THE
 
 ## About
 
-This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/game/3528). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
+This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set (130 as of 9/23/2023) available on [RetroAchievements](https://retroachievements.org/game/3528). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
 
 ## Introduction
 
