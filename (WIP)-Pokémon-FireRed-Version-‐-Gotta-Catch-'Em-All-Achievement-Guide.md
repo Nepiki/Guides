@@ -24,11 +24,9 @@ I recommend use of the [Quality of Life Enhancement Patch](https://github.com/Re
 
 ## Checklist
 
-The Notes section of the checklist identifies what may be the best way to efficiently find the particular Pokémon. However, your mileage may vary and I may not have noted something that may be easier. If you know of a better method, please feel free to update this!
+The Notes section of the checklist identifies what may be the best way to efficiently find the particular Pokémon. However, your mileage may vary and I may not have noted something that may be easier. If you know of a better method, let me know and I will update the checklist!
 
-**NOTE:** The National Dex numbering system is used
-
-(**INSERT LINK TO GOOGLE SHEET HERE!!!**)
+[Gotta Catch 'Em All Checklist](https://docs.google.com/spreadsheets/d/1T79ODf2EUPzEMBntdI9fsamT3cs8KuGekGGrDZjjBwg/edit?usp=sharing)
 
 ## Evolution Items
 
