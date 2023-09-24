@@ -10,9 +10,9 @@ This is a checklist for the [Gotta Catch 'Em All! - FireRed achievement](https:/
 
 ## Introduction
 
-The [Gotta Catch 'Em All! - FireRed achievement](https://retroachievements.org/achievement/33625) requires the player to obtain every single Pokémon that is accessible to the game **without trading across cartridges**. This means that Pokémon can only be caught, evolved, or obtained via in-game events (NPC trades, Game Center, etc).
+The [Gotta Catch 'Em All! - FireRed achievement](https://retroachievements.org/achievement/33625) requires the player to obtain every single Pokémon that is accessible to the game <u>**without trading across cartridges**</u>. This means that Pokémon can only be caught, evolved, or obtained via in-game events (NPC trades, Game Center, etc).
 
-Attempting to bring in Pokémon from other Gen 3 Pokémon games via trades will result in **invalidating** this achievement.
+Attempting to bring in Pokémon from other Gen 3 Pokémon games via trades will result in <u>**invalidating**</u> this achievement.
 
 The achievement is missable for a variety of reasons so the goal of this guide is to avoid missing the achievement while providing a way to track progress.
 
