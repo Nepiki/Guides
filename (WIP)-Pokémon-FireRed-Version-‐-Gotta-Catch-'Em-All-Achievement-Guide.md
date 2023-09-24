@@ -28,6 +28,8 @@ The Notes section of the checklist identifies what may be the best way to effici
 
 [Gotta Catch 'Em All Checklist](https://docs.google.com/spreadsheets/d/1T79ODf2EUPzEMBntdI9fsamT3cs8KuGekGGrDZjjBwg/edit?usp=sharing)
 
+To use the checklist, click on the link above. Open the File menu and choose "Make a copy". Name your copy of the checklist whatever you'd like and press the "Make a copy" button. Now you can mark off the Pokémon you have caught in the checklist and it will save automatically as you go. Happy hunting!
+
 ## Evolution Items
 
 It is important to keep in mind that some evolution items are limited and require thoughtful use to prevent locking the achievement due to running out of items.
