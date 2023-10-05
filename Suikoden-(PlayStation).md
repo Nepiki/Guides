@@ -254,6 +254,15 @@ Leon is missable. You need to talk to him when you have the castle at lv 4, then
 
 Point of no return - After you started the mission to Shasarazade.
 
+### [No Runes Allowed](https://retroachievements.org/achievement/80101)
+
+![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86458.png)
+*Defeat the Shell Venus without using the Rune command*
+
+Pretty obvious.
+
+Point of no return - Pretty obvious.
+
 ### [The Sixth General](https://retroachievements.org/Achievement/80112)
 
 ![Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86474.png)
