@@ -89,8 +89,7 @@ Hamal: Merchant
 
 3) Rings
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/344735.png">
-
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/407750_lock.png">
 <big><pre>
 [Ring Collector (25)](https://media.retroachievements.org/Badge/407750_lock.png)
 _Collect all 21 rings_
