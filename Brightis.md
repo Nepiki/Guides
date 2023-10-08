@@ -79,45 +79,46 @@ Final Boss: Zeraward
 
 2) Characters
 
-Vardo: The Wizard who guides you in the tutorial
-Caplas: Captain, Rival
-Capella: Huntress, who finds you and brings you to Elthard Village
-Alhena: Combo Teacher
-Regulus: One armed Special Move Teacher
-Pollux: Special Move Teacher
-Hamal: Merchant
+* Vardo: The Wizard who guides you in the tutorial
+* Caplas: Captain, Rival
+* Capella: Huntress, who finds you and brings you to Elthard Village
+* Alhena: Combo Teacher
+* Regulus: One armed Special Move Teacher
+* Pollux: Special Move Teacher
+* Hamal: Merchant
 
 3) Rings
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/407750_lock.png">
+
 <big><pre>
 [Ring Collector (25)](https://media.retroachievements.org/Badge/407750_lock.png)
 _Collect all 21 rings_
 </pre></big>
 
-Ring of Wisdom  知恵のリング　(increases magic power) (buy from Hamal)
-Magnet Ring
-Cat Eye Ring  猫目石のリング (increases light radius) (buy from Hamal)
-Straw Ring わらしべの輪 (increase skill point gain) (magic chest dungeon 5)
-Iron Ring 鉄のリング (increases defense) (Chest in Grassland Ruins)
-Chalk Ring 白亜のリング  (immune to poison) (buy from Hamal or find in dungeon 6 chest)
-Quartz Ring 石英のリング ( immune to paralysis ) (buy from Hamal)
-Square Ring (acquire from Caplas after second dungeon, bring back to town to deliver to Regulus, who let’s you keep it)
-Magic Ring マジックリング (MP regenerates faster) (buy from Hamal)
-Fire Ring 火のリング　(fire resistance) (chest dungeon 3)
-Thunder Ring
-Water Ring
-Resist Ring 1 レジストリング (Magic Resistance increases) (buy from Hamal)
-Resist Ring 2 (haven't found yet)
-Resist Ring 3 (haven't found yet)
-Guard Ring
-Blood Cleansing Ring 血清のリング (Increase resistance against status effects) (buy from Hamal)
-Covenant Ring (str +3, def-2) (magic chest dungeon 7)
-Ring of Clairvoyance
-Vardo's Ring (increases all stats a bit) (found in Hexsalkia Castle when you enter it the second time)
-Ring of Proof (big stats increase) (Found in Ruins of Chaos every 100 floors)
-Scepter Ring (haven’t found yet)
-Ring of the Overlord (haven’t found yet)
+* Ring of Wisdom  知恵のリング　(increases magic power) (buy from Hamal)
+* Magnet Ring
+* Cat Eye Ring  猫目石のリング (increases light radius) (buy from Hamal)
+* Straw Ring わらしべの輪 (increase skill point gain) (magic chest dungeon 5)
+* Iron Ring 鉄のリング (increases defense) (Chest in Grassland Ruins)
+* Chalk Ring 白亜のリング  (immune to poison) (buy from Hamal or find in dungeon 6 chest)
+* Quartz Ring 石英のリング ( immune to paralysis ) (buy from Hamal)
+* Square Ring (acquire from Caplas after second dungeon, bring back to town to deliver to Regulus, who let’s you keep it)
+* Magic Ring マジックリング (MP regenerates faster) (buy from Hamal)
+* Fire Ring 火のリング　(fire resistance) (chest dungeon 3)
+* Thunder Ring
+* Water Ring
+* Resist Ring 1 レジストリング (Magic Resistance increases) (buy from Hamal)
+* Resist Ring 2 (haven't found yet)
+* Resist Ring 3 (haven't found yet)
+* Guard Ring
+* Blood Cleansing Ring 血清のリング (Increase resistance against status effects) (buy from Hamal)
+* Covenant Ring (str +3, def-2) (magic chest dungeon 7)
+* Ring of Clairvoyance
+* Vardo's Ring (increases all stats a bit) (found in Hexsalkia Castle when you enter it the second time)
+* Ring of Proof (big stats increase) (Found in Ruins of Chaos every 100 floors)
+* Scepter Ring (haven’t found yet)
+* Ring of the Overlord (haven’t found yet)
 
 4) Skill Coins
 
