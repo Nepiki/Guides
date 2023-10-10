@@ -92,7 +92,7 @@ Final Boss: Zeraward
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/407750_lock.png">
 
 <big><pre>
-[Ring Collector (25)](https://media.retroachievements.org/Badge/407750_lock.png)
+[Ring Collector (25)](https://media.retroachievements.org/Badge/407750.png)
 _Collect all 21 rings_
 </pre></big>
 
@@ -126,7 +126,7 @@ The more Skill Coins you collect, the higher your Skill Point gain is when attac
 
 There is a total of 50 Skill Coins to find outside of dungeons.
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/407755_lock.png">
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/407755.png">
 
 <big><pre>
 [Coin Collection: Legend (25)](https://retroachievements.org/achievement/362187)
