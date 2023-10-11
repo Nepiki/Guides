@@ -89,10 +89,10 @@ Final Boss: Zeraward
 
 3) Rings
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/407750_lock.png">
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/407750.png">
 
 <big><pre>
-[Ring Collector (25)](https://media.retroachievements.org/Badge/407750.png)
+[Ring Collector (25)](https://retroachievements.org/achievement/362182)
 _Collect all 21 rings_
 </pre></big>
 
