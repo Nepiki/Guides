@@ -106,11 +106,11 @@ _Collect all 21 rings_
 * Square Ring (acquire from Caplas after second dungeon, bring back to town to deliver to Regulus, who let’s you keep it)
 * Magic Ring マジックリング (MP regenerates faster) (buy from Hamal)
 * Fire Ring 火のリング　(fire resistance) (chest dungeon 3)
-* Thunder Ring
-* Water Ring
-* Resist Ring 1 レジストリング (Magic Resistance increases) (buy from Hamal)
-* Resist Ring 2 (haven't found yet)
-* Resist Ring 3 (haven't found yet)
+* Thunder Ring 雷のリング　(lightning resistance) (magic chest on your way out of dungeon 4)
+* Water Ring 水のリング　(water resistance)
+* Resist Ring 1 レジストリング１ (Magic Resistance increases) (buy from Hamal)
+* Resist Ring 2 レジストリング２ (Magic resistance greater increase) (dungeon 6)
+* Resist Ring 3 レジストリング３ (Magic resistance greatest increase)
 * Guard Ring
 * Blood Cleansing Ring 血清のリング (Increase resistance against status effects) (buy from Hamal)
 * Covenant Ring (str +3, def-2) (magic chest dungeon 7)
