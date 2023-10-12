@@ -91,29 +91,37 @@ Final Boss: Zeraward
 
 # 4) Rings
 
-* Ring of Wisdom  知恵のリング　(increases magic power) (buy from Hamal)
+Rings that you can buy from Hamal:
+
+* Ring of Wisdom  知恵のリング　(increases magic power)
+* Cat Eye Ring  猫目石のリング (increases light radius)
+* Quartz Ring 石英のリング ( immune to paralysis )
+* Magic Ring マジックリング (MP regenerates faster)
+* Resist Ring 1 レジストリング１ (Magic Resistance increases)
+* Blood Cleansing Ring 血清のリング (Increase resistance against status effects)
+
+Rings that you find in chests:
+
 * Magnet Ring マグネットリング (slowly heals HP)
-* Cat Eye Ring  猫目石のリング (increases light radius) (buy from Hamal)
 * Straw Ring わらしべの輪 (increase skill point gain) (magic chest dungeon 5)
 * Iron Ring 鉄のリング (increases defense) (Chest in Grassland Ruins)
 * Chalk Ring 白亜のリング  (immune to poison) (buy from Hamal or find in dungeon 6 chest)
-* Quartz Ring 石英のリング ( immune to paralysis ) (buy from Hamal)
 * Square Ring (acquire from Caplas after second dungeon, bring back to town to deliver to Regulus, who let’s you keep it)
-* Magic Ring マジックリング (MP regenerates faster) (buy from Hamal)
 * Fire Ring 火のリング　(fire resistance) (chest dungeon 3)
 * Thunder Ring 雷のリング　(lightning resistance) (magic chest on your way out of dungeon 4)
 * Water Ring 水のリング　(water resistance)
-* Resist Ring 1 レジストリング１ (Magic Resistance increases) (buy from Hamal)
 * Resist Ring 2 レジストリング２ (Magic resistance greater increase) (dungeon 6)
-* Resist Ring 3 レジストリング３ (Magic resistance greatest increase)
-* Guard Ring ガードリング
-* Blood Cleansing Ring 血清のリング (Increase resistance against status effects) (buy from Hamal)
 * Covenant Ring 契約のリング (str +3, def-2) (magic chest dungeon 7)
 * Ring of Clairvoyance 透視のリング (Let's you see hidden things (so you don't have to press SELECT anymore))
 * Vardo's Ring ワードリング (increases all stats a bit) (found in Hexsalkia Castle when you enter it the second time)
 * Ring of Proof 証のリング (big stats increase) (Found in Chaos Ruins every 100 floors)
 * Scepter Ring セプターリング (Reveals the map) (Is given to you by Resart the Lighthouse Keeper after Dungeon 4, when the darkness disappears and the people on the ship can come on land)
+
+Mystery:
+
 * Ring of the Overlord 覇王のリング (haven’t found yet)
+* Guard Ring ガードリング (haven't found yet)
+* Resist Ring 3 レジストリング３ (Magic resistance greatest increase) (haven't found yet)
 
 # 4) Skill Coins
 
