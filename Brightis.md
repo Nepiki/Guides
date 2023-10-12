@@ -92,7 +92,7 @@ Final Boss: Zeraward
 # 4) Rings
 
 * Ring of Wisdom  知恵のリング　(increases magic power) (buy from Hamal)
-* Magnet Ring
+* Magnet Ring マグネットリング (slowly heals HP)
 * Cat Eye Ring  猫目石のリング (increases light radius) (buy from Hamal)
 * Straw Ring わらしべの輪 (increase skill point gain) (magic chest dungeon 5)
 * Iron Ring 鉄のリング (increases defense) (Chest in Grassland Ruins)
@@ -111,7 +111,7 @@ Final Boss: Zeraward
 * Covenant Ring 契約のリング (str +3, def-2) (magic chest dungeon 7)
 * Ring of Clairvoyance 透視のリング (Let's you see hidden things (so you don't have to press SELECT anymore))
 * Vardo's Ring ワードリング (increases all stats a bit) (found in Hexsalkia Castle when you enter it the second time)
-* Ring of Proof 証のリング (big stats increase) (Found in Ruins of Chaos every 100 floors)
+* Ring of Proof 証のリング (big stats increase) (Found in Chaos Ruins every 100 floors)
 * Scepter Ring セプターリング (Reveals the map) (Is given to you by Resart the Lighthouse Keeper after Dungeon 4, when the darkness disappears and the people on the ship can come on land)
 * Ring of the Overlord 覇王のリング (haven’t found yet)
 
