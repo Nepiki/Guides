@@ -44,7 +44,8 @@ Boss Fight: Venom
 Boss Fight: Razor Back
 
 **Optional Dungeon: Tomb of the Wealthy Family 豪族の墓**
-You can acquire the Book of Confusion here. Give it to the Witch in Elthard Village to unlock level 2 spells.
+After coming back from the stone ruins a stairway will open that lead from the area around the Grassland Ruins to the tomb. You can acquire the Book of Confusion here, which the Witch in Elthard Village will need to unlock level 2 spells.
+After Dungeon 5 an old woman will appear next to the save point in the middle of the village. She we will tell you about deeper secrets being hidden in the tombs by illusion magic. You can now return here and get a second book: The book of enlightenment. You can then unlock level 3 spells.
 
 **Dungeon 4: Sky Ruins 空の遺跡**
 
@@ -89,13 +90,6 @@ Final Boss: Zeraward
 
 3) Rings
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/407750.png">
-
-<big><pre>
-[Ring Collector (25)](https://retroachievements.org/achievement/362182)
-_Collect all 21 rings_
-</pre></big>
-
 * Ring of Wisdom  知恵のリング　(increases magic power) (buy from Hamal)
 * Magnet Ring
 * Cat Eye Ring  猫目石のリング (increases light radius) (buy from Hamal)
@@ -111,14 +105,14 @@ _Collect all 21 rings_
 * Resist Ring 1 レジストリング１ (Magic Resistance increases) (buy from Hamal)
 * Resist Ring 2 レジストリング２ (Magic resistance greater increase) (dungeon 6)
 * Resist Ring 3 レジストリング３ (Magic resistance greatest increase)
-* Guard Ring
+* Guard Ring ガードリング
 * Blood Cleansing Ring 血清のリング (Increase resistance against status effects) (buy from Hamal)
-* Covenant Ring (str +3, def-2) (magic chest dungeon 7)
-* Ring of Clairvoyance
-* Vardo's Ring (increases all stats a bit) (found in Hexsalkia Castle when you enter it the second time)
-* Ring of Proof (big stats increase) (Found in Ruins of Chaos every 100 floors)
-* Scepter Ring (haven’t found yet)
-* Ring of the Overlord (haven’t found yet)
+* Covenant Ring 契約のリング (str +3, def-2) (magic chest dungeon 7)
+* Ring of Clairvoyance 透視のリング (Let's you see hidden things (so you don't have to press SELECT anymore))
+* Vardo's Ring ワードリング (increases all stats a bit) (found in Hexsalkia Castle when you enter it the second time)
+* Ring of Proof 証のリング (big stats increase) (Found in Ruins of Chaos every 100 floors)
+* Scepter Ring セプターリング (Reveals the map) (Is given to you by Resart the Lighthouse Keeper after Dungeon 4, when the darkness disappears and the people on the ship can come on land)
+* Ring of the Overlord 覇王のリング (haven’t found yet)
 
 4) Skill Coins
 
