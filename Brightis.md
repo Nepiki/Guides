@@ -12,7 +12,7 @@ Missable Achievements: There are only 4 missable achievements.
 
 Number of Playthroughs needed: 1 (There is a New Game+, but I am note sure there is anything new there)
 
-1) Walkthrough
+# 2) Walkthrough
 
 Hexsalkia Castle (Tutorial)
 
@@ -78,17 +78,18 @@ You can access it from Elthard Village behind the waterfall. As far as I know th
 Boss 1: Arctarus
 Final Boss: Zeraward
 
-# 2) Characters
+# 3) Characters
 
-* Vardo: The Wizard who guides you in the tutorial
-* Caplas: Captain, Rival
+* Vardo: The Wizard who guides you in the tutorial (See: Vardo's Ring)
+* Caplas: Captain, Rival (See: Square Ring)
 * Capella: Huntress, who finds you and brings you to Elthard Village
 * Alhena: Combo Teacher
 * Regulus: One armed Special Move Teacher
 * Pollux: Special Move Teacher
-* Hamal: Merchant
+* Hamal: Merchant (See: Night Vigil)
+* Lesart: The Lighthouse Keeper (See: Scepter Ring)
 
-# 3) Rings
+# 4) Rings
 
 * Ring of Wisdom  知恵のリング　(increases magic power) (buy from Hamal)
 * Magnet Ring
