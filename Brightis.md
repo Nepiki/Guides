@@ -78,7 +78,7 @@ You can access it from Elthard Village behind the waterfall. As far as I know th
 Boss 1: Arctarus
 Final Boss: Zeraward
 
-2) Characters
+# 2) Characters
 
 * Vardo: The Wizard who guides you in the tutorial
 * Caplas: Captain, Rival
@@ -88,7 +88,7 @@ Final Boss: Zeraward
 * Pollux: Special Move Teacher
 * Hamal: Merchant
 
-3) Rings
+# 3) Rings
 
 * Ring of Wisdom  知恵のリング　(increases magic power) (buy from Hamal)
 * Magnet Ring
@@ -114,7 +114,7 @@ Final Boss: Zeraward
 * Scepter Ring セプターリング (Reveals the map) (Is given to you by Resart the Lighthouse Keeper after Dungeon 4, when the darkness disappears and the people on the ship can come on land)
 * Ring of the Overlord 覇王のリング (haven’t found yet)
 
-4) Skill Coins
+# 4) Skill Coins
 
 The more Skill Coins you collect, the higher your Skill Point gain is when attacking enemies.
 
