@@ -80,7 +80,7 @@ Final Boss: Zeraward
 
 # 3) Characters
 
-* Vardo: The Wizard who guides you in the tutorial (See: Vardo's Ring)
+* Vardo: The Wizard who guides you in the tutorial (See: Ward Ring)
 * Caplas: Captain, Rival (See: Square Ring)
 * Capella: Huntress, who finds you and brings you to Elthard Village
 * Alhena: Combo Teacher
@@ -88,6 +88,9 @@ Final Boss: Zeraward
 * Pollux: Special Move Teacher
 * Hamal: Merchant (See: Night Vigil)
 * Lesart: The Lighthouse Keeper (See: Scepter Ring)
+* Akell: Mother of Rufela and widow of Vardo's. She recognizes Vardo's Ward Ring and asks you to give it back to her.
+* Rufela: A little boy who joins the village after the ship lands in the harbor. He is impressed by you being a warrior and wants you to teach him swordfighting. Later in the game he decides to go adventuring on his own, so you need to bring him back to his mother.
+* Zenia: Old lady who joins the village after the ship can come into harbor. She tells you about the tomb of the wealthy family.
 
 # 4) Rings
 
