@@ -99,7 +99,7 @@ Final Boss: Zeraward
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/409208.png">
 
 <big><pre>
-[The Lighthouse (5)](https://retroachievements.org/achievement/363655)
+[The Lighthouse [m] (5)](https://retroachievements.org/achievement/363655)
 _Obtain the Scepter Ring from Resart_
 </pre></big>
 The Scepter Ring reveals the map if equipped. To get it you need to talk to two characters between the start of the game and after Dungeon 4.
