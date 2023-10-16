@@ -94,7 +94,32 @@ Final Boss: Zeraward
 
 # 4) Rings
 
-Rings that you can buy from Hamal:
+**Rings that you will be given by NPCs:**
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/409208.png">
+
+<big><pre>
+[The Lighthouse (5)](https://retroachievements.org/achievement/363655)
+_Obtain the Scepter Ring from Resart_
+</pre></big>
+The Scepter Ring reveals the map if equipped. To get it you need to talk to two characters between the start of the game and after Dungeon 4.
+1. Speak to Resart the Lighthouse Keeper & Regulus (The One-armed Sword Teacher) before finishing the first dungeon
+2. Speak to Regulus after Grassland Ruins (Dungeon 1)
+3. Return to Elthard Village after Stone Ruins (Dungeon 3) and talk to Resart & Regulus during the Darkness
+4. Speak to Resart after the Sky Ruins (Dungeon 4) when the Darkness is gone to get the reward
+
+(Talk multiple times until Dialogue is exhausted)
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/407742.png">
+
+<big><pre>
+[You Should Have It [m] (5)](https://retroachievements.org/achievement/362174)
+_Obtain the Square Ring from Regulus_
+</pre></big>
+
+You will meet Caplas directly after Stone Ruins (Dungeon 3). He will give you the Square Ring and ask you to go look after the village. When you get there you will see Regulus fighting off some Orcs. You will offer him Caplas' ring but he will tell you to keep it. If you don't go back to the village but follow the way to Sky Ruins (Dungeon 4) and meet Caplas again, he will take the ring back saying you won't need it then.
+
+**Rings that you can buy from Hamal:**
 
 * Ring of Wisdom  知恵のリング　(increases magic power)
 * Cat Eye Ring  猫目石のリング (increases light radius)
@@ -103,28 +128,27 @@ Rings that you can buy from Hamal:
 * Resist Ring 1 レジストリング１ (Magic Resistance increases)
 * Blood Cleansing Ring 血清のリング (Increase resistance against status effects)
 
-Rings that you find in chests:
+**Rings that you find in chests:**
 
-* Magnet Ring マグネットリング (slowly heals HP)
+* Magnet Ring マグネットリング (slowly heals HP) (Found randomly in the Tomb of the Wealthy Family)
 * Straw Ring わらしべの輪 (increase skill point gain) (magic chest dungeon 5)
 * Iron Ring 鉄のリング (increases defense) (Chest in Grassland Ruins)
 * Chalk Ring 白亜のリング  (immune to poison) (buy from Hamal or find in dungeon 6 chest)
-* Square Ring (acquire from Caplas after second dungeon, bring back to town to deliver to Regulus, who let’s you keep it)
 * Fire Ring 火のリング　(fire resistance) (chest dungeon 3)
 * Thunder Ring 雷のリング　(lightning resistance) (magic chest on your way out of dungeon 4)
 * Water Ring 水のリング　(water resistance)
 * Resist Ring 2 レジストリング２ (Magic resistance greater increase) (dungeon 6)
+* Resist Ring 3 レジストリング３ (Magic resistance greatest increase) (Randomly found in the Tomb of the Wealthy Family)
 * Covenant Ring 契約のリング (str +3, def-2) (magic chest dungeon 7)
 * Ring of Clairvoyance 透視のリング (Let's you see hidden things (so you don't have to press SELECT anymore))
 * Vardo's Ring ワードリング (increases all stats a bit) (found in Hexsalkia Castle when you enter it the second time)
 * Ring of Proof 証のリング (big stats increase) (Found in Chaos Ruins every 100 floors)
-* Scepter Ring セプターリング (Reveals the map) (Is given to you by Resart the Lighthouse Keeper after Dungeon 4, when the darkness disappears and the people on the ship can come on land)
 
 Mystery:
 
 * Ring of the Overlord 覇王のリング (haven’t found yet)
 * Guard Ring ガードリング (haven't found yet)
-* Resist Ring 3 レジストリング３ (Magic resistance greatest increase) (haven't found yet)
+
 
 # 4) Skill Coins
 
