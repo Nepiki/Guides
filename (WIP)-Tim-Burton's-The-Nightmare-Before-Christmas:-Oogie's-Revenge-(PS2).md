@@ -9,6 +9,10 @@
 Achievement Set Author: [Bryan1150](https://retroachievements.org/user/Bryan1150)\
 RAGuide Author: [PenguGG](https://retroachievements.org/user/PenguGG)
 
+Credits:\
+The defunct site Pumpkin Patch, containing many info about the game.\
+[bullseye strider](https://www.youtube.com/@hiryualastor), for its walktrough, showcasing some useful strategies and tricks.
+
 # 1) Introduction
 
 Welcome to the RA guide for **Tim Burton's The Nightmare Before Christmas: Oogie's Revenge** for the PS2!
@@ -17,11 +21,12 @@ The game released in 2005 for PS2, developed by CAPCOM, and it proposes itself a
 
 The game takes place some time after the events of the film. Jack yet again gets bored of Halloween. He goes to Doctor Finkelstein for advice in how to improve the next halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip. Jack than decides to leave Halloween Town in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge, taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". Sally manages to send a letter to Jack about what was going on, so he huries back to his town to fix this mess.
 
-This set has challenge achievements that require nightmare mode, the highest difficulty in the game. The main difference between difficulties is changing requirements for the rankings, with Nightmare, of course, having the most difficult requirements. The only other difference is the health of the enemies changing based on difficulties. Because of this, it is possible to start the playthrough on Nightmare Mode.
+⚠️ This set's challenge achievements requires the game to be played on Nightmare Mode, the highest difficulty possible in the game. The difference between difficulties are not that many: enemies will have more health, harder dance segment, and harder S rank requirements in each level. It is still possible to just play the game in Nightmare Mode, as this difficulty is actually manageable to play.
+
 
 # 2) Overview
 
-[**Progression**](#part-1-beat-the-game)
+[**Progression**](#progression)
 
 These achievements can't be missed and will naturally be unlocked by playing the game. Tips may be written when necessary.
 
@@ -29,22 +34,24 @@ These achievements can't be missed and will naturally be unlocked by playing the
 
 [**Rank S**](#step-2-dummy-step-2--total-points-999)
 
-Most of the achievements are about getting A rank in all the levels, as thats the minimum rank required by the game to earn a figurine in a level. S rank however is required for [The Seven Holydays King](https://retroachievements.org/achievement/224865), and to get a costume exclusive just by doing this, Phantom Jack.
+Most of the achievements are about getting A rank in all the levels, but S rank is required for [The Seven Holydays King](https://retroachievements.org/achievement/224865), and to get the final costume for [Phantom Outfits](https://retroachievements.org/achievement/224860).
 
 When you beat a level, the game will rank you based on different categories, and then give you a total rank of the level. The categories are:
 * Time: how much time you spent to beat the level
 * Combo: Highest combo number without breaking it
-* Damage: Lowest amount of hits taken (in nightmare difficulty, the game takes off 1 extra point per hit)
-* Exclamation points: How many times you taunted an enemy (these can also be gotten during a dance)
+* Damage: Amount of hits taken (in nightmare difficulty, an extra point will be given per hit)
+* Exclamation points: These points can be earned by taunting, using Santa Jack's presents, and in dance segments during boss fights
 
 You may think that you need to earn S rank in all ranks and get the total rank S in a level, but that is not the case.\
 The game tracks the highest rank you earn in each of the categories, without taking into consideration the final ranking you earn in a level. With this in mind, if you're finding it too difficult to S rank on first visit, you can even revisit a level and go for just one or two of the categories for S rank, then again for the other two, and the game will assign you S rank for that level.
+
+Requirements and tips in getting S ranks in each level will be written in each of the A Rank achievements.
 
 ***
 
 [**Damageless, Full Combo**](#step-3-dummy-step-3--total-points-999)
 
-All of these achievements can only be done on Nightmare Mode. 
+⚠️ All of these achievements can only be done on Nightmare Mode. 
 
 ***
 
@@ -52,7 +59,8 @@ All of these achievements can only be done on Nightmare Mode.
 
 # 3) Tips
 
-* **Combos** - Soul Spin (Full rotation Left Stick, Square) is your best friend to get combos. Another suggestion is to taunt an enemy (Directional Button) to make them more durable and have them replenish a part of their health to get more combos out of them.
+* **Combos** - Soul Spin (Full Rotation Left Stick, Square) is your best friend to get combos. Another suggestion to do more combos is to taunt an enemy (Directional Button) to make them more durable, especially if they're already damaged to make them replenish some health.
+* **Taunt** - Taunt (Directional Button) is primarily used to get exclamation points, and it can be used repeatedly on the same enemy, regardless if it's already enraged or not.
 * **Blue Souls** - Not only will they increase damage, but when using Soul Cycle (Triangle Charged), use a blue soul when you see the Soul Rubber becoming almost red to extended the move duration. This is very powerful when in enclosed areas full of normal size enemies.
 * **Dodge Extension** - Right after dodging (Circle), quickly change into any costume you have (L1 / R1) to have more invincibility. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge.
 * **Hidden Enemies** - Rather than attacking stuff in which they're hiding, change into Santa Jack (R1) and throw either a Re-Possession Present or Scared Stiff Present. Re-Possession will take them out of their enragement, as they'll always be enraged when hidden. Scared Stiff will stun them for a bit of time, especially effective against Halloween Ghosts.
@@ -60,7 +68,7 @@ All of these achievements can only be done on Nightmare Mode.
 
 # 4) Walktrough
 
-## Beat the game
+## Progression
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248483.png">
 
