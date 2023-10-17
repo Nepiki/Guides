@@ -5,6 +5,9 @@
 Set Author: [televandalist](https://retroachievements.org/user/televandalist), [wilhitewarrior](https://retroachievements.org/user/wilhitewarrior)\
 RAGuide Author: [PenguGG](https://retroachievements.org/user/PenguGG)
 
+Credits:\
+[televandalist](https://retroachievements.org/user/televandalist) and [wilhitewarrior](https://retroachievements.org/user/wilhitewarrior) for discovering the general rank and its requirements and mechanism
+
 # OVERVIEW
 
 This guide will be about all the achievements for the game, and will also help you into achieving the General rank, the highest rank in the game. It is possible to go for all of the achievements in 1 playthrough (minus 1 achievement) by using saves, and it is suggested to do so, as many achievements are easily missable due to some places or options being no longer available when getting far enough through the story, or some achievements related to certain events that you wouldn't want to do them if pursuing the General rank.
