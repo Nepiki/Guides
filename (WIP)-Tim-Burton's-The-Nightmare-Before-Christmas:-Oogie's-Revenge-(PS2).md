@@ -201,8 +201,8 @@ You're likely to earn this and the others first if you didn't complete the hidde
 
 ```
 The Seven Holidays King [50]
-Beat the game with an overall "S" ranking on all levels and successfully complete both secret chapters
-on Nightmare Mode
+Beat the game with an overall "S" ranking on all levels and successfully complete both
+secret chapters on Nightmare Mode
 ```
 `Completion`
 
