@@ -17,12 +17,11 @@ The defunct site Pumpkin Patch, containing many info about the game.\
 
 Welcome to the RA guide for **Tim Burton's The Nightmare Before Christmas: Oogie's Revenge** for the PS2!
 
-The game released in 2005 for PS2, developed by CAPCOM, and it proposes itself as a sequel to the 1993 movie, **Tim Burton's The Nightmare Before Christmas**. The game has some similiarity to **Devil May Cry**, like the combo ranking, level progression and secrets, although it is much easier to play.
+The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes itself as a sequel to the 1993 movie, **Tim Burton's The Nightmare Before Christmas**. The game has some similiarity to **Devil May Cry**, like the combo ranking, level progression and secrets, although it is much easier to play.
 
-The game takes place some time after the events of the film. Jack yet again gets bored of Halloween. He goes to Doctor Finkelstein for advice in how to improve the next halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip. Jack than decides to leave Halloween Town in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge, taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". Sally manages to send a letter to Jack about what was going on, so he huries back to his town to fix this mess.
+The game takes place some time after the events of the film. Jack yet again gets bored of Halloween. He goes to Doctor Finkelstein for advice in how to improve the next halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip. Jack than decides to leave Halloween Town in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge, taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". Sally manages to send a letter to Jack about what was going on, so he huries back to his town to fix the mess.
 
-⚠️ This set's challenge achievements requires the game to be played on Nightmare Mode, the highest difficulty possible in the game. The difference between difficulties are not that many: enemies will have more health, harder dance segment, and harder S rank requirements in each level. It is still possible to just play the game in Nightmare Mode, as this difficulty is actually manageable to play.
-
+⚠️ Most of the achievements requires the game to be played on Nightmare Mode, the highest difficulty possible in the game. The difference between difficulties are not that many: enemies will have more health, dance segments require more precise timings, and harder ranking requirements in each level. It is possible to just play the game in Nightmare Mode, as this difficulty is actually manageable to play.
 
 # 2) Overview
 
@@ -32,9 +31,9 @@ These achievements can't be missed and will naturally be unlocked by playing the
 
 ***
 
-[**Rank S**](#step-2-dummy-step-2--total-points-999)
+[**Rank S**](#rank-s)
 
-Most of the achievements are about getting A rank in all the levels, but S rank is required for [The Seven Holydays King](https://retroachievements.org/achievement/224865), and to get the final costume for [Phantom Outfits](https://retroachievements.org/achievement/224860).
+Most of these achievements will require you to get at least A Rank, as that's the requirement to be rewarded a figurine. While getting an overall S rank is required for [The Seven Holydays King](https://retroachievements.org/achievement/224865), and to also get the final costume for [Phantom Outfits](https://retroachievements.org/achievement/224860).
 
 When you beat a level, the game will rank you based on different categories, and then give you a total rank of the level. The categories are:
 * Time: how much time you spent to beat the level
@@ -45,17 +44,25 @@ When you beat a level, the game will rank you based on different categories, and
 You may think that you need to earn S rank in all ranks and get the total rank S in a level, but that is not the case.\
 The game tracks the highest rank you earn in each of the categories, without taking into consideration the final ranking you earn in a level. With this in mind, if you're finding it too difficult to S rank on first visit, you can even revisit a level and go for just one or two of the categories for S rank, then again for the other two, and the game will assign you S rank for that level.
 
-Requirements and tips in getting S ranks in each level will be written in each of the A Rank achievements.
+To get a total Rank of S, not only are you needed to earn all the S ranks, but to also complete the two hidden chapters. These chapters have no ranking, all you need to do is to just complete them.
+
+⚠️ It is not suggested to go after these hidden chapters while also going for S ranking their main chapters, as you're technically still in that chapter. Any hits taken or the time you lose in these hidden chapters will be added to the main chapter's ranking. Plus, it is next to impossible to S rank completely the main chapter while also going for the hidden chapter. They can be done any time anyway, even after beating the game, so don't worry about it!
 
 ***
 
-[**Damageless, Full Combo**](#step-3-dummy-step-3--total-points-999)
+[**Damageless, Full Combo**](#damageless-full-combo)
 
-⚠️ All of these achievements can only be done on Nightmare Mode. 
+⚠️ All of these achievements can only be done in Nightmare Mode. 
 
 ***
 
-[**Hidden Places, Collectables, Upgrades**](#step-3-dummy-step-3--total-points-999)
+[**Hidden Places, Collectables, Upgrades, Items**](#hidden-places-collectables-upgrades-items)
+
+
+
+[**The Speedrun Before Christmas**](#the-speedrun-before-christmas)
+
+This section will be dedicated to the achievement [The Speedrun Before Christmas](https://retroachievements.org/achievement/224866).
 
 # 3) Tips
 
@@ -142,12 +149,77 @@ Defeat Mega Oogie and save all of the Holidays!
 ```
 `Completion`
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248701.png">
+
+```
+Jack Must Die! [25]
+Beat the game on Nightmare Mode
+```
+`Completion`
+
 ## Rank S
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248699.png">
+
+```
+Bone Chilling [5]
+Beat the game with an overall ranking of "C" or higher
+```
+`Completion`
+
+See **The Seven Holidays King** for more information.
+
+***
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248700.png">
+
+```
+Horror Show [10]
+Beat the game with an overall ranking of "B" or higher
+```
+`Completion`
+
+See **The Seven Holidays King** for more information.
+
+***
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248702.png">
+
+```
+The Pumpkin King [25]
+Beat the game with an overall ranking of "A" or higher on Nightmare Mode
+```
+`Completion`
+
+See **The Seven Holidays King** for more information.
+
+You're likely to earn this and the others first if you didn't complete the hidden chapters when beating the game.
+
+***
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248703.png">
 
 ```
 The Seven Holidays King [50]
-Beat the game with an overall "S" ranking on all levels and successfully complete both secret chapters on Nightmare Mode
+Beat the game with an overall "S" ranking on all levels and successfully complete both secret chapters
+on Nightmare Mode
 ```
 `Completion`
+
+You'll earn this by beating the game on nightmare mode with an overall S rank in the game. You can see if you got the rank by going to Jack's House.
+
+## Damageless, Full Combo
+
+## Hidden Places, Collectables, Upgrades, Items
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248745.png">
+
+```
+Smokin' Sexy Style!! [5]
+Get a Pumpkin King Combo Rank for the first time [Dances don't count]
+```
+Perform a total combo of 150 without breaking it to reach **Pumpkin King** combo rank.
+
+You'll have many opportunities to do this, but the easiest to do this is in Chapter 3. Continue until you're trapped in an arena fight with Shock. Perform Soul Cycle (Charged Triangle), and keep it going using Blue Souls before the Soul Robber becomes red (sometimes the enemies drop a Blue Soul too). When you run out of Blue Souls, keep the combo going by either hitting the enemies with a normal attack or with Soul Spin (Full Rotation Left Stick, Square).
+
+## The Speedrun Before Christmas
