@@ -223,3 +223,34 @@ Perform a total combo of 150 without breaking it to reach **Pumpkin King** combo
 You'll have many opportunities to do this, but the easiest to do this is in Chapter 3. Continue until you're trapped in an arena fight with Shock. Perform Soul Cycle (Charged Triangle), and keep it going using Blue Souls before the Soul Robber becomes red (sometimes the enemies drop a Blue Soul too). When you run out of Blue Souls, keep the combo going by either hitting the enemies with a normal attack or with Soul Spin (Full Rotation Left Stick, Square).
 
 ## The Speedrun Before Christmas
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248755.png">
+
+```
+The Speedrun Before Christmas [50]
+Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
+```
+
+If you've beaten the game, you'll have a general idea of how to progress through the game, making this achievement easier to do.\
+Below i'll write different tips for each level and how to beat them the fastest way possible.
+
+### General Tips
+* Cutscenes and pausing the game will not block the timer. The ranking screen, or the level select screen will block the timer however.
+* You won't ever need to waste time to save in-game by speaking to Mr. Hyde. Only save at chapter end.
+* You can, and must, play in easy mode for this achievement. Easy mode puts enemies on their lowest maximum health, making them faster to defeat.
+* You're not obbligated to fight all of the enemies in the game. It'll be written if some are obbligatory, but most of them can be just walked off.
+* Getting a good rank in each chapter means more souls, which means less time to get the necessary upgrades.
+* The only upgrades that you need are the Soul Robber and the Pumpkin King costume uopgrades.
+* You're better off using the normal combo rather than Soul Spin or Soul Cycle.
+
+### Chapter 1
+1. Fight the skeletons until Oogie Boogie starts to talk. It'll take you 6 skeletons.
+2. The skeletons will continue to spawn endlessly until Oogie Boogie stops talking. Finish them off when he starts laughing.
+3. Move immediately in the Town Hall to start the boss fight.
+4. Hitting him does lead to more constant damage, but while hitting him, grab some notes so that you'll finish him off fast.
+
+### Chapter 2
+1. Talk to Corpse Kid. Optionally replenish your health at the fountain if needed. Then move to the Witches' Shop, which is nord of Corpse Kid.
+2. It's unlikely that you'll have anything to buy, so after the cutscene, immediately exit. Talk to Corpse Kid again and enter into the manhole.
+3. Defeat the enemies in her and talk to Clown. Then get out of the manhole through the grapple point.
+4. Go to the entrance of Halloween Town, right in front of the fountain, and defeat the enemies that'll appear. Then interact with the gate.
