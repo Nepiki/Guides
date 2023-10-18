@@ -231,7 +231,7 @@ The Speedrun Before Christmas [50]
 Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
 ```
 
-If you've beaten the game, you'll have a general idea of how to progress through the game, making this achievement easier to do.\
+If you've beaten the game, you'll have a general idea of how to progress through the game, making this achievement easier to do. If you didn't, wait until you're done with everything else, so that you'll be more prepared for this playthrough.\
 Below i'll write different tips for each level and how to beat them the fastest way possible.
 
 ### General Tips
@@ -244,13 +244,27 @@ Below i'll write different tips for each level and how to beat them the fastest 
 * You're better off using the normal combo rather than Soul Spin or Soul Cycle.
 
 ### Chapter 1
+<details>
+
 1. Fight the skeletons until Oogie Boogie starts to talk. It'll take you 6 skeletons.
+
 2. The skeletons will continue to spawn endlessly until Oogie Boogie stops talking. Finish them off when he starts laughing.
+
 3. Move immediately in the Town Hall to start the boss fight.
-4. Hitting him does lead to more constant damage, but while hitting him, grab some notes so that you'll finish him off fast.
+
+4. Hitting Shadow Oogie does lead to constant damage, but while hitting him, grab some notes so that you'll finish him off fast.
+
+</details>
 
 ### Chapter 2
+<details>
+
 1. Talk to Corpse Kid. Optionally replenish your health at the fountain if needed. Then move to the Witches' Shop, which is nord of Corpse Kid.
+
 2. It's unlikely that you'll have anything to buy, so after the cutscene, immediately exit. Talk to Corpse Kid again and enter into the manhole.
+
 3. Defeat the enemies in her and talk to Clown. Then get out of the manhole through the grapple point.
+
 4. Go to the entrance of Halloween Town, right in front of the fountain, and defeat the enemies that'll appear. Then interact with the gate.
+
+</details>
