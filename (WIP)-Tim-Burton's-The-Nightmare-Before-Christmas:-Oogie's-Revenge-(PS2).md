@@ -21,52 +21,39 @@ The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes
 
 The game takes place some time after the events of the film. Jack yet again gets bored of Halloween. He goes to Doctor Finkelstein for advice in how to improve the next halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip. Jack than decides to leave Halloween Town in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge, taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". Sally manages to send a letter to Jack about what was going on, so he huries back to his town to fix the mess.
 
-Most of the achievements requires the game to be played on Nightmare Mode, the highest difficulty possible in the game. The differences between difficulties are just a few: enemies have more health, dance segments require more precise timings, and more strict ranking requirements. It is possible to just play the game in Nightmare Mode, as this difficulty is actually manageable to play.
-
 ⚠️ The only supported version of the game is the european version. When playing this version, the game will ask you at what refresh rate, or video mode, to play the game. Only select 60Hz to be able to earn achievements, as 50Hz is not supported.
 
 # 2) Overview
 
-[**Progression**](#progression)
+[**Progression, Extras**](#progression)
 
-These achievements can't be missed and will be naturally unlocked by just playing the game.
+These can't be missed and will be naturally unlocked by just playing through the game. While doing these, you should also go for the extras achievements, as this is the best opportunity to get them out of the way and to also get ready for the rest of the set.
+
+Most importantly, you can decide to start on Nightmare Mode, the highest difficulty in the game. Despite the increse in difficulty, it is still manageable enough to get through the game. And besides, all of the challenge achievements will require this difficulty anyway.
 
 ***
 
 [**Rank S**](#rank-s)
 
-Most of these achievements will require you to get at least A Rank, as that's the requirement to be rewarded a figurine. While getting an overall S rank is required for [The Seven Holydays King](https://retroachievements.org/achievement/224865), and to also get the final costume for [Phantom Outfits](https://retroachievements.org/achievement/224860).
+Most of the ranking achievements are about the A rank, as that's the requirement to be rewarded a figurine. Getting A rank is not that difficult, but getting S rank does require you to go out of your way to reach their requirements. It also needs to be done on Nightmare Mode because of The Seven Holidays King.
 
-When you beat a level, the game will rank you based on different categories, and then give you a total rank of the level. The categories are:
-* Time: how much time you spent to beat the level
-* Combo: Highest combo number without breaking it
-* Damage: Amount of hits taken (in nightmare difficulty, an extra point will be given per hit)
-* Exclamation points: These points can be earned by taunting, using Santa Jack's presents, and in dance segments during boss fights
-
-The game tracks the highest rank you earn in each of the categories, and it does not take into consideration the final ranking you earn in a level. With this in mind, if you're finding it too difficult to S rank on first visit, you can even revisit a level and go for just one or two of the categories for S rank, then again for the other two, and the game will assign you S rank for that level.
-
-To get a total Rank of S, not only are you needed to earn all the S ranks, but to also complete the two hidden chapters. These chapters have no ranking, and just require to fully finish them to have them checked.
-
-⚠️ It is not suggested to go after these hidden chapters while also going for S rank in their main chapters, as you're technically still in that chapter, and any hits taken or the time lost in these hidden chapters will be added to the main chapter's rankings. Plus, it is next to impossible to S rank completely the main chapter while also going for the hidden chapter (or at least it looks like it). They can be done any time anyway, even after beating the game.
+More about how to ranking system will be explained in The Seven Holidays King, as well as each of the A rank achievement will have tips and video guides about getting the S rank. Sadly I can't know exactly the requirements for A rank, but since we are interested more in getting the S ranks it won't matter as much.
 
 ***
 
 [**Damageless, Full Combo**](#damageless-full-combo)
 
-All of these achievements can only be done in Nightmare Mode.
 
-Tips will be provided on how to avoid certain attacks and different strategies
 
 ***
 
-[**Hidden Places, Collectables, Upgrades, Items**](#hidden-places-collectables-upgrades-items)
+[**Extras**](#extras)
 
 
 
 [**The Speedrun Before Christmas**](#the-speedrun-before-christmas)
 
-This section will be dedicated to the achievement [The Speedrun Before Christmas](https://retroachievements.org/achievement/224866).\
-This is put last as it makes it easier to do if you've beaten the game first. 
+This will, or will not, be your final achievement of the set.
 
 # 3) Tips
 
@@ -86,9 +73,6 @@ This is put last as it makes it easier to do if you've beaten the game first.
 This is Oogie-Town [5]
 Defeat Oogie Boogie's Shadow and recover the Halloween Door
 ```
-`Progression`
-
-* The dices he throws can be easily dodged
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248514.png">
 
@@ -96,7 +80,6 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 Damcel in Distress [5]
 Defeat the Mega Spider and recover the Valentine's Day Door
 ```
-`Progression`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248515.png">
 
@@ -104,7 +87,6 @@ Defeat the Mega Spider and recover the Valentine's Day Door
 Cerebrum Cleansed [5]
 Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 ```
-`Progression`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248516.png">
 
@@ -112,7 +94,6 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 Thanks for Giving the Door [5]
 Defeat Barrel and his Army of Skeletons and recover the Thanksgiving Door
 ```
-`Progression`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248517.png">
 
@@ -120,7 +101,6 @@ Defeat Barrel and his Army of Skeletons and recover the Thanksgiving Door
 Trick or Treat! [5]
 Defeat Lock, Shock and Barrel and recover the Independence Day Door
 ```
-`Progression`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248518.png">
 
@@ -128,7 +108,6 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 Boogeyman's Wager [10]
 Defeat Oogie Boogie and recover the Easter Door
 ```
-`Progression`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248519.png">
 
@@ -136,7 +115,6 @@ Defeat Oogie Boogie and recover the Easter Door
 A Dance of Fire and Ice [10]
 Defeat the Fire King and Ice King Skeletons and recover the Christmas Door
 ```
-`Progression`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248520.png">
 
@@ -144,7 +122,6 @@ Defeat the Fire King and Ice King Skeletons and recover the Christmas Door
 Father Christmas' Sorrow [10]
 Defeat the Oogie Train to save Sandy
 ```
-`Progression`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248521.png">
 
@@ -152,7 +129,7 @@ Defeat the Oogie Train to save Sandy
 You're King Of Nothing! [25]
 Defeat Mega Oogie and save all of the Holidays!
 ```
-`Completion`
+`COMPLETION`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248701.png">
 
@@ -160,7 +137,7 @@ Defeat Mega Oogie and save all of the Holidays!
 Jack Must Die! [25]
 Beat the game on Nightmare Mode
 ```
-`Completion`
+`COMPLETION`
 
 ## Rank S
 
@@ -170,7 +147,7 @@ Beat the game on Nightmare Mode
 Bone Chilling [5]
 Beat the game with an overall ranking of "C" or higher
 ```
-`Completion`
+`COMPLETION`
 
 See **The Seven Holidays King** for more information.
 
@@ -182,7 +159,7 @@ See **The Seven Holidays King** for more information.
 Horror Show [10]
 Beat the game with an overall ranking of "B" or higher
 ```
-`Completion`
+`COMPLETION`
 
 See **The Seven Holidays King** for more information.
 
@@ -194,7 +171,7 @@ See **The Seven Holidays King** for more information.
 The Pumpkin King [25]
 Beat the game with an overall ranking of "A" or higher on Nightmare Mode
 ```
-`Completion`
+`COMPLETION`
 
 See **The Seven Holidays King** for more information.
 
@@ -209,13 +186,23 @@ The Seven Holidays King [50]
 Beat the game with an overall "S" ranking on all levels and successfully complete both
 secret chapters on Nightmare Mode
 ```
-`Completion`
+`COMPLETION`
 
-You'll earn this by beating the game on nightmare mode with an overall S rank in the game. You can see if you got the rank by going to Jack's House.
+When you beat a level, the game will rank you based on different categories, and then give you a total rank of the level. The categories are:
+* Time: how much time you spent to beat the level;
+* Combo: Highest combo number without breaking it;
+* Damage: Amount of hits taken;
+* Exclamation points: These points can be earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons.
+
+The game tracks the highest rank you earn in each of the categories, and it does not take into consideration the final ranking you earn in a level. With this in mind, if you're finding it too difficult to S rank on first visit, you can even revisit a level and go for just one or two of the categories for S rank, then again for the other two, and the game will assign you S rank for that level.
+
+To get a total Rank of S, not only are you needed to earn all the S ranks, but to also complete the two hidden chapters. These chapters have no ranking, and you are just required to complete them.
+
+⚠️ Be aware that if you are going for the hidden chapters, any hits or any time you spend in these hidden chapters will count for the rankings in the main chapters, as you're still technically playing them. If you still need to do S ranks, know that the hidden chapters will make them hard to S rank. They can be done anytime, even after beating the game, so there's no rush.
 
 ## Damageless, Full Combo
 
-## Hidden Places, Collectables, Upgrades, Items
+## Extra
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248745.png">
 
@@ -235,11 +222,10 @@ You'll have many opportunities to do this, but the easiest to do this is in Chap
 The Speedrun Before Christmas [50]
 Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
 ```
+`COMPLETION` `SPEEDRUN`
 
 If you've beaten the game, you'll have a general idea of how to progress through the game, making this achievement easier to do. If you didn't, wait until you're done with everything else, so that you'll be more prepared for this playthrough.\
-Below i'll write different tips for each level and how to beat them the fastest way possible.
-
-### General Tips
+Below i'll write different tips for each level and how to beat them the fastest way possible. But first, some things to keep in mind:
 * You can, and must, play on easy mode for this achievement. Easy mode puts enemies on their lowest maximum health, making them faster to defeat.
 * Cutscenes and pausing the game will not block the timer. The ranking screen, or the level select screen will block the timer however.
 * You won't ever need to waste time to save in-game by speaking to Mr. Hyde. Only save at chapter end.
@@ -247,6 +233,7 @@ Below i'll write different tips for each level and how to beat them the fastest 
 * Getting a good rank in each chapter means more souls to spend on upgrades, but it's ultimately not important.
 * The only upgrades that you'll ever need are the Soul Robber and, maybe, the Pumpkin King costume upgrades. Santa Jack Costume will ever see usage only for progression.
 * For most of the enemies, the normal Soul Robber combo (Square) will be sufficient to take care of most of the enemies as quickly as possibile. With the Halloween Ghosts and the King Ghosts it's better to use Soul Slam (Triangle), and with the Troll Skeletons and King Skeletons charge your Square and hit them from behind.
+
 
 ### Chapter 1
 <details>
