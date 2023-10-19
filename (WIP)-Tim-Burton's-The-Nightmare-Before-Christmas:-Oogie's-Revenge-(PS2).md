@@ -25,7 +25,7 @@ The game takes place some time after the events of the film. Jack yet again gets
 
 # 2) Overview
 
-[**Progression, Extras**](#progression)
+[**Progression**](#progression)
 
 These can't be missed and will be naturally unlocked by just playing through the game. While doing these, you should also go for the extras achievements, as this is the best opportunity to get them out of the way and to also get ready for the rest of the set.
 
@@ -73,6 +73,7 @@ This will, or will not, be your final achievement of the set.
 This is Oogie-Town [5]
 Defeat Oogie Boogie's Shadow and recover the Halloween Door
 ```
+`PROGRESSION`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248514.png">
 
@@ -80,6 +81,7 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 Damcel in Distress [5]
 Defeat the Mega Spider and recover the Valentine's Day Door
 ```
+`PROGRESSION`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248515.png">
 
@@ -87,6 +89,7 @@ Defeat the Mega Spider and recover the Valentine's Day Door
 Cerebrum Cleansed [5]
 Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 ```
+`PROGRESSION`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248516.png">
 
@@ -94,6 +97,7 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 Thanks for Giving the Door [5]
 Defeat Barrel and his Army of Skeletons and recover the Thanksgiving Door
 ```
+`PROGRESSION`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248517.png">
 
@@ -101,6 +105,7 @@ Defeat Barrel and his Army of Skeletons and recover the Thanksgiving Door
 Trick or Treat! [5]
 Defeat Lock, Shock and Barrel and recover the Independence Day Door
 ```
+`PROGRESSION`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248518.png">
 
@@ -108,6 +113,7 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 Boogeyman's Wager [10]
 Defeat Oogie Boogie and recover the Easter Door
 ```
+`PROGRESSION`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248519.png">
 
@@ -115,6 +121,7 @@ Defeat Oogie Boogie and recover the Easter Door
 A Dance of Fire and Ice [10]
 Defeat the Fire King and Ice King Skeletons and recover the Christmas Door
 ```
+`PROGRESSION`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248520.png">
 
@@ -122,6 +129,7 @@ Defeat the Fire King and Ice King Skeletons and recover the Christmas Door
 Father Christmas' Sorrow [10]
 Defeat the Oogie Train to save Sandy
 ```
+`PROGRESSION`
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248521.png">
 
