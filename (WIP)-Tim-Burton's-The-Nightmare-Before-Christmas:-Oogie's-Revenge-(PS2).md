@@ -76,6 +76,12 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 ```
 `PROGRESSION`
 
+* He will every so often throw dices at you. These can easily be dodged (Circle) with the right timing, or you can dodge them just by keeping walking left or fight.
+* The Halloween Ghosts won't give that much trouble, but can be rather annoying. Soul Spin will let you damage them while also damaging Oogie Boogie's Shadow, and also collect the notes they'll drop. They can also potentially drop a Blue Soul, letting you deal more damage to Oogie Boogie's Shadow.
+* When Oogie Boogie's Shadow starts to sing the WOW part of the song, the Halloween Ghosts will pick up bigger dices to drop them at you. Start to dodge them right when Oogie Boogie's Shadow sings WOW for the third time.
+
+You'll earn the achievement at the end of the fight.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248514.png">
 
 ```
@@ -83,6 +89,12 @@ Damcel in Distress [5]
 Defeat the Mega Spider and recover the Valentine's Day Door
 ```
 `PROGRESSION`
+
+* It has a weak spot on his back that when hit, he becomes many tiny versions of itself. Soul Spin is a very effective move here, as it'll attract the tiny spiders to you making it easier to hit them.
+* Keep some distance from the spider, as he has 3 different attacks that he can do at random. Preferably don't stand in front of him, since he'll always turn himself to face into your direction before attacking.
+* The web projectiles does not damage you, but will block you in place, even when the web is on the ground. He'll also start to spit 2 more projectiles when reaches half his health bar.
+
+You'll earn the achievement at the end of the fight, alongside the Pumpkin Jack Costume.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248515.png">
 
@@ -92,6 +104,12 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 ```
 `PROGRESSION`
 
+The only way to damage him is to throw the pieces of brain at him while his head is open. You'll only need to do this 2 times and he's defeated. There are 2 ways to fight Dr. Finkelstein:
+1. Grab his head from begind with triangle and repeatedly press triangle until his head opens. Then grab a piece of brain in the tray on the left of the arena and throw it right in front of him while his head is open.
+2. Destroy his machines and collect the notes. Perform the dance segment successfully and his head will be open. Grab a piece of brain on the tray to the left and throw it right in front of him.
+
+You'll earn the achievement at the end of the fight, alongside the Santa Jack Costume.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248516.png">
 
 ```
@@ -100,6 +118,11 @@ Defeat Barrel and his Army of Skeletons and recover the Thanksgiving Door
 ```
 `PROGRESSION`
 
+* He fights exacly like Lock all the way back in chapter 4. He'll run around the arena and sometimes summons enemies. Follow him and hit him when possible.
+* Just like Lock, he can be taunted, which stuns him and lets you Soul Spin him for high damage. You can do this repeatedly in quick succession until he's defeated.
+
+You'll earn the achievement at the end of the fight.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248517.png">
 
 ```
@@ -107,6 +130,13 @@ Trick or Treat! [5]
 Defeat Lock, Shock and Barrel and recover the Independence Day Door
 ```
 `PROGRESSION`
+
+* Dodge their traps, or grab them with square and send them back at them for damage. Be aware that they can even throw 2 traps as the same time.
+* Hit the bathtub either with Soul Robber, throwing traps or the explosive pumpkins at it until destroyed.
+* When the bathtub is destroyed, all three will get off of it. This time they'll try to attack you while also running from you. Of the 3, Lock is the most dangerous one, as her attack is kind of hard to avoid, so try your best to go after her.
+* Fire Blast from the Pumpkin King Costume is very useful here. It'll blast them off in the air while also dealing high damage. If you can, try to hit at least 2 of them with it.
+
+You'll earn the achievement at the end of the fight.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248518.png">
 
@@ -123,6 +153,12 @@ A Dance of Fire and Ice [10]
 Defeat the Fire King and Ice King Skeletons and recover the Christmas Door
 ```
 `PROGRESSION`
+
+* Both the Fire King Skeleton and the Ice King Skeleton are basically bigger King Skeleton, so just like them the best way to defeat them is to attack them from behind.
+* Ice King Skeleton will go down very easily via Fire Blast from the Pumpkin King Costume. Don't use the costume against the Fire King Skeleton or it'll heal from it.
+* When either of them turns black, use Santa Jack's Re-Possession present to turn them back to normal.
+
+You'll earn the achievement at the end of the fight.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248520.png">
 
@@ -244,7 +280,7 @@ Below i'll write different tips for each level and how to beat them the fastest 
 * For most of the enemies, the normal Soul Robber combo (Square) will be sufficient to take care of most of the enemies as quickly as possibile. With the Halloween Ghosts and the King Ghosts it's better to use Soul Slam (Triangle), and with the Troll Skeletons and King Skeletons charge your Square and hit them from behind.
 
 
-### Chapter 1
+### [Chapter 1](https://www.youtube.com/watch?v=jEQ3aKmckXk)
 <details>
 
 [![Speedrun Chapter 1](https://github.com/RetroAchievements/guides/assets/133049176/09940d08-aa91-4b44-8d39-d6d3d81a1c90)](https://www.youtube.com/watch?v=jEQ3aKmckXk)
