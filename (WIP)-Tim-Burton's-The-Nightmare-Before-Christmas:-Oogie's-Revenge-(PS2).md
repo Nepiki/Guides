@@ -61,6 +61,7 @@ This will, or will not, be your final achievement of the set.
 * **Taunt** - Taunt (Directional Button) is primarily used to get exclamation points, and it can be used repeatedly on the same enemy, even if they are already in Oogie Mode, to rack up exclamation points. You need to wait for them to finish their "startled" animation first before you're able to taunt them again.
 * **Blue Souls** - Not only will they increase damage, but when using Soul Cycle (Triangle Charged), use a blue soul when you see the Soul Rubber becoming almost red to extended the move duration. This is very powerful when in enclosed areas full of normal size enemies.
 * **Pumpkin King Costume** - While it is a powerful costume, with Fire Bomb (Triangle) doing very high damage, the costume is often used for puzzles and exploration, and it is better to conserve the Red Souls to avoid annoyance.
+* **Santa Jack Costume** - The presents can be used against the enemies hidden in things to discover them and not be immediately retaliated. The presents can have different usages: Re-Possession takes them out of their Oogie Mode (they usualy always are when hidden), Scared Stiff will stun them in place (especially effective against Halloween and King Ghosts).
 * **Dodge Extension** - Right after dodging (Circle), quickly change into any costume you have (L1 / R1) to have more invincibility. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge.
 
 # 4) Walktrough
