@@ -371,6 +371,46 @@ Get a Full Combo in the dance against Lock, Shock and Barrel on Nightmare Mode
 
 This dance will pick up pace after a while. Be ready for the later parts.
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248711.png">
+
+```
+I'm the Only Pumpkin King! [25]
+Defeat Oogie Boogie without taking damage on Nightmare Mode
+```
+`CHALLENGE`
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248713.png">
+
+```
+Whoa oh! Whoa oh! [5]
+Get a Full Combo in the dance against Oogie on Nightmare Mode
+```
+`CHALLENGE`
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248712.png">
+
+```
+Half-Cold Half-Hot [10]
+Defeat the Fire King and Ice King without taking damage on Nightmare Mode
+```
+`CHALLENGE`
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248718.png">
+
+```
+A Filthy Finale [25]
+Defeat Mega Oogie 1st Phase without taking damage on Nightmare Mode
+```
+`COMPLETION` `CHALLENGE`
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248717.png">
+
+```
+It's Payback Time! [10]
+Get a Full Combo in the dance against Mega Oogie on Nightmare Mode
+```
+`COMPLETION` `CHALLENGE`
+
 ## Extra
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248745.png">
@@ -384,6 +424,16 @@ Perform a total combo of 150 without breaking it to reach **Pumpkin King** combo
 
 You'll have many opportunities to do this, but the easiest to do this is in Chapter 3. Continue until you're trapped in an arena fight with Shock. Perform Soul Cycle (Charged Triangle), and keep it going using Blue Souls before the Soul Robber becomes red (sometimes the enemies drop a Blue Soul too). When you run out of Blue Souls, keep the combo going by either hitting the enemies with a normal attack or with Soul Spin (Full Rotation Left Stick, Square).
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248719.png">
+
+```
+Fire Hazard [10]
+Defeat Mega Oogie 1st Phase without using the Pumpkin King Costume
+```
+`COMPLETION` `CHALLENGE`
+
+This is an endurance test: you'll lost so much damage by not being able to light the gas leaks, so you'll have to rely entirely on Soul Robber, maybe using Blue Souls to do some extra damage, and your ability to survive against all of his attacks. Remember the tips presented in You're King Of Nothing!, and keep a steady pace when fighting him.
+
 ## The Speedrun Before Christmas
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248755.png">
@@ -392,7 +442,7 @@ You'll have many opportunities to do this, but the easiest to do this is in Chap
 The Speedrun Before Christmas [50]
 Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
 ```
-`COMPLETION` `SPEEDRUN`
+`COMPLETION` `CHALLENGE`
 
 If you've beaten the game, you'll have a general idea of how to progress through the game, making this achievement easier to do. If you didn't, wait until you're done with everything else, so that you'll be more prepared for this playthrough.\
 Below i'll write different tips for each level and how to beat them the fastest way possible. But first, some things to keep in mind:
