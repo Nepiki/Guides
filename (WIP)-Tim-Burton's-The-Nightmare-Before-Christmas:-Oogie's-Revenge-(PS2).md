@@ -275,14 +275,14 @@ O X X \
 O X /\ \
 O X /\
 
-X /\ [] \
-O /\ [] \
+X /\ [ ] \
+O /\ [ ] \
 O X /\ \
-X /\ []
+X /\ [ ]
 
 O X \
 X /\ \
-/\ []
+/\ [ ]
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248705.png">
 
@@ -305,6 +305,27 @@ Get a Full Combo in the dance against the Super Spider on Nightmare Mode
 `CHALLENGE`
 
 This dance will introduce directional buttons and longer sequences. Despite being harder than the first one, it's still easy to do.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248709.png">
+
+```
+My Whip Will Slice You! [10]
+Defeat Dr. Finkelstein without taking damage on Nightmare Mode
+```
+
+* Going for the fast method is rather risky, considering how easy it is to be hit by the guns. If you don't think you can go for this method, go for the slower one.
+* If you want to go for the fast method... Try to throw both pieces of brain in front of Dr. Finklestein. They'll bance off on the ground, but that also puts them much closer to him, and it makes your next attempt faster.
+* Guns can be avoided much easier by standing in front of where they're initially pointing. With Soul Robber level 2, you can also destroy them before they can even hit you. Don't try to go for the other guns right after, they WILL hit you most likely.
+* Right after the guns retreat, you can try to open Dr. Finkelstein's head by going right behind him before the blades come out. Even if you're not going to throw a piece of brain at him, you can still gain easy notes out of him. This way, if you destroy the blades after, you should have a full bar for the dance segment.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248714.png">
+
+```
+You’ll Praise Oogie No More! [5]
+Get a Full Combo in the dance against Dr. Finkelstein on Nightmare Mode
+```
+
+This dance will introduce repeating notes, and it'll also be faster than the last one. Because of the notes repeating... it makes this one also easy to pass.
 
 ## Extra
 
