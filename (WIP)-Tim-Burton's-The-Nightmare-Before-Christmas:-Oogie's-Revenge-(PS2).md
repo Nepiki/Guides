@@ -131,9 +131,8 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 ```
 `PROGRESSION`
 
-* Dodge their traps, or grab them with square and send them back at them for damage. Be aware that they can even throw 2 traps as the same time.
-* Hit the bathtub either with Soul Robber, throwing traps or the explosive pumpkins at it until destroyed.
-* When the bathtub is destroyed, all three will get off of it. This time they'll try to attack you while also running from you. Of the 3, Lock is the most dangerous one, as her attack is kind of hard to avoid, so try your best to go after her.
+* Dodge their traps and pumpkins, and throw them back at them with triangle. If you hit them with the traps, they'll be stuck in place for some free hits. Be aware that they can even throw 2 traps as the same time.
+* When the bathtub is destroyed, all three will get off of it. This time they'll try to attack you while also running from you. Of the 3, Lock is the most dangerous one, as her attack is kind of hard to avoid, so try your best to go after her. Lock will jump high and fall into you, making him easier to avoid, and Barrel will shoot you at you. 
 * Fire Blast from the Pumpkin King Costume is very useful here. It'll blast them off in the air while also dealing high damage. If you can, try to hit at least 2 of them with it.
 
 You'll earn the achievement at the end of the fight.
@@ -255,7 +254,6 @@ Defeat Oogie's Boogie's Shadow without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-There's not that much to look out for in this fight.
 * He does a very clear movement when he throws his dices. Immediately dodge them when they're close.
 * The Halloween Ghosts can easily be dealt with with Soul Spin. They'll always come back so don't risk going for Soul Slam (Triangle).
 * When at the WOW part of the song, be ready to dodge in time the big dices, right when Oogie Boogie's Shadow gets at the third WOW. It may be safer to go for a triple dodge to be safe.
@@ -337,7 +335,19 @@ Defeat Lock, Shock and Barrel without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-* 
+* You'd want to use a Blue Soul to make the first phase shorter. Watchout for the traps as you go.
+* For the second phase to go smothly, you need to make sure to destroy the bathtub while it's correctly positioned close to the edge of the arena (preferably either up or down side). When all three get off the bathtub, change immediately to the Pumpkin King Costume and constantly blast them with Fire Blast (Triangle) making sure to hit all three of them. It may sound easy to do... it may take some trial and error.
+* If something went wrong and you could only get 2 or 1 of them, try to lure them to one another and Fire Blast (Triangle) them, but be weary of whoever is free and what they do. 
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248716.png">
+
+```
+Hail to Mister Oogie! [5]
+Get a Full Combo in the dance against Lock, Shock and Barrel on Nightmare Mode
+```
+`CHALLENGE`
+
+This dance will pick up pace after a while. Be ready for the later parts.
 
 ## Extra
 
