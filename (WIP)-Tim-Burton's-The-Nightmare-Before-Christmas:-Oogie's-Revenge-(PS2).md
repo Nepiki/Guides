@@ -253,8 +253,9 @@ To get a total Rank of S, not only are you needed to earn all the S ranks, but t
 Skellinton's Revenge [10]
 Defeat Oogie's Boogie's Shadow without taking damage on Nightmare Mode
 ```
+`CHALLENGE`
 
-There's not that much to look out for in this fight.\
+There's not that much to look out for in this fight.
 * He does a very clear movement when he throws his dices. Immediately dodge them when they're close.
 * The Halloween Ghosts can easily be dealt with with Soul Spin. They'll always come back so don't risk going for Soul Slam (Triangle).
 * When at the WOW part of the song, be ready to dodge in time the big dices, right when Oogie Boogie's Shadow gets at the third WOW. It may be safer to go for a triple dodge to be safe.
@@ -265,21 +266,22 @@ There's not that much to look out for in this fight.\
 I'm the Oogie Boogie Man! [5]
 Get a Full Combo in the dance against Shadow Oogie on Nightmare Mode
 ```
+`CHALLENGE`
 
 Even in Nightmare Mode, this is a very easy dance to do a Full Combo.
 
-O X X\
-O X X\
-O X /\\
-O X /\\
+O X X \
+O X X \
+O X /\ \
+O X /\
 
-X /\ []\
-O /\ []\
-O X /\\
-X /\ []\
+X /\ [] \
+O /\ [] \
+O X /\ \
+X /\ []
 
-O X
-X /\
+O X \
+X /\ \
 /\ []
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248705.png">
@@ -288,6 +290,7 @@ X /\
 Arachnophobia [10]
 Defeat the Mega Spider without taking damage on Nightmare Mode
 ```
+`CHALLENGE`
 
 * Be patient and let it attack first. Stay on any of its sides so that he has to turn around to make you more prepared. 
 * Against the tiny spiders, charge your square and do Soul Spin to make an even stronger one that'll attract much more spiders, dealing the most amount of damage.
@@ -299,6 +302,7 @@ Defeat the Mega Spider without taking damage on Nightmare Mode
 We Can Take This Town Back, Me and You [5]
 Get a Full Combo in the dance against the Super Spider on Nightmare Mode
 ```
+`CHALLENGE`
 
 This dance will introduce directional buttons and longer sequences. Despite being harder than the first one, it's still easy to do.
 
@@ -310,6 +314,7 @@ This dance will introduce directional buttons and longer sequences. Despite bein
 Smokin' Sexy Style!! [5]
 Get a Pumpkin King Combo Rank for the first time [Dances don't count]
 ```
+
 Perform a total combo of 150 without breaking it to reach **Pumpkin King** combo rank.
 
 You'll have many opportunities to do this, but the easiest to do this is in Chapter 3. Continue until you're trapped in an arena fight with Shock. Perform Soul Cycle (Charged Triangle), and keep it going using Blue Souls before the Soul Robber becomes red (sometimes the enemies drop a Blue Soul too). When you run out of Blue Souls, keep the combo going by either hitting the enemies with a normal attack or with Soul Spin (Full Rotation Left Stick, Square).
@@ -336,7 +341,6 @@ Below i'll write different tips for each level and how to beat them the fastest 
 
 
 ### [Chapter 1](https://www.youtube.com/watch?v=jEQ3aKmckXk)
-<details>
 
 [![Speedrun Chapter 1](https://github.com/RetroAchievements/guides/assets/133049176/09940d08-aa91-4b44-8d39-d6d3d81a1c90)](https://www.youtube.com/watch?v=jEQ3aKmckXk)
 
@@ -348,11 +352,7 @@ Below i'll write different tips for each level and how to beat them the fastest 
 
 4. Hitting Shadow Oogie does lead to constant damage, but while hitting him, grab some notes so that you'll finish him off fast.
 
-</details>
-
 ### Chapter 2
-
-<details>
 
 1. Talk to Corpse Kid. Optionally replenish your health at the fountain if needed. Then move to the Witches' Shop, which is nord of Corpse Kid.
 
@@ -361,5 +361,3 @@ Below i'll write different tips for each level and how to beat them the fastest 
 3. Defeat the enemies in her and talk to Clown. Then get out of the manhole through the grapple point.
 
 4. Go to the entrance of Halloween Town, right in front of the fountain, and defeat the enemies that'll appear. Then interact with the gate.
-
-</details>
