@@ -268,19 +268,39 @@ Get a Full Combo in the dance against Shadow Oogie on Nightmare Mode
 
 Even in Nightmare Mode, this is a very easy dance to do a Full Combo.
 
-O X X
-O X X
-O X /\
-O X /\
+O X X\
+O X X\
+O X /\\
+O X /\\
 
-X /\ []
-O /\ []
-O X /\
-X /\ []
+X /\ []\
+O /\ []\
+O X /\\
+X /\ []\
 
 O X
 X /\
 /\ []
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248705.png">
+
+```
+Arachnophobia [10]
+Defeat the Mega Spider without taking damage on Nightmare Mode
+```
+
+* Be patient and let it attack first. Stay on any of its sides so that he has to turn around to make you more prepared. 
+* Against the tiny spiders, charge your square and do Soul Spin to make an even stronger one that'll attract much more spiders, dealing the most amount of damage.
+* When it's enraged, the Spider will shoot 3 web projectiles. The exact behaviour is that it'll shoot 2 projectiles one after the other, then after a bit of a pause the tird projectile. It'll also get a bit quicker on its moves.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248715.png">
+
+```
+We Can Take This Town Back, Me and You [5]
+Get a Full Combo in the dance against the Super Spider on Nightmare Mode
+```
+
+This dance will introduce directional buttons and longer sequences. Despite being harder than the first one, it's still easy to do.
 
 ## Extra
 
