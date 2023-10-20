@@ -247,6 +247,41 @@ To get a total Rank of S, not only are you needed to earn all the S ranks, but t
 
 ## Damageless, Full Combo
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248704.png">
+
+```
+Skellinton's Revenge [10]
+Defeat Oogie's Boogie's Shadow without taking damage on Nightmare Mode
+```
+
+There's not that much to look out for in this fight.\
+* He does a very clear movement when he throws his dices. Immediately dodge them when they're close.
+* The Halloween Ghosts can easily be dealt with with Soul Spin. They'll always come back so don't risk going for Soul Slam (Triangle).
+* When at the WOW part of the song, be ready to dodge in time the big dices, right when Oogie Boogie's Shadow gets at the third WOW. It may be safer to go for a triple dodge to be safe.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248730.png">
+
+```
+I'm the Oogie Boogie Man! [5]
+Get a Full Combo in the dance against Shadow Oogie on Nightmare Mode
+```
+
+Even in Nightmare Mode, this is a very easy dance to do a Full Combo.
+
+O X X
+O X X
+O X /\
+O X /\
+
+X /\ []
+O /\ []
+O X /\
+X /\ []
+
+O X
+X /\
+/\ []
+
 ## Extra
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248745.png">
