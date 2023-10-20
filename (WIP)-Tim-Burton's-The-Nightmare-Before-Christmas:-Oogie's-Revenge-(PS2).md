@@ -312,6 +312,7 @@ This dance will introduce directional buttons and longer sequences. Despite bein
 My Whip Will Slice You! [10]
 Defeat Dr. Finkelstein without taking damage on Nightmare Mode
 ```
+`CHALLENGE`
 
 * Going for the fast method is rather risky, considering how easy it is to be hit by the guns. If you don't think you can go for this method, go for the slower one.
 * If you want to go for the fast method... Try to throw both pieces of brain in front of Dr. Finklestein. They'll bance off on the ground, but that also puts them much closer to him, and it makes your next attempt faster.
@@ -324,8 +325,19 @@ Defeat Dr. Finkelstein without taking damage on Nightmare Mode
 You’ll Praise Oogie No More! [5]
 Get a Full Combo in the dance against Dr. Finkelstein on Nightmare Mode
 ```
+`CHALLENGE`
 
 This dance will introduce repeating notes, and it'll also be faster than the last one. Because of the notes repeating... it makes this one also easy to pass.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248710.png">
+
+```
+You Faced My Rage [25]
+Defeat Lock, Shock and Barrel without taking damage on Nightmare Mode
+```
+`CHALLENGE`
+
+* 
 
 ## Extra
 
