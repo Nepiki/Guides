@@ -201,6 +201,10 @@ Beat the game on Nightmare Mode
 ```
 `COMPLETION`
 
+You'll earn this after beating chapter 24 on Nightmare Mode.
+
+That wasn't so bad... right?
+
 ## Rank S
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248699.png">
