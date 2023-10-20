@@ -80,7 +80,7 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 * The Halloween Ghosts won't give that much trouble, but can be rather annoying. Soul Spin will let you damage them while also damaging Oogie Boogie's Shadow, and also collect the notes they'll drop. They can also potentially drop a Blue Soul, letting you deal more damage to Oogie Boogie's Shadow.
 * When Oogie Boogie's Shadow starts to sing the WOW part of the song, the Halloween Ghosts will pick up bigger dices to drop them at you. Start to dodge them right when Oogie Boogie's Shadow sings WOW for the third time.
 
-You'll earn the achievement at the end of the fight.
+You'll earn the achievement after getting the Halloween Door at the end of the fight.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248514.png">
 
@@ -94,7 +94,7 @@ Defeat the Mega Spider and recover the Valentine's Day Door
 * Keep some distance from the spider, as he has 3 different attacks that he can do at random. Preferably don't stand in front of him, since he'll always turn himself to face into your direction before attacking.
 * The web projectiles does not damage you, but will block you in place, even when the web is on the ground. He'll also start to spit 2 more projectiles when reaches half his health bar.
 
-You'll earn the achievement at the end of the fight, alongside the Pumpkin Jack Costume.
+You'll earn the achievement after getting the Valentine's Day Door at the end of the fight. As well as earning the Pumpkin King Costume!
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248515.png">
 
@@ -108,7 +108,7 @@ The only way to damage him is to throw the pieces of brain at him while his head
 1. Grab his head from begind with triangle and repeatedly press triangle until his head opens. Then grab a piece of brain in the tray on the left of the arena and throw it right in front of him while his head is open.
 2. Destroy his machines and collect the notes. Perform the dance segment successfully and his head will be open. Grab a piece of brain on the tray to the left and throw it right in front of him.
 
-You'll earn the achievement at the end of the fight, alongside the Santa Jack Costume.
+You'll earn the achievement after getting the St Patrick's Day Door at the end of the fight. As well as earning the Santa Jack Costume!
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248516.png">
 
@@ -121,7 +121,7 @@ Defeat Barrel and his Army of Skeletons and recover the Thanksgiving Door
 * He fights exacly like Lock all the way back in chapter 4. He'll run around the arena and sometimes summons enemies. Follow him and hit him when possible.
 * Just like Lock, he can be taunted, which stuns him and lets you Soul Spin him for high damage. You can do this repeatedly in quick succession until he's defeated.
 
-You'll earn the achievement at the end of the fight.
+You'll earn the achievement after getting the Thanksgiving Door at the end of the fight.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248517.png">
 
@@ -135,7 +135,7 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 * When the bathtub is destroyed, all three will get off of it. This time they'll try to attack you while also running from you. Of the 3, Lock is the most dangerous one, as her attack is kind of hard to avoid, so try your best to go after her. Lock will jump high and fall into you, making him easier to avoid, and Barrel will shoot you at you. 
 * Fire Blast from the Pumpkin King Costume is very useful here. It'll blast them off in the air while also dealing high damage. If you can, try to hit at least 2 of them with it.
 
-You'll earn the achievement at the end of the fight.
+You'll earn the achievement after getting the Independence Day Door at the end of the fight.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248518.png">
 
@@ -144,6 +144,13 @@ Boogeyman's Wager [10]
 Defeat Oogie Boogie and recover the Easter Door
 ```
 `PROGRESSION`
+
+* Stay close to the central platform and destroy the cards immediately as they appear. Make sure to be a bit away from the central platform to not get hit by the blades.
+* The gunners, despite being in clear display, can't be targeted immediately. And when it is possible to hit them, they'll immediately shoot. You can either try to destroy them, as it'll make them shoot Oogie Boogie, or go to the opposite site of the arena to not get hit.
+* After the gunners, the cards will reapper (except for the ones destroyed before). It's the same thing as before, but after a while exploding dices will appear from the ground. Dispose of them quickly!
+* The dices will appear, but they won't explode immediately. At this point, Oogie Boogie will sing the WOW part of the song, and he'll have his mouth wide open. Throw the dices when his mouth is open and stay right on the empty spot where the dice was. After the third WOW, Oogie will explode, taking damage and stunned for a bit, making him vulnerable to some damage. Everything will then repeat until the fight is finished.
+
+You'll earn the achievement after getting the Easter Door at the end of the fight.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248519.png">
 
@@ -157,7 +164,7 @@ Defeat the Fire King and Ice King Skeletons and recover the Christmas Door
 * Ice King Skeleton will go down very easily via Fire Blast from the Pumpkin King Costume. Don't use the costume against the Fire King Skeleton or it'll heal from it.
 * When either of them turns black, use Santa Jack's Re-Possession present to turn them back to normal.
 
-You'll earn the achievement at the end of the fight.
+You'll earn the achievement after getting the Christmas Door at the end of the fight. That's the last door to save!
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248520.png">
 
@@ -167,6 +174,10 @@ Defeat the Oogie Train to save Sandy
 ```
 `PROGRESSION`
 
+* Make it a priority to hit the lever closerst to where the train is coming from. A red light will signal you which one it is.
+* The area is full of hidden enemies that make traversing it a challenge. Either attack them at a safe distance or use a Re-Possession present on them.
+* Whenever possible, hit the train as much as you can, even using a Blue Soul. Don't stand in front of it or you'll get hit.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248521.png">
 
 ```
@@ -174,6 +185,13 @@ You're King Of Nothing! [25]
 Defeat Mega Oogie and save all of the Holidays!
 ```
 `COMPLETION`
+
+* There are 2 ways to defeat him: one is to hit his feet, either with Soul Robber or with Pumpkin King Costume, and move out of his way. Then hit his head with everything you got.
+* The other is to stand in the upper part of the arena, and make him come closer to the gas leaks. When close, light up the gas leaks with any attack from the Pumpkin King Costume for a good amount of damage. Do this back and forth between the two gas leaks until defeated.
+* If you hear him growling, he's about to throw stuff at you. Either Soul Jump to a grappling point into the upper arena or get ready to make many close dodges.
+* If in the upper arena, when he's close he'll try to smack you. With the right timing, it can be dodged, but just like his throw up attack, it has a really tiny opportunity to dodge. Either drop down or move away from him.
+
+You'll earn this achievement after the fight.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248701.png">
 
