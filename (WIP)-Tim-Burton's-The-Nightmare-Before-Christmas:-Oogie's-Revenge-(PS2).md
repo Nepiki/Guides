@@ -398,7 +398,6 @@ If you've beaten the game, you'll have a general idea of how to progress through
 Below i'll write different tips for each level and how to beat them the fastest way possible. But first, some things to keep in mind:
 * You can, and must, play on easy mode for this achievement. Easy mode puts enemies on their lowest maximum health, making them faster to defeat.
 * Cutscenes and pausing the game will not block the timer. The ranking screen, or the level select screen will block the timer however.
-* You won't ever need to waste time to save in-game by speaking to Mr. Hyde. Only save at chapter end.
 * You're not obbligated to fight most of the enemies in the game. It'll be written if some are obbligatory, but most of them you can just run away.
 * Getting a good rank in each chapter means more souls to spend on upgrades, but it's ultimately not important.
 * The only upgrades that you'll ever need are the Soul Robber and, maybe, the Pumpkin King costume upgrades. Santa Jack Costume will ever see usage only for progression.
@@ -423,6 +422,6 @@ Below i'll write different tips for each level and how to beat them the fastest 
 
 2. It's unlikely that you'll have anything to buy, so after the cutscene, immediately exit. Talk to Corpse Kid again and enter into the manhole.
 
-3. Defeat the enemies in her and talk to Clown. Then get out of the manhole through the grapple point.
+3. Defeat the enemies in there and talk to the Clown. Then get out of the manhole through the grapple point.
 
-4. Go to the entrance of Halloween Town, right in front of the fountain, and defeat the enemies that'll appear. Then interact with the gate.
+4. Go to the entrance of Halloween Town, right in front of the fountain, and defeat the enemies that'll appear (their number is actually randomized). Then interact with the gate.
