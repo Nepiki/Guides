@@ -5,6 +5,7 @@ List of Guides (Alphabetical)
 |Chocobo Racing|[Full](Chocobo-Racing-(PlayStation))|[11352](https://retroachievements.org/game/11352)
 |Digimon World 2|[Full](Digimon-World-2-(PlayStation))|[11360](https://retroachievements.org/game/11360)|
 |Eternal Eyes|[Full](https://github.com/RetroAchievements/guides/wiki/Eternal-Eyes)|[9039](https://retroachievements.org/game/9039)|
+|Final Fantasy VII|[David and Goliath](https://github.com/RetroAchievements/guides/wiki/Final-Fantasy-VII-%E2%80%90-David-and-Goliath-Achievement-Guide)|[11242](https://retroachievements.org/game/11242)|
 |Lunar: Silver Star Story Complete|[[m]](Lunar,-Silver-Star-Story-Complete-(PlayStation))|[11254](https://retroachievements.org/game/11254)|
 |Resident Evil 1.5|[Full](Resident-Evil-1.5-(Prototype)-(PlayStation))|[17454](https://retroachievements.org/game/17454)|
 |Rugrats: Search for Reptar|[Full](Rugrats-Search-for-Reptar-(PlayStation))|[826](https://retroachievements.org/game/826)|
