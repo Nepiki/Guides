@@ -583,9 +583,8 @@ Below i'll write different tips for each level and how to beat them the fastest 
 * Cutscenes and pausing the game will not block the timer. The ranking screen, or the level select screen will block the timer however.
 * You're not obbligated to fight most of the enemies in the game. It'll be written if some are obbligatory, but most of them you can just run away.
 * Getting a good rank in each chapter means more souls to spend on upgrades, but it's ultimately not important.
-* The only upgrades that you'll ever need are the Soul Robber and, maybe, the Pumpkin King costume upgrades. Santa Jack Costume will ever see usage only for progression.
-* For most of the enemies, the normal Soul Robber combo (▢) will be sufficient to take care of most of the enemies as quickly as possibile. With the Halloween Ghosts and the King Ghosts it's better to use Soul Slam (△), and with the Troll Skeletons and King Skeletons charge your ▢ and hit them from behind.
-
+* The only upgrades that you'll ever need are the Soul Robber and, maybe, the Pumpkin King costume upgrades. Santa Jack Costume is not necessary, and you should go for golden pumpkins that are easy to get from the levels.
+* The normal Soul Robber combo (▢) will suffice to take care of most of the enemies as quickly as possibile. It's not necessary to use Soul Cycle, or may even be much slower than just mashing ▢.
 
 ### [Chapter 1](https://www.youtube.com/watch?v=jEQ3aKmckXk)
 
@@ -608,3 +607,14 @@ Below i'll write different tips for each level and how to beat them the fastest 
 3. Defeat the enemies in there and talk to the Clown. Then get out of the manhole through the grapple point.
 
 4. Go to the entrance of Halloween Town, right in front of the fountain, and defeat the enemies that'll appear (their number is actually randomized). Then interact with the gate.
+
+### Chapter 3
+
+1. Go past all the enemies and reach the big dead tree by following the way to the left and talk to Hanging Tree. You COULD waste a bit of time getting to the golden pumpkin if you want.
+
+2. Then go back to where you entered this area to initiate a fight with Lock. Defeat all the enemies, then interact with the dog house of Zero, next to the entrance to Halloween Town.
+
+3. Find the the Hanging Tree's skeletons throughout the area. The first one is in an enclosed area behind the three. Three are in the next section of the Old Graveyard: one is right next to the entrance of this area hanging on branch next to the bridge; The second one is south of the Burial Chamber; The third one is a bit before the Burial Chamber, in a tiny area reachable with a grappling point. Then go back to the first area of the Old Graveyard and climb the dead tree to get to the last skeleton. After saving the last skeleton talk to the Hanging Tree to finish the chapter.
+
+### Chapter 4
+
