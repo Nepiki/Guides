@@ -66,7 +66,7 @@ This will, or will not, be your final achievement of the set.
 * **Blue Souls** - Not only will they increase damage, but when using Soul Cycle (△ Charged), use a blue soul when you see the Soul Rubber becoming almost red to extended the move duration. This is very powerful when in enclosed areas full of normal size enemies.
 * **Pumpkin King Costume** - While it is a powerful costume, with Fire Bomb (△) doing very high damage, the costume is often used for puzzles and exploration, and it is better to conserve the Red Souls to avoid annoyance.
 * **Santa Jack Costume** - The presents can be used against the enemies hidden in things to discover them and not be immediately retaliated. The presents can have different usages: Re-Possession takes them out of their Oogie Mode (they usualy always are when hidden), Scared Stiff will stun them in place (especially effective against Halloween and King Ghosts).
-* **Dodge Extension** - Right after dodging (O), quickly change into any costume you have (L1 / R1) to have more invincibility. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge.
+* **Dodge Extension** - The Dodge (◯) has a tiny bit of invincibility that normally requires to be timed with precision to use. If right after dodging (O), you quickly change into any costume you have (L1 / R1), the invicibility from the dodgee is followed by the invincibility from changing costume extending it. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge, with good timing.
 
 # 4) Walktrough
 
@@ -194,6 +194,7 @@ Defeat Mega Oogie and save all of the Holidays!
 * The other is to stand in the upper part of the arena, and make him come closer to the gas leaks. When close, light up the gas leaks with any attack from the Pumpkin King Costume for a good amount of damage. Do this back and forth between the two gas leaks until defeated.
 * If you hear him growling, he's about to throw stuff at you. Either Soul Jump to a grappling point into the upper arena or get ready to make many close dodges.
 * If in the upper arena, when he's close he'll try to smack you. With the right timing, it can be dodged, but just like his throw up attack, it has a really tiny opportunity to dodge. Either drop down or move away from him.
+* After the fight, you'll transition into a dance sequence. This one is the hardest in the game, and anytime you miss a button you'll lose health. The latest parts in the dance are hard to do correctly, it'll probably cost you some health. As long as you have enough health to go through this, you'll be fine.
 
 You'll earn this achievement after the fight.
 
@@ -493,6 +494,11 @@ Defeat Mega Oogie 1st Phase without taking damage on Nightmare Mode
 ```
 `COMPLETION` `CHALLENGE`
 
+* Don't try to hit his feet. It makes you an easy target.
+* Remember the invincibility extension with the dodge, as it'll be useful to dodge all of his attacks.
+* If you don't feel confident or you think you'll get hit, you can fall down and that'll make Mega Oogie stop his attack.
+* Make use of the Red Souls with the gas leaks and the Blue Souls to finish the fight quickly. Don't hoard them now!
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248717.png">
 
 ```
@@ -500,6 +506,47 @@ It's Payback Time! [10]
 Get a Full Combo in the dance against Mega Oogie on Nightmare Mode
 ```
 `COMPLETION` `CHALLENGE`
+
+This dance also has that same sequence as the earlier Oogie Boogie boss fight, but in here it is way harder than that. More specifically, the last 2 parts of the dance can caught you off guard if you're not ready.
+
+```
+△ ↓ X
+→ △ ←
+X ↑ △
+↓ ▢ ↑
+→ △ ←
+◯ X △ X
+
+◯ X ↑ ◯ X ↓
+→ X ←
+↑ △ → ◯
+↑ △ ← ▢
+
+◯ X △ ▢ ◯ X
+↑ ◯ ←
+X ↓ △ ↑
+◯ → ▢
+
+▢ ← ◯
+→ X △
+↑ X ↓
+▢ → X
+
+◯ X △ ▢ ◯ X
+↑ △ ↓
+▢ ↓ ◯ ↑
+← X → △
+
+X ◯ X ◯ X ◯ X ◯
+→ ← X ◯
+△ ↑ ◯ →
+X ↓ ▢
+
+△ ▢ ◯ X ▢ △ X ◯
+△ ▢ ◯ X ↑
+△ ▢ ◯ X ▢ △ X ◯
+▢ ← →
+```
 
 ## Extra
 
