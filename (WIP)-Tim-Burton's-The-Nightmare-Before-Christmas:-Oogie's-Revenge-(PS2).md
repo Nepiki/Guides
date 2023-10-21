@@ -41,23 +41,19 @@ Most importantly, you can decide to start on Nightmare Mode, the highest difficu
 
 Most of the ranking achievements are about the A rank, as that's the requirement to be rewarded a figurine. Getting A rank is not that difficult, but getting S rank does require you to go out of your way to reach their requirements. It also needs to be done on Nightmare Mode because of The Seven Holidays King.
 
-More about how to ranking system will be explained in The Seven Holidays King, as well as each of the A rank achievement will have tips and video guides about getting the S rank. Sadly I can't know exactly the requirements for A rank, but since we are interested more in getting the S ranks it won't matter as much.
+More about how to ranking system will be explained in The Seven Holidays King, as well as each of the A rank achievement will have tips and video guides about getting the S rank. Sadly I can't know exactly the requirements for A rank, but since we are interested more in getting the S ranks, it won't matter as much.
 
 ***
 
 [**Damageless, Full Combo**](#damageless-full-combo)
 
-
-
 ***
 
 [**Extras**](#extras)
 
-
+***
 
 [**The Speedrun Before Christmas**](#the-speedrun-before-christmas)
-
-This will, or will not, be your final achievement of the set.
 
 # 3) Tips
 
@@ -246,7 +242,7 @@ Beat the game with an overall ranking of "A" or higher on Nightmare Mode
 
 See **The Seven Holidays King** for more information.
 
-You're likely to earn this and the others first if you didn't complete the hidden chapters when beating the game.
+You're likely to earn this and the others first if you didn't complete the secret chapters when beating the game. You can always do them at your leisure, even after beating the game.
 
 ***
 
@@ -267,9 +263,9 @@ When you beat a level, the game will rank you based on different categories, and
 
 The game tracks the highest rank you earn in each of the categories, and it does not take into consideration the final ranking you earn in a level. With this in mind, if you're finding it too difficult to S rank on first visit, you can even revisit a level and go for just one or two of the categories for S rank, then again for the other two, and the game will assign you S rank for that level.
 
-To get a total Rank of S, not only are you needed to earn all the S ranks, but to also complete the two hidden chapters. These chapters have no ranking, and you are just required to complete them.
+To get a total Rank of S, not only are you needed to earn all the S ranks, but to also complete the two secret chapters. These chapters have no ranking, and you are just required to complete them.
 
-⚠️ Be aware that if you are going for the hidden chapters, any hits or any time you spend in these hidden chapters will count for the rankings in the main chapters, as you're still technically playing them. If you still need to do S ranks, know that the hidden chapters will make them hard to S rank. They can be done anytime, even after beating the game, so there's no rush.
+⚠️ Be aware that if you are going for the secret chapters, any hits or any time you spend in these secret chapters will count for the rankings in the main chapters, as you're still technically playing them. If you still need to do S ranks, know that the secret chapters will make them hard to S rank. They can be done anytime, even after beating the game, so there's no rush.
 
 ## Damageless, Full Combo
 
