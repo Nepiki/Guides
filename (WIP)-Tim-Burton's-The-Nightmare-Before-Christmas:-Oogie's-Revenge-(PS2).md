@@ -61,12 +61,12 @@ This will, or will not, be your final achievement of the set.
 
 # 3) Tips
 
-* **Combos** - Soul Spin (Full Rotation Left Stick, Square) is your best friend to get combos. Another suggestion to do more combos is to taunt an enemy (Directional Button) to make them more durable, especially if they're already damaged to make them replenish some health.
+* **Combos** - Soul Spin (↻ Left Stick, ▢) is your best friend to get combos. Another suggestion to do more combos is to taunt an enemy (Directional Button) to make them more durable, especially if they're already damaged to make them replenish some health.
 * **Taunt** - Taunt (Directional Button) is primarily used to get exclamation points, and it can be used repeatedly on the same enemy, even if they are already in Oogie Mode, to rack up exclamation points. You need to wait for them to finish their "startled" animation first before you're able to taunt them again.
-* **Blue Souls** - Not only will they increase damage, but when using Soul Cycle (Triangle Charged), use a blue soul when you see the Soul Rubber becoming almost red to extended the move duration. This is very powerful when in enclosed areas full of normal size enemies.
-* **Pumpkin King Costume** - While it is a powerful costume, with Fire Bomb (Triangle) doing very high damage, the costume is often used for puzzles and exploration, and it is better to conserve the Red Souls to avoid annoyance.
+* **Blue Souls** - Not only will they increase damage, but when using Soul Cycle (△ Charged), use a blue soul when you see the Soul Rubber becoming almost red to extended the move duration. This is very powerful when in enclosed areas full of normal size enemies.
+* **Pumpkin King Costume** - While it is a powerful costume, with Fire Bomb (△) doing very high damage, the costume is often used for puzzles and exploration, and it is better to conserve the Red Souls to avoid annoyance.
 * **Santa Jack Costume** - The presents can be used against the enemies hidden in things to discover them and not be immediately retaliated. The presents can have different usages: Re-Possession takes them out of their Oogie Mode (they usualy always are when hidden), Scared Stiff will stun them in place (especially effective against Halloween and King Ghosts).
-* **Dodge Extension** - Right after dodging (Circle), quickly change into any costume you have (L1 / R1) to have more invincibility. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge.
+* **Dodge Extension** - Right after dodging (O), quickly change into any costume you have (L1 / R1) to have more invincibility. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge.
 
 # 4) Walktrough
 
@@ -80,7 +80,7 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 ```
 `PROGRESSION`
 
-* He will every so often throw dices at you. These can easily be dodged (Circle) with the right timing, or you can dodge them just by keeping walking left or fight.
+* He will every so often throw dices at you. These can easily be dodged (O) with the right timing, or you can dodge them just by keeping walking left or fight.
 * The Halloween Ghosts won't give that much trouble, but can be rather annoying. Soul Spin will let you damage them while also damaging Oogie Boogie's Shadow, and also collect the notes they'll drop. They can also potentially drop a Blue Soul, letting you deal more damage to Oogie Boogie's Shadow.
 * When Oogie Boogie's Shadow starts to sing the WOW part of the song, the Halloween Ghosts will pick up bigger dices to drop them at you. Start to dodge them right when Oogie Boogie's Shadow sings WOW for the third time.
 
@@ -109,7 +109,7 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 `PROGRESSION`
 
 The only way to damage him is to throw the pieces of brain at him while his head is open. You'll only need to do this 2 times and he's defeated. There are 2 ways to fight Dr. Finkelstein:
-1. Grab his head from begind with triangle and repeatedly press triangle until his head opens. Then grab a piece of brain in the tray on the left of the arena and throw it right in front of him while his head is open.
+1. Grab his head from begind with △ and repeatedly press △ until his head opens. Then grab a piece of brain in the tray on the left of the arena and throw it right in front of him while his head is open.
 2. Destroy his machines and collect the notes. Perform the dance segment successfully and his head will be open. Grab a piece of brain on the tray to the left and throw it right in front of him.
 
 You'll earn the achievement after getting the St Patrick's Day Door at the end of the fight. As well as earning the Santa Jack Costume!
@@ -135,7 +135,7 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 ```
 `PROGRESSION`
 
-* Dodge their traps and pumpkins, and throw them back at them with triangle. If you hit them with the traps, they'll be stuck in place for some free hits. Be aware that they can even throw 2 traps as the same time.
+* Dodge their traps and pumpkins, and throw them back at them with △. If you hit them with the traps, they'll be stuck in place for some free hits. Be aware that they can even throw 2 traps as the same time.
 * When the bathtub is destroyed, all three will get off of it. This time they'll try to attack you while also running from you. Of the 3, Lock is the most dangerous one, as her attack is kind of hard to avoid, so try your best to go after her. Lock will jump high and fall into you, making him easier to avoid, and Barrel will shoot you at you. 
 * Fire Blast from the Pumpkin King Costume is very useful here. It'll blast them off in the air while also dealing high damage. If you can, try to hit at least 2 of them with it.
 
@@ -281,7 +281,7 @@ Defeat Oogie's Boogie's Shadow without taking damage on Nightmare Mode
 `CHALLENGE`
 
 * He does a very clear movement when he throws his dices. Immediately dodge them when they're close.
-* The Halloween Ghosts can easily be dealt with with Soul Spin. They'll always come back so don't risk going for Soul Slam (Triangle).
+* The Halloween Ghosts can easily be dealt with with Soul Spin. They'll always come back so don't risk going for Soul Slam (△).
 * When at the WOW part of the song, be ready to dodge in time the big dices, right when Oogie Boogie's Shadow gets at the third WOW. It may be safer to go for a triple dodge to be safe.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248730.png">
@@ -319,7 +319,7 @@ Defeat the Mega Spider without taking damage on Nightmare Mode
 `CHALLENGE`
 
 * Be patient and let it attack first. Stay on any of its sides so that he has to turn around to make you more prepared. 
-* Against the tiny spiders, charge your square and do Soul Spin to make an even stronger one that'll attract much more spiders, dealing the most amount of damage.
+* Against the tiny spiders, charge your ▢ and do Soul Spin to make an even stronger one that'll attract much more spiders, dealing the most amount of damage.
 * When it's enraged, the Spider will shoot 3 web projectiles. The exact behaviour is that it'll shoot 2 projectiles one after the other, then after a bit of a pause the tird projectile. It'll also get a bit quicker on its moves.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248715.png">
@@ -396,8 +396,8 @@ Defeat Lock, Shock and Barrel without taking damage on Nightmare Mode
 `CHALLENGE`
 
 * You'd want to use a Blue Soul to make the first phase shorter. Watchout for the traps as you go.
-* For the second phase to go smothly, you need to make sure to destroy the bathtub while it's correctly positioned close to the edge of the arena (preferably either up or down side). When all three get off the bathtub, change immediately to the Pumpkin King Costume and constantly blast them with Fire Blast (Triangle) making sure to hit all three of them. It may sound easy to do... it may take some trial and error.
-* If something went wrong and you could only get 2 or 1 of them, try to lure them to one another and Fire Blast (Triangle) them, but be weary of whoever is free and what they do. 
+* For the second phase to go smothly, you need to make sure to destroy the bathtub while it's correctly positioned close to the edge of the arena (preferably either up or down side). When all three get off the bathtub, change immediately to the Pumpkin King Costume and constantly blast them with Fire Blast (△) making sure to hit all three of them. It may sound easy to do... it may take some trial and error.
+* If something went wrong and you could only get 2 or 1 of them, try to lure them to one another and Fire Blast (△) them, but be weary of whoever is free and what they do. 
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248716.png">
 
@@ -460,7 +460,7 @@ Get a Pumpkin King Combo Rank for the first time [Dances don't count]
 
 Perform a total combo of 150 without breaking it to reach **Pumpkin King** combo rank.
 
-You'll have many opportunities to do this, but the easiest to do this is in Chapter 3. Continue until you're trapped in an arena fight with Shock. Perform Soul Cycle (Charged Triangle), and keep it going using Blue Souls before the Soul Robber becomes red (sometimes the enemies drop a Blue Soul too). When you run out of Blue Souls, keep the combo going by either hitting the enemies with a normal attack or with Soul Spin (Full Rotation Left Stick, Square).
+You'll have many opportunities to do this, but the easiest to do this is in Chapter 3. Continue until you're trapped in an arena fight with Shock. Perform Soul Cycle (△ Charged), and keep it going using Blue Souls before the Soul Robber becomes red (sometimes the enemies drop a Blue Soul too). When you run out of Blue Souls, keep the combo going by either hitting the enemies with a normal attack or with Soul Spin (↻ Left Stick, ▢).
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248719.png">
 
@@ -489,7 +489,7 @@ Below i'll write different tips for each level and how to beat them the fastest 
 * You're not obbligated to fight most of the enemies in the game. It'll be written if some are obbligatory, but most of them you can just run away.
 * Getting a good rank in each chapter means more souls to spend on upgrades, but it's ultimately not important.
 * The only upgrades that you'll ever need are the Soul Robber and, maybe, the Pumpkin King costume upgrades. Santa Jack Costume will ever see usage only for progression.
-* For most of the enemies, the normal Soul Robber combo (Square) will be sufficient to take care of most of the enemies as quickly as possibile. With the Halloween Ghosts and the King Ghosts it's better to use Soul Slam (Triangle), and with the Troll Skeletons and King Skeletons charge your Square and hit them from behind.
+* For most of the enemies, the normal Soul Robber combo (▢) will be sufficient to take care of most of the enemies as quickly as possibile. With the Halloween Ghosts and the King Ghosts it's better to use Soul Slam (△), and with the Troll Skeletons and King Skeletons charge your ▢ and hit them from behind.
 
 
 ### [Chapter 1](https://www.youtube.com/watch?v=jEQ3aKmckXk)
