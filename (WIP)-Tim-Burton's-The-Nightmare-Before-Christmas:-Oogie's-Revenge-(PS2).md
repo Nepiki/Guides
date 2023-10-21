@@ -21,7 +21,11 @@ The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes
 
 The game takes place some time after the events of the film. Jack yet again gets bored of Halloween. He goes to Doctor Finkelstein for advice in how to improve the next halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip. Jack than decides to leave Halloween Town in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge, taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". Sally manages to send a letter to Jack about what was going on, so he huries back to his town to fix the mess.
 
-⚠️ The only supported version of the game is the european version. When playing this version, the game will ask you at what refresh rate, or video mode, to play the game. Only select 60Hz to be able to earn achievements, as 50Hz is not supported.
+```
+⚠️ The only supported version of the game is the european version. When playing this version,
+the game will ask you at what refresh rate, or video mode, to play the game. Only select 60Hz to 
+be able to earn achievements, as 50Hz is not supported.
+```
 
 # 2) Overview
 
@@ -290,19 +294,21 @@ Get a Full Combo in the dance against Shadow Oogie on Nightmare Mode
 
 Even in Nightmare Mode, this is a very easy dance to do a Full Combo.
 
-O X X \
-O X X \
-O X /\ \
-O X /\
+```
+O X X
+O X X
+O X △
+O X △
 
-X /\ [ ] \
-O /\ [ ] \
-O X /\ \
-X /\ [ ]
+X △ ▢
+O △ ▢
+O X △
+X △ ▢
 
-O X \
-X /\ \
-/\ [ ]
+O X
+X △
+△ ▢
+```
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248705.png">
 
@@ -326,6 +332,21 @@ Get a Full Combo in the dance against the Super Spider on Nightmare Mode
 
 This dance will introduce directional buttons and longer sequences. Despite being harder than the first one, it's still easy to do.
 
+```
+→ X X △ ▢ ↑ ↓ O
+← △ △ O X ↑ ↓ O
+
+△ O ↓ → △ ▢ ← ↓
+▢ X △ O → ← ↓
+
+← ▢ ↑ △ → O ↓ X
+△ ↓ O ← ▢
+X ↑ ▢ → O
+
+O → ▢ ↓
+X △ ↑ ↓ ▢ →
+```
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248709.png">
 
 ```
@@ -348,6 +369,23 @@ Get a Full Combo in the dance against Dr. Finkelstein on Nightmare Mode
 `CHALLENGE`
 
 This dance will introduce repeating notes, and it'll also be faster than the last one. Because of the notes repeating... it makes this one also easy to pass.
+
+```
+△ ▢ O △
+△ O X X
+↑ ↓ △
+↑ ↓ △
+
+O O O O O ↑ ↓ ↑
+
+↑ ▢ ▢ ▢ ▢
+▢ ▢ O O ↑
+→ △ △ △ △ △
+X X X X X →
+
+← O O O O O
+▢ ▢ ▢ ←
+```
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248710.png">
 
