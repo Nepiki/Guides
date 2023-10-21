@@ -295,17 +295,17 @@ Get a Full Combo in the dance against Shadow Oogie on Nightmare Mode
 Even in Nightmare Mode, this is a very easy dance to do a Full Combo.
 
 ```
-O X X
-O X X
-O X △
-O X △
+◯ X X
+◯ X X
+◯ X △
+◯ X △
 
 X △ ▢
-O △ ▢
-O X △
+◯ △ ▢
+◯ X △
 X △ ▢
 
-O X
+◯ X
 X △
 △ ▢
 ```
@@ -333,17 +333,17 @@ Get a Full Combo in the dance against the Super Spider on Nightmare Mode
 This dance will introduce directional buttons and longer sequences. Despite being harder than the first one, it's still easy to do.
 
 ```
-→ X X △ ▢ ↑ ↓ O
-← △ △ O X ↑ ↓ O
+→ X X △ ▢ ↑ ↓ ◯
+← △ △ ◯ X ↑ ↓ ◯
 
-△ O ↓ → △ ▢ ← ↓
-▢ X △ O → ← ↓
+△ ◯ ↓ → △ ▢ ← ↓
+▢ X △ ◯ → ← ↓
 
-← ▢ ↑ △ → O ↓ X
-△ ↓ O ← ▢
-X ↑ ▢ → O
+← ▢ ↑ △ → ◯ ↓ X
+△ ↓ ◯ ← ▢
+X ↑ ▢ → ◯
 
-O → ▢ ↓
+◯ → ▢ ↓
 X △ ↑ ↓ ▢ →
 ```
 
@@ -371,19 +371,19 @@ Get a Full Combo in the dance against Dr. Finkelstein on Nightmare Mode
 This dance will introduce repeating notes, and it'll also be faster than the last one. Because of the notes repeating... it makes this one also easy to pass.
 
 ```
-△ ▢ O △
-△ O X X
+△ ▢ ◯ △
+△ ◯ X X
 ↑ ↓ △
 ↑ ↓ △
 
-O O O O O ↑ ↓ ↑
+◯ ◯ ◯ ◯ ◯ ↑ ↓ ↑
 
 ↑ ▢ ▢ ▢ ▢
-▢ ▢ O O ↑
+▢ ▢ ◯ ◯ ↑
 → △ △ △ △ △
 X X X X X →
 
-← O O O O O
+← ◯ ◯ ◯ ◯ ◯
 ▢ ▢ ▢ ←
 ```
 
@@ -407,7 +407,33 @@ Get a Full Combo in the dance against Lock, Shock and Barrel on Nightmare Mode
 ```
 `CHALLENGE`
 
-This dance will pick up pace after a while. Be ready for the later parts.
+This dance will pick up pace halfway through, so be ready for that.
+
+```
+→ △ ←
+▢ ↓ ◯
+↓ ◯ ↑
+△ ← X
+
+X ◯ ↓
+→ △ ▢
+◯ X △
+← ▢ ↓ ◯ X ◯
+
+◯ ↓ △ ←
+▢ ↑ X
+↑ X → ▢
+← ◯ ↓
+
+X ↑ X
+← ▢ →
+△ ▢ ↑ →
+◯ X ↓ → ←
+
+↑ ◯ △
+↑ ◯ △
+X ▢ ↓
+```
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248711.png">
 
@@ -417,6 +443,11 @@ Defeat Oogie Boogie without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
+* The tactic is almost the same as the normal one, but the cards will have more health. It'll take a full combo of Soul Robber lvl 3 to destroy one, so be quick and move away from the middle platform when possible (actually, the lvl 3 combo will move you away a bit from the platform, so keep that in mind).
+* Don't try to hit the gunners. They won't take off that much health and it's very risky to try and to hit them. You could time a Fire Blast (△) exactly at the moment where they become vulnerable, which is when Oogie says "Joking!", but it's much better to just stay away from them.
+* To be extra safe, when you need to throw the exploding dices in his mouth, you have time to throw 2 at him. They won't do extra damage, but it gives you way more empty space to stand in.
+* There's nothing much so speed up the fight, except to use a Blue Soul when you make him explode. Mind when the traps and the dice bombs come out and to position yourself correctly to each one of them.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248713.png">
 
 ```
@@ -425,6 +456,24 @@ Get a Full Combo in the dance against Oogie on Nightmare Mode
 ```
 `CHALLENGE`
 
+This dance will have a particular button sequence that repeats two buttons in different order. Memorize this one well and it should be fine.
+
+```
+↑ X ↓ X
+→ ← ↓
+◯ ↑ ▢ ↓
+↑ △ ▢ △ ▢
+
+◯ X △ ▢ X ◯ ▢ △
+→ △ ↑
+▢ ←
+△ ↑ ◯ ▢ X △
+
+↓ △
+→ ▢
+↑ X
+```
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248712.png">
 
 ```
@@ -432,6 +481,9 @@ Half-Cold Half-Hot [10]
 Defeat the Fire King and Ice King without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
+
+* Fire Blast (△) with the Pumpkin King Costume the both of them. Ice King Skeleton will go down in 2 or 3 hits, while the Fire King Skeleton will stay in place to absorb your Fire Blast, making this very safe.
+* Carefully get behind the Fire King Skeleton, use a Blue Soul and finish it off fast. If he becomes black, throw a Re-Possession present at it and keep your distance.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248718.png">
 
