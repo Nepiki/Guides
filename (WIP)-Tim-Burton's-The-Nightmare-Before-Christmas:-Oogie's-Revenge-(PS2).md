@@ -272,10 +272,10 @@ The game tracks the highest rank you earn in each of the categories, and it does
 To get a total Rank of S, not only are you needed to earn all the S ranks, but to also complete the two secret chapters. These chapters have no ranking, and you are just required to complete them.
 
 ```
-⚠️ Be aware that if you are going for the secret chapters, any hits or any time you spend in these secret chapters
-will count for the rankings in the main chapters, as you're still technically playing them.
-If you're thinking of doing S ranks and the secret chapters and at the same time,
-know that you'll make at least the time ranking almost impossible to do.
+⚠️ Be aware that if you are going for the secret chapters, any hits taken or any amount of time
+spent in these secret chapters will count for the rankings in the main chapters, as you're technically still inside it.
+If you're thinking of doing S ranks and the secret chapters and at the same time, know that you'll make at least
+the time ranking almost impossible to do.
 ```
 
 ## Damageless, Full Combo
