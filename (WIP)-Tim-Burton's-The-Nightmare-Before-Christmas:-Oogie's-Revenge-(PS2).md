@@ -600,7 +600,8 @@ Below i'll still  be sharing how to beat each level the fastest way. But first, 
 * For extra lives, you can get any of the ones that can be found in any area. The ones in Hidden Places or the Witches' Shop are a waste of time.
 
 ```
-⚠️ This needs to be reiterated: due to this achievement tracking the timer on your save file, there is no need to do this in a single sitting.
+⚠️ This needs to be reiterated: due to this achievement tracking the timer on your save file,
+there is no need to do this in a single sitting.
 You can actually take your time before going through each level if you need to check what you need to do.
 ```
 
