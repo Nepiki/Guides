@@ -64,6 +64,12 @@ More about how to ranking system will be explained in The Seven Holidays King, a
 * **Santa Jack Costume** - The presents can be used against the enemies hidden in things to discover them and not be immediately retaliated. The presents can have different usages: Re-Possession takes them out of their Oogie Mode (they usualy always are when hidden), Scared Stiff will stun them in place (especially effective against Halloween and King Ghosts).
 * **Dodge Extension** - The Dodge (◯) has a tiny bit of invincibility that normally requires to be timed with precision to use. If right after dodging (O), you quickly change into any costume you have (L1 / R1), the invicibility from the dodgee is followed by the invincibility from changing costume extending it. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge, with good timing.
 
+```
+⚠️ Earning all the figurines in the game will reward you with infinite Red Souls for your Pumpkin King Costume.
+Everything is doable without this, but if you want an advantage, you could wait until getting this reward before
+doing anything that requires the Pumpkin King Costume. The set doesn't block this eitherway.
+```
+
 # 4) Walktrough
 
 ## Progression
@@ -265,7 +271,12 @@ The game tracks the highest rank you earn in each of the categories, and it does
 
 To get a total Rank of S, not only are you needed to earn all the S ranks, but to also complete the two secret chapters. These chapters have no ranking, and you are just required to complete them.
 
-⚠️ Be aware that if you are going for the secret chapters, any hits or any time you spend in these secret chapters will count for the rankings in the main chapters, as you're still technically playing them. If you still need to do S ranks, know that the secret chapters will make them hard to S rank. They can be done anytime, even after beating the game, so there's no rush.
+```
+⚠️ Be aware that if you are going for the secret chapters, any hits or any time you spend in these secret chapters
+will count for the rankings in the main chapters, as you're still technically playing them.
+If you're thinking of doing S ranks and the secret chapters and at the same time,
+know that you'll make at least the time ranking almost impossible to do.
+```
 
 ## Damageless, Full Combo
 
@@ -565,7 +576,7 @@ Defeat Mega Oogie 1st Phase without using the Pumpkin King Costume
 ```
 `COMPLETION` `CHALLENGE`
 
-This is an endurance test: you'll lost so much damage by not being able to light the gas leaks, so you'll have to rely entirely on Soul Robber, maybe using Blue Souls to do some extra damage, and your ability to survive against all of his attacks. Remember the tips presented in You're King Of Nothing!, and keep a steady pace when fighting him.
+This is an endurance test: you'll lose so much damage by not being able to light the gas leaks, so you'll have to rely entirely on Soul Robber and your ability to survive against all of his attacks. Remember the tips presented in You're King Of Nothing!, and to use your Crystal Bottles
 
 ## The Speedrun Before Christmas
 
@@ -577,14 +588,21 @@ Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
 ```
 `COMPLETION` `CHALLENGE`
 
-If you've beaten the game, you'll have a general idea of how to progress through the game, making this achievement easier to do. If you didn't, wait until you're done with everything else, so that you'll be more prepared for this playthrough.\
-Below i'll write different tips for each level and how to beat them the fastest way possible. But first, some things to keep in mind:
+This achievement will be less scary to earn if you've beaten the game already, hence it's right at the bottom of the list.
+
+Below i'll still  be sharing how to beat each level the fastest way. But first, some general tips for this run:
 * You can, and must, play on easy mode for this achievement. Easy mode puts enemies on their lowest maximum health, making them faster to defeat.
-* Cutscenes and pausing the game will not block the timer. The ranking screen, or the level select screen will block the timer however.
+* Cutscenes and pausing the game will not block the timer. While the ranking screen or the level select screen will block the timer.
+* If you didn't like the time you got, you can reset your game and reload it to have a re-do, since it only cares about the timer on the save file.
 * You're not obbligated to fight most of the enemies in the game. It'll be written if some are obbligatory, but most of them you can just run away.
 * Getting a good rank in each chapter means more souls to spend on upgrades, but it's ultimately not important.
-* The only upgrades that you'll ever need are the Soul Robber and, maybe, the Pumpkin King costume upgrades. Santa Jack Costume is not necessary, and you should go for golden pumpkins that are easy to get from the levels.
-* The normal Soul Robber combo (▢) will suffice to take care of most of the enemies as quickly as possibile. It's not necessary to use Soul Cycle, or may even be much slower than just mashing ▢.
+* The only upgrades that you'll ever need are the Soul Robber, maybe the Pumpkin King Costume upgrades if you want to be safe.
+* For extra lives, you can get any of the ones that can be found in any area. The ones in Hidden Places or the Witches' Shop are a waste of time.
+
+```
+⚠️ This needs to be reiterated: due to this achievement tracking the timer on your save file, there is no need to do this in a single sitting.
+You can actually take your time before going through each level if you need to check what you need to do.
+```
 
 ### [Chapter 1](https://www.youtube.com/watch?v=jEQ3aKmckXk)
 
@@ -610,11 +628,8 @@ Below i'll write different tips for each level and how to beat them the fastest 
 
 ### Chapter 3
 
-1. Go past all the enemies and reach the big dead tree by following the way to the left and talk to Hanging Tree. You COULD waste a bit of time getting to the golden pumpkin if you want.
+1. Go past all the enemies and reach the big dead tree by following the way to the left and talk to Hanging Tree. You can waste a bit of time getting to the golden pumpkin.
 
 2. Then go back to where you entered this area to initiate a fight with Lock. Defeat all the enemies, then interact with the dog house of Zero, next to the entrance to Halloween Town.
 
-3. Find the the Hanging Tree's skeletons throughout the area. The first one is in an enclosed area behind the three. Three are in the next section of the Old Graveyard: one is right next to the entrance of this area hanging on branch next to the bridge; The second one is south of the Burial Chamber; The third one is a bit before the Burial Chamber, in a tiny area reachable with a grappling point. Then go back to the first area of the Old Graveyard and climb the dead tree to get to the last skeleton. After saving the last skeleton talk to the Hanging Tree to finish the chapter.
-
-### Chapter 4
-
+3. Find the the Hanging Tree's skeletons throughout the area. The first one is in an enclosed area behind the three. Three are in the next section of the Old Graveyard: the first one is hanging on branch next to the bridge; The second one is south of the Burial Chamber; The third one is a bit before the Burial Chamber, in a tiny area reachable only by a grappling point. Then go back to the first area of the Old Graveyard and climb the dead tree to get to the last skeleton. After saving the last skeleton talk to the Hanging Tree to finish the chapter.
