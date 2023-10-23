@@ -30,8 +30,11 @@ Yeah pincers suck, especially in disc 2 and will result in death a lot of the ti
 At the start of the game, go into the settings and set ATB to **Active** and camera to **Fix** (this just makes choosing targets a little easier during the run). Pick up the two potions from the guard on the ground, fight the scripted battle, name your characters and head straight to Guard Scorpion. There is a **Phoenix Down** on the way to GS before the elevator if you'd like to pick it up but it isn't necessary.
 ### Guard Scorpion
 **HP:** 800
+
 **Difficulty:** "Attack while its tail's up"/10
+
 **Party:** Cloud, Barret
+
 **Survivor:** Cloud
 
 You should use a calculator to be safe for this fight. This fight is basically fought normally, have Cloud cast Bolt and Barret attack in the four rounds of turns you get before it raises its tail. Cast Bolt once with the tail raised to charge Cloud and Barrets limits. Have Barret use a limit once then lower the HP so that Cloud can kill it. Kill Barret off then execute GS with Cloud.
