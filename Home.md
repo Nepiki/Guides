@@ -2,7 +2,7 @@
 
 ## How to use it
 
-1. Log into your github account (or [create an account](https://github.com/join) if you don't have one).
+1. Log into your github account (or [create an account](https://github.com/join) if you don't have one). Be wary that if your account has been made recently and you receive an error upon trying to create or edit a page, you may be forced to activate two-factor authentication to prevent triggering Github's security against potential malicious accounts/bots.
 2. Go to [the wiki section of this repository](https://github.com/RetroAchievements/guides/wiki).
 3. Click on the New Page button (top right part of the page).
 4. Create/edit your guide formatting it with [markdown](https://commonmark.org/help/). Alternatively, you can browse an existing guide by clicking edit in the top-right corner and then copying the contents to your own page, or use any of the following as base:
