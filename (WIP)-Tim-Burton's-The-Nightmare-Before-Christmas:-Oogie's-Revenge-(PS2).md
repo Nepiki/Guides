@@ -51,8 +51,6 @@ More about how to ranking system will be explained in The Seven Holidays King, a
 
 [**Extras**](#extras)
 
-
-
 ***
 
 [**The Speedrun Before Christmas**](#the-speedrun-before-christmas)
@@ -276,13 +274,11 @@ You shouldn't have any problems going through any fights and get to the combos a
 
 The Skeleton Troll is a good target for combos, especially when it drops its mace for some easy Soul Spins. If you Taunt it, rather then immediately attacking it'll stand in place to make a loud noise. You can still hit it while it does so, but you can taunt it again the moment he's finished with the loud noise to keep it in place there. This is good to keep also keep a low damage count, as it is actually a bit dangerous.
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248699.png">
-
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248565.png">
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248680.png">
 
 ```
-Grave Danger [5]
-Get an "A" or higher in all Ranks in Chapter 4
+The Crypt Creeper [5]
+Get an "A" or higher in all Ranks in Chapter 5
 ```
 `PROGRESSION`
 
@@ -293,7 +289,9 @@ Get an "A" or higher in all Ranks in Chapter 4
 
 The Lock boss fight will most likely waste you some time here. If you get close to him fast enough, you can stun him by Taunting, then hit him with a Soul Spin and then repeat. Otherwise, catch him while in the air and engage the Skeletons only if they're too close. Lock will jump up in the air to attack you from above. If a shadow appears underneath you, dodge out of the shadow.
 
-All the combo and exclamation marks can be done during the boss fight against the Super Spider. Be patient and dodge its attacks when it is a good opportunity to attack its weak spot. After hitting its weakspot, charge Soul Robber with Square, then when the tiny spiders appear, perform a Soul Spin to hit most of them. It should go down with no problems if you're patient enough to wait its attacks.
+All the combo and exclamation marks can be done during the dance segment against the Super Spider. During the fight, be patient and dodge until a good opportunity to hit its weakspot shows up. After hitting its weakspot, charge Soul Robber with Square, then when the tiny spiders appear, perform a Soul Spin to hit most of them to be on time.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248699.png">
 
 ```
 Bone Chilling [5]
@@ -302,8 +300,6 @@ Beat the game with an overall ranking of "C" or higher
 `COMPLETION`
 
 See **The Seven Holidays King** for more information.
-
-***
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248700.png">
 
@@ -314,8 +310,6 @@ Beat the game with an overall ranking of "B" or higher
 `COMPLETION`
 
 See **The Seven Holidays King** for more information.
-
-***
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248702.png">
 
@@ -328,8 +322,6 @@ Beat the game with an overall ranking of "A" or higher on Nightmare Mode
 See **The Seven Holidays King** for more information.
 
 You're likely to earn this and the others first if you didn't complete the secret chapters when beating the game. You can always do them at your leisure, even after beating the game.
-
-***
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248703.png">
 
@@ -684,7 +676,7 @@ there is no need to do this in a single sitting.
 You can actually take your time before going through each level if you need to check what you need to do.
 ```
 
-### Chapter 1
+**Chapter 1**
 
 [![Speedrun Chapter 1](https://github.com/RetroAchievements/guides/assets/133049176/09940d08-aa91-4b44-8d39-d6d3d81a1c90)](https://www.youtube.com/watch?v=jEQ3aKmckXk)
 
@@ -696,7 +688,7 @@ You can actually take your time before going through each level if you need to c
 
 4. Hitting Shadow Oogie does lead to constant damage, but while hitting him, grab some notes so that you'll finish him off fast.
 
-### Chapter 2
+**Chapter 2**
 
 1. Talk to Corpse Kid. Optionally replenish your health at the fountain if needed. Then move to the Witches' Shop, which is nord of Corpse Kid.
 
@@ -706,10 +698,14 @@ You can actually take your time before going through each level if you need to c
 
 4. Go to the entrance of Halloween Town, right in front of the fountain, and defeat the enemies that'll appear (their number is actually randomized). Then interact with the gate.
 
-### Chapter 3
+**Chapter 3**
 
 1. Go past all the enemies and reach the big dead tree by following the way to the left and talk to Hanging Tree. You can waste a bit of time getting to the golden pumpkin.
 
 2. Then go back to where you entered this area to initiate a fight with Lock. Defeat all the enemies, then interact with the dog house of Zero, next to the entrance to Halloween Town.
 
 3. Find the the Hanging Tree's skeletons throughout the area. The first one is in an enclosed area behind the three. Three are in the next section of the Old Graveyard: the first one is hanging on branch next to the bridge; The second one is south of the Burial Chamber; The third one is a bit before the Burial Chamber, in a tiny area reachable only by a grappling point. Then go back to the first area of the Old Graveyard and climb the dead tree to get to the last skeleton. After saving the last skeleton talk to the Hanging Tree to finish the chapter.
+
+**Chapter 4**
+
+**Chapter 5**
