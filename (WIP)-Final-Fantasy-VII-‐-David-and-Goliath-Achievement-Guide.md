@@ -28,14 +28,13 @@ Yeah pincers suck, especially in disc 2 and will result in death a lot of the ti
 # The Actual Guide
 ## Midgar
 At the start of the game, go into the settings and set ATB to **Active** and camera to **Fix** (this just makes choosing targets a little easier during the run). Pick up the two potions from the guard on the ground, fight the scripted battle, name your characters and head straight to Guard Scorpion. There is a **Phoenix Down** on the way to GS before the elevator if you'd like to pick it up but it isn't necessary.
-### Guard Scorpion
-**HP:** 800
 
-**Difficulty:** "Attack while its tail's up"/10
-
-**Party:** Cloud, Barret
-
-**Survivor:** Cloud
+| Guard Scorpion | |
+|------|--------|
+| HP | 800 |
+| Difficulty | "Attack while its tail's up"/10 |
+| Party | Cloud, Barret |
+| Survivor | Cloud |
 
 You should use a calculator to be safe for this fight. This fight is basically fought normally, have Cloud cast Bolt and Barret attack in the four rounds of turns you get before it raises its tail. Cast Bolt once with the tail raised to charge Cloud and Barrets limits. Have Barret use a limit once then lower the HP so that Cloud can kill it. Kill Barret off then execute GS with Cloud.
 **Note:** Cloud's max damage with Bolt is 98
@@ -58,22 +57,26 @@ After doing guard skip or completing story up to getting to Wall Market, proceed
 
 You should now have all 4 items, and can proceed to Corneo, note that you won't be able to save before Aps if you enter the mansion so safety save now if you choose. Pick up the ether and hyper in the mansion before going into the Aps fight, and give Restore materia to Aerith and set ATB to Wait.
 
-### Aps
-**HP:** 1800
-**Difficulty:** 4/10
-**Party:** Cloud, Tifa, Aerith
-**Survivor:** Aerith
+| Aps | |
+|------|--------|
+| HP | 1800 |
+| Difficulty | 4/10 |
+| Party | Cloud, Tifa, Aerith |
+| Survivor | Aerith |
+
 Again, you'll need a calculator for this fight. You'll need to do ~1660 damage before landing a killing blow with Aerith using a grenade to kill. Use grenades, Tifa and Cloud Limit Breaks and heal Aerith if she loses HP, remember to also count the self-inflicted damage to Aps from Tidal Wave which hits for ~180 when hitting his back and ~45 hitting his front. Not a difficult fight just don't lose count.
 
 Don't bother with picking up the item to the left immediately after Aps, it's only a potion and isn't worth the extra encounter. Just heal Aerith, don't use up your Phoenix Downs here, set the ATB back to Active and head to the Train Graveyard, picking up **Steal** materia on the way. Don't worry about stealing ethers here unless you're already behind on gil for some reason, which are from Deenglows. Pick up the Hi-Potion and potions on the way through the graveyard.
 
 Before talking to Barret, put Restore on Cloud and set the ATB back to Wait
 
-### Reno
-**HP:** 1000
-**Difficulty:** 2/10
-**Party:** Cloud, Tifa, Barret
-**Survivor:** Cloud
+| Reno | |
+|------|--------|
+| HP | 1000 |
+| Difficulty | 2/10 |
+| Party | Cloud, Barret, Tifa |
+| Survivor | Cloud |
+
 A super easy fight, he'll die to 8 grenades, but if Cloud gets a Braver, use it in place of a grenade. Reno always opens the fight with Pyramid, best case is actually on Cloud as he'll damage down T and B nice and quickly but you have to destroy the pyramid before they both die. If he pyramids T or B, then destroy it so Reno can target them with physicals. Reno's Pyramid move is every 1st, 4th, 7th... etc turn. Wait for Reno to kill off T and B and execute with grenade/Braver after 7 grenades are thrown. Cloud will receive a heal after the fight, keep B and T dead.
 
 In Sector 5, pick up the Ether and Cover materia in Aerith's garden and go through the cutscene with Elmyra. In the sector 5 shop, sell the Assualt Gun and all your ethers and buy as many grenades as you can (should be ~50) **BUT** make sure you have at least 300 gil left over. Buy the batteries and proceed to...
@@ -104,10 +107,12 @@ Breakdown = BOMB
 Floors 63 and 64 have a save point, and the coupon to item exchange, but they aren't necessary. Obtain them only if you want to. Then complete the diorama on the 65th floor, progress the story on 66th and proceed to 67th. Make sure Cloud is healed on this floor as this is the first floor which has Soldier: 3rd Class enemies and they can hurt. Pick up the **Poison** Materia, set the ATB to Wait and save your game here before fighting Sample H0512. In the cutscene tell Barret to take care of Aerith at which point you'll enter the fight.
 
 ### Sample: H0512
-**HP:** 1000
-**Difficulty:** 3/10
-**Party:** Cloud, Tifa, Red
-**Survivor:** Cloud
+|------|--------|
+| HP | 1000 |
+| Difficulty | 3/10 |
+| Party | Cloud, Tifa, Red |
+| Survivor | Cloud |
+
 Similar to Reno, Sample has 1000 HP. On the first turns have Cloud throw grenades and Red cast Fire ONLY on Sample (press R1 to change between all enemies or single enemy). Red then goes to throwing grenades as well. A calculator might be a good idea here but he should be dead on the 7th grenade, Braver can be used instead of a grenade here as well to get closer towards the Cross-Slash limit. Wait until Red's dead (baby) before executing Sample. There is no need to attack the little minions.
 
 You can switch out Tifa and Red for Barret and Aerith to survive random encounters. Then you absoluletely **MUST** pick up the Enemy Skill materia after the Sample fight. Proceed to the elevator on floor 66 and stay the night at el casa de Shinra.
@@ -116,11 +121,13 @@ You can switch out Tifa and Red for Barret and Aerith to survive random encounte
 
 With the new party being Cloud, Tifa and Aerith, keep Cloud in the back row and Aerith should also be in the back row and head up to floor 70. When asked, remove Cloud and Tifa's materia. Set Restore and Star Pendant onto Aerith and you can have Barret and Red in the front row for speedy deaths, or back row for safety, your choice.
 
-### Hundred Gunner & Heli-Gunner
-**HP:** 1600 & 1000
-**Difficulty:** 3/10
-**Party:** Aerith, Barret, Red
-**Survivor:** Aerith
+| Hundred Gunner & Heli-Gunner | |
+|------|--------|
+| HP | 1600 & 1000 |
+| Difficulty | 3/10 |
+| Party | Aerith, Barret, Red |
+| Survivor | Aerith |
+
 For Hundred Gunner, throw 12 grenades and he dies, absolute pushover. Heli-Gunner requires slightly more care though. He'll die to 8 grenades/limits. Throw 7 grenades to push him into second phase and be one more grenade from death whilst you wait for the Gunner to kill off B and R. Whilst Heli is in second phase he won't put characters to sleep or poison them. Grenades can be substituted for limits but take note they can critical on the rare chance if you're using them on Heli-Gunner, don't end the fight too early.
 
 Remove the party's materia again and equip Restore onto Cloud, it isn't necessary for the Rufus fight but you must heal after it.
@@ -132,21 +139,23 @@ Remove the party's materia again and equip Restore onto Cloud, it isn't necessar
 This menu has a few more steps than the previous ones so here's a list.
 
 1. Set the party to Cloud, Aerith, Tifa
-2. Equip: Remove Aerith's Star Pendant, equip the Mythril Armour
+2. Equip: Aerith equips the Mythril Armour
 3. Materia: For Aerith put Restore onto the weapon slot, Fire + Elemental in the armour
 4. Materia: Put Lightning and Ice on Cloud's Buster Sword
 5. Order: Have Cloud and Tifa in the back row, Aerith in the front (rows are reversed in this fight as it is a back attack)
 6. Config: Set the ATB to Active
 7. Config: If it isn't already, set the cursor to "Memory"
 
-### Motorball
-**HP:** 2600
-**Difficulty:** 5/10
-**Party:** Cloud, Aerith, Tifa
-**Survivor:** Aerith
+| Motorball | |
+|------|--------|
+| HP | 2600 |
+| Difficulty | 5/10 |
+| Party | Cloud, Aerith, Tifa |
+| Survivor | Aerith |
+
 This fight is a bit more complicated, and having a calculator handy is pretty much necessary, remember you can pause in battles. I'll break this fight up into two steps.
 
-Step 1: Most of the damage is in this phase. Cloud must go first and cast Bolt, Aerith and Tifa will throw grenades. Do this until Cloud has queued his 5th Bolt cast then **STOP**, and wait for a few things to happen. After Cloud casts his 5th Bolt, Motorball will do an animation changing form.
+Step 1: Most of the damage is in this phase. Cloud must go first and cast Bolt, Aerith and Tifa will throw grenades. Do this until Cloud has queued his 5th Bolt cast then **STOP**, and wait for a few things to happen. After Cloud casts his 5th Bolt, Motorball will do an animation changing stance.
 
 Step 2: During the animation of Motorball changing form, queue Aerith to Cure herself and Cloud to cast Bolt but Tifa will do nothing. From here Motorball's next turn will be Twin Burner and will probably kill either Cloud or Tifa. Depending on the amount of HP remaining he might need one or two grenades to kill. Wait until Aerith is the last character standing, then execute with a grenade.
 
@@ -160,9 +169,36 @@ Save before entering Mythril Cave as there is a nasty pincer inside the cave whi
 
 Before reaching Junon, save your game then you need to do a shop. Sell the Star Pendant, Talisman and buy enough grenades so that you have 35 total. Swap Aerith's Fire materia for Poison and set the ATB to Active if it happens to be on Wait.
 
-### Bottomswell
-**HP:** 2500
-**Difficulty:** 1/10
-**Party:** Cloud, Aerith, Tifa
-**Survivor:** Aerith
+| Bottomswell | |
+|------|--------|
+| HP | 2500 |
+| Difficulty | 1/10 |
+| Party | Cloud, Aerith, Tifa |
+| Survivor | Aerith |
+
 This fight is cheesed. Have Aerith cast Bio until Bottomswell is inflicted with poison, then sit and wait until it dies, casting Cure when necessary. Keep in mind that Bottomswell can critical his physical attacks so be safe with HP amounts.
+
+When you reach Upper Junon, you'll have an opportunity to save before the marching minigame. Use it, because even if you know how to do this bad RNG can screw you here, although it's rare. You need to score preferably 51% or higher in the marching game to earn 5000 gil, getting 41 - 50% is acceptable if you're having trouble though because it turns out to be 4500 gil instead. If you don't know how to do this, follow these steps.
+
+1. Hold down and run and it'll guarantee that you will enter the formation.
+2. When the lead officer shouts out a number, press AND release circle, your score will increase
+3. Repeat step 2 whilst walking to the left
+
+After the marching game you need to go into the tutorial hall and pick up the 2nd **Enemy Skill** materia, head next door into the item shop and buy 2 Hypers and 11 Tranquilizers. Proceed to the DDR minigame and get 100 or higher for Rufus' approval to get the **Force Stealer**, this is not optional so save beforehand if you aren't confident. Board and progress to forming your party on the Cargo ship.
+
+1. Set the party to Cloud, Tifa, Aerith
+2. Item, use a Hyper on Cloud
+3. Item, use two Tranqs on Tifa and Aerith
+4. Equip, Cloud with Force Stealer and Power Wrist (Aerith should still have Star Pendant and Mythril Armour)
+5. Materia, Aerith should have Restore
+6. You can ATB in either Active or Wait, Active is probably better to get three turns for each Jenova turn but either should be fine
+Save before fighting Jenova
+
+| Jenova-BIRTH | |
+|------|--------|
+| HP | 4000 |
+| Difficulty | 5/10 |
+| Party | Cloud, Aerith, Tifa |
+| Survivor | Aerith |
+
+You need to track damage as you fight. Use Braver as it becomes available, as well as Tifa's limit. You will do most of your damage by throwing grenades though. Use Healing Wind as the party drops in HP but as Jenova goes below 1000 HP you can ease off of healing, unless it's Aerith that's low then just use Cure. When you finish the fight pick up Ifrit materia and the Wind-Slash on the upper level. That concludes the first continent.
