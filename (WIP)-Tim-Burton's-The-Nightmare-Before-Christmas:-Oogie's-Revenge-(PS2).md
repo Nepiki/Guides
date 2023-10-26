@@ -51,9 +51,13 @@ More about how to ranking system will be explained in The Seven Holidays King, a
 
 [**Extras**](#extras)
 
+
+
 ***
 
 [**The Speedrun Before Christmas**](#the-speedrun-before-christmas)
+
+Your 2nd playthrough of the game 
 
 # 3) Tips
 
@@ -86,8 +90,6 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 * The Halloween Ghosts won't give that much trouble, but can be rather annoying. Soul Spin will let you damage them while also damaging Oogie Boogie's Shadow, and also collect the notes they'll drop. They can also potentially drop a Blue Soul, letting you deal more damage to Oogie Boogie's Shadow.
 * When Oogie Boogie's Shadow starts to sing the WOW part of the song, the Halloween Ghosts will pick up bigger dices to drop them at you. Start to dodge them right when Oogie Boogie's Shadow sings WOW for the third time.
 
-You'll earn the achievement after getting the Halloween Door at the end of the fight.
-
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248514.png">
 
 ```
@@ -100,8 +102,6 @@ Defeat the Mega Spider and recover the Valentine's Day Door
 * Keep some distance from the spider, as he has 3 different attacks that he can do at random. Preferably don't stand in front of him, since he'll always turn himself to face into your direction before attacking.
 * The web projectiles does not damage you, but will block you in place, even when the web is on the ground. He'll also start to spit 2 more projectiles when reaches half his health bar.
 
-You'll earn the achievement after getting the Valentine's Day Door at the end of the fight. As well as earning the Pumpkin King Costume!
-
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248515.png">
 
 ```
@@ -110,11 +110,9 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 ```
 `PROGRESSION`
 
-The only way to damage him is to throw the pieces of brain at him while his head is open. You'll only need to do this 2 times and he's defeated. There are 2 ways to fight Dr. Finkelstein:
-1. Grab his head from begind with △ and repeatedly press △ until his head opens. Then grab a piece of brain in the tray on the left of the arena and throw it right in front of him while his head is open.
-2. Destroy his machines and collect the notes. Perform the dance segment successfully and his head will be open. Grab a piece of brain on the tray to the left and throw it right in front of him.
-
-You'll earn the achievement after getting the St Patrick's Day Door at the end of the fight. As well as earning the Santa Jack Costume!
+* The only way to damage him is to throw the pieces of brain on a tray to your left of where you star at him while his head is open.
+* One way to open his head is to grab him from behind with △ until it opens. Then throw the pieces of brain right in front of him.
+* You can also collect notes by destroying his machinery or even trying to open his head to open it.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248516.png">
 
@@ -124,10 +122,8 @@ Defeat Barrel and his Army of Skeletons and recover the Thanksgiving Door
 ```
 `PROGRESSION`
 
-* He fights exacly like Lock all the way back in chapter 4. He'll run around the arena and sometimes summons enemies. Follow him and hit him when possible.
-* Just like Lock, he can be taunted, which stuns him and lets you Soul Spin him for high damage. You can do this repeatedly in quick succession until he's defeated.
-
-You'll earn the achievement after getting the Thanksgiving Door at the end of the fight.
+* He'll run around the arena and sometimes summons enemies. Follow him and hit him when possible.
+* He can be taunted, which stuns him and lets you charge your Soul Robber for a high damage Soul Spin. You can do this repeatedly in quick succession.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248517.png">
 
@@ -137,11 +133,9 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 ```
 `PROGRESSION`
 
-* Dodge their traps and pumpkins, and throw them back at them with △. If you hit them with the traps, they'll be stuck in place for some free hits. Be aware that they can even throw 2 traps as the same time.
-* When the bathtub is destroyed, all three will get off of it. This time they'll try to attack you while also running from you. Of the 3, Lock is the most dangerous one, as her attack is kind of hard to avoid, so try your best to go after her. Lock will jump high and fall into you, making him easier to avoid, and Barrel will shoot you at you. 
-* Fire Blast from the Pumpkin King Costume is very useful here. It'll blast them off in the air while also dealing high damage. If you can, try to hit at least 2 of them with it.
-
-You'll earn the achievement after getting the Independence Day Door at the end of the fight.
+* If you hit them with the bear traps, they'll be stuck in place for some free hits. Be aware that they can still attack while immobilized.
+* When the bathtub is destroyed, all three will get off of it and attack you. Of the 3, Shock is the most dangerous one, as her attack is kind of hard to avoid. They'll run away when you'r going after them, so try your best to go after Shock.
+* Fire Blast from the Pumpkin King Costume is very useful here. It'll blast them off in the air while also dealing high damage. If you can, try to hit all of them in one blast.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248518.png">
 
@@ -151,12 +145,10 @@ Defeat Oogie Boogie and recover the Easter Door
 ```
 `PROGRESSION`
 
-* Stay close to the central platform and destroy the cards immediately as they appear. Make sure to be a bit away from the central platform to not get hit by the blades.
-* The gunners, despite being in clear display, can't be targeted immediately. And when it is possible to hit them, they'll immediately shoot. You can either try to destroy them, as it'll make them shoot Oogie Boogie, or go to the opposite site of the arena to not get hit.
-* After the gunners, the cards will reapper (except for the ones destroyed before). It's the same thing as before, but after a while exploding dices will appear from the ground. Dispose of them quickly!
-* The dices will appear, but they won't explode immediately. At this point, Oogie Boogie will sing the WOW part of the song, and he'll have his mouth wide open. Throw the dices when his mouth is open and stay right on the empty spot where the dice was. After the third WOW, Oogie will explode, taking damage and stunned for a bit, making him vulnerable to some damage. Everything will then repeat until the fight is finished.
-
-You'll earn the achievement after getting the Easter Door at the end of the fight.
+* Stay close to the central platform and destroy the cards immediately as they appear. Back off the platform a bit after destroying at least 1 card.
+* The gunners if destoyed will shoot at Oogie for a bit of damage. However, it's difficult to destroy them, as they become vulnerable the moment they start shooting. You can either go to a safe angle or Fire Blast at the right moment, or just go to the opposite site of the arena where it's safe.
+* After the gunners, the cards will reapper, except for the ones destroyed before. It's the same thing as before, but after a while exploding dices will appear from the ground. You need to throw them away with △ immediately.
+* Then the dices will appear again, but they won't explode immediately. At this moment, Oogie will sing the WOW part of the song, and he'll have his mouth wide open. Throw the dices at him when his mouth is open and stay right on the empty spot where the dice was to avoid the explosions. After the third WOW, Oogie will explode, taking damage and stunned for a bit, making him vulnerable to some damage. Everything will repeat from the start then.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248519.png">
 
@@ -166,11 +158,9 @@ Defeat the Fire King and Ice King Skeletons and recover the Christmas Door
 ```
 `PROGRESSION`
 
-* Both the Fire King Skeleton and the Ice King Skeleton are basically bigger King Skeleton, so just like them the best way to defeat them is to attack them from behind.
+* Both the Fire King Skeleton and the Ice King Skeleton are basically bigger King Skeletons, so just like them the best way to defeat them is to attack them from behind.
 * Ice King Skeleton will go down very easily via Fire Blast from the Pumpkin King Costume. Don't use the costume against the Fire King Skeleton or it'll heal from it.
 * When either of them turns black, use Santa Jack's Re-Possession present to turn them back to normal.
-
-You'll earn the achievement after getting the Christmas Door at the end of the fight. That's the last door to save!
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248520.png">
 
@@ -180,9 +170,9 @@ Defeat the Oogie Train to save Sandy
 ```
 `PROGRESSION`
 
-* Make it a priority to hit the lever closerst to where the train is coming from. A red light will signal you which one it is.
-* The area is full of hidden enemies that make traversing it a challenge. Either attack them at a safe distance or use a Re-Possession present on them.
-* Whenever possible, hit the train as much as you can, even using a Blue Soul. Don't stand in front of it or you'll get hit.
+* Make it a priority to hit the lever closest to where the train is coming from. A red light will signal you which one it is.
+* The area is full of hidden enemies that make traversing anywhere a challenge. Either attack them at a safe distance or use a Re-Possession present on them.
+* The Train will damage you if you stand in front of it. Keep that in mind while attacking it.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248521.png">
 
@@ -192,13 +182,11 @@ Defeat Mega Oogie and save all of the Holidays!
 ```
 `COMPLETION`
 
-* There are 2 ways to defeat him: one is to hit his feet, either with Soul Robber or with Pumpkin King Costume, and move out of his way. Then hit his head with everything you got.
-* The other is to stand in the upper part of the arena, and make him come closer to the gas leaks. When close, light up the gas leaks with any attack from the Pumpkin King Costume for a good amount of damage. Do this back and forth between the two gas leaks until defeated.
-* If you hear him growling, he's about to throw stuff at you. Either Soul Jump to a grappling point into the upper arena or get ready to make many close dodges.
-* If in the upper arena, when he's close he'll try to smack you. With the right timing, it can be dodged, but just like his throw up attack, it has a really tiny opportunity to dodge. Either drop down or move away from him.
-* After the fight, you'll transition into a dance sequence. This one is the hardest in the game, and anytime you miss a button you'll lose health. The latest parts in the dance are hard to do correctly, it'll probably cost you some health. As long as you have enough health to go through this, you'll be fine.
-
-You'll earn this achievement after the fight.
+* You can hit his feet to make him fall (get away from where he falls!). This makes his head reachable with your attacks, but while staying on ground level it makes it easier to get hit by his attacks.
+* The other option is to stand in the upper part of the arena, and make him come closer to the gas leaks. When close, light them up with any attack from the Pumpkin King Costume for a good amount of damage. The gas leaks wiull reappear after a while.
+* If you hear him growling, he's about to throw stuff at you. You can avoid it by dodging at a good distance or going up and down the arena will make him stop the attack.
+* If you're in the upper arena, he'll try to smack you when close. This can be dodged, but it requires a really close timing. You could instead drop down the arena or keep a distance from him as fast as possible.
+* After the fight, you'll transition into a dance sequence. This one is the hardest in the game, and anytime you miss a button you'll lose health. The last parts in the dance are hard to do correctly, so they'll most likely cost you some health. As long as you have enough health to go through this, you'll be fine.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248701.png">
 
@@ -214,7 +202,98 @@ That wasn't so bad... right?
 
 ## Rank S
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248562.png">
+
+```
+Jack's Return [5]
+Get an "A" or higher in all Ranks in Chapter 1
+```
+`PROGRESSION`
+
+* Time: 8:00
+* Combo: 120
+* Damage: 4
+* !-Count: 30
+
+If you don't waste time anywhere else, like saving to game or going into the Hidden Place, and go straight to Oogie Boogie's Shadow, you won't have any problems with time.
+
+Bundle the Skeletons together and Soul Spin them until less than half health. Then Taunt to get them into Oogie Mode (you may need to hit them right after to keep the combo going) and Soul Spin again for even more combos. You should also defeat one Skeleton earlier, so that when the transformed ones are defeated you can hit this one while you wait for the others to spawn.
+
+You can constantly taunt the Skeletons to get many exclamation marks. Otherwise, just do a Full Combo dance against Oogie Boogie's Shadow to get the exact amount needed.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248563.png">
+
+```
+The Witching Hour [5]
+Get an "A" or higher in all Ranks in Chapter 2
+```
+`PROGRESSION`
+
+* Time: 5:00
+* Combo: 100
+* Damage: 4
+* !-Count: 5
+
+This is a short chapter, as long as you ignore any fights in town. The only fights you're needed to do is the one in the sewer and the one in front of the gate after speaking with the Clown in the sewer. The number of enemies in front of the gate can be at random, but not a problem at all.
+
+Use the enemies in the sewer for combos. You could use Soul Cycle here, but it won't let you reach the 100 combo required, so just Soul Spin and taunt them. You can always use the enemies in front of the gate if unable to do it there.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248564.png">
+
+```
+The Hanging Tree [5]
+Get an "A" or higher in all Ranks in Chapter 3
+```
+`PROGRESSION`
+
+* Time: 11:00
+* Combo: 280
+* Damage: 4
+* !-Count: 30
+
+Know beforehand the location of the Hanging Men to make time a non-issue. Though you do have some leniency with time here, and Zero helps you by locating them. Remember to speak to the Hanging Tree when you find all 5 of them.
+
+Soul Cycle during the Lock fight is the best, and probably the only place where you can achieve the combo amount needed, and to also get the exclamation marks needed. Whenever Soul Robber starts to become red, use a Blue Soul to replenish its duration. Do this until you use up all your Blue Souls or few enemies remain, then just Soul Spin and Taunt the remaining ones.
+
+Soul Cycle during Lock's Fight also makes not taking damage much easier. Only other risky place is when going through the statues that spit flames in the second section of the graveyard. Take your time when passing through them (dodging won't work here), and make sure no enemies are following you while going through here.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248565.png">
+
+```
+Grave Danger [5]
+Get an "A" or higher in all Ranks in Chapter 4
+```
+`PROGRESSION`
+
+* Time: 7:00
+* Combo: 100
+* Damage: 8
+* !-Count: 25
+
+Just like with the Hanging Men, know beforehand the location of all the tombstones. They can be located with purple souls coming out of them. Also remember to speak to the Hanging Tree when done.
+
+You shouldn't have any problems going through any fights and get to the combos and exclamation marks required. One good fight to go to is the one in front of the entrance to the next section of the graveyard.
+
+The Skeleton Troll is a good target for combos, especially when it drops its mace for some easy Soul Spins. If you Taunt it, rather then immediately attacking it'll stand in place to make a loud noise. You can still hit it while it does so, but you can taunt it again the moment he's finished with the loud noise to keep it in place there. This is good to keep also keep a low damage count, as it is actually a bit dangerous.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248699.png">
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248565.png">
+
+```
+Grave Danger [5]
+Get an "A" or higher in all Ranks in Chapter 4
+```
+`PROGRESSION`
+
+* Time: 9:00
+* Combo: 59
+* Damage: 8
+* !-Count: 59
+
+The Lock boss fight will most likely waste you some time here. If you get close to him fast enough, you can stun him by Taunting, then hit him with a Soul Spin and then repeat. Otherwise, catch him while in the air and engage the Skeletons only if they're too close. Lock will jump up in the air to attack you from above. If a shadow appears underneath you, dodge out of the shadow.
+
+All the combo and exclamation marks can be done during the boss fight against the Super Spider. Be patient and dodge its attacks when it is a good opportunity to attack its weak spot. After hitting its weakspot, charge Soul Robber with Square, then when the tiny spiders appear, perform a Soul Spin to hit most of them. It should go down with no problems if you're patient enough to wait its attacks.
 
 ```
 Bone Chilling [5]
@@ -605,7 +684,7 @@ there is no need to do this in a single sitting.
 You can actually take your time before going through each level if you need to check what you need to do.
 ```
 
-### [Chapter 1](https://www.youtube.com/watch?v=jEQ3aKmckXk)
+### Chapter 1
 
 [![Speedrun Chapter 1](https://github.com/RetroAchievements/guides/assets/133049176/09940d08-aa91-4b44-8d39-d6d3d81a1c90)](https://www.youtube.com/watch?v=jEQ3aKmckXk)
 
