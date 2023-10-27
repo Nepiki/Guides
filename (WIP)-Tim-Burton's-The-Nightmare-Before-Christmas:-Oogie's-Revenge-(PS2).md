@@ -39,23 +39,32 @@ Most importantly, you can decide to start on Nightmare Mode, the highest difficu
 
 [**Rank S**](#rank-s)
 
-Most of the ranking achievements are about the A rank, as that's the requirement to be rewarded a figurine. Getting A rank is not that difficult, but getting S rank does require you to go out of your way to reach their requirements. It also needs to be done on Nightmare Mode because of The Seven Holidays King.
+Most of the ranking achievements are about the A rank, as that's the requirement to be rewarded a figurine. Getting A rank is not that difficult, but getting S rank, especially on Nightmare Mode, does require you to go out of your way to reach their requirements. It needs to be done on Nightmare Mode for the The Seven Holidays King achievement.
 
-More about how to ranking system will be explained in The Seven Holidays King, as well as each of the A rank achievement will have tips and video guides about getting the S rank. Sadly I can't know exactly the requirements for A rank, but since we are interested more in getting the S ranks, it won't matter as much.
+More about how the ranking system works will be explained in The Seven Holidays King, and the A rank achievements will have written the requirements for S rank and some tips to get them. As long as you are at least close to the S rank requirements, you'll get the A ranks anyway.
 
 ***
 
 [**Damageless, Full Combo**](#damageless-full-combo)
 
+Everything regarding defeating bosses without any damage taken will be expanded with different tips to ease the challenges a bit. Nightmare Mode just makes it requiring more time to take them down with their increased health, so no behaviour changes fortunately.
+
+Full Combos during the dance segments are also a part of this section. There's nothing much to say except for what to expect from them, but the buttons that are to be pressed are always the same, so at least the exact sequence for each dance will be written. Also, missing a button won't fail the damageless achievements if you were wondering.
+
 ***
 
 [**Extras**](#extras)
+
+Anything that doesn't belong anywhere else and everything regarding items, collectibles, upgrades and Hidden Places will be in here.
+
+These should be done along with the Progression achievements; you wouldn't want to do these while going for anything else in the set.
 
 ***
 
 [**The Speedrun Before Christmas**](#the-speedrun-before-christmas)
 
-Your 2nd playthrough of the game 
+This final part will be entirely dedicated to the speedrun achievement, **The Speedrun Before Christmas**.\
+A mini-walktrough on what to do in each chapters will be written for each chapter to indicate what is exactly needed to finish a chapter, or to show a faster way to finish them. Technically speaking, if you get S rank Time, you should be fine anyway.
 
 # 3) Tips
 
@@ -299,6 +308,16 @@ Beat the game with an overall ranking of "C" or higher
 ```
 `COMPLETION`
 
+
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248699.png">
+
+```
+Bone Chilling [5]
+Beat the game with an overall ranking of "C" or higher
+```
+`COMPLETION`
+
 See **The Seven Holidays King** for more information.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248700.png">
@@ -332,21 +351,21 @@ secret chapters on Nightmare Mode
 ```
 `COMPLETION`
 
-When you beat a level, the game will rank you based on different categories, and then give you a total rank of the level. The categories are:
-* Time: how much time you spent to beat the level;
-* Combo: Highest combo number without breaking it;
-* Damage: Amount of hits taken;
-* Exclamation points: These points can be earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons.
+When you beat a level, the game will rank you based on different categories, and then give you a total rank of the chapter.
+* Time: how much time you spent to beat the level.
+* Combo: Highest combo number without breaking it.
+* Damage: Amount of hits taken.
+* !-Count: These can be earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons.
 
-The game tracks the highest rank you earn in each of the categories, and it does not take into consideration the final ranking you earn in a level. With this in mind, if you're finding it too difficult to S rank on first visit, you can even revisit a level and go for just one or two of the categories for S rank, then again for the other two, and the game will assign you S rank for that level.
+The total ranking in a chapter is determined by the highest ranking in each of the categories. It is not based on just the final ranking you achieve at the end of the chapter through the ranking screen, but rather the highest one reached in any category. Say you got S ranks in Combo, Damage, and !-Count, but D in Time; Replaying that chapter and earning S rank in Time will add it up to the other S ranks you already got to give you an overrall S rank in that chapter.
 
-To get a total Rank of S, not only are you needed to earn all the S ranks, but to also complete the two secret chapters. These chapters have no ranking, and you are just required to complete them.
+While getting a total S rank in the game requires both earning all S ranks in each chapter and complete both the Secret Chapters completed. Not only this, but you're also needed to do this on Nightmare Mode, which have more strict requirements for S ranks, and also give you 1 extra point in damage whenever you take a hit.
 
 ```
-⚠️ Be aware that if you are going for the secret chapters, any hits taken or any amount of time
-spent in these secret chapters will count for the rankings in the main chapters, as you're technically still inside it.
-If you're thinking of doing S ranks and the secret chapters and at the same time, know that you'll make at least
-the time ranking almost impossible to do.
+⚠️ Be aware that if you are going for the Secret Chapters, any hits taken or any amount of time-
+spent in these secret chapters will count for the rankings in the main chapters, as you're technically- 
+still inside it. If you're going for the Secret Chapters while also going for S ranks, know that- 
+at least the Time rank is almost impossible to do in both chapters.
 ```
 
 ## Damageless, Full Combo
@@ -434,7 +453,7 @@ Defeat Dr. Finkelstein without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-* Going for the fast method is rather risky, considering how easy it is to be hit by the guns. If you don't think you can go for this method, go for the slower one.
+* Going for the faster method is rather risky, considering how easy it is to be hit by the guns. If you don't think you can go for this method without getting hit, go for the slower one.
 * If you want to go for the fast method... Try to throw both pieces of brain in front of Dr. Finklestein. They'll bance off on the ground, but that also puts them much closer to him, and it makes your next attempt faster.
 * Guns can be avoided much easier by standing in front of where they're initially pointing. With Soul Robber level 2, you can also destroy them before they can even hit you. Don't try to go for the other guns right after, they WILL hit you most likely.
 * Right after the guns retreat, you can try to open Dr. Finkelstein's head by going right behind him before the blades come out. Even if you're not going to throw a piece of brain at him, you can still gain easy notes out of him. This way, if you destroy the blades after, you should have a full bar for the dance segment.
@@ -659,53 +678,55 @@ Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
 ```
 `COMPLETION` `CHALLENGE`
 
-This achievement will be less scary to earn if you've beaten the game already, hence it's right at the bottom of the list.
+This achievement is not that scary once you've beaten the game once. So i suggest to be here once you're done with everything else
 
-Below i'll still  be sharing how to beat each level the fastest way. But first, some general tips for this run:
-* You can, and must, play on easy mode for this achievement. Easy mode puts enemies on their lowest maximum health, making them faster to defeat.
-* Cutscenes and pausing the game will not block the timer. While the ranking screen or the level select screen will block the timer.
-* If you didn't like the time you got, you can reset your game and reload it to have a re-do, since it only cares about the timer on the save file.
-* You're not obbligated to fight most of the enemies in the game. It'll be written if some are obbligatory, but most of them you can just run away.
-* Getting a good rank in each chapter means more souls to spend on upgrades, but it's ultimately not important.
-* The only upgrades that you'll ever need are the Soul Robber, maybe the Pumpkin King Costume upgrades if you want to be safe.
-* For extra lives, you can get any of the ones that can be found in any area. The ones in Hidden Places or the Witches' Shop are a waste of time.
+* Easy Mode is suggested to make the enemies and bosses much easier to defeat.
+* The cutscenes and the pause menu won't freeze the timer. While the ranking screen or the level select screen won't move the timer.
+* You can save when finishing a chapter in case you want to retry the next chapter for a better time.
+* You're not obbligated to fight most of the enemies in the game. Some are obbligatory to progress, but most of them are not necessary.
+* The only upgrades that you'll ever need to buy are the Soul Robber's. Pumpkin King Costume upgrades can be considered to be safe.
+* For the Golden Pumpkins, some can be gotten while progressing through the chapter, while the ones in the shop or the Hidden Places will waste time.
 
-```
-⚠️ This needs to be reiterated: due to this achievement tracking the timer on your save file,
-there is no need to do this in a single sitting.
-You can actually take your time before going through each level if you need to check what you need to do.
-```
+***
 
 **Chapter 1**
 
 [![Speedrun Chapter 1](https://github.com/RetroAchievements/guides/assets/133049176/09940d08-aa91-4b44-8d39-d6d3d81a1c90)](https://www.youtube.com/watch?v=jEQ3aKmckXk)
 
-1. Fight the skeletons until Oogie Boogie starts to talk. It'll take you 6 skeletons.
+Fight the skeletons until Oogie Boogie starts to talk. It'll take you 6 skeletons.
 
-2. The skeletons will continue to spawn endlessly until Oogie Boogie stops talking. Finish them off when he starts laughing.
+The skeletons will continue to spawn endlessly until Oogie Boogie stops talking. Finish them off when he starts laughing.
 
-3. Move immediately in the Town Hall to start the boss fight.
+Move immediately in the Town Hall to start the boss fight.
 
-4. Hitting Shadow Oogie does lead to constant damage, but while hitting him, grab some notes so that you'll finish him off fast.
+Hitting Shadow Oogie does lead to constant damage, but while hitting him, grab some notes so that you'll finish him off fast.
+
+***
 
 **Chapter 2**
 
-1. Talk to Corpse Kid. Optionally replenish your health at the fountain if needed. Then move to the Witches' Shop, which is nord of Corpse Kid.
+Talk to Corpse Kid. Then move to the Witches' Shop, ignoring the enemies.
 
-2. It's unlikely that you'll have anything to buy, so after the cutscene, immediately exit. Talk to Corpse Kid again and enter into the manhole.
+It's unlikely that you'll have anything to buy, so after the cutscene, immediately exit. Talk to Corpse Kid again and enter into the manhole.
 
-3. Defeat the enemies in there and talk to the Clown. Then get out of the manhole through the grapple point.
+Defeat all the enemies in here and talk to the Clown.
 
-4. Go to the entrance of Halloween Town, right in front of the fountain, and defeat the enemies that'll appear (their number is actually randomized). Then interact with the gate.
+Get out of the manhole and go to the entrance of Halloween Town, where you started on chapter 1, and defeat the enemies that'll appear. Then interact with the gate.
+
+***
 
 **Chapter 3**
 
-1. Go past all the enemies and reach the big dead tree by following the way to the left and talk to Hanging Tree. You can waste a bit of time getting to the golden pumpkin.
+Go past all the enemies and reach the big dead tree by following the way to the left and talk to Hanging Tree. You can waste a bit of time getting to the golden pumpkin on the tree.
 
-2. Then go back to where you entered this area to initiate a fight with Lock. Defeat all the enemies, then interact with the dog house of Zero, next to the entrance to Halloween Town.
+Then go back to where you entered this area to initiate a fight with Lock. Defeat all the enemies (square combo is better), then interact with the dog house of Zero, next to the entrance to Halloween Town.
 
-3. Find the the Hanging Tree's skeletons throughout the area. The first one is in an enclosed area behind the three. Three are in the next section of the Old Graveyard: the first one is hanging on branch next to the bridge; The second one is south of the Burial Chamber; The third one is a bit before the Burial Chamber, in a tiny area reachable only by a grappling point. Then go back to the first area of the Old Graveyard and climb the dead tree to get to the last skeleton. After saving the last skeleton talk to the Hanging Tree to finish the chapter.
+Find the 5 Hang Men throughout the area. After getting to the last Hang Men on top of the tree, talk to the Hanging Tree.
 
 **Chapter 4**
 
+***
+
 **Chapter 5**
+
+***
