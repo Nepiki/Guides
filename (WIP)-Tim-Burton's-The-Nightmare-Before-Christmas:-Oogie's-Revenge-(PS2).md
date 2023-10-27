@@ -69,17 +69,12 @@ A mini-walktrough on what to do in each chapters will be written for each chapte
 # 3) Tips
 
 * **Combos** - Soul Spin (↻ Left Stick, ▢) is your best friend to get combos. Another suggestion to do more combos is to taunt an enemy (Directional Button) to make them more durable, especially if they're already damaged to make them replenish some health.
-* **Taunt** - Taunt (Directional Button) is primarily used to get exclamation points, and it can be used repeatedly on the same enemy, even if they are already in Oogie Mode, to rack up exclamation points. You need to wait for them to finish their "startled" animation first before you're able to taunt them again.
+* **Taunt** - Taunt (Directional Button) is primarily used to get exclamation points, and it can be used repeatedly on the same enemy, even if they are already in Oogie Mode, to rack up exclamation points. You need to wait for them to finish their "startled" animation first before you're able to taunt them again. A successful Taunt will also empower your next attack for more damage (similiar to charging up ▢ or △).
 * **Blue Souls** - Not only will they increase damage, but when using Soul Cycle (△ Charged), use a blue soul when you see the Soul Rubber becoming almost red to extended the move duration. This is very powerful when in enclosed areas full of normal size enemies.
 * **Pumpkin King Costume** - While it is a powerful costume, with Fire Bomb (△) doing very high damage, the costume is often used for puzzles and exploration, and it is better to conserve the Red Souls to avoid annoyance.
-* **Santa Jack Costume** - The presents can be used against the enemies hidden in things to discover them and not be immediately retaliated. The presents can have different usages: Re-Possession takes them out of their Oogie Mode (they usualy always are when hidden), Scared Stiff will stun them in place (especially effective against Halloween and King Ghosts).
+* **Santa Jack Costume** - The presents can be used against the enemies hidden in things to discover them and not be immediately retaliated. The presents can have different usages: Re-Possession takes them out of their Oogie Mode (they usualy always are when hidden), and Scared Stiff will stun them in place (especially effective against hidden Halloween Ghosts and King Ghosts).
 * **Dodge Extension** - The Dodge (◯) has a tiny bit of invincibility that normally requires to be timed with precision to use. If right after dodging (O), you quickly change into any costume you have (L1 / R1), the invicibility from the dodgee is followed by the invincibility from changing costume extending it. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge, with good timing.
-
-```
-⚠️ Earning all the figurines in the game will reward you with infinite Red Souls for your Pumpkin King Costume.
-Everything is doable without this, but if you want an advantage, you could wait until getting this reward before
-doing anything that requires the Pumpkin King Costume. The set doesn't block this eitherway.
-```
+* **Infinite Red Souls** - Earning all the figurines in the game will reward you with infinite Red Souls for your Pumpkin King Costume. You don't need this, as everything in the set can be done without it, but if you want a little advantage for, say, against Mega Oogie, you can wait 'til getting this power before then. Also, the set doesn't block this you from earning anything with this power at all.
 
 # 4) Walktrough
 
