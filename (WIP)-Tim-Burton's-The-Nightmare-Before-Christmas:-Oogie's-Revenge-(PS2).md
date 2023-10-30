@@ -116,9 +116,13 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 ```
 `PROGRESSION`
 
-* The only way to damage him is to throw the pieces of brain on a tray to your left of where you star at him while his head is open.
-* One way to open his head is to grab him from behind with △ until it opens. Then throw the pieces of brain right in front of him.
-* You can also collect notes by destroying his machinery or even trying to open his head to open it.
+The only way to damage him is to throw the pieces of brain at him while his head is open.
+
+One way to open his head is to grab him from behind repeatedly until its head opens. Then throw the pieces of brain right in front of him to damage him.
+
+If unsuccessfull, collect the notes by destroying its inventions. Trying to open his head will also give a bit of notes too. After a successfull dance, his head will open.
+
+If you've done the Secret Chapter of Chapter 7, you should have the Sleeping Soup on your inventory. If you start the boss fight with this item in your inventory, the doctor will be asleep with its head open for a free hit. This won't work on Nightmare Mode.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248516.png">
 
@@ -458,11 +462,9 @@ Defeat Dr. Finkelstein without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Going for the "faster method" is rather risky, considering how easy it is to be hit by the guns or the blades if you're not careful. If you're not confident with this, it is safer to complete the dances due to you being positioned right in front of him after the dance.
+Going for the "faster method", as in just open its head and throw the pieces of brain at him quickly, is rather risky considering how easy it is to be hit by the guns or the blades if you're not careful. If you're not confident with doing this, it is safer to complete the dances to have a try in damaging him. Make sure to get enough notes by destroying the blades or opening the Doctor's head.
 
 You can avoid the Guns by getting far away from the direction they're initially pointing. You'll have enough time to destroy one of them this way. Don't go for the other guns right after if you don't want to be immediately blasted.
-
-Wether you just want to wait for the dance part or not, grabbing his head and trying to open it will also make notes appear. It is best to go for it when his inventions are not opperational.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248714.png">
 
