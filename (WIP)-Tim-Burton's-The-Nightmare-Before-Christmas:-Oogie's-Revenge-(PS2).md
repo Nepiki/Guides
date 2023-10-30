@@ -135,7 +135,8 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 ```
 `PROGRESSION`
 
-* If you hit them with the bear traps, they'll be stuck in place for some free hits. Be aware that they can still attack while immobilized.
+If you hit them with the bear traps, they'll be stuck in place for some free hits. Be aware that they can still attack while immobilized.
+
 * When the bathtub is destroyed, all three will get off of it and attack you. Of the 3, Shock is the most dangerous one, as her attack is kind of hard to avoid. They'll run away when you'r going after them, so try your best to go after Shock.
 * Fire Blast from the Pumpkin King Costume is very useful here. It'll blast them off in the air while also dealing high damage. If you can, try to hit all of them in one blast.
 
@@ -147,10 +148,13 @@ Defeat Oogie Boogie and recover the Easter Door
 ```
 `PROGRESSION`
 
-* Stay close to the central platform and destroy the cards immediately as they appear. Back off the platform a bit after destroying at least 1 card.
-* The gunners if destoyed will shoot at Oogie for a bit of damage. However, it's difficult to destroy them, as they become vulnerable the moment they start shooting. You can either go to a safe angle or Fire Blast at the right moment, or just go to the opposite site of the arena where it's safe.
-* After the gunners, the cards will reapper, except for the ones destroyed before. It's the same thing as before, but after a while exploding dices will appear from the ground. You need to throw them away with △ immediately.
-* Then the dices will appear again, but they won't explode immediately. At this moment, Oogie will sing the WOW part of the song, and he'll have his mouth wide open. Throw the dices at him when his mouth is open and stay right on the empty spot where the dice was to avoid the explosions. After the third WOW, Oogie will explode, taking damage and stunned for a bit, making him vulnerable to some damage. Everything will repeat from the start then.
+Stay close to the central platform and destroy the cards immediately as they appear. Back off the platform a bit after destroying one of them or you'll get hit by the blades of the central platform.
+
+The gunners can be destroyed and if done so will damage Oogie Boogie for a bit of damage. You can either go for them, or just go to the opposite side of the arena to not get hit.
+
+After the gunners, the cards will appear again. Then exploding dices will appear that need to be disposed immediately by grabbing and throwing them away.
+
+After this, the dices will appear again, but they won't explode immediately this time. At this moment, Oogie will sing the WOW part of the song, and he'll have his mouth wide open whenever he sings WOW. Throw the dices at him when his mouth is open and stay right on the empty spot where the dice was to avoid the explosions. After the third WOW, Oogie will explode, taking damage and stunned for a bit, making him vulnerable to some damage. If you don't, it won't be possible to damage him.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248519.png">
 
@@ -160,9 +164,11 @@ Defeat the Fire King and Ice King Skeletons and recover the Christmas Door
 ```
 `PROGRESSION`
 
-* Both the Fire King Skeleton and the Ice King Skeleton are basically bigger King Skeletons, so just like them the best way to defeat them is to attack them from behind.
-* Ice King Skeleton will go down very easily via Fire Blast from the Pumpkin King Costume. Don't use the costume against the Fire King Skeleton or it'll heal from it.
-* When either of them turns black, use Santa Jack's Re-Possession present to turn them back to normal.
+Both the Fire King Skeleton and the Ice King Skeleton are basically bigger King Skeletons, so just like them the best way to defeat them is to attack them from behind.
+
+Ice King Skeleton will go down very easily via Fire Blast from the Pumpkin King Costume. Don't use the costume against the Fire King Skeleton or it'll heal from it.
+
+When either of them turns dark, use Santa Jack's Re-Possession present to turn them back to normal.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248520.png">
 
@@ -172,9 +178,11 @@ Defeat the Oogie Train to save Sandy
 ```
 `PROGRESSION`
 
-* Make it a priority to hit the lever closest to where the train is coming from. A red light will signal you which one it is.
-* The area is full of hidden enemies that make traversing anywhere a challenge. Either attack them at a safe distance or use a Re-Possession present on them.
-* The Train will damage you if you stand in front of it. Keep that in mind while attacking it.
+Make it a priority to hit the lever closest to where the train is coming from to not get it to Santa Claus. A red light will signal you which one it is that you need to hit.
+
+The area is full of hidden enemies that make traversing anywhere a challenge. Either attack them at a safe distance or use a Re-Possession present on them.
+
+While thashing the Oogie Train, remember to not stand in front of it or you'll take damage and be knocked down.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248521.png">
 
@@ -184,11 +192,13 @@ Defeat Mega Oogie and save all of the Holidays!
 ```
 `COMPLETION`
 
-* You can hit his feet to make him fall (get away from where he falls!). This makes his head reachable with your attacks, but while staying on ground level it makes it easier to get hit by his attacks.
-* The other option is to stand in the upper part of the arena, and make him come closer to the gas leaks. When close, light them up with any attack from the Pumpkin King Costume for a good amount of damage. The gas leaks wiull reappear after a while.
-* If you hear him growling, he's about to throw stuff at you. You can avoid it by dodging at a good distance or going up and down the arena will make him stop the attack.
-* If you're in the upper arena, he'll try to smack you when close. This can be dodged, but it requires a really close timing. You could instead drop down the arena or keep a distance from him as fast as possible.
-* After the fight, you'll transition into a dance sequence. This one is the hardest in the game, and anytime you miss a button you'll lose health. The last parts in the dance are hard to do correctly, so they'll most likely cost you some health. As long as you have enough health to go through this, you'll be fine.
+You can hit his feet to make him fall (get away from where he falls!). This makes his head reachable with your attacks but be aware that staying on the ground makes it easy to be targeted by his attacks.
+
+You can also get on the upper part of the arena and make him come closer to the gas leaks. When close, light them up with any attack from the Pumpkin King Costume for a good amount of damage. The gas leaks will reappear after a while.
+
+He always makes a sound when ready to attack. If he's close, he'll try to smack you. It requires a precise dodge timing to dodge it, but you can also try to walk away from him if he tries. Another attack is him throwing up objects at you. It's sort of difficult to dodge this one because of how fast they'll fly at you. You'll have more possibility to dodge its attack the further away you're from him. You can also drop down the arena or get in the upper floor to make him stop the attack while he's executing it.
+
+After the fight, you'll transition into a dance sequence. This one is the hardest in the game, and anytime you miss a button you'll lose health. The last parts in the dance are hard to do correctly, so they'll most likely cost you some health. As long as you have enough health to go through this, you'll be fine.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248701.png">
 
@@ -303,16 +313,6 @@ Beat the game with an overall ranking of "C" or higher
 ```
 `COMPLETION`
 
-
-
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248699.png">
-
-```
-Bone Chilling [5]
-Beat the game with an overall ranking of "C" or higher
-```
-`COMPLETION`
-
 See **The Seven Holidays King** for more information.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248700.png">
@@ -373,9 +373,11 @@ Defeat Oogie's Boogie's Shadow without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-* He does a very clear movement when he throws his dices. Immediately dodge them when they're close.
-* The Halloween Ghosts can easily be dealt with with Soul Spin. They'll always come back so don't risk going for Soul Slam (△).
-* When at the WOW part of the song, be ready to dodge in time the big dices, right when Oogie Boogie's Shadow gets at the third WOW. It may be safer to go for a triple dodge to be safe.
+He does a very clear movement when he throws his dices.
+
+The Halloween Ghosts can easily be dealt with with Soul Spin. Unless they're getting annoying, ignore them.
+
+When at the WOW part of the song, be ready to dodge in time the big dices, right when Oogie Boogie's Shadow gets at the third WOW. It may be safer to get away from them with a triple dodge.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248730.png">
 
@@ -411,9 +413,11 @@ Defeat the Mega Spider without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-* Be patient and let it attack first. Stay on any of its sides so that he has to turn around to make you more prepared. 
-* Against the tiny spiders, charge your ▢ and do Soul Spin to make an even stronger one that'll attract much more spiders, dealing the most amount of damage.
-* When it's enraged, the Spider will shoot 3 web projectiles. The exact behaviour is that it'll shoot 2 projectiles one after the other, then after a bit of a pause the tird projectile. It'll also get a bit quicker on its moves.
+Be patient and let it attack first. Stay on any of its sides to make it turn to your direction when it's ready to attack, then dodge that attack and go for its weak point.
+
+Against the tiny spiders, charge your ▢ and do Soul Spin to make an even stronger one that'll attract much more spiders, dealing the most amount of damage.
+
+At half health, the Mega Spider will shoot 3 web projectiles. Wait them out before taking action.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248715.png">
 
@@ -448,10 +452,11 @@ Defeat Dr. Finkelstein without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-* Going for the faster method is rather risky, considering how easy it is to be hit by the guns. If you don't think you can go for this method without getting hit, go for the slower one.
-* If you want to go for the fast method... Try to throw both pieces of brain in front of Dr. Finklestein. They'll bance off on the ground, but that also puts them much closer to him, and it makes your next attempt faster.
-* Guns can be avoided much easier by standing in front of where they're initially pointing. With Soul Robber level 2, you can also destroy them before they can even hit you. Don't try to go for the other guns right after, they WILL hit you most likely.
-* Right after the guns retreat, you can try to open Dr. Finkelstein's head by going right behind him before the blades come out. Even if you're not going to throw a piece of brain at him, you can still gain easy notes out of him. This way, if you destroy the blades after, you should have a full bar for the dance segment.
+Going for the "faster method" is rather risky, considering how easy it is to be hit by the guns or the blades if you're not careful. If you're not confident with this, it is safer to complete the dances due to you being positioned right in front of him after the dance.
+
+You can avoid the Guns by getting far away from the direction they're initially pointing. You'll have enough time to destroy one of them this way. Don't go for the other guns right after if you don't want to be immediately blasted.
+
+Wether you just want to wait for the dance part or not, grabbing his head and trying to open it will also make notes appear. It is best to go for it when his inventions are not opperational.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248714.png">
 
@@ -488,9 +493,11 @@ Defeat Lock, Shock and Barrel without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-* You'd want to use a Blue Soul to make the first phase shorter. Watchout for the traps as you go.
-* For the second phase to go smothly, you need to make sure to destroy the bathtub while it's correctly positioned close to the edge of the arena (preferably either up or down side). When all three get off the bathtub, change immediately to the Pumpkin King Costume and constantly blast them with Fire Blast (△) making sure to hit all three of them. It may sound easy to do... it may take some trial and error.
-* If something went wrong and you could only get 2 or 1 of them, try to lure them to one another and Fire Blast (△) them, but be weary of whoever is free and what they do. 
+Use Blue Souls, and throw the traps back at them in the first phase to make it as short as possible. Beware that the kids can throw 2 traps at the same time usually.
+
+For the second phase to go smoothly, you need to make sure to destroy the bathtub while it's correctly positioned close to the edges of the arena (preferably either up or down side for better camera position). When all three get off the bathtub, change immediately to the Pumpkin King Costume and constantly blast them with Fire Blast while making sure to hit all three of them. All 3 will get knocked up in the air and take a very high amount of damage. Then Fire Blast as soon as they get up from the ground to hit them again.
+
+If something went wrong and you could only get 2 or 1 of them, try to lure them to one another and Fire Blast them, but be weary of whoever is free.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248716.png">
 
@@ -536,10 +543,11 @@ Defeat Oogie Boogie without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-* The tactic is almost the same as the normal one, but the cards will have more health. It'll take a full combo of Soul Robber lvl 3 to destroy one, so be quick and move away from the middle platform when possible (actually, the lvl 3 combo will move you away a bit from the platform, so keep that in mind).
-* Don't try to hit the gunners. They won't take off that much health and it's very risky to try and to hit them. You could time a Fire Blast (△) exactly at the moment where they become vulnerable, which is when Oogie says "Joking!", but it's much better to just stay away from them.
-* To be extra safe, when you need to throw the exploding dices in his mouth, you have time to throw 2 at him. They won't do extra damage, but it gives you way more empty space to stand in.
-* There's nothing much so speed up the fight, except to use a Blue Soul when you make him explode. Mind when the traps and the dice bombs come out and to position yourself correctly to each one of them.
+The tactic is almost the same as the normal one. Destroy one of the cards as quickly as possible while standing close to the central platform. Then move a bit into the free space created before getting hit by the central platform.
+
+Don't try to hit the gunners. They are very annoying due to becoming targetable at the same time as they start shooting. You could time a Fire Blast (△) exactly at the moment where they become vulnerable, which is when Oogie says "Joking!" for the second time, but it's much better to just stay away from them. They won't contribute much damage either way.
+
+When you need to throw the exploding dices in his mouth, you have time to throw 2 at him. They won't do extra damage, but it gives you more space to not get hit by the explosions.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248713.png">
 
@@ -575,8 +583,9 @@ Defeat the Fire King and Ice King without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-* Fire Blast (△) with the Pumpkin King Costume the both of them. Ice King Skeleton will go down in 2 or 3 hits, while the Fire King Skeleton will stay in place to absorb your Fire Blast, making this very safe.
-* Carefully get behind the Fire King Skeleton, use a Blue Soul and finish it off fast. If he becomes black, throw a Re-Possession present at it and keep your distance.
+Fire Blast (△) is effective against the Ice King Skeleton, while the Fire King Skeleton will absorb its damage. That however causes it to standing still to absorb the Fire Blast making it safe to defeat Ice King Skeleton right away.
+
+Fire King Skeleton can only be defeated normally by hitting him behind. Be careful when getting behind it, and use a Blue Soul to finish it off quickly.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248718.png">
 
@@ -586,10 +595,11 @@ Defeat Mega Oogie 1st Phase without taking damage on Nightmare Mode
 ```
 `COMPLETION` `CHALLENGE`
 
-* Don't try to hit his feet. It makes you an easy target.
-* Remember the invincibility extension with the dodge, as it'll be useful to dodge all of his attacks.
-* If you don't feel confident or you think you'll get hit, you can fall down and that'll make Mega Oogie stop his attack.
-* Make use of the Red Souls with the gas leaks and the Blue Souls to finish the fight quickly. Don't hoard them now!
+Don't try to hit his feet. It makes you an easy target to his attacks. You're better off standing in the upper part of the arena.
+
+If you feel like you can't dodge an attack, you can fall down or get in the upper part based on where you're to make his attacks stop while he's executing them.
+
+Remember the invincibility extension with the dodge, as it'll be useful to dodge all of his attacks. There's also a bit of invincibility from the tiny jump before the explosion of the Fire Blast that you can use to dodge the slap attack. Though it does require not only a strict timing, but also Red Souls that could be used for more constant damage with the gas leaks (not an issue if you have infinite Red Souls).
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248717.png">
 
@@ -673,8 +683,9 @@ Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
 ```
 `COMPLETION` `CHALLENGE`
 
-This achievement is not that scary once you've beaten the game once. So i suggest to be here once you're done with everything else
+It is suggested to do this after at least beating the game once to have an understand of what to do throughout the game. To give an idea, if you do S rank in time on each chapter or better, then you should be close to the required time for this achievement
 
+**Tips**
 * Easy Mode is suggested to make the enemies and bosses much easier to defeat.
 * The cutscenes and the pause menu won't freeze the timer. While the ranking screen or the level select screen won't move the timer.
 * You can save when finishing a chapter in case you want to retry the next chapter for a better time.
