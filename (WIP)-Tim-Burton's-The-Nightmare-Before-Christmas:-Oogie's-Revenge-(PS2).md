@@ -88,9 +88,11 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 ```
 `PROGRESSION`
 
-* He will every so often throw dices at you. These can easily be dodged (O) with the right timing, or you can dodge them just by keeping walking left or fight.
-* The Halloween Ghosts won't give that much trouble, but can be rather annoying. Soul Spin will let you damage them while also damaging Oogie Boogie's Shadow, and also collect the notes they'll drop. They can also potentially drop a Blue Soul, letting you deal more damage to Oogie Boogie's Shadow.
-* When Oogie Boogie's Shadow starts to sing the WOW part of the song, the Halloween Ghosts will pick up bigger dices to drop them at you. Start to dodge them right when Oogie Boogie's Shadow sings WOW for the third time.
+He will every so often throw dices at you. These can easily be dodged with the right timing.
+
+The Halloween Ghosts won't give that much trouble, but they can be taken care of with just Soul Spin.
+
+When Oogie Boogie's Shadow starts to sing the WOW part of the song, the Halloween Ghosts will pick up bigger dices to drop them at you. Start to dodge them right when Oogie Boogie's Shadow sings WOW for the third time.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248514.png">
 
@@ -100,9 +102,11 @@ Defeat the Mega Spider and recover the Valentine's Day Door
 ```
 `PROGRESSION`
 
-* It has a weak spot on his back that when hit, he becomes many tiny versions of itself. Soul Spin is a very effective move here, as it'll attract the tiny spiders to you making it easier to hit them.
-* Keep some distance from the spider, as he has 3 different attacks that he can do at random. Preferably don't stand in front of him, since he'll always turn himself to face into your direction before attacking.
-* The web projectiles does not damage you, but will block you in place, even when the web is on the ground. He'll also start to spit 2 more projectiles when reaches half his health bar.
+It has a weak spot on his back that when hit, he becomes many tiny versions of itself. Soul Spin is a very effective move here, as it'll attract the tiny spiders to you making it easier to hit them.
+
+Keep some distance from the Mega Spider, as he has 3 different attacks that he can do at random. If you stand on one of his sides, he'll turn himself to your direction to attack. This gives you a way to know better when it attacks and, if you're fast enough, a way to get to its weak point.
+
+The web projectiles does not damage you, but will block you in place, even when the web is on the ground, to make you open to its other attacks. At half health, he'll cover more ground by spitting 3 web projectiles requiring more attention.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248515.png">
 
@@ -124,8 +128,9 @@ Defeat Barrel and his Army of Skeletons and recover the Thanksgiving Door
 ```
 `PROGRESSION`
 
-* He'll run around the arena and sometimes summons enemies. Follow him and hit him when possible.
-* He can be taunted, which stuns him and lets you charge your Soul Robber for a high damage Soul Spin. You can do this repeatedly in quick succession.
+A good time to attack him is when he jumps so he gets staggered and fall in place. Skeletons are not important, but dispatch them if they're too close.
+
+You can stun him by simply Taunting close to him, while also giving you a powered up attack for free damage.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248517.png">
 
@@ -137,8 +142,9 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 
 If you hit them with the bear traps, they'll be stuck in place for some free hits. Be aware that they can still attack while immobilized.
 
-* When the bathtub is destroyed, all three will get off of it and attack you. Of the 3, Shock is the most dangerous one, as her attack is kind of hard to avoid. They'll run away when you'r going after them, so try your best to go after Shock.
-* Fire Blast from the Pumpkin King Costume is very useful here. It'll blast them off in the air while also dealing high damage. If you can, try to hit all of them in one blast.
+When the bathtub is destroyed, all three will get off and attack you in the same fashion as their individual fights. Of the 3, Shock is the most dangerous one with an attack that is a bit difficult to dodge so try to go after her.
+
+Fire Blast from the Pumpkin King Costume is very useful here. It'll blast them off in the air while also dealing high damage. If you can, try to hit all of them in one blast.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248518.png">
 
