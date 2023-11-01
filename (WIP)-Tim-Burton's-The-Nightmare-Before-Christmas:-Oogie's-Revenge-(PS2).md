@@ -73,7 +73,7 @@ A mini-walktrough on what to do in each chapters will be written for each chapte
 * **Blue Souls** - Not only will they increase damage, but when using Soul Cycle (△ Charged), use a blue soul when you see the Soul Rubber becoming almost red to extended the move duration. This is very powerful when in enclosed areas full of normal size enemies.
 * **Pumpkin King Costume** - While it is a powerful costume, with Fire Bomb (△) doing very high damage, the costume is often used for puzzles and exploration, and it is better to conserve the Red Souls to avoid annoyance.
 * **Santa Jack Costume** - The presents can be used against the enemies hidden in things to discover them and not be immediately retaliated. The presents can have different usages: Re-Possession takes them out of their Oogie Mode (they usualy always are when hidden), and Scared Stiff will stun them in place (especially effective against hidden Halloween Ghosts and King Ghosts).
-* **Dodge Extension** - The Dodge (◯) has a tiny bit of invincibility that normally requires to be timed with precision to use. If right after dodging (O), you quickly change into any costume you have (L1 / R1), the invicibility from the dodgee is followed by the invincibility from changing costume extending it. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge, with good timing.
+* **Dodge Extension** - The Dodge (◯) has a tiny bit of invincibility that normally requires to be timed with precision to use. If right after Dodging (◯), you quickly change into any costume you have (L1 / R1), the invicibility from the dodgee is followed by the invincibility from changing costume extending it. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge, with good timing.
 * **Infinite Red Souls** - Earning all the figurines in the game will reward you with infinite Red Souls for your Pumpkin King Costume. You don't need this, as everything in the set can be done without it, but if you want a little advantage for, say, against Mega Oogie, you can wait 'til getting this power before then. Also, the set doesn't block this you from earning anything with this power at all.
 
 # 4) Walktrough
@@ -314,6 +314,42 @@ Get an "A" or higher in all Ranks in Chapter 5
 The Lock boss fight will most likely waste you some time here. If you get close to him fast enough, you can stun him by Taunting, then hit him with a Soul Spin and then repeat. Otherwise, catch him while in the air and engage the Skeletons only if they're too close. Lock will jump up in the air to attack you from above. If a shadow appears underneath you, dodge out of the shadow.
 
 All the combo and exclamation marks can be done during the dance segment against the Super Spider. During the fight, be patient and dodge until a good opportunity to hit its weakspot shows up. After hitting its weakspot, charge Soul Robber with Square, then when the tiny spiders appear, perform a Soul Spin to hit most of them to be on time.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248728.png">
+
+```
+Nightshade Froggy Worm [10]
+Obtain the Sleeping Soup [Ch. 7 - Secret Chapter]
+```
+
+This Secret Chapter can be started by speaking to Sally at the graveyard during Chapter 7.
+
+She'll ask you to find 3 ingredients to make the Sleeping Soup: Deadly Nightshade, Worm's Wart and Frog's Breath.
+
+The Deadly Nightshade is found in the path behind the big tree in the graveyard. Going to the right you'll have to destroy some statues with pumpkins to proceed. These statues regenerate after being destroyed so you need to be quick. Going further down the path, you'll find an open area with a grave open to the right. Go down this entrance to enter a Hidden Place. Defeat the enemies here and you'll get the Deadly Nightshade.
+
+The Worm's Wart can be bought by the Witches in their Shop. Speak to the Witch to the right to buy one. You need 1000 Souls to buy it. If you don't have them, you could get to any Hidden Place close by to earn some.
+
+The Frog's Breath requires Red Souls to get access to an area where you'll find it.\
+Right before the stairs that'll take you to the Doctor's Lab, destroy the blocked entrance to the left with a Fire Blast and enter. Defeat the enemies that'll appear here, then get to an elevetor that you should find at the left side of the area and go up. You'll see 3 lanterns that can need to be lighted up at the same time to disable the electric gate. Bring the only movable lantern to the left closer to the other 2, then use a Fire Blast to light all 3 at the same time. Now you'll see many frogs at the other side, but you're only interested in the one that emits a green breath. Find one of these frogs, move slowly to them and grab them with △ until you get them. If they run away, back off (you may need to go back to the gate even), and wait for them to move closer to you. It may take some tries to capture one.
+
+When you get all 3 ingredients, go back to Sally in the graveyard to finish the Secret Chapter and get the Sleeping Soup.
+
+The Sleeping Soup has actual usage during the Dr. Finklestein boss fight. At the start he'll be put to sleep open for a free hit. Get behind him, grab his head until opened, and then throw a piece of brain in front of him. He'll wake up immediately after getting hit and will make whatever attack he's supposed to do based on what part of the song you'r in (most likely he'll use the blades). Unfortunately, this will not work on Nightmare Mode
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248729.png">
+
+```
+Bony Cookie [10]
+Help Igor get his Bone Biscuit back [Ch. 12 - Secret Chapter]
+```
+
+This Secret Chapter can be accessed by first speaking with the Dr. Finklestein, then to igor during Chapter 12.
+
+Igor will tell you that his Bone Biscuits disappeared while he was eating them close to a manhole. The manhole in question can be found to the left of the entrance to the lab. You should notice a manhole rattling going this way. Interact with it and you'll get to a Hidden Place with a Mega Spider inside.
+
+This Mega Spider is identical to the Mega Spider you've fought in chapter 5 so refer to **Arachnophobia** on how to defeat it.\
+After defeating it, you'll get the Bone Biscuits. Get back to Igor to give him back his Bone Biscuits and finish the Secret Chapter.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248699.png">
 
