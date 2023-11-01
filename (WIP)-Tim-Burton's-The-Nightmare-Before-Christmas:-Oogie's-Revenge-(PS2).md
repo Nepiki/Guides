@@ -55,9 +55,13 @@ Full Combos during the dance segments are also a part of this section. There's n
 
 [**Extras**](#extras)
 
-Anything that doesn't belong anywhere else and everything regarding items, collectibles, upgrades and Hidden Places will be in here.
+Everything else like Items, Collectibles, Upgrades and Hidden Places, or that doesn't belong anywhere else, will be talked about here.
 
-These should be done along with the Progression achievements; you wouldn't want to do these while going for anything else in the set.
+These achievements can be done along with the Progression portion of the set. Anywhere else, like the Speedrun achievement, is not suggested.
+
+Items from the Witches' Shop get a price reduction if playing on Easy Mode. For consistency sake, the prices listed for anything that can be bought in the Witches' Shop will be the prices in Normal Mode and Nightmare Mode, as you're more likely to play with these difficulties anyway.
+
+Easy Mode does have an extra item that is only available in this difficulty; the Pumpkin Shield. It makes Jack immune to damage, with each level extending this invincibility. This is not counted for **Sandy Claws**, but i'll still list the prices for that item anyway.
 
 ***
 
@@ -813,6 +817,71 @@ Defeat all monsters in Hidden Place 17
 In Christmas Town, Hidden Place 17 is located in a house above the train tunnel. You're needed to get here the first time in Chapter 22 to get the Green Ornament.
 
 Defeating the enemies again after getting the Green Ornament will earn you the Trick and Treat figurine.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248746.png">
+
+```
+Soul Robber! [10]
+Fully upgrade the Soul Robber
+```
+
+Buy all the Soul Robber upgrades from the Witches Shop.
+
+Lvl 2: 3.000 Souls\
+Lvl 3: 7.000 Souls
+
+Total: 10.000 Souls
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248747.png">
+
+```
+Pumpkin Blaze [10]
+Fully upgrade the Pumpkin King Costume
+```
+
+Buy all the Pumpkin King upgrades from the Witches Shop
+
+Lvl 2: 2.000 Souls\
+Lvl 3: 4.500 Souls
+
+Total: 6.500 Souls 
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248748.png">
+
+```
+Sandy Claws [10]
+Fully upgrade the Santa Jack Costume
+```
+
+Buy all the Santa Jack upgrades from the Witches Shop
+
+Re-possession\
+Lvl 2: 500 Souls\
+Lvl 3: 1.000 Souls
+
+Scared Stiff\
+Lvl 1: 500 Souls\
+Lvl 2: 1.200 Souls\
+Lvl 3: 2.500 Souls
+
+Cold Front\
+Lvl 1: 1.000 Souls\
+Lvl 2: 5.000 Souls\
+Lvl 3: 10.000 Souls
+
+Pumpkin Shield (Only available on Easy Mode)
+Lvl 1: 450
+Lvl 2: 900
+Lvl 3: 4.500
+
+Total: 20.700 (Pumpkin Shield not included)
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248748.png">
+
+```
+Sandy Claws [10]
+Fully upgrade the Santa Jack Costume
+```
 
 ## The Speedrun Before Christmas
 
