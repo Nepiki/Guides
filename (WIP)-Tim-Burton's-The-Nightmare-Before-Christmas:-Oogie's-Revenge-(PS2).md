@@ -741,7 +741,7 @@ Royal Wraith [5]
 Defeat all monsters in Hidden Place 3
 ```
 
-In the tiny area outside of the Withes Shop, going to the right you'll find a sing with a fish on it. Hit it and it'll make a spiral appear to hook on. Hook also on the other spiral to the left and move north to enter the Hidden Place.
+In the tiny area outside of the Withes Shop, going to the right you'll find a sing with a fish on it. Hit it and it'll make a spiral appear to latch on. Latch also on the other spiral to the left and move north to enter the Hidden Place.
 
 Defeating all the enemies will earn you a King Ghost figurine.
 
@@ -767,7 +767,7 @@ Defeat all monsters in Hidden Place 6
 
 You need Red Souls to access this area.\
 
-Get to the second area of the Graveyard, which is south of the big tree. Proceed until you pass through the statues that spit fire. Proceed north in the direction of the tomb and hook on a spiral you should find there. Ignite the spider web in front of the entrance of the tomb with your Pumpkin King Costume and enter the Hidden Place 6.
+Get to the second area of the Graveyard, which is south of the big tree. Proceed until you pass through the statues that spit fire. Proceed north in the direction of the tomb and latch on a spiral you should find there. Ignite the spider web in front of the entrance of the tomb with your Pumpkin King Costume and enter the Hidden Place 6.
 
 Defeating all the enemies will earn you a Blue Skeleton figurine.
 
@@ -869,19 +869,98 @@ Lvl 1: 1.000 Souls\
 Lvl 2: 5.000 Souls\
 Lvl 3: 10.000 Souls
 
-Pumpkin Shield (Only available on Easy Mode)
-Lvl 1: 450
-Lvl 2: 900
+Pumpkin Shield (Only available on Easy Mode)\
+Lvl 1: 450\
+Lvl 2: 900\
 Lvl 3: 4.500
 
 Total: 20.700 (Pumpkin Shield not included)
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248748.png">
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248749.png">
 
 ```
-Sandy Claws [10]
-Fully upgrade the Santa Jack Costume
+Jack-O'-Lantern [3]
+Get your first Golden Pumpkin
 ```
+
+Refer to **Auriferous Cucurbita** for more information.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248750.png">
+
+```
+Auriferous Cucurbita [10]
+Get all the Golden Pumpkins
+```
+
+There are 10 Golden Pumpkins throughout the game.
+
+1. It's in Hidden Place 2. In front of the Town Hall, latch on the spiral above the door and enter the hole you'll find on top. Defeat all the enemies the first Golden Pumpkin.
+2. Get a perfect score in the Corpse Kid Quiz.
+3. In one of the branches of the big tree in the Old Graveyard. Use the first spiral to the right of the tree to get there.
+4. At the start of Chapter 12, perform a triple jump to get to the Golden Pumpkin right beside you.
+5. At the Mayor's House, right where the Golden Pumpkin is visible, go through the door instead continue forward until you get outside with a spiral you're supposed to jump into to progress. Instead, go south through a tiny passage, paying attention to not fall. Further down you should see the Golden Pumpkin and a spiral. Latch on the spiral and you'll drop on top of the Golden Pumpkin.
+6. At the start of Chapter 16, progress through the level until you see a big skull with a spiral on its nose you can latch into. You'll enter Hidden Place 12, where you can find a Golden Pumpkin after defeating all the enemies.
+7. In Spiral Hill, go to the left of the entrance to find a gate with an handle. Crank the handle until it's open to get in Hidden Place 14. Defeat all the enemies and you'll earn a Golden Pumpkin.
+8. This one is in the Hinterlands, so pay attention to where to go: at the entrance of this area, go north, then north-east of Mr. Hyde. You should see an entrance in front of you. Go in front of it, then go all the way right into a tiny path. Destroy all the traps in this area to get the Golden Pumpkin.
+9. You can buy this one from the Witches' Shop for 7.500 Souls.
+10. After buying the Golden Pumpkin in the Witches' Shop, another one will be available to be bought for 15.000 Souls.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248751.png">
+
+```
+Crystalline Container [3]
+Get your second Crystal Bottle
+```
+
+Refer to **Estus Flasks** for more information.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248753.png">
+
+```
+Estus Flasks [10]
+Get all the Crystal Bottles
+```
+
+You can only get one Crystal Bottle through the Witches' Shop for 5.000 Souls.\
+For the other 2 Crystal Bottles, you need to exchange all 8 Crystal Skulls you can find throughout the game to the Witch to the left at the Shop to get them.
+
+1. In Halloween Town, to the right of the gate, latch on the spiral to get to Hidden Place 4. Defeat all the enemies to get a Crystal Skull.
+2. In the Old Graveyard, get to the second section of the graveyard. Continue until you can see a spiral to the north. Latch onto it and use the Pumpkin King costume to get rid of the spider web. Get inside to enter Hidden Place 6 where you can find the Crystal Skull.
+3. In the Old Graveyard during Chapter 18, get on top of the big tree where you found the last Hangman to find a Crystal Skull.
+4. In the Doctor's Lab, to the left of the elevator where it takes you to the boss fight with Dr. Finklestein, go left, latch on the spiral and enter the door to get to Igor's Room, where you'll find it there.
+5. In the Doctor's Lab, after Chapter 8, go through the door a bit before the elevator, the one you it was blocked at first, to get to Sally's Room. You'll also find the Crystal Skull right there.
+6. In the Residential Area, go to entrance to the left of the Vampire Brothers' House, then go al the way straight and fall onto the pit. Go south to see some wooden barricades, but instead go to the left and look for a breakable wall. Break the wall and go through the entrance to get to Hidden Place 11 to get the Crystal Skull.
+7. In the Magma Maze, progressing through the area you should see the Crystal Skull in an unreachable area. Go back to the red moving platform and when possible move to the other platform that is held by a skeleton. Latch on the spiral on top to get to the Crystal Skull.
+8. In Christmas Town, it's located in the Hidden Place 18, where you have to get the Candles for Chapter 22. At the entrance of Christams Town, go behind the building to the left and latch on the spiral to get on top of the building. Drop on top of the big present behind the train and wait until you see a spiral. Latch on this spiral to get to the Hidden Place 18. If you're in Chapter 22, you'll need to re-enter it after getting the Candles to get the Crystal Skull.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248752.png">
+
+```
+Phantom Outfits [10]
+Collect all the Costumes
+```
+`COMPLETION`
+
+On top of the 2 costumes that you'll get by playing through the game, the other costumes require beating the game with a certain overral ranking in all the chapters, with S ranking giving you all of them.
+
+Pajama Jack: Beat the Game with B ranking.
+Dancing Jack: Beat the Game with C ranking.
+Thespian Jack: Beat the game with A ranking.
+Phantom Jack: Beat the game with S ranking, and both the Secret Chapters completed.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248754.png">
+
+```
+Spooky Collector [10]
+Collect all the Figurines
+```
+`COMPLETION`
+
+The figurines can be earned by finishing a chapter, earning an overall A rank in a chapter, or finding them in a Hidden Place.
+
+Refer to either the A Rank achievements or the Hidden Places achievements for more information.
+
+Getting all the figurines will earn you Infininite Red Souls. This can be safely used for any other achievement if needed.
 
 ## The Speedrun Before Christmas
 
