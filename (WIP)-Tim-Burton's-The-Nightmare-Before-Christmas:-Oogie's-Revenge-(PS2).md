@@ -363,7 +363,7 @@ Beat the game with an overall ranking of "C" or higher
 ```
 `COMPLETION`
 
-See **The Seven Holidays King** for more information.
+Refer to **The Seven Holidays King** for more information.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248700.png">
 
@@ -373,7 +373,7 @@ Beat the game with an overall ranking of "B" or higher
 ```
 `COMPLETION`
 
-See **The Seven Holidays King** for more information.
+Refer to **The Seven Holidays King** for more information.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248702.png">
 
@@ -383,9 +383,9 @@ Beat the game with an overall ranking of "A" or higher on Nightmare Mode
 ```
 `COMPLETION`
 
-See **The Seven Holidays King** for more information.
+Refer to **The Seven Holidays King** for more information.
 
-You're likely to earn this and the others first if you didn't complete the secret chapters when beating the game. You can always do them at your leisure, even after beating the game.
+You're likely to earn this, along with the other ones, if you didn't complete the secret chapters when beating the game. You can always do them at your leisure, even after beating the game.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248703.png">
 
@@ -402,9 +402,11 @@ When you beat a level, the game will rank you based on different categories, and
 * Damage: Amount of hits taken.
 * !-Count: These can be earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons.
 
-The total ranking in a chapter is determined by the highest ranking in each of the categories. It is not based on just the final ranking you achieve at the end of the chapter through the ranking screen, but rather the highest one reached in any category. Say you got S ranks in Combo, Damage, and !-Count, but D in Time; Replaying that chapter and earning S rank in Time will add it up to the other S ranks you already got to give you an overrall S rank in that chapter.
+The overall ranking in a chapter is determined by the highest ranking in each of the categories. It is not based on just the final ranking you achieve at the end of the chapter through the ranking screen, but rather the highest recorded rank reached in any category. Say you got S ranks in Combo, Damage, and !-Count, but D in Time; Replaying that chapter and earning S rank in Time will add it up to the other S ranks you already got to give you an overrall S rank in that chapter.\
+An overall rank S of the game also requires completing both the Secret Chapters. These have no rank requirements themselves, they just require to be completed.
 
-While getting a total S rank in the game requires both earning all S ranks in each chapter and complete both the Secret Chapters completed. Not only this, but you're also needed to do this on Nightmare Mode, which have more strict requirements for S ranks, and also give you 1 extra point in damage whenever you take a hit.
+The achievement also requires to earn these S ranks on Nightmare Mode. The requirements for the S rank differ based on the difficulty, with Nightmare Mode being the most strict one.\
+These requirements and how to reach them will be written in each of the A rank achievements
 
 ```
 ⚠️ Be aware that if you are going for the Secret Chapters, any hits taken or any amount of time-
@@ -943,10 +945,10 @@ Collect all the Costumes
 
 On top of the 2 costumes that you'll get by playing through the game, the other costumes require beating the game with a certain overral ranking in all the chapters, with S ranking giving you all of them.
 
-Pajama Jack: Beat the Game with B ranking.
-Dancing Jack: Beat the Game with C ranking.
-Thespian Jack: Beat the game with A ranking.
-Phantom Jack: Beat the game with S ranking, and both the Secret Chapters completed.
+Pajama Jack: Beat the Game with overall C ranking in all chapters.\
+Dancing Jack: Beat the Game with overall B ranking in all chapters.\
+Thespian Jack: Beat the Game with overall A ranking in all chapters.\
+Phantom Jack: Beat the Game with overall S ranking in all chapters (both Secret Chapters required).
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248754.png">
 
