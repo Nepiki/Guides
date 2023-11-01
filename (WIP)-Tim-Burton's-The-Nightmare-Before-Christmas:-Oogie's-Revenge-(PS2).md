@@ -228,6 +228,66 @@ That wasn't so bad... right?
 
 ## Rank S
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248699.png">
+
+```
+Bone Chilling [5]
+Beat the game with an overall ranking of "C" or higher
+```
+`COMPLETION`
+
+Refer to **The Seven Holidays King** for more information.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248700.png">
+
+```
+Horror Show [10]
+Beat the game with an overall ranking of "B" or higher
+```
+`COMPLETION`
+
+Refer to **The Seven Holidays King** for more information.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248702.png">
+
+```
+The Pumpkin King [25]
+Beat the game with an overall ranking of "A" or higher on Nightmare Mode
+```
+`COMPLETION`
+
+Refer to **The Seven Holidays King** for more information.
+
+You're likely to earn this, along with the other ones, if you didn't complete the secret chapters when beating the game. You can always do them at your leisure, even after beating the game.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248703.png">
+
+```
+The Seven Holidays King [50]
+Beat the game with an overall "S" ranking on all levels and successfully complete both
+secret chapters on Nightmare Mode
+```
+`COMPLETION`
+
+When you beat a level, the game will rank you based on different categories, and then give you a total rank of the chapter.
+* Time: how much time you spent to beat the level.
+* Combo: Highest combo number without breaking it.
+* Damage: Amount of hits taken.
+* !-Count: These can be earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons.
+
+The overall ranking in a chapter is determined by the highest ranking in each of the categories. It is not based on just the final ranking you achieve at the end of the chapter through the ranking screen, but rather the highest recorded rank reached in any category. Say you got S ranks in Combo, Damage, and !-Count, but D in Time; Replaying that chapter and earning S rank in Time will add it up to the other S ranks you already got to give you an overrall S rank in that chapter.\
+An overall rank S of the game also requires completing both the Secret Chapters. These have no rank requirements themselves, they just require to be completed.
+
+The achievement also requires to earn these S ranks on Nightmare Mode. The requirements for the S rank differ based on the difficulty, with Nightmare Mode being the most strict one.\
+These requirements and how to reach them will be written in each of the A rank achievements
+
+```
+⚠️ Be aware that if you are going for the Secret Chapters, any hits taken or any amount of time-
+spent in these secret chapters will count for the rankings in the main chapters, as you're technically- 
+still inside it. If you're going for the Secret Chapters while also going for S ranks, know that- 
+at least the Time rank is almost impossible to do in both chapters.
+```
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248562.png">
 
 ```
@@ -354,66 +414,6 @@ Igor will tell you that his Bone Biscuits disappeared while he was eating them c
 
 This Mega Spider is identical to the Mega Spider you've fought in chapter 5 so refer to **Arachnophobia** on how to defeat it.\
 After defeating it, you'll get the Bone Biscuits. Get back to Igor to give him back his Bone Biscuits and finish the Secret Chapter.
-
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248699.png">
-
-```
-Bone Chilling [5]
-Beat the game with an overall ranking of "C" or higher
-```
-`COMPLETION`
-
-Refer to **The Seven Holidays King** for more information.
-
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248700.png">
-
-```
-Horror Show [10]
-Beat the game with an overall ranking of "B" or higher
-```
-`COMPLETION`
-
-Refer to **The Seven Holidays King** for more information.
-
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248702.png">
-
-```
-The Pumpkin King [25]
-Beat the game with an overall ranking of "A" or higher on Nightmare Mode
-```
-`COMPLETION`
-
-Refer to **The Seven Holidays King** for more information.
-
-You're likely to earn this, along with the other ones, if you didn't complete the secret chapters when beating the game. You can always do them at your leisure, even after beating the game.
-
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248703.png">
-
-```
-The Seven Holidays King [50]
-Beat the game with an overall "S" ranking on all levels and successfully complete both
-secret chapters on Nightmare Mode
-```
-`COMPLETION`
-
-When you beat a level, the game will rank you based on different categories, and then give you a total rank of the chapter.
-* Time: how much time you spent to beat the level.
-* Combo: Highest combo number without breaking it.
-* Damage: Amount of hits taken.
-* !-Count: These can be earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons.
-
-The overall ranking in a chapter is determined by the highest ranking in each of the categories. It is not based on just the final ranking you achieve at the end of the chapter through the ranking screen, but rather the highest recorded rank reached in any category. Say you got S ranks in Combo, Damage, and !-Count, but D in Time; Replaying that chapter and earning S rank in Time will add it up to the other S ranks you already got to give you an overrall S rank in that chapter.\
-An overall rank S of the game also requires completing both the Secret Chapters. These have no rank requirements themselves, they just require to be completed.
-
-The achievement also requires to earn these S ranks on Nightmare Mode. The requirements for the S rank differ based on the difficulty, with Nightmare Mode being the most strict one.\
-These requirements and how to reach them will be written in each of the A rank achievements
-
-```
-⚠️ Be aware that if you are going for the Secret Chapters, any hits taken or any amount of time-
-spent in these secret chapters will count for the rankings in the main chapters, as you're technically- 
-still inside it. If you're going for the Secret Chapters while also going for S ranks, know that- 
-at least the Time rank is almost impossible to do in both chapters.
-```
 
 ## Damageless, Full Combo
 
