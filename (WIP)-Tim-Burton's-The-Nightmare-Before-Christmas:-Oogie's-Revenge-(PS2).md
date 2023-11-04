@@ -92,11 +92,11 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 ```
 `PROGRESSION`
 
-He will every so often throw dices at you. These can easily be dodged with the right timing.
+He does nothing in particular except for moving the right, then to the left back to where he was. If he gets enough damage he'll teleport to the other side of the area and do this movement again. If you understand his movement, you can hit him more consistently and deal more damage. His Halloween Ghosts aren't really worth your attention unless they are really close to you. You can just Soul Spin at them to dispatch them.
 
-The Halloween Ghosts won't give that much trouble, but they can be taken care of with just Soul Spin.
+His only attacks are throwing dices at you, easy to dodge, and dropping giant dices on your head, which can also be dodged with right timing, but you can also triple jump away from them. These attacks are easy to time because they're timed with the song. For example, the giant dices will drop on you after he sings the third "WOW".
 
-When Oogie Boogie's Shadow starts to sing the WOW part of the song, the Halloween Ghosts will pick up bigger dices to drop them at you. Start to dodge them right when Oogie Boogie's Shadow sings WOW for the third time.
+After the fight you'll earn the Halloween Door.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248514.png">
 
@@ -106,11 +106,15 @@ Defeat the Mega Spider and recover the Valentine's Day Door
 ```
 `PROGRESSION`
 
-It has a weak spot on his back that when hit, he becomes many tiny versions of itself. Soul Spin is a very effective move here, as it'll attract the tiny spiders to you making it easier to hit them.
+The fight will be mainly about hitting the weakspot on its back. The window of opportunity to hit it becomes even less the more health it loses, and you'll basically need to wait in between its attacks to attack it.
 
-Keep some distance from the Mega Spider, as he has 3 different attacks that he can do at random. If you stand on one of his sides, he'll turn himself to your direction to attack. This gives you a way to know better when it attacks and, if you're fast enough, a way to get to its weak point.
+The spiderwebs won't deal damage, but will bind you to leave you open for any other of its attacks. Wait for these attacks at a distance while also standing on any of its sides. Wait for it by standing on its sides and then dodge it and move to its weakspot. Also stand a fair bit of distance to get ready for its charge and jump attack.
 
-The web projectiles does not damage you, but will block you in place, even when the web is on the ground, to make you open to its other attacks. At half health, he'll cover more ground by spitting 3 web projectiles requiring more attention.
+At half health, it'll start to shoot three projectiles at a certain rhythm; it'll shoot 2 in quick succession, then waits a bit and shoots the third. You can try to dodge the 2 projectiles while standing in any of its sides to apply the strategy for them.
+
+If you hit its weakspot, or complete a dance successfully, the spider becomes many tiny versions of itself. Best way to deal with these is to, of course, hit them with Soul Robber. Level 2 Soul Robber is much more effective because of the wide attack that it gets. Charged Soul Spin will also do the trick as it'll also attract enemies to you to hit more of them.
+
+After the fight you'll get the Valentine's Day Door and the key to Dr. Finklestein's Lab.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248515.png">
 
@@ -120,13 +124,11 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 ```
 `PROGRESSION`
 
-The only way to damage him is to throw the pieces of brain at him while his head is open.
+The only way to damage him is to throw the pieces of brain at him while his head is open. One way to open his head is to grab him from behind repeatedly until its head opens. Then throw the pieces of brain right in front of him to damage him. If you're not confident with this, collect the notes by destroying its inventions to open its head instead. Trying to open his head will also give a bit of notes too, so try to do this everytime he stops attacking to collect more notes.
 
-One way to open his head is to grab him from behind repeatedly until its head opens. Then throw the pieces of brain right in front of him to damage him.
+He attacks in order, starting with the turrets. The turrets can be avoided by standing a bit further away from them, enough distance so you'll hit them. After the turrets, the blades will appear. They require some time to get ready giving you time to destroy one of them. Dodge them when they're activated while also damaging them to get notes. At this point, if you did everything to get notes you should be in the dance segment. If not, then he'll do his last attack with an elettric pilar that'll follow you around. Keep moving until it stops. Then his attack pattern will restart.
 
-If unsuccessfull, collect the notes by destroying its inventions. Trying to open his head will also give a bit of notes too. After a successfull dance, his head will open.
-
-If you've done the Secret Chapter of Chapter 7, you should have the Sleeping Soup on your inventory. If you start the boss fight with this item in your inventory, the doctor will be asleep with its head open for a free hit. This won't work on Nightmare Mode.
+If you've done the Secret Chapter of Chapter 7, you should have the Sleeping Soup on your inventory. If you start the boss fight with this item in your inventory, the doctor will be asleep, letting you open its head for free damage. This won't work on Nightmare Mode however.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248516.png">
 
@@ -136,9 +138,9 @@ Defeat Barrel and his Army of Skeletons and recover the Thanksgiving Door
 ```
 `PROGRESSION`
 
-A good time to attack him is when he jumps so he gets staggered and fall in place. Skeletons are not important, but dispatch them if they're too close.
+Barrel will always run away from you while send Skeletons in your way. He also does attack by shooting you if far enough from you.
 
-You can stun him by simply Taunting close to him, while also giving you a powered up attack for free damage.
+You can easily defeat him by stunlocking him with Taunts. Right after a Taunt perform a Charged Soul Spin, then immediately after Taunt again and repeat. Otherwise you need to catch him while he's running away.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248517.png">
 
@@ -148,11 +150,9 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 ```
 `PROGRESSION`
 
-If you hit them with the bear traps, they'll be stuck in place for some free hits. Be aware that they can still attack while immobilized.
+Throw the bear traps and exploding pumpkins at them for some damage. Bear traps will also lock them in place, but they'll still be able to attack you. When the bathtub is destroyed, all three will get off to attack you. Of the 3, Shock is the most dangerous, as she can summon statues that will circle around you blocking your movement an leaving you open for attacks from the other 2. Lock and Barrel fight the same as like their other fights. Lock will try to plunge onto you from high above with a shadow that will tell you when to dodge his attack. Barrel will shoot at you from afar. They'll always announce their attacks so you'll know when they're gonna do them.
 
-When the bathtub is destroyed, all three will get off and attack you in the same fashion as their individual fights. Of the 3, Shock is the most dangerous one with an attack that is a bit difficult to dodge so try to go after her.
-
-Fire Blast from the Pumpkin King Costume is very useful here. It'll blast them off in the air while also dealing high damage. If you can, try to hit all of them in one blast.
+One very effective way to defeat them is to first destroy their bathtub right at the edge of the arena so the three of them won't get off far away. Immediately when they get off use Fire Blast from your Pumpkin King costume to blast all three of them at once up high in the air. When they fall down, wait for them to try to get up before using Fire Blast again to hit them. You can do this for as many Red Souls as you can, but remember to collect the notes to finish them off faster. If it fails, try to at least keep Shock occupied while keeping a look for the other two's whereabouts.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248518.png">
 
@@ -425,11 +425,11 @@ Defeat Oogie's Boogie's Shadow without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-He does a very clear movement when he throws his dices.
+Nothing really to be worried about here. The big dices may be the most threatening thing here, but if you know the timing, it shouldn't really be an issue.
 
-The Halloween Ghosts can easily be dealt with with Soul Spin. Unless they're getting annoying, ignore them.
+Use all your Blue Souls and perform the dances perfectly to take him down quickly.
 
-When at the WOW part of the song, be ready to dodge in time the big dices, right when Oogie Boogie's Shadow gets at the third WOW. It may be safer to get away from them with a triple dodge.
+If the Halloween Ghosts get to close to you, give them a priority and defeat them quickly.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248730.png">
 
@@ -465,11 +465,9 @@ Defeat the Mega Spider without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Be patient and let it attack first. Stay on any of its sides to make it turn to your direction when it's ready to attack, then dodge that attack and go for its weak point.
+Remember to keep a safe distance to give you enough distance to see what attack it'll do, and to stay on any of its sides to bait its spiderweb and get to its weakspot. When it'll start to shoot 3 spiderwebs, dodge the first 2, then put yourself in any of its side to do the strategy again.
 
-Against the tiny spiders, charge your ▢ and do Soul Spin to make an even stronger one that'll attract much more spiders, dealing the most amount of damage.
-
-At half health, the Mega Spider will shoot 3 web projectiles. Wait them out before taking action.
+You can't really speed-up this fight that much so be patient on this one.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248715.png">
 
@@ -504,9 +502,9 @@ Defeat Dr. Finkelstein without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Going for the "faster method", as in just open its head and throw the pieces of brain at him quickly, is rather risky considering how easy it is to be hit by the guns or the blades if you're not careful. If you're not confident with doing this, it is safer to complete the dances to have a try in damaging him. Make sure to get enough notes by destroying the blades or opening the Doctor's head.
+Don't even think about doing this quickly if you don't know what you're doing.
 
-You can avoid the Guns by getting far away from the direction they're initially pointing. You'll have enough time to destroy one of them this way. Don't go for the other guns right after if you don't want to be immediately blasted.
+To be as safe as possible, throw the pieces of brain in front of him when you can to make them drop on the ground right in front of him. When you finish a dance successfully, they'll be right in vicinity for you to throw them at him immediately. 
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248714.png">
 
