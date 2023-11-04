@@ -162,13 +162,13 @@ Defeat Oogie Boogie and recover the Easter Door
 ```
 `PROGRESSION`
 
-Stay close to the central platform and destroy the cards immediately as they appear. Back off the platform a bit after destroying one of them or you'll get hit by the blades of the central platform.
+Stay close to the central platform and destroy the cards immediately as they appear. Get away from the platform a bit after destroying one of them or you'll get hit by the blades of the central platform.
 
 The gunners can be destroyed and if done so will damage Oogie Boogie for a bit of damage. You can either go for them, or just go to the opposite side of the arena to not get hit.
 
-After the gunners, the cards will appear again. Then exploding dices will appear that need to be disposed immediately by grabbing and throwing them away.
+After the gunners, the cards will appear again, minus the one you've destroyed earlier. After a while exploding dices will appear that need to be thrown away immediately.
 
-After this, the dices will appear again, but they won't explode immediately this time. At this moment, Oogie will sing the WOW part of the song, and he'll have his mouth wide open whenever he sings WOW. Throw the dices at him when his mouth is open and stay right on the empty spot where the dice was to avoid the explosions. After the third WOW, Oogie will explode, taking damage and stunned for a bit, making him vulnerable to some damage. If you don't, it won't be possible to damage him.
+The dices will appear again, except they won't explode immediately. At this moment Oogie will sing the "WOW" part of the song, and he'll have his mouth wide open whenever he sings "WOW". Throw the dices at him when his mouth is open and stay right on the empty spot where the dice was to avoid the explosions. After the third WOW, Oogie will explode and it'll be possible to damage him with Soul Robber.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248519.png">
 
@@ -465,9 +465,9 @@ Defeat the Mega Spider without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Remember to keep a safe distance to give you enough distance to see what attack it'll do, and to stay on any of its sides to bait its spiderweb and get to its weakspot. When it'll start to shoot 3 spiderwebs, dodge the first 2, then put yourself in any of its side to do the strategy again.
-
 You can't really speed-up this fight that much so be patient on this one.
+
+Remember to keep a safe distance to give you enough distance to see what attack it'll do, and to stay on any of its sides to bait its spiderweb and get to its weakspot. When it'll start to shoot 3 spiderwebs, dodge the first 2, then put yourself in any of its side to do the strategy again.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248715.png">
 
@@ -502,9 +502,9 @@ Defeat Dr. Finkelstein without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Don't even think about doing this quickly if you don't know what you're doing.
+Don't even think about doing this the quick way. If you don't know what you're doing, you're likely to be shot by the turrets or be hit by the blades.
 
-To be as safe as possible, throw the pieces of brain in front of him when you can to make them drop on the ground right in front of him. When you finish a dance successfully, they'll be right in vicinity for you to throw them at him immediately. 
+To be as safe as possible, just build up the notes meter and rely on your dances to have his head open. You of course need to gather as many notes as possible, so don't forget to try to open his head for some notes.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248714.png">
 
@@ -541,11 +541,9 @@ Defeat Lock, Shock and Barrel without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Use Blue Souls, and throw the traps back at them in the first phase to make it as short as possible. Beware that the kids can throw 2 traps at the same time usually.
+Watchout for the exploding pumpkins and hit their bathtub as hard as you can, while making sure you do so right at the edge of the arena.
 
-For the second phase to go smoothly, you need to make sure to destroy the bathtub while it's correctly positioned close to the edges of the arena (preferably either up or down side for better camera position). When all three get off the bathtub, change immediately to the Pumpkin King Costume and constantly blast them with Fire Blast while making sure to hit all three of them. All 3 will get knocked up in the air and take a very high amount of damage. Then Fire Blast as soon as they get up from the ground to hit them again.
-
-If something went wrong and you could only get 2 or 1 of them, try to lure them to one another and Fire Blast them, but be weary of whoever is free.
+You need to lock them down with Fire Blast to not have any issues in the second phase. It is much better if you have your Pumpkin King costume to level 3 so you have more Red Souls to use on them. Fire Blast them, wait for the to fall on the ground, then wait for them to get up and Fire Blast them, then repeat. Try to also collect the notes that they'll drop just in case you can't finish them with Fire Blast. To finish them off with the dance, you'd need for them to be at least 1/3 of the health bar.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248716.png">
 
@@ -591,11 +589,11 @@ Defeat Oogie Boogie without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-The tactic is almost the same as the normal one. Destroy one of the cards as quickly as possible while standing close to the central platform. Then move a bit into the free space created before getting hit by the central platform.
+Be quick when destroying the cards. Level 3 Soul Robber full combo is enough to destroy them quickly. It will also move you forward a bit, so keep this in mind when moving away from the central platform.
 
-Don't try to hit the gunners. They are very annoying due to becoming targetable at the same time as they start shooting. You could time a Fire Blast (△) exactly at the moment where they become vulnerable, which is when Oogie says "Joking!" for the second time, but it's much better to just stay away from them. They won't contribute much damage either way.
+Avoid the gunners. They're not worth it for how little they contribute and how risky they are.
 
-When you need to throw the exploding dices in his mouth, you have time to throw 2 at him. They won't do extra damage, but it gives you more space to not get hit by the explosions.
+For the exploding dices, during the "WOW" part of the song, throw 2 of them at Oogie Boogie to give yourself much more safe space from the explosions.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248713.png">
 
@@ -631,9 +629,9 @@ Defeat the Fire King and Ice King without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Fire Blast (△) is effective against the Ice King Skeleton, while the Fire King Skeleton will absorb its damage. That however causes it to standing still to absorb the Fire Blast making it safe to defeat Ice King Skeleton right away.
+Fire Blast will stop the Fire King Skeleton from doing anything while the Ice King Skeleton gets destroyed.
 
-Fire King Skeleton can only be defeated normally by hitting him behind. Be careful when getting behind it, and use a Blue Soul to finish it off quickly.
+Then move behind the Fire King Skeleton when is safe to do so and hit him with Soul Robber.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248718.png">
 
@@ -641,13 +639,13 @@ Fire King Skeleton can only be defeated normally by hitting him behind. Be caref
 A Filthy Finale [25]
 Defeat Mega Oogie 1st Phase without taking damage on Nightmare Mode
 ```
-`COMPLETION` `CHALLENGE`
+`CHALLENGE`
 
-Don't try to hit his feet. It makes you an easy target to his attacks. You're better off standing in the upper part of the arena.
+Don't go for his feet. It makes you an easy target for his attacks. Especially the throw up attack will be harder to dodge.
 
 If you feel like you can't dodge an attack, you can fall down or get in the upper part based on where you're to make his attacks stop while he's executing them.
 
-Remember the invincibility extension with the dodge, as it'll be useful to dodge all of his attacks. There's also a bit of invincibility from the tiny jump before the explosion of the Fire Blast that you can use to dodge the slap attack. Though it does require not only a strict timing, but also Red Souls that could be used for more constant damage with the gas leaks (not an issue if you have infinite Red Souls).
+The invincibility extension with the dodge will be extremely useful to dodge all of his attacks. You're still better off to keep your distance with the throw up attack.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248717.png">
 
@@ -709,7 +707,7 @@ Get a Pumpkin King Combo Rank for the first time [Dances don't count]
 
 Perform a total combo of 150 without breaking it to reach **Pumpkin King** combo rank.
 
-You'll have many opportunities to do this, but the easiest to do this is in Chapter 3. Continue until you're trapped in an arena fight with Shock. Perform Soul Cycle (△ Charged), and keep it going using Blue Souls before the Soul Robber becomes red (sometimes the enemies drop a Blue Soul too). When you run out of Blue Souls, keep the combo going by either hitting the enemies with a normal attack or with Soul Spin (↻ Left Stick, ▢).
+You'll have many opportunities to do this, but the easiest to do this is in Chapter 3. Continue until you're trapped in an arena fight with Shock. Perform Soul Cycle, and keep it going using Blue Souls before the Soul Robber becomes red (sometimes the enemies drop a Blue Soul too). When you run out of Blue Souls, keep the combo going by either hitting the enemies with a normal attack or with Soul Spin.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248719.png">
 
@@ -719,7 +717,7 @@ Defeat Mega Oogie 1st Phase without using the Pumpkin King Costume
 ```
 `COMPLETION` `CHALLENGE`
 
-This is an endurance test: you'll lose so much damage by not being able to light the gas leaks, so you'll have to rely entirely on Soul Robber and your ability to survive against all of his attacks. Remember the tips presented in You're King Of Nothing!, and to use your Crystal Bottles if needed.
+You'll have to rely entirely on Soul Robber and your ability to survive against all of his attacks. Remember the tips presented in **You're King Of Nothing!**, and to use your Crystal Bottles if needed.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248720.png">
 
