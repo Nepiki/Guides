@@ -57,6 +57,6 @@ You can also find an on-site hub containing all games [here](https://retroachiev
 |[July (131)](https://news.retroachievements.org/issues/2023-07/)|[Treasure Hunter G (SNES)](https://retroachievements.org/game/1415)|[RANews](https://news.retroachievements.org/issues/2023-07/raguide.html)|[RAGuide](Treasure-Hunter-G-(SNES))|
 |[August (132)](https://news.retroachievements.org/issues/2023-08/)|[\~Homebrew\~ Repugnant Bounty (Game Boy Color)](https://retroachievements.org/game/22650)|[RANews](https://news.retroachievements.org/issues/2023-08/raguide.html)|[RAGuide](~Homebrew~-Repugnant-Bounty-(Game-Boy-Color))|
 |[September (133)](https://news.retroachievements.org/issues/2023-09/)|[Phantom Brave: The Hermuda Triangle](https://retroachievements.org/game/18761)|[RANews](https://news.retroachievements.org/issues/2023-09/raguide.html)|[RAGuide](Phantom-Brave-The-Hermuda-Triangle-(PSP))|
-|[]()|[]()|[]()|[]()|
+|[October (134)](https://news.retroachievements.org/issues/2023-10/)|[Legend of Heroes, The: A Tear of Vermillion](https://retroachievements.org/game/3562)|[RANews](https://news.retroachievements.org/issues/2023-10/raguide.html)|[RAGuide](https://github.com/RetroAchievements/guides/wiki/Legend-of-Heroes,-The:-A-Tear-of-Vermillion-(PlayStation-Portable))|
 |[]()|[]()|[]()|[]()|
 |[]()|[]()|[]()|[]()|
