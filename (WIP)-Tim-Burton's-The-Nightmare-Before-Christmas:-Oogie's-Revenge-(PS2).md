@@ -1028,6 +1028,8 @@ Find the 5 Hang Men throughout the area. Use the map below to give yourself an i
 
 After getting to the last Hang Men on top of the tree, talk to the Hanging Tree.
 
+***
+
 **Chapter 4 - The Grave Danger**
 
 Just like Chapter 3, go straight to the tombstones and close the purple smoke coming out of them. Here's another map to give an idea of where they are.
@@ -1047,5 +1049,9 @@ You need to get to the building on the other side of the graveyard, the one full
 While going there, you'll be stopped by Lock and his skeletons. Faster way to deal with him is to Taunt him immediately and Soul Spin in his face. Then immediately Taunt and repeat until he's defeated.
 
 Go inside the building and follow the path to the boss. Refer to **Damcel in Distress** for more information on how to beat it.
+
+***
+
+**Chapter 6 - The Doctor's Hunch**
 
 ***
