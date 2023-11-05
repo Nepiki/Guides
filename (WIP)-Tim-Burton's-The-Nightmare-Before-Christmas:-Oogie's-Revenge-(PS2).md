@@ -21,11 +21,7 @@ The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes
 
 The game takes place some time after the events of the film. Jack yet again gets bored of Halloween. He goes to Doctor Finkelstein for advice in how to improve the next halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip. Jack than decides to leave Halloween Town in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge, taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". Sally manages to send a letter to Jack about what was going on, so he huries back to his town to fix the mess.
 
-```
-⚠️ The only supported version of the game is the european version. When playing this version,
-the game will ask you at what refresh rate, or video mode, to play the game. Only select 60Hz to 
-be able to earn achievements, as 50Hz is not supported.
-```
+⚠️ The only supported version of the game is the european version. When playing this version, the game will ask you at what refresh rate, or video mode, to play the game. Only select 60Hz to be able to earn achievements, as 50Hz is not supported.
 
 # 2) Overview
 
@@ -72,13 +68,13 @@ A mini-walktrough on what to do in each chapters will be written for each chapte
 
 # 3) Tips
 
-* **Combos** - Soul Spin (↻ Left Stick, ▢) is your best friend to get combos. Another suggestion to do more combos is to taunt an enemy (Directional Button) to make them more durable, especially if they're already damaged to make them replenish some health.
-* **Taunt** - Taunt (Directional Button) is primarily used to get exclamation points, and it can be used repeatedly on the same enemy, even if they are already in Oogie Mode, to rack up exclamation points. You need to wait for them to finish their "startled" animation first before you're able to taunt them again. A successful Taunt will also empower your next attack for more damage (similiar to charging up ▢ or △).
-* **Blue Souls** - Not only will they increase damage, but when using Soul Cycle (△ Charged), use a blue soul when you see the Soul Rubber becoming almost red to extended the move duration. This is very powerful when in enclosed areas full of normal size enemies.
-* **Pumpkin King Costume** - While it is a powerful costume, with Fire Bomb (△) doing very high damage, the costume is often used for puzzles and exploration, and it is better to conserve the Red Souls to avoid annoyance.
-* **Santa Jack Costume** - The presents can be used against the enemies hidden in things to discover them and not be immediately retaliated. The presents can have different usages: Re-Possession takes them out of their Oogie Mode (they usualy always are when hidden), and Scared Stiff will stun them in place (especially effective against hidden Halloween Ghosts and King Ghosts).
-* **Dodge Extension** - The Dodge (◯) has a tiny bit of invincibility that normally requires to be timed with precision to use. If right after Dodging (◯), you quickly change into any costume you have (L1 / R1), the invicibility from the dodgee is followed by the invincibility from changing costume extending it. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge, with good timing.
-* **Infinite Red Souls** - Earning all the figurines in the game will reward you with infinite Red Souls for your Pumpkin King Costume. You don't need this, as everything in the set can be done without it, but if you want a little advantage for, say, against Mega Oogie, you can wait 'til getting this power before then. Also, the set doesn't block this you from earning anything with this power at all.
+* **Combos** - Soul Spin is your best friend to get combos with its low damage and not causing enemies to be pushed. Another suggestion to do more combos is to taunt an enemy to make them more durable, especially if they're already damaged to make them replenish some health.
+* **Taunt** - Taunt is primarily used to get exclamation points, and it can be used repeatedly on the same enemy, even if they are already in Oogie Mode, to rack up !-points, as soon as they finish being "startled". A successful Taunt will also empower your next attack, similiar to charging up with either Square or Triangle, letting you follow it up with even a Soul Cycle.
+* **Blue Souls** - Not only are they very effective against bosses with the increased damage, but when grabbing enemies with Triangle like with Soul Cycle, you can use a blue soul when you see the Soul Rubber becoming almost red to extended its durability.
+* **Pumpkin King Costume** - While it is a powerful costume, with Fire Bomb doing very high damage, the costume is often used for puzzles and exploration, and it is better to conserve the Red Souls to avoid annoyance rather than use it to finish fights faster.
+* **Santa Jack Costume** - On top of being effective against hidden enemies, they have some uses elsewhere. Re-possession can turn enemies in Oogie Mode back to normal, and Scared Stiff can bind them to make it easy to hit them (especially effective against ghosts).
+* **Dodge Extension** - The Dodge has a tiny bit of invincibility that normally requires to be timed with precision to use. If right after Dodging, you quickly change into any costume you have, the invicibility from the dodgee is followed by the invincibility from changing costume extending it. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge, with good timing.
+* **Infinite Red Souls** - Earning all the figurines in the game will reward you with infinite Red Souls for your Pumpkin King Costume. You are not required to get this for all the achievements, but if you want a little advantage for, say against Mega Oogie, you can wait until getting this power before then. The set does not block the usage of this bonus so it is fair game to use.
 
 # 4) Walktrough
 
@@ -92,9 +88,9 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 ```
 `PROGRESSION`
 
-He does nothing in particular except for moving the right, then to the left back to where he was. If he gets enough damage he'll teleport to the other side of the area and do this movement again. If you understand his movement, you can hit him more consistently and deal more damage. His Halloween Ghosts aren't really worth your attention unless they are really close to you. You can just Soul Spin at them to dispatch them.
+He does nothing in particular except for moving the right and left. If he gets enough damage he'll teleport to the other side of the area and do this movement again. You can stand where he'll end up moving to make the most damage. His Halloween Ghosts aren't really worth your attention unless they are really close to you. You can just Soul Spin at them to dispatch them.
 
-His only attacks are throwing dices at you, easy to dodge, and dropping giant dices on your head, which can also be dodged with right timing, but you can also triple jump away from them. These attacks are easy to time because they're timed with the song. For example, the giant dices will drop on you after he sings the third "WOW".
+His only attacks are throwing dices at you, easy to dodge, and dropping giant dices on your head, which can also be dodged with the right timing, but you can also triple jump away from them. These attacks are easy to time because they're timed with the song. For example, the giant dices will drop on you after he sings the third "WOW".
 
 After the fight you'll earn the Halloween Door.
 
@@ -281,12 +277,7 @@ An overall rank S of the game also requires completing both the Secret Chapters.
 The achievement also requires to earn these S ranks on Nightmare Mode. The requirements for the S rank differ based on the difficulty, with Nightmare Mode being the most strict one.\
 These requirements and how to reach them will be written in each of the A rank achievements
 
-```
-⚠️ Be aware that if you are going for the Secret Chapters, any hits taken or any amount of time-
-spent in these secret chapters will count for the rankings in the main chapters, as you're technically- 
-still inside it. If you're going for the Secret Chapters while also going for S ranks, know that- 
-at least the Time rank is almost impossible to do in both chapters.
-```
+Be aware that if you are going for the Secret Chapters, any hits taken or any amount of time spent in these secret chapters will count for the rankings in the main chapters, as you're technically still inside it. If you're going for the Secret Chapters while also going for S ranks, know that at least the Time rank is almost impossible to do in both chapters.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248562.png">
 
@@ -386,20 +377,20 @@ Nightshade Froggy Worm [10]
 Obtain the Sleeping Soup [Ch. 7 - Secret Chapter]
 ```
 
-This Secret Chapter can be started by speaking to Sally at the graveyard during Chapter 7.
+This Secret Chapter can be started by speaking to Sally at the Old Graveyard during Chapter 7.
 
 She'll ask you to find 3 ingredients to make the Sleeping Soup: Deadly Nightshade, Worm's Wart and Frog's Breath.
 
-The Deadly Nightshade is found in the path behind the big tree in the graveyard. Going to the right you'll have to destroy some statues with pumpkins to proceed. These statues regenerate after being destroyed so you need to be quick. Going further down the path, you'll find an open area with a grave open to the right. Go down this entrance to enter a Hidden Place. Defeat the enemies here and you'll get the Deadly Nightshade.
+The Deadly Nightshade is found in the hidden palace in the first area of the Old Graveyard. It's located down the path behind the big tree in the Old Graveyard. Go past the statues by destroying them with the pumpkins and then enter the open grave you should see to the right. Defeat the enemies inside to get the Deadly Nightshade.
 
-The Worm's Wart can be bought by the Witches in their Shop. Speak to the Witch to the right to buy one. You need 1000 Souls to buy it. If you don't have them, you could get to any Hidden Place close by to earn some.
+The Worm's Wart can be bought by the Witches' Shop. Speak to the Witch to the right to buy one. You need 1000 Souls to buy it. If you don't have them, you could get to any Hidden Place close by to earn some, or defeat the hidden enemies at the entrance of the Pumpkin Patch.
 
 The Frog's Breath requires Red Souls to get access to an area where you'll find it.\
-Right before the stairs that'll take you to the Doctor's Lab, destroy the blocked entrance to the left with a Fire Blast and enter. Defeat the enemies that'll appear here, then get to an elevetor that you should find at the left side of the area and go up. You'll see 3 lanterns that can need to be lighted up at the same time to disable the electric gate. Bring the only movable lantern to the left closer to the other 2, then use a Fire Blast to light all 3 at the same time. Now you'll see many frogs at the other side, but you're only interested in the one that emits a green breath. Find one of these frogs, move slowly to them and grab them with △ until you get them. If they run away, back off (you may need to go back to the gate even), and wait for them to move closer to you. It may take some tries to capture one.
+Right before the stairs that'll take you to the Doctor's Lab, destroy the blocked entrance to the left with the Pumpkin King Costume and enter. Get to the elevetor that you should find on the left side of the area and go up. Bring the lantern to the left closer to the other two, then use a Fire Blast to light all three at the same time to disable the gate. You should see many frogs at the other side of the gate, but you're only interested in the one that emits a green breath. Find one of these frogs and wait for them to be closer. Move slowly to them and grab them with Triangle. If they run away, back off and wait for them to move closer to you. It may take some time to get one.
 
 When you get all 3 ingredients, go back to Sally in the graveyard to finish the Secret Chapter and get the Sleeping Soup.
 
-The Sleeping Soup has actual usage during the Dr. Finklestein boss fight. At the start he'll be put to sleep open for a free hit. Get behind him, grab his head until opened, and then throw a piece of brain in front of him. He'll wake up immediately after getting hit and will make whatever attack he's supposed to do based on what part of the song you'r in (most likely he'll use the blades). Unfortunately, this will not work on Nightmare Mode
+The Sleeping Soup has actual usage during the Dr. Finklestein boss fight. At the start of the fight he'll be put to sleep, letting you open his head and throw a brain piece at him for a free hit. This doesn't work on Nightmare Mode sadly.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248729.png">
 
@@ -412,8 +403,9 @@ This Secret Chapter can be accessed by first speaking with the Dr. Finklestein, 
 
 Igor will tell you that his Bone Biscuits disappeared while he was eating them close to a manhole. The manhole in question can be found to the left of the entrance to the lab. You should notice a manhole rattling going this way. Interact with it and you'll get to a Hidden Place with a Mega Spider inside.
 
-This Mega Spider is identical to the Mega Spider you've fought in chapter 5 so refer to **Arachnophobia** on how to defeat it.\
-After defeating it, you'll get the Bone Biscuits. Get back to Igor to give him back his Bone Biscuits and finish the Secret Chapter.
+This Mega Spider is identical to the Mega Spider you've fought in chapter 5 so refer to **Damcel in Distress** on how to defeat it.
+
+After defeating it, you'll get the Bone Biscuits. Go back to Igor and give him back his Bone Biscuits to finish the Secret Chapter.
 
 ## Damageless, Full Combo
 
@@ -541,9 +533,9 @@ Defeat Lock, Shock and Barrel without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Watchout for the exploding pumpkins and hit their bathtub as hard as you can, while making sure you do so right at the edge of the arena.
+Watchout for the exploding pumpkins and hit their bathtub as hard as you can, while making sure you do so right at the edge of the arena so that they'll be close to each other when they get off to be hit easily by a Fire Blast.
 
-You need to lock them down with Fire Blast to not have any issues in the second phase. It is much better if you have your Pumpkin King costume to level 3 so you have more Red Souls to use on them. Fire Blast them, wait for the to fall on the ground, then wait for them to get up and Fire Blast them, then repeat. Try to also collect the notes that they'll drop just in case you can't finish them with Fire Blast. To finish them off with the dance, you'd need for them to be at least 1/3 of the health bar.
+You need to lock them down with Fire Blast to not have any issues in the second phase. It is much better if you have your Pumpkin King costume to level 3 so you have more Red Souls to use on them. Fire Blast them, wait for them to fall on the ground, then wait for them to get up and Fire Blast them, then repeat. Try to also collect the notes that they'll drop just in case you can't finish them with Fire Blast. To finish them off with the dance, you'd need for them to be at least 1/3 of the health bar.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248716.png">
 
@@ -593,7 +585,7 @@ Be quick when destroying the cards. Level 3 Soul Robber full combo is enough to 
 
 Avoid the gunners. They're not worth it for how little they contribute and how risky they are.
 
-For the exploding dices, during the "WOW" part of the song, throw 2 of them at Oogie Boogie to give yourself much more safe space from the explosions.
+For the exploding dices, you should throw 2 of them at Oogie Boogie to give yourself much more safe space from the explosions. They won't deal extra damage to him, but better safe than sorry.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248713.png">
 
@@ -629,9 +621,9 @@ Defeat the Fire King and Ice King without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Fire Blast will stop the Fire King Skeleton from doing anything while the Ice King Skeleton gets destroyed.
+Fire Blast will stop the Fire King Skeleton from doing anything while the Ice King Skeleton gets destroyed making getting rid of it very safe.
 
-Then move behind the Fire King Skeleton when is safe to do so and hit him with Soul Robber.
+Move behind the Fire King Skeleton when it is safe to do so and hit him with Soul Robber. Could Front MAY be used to let you get behind it, but you may as well pop a Blue Soul to finish it quickly.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248718.png">
 
@@ -641,11 +633,9 @@ Defeat Mega Oogie 1st Phase without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Don't go for his feet. It makes you an easy target for his attacks. Especially the throw up attack will be harder to dodge.
+Don't go for his feet. It makes you an easy target for his attacks. Especially the throw up attack will be harder to dodge. You'd also not be able to use the gas leaks to speed up the fight.
 
-If you feel like you can't dodge an attack, you can fall down or get in the upper part based on where you're to make his attacks stop while he's executing them.
-
-The invincibility extension with the dodge will be extremely useful to dodge all of his attacks. You're still better off to keep your distance with the throw up attack.
+The fight is mostly the same. Just play it safely and make use of the invincibility extension to dodge more safely his throw up attack. If you feel like you can't dodge an attack due to being in disadvantageous placement, you can fall down or get in the upper part based on where you are to make his attacks stop while he's executing them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248717.png">
 
@@ -715,7 +705,7 @@ You'll have many opportunities to do this, but the easiest to do this is in Chap
 Fire Hazard [10]
 Defeat Mega Oogie 1st Phase without using the Pumpkin King Costume
 ```
-`COMPLETION` `CHALLENGE`
+`CHALLENGE`
 
 You'll have to rely entirely on Soul Robber and your ability to survive against all of his attacks. Remember the tips presented in **You're King Of Nothing!**, and to use your Crystal Bottles if needed.
 
@@ -960,6 +950,10 @@ Refer to either the A Rank achievements or the Hidden Places achievements for mo
 
 Getting all the figurines will earn you Infininite Red Souls. This can be safely used for any other achievement if needed.
 
+<p align="center">
+<img src="https://github.com/RetroAchievements/guides/assets/133049176/794fcd12-a690-494d-9c1b-040253562186" width="300" height="225">
+<p/>
+
 ## The Speedrun Before Christmas
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248755.png">
@@ -982,7 +976,7 @@ It is suggested to do this after at least beating the game once to have an under
 
 ***
 
-**Chapter 1**
+**Chapter 1 - Jack's Return**
 
 [![Speedrun Chapter 1](https://github.com/RetroAchievements/guides/assets/133049176/09940d08-aa91-4b44-8d39-d6d3d81a1c90)](https://www.youtube.com/watch?v=jEQ3aKmckXk)
 
@@ -992,11 +986,11 @@ The skeletons will continue to spawn endlessly until Oogie Boogie stops talking.
 
 Move immediately in the Town Hall to start the boss fight.
 
-Hitting Shadow Oogie does lead to constant damage, but while hitting him, grab some notes so that you'll finish him off fast.
+Refer to **This is Oogie-Town** for more information on how to defeat him.
 
 ***
 
-**Chapter 2**
+**Chapter 2 - The Witching Hour**
 
 Talk to Corpse Kid. Then move to the Witches' Shop, ignoring the enemies.
 
@@ -1008,18 +1002,40 @@ Get out of the manhole and go to the entrance of Halloween Town, where you start
 
 ***
 
-**Chapter 3**
+**Chapter 3 - The Hanging Tree**
+
+Give yourself some time between Chapter 3 or Chapter 4 to buy the Soul Robber upgrade and some Blue Souls to the Witches' Shop. On Easy Mode you need only about 2000 Souls to buy the Level 2 Soul Robber upgrade. This upgrade will be very handy against the next boss. You can also go for the Golden Pumpkin in one of the branches of the tree if you want.
 
 Go past all the enemies and reach the big dead tree by following the way to the left and talk to Hanging Tree. You can waste a bit of time getting to the golden pumpkin on the tree.
 
-Then go back to where you entered this area to initiate a fight with Lock. Defeat all the enemies (square combo is better), then interact with the dog house of Zero, next to the entrance to Halloween Town.
+Then go back to where you entered this area to initiate a fight with Lock's Skeletons. Defeat all the enemies, then interact with the dog house of Zero, next to the entrance to Halloween Town.
 
-Find the 5 Hang Men throughout the area. After getting to the last Hang Men on top of the tree, talk to the Hanging Tree.
+Find the 5 Hang Men throughout the area. Use the map below to give yourself an idea of where they're located.
 
-**Chapter 4**
+<p align="center">
+<img src="https://github.com/RetroAchievements/guides/assets/133049176/244bdbcf-bc54-4d6c-8366-5995b5a6adcc" width="600" height="450">
+<p/>
+
+After getting to the last Hang Men on top of the tree, talk to the Hanging Tree.
+
+**Chapter 4 - The Grave Danger**
+
+Just like Chapter 3, go straight to the tombstones and close the purple smoke coming out of them. Here's another map to give an idea of where they are.
+
+<p align="center">
+<img src="https://github.com/RetroAchievements/guides/assets/133049176/7dfaa7f8-4c38-4143-8a4b-c1785d2bc9d5" width="600" height="450">
+<p/>
+
+After closing all the tombstones, go back to the Hanging Tree to finish the chapter.
 
 ***
 
-**Chapter 5**
+**Chapter 5 - The Crypt Creeper**
+
+You need to get to the building on the other side of the graveyard, the one full of spiderwebs you should've seen while rescuing the third hangman.
+
+While going there, you'll be stopped by Lock and his skeletons. Faster way to deal with him is to Taunt him immediately and Soul Spin in his face. Then immediately Taunt and repeat until he's defeated.
+
+Go inside the building and follow the path to the boss. Refer to **Damcel in Distress** for more information on how to beat it.
 
 ***
