@@ -90,7 +90,7 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 
 He does nothing in particular except for moving the right and left. If he gets enough damage he'll teleport to the other side of the area and do this movement again. You can stand where he'll end up moving to make the most damage. His Halloween Ghosts aren't really worth your attention unless they are really close to you. You can just Soul Spin at them to dispatch them.
 
-His only attacks are throwing dices at you, easy to dodge, and dropping giant dices on your head, which can also be dodged with the right timing, but you can also triple jump away from them. These attacks are easy to time because they're timed with the song. For example, the giant dices will drop on you after he sings the third "WOW".
+His only attacks are throwing dices at you with a twirl that also damages you if you're too close, and dropping giant dices on your head, which can also be dodged with the right timing, but you can just run in one direction to not be hit. These attacks are easy to predict because they're timed with the song. For example, the giant dices will drop on you after he sings the third "WOW".
 
 After the fight you'll earn the Halloween Door.
 
@@ -279,6 +279,10 @@ These requirements and how to reach them will be written in each of the A rank a
 
 Be aware that if you are going for the Secret Chapters, any hits taken or any amount of time spent in these secret chapters will count for the rankings in the main chapters, as you're technically still inside it. If you're going for the Secret Chapters while also going for S ranks, know that at least the Time rank is almost impossible to do in both chapters.
 
+<p align="center">
+<img src="https://github.com/RetroAchievements/guides/assets/133049176/d2608acb-a8af-42c8-b742-fa003c8100c9" width="600" height="450">
+<p/>
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248562.png">
 
 ```
@@ -292,7 +296,7 @@ Get an "A" or higher in all Ranks in Chapter 1
 * Damage: 4
 * !-Count: 30
 
-If you don't waste time anywhere else, like saving to game or going into the Hidden Place, and go straight to Oogie Boogie's Shadow, you won't have any problems with time.
+If you don't waste time anywhere else, like saving the game or going into the Hidden Place, and go straight to Oogie Boogie's Shadow, you won't have any problems with time. Remember to use your Blue Souls against Shadow Oogie for more damage.
 
 Bundle the Skeletons together and Soul Spin them until less than half health. Then Taunt to get them into Oogie Mode (you may need to hit them right after to keep the combo going) and Soul Spin again for even more combos. You should also defeat one Skeleton earlier, so that when the transformed ones are defeated you can hit this one while you wait for the others to spawn.
 
@@ -328,11 +332,15 @@ Get an "A" or higher in all Ranks in Chapter 3
 * Damage: 4
 * !-Count: 30
 
-Know beforehand the location of the Hanging Men to make time a non-issue. Though you do have some leniency with time here, and Zero helps you by locating them. Remember to speak to the Hanging Tree when you find all 5 of them.
+Knowing the location of the Hangmen beforehand will be very useful here. Use the map below have an idea of where to go in case you forget.
 
-Soul Cycle during the Lock fight is the best, and probably the only place where you can achieve the combo amount needed, and to also get the exclamation marks needed. Whenever Soul Robber starts to become red, use a Blue Soul to replenish its duration. Do this until you use up all your Blue Souls or few enemies remain, then just Soul Spin and Taunt the remaining ones.
+<p align="center">
+<img src="https://github.com/RetroAchievements/guides/assets/133049176/244bdbcf-bc54-4d6c-8366-5995b5a6adcc" width="600" height="450">
+<p/>
 
-Soul Cycle during Lock's Fight also makes not taking damage much easier. Only other risky place is when going through the statues that spit flames in the second section of the graveyard. Take your time when passing through them (dodging won't work here), and make sure no enemies are following you while going through here.
+The Lock fight is the best and probably the only place where you can achieve the combo amount needed. Taunt the three skeletons in front of you, move to the left side of the area where you can see the barrier to the north and grab one of the skeletons to initiate a Soul Cycle. Whenever the Soul Cycle becomes orange, use a Blue Soul to replenish its duration. Do this until the Ogre Skeletons appear. Interrupt or let the Soul Cycle expire, than Soul Cycle the Ogre Skeletons until you reach the combo amount needed.
+
+Other than this fight the only other dangerous place are the statues that spits fire in the other side of the graveyard. Just wait for them to spit fire and pass.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248565.png">
 
@@ -347,11 +355,17 @@ Get an "A" or higher in all Ranks in Chapter 4
 * Damage: 8
 * !-Count: 25
 
-Just like with the Hanging Men, know beforehand the location of all the tombstones. They can be located with purple souls coming out of them. Also remember to speak to the Hanging Tree when done.
+Use the map to know the location of each tombstones.
 
-You shouldn't have any problems going through any fights and get to the combos and exclamation marks required. One good fight to go to is the one in front of the entrance to the next section of the graveyard.
+<p align="center">
+<img src="https://github.com/RetroAchievements/guides/assets/133049176/7dfaa7f8-4c38-4143-8a4b-c1785d2bc9d5" width="600" height="450">
+<p/>
 
-The Skeleton Troll is a good target for combos, especially when it drops its mace for some easy Soul Spins. If you Taunt it, rather then immediately attacking it'll stand in place to make a loud noise. You can still hit it while it does so, but you can taunt it again the moment he's finished with the loud noise to keep it in place there. This is good to keep also keep a low damage count, as it is actually a bit dangerous.
+You can try and buy the lvl 2 Soul Robber during the chapter (you should have enough souls with the S ranks from the other chapters), but this can make the time ranking quite difficult to reach. You can consider buying it first, then retry this chapter with the lvl 2 Soul Robber to make time a non-issue. Lvl 2 makes pulling the tombstones up much easier than lvl 1 and this will save so much time you would've wasted otherwise.
+
+The Skeleton Troll you'll find on your way to one of the tombstones is a good target for combos. Wait for it to attack, then attack and immediately Taunt it. Attack until it roars, then immediately taunt and attack again. When it drops its mace, you can either Soul Cycle it or just keep attacking it until defeated. Then use the skeletons that are around to get to the combo.
+
+One thing to keep in mind when going for time: when you reach the tombstone that is on top of the hill in the other part of the graveyard, go instead for the tombstone close to the building full of spiderwebs. Doing this and then taking care of the tombstone on top of the hill won't make enemies spawn in this tombstone to save precious time here.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248680.png">
 
@@ -417,11 +431,9 @@ Defeat Oogie's Boogie's Shadow without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Nothing really to be worried about here. The big dices may be the most threatening thing here, but if you know the timing, it shouldn't really be an issue.
+Remember that the twirl he does when he throw the dices also damages you so don't stay too close to him. His big dices are not a problem if you just run in one direction.
 
-Use all your Blue Souls and perform the dances perfectly to take him down quickly.
-
-If the Halloween Ghosts get to close to you, give them a priority and defeat them quickly.
+If the Halloween Ghosts get to close to you, prioritize them. Go for Soul Cycle rather than Soul Slam.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248730.png">
 
@@ -753,7 +765,7 @@ Spooky Azure Skeletons [5]
 Defeat all monsters in Hidden Place 6
 ```
 
-You need Red Souls to access this area.\
+You need Red Souls to access this area.
 
 Get to the second area of the Graveyard, which is south of the big tree. Proceed until you pass through the statues that spit fire. Proceed north in the direction of the tomb and latch on a spiral you should find there. Ignite the spider web in front of the entrance of the tomb with your Pumpkin King Costume and enter the Hidden Place 6.
 
@@ -951,7 +963,7 @@ Refer to either the A Rank achievements or the Hidden Places achievements for mo
 Getting all the figurines will earn you Infininite Red Souls. This can be safely used for any other achievement if needed.
 
 <p align="center">
-<img src="https://github.com/RetroAchievements/guides/assets/133049176/794fcd12-a690-494d-9c1b-040253562186" width="300" height="225">
+<img src="https://github.com/RetroAchievements/guides/assets/133049176/794fcd12-a690-494d-9c1b-040253562186" width="600" height="450">
 <p/>
 
 ## The Speedrun Before Christmas
@@ -964,21 +976,19 @@ Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
 ```
 `COMPLETION` `CHALLENGE`
 
-It is suggested to do this after at least beating the game once to have an understand of what to do throughout the game. To give an idea, if you do S rank in time on each chapter or better, then you should be close to the required time for this achievement
+It is suggested to do this after at least beating the game once to have an understanding of what to do throughout the game. To give an idea, if you are capable of doing S rank in time on each chapter or better, you should be on track for this achievement.
 
 **Tips**
-* Easy Mode is suggested to make the enemies and bosses much easier to defeat.
-* The cutscenes and the pause menu won't freeze the timer. While the ranking screen or the level select screen won't move the timer.
-* You can save when finishing a chapter in case you want to retry the next chapter for a better time.
-* You're not obbligated to fight most of the enemies in the game. Some are obbligatory to progress, but most of them are not necessary.
-* The only upgrades that you'll ever need to buy are the Soul Robber's. Pumpkin King Costume upgrades can be considered to be safe.
+* Easy Mode is suggested to make the enemies and bosses much faster to defeat. 
+* The timer moves through cutscenes and pause menu, but also during the the ranking screen and the save game screen. Skip through every cutscene, and don't spend too much time on any screen.
+* Consider saving when finishing a chapter to keep the progress you made. This is also important if you'll need to retry the next chapter.
+* Only some fights are obbligatory to do in order to progress through the level.
+* The only upgrades that you'll ever need to buy are the Soul Robber's. Pumpkin King Costume upgrades can be considered for safety.
 * For the Golden Pumpkins, some can be gotten while progressing through the chapter, while the ones in the shop or the Hidden Places will waste time.
 
 ***
 
 **Chapter 1 - Jack's Return**
-
-[![Speedrun Chapter 1](https://github.com/RetroAchievements/guides/assets/133049176/09940d08-aa91-4b44-8d39-d6d3d81a1c90)](https://www.youtube.com/watch?v=jEQ3aKmckXk)
 
 Fight the skeletons until Oogie Boogie starts to talk. It'll take you 6 skeletons.
 
