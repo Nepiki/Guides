@@ -365,7 +365,7 @@ You can try and buy the lvl 2 Soul Robber during the chapter (you should have en
 
 The Skeleton Troll you'll find on your way to one of the tombstones is a good target for combos. Wait for it to attack, then attack and immediately Taunt it. Attack until it roars, then immediately taunt and attack again. When it drops its mace, you can either Soul Cycle it or just keep attacking it until defeated. Then use the skeletons that are around to get to the combo.
 
-One thing to keep in mind when going for time: when you reach the tombstone that is on top of the hill in the other part of the graveyard, go instead for the tombstone close to the building full of spiderwebs. Doing this and then taking care of the tombstone on top of the hill won't make enemies spawn in this tombstone to save precious time here.
+One thing to be aware: when you reach the tombstone that is on top of the hill in the other part of the graveyard, go instead for the tombstone close to the building full of spiderwebs. After that, go and close the one on top of the hill. Doing it like this makes the enemies not spawn, as long as you don't approach the tombstone on the hill.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248680.png">
 
@@ -382,7 +382,7 @@ Get an "A" or higher in all Ranks in Chapter 5
 
 The Lock boss fight will most likely waste you some time here. If you get close to him fast enough, you can stun him by Taunting, then hit him with a Soul Spin and then repeat. Otherwise, catch him while in the air and engage the Skeletons only if they're too close. Lock will jump up in the air to attack you from above. If a shadow appears underneath you, dodge out of the shadow.
 
-All the combo and exclamation marks can be done during the dance segment against the Super Spider. During the fight, be patient and dodge until a good opportunity to hit its weakspot shows up. After hitting its weakspot, charge Soul Robber with Square, then when the tiny spiders appear, perform a Soul Spin to hit most of them to be on time.
+All the combo and exclamation marks can be done during the dance segment against the Mega Spider. Check **Damcel in Distress** for how to fight the boss. To speed-up the boss fight, remember to charge Square and then do a combo against the tiny spiders immediately followed up by Soul Spin for dealing the most damage.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248728.png">
 
@@ -895,7 +895,7 @@ Get all the Golden Pumpkins
 There are 10 Golden Pumpkins throughout the game.
 
 1. It's in Hidden Place 2. In front of the Town Hall, latch on the spiral above the door and enter the hole you'll find on top. Defeat all the enemies the first Golden Pumpkin.
-2. Get a perfect score in the Corpse Kid Quiz.
+2. Get a perfect score in the Corpse Kid Quiz. Be aware: do not get the perfect score the first time you take the quiz in Chapter 6, or you'll be locked out of the Golden Pumpkin.
 3. In one of the branches of the big tree in the Old Graveyard. Use the first spiral to the right of the tree to get there.
 4. At the start of Chapter 12, perform a triple jump to get to the Golden Pumpkin right beside you.
 5. At the Mayor's House, right where the Golden Pumpkin is visible, go through the door instead continue forward until you get outside with a spiral you're supposed to jump into to progress. Instead, go south through a tiny passage, paying attention to not fall. Further down you should see the Golden Pumpkin and a spiral. Latch on the spiral and you'll drop on top of the Golden Pumpkin.
@@ -1014,7 +1014,7 @@ Get out of the manhole and go to the entrance of Halloween Town, where you start
 
 **Chapter 3 - The Hanging Tree**
 
-Give yourself some time between Chapter 3 or Chapter 4 to buy the Soul Robber upgrade and some Blue Souls to the Witches' Shop. On Easy Mode you need only about 2000 Souls to buy the Level 2 Soul Robber upgrade. This upgrade will be very handy against the next boss. You can also go for the Golden Pumpkin in one of the branches of the tree if you want.
+If you have about 2000 Souls, take some time between Chapter 3 and Chapter 4 to buy yourself the Soul Robber lvl 2 upgrade and some Blue Souls. Soul Robber lvl 2 will make Chapter 4 go much more smoothy by picking up the tombstones much easier.
 
 Go past all the enemies and reach the big dead tree by following the way to the left and talk to Hanging Tree. You can waste a bit of time getting to the golden pumpkin on the tree.
 
@@ -1038,6 +1038,8 @@ Just like Chapter 3, go straight to the tombstones and close the purple smoke co
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/7dfaa7f8-4c38-4143-8a4b-c1785d2bc9d5" width="600" height="450">
 <p/>
 
+When you reach the Old Graveyard, after closing the first tombstone, skip the next one and instead close first the tombstone next to the building full of spiderweb. Then go back and close the tombstone on the hill. This makes enemies not spawn saving some time.
+
 After closing all the tombstones, go back to the Hanging Tree to finish the chapter.
 
 ***
@@ -1054,4 +1056,16 @@ Go inside the building and follow the path to the boss. Refer to **Damcel in Dis
 
 **Chapter 6 - The Doctor's Hunch**
 
+Go straight to Halloween Town and then the to the Doctor's Lab, on the right of the manhole in which you entered back in Chapter 2. Use the key to the door and enter.
+
+Go sout, then east. Defeat all the enemies and than jump onto a spiral you should see in front of the tube. Break the wooden blockade with the Pumpkin King Costume (Fire Blast destroys it faster) and activate the switch behind it. Go on top of the tube to the right to get some souls and to get back to the entrance faster. Cross the bridge to start a cutscene with Igor.
+
+Exit the Doctor's Lab and go to the Witches' Shop to start a fight against Lock's ghosts. You can get rid of them faster with a Soul Cycle, without even a worry about the Blue Souls since you're right in front of the Witches' Shop!
+
+Exit Witches' Shop and go to Corpse Kid in front of the fountain to take the quiz for the biscuits. If you're interested in the Golden Pumpkin you can get for perfect score, do not get a perfect score the first time you take the quiz or you won't be able to get it later on. Also the first time he'll always have the same questions so you can definitely get ready beforehand to make this easier.
+
+Once you get the Bone Biscuits, go back to Igor and talk to him
+
 ***
+
+**Chapter 7 - The Lightning Round**
