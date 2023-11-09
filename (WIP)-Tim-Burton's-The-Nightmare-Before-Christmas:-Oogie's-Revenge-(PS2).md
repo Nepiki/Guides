@@ -935,7 +935,7 @@ There are 10 Golden Pumpkins throughout the game.
 
 1. It's in Hidden Place 2. In front of the Town Hall, latch on the spiral above the door and enter the hole you'll find on top. Defeat all the enemies the first Golden Pumpkin.
 2. Get a perfect score in the Corpse Kid Quiz. Be aware: do not get the perfect score the first time you take the quiz in Chapter 6, or you'll be locked out of the Golden Pumpkin.
-3. In one of the branches of the big tree in the Old Graveyard. Use the first spiral to the right of the tree to get there.
+3. In one of the branches of the big tree in the Old Graveyard. To the right of the tree, use the spiral further back, then jump across the other spirals to reach it.
 4. At the start of Chapter 12, perform a triple jump to get to the Golden Pumpkin right beside you.
 5. At the Mayor's House, right where the Golden Pumpkin is visible, go through the door instead continue forward until you get outside with a spiral you're supposed to jump into to progress. Instead, go south through a tiny passage, paying attention to not fall. Further down you should see the Golden Pumpkin and a spiral. Latch on the spiral and you'll drop on top of the Golden Pumpkin.
 6. At the start of Chapter 16, progress through the level until you see a big skull with a spiral on its nose you can latch into. You'll enter Hidden Place 12, where you can find a Golden Pumpkin after defeating all the enemies.
