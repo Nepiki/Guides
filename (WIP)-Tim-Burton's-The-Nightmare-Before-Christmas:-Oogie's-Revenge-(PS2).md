@@ -122,7 +122,7 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 
 The only way to damage him is to throw the pieces of brain at him while his head is open. One way to open his head is to grab him from behind repeatedly until its head opens. Then throw the pieces of brain right in front of him to damage him. If you're not confident with this, collect the notes by destroying its inventions to open its head instead. Trying to open his head will also give a bit of notes too, so try to do this everytime he stops attacking to collect more notes.
 
-He attacks in order, starting with the turrets. The turrets can be avoided by standing a bit further away from them, enough distance so you'll hit them. After the turrets, the blades will appear. They require some time to get ready giving you time to destroy one of them. Dodge them when they're activated while also damaging them to get notes. At this point, if you did everything to get notes you should be in the dance segment. If not, then he'll do his last attack with an elettric pilar that'll follow you around. Keep moving until it stops. Then his attack pattern will restart.
+He attacks in order, starting with the turrets. The turrets can be avoided by standing a bit further away from them, enough distance so you'll hit them. After the turrets, the blades will appear. They require some time to get ready giving you time to destroy one of them. Dodge them when they're activated while also damaging them to get notes. After the blades the turrets will appear again. At this point, if you destroyed his inventions you should have enough notes for the dance. If not, then he'll do one last attack with the electric pillar that shoots lightning that follows you around. Move around and don't stop until he's done. He'll then restart from the begining.
 
 If you've done the Secret Chapter of Chapter 7, you should have the Sleeping Soup on your inventory. If you start the boss fight with this item in your inventory, the doctor will be asleep, letting you open its head for free damage. This won't work on Nightmare Mode however.
 
@@ -383,6 +383,45 @@ Get an "A" or higher in all Ranks in Chapter 5
 The Lock boss fight will most likely waste you some time here. If you get close to him fast enough, you can stun him by Taunting, then hit him with a Soul Spin and then repeat. Otherwise, catch him while in the air and engage the Skeletons only if they're too close. Lock will jump up in the air to attack you from above. If a shadow appears underneath you, dodge out of the shadow.
 
 All the combo and exclamation marks can be done during the dance segment against the Mega Spider. Check **Damcel in Distress** for how to fight the boss. To speed-up the boss fight, remember to charge Square and then do a combo against the tiny spiders immediately followed up by Soul Spin for dealing the most damage.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248681.png">
+
+```
+The Doctor's Hunch [5]
+Get an "A" or higher in all Ranks in Chapter 6
+```
+`PROGRESSION`
+
+* Time: 10:00
+* Combo: 140
+* Damage: 8
+* !-Count: 30
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248682.png">
+
+```
+The Lightning Round [5]
+Get an "A" or higher in all Ranks in Chapter 7
+```
+`PROGRESSION`
+
+* Time: 6:00
+* Combo: 90
+* Damage: 8
+* !-Count: 10
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248683.png">
+
+```
+Changing Brains [5]
+Get an "A" or higher in all Ranks in Chapter 8
+```
+`PROGRESSION`
+
+* Time: 3:00
+* Combo: 54
+* Damage: 8
+* !-Count: 54
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248728.png">
 
@@ -1069,3 +1108,29 @@ Once you get the Bone Biscuits, go back to Igor and talk to him
 ***
 
 **Chapter 7 - The Lightning Round**
+
+Even if it true that the Sleeping Soup makes the boss fight against Dr. Finklestein faster, the Secret Chapter is a huge waste of time for just a minimal time save. I don't suggest going for it.
+
+Right at the start, go forward a bit and destroy the wooden blockade to your right with the Pumpkin King Costume. Destroy the traps to make the next part easier, then go through the electric gates and destroy the debris to make way to the generator.
+
+Immediately after you destroyed the generator, go south-west to exit the area. Go south, then west and take the elevator that takes you back to the entrance of the area. Get to the lab by going north and avoid all the traps and enemies in the area. Soul Spin the heads that come out of the Guillotine on top of the stairs to send them back at them rather than just attacking it. 
+
+You can easily dodge the boulders with the dodge trick with the right timing. If you are unable to do so, after jumping to the first spiral, if you continue to climb you won't need to jump the next spiral. Continue a bit and hid into the door nearby to avoid the incoming boulder. After that, jump the spirals and wait inside the doors to avoid the boulders. Some of them are blocked by wooden planks that can be destroyed with a Fire Blast.
+
+After reaching Lock on top of the ramp, get into the elevator.
+
+***
+
+**Chapter 8 - Changing Brains**
+
+For more about the boss, refer to **Cerebum Cleansed**.
+
+Of course, we want to be fast here. At the start, throw the pieces of brain in front of him so that they drop on the ground right in front or near him. Avoid the guns by running and dodging right outside of their range and get behind the doctor. Open his head, immediately go in front of him and throw a piece of brain at him.
+
+For the blades, destroy to the blades behind him and to his right with a Fire Blast. Then stand behind him, a bit to the left, so that the blade in front of him won't hit you when it'll reach you. Open his head and immediately throw a piece of brain at him.
+
+This may take you a fair amount of trial and error to get it right. If you want, you can just build up the dance meter for a easier, and still fast enough method to defeat him.
+
+***
+
+**Chapter 9 - Pumpkin Patch Possession**
