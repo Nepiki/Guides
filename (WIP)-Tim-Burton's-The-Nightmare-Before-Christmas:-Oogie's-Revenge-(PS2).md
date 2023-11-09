@@ -1025,6 +1025,8 @@ It is suggested to do this after at least beating the game once to have an under
 * The only upgrades that you'll ever need to buy are the Soul Robber's. Pumpkin King Costume upgrades can be considered for safety.
 * For the Golden Pumpkins, some can be gotten while progressing through the chapter, while the ones in the shop or the Hidden Places will waste time.
 
+Below is a mini-guide on how to get through the chapters the fastest way possible.
+
 ***
 
 **Chapter 1 - Jack's Return**
@@ -1109,7 +1111,7 @@ Once you get the Bone Biscuits, go back to Igor and talk to him
 
 **Chapter 7 - The Lightning Round**
 
-Even if it true that the Sleeping Soup makes the boss fight against Dr. Finklestein faster, the Secret Chapter is a huge waste of time for just a minimal time save. I don't suggest going for it.
+Even if it true that the Sleeping Soup makes the boss fight against Dr. Finklestein faster, the Secret Chapter is a huge waste of time for just a tiny time save. I don't suggest going for it.
 
 Right at the start, go forward a bit and destroy the wooden blockade to your right with the Pumpkin King Costume. Destroy the traps to make the next part easier, then go through the electric gates and destroy the debris to make way to the generator.
 
@@ -1123,7 +1125,7 @@ After reaching Lock on top of the ramp, get into the elevator.
 
 **Chapter 8 - Changing Brains**
 
-For more about the boss, refer to **Cerebum Cleansed**.
+For more information about the boss, refer to **Cerebum Cleansed**.
 
 Of course, we want to be fast here. At the start, throw the pieces of brain in front of him so that they drop on the ground right in front or near him. Avoid the guns by running and dodging right outside of their range and get behind the doctor. Open his head, immediately go in front of him and throw a piece of brain at him.
 
@@ -1134,3 +1136,5 @@ This may take you a fair amount of trial and error to get it right. If you want,
 ***
 
 **Chapter 9 - Pumpkin Patch Possession**
+
+***
