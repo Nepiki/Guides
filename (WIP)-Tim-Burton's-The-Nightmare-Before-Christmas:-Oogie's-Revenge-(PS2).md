@@ -17,11 +17,11 @@ The defunct site Pumpkin Patch, containing many info about the game.\
 
 Welcome to the RA guide for **Tim Burton's The Nightmare Before Christmas: Oogie's Revenge** for the PS2!
 
-The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes itself as a sequel to the 1993 movie, **Tim Burton's The Nightmare Before Christmas**. The game has some similiarity to **Devil May Cry**, like the combo ranking, level progression and secrets, although it is much easier to play.
+The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes itself as a sequel to the 1993 movie **Tim Burton's The Nightmare Before Christmas**. The game strikes some similiarity to **Devil May Cry**, like the combat, the exploration and the rankings, all the while it keeps true to the artistic style of the film. It also features re-arranged music from the film, the is used either in the levels and combat, or during the dances agains the bosses to make them feel like duets. The game was also released alongside another game, developed by Tose, that features a story that takes place before the events of the film, **Tim Burton's The Nightmare Before Christmas: The Pumpkin King**.
 
 The game takes place some time after the events of the film. Jack yet again gets bored of Halloween. He goes to Doctor Finkelstein for advice in how to improve the next halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip. Jack than decides to leave Halloween Town in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge, taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". Sally manages to send a letter to Jack about what was going on, so he huries back to his town to fix the mess.
 
-⚠️ The only supported version of the game is the european version. When playing this version, the game will ask you at what refresh rate, or video mode, to play the game. Only select 60Hz to be able to earn achievements, as 50Hz is not supported.
+⚠️ The only supported version of the game is the European version. When playing this version, the game will ask you at what refresh rate, or video mode, to play the game. Only 60hz is supported by this achievement set, so please be sure to select this option to be able to earn achievements
 
 # 2) Overview
 
@@ -68,13 +68,21 @@ A mini-walktrough on what to do in each chapters will be written for each chapte
 
 # 3) Tips
 
-* **Combos** - Soul Spin is your best friend to get combos with its low damage and not causing enemies to be pushed. Another suggestion to do more combos is to taunt an enemy to make them more durable, especially if they're already damaged to make them replenish some health.
-* **Taunt** - Taunt is primarily used to get exclamation points, and it can be used repeatedly on the same enemy, even if they are already in Oogie Mode, to rack up !-points, as soon as they finish being "startled". A successful Taunt will also empower your next attack, similiar to charging up with either Square or Triangle, letting you follow it up with even a Soul Cycle.
-* **Blue Souls** - Not only are they very effective against bosses with the increased damage, but when grabbing enemies with Triangle like with Soul Cycle, you can use a blue soul when you see the Soul Rubber becoming almost red to extended its durability.
-* **Pumpkin King Costume** - While it is a powerful costume, with Fire Bomb doing very high damage, the costume is often used for puzzles and exploration, and it is better to conserve the Red Souls to avoid annoyance rather than use it to finish fights faster.
-* **Santa Jack Costume** - On top of being effective against hidden enemies, they have some uses elsewhere. Re-possession can turn enemies in Oogie Mode back to normal, and Scared Stiff can bind them to make it easy to hit them (especially effective against ghosts).
-* **Dodge Extension** - The Dodge has a tiny bit of invincibility that normally requires to be timed with precision to use. If right after Dodging, you quickly change into any costume you have, the invicibility from the dodgee is followed by the invincibility from changing costume extending it. Normally, changing costume has you standing in place, but this gets cancelled out when done right after a dodge, with good timing.
-* **Infinite Red Souls** - Earning all the figurines in the game will reward you with infinite Red Souls for your Pumpkin King Costume. You are not required to get this for all the achievements, but if you want a little advantage for, say against Mega Oogie, you can wait until getting this power before then. The set does not block the usage of this bonus so it is fair game to use.
+**Combos** - The most reliable way to increase your combo counter is to use Soul Spin. It does less damage and doesn't push enemies (as long as its not empowered), and it can reliably stagger enemies when done in quick succession to make it safe to use. Taunting to make enemies replenish their missing health and make them more tanky is also a good idea.
+
+**Taunt** - Taunt is primarily used to get exclamation points, and it can be used repeatedly on the same enemy, even if they are already in Oogie Mode, to rack up !-points, as soon as they finish being "startled". A successful Taunt will also empower your next attack, similiar to charging up with either Square or Triangle.
+
+**!-Points through Dances** - You can earn !-points during the dances, but make sure that the buttons are pressed right at the center of the indicator. When done correctly, it'll be indicated with "Good".
+
+**Blue Souls** - Not only Blue Souls increase the damage you deal with Soul Robber, but it also extend the durability of your grabs, especially for Soul Cycle.
+
+**Pumpkin King Costume** - While the Pumpkin King Costume has a very powerful attack, it is also used to progress through the levels. Remember to preserve some Red Souls so you don't get stuck.
+
+**Santa Jack Costume** - Of the presents you can throw with the Santa Jack Costume, Scared Stiff and Re-Possession are the most useful. Re-Possession can turn enemies back to normal, and Scared Stiff lock enemies in place, especially effective against the Halloween Ghosts and King Ghosts that are hidden.
+
+**Dodge Extension** - The Dodge has a tiny bit of invincibility that normally requires to be timed with precision to use. If right after Dodging, you quickly change into any costume, the invicibility from the dodge is followed-up by the invincibility from changing costume, pratically extending it.
+
+**Infinite Red Souls** - Earning all the figurines in the game will reward you with infinite Red Souls for your Pumpkin King Costume. This is not really needed, but it can make some parts in the game easier.
 
 # 4) Walktrough
 
@@ -361,9 +369,9 @@ Use the map to know the location of each tombstones.
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/7dfaa7f8-4c38-4143-8a4b-c1785d2bc9d5" width="600" height="450">
 <p/>
 
-You can try and buy the lvl 2 Soul Robber during the chapter (you should have enough souls with the S ranks from the other chapters), but this can make the time ranking quite difficult to reach. You can consider buying it first, then retry this chapter with the lvl 2 Soul Robber to make time a non-issue. Lvl 2 makes pulling the tombstones up much easier than lvl 1 and this will save so much time you would've wasted otherwise.
+Its not necessary to do this, but you can try to buy the lvl 2 Soul Robber upgrade (you should have enough souls with the S ranks from the other chapters). But this can make the time ranking really difficult to reach. You can consider going through the level to buy it first, then retry this chapter with the lvl 2 Soul Robber to make time a non-issue.
 
-The Skeleton Troll you'll find on your way to one of the tombstones is a good target for combos. Wait for it to attack, then attack and immediately Taunt it. Attack until it roars, then immediately taunt and attack again. When it drops its mace, you can either Soul Cycle it or just keep attacking it until defeated. Then use the skeletons that are around to get to the combo.
+The Skeleton Troll you'll find on your way to one of the tombstones is a good target for combos, although difficult to deal with if you don't know how. You can stun it with taunts to make it so that it doesn't act, but make sure to do this when it roars to land the taunt.
 
 One thing to be aware: when you reach the tombstone that is on top of the hill in the other part of the graveyard, go instead for the tombstone close to the building full of spiderwebs. After that, go and close the one on top of the hill. Doing it like this makes the enemies not spawn, as long as you don't approach the tombstone on the hill.
 
