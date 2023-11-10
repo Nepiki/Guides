@@ -451,6 +451,97 @@ If you position yourself in front of the blade behind the Doctor, you should be 
 
 Remember that you can just do the rankings one at a time if it is too difficult to do them. Even then, this may take a few tries.
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248684.png">
+
+```
+Pumpkin Patch Possesion [5]
+Get an "A" or higher in all Ranks in Chapter 9
+```
+`PROGRESSION`
+
+* Time: 7:00
+* Combo: 200
+* Damage: 8
+* !-Count: 15
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248685.png">
+
+```
+Barrel's Maze [5]
+Get an "A" or higher in all Ranks in Chapter 10
+```
+`PROGRESSION`
+
+* Time: 4:00
+* Combo: 90
+* Damage: 8
+* !-Count: 30
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248686.png">
+
+```
+Peril in the Pumpkin Head [5]
+Get an "A" or higher in all Ranks in Chapter 11
+```
+`PROGRESSION`
+
+* Time: 9:00
+* Combo: 100
+* Damage: 8
+* !-Count: 30
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248687.png">
+
+```
+Runaway Clown [5]
+Get an "A" or higher in all Ranks in Chapter 12
+```
+`PROGRESSION`
+
+* Time: 11:00
+* Combo: 500
+* Damage: 8
+* !-Count: 50
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248688.png">
+
+```
+The Vampire Brothers [5]
+Get an "A" or higher in all Ranks in Chapter 13
+```
+`PROGRESSION`
+
+* Time: 18:00
+* Combo: 240
+* Damage: 8
+* !-Count: 14
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248689.png">
+
+```
+The Mayor's Madhouse [5]
+Get an "A" or higher in all Ranks in Chapter 14
+```
+`PROGRESSION`
+
+* Time: 9:00
+* Combo: 120
+* Damage: 8
+* !-Count: 10
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248690.png">
+
+```
+Rooftop Rumble [5]
+Get an "A" or higher in all Ranks in Chapter 15
+```
+`PROGRESSION`
+
+* Time: 8:00
+* Combo: 65
+* Damage: 8
+* !-Count: 65
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248728.png">
 
 ```
