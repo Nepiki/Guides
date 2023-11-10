@@ -27,7 +27,7 @@ The game takes place some time after the events of the film. Jack yet again gets
 
 [**Progression**](#progression)
 
-These can't be missed and will be naturally unlocked by just playing through the game. While doing these, you should also go for the extras achievements, as this is the best opportunity to get them out of the way and to also get ready for the rest of the set.
+These can't be missed and will be naturally unlocked by just playing through the game. While doing these, you should also go for the Miscellaneous achievements, as this is the best opportunity to get them out of the way and to also get ready for the rest of the set.
 
 Most importantly, you can decide to start on Nightmare Mode, the highest difficulty in the game. Despite the increse in difficulty, it is still manageable enough to get through the game. And besides, all of the challenge achievements will require this difficulty anyway.
 
@@ -49,7 +49,7 @@ Full Combos during the dance segments are also a part of this section. There's n
 
 ***
 
-[**Extras**](#extras)
+[**Miscellaneous**](#miscellaneous)
 
 Everything else like Items, Collectibles, Upgrades and Hidden Places, or that doesn't belong anywhere else, will be talked about here.
 
@@ -57,7 +57,7 @@ These achievements can be done along with the Progression portion of the set. An
 
 Items from the Witches' Shop get a price reduction if playing on Easy Mode. For consistency sake, the prices listed for anything that can be bought in the Witches' Shop will be the prices in Normal Mode and Nightmare Mode, as you're more likely to play with these difficulties anyway.
 
-Easy Mode does have an extra item that is only available in this difficulty; the Pumpkin Shield. It makes Jack immune to damage, with each level extending this invincibility. This is not counted for **Sandy Claws**, but i'll still list the prices for that item anyway.
+Easy Mode does have one item that is only available in this difficulty; the Pumpkin Shield. It makes Jack immune to damage, with each level extending this invincibility. This is not counted for **Sandy Claws**, but i'll still list the prices for that item anyway.
 
 ***
 
@@ -856,7 +856,7 @@ X ↓ ▢
 ▢ ← →
 ```
 
-## Extra
+## Miscellaneous
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248745.png">
 
@@ -1257,3 +1257,25 @@ This may take you a fair amount of trial and error to get it right. If you want,
 **Chapter 9 - Pumpkin Patch Possession**
 
 ***
+
+**Chapter 10 - Barrel's Maze**
+
+***
+
+**Chapter 11 - Peril in the Pumpkin Head**
+
+***
+
+**Chapter 12 - Runaway Clown**
+
+***
+
+**Chapter 13 - The Vampire Brothers**
+
+***
+
+**Chapter 14 - The Mayor's Madhouse**
+
+***
+
+**Chapter 15 - Rooftop Rumble**
