@@ -1148,7 +1148,7 @@ Below is a mini-guide on how to get through the chapters the fastest way possibl
 
 ***
 
-**Chapter 1 - Jack's Return**
+<details><summary>Chapter 1 - Jack's Return</summary>
 
 Fight the skeletons until Oogie Boogie starts to talk. It'll take you 6 skeletons.
 
@@ -1157,10 +1157,11 @@ The skeletons will continue to spawn endlessly until Oogie Boogie stops talking.
 Move immediately in the Town Hall to start the boss fight.
 
 Refer to **This is Oogie-Town** for more information on how to defeat him.
+</details>
 
 ***
 
-**Chapter 2 - The Witching Hour**
+<details><summary>Chapter 2 - The Witching Hour</summary>
 
 Talk to Corpse Kid. Then move to the Witches' Shop, ignoring the enemies.
 
@@ -1169,10 +1170,11 @@ It's unlikely that you'll have anything to buy, so after the cutscene, immediate
 Defeat all the enemies in here and talk to the Clown.
 
 Get out of the manhole and go to the entrance of Halloween Town, where you started on chapter 1, and defeat the enemies that'll appear. Then interact with the gate.
+</details>
 
 ***
 
-**Chapter 3 - The Hanging Tree**
+<details><summary>Chapter 3 - The Hanging Tree</summary>
 
 If you have about 2000 Souls, take some time between Chapter 3 and Chapter 4 to buy yourself the Soul Robber lvl 2 upgrade and some Blue Souls. Soul Robber lvl 2 will make Chapter 4 go much more smoothy by picking up the tombstones much easier.
 
@@ -1187,10 +1189,11 @@ Find the 5 Hang Men throughout the area. Use the map below to give yourself an i
 <p/>
 
 After getting to the last Hang Men on top of the tree, talk to the Hanging Tree.
+</details>
 
 ***
 
-**Chapter 4 - The Grave Danger**
+<details><summary>Chapter 4 - The Grave Danger</summary>
 
 Just like Chapter 3, go straight to the tombstones and close the purple smoke coming out of them. Here's another map to give an idea of where they are.
 
@@ -1201,20 +1204,22 @@ Just like Chapter 3, go straight to the tombstones and close the purple smoke co
 When you reach the Old Graveyard, after closing the first tombstone, skip the next one and instead close first the tombstone next to the building full of spiderweb. Then go back and close the tombstone on the hill. This makes enemies not spawn saving some time.
 
 After closing all the tombstones, go back to the Hanging Tree to finish the chapter.
+</details>
 
 ***
 
-**Chapter 5 - The Crypt Creeper**
+<details><summary>Chapter 5 - The Crypt Creeper</summary>
 
 You need to get to the building on the other side of the graveyard, the one full of spiderwebs you should've seen while rescuing the third hangman.
 
 While going there, you'll be stopped by Lock and his skeletons. Faster way to deal with him is to Taunt him immediately and Soul Spin in his face. Then immediately Taunt and repeat until he's defeated.
 
 Go inside the building and follow the path to the boss. Refer to **Damcel in Distress** for more information on how to beat it.
+</details>
 
 ***
 
-**Chapter 6 - The Doctor's Hunch**
+<details><summary>Chapter 6 - The Doctor's Hunch</summary>
 
 Go straight to Halloween Town and then the to the Doctor's Lab, on the right of the manhole in which you entered back in Chapter 2. Use the key to the door and enter.
 
@@ -1225,10 +1230,11 @@ Exit the Doctor's Lab and go to the Witches' Shop to start a fight against Lock'
 Exit Witches' Shop and go to Corpse Kid in front of the fountain to take the quiz for the biscuits. If you're interested in the Golden Pumpkin you can get for perfect score, do not get a perfect score the first time you take the quiz or you won't be able to get it later on. Also the first time he'll always have the same questions so you can definitely get ready beforehand to make this easier.
 
 Once you get the Bone Biscuits, go back to Igor and talk to him
+</details>
 
 ***
 
-**Chapter 7 - The Lightning Round**
+<details><summary>Chapter 7 - The Lightning Round</summary>
 
 Even if it true that the Sleeping Soup makes the boss fight against Dr. Finklestein faster, the Secret Chapter is a huge waste of time for just a tiny time save. I don't suggest going for it.
 
@@ -1239,10 +1245,11 @@ Immediately after you destroyed the generator, go south-west to exit the area. G
 You can easily dodge the boulders with the dodge trick with the right timing. If you are unable to do so, after jumping to the first spiral, if you continue to climb you won't need to jump the next spiral. Continue a bit and hid into the door nearby to avoid the incoming boulder. After that, jump the spirals and wait inside the doors to avoid the boulders. Some of them are blocked by wooden planks that can be destroyed with a Fire Blast.
 
 After reaching Lock on top of the ramp, get into the elevator.
+</details>
 
 ***
 
-**Chapter 8 - Changing Brains**
+<details><summary>Chapter 8 - Changing Brains</summary>
 
 For more information about the boss, refer to **Cerebum Cleansed**.
 
@@ -1251,6 +1258,7 @@ Of course, we want to be fast here. At the start, throw the pieces of brain in f
 For the blades, destroy to the blades behind him and to his right with a Fire Blast. Then stand behind him, a bit to the left, so that the blade in front of him won't hit you when it'll reach you. Open his head and immediately throw a piece of brain at him.
 
 This may take you a fair amount of trial and error to get it right. If you want, you can just build up the dance meter for a easier, and still fast enough method to defeat him.
+</details>
 
 ***
 
