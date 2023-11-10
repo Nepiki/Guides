@@ -128,7 +128,7 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 ```
 `PROGRESSION`
 
-The only way to damage him is to throw the pieces of brain at him while his head is open. One way to open his head is to grab him from behind repeatedly until its head opens. Then throw the pieces of brain right in front of him to damage him. If you're not confident with this, collect the notes by destroying its inventions to open its head instead. Trying to open his head will also give a bit of notes too, so try to do this everytime he stops attacking to collect more notes.
+The only way to damage him is to throw the pieces of brain at him while his head is open. One way to open his head is to grab him from behind repeatedly until its head opens. Best moment to do this is right when the turrets retreat. Then throw the pieces of brain right in front of him to damage him. If you're not confident with this, collect the notes by destroying its inventions to open its head instead. Trying to open his head will also give a bit of notes too, so try to do this everytime he stops attacking to collect more notes.
 
 He attacks in order, starting with the turrets. The turrets can be avoided by standing a bit further away from them, enough distance so you'll hit them. After the turrets, the blades will appear. They require some time to get ready giving you time to destroy one of them. Dodge them when they're activated while also damaging them to get notes. After the blades the turrets will appear again. At this point, if you destroyed his inventions you should have enough notes for the dance. If not, then he'll do one last attack with the electric pillar that shoots lightning that follows you around. Move around and don't stop until he's done. He'll then restart from the begining.
 
@@ -405,6 +405,10 @@ Get an "A" or higher in all Ranks in Chapter 6
 * Damage: 8
 * !-Count: 30
 
+The Trick or Tricks are a fair bit as evasive as the Halloween Ghosts, but can be really annoying to deal with due to their traps. Don't get too close to them, and make sure to destroy them from a safe distance. Remember that if they are about to be defeated, defeat one of them so that a new Trick and Treat spawns to not risk dropping the combo.
+
+Another place to get the combo rank is against the Halloween Ghosts of Shock during her fight with the same tactic as the Lock's Skeletons fight. If you don't have Blue Souls, make sure to buy them at the start of the chapter.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248682.png">
 
 ```
@@ -418,6 +422,14 @@ Get an "A" or higher in all Ranks in Chapter 7
 * Damage: 8
 * !-Count: 10
 
+Do not go for the secret chapter, or else it'll be impossible to get an S rank in time. That and also the Sleeping Soup won't do anything to Dr. Finklestein on Nightmare Mode.
+
+Make sure to know how and where to move during the generator part of the chapter. Getting to it is easy, but getting to the Lab's entrance can be difficult. When the timer starts, enemies, traps and guillotines will spawn to block your way. Make sure to avoid or destroy the mechanical teeths before they get you. The heads that come from the guillotines can be send back by attacking the heads, but it is safer to do so with a Soul Spin.
+
+The boulders can be avoided with the dodge extension, but it requires a certain timing to do so and it might not be reliable. Just go through this part normally.
+
+Now that you're in front of the elevator that'll end the chapter, go left into a spiral that'll lead you to Igor's Room. In here you'll find Trick and Treats to use for combos and !-Points without any sort of urgency.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248683.png">
 
 ```
@@ -430,6 +442,14 @@ Get an "A" or higher in all Ranks in Chapter 8
 * Combo: 54
 * Damage: 8
 * !-Count: 54
+
+Refer to **Cerebrum Cleansed** and **My Whip Will Slice You!** for more information about the boss.
+
+Best suggestion is to go for the dance one time, and then trying to open his head by yourself. You need to do the dance at least once to get to the combo and !-Count requirement.
+
+If you position yourself in front of the blade behind the Doctor, you should be able to aim at the blade in front of him. Hitting that blade will also make you hit the blade behind. This makes collecting notes faster, and you'll have enough time to destroy at least the blade behind you before it activates. This is however possible with Soul Robber Lvl 2, as Lvl 3 will deal too much damage, making less notes appear and in turn makes the bar slower to fill up.
+
+Remember that you can just do the rankings one at a time if it is too difficult to do them. Even then, this may take a few tries.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248728.png">
 
@@ -478,9 +498,9 @@ Defeat Oogie's Boogie's Shadow without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Remember that the twirl he does when he throw the dices also damages you so don't stay too close to him. His big dices are not a problem if you just run in one direction.
+Remember that the twirl he does when he throw the dices also damages you, so don't stay too close to him. His big dices are not a problem if you just run in one direction to avoid them.
 
-If the Halloween Ghosts get to close to you, prioritize them. Go for Soul Cycle rather than Soul Slam.
+If the Halloween Ghosts get to close to you, prioritize defeating them first.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248730.png">
 
