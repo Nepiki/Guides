@@ -542,6 +542,123 @@ Get an "A" or higher in all Ranks in Chapter 15
 * Damage: 8
 * !-Count: 65
 
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248682.png">
+
+```
+The Grisly Gauntlet [5]
+Get an "A" or higher in all Ranks in Chapter 16
+```
+`PROGRESSION`
+
+* Time: 11:00
+* Combo: 140
+* Damage: 8
+* !-Count: 30
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248691.png">
+
+```
+Casino Clash [5]
+Get an "A" or higher in all Ranks in Chapter 17
+```
+`PROGRESSION`
+
+* Time: 9:00
+* Combo: 41
+* Damage: 8
+* !-Count: 41
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248692.png">
+
+```
+Spiral Hill [5]
+Get an "A" or higher in all Ranks in Chapter 18
+```
+`PROGRESSION`
+
+* Time: 11:00
+* Combo: 160
+* Damage: 8
+* !-Count: 30
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248693.png">
+
+```
+The Hinterlands - Part 1 [5]
+Get an "A" or higher in all Ranks in Chapter 19
+```
+`PROGRESSION`
+
+* Time: 11:00
+* Combo: 160
+* Damage: 8
+* !-Count: 30
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248694.png">
+
+```
+Fire and Ice Frenzy [5]
+Get an "A" or higher in all Ranks in Chapter 20
+```
+`PROGRESSION`
+
+* Time: 3:00
+* Combo: 15
+* Damage: 8
+* !-Count: 5
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248695.png">
+
+```
+The Hinterlands - Part 2 [5]
+Get an "A" or higher in all Ranks in Chapter 21
+```
+`PROGRESSION`
+
+* Time: 9:00
+* Combo: 15
+* Damage: 4
+* !-Count: 5
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248696.png">
+
+```
+Christmas Town [5]
+Get an "A" or higher in all Ranks in Chapter 22
+```
+`PROGRESSION`
+
+* Time: 11:00
+* Combo: 80
+* Damage: 4
+* !-Count: 5
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248697.png">
+
+```
+Saving Sandy [5]
+Get an "A" or higher in all Ranks in Chapter 23
+```
+`PROGRESSION`
+
+* Time: 7:00
+* Combo: 24
+* Damage: 4
+* !-Count: 5
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248698.png">
+
+```
+Taking Out the Trash [5]
+Get an "A" or higher in all Ranks in Chapter 24
+```
+`PROGRESSION`
+
+* Time: 14:00
+* Combo: 124
+* Damage: 15
+* !-Count: 80
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248728.png">
 
 ```
@@ -985,6 +1102,7 @@ Fully upgrade the Soul Robber
 
 Buy all the Soul Robber upgrades from the Witches Shop.
 
+Lvl 1: N/A\
 Lvl 2: 3.000 Souls\
 Lvl 3: 7.000 Souls
 
@@ -999,6 +1117,7 @@ Fully upgrade the Pumpkin King Costume
 
 Buy all the Pumpkin King upgrades from the Witches Shop
 
+Lvl 1: N/A\
 Lvl 2: 2.000 Souls\
 Lvl 3: 4.500 Souls
 
@@ -1014,6 +1133,7 @@ Fully upgrade the Santa Jack Costume
 Buy all the Santa Jack upgrades from the Witches Shop
 
 Re-possession\
+Lvl 1: N/A\
 Lvl 2: 500 Souls\
 Lvl 3: 1.000 Souls
 
@@ -1134,17 +1254,19 @@ Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
 ```
 `COMPLETION` `CHALLENGE`
 
-It is suggested to do this after at least beating the game once to have an understanding of what to do throughout the game. To give an idea, if you are capable of doing S rank in time on each chapter or better, you should be on track for this achievement.
+We just need to make it to the end of each chapter the fastes way possible. For this reason it is suggested to first be done with everything or at least beat the game once first.
+
+To give an idea, the exact requirement for every time rank S all additioned together will put us 30 minutes away from the 3 hour mark. Making it to the end by giving absolutely no care about anything, except for the Soul Robber upgrades that we for surely will need, will give us a much lower time than this. 
 
 **Tips**
-* Easy Mode is suggested to make the enemies and bosses much faster to defeat. 
+* Easy Mode is suggested to make the enemies and bosses much faster to defeat.
 * The timer moves through cutscenes and pause menu, but also during the the ranking screen and the save game screen. Skip through every cutscene, and don't spend too much time on any screen.
-* Consider saving when finishing a chapter to keep the progress you made. This is also important if you'll need to retry the next chapter.
-* Only some fights are obbligatory to do in order to progress through the level.
-* The only upgrades that you'll ever need to buy are the Soul Robber's. Pumpkin King Costume upgrades can be considered for safety.
-* For the Golden Pumpkins, some can be gotten while progressing through the chapter, while the ones in the shop or the Hidden Places will waste time.
+* Do consider saving after finishing a chapter. This is just in case you'd want to re-do the next chapter for a better time.
+* Some fights are obbligatory to progress, even if it is just to jump on a spiral, as you can't do that if enemies are nearby.
+* The only upgrades that you'll ever need are the Soul Robber's. You may consider also buying the Pumpkin King Costume's upgrades if you want more Red Souls.
+* Crystal Skulls are not necessary, but you may consider picking some easy to get Golden Pumpkins if you wish more health. Like the one on the tree in the graveyard.
 
-Below is a mini-guide on how to get through the chapters the fastest way possible.
+Below is a mini-guide on how to get through the chapters, with some other tips to finish them faster.
 
 ***
 
@@ -1287,3 +1409,39 @@ This may take you a fair amount of trial and error to get it right. If you want,
 ***
 
 **Chapter 15 - Rooftop Rumble**
+
+***
+
+**Chapter 16 - The Grisly Gauntlet**
+
+***
+
+**Chapter 17 - Casino Clash**
+
+***
+
+**Chapter 18 - Spiral Hill**
+
+***
+
+**Chapter 19 - The Hinterlands - Part 1**
+
+***
+
+**Chapter 20 - Fire and Ice Frenzy**
+
+***
+
+**Chapter 21 - The Hunterlands - Part 2**
+
+***
+
+**Chapter 22 - Christmas Town**
+
+***
+
+**Chapter 23 - Saving Sandy**
+
+***
+
+**Chapter 24 - Taking Out the Trash**
