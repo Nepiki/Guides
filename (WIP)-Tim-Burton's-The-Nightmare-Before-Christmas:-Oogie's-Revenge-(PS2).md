@@ -68,11 +68,9 @@ A mini-walktrough on what to do in each chapters will be written for each chapte
 
 # 3) Tips
 
-**Combos** - The most reliable way to increase your combo counter is to use Soul Spin. It does less damage and doesn't push enemies (as long as its not empowered), and it can reliably stagger enemies when done in quick succession to make it safe to use. Taunting to make enemies replenish their missing health and make them more tanky is also a good idea.
+**Combos** - The most reliable way to increase your combo counter is to use Soul Spin. It does less damage and doesn't push enemies (as long as its not empowered), and it can reliably stagger enemies when done in quick succession to make it safe to use. Another idea is to taunt the enemies when they're low health to make them go into Oogie Mode, which will replenish their health and make them more durable for more hits.
 
-**Taunt** - Taunt is primarily used to get exclamation points, and it can be used repeatedly on the same enemy, even if they are already in Oogie Mode, to rack up !-points, as soon as they finish being "startled". A successful Taunt will also empower your next attack, similiar to charging up with either Square or Triangle.
-
-**!-Points through Dances** - You can earn !-points during the dances, but make sure that the buttons are pressed right at the center of the indicator. When done correctly, it'll be indicated with "Good".
+**Dances** - You can earn !-points during the dances, but make sure that the buttons are pressed right at the center of the indicator. When done correctly, the game will mark them as "Good".
 
 **Blue Souls** - Not only Blue Souls increase the damage you deal with Soul Robber, but it also extend the durability of your grabs, especially for Soul Cycle.
 
@@ -299,6 +297,7 @@ Get an "A" or higher in all Ranks in Chapter 1
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 8:00
 * Combo: 120
 * Damage: 4
@@ -318,6 +317,7 @@ Get an "A" or higher in all Ranks in Chapter 2
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 5:00
 * Combo: 100
 * Damage: 4
@@ -335,6 +335,7 @@ Get an "A" or higher in all Ranks in Chapter 3
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 11:00
 * Combo: 280
 * Damage: 4
@@ -358,6 +359,7 @@ Get an "A" or higher in all Ranks in Chapter 4
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 7:00
 * Combo: 100
 * Damage: 8
@@ -383,6 +385,7 @@ Get an "A" or higher in all Ranks in Chapter 5
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 9:00
 * Combo: 59
 * Damage: 8
@@ -400,6 +403,7 @@ Get an "A" or higher in all Ranks in Chapter 6
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 10:00
 * Combo: 140
 * Damage: 8
@@ -417,6 +421,7 @@ Get an "A" or higher in all Ranks in Chapter 7
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 6:00
 * Combo: 90
 * Damage: 8
@@ -438,6 +443,7 @@ Get an "A" or higher in all Ranks in Chapter 8
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 3:00
 * Combo: 54
 * Damage: 8
@@ -459,6 +465,7 @@ Get an "A" or higher in all Ranks in Chapter 9
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 7:00
 * Combo: 200
 * Damage: 8
@@ -472,6 +479,7 @@ Get an "A" or higher in all Ranks in Chapter 10
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 4:00
 * Combo: 90
 * Damage: 8
@@ -485,6 +493,7 @@ Get an "A" or higher in all Ranks in Chapter 11
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 9:00
 * Combo: 100
 * Damage: 8
@@ -498,6 +507,7 @@ Get an "A" or higher in all Ranks in Chapter 12
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 11:00
 * Combo: 500
 * Damage: 8
@@ -511,6 +521,7 @@ Get an "A" or higher in all Ranks in Chapter 13
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 18:00
 * Combo: 240
 * Damage: 8
@@ -524,6 +535,7 @@ Get an "A" or higher in all Ranks in Chapter 14
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 9:00
 * Combo: 120
 * Damage: 8
@@ -537,6 +549,7 @@ Get an "A" or higher in all Ranks in Chapter 15
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 8:00
 * Combo: 65
 * Damage: 8
@@ -550,6 +563,7 @@ Get an "A" or higher in all Ranks in Chapter 16
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 11:00
 * Combo: 140
 * Damage: 8
@@ -563,6 +577,7 @@ Get an "A" or higher in all Ranks in Chapter 17
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 9:00
 * Combo: 41
 * Damage: 8
@@ -576,6 +591,7 @@ Get an "A" or higher in all Ranks in Chapter 18
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 11:00
 * Combo: 160
 * Damage: 8
@@ -589,6 +605,7 @@ Get an "A" or higher in all Ranks in Chapter 19
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 11:00
 * Combo: 160
 * Damage: 8
@@ -602,6 +619,7 @@ Get an "A" or higher in all Ranks in Chapter 20
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 3:00
 * Combo: 15
 * Damage: 8
@@ -615,6 +633,7 @@ Get an "A" or higher in all Ranks in Chapter 21
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 9:00
 * Combo: 15
 * Damage: 4
@@ -628,6 +647,7 @@ Get an "A" or higher in all Ranks in Chapter 22
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 11:00
 * Combo: 80
 * Damage: 4
@@ -641,6 +661,7 @@ Get an "A" or higher in all Ranks in Chapter 23
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 7:00
 * Combo: 24
 * Damage: 4
@@ -654,6 +675,7 @@ Get an "A" or higher in all Ranks in Chapter 24
 ```
 `PROGRESSION`
 
+S Rank requirements:
 * Time: 14:00
 * Combo: 124
 * Damage: 15
@@ -1263,8 +1285,9 @@ To give an idea, the exact requirement for every time rank S all additioned toge
 * The timer moves through cutscenes and pause menu, but also during the the ranking screen and the save game screen. Skip through every cutscene, and don't spend too much time on any screen.
 * Do consider saving after finishing a chapter. This is just in case you'd want to re-do the next chapter for a better time.
 * Some fights are obbligatory to progress, even if it is just to jump on a spiral, as you can't do that if enemies are nearby.
-* The only upgrades that you'll ever need are the Soul Robber's. You may consider also buying the Pumpkin King Costume's upgrades if you want more Red Souls.
+* The only upgrades that you'll ever need are the Soul Robber's and the Pumpkin King Costume. You can consider the Re-possession present upgrades if you want.
 * Crystal Skulls are not necessary, but you may consider picking some easy to get Golden Pumpkins if you wish more health. Like the one on the tree in the graveyard.
+* Consider getting some S ranks to earn 1000 Souls for each of them. On Easy Mode they are much easier to do and won't waste as much time, or at least make you pull out your hair as much, as in Nightmare Mode.
 
 Below is a mini-guide on how to get through the chapters, with some other tips to finish them faster.
 
@@ -1287,7 +1310,7 @@ Refer to **This is Oogie-Town** for more information on how to defeat him.
 
 Talk to Corpse Kid. Then move to the Witches' Shop, ignoring the enemies.
 
-It's unlikely that you'll have anything to buy, so after the cutscene, immediately exit. Talk to Corpse Kid again and enter into the manhole.
+It's unlikely that you'll have anything to buy, so after the cutscene, immediately exit. Run to the fountain and wait for Corpse Kid to reappear. Talk to Corpse Kid again and enter into the manhole.
 
 Defeat all the enemies in here and talk to the Clown.
 
@@ -1298,7 +1321,7 @@ Get out of the manhole and go to the entrance of Halloween Town, where you start
 
 <details><summary>Chapter 3 - The Hanging Tree</summary>
 
-If you have about 2000 Souls, take some time between Chapter 3 and Chapter 4 to buy yourself the Soul Robber lvl 2 upgrade and some Blue Souls. Soul Robber lvl 2 will make Chapter 4 go much more smoothy by picking up the tombstones much easier.
+If you have enough Souls, like about 2000, you can go to the Witches' Shop and buy the Soul Robber upgrade and some Blue Souls.
 
 Go past all the enemies and reach the big dead tree by following the way to the left and talk to Hanging Tree. You can waste a bit of time getting to the golden pumpkin on the tree.
 
@@ -1311,13 +1334,18 @@ Find the 5 Hang Men throughout the area. Use the map below to give yourself an i
 <p/>
 
 After getting to the last Hang Men on top of the tree, talk to the Hanging Tree.
+
+A little funny thing to try: when you're at the top of tree to save the last Hangman, instead of dropping to the left, try dropping down-left, in the direction away from the spiral. Dropping in this direction will make you fall into the Golden Pumpkin that's down there. It's not easy to get it but it does save some time.
+
 </details>
 
 ***
 
 <details><summary>Chapter 4 - The Grave Danger</summary>
 
-Just like Chapter 3, go straight to the tombstones and close the purple smoke coming out of them. Here's another map to give an idea of where they are.
+Go straight to the tombstones around the graveyard and close them up.
+
+Here's another map to give an idea of where they are.
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/7dfaa7f8-4c38-4143-8a4b-c1785d2bc9d5" width="600" height="450">
@@ -1358,7 +1386,7 @@ Once you get the Bone Biscuits, go back to Igor and talk to him
 
 <details><summary>Chapter 7 - The Lightning Round</summary>
 
-Even if it true that the Sleeping Soup makes the boss fight against Dr. Finklestein faster, the Secret Chapter is a huge waste of time for just a tiny time save. I don't suggest going for it.
+Even if it true that the Sleeping Soup makes the boss fight against Dr. Finklestein faster, the Secret Chapter is a huge waste of time for just a tiny time save. It is not suggested to go for it.
 
 Right at the start, go forward a bit and destroy the wooden blockade to your right with the Pumpkin King Costume. Destroy the traps to make the next part easier, then go through the electric gates and destroy the debris to make way to the generator.
 
@@ -1375,32 +1403,86 @@ After reaching Lock on top of the ramp, get into the elevator.
 
 For more information about the boss, refer to **Cerebum Cleansed**.
 
-Of course, we want to be fast here. At the start, throw the pieces of brain in front of him so that they drop on the ground right in front or near him. Avoid the guns by running and dodging right outside of their range and get behind the doctor. Open his head, immediately go in front of him and throw a piece of brain at him.
+Of course, we want to be fast here. At the start, throw the pieces of brain in front of him so that they drop on the ground right in front or near him. Get behind him, destroy the turret to the left, and open his head. Then go immediately for the brain piece and throw it at him in front.
 
-For the blades, destroy to the blades behind him and to his right with a Fire Blast. Then stand behind him, a bit to the left, so that the blade in front of him won't hit you when it'll reach you. Open his head and immediately throw a piece of brain at him.
+The next part requires you to be fast enough to pull it off. Destroy the blade to the right and behind him with a Fire Blast to give yourself more maneuverability. Get behind him, but stand a bit to the left to not be hit by the blade that'll come your way. After opening his head, go for the throw before the turrets appear.
 
-This may take you a fair amount of trial and error to get it right. If you want, you can just build up the dance meter for a easier, and still fast enough method to defeat him.
+This may take you a fair amount of tries to get it right. You can otherwise just build up the dance meter if you find this complicated. 
 </details>
 
 ***
 
-**Chapter 9 - Pumpkin Patch Possession**
+<details><summary>Chapter 9 - Pumpkin Patch Possession</summary>
+
+To exit the lab quickly, go to the left where there's the door to Igor's Room and drop from the ramp that's right in front of the door.
+
+Go through the Pumpkin Patch, through the passage to the left of the main gate.
+
+Dodge and pray all the hidden ghosts in this area and proceed further. Then just defeat the enemies quickly and jump into the spirals until you've reached the end
+
+</details>
 
 ***
 
-**Chapter 10 - Barrel's Maze**
+<details><summary>Chapter 10 - Barrel's Maze</summary>
+
+Hit the switch to the left, then go straight.
+
+Hit the switch that is far away with the pumpkin then go through the trolls and the guillottine.
+
+Continuing after the guillotine, jump into the spiral that you should see closeby and hit the switch there. Jump back, go south, a bit north and all the way east until you cross the bridge.
+
+</details>
 
 ***
 
-**Chapter 11 - Peril in the Pumpkin Head**
+<details><summary>Chapter 11 - Peril in the Pumpkin Head</summary>
+
+Jump on top of the pumpkin and enter the hole you'll find up there.
+
+On the first floor, just defeat the skeletons as normal.
+
+On the second floor, Soul Cycle for some damage and to bring the ghosts closer to you. Then either Soul Slam or combo them.
+
+On the Third floor, there'll be enemies hidden. To the right there are skeletons, and to the left there are ghosts. Don't bother to reveal them with presents, you can just reveal them yourself by either walking and dodging into them or hitting them.
+
+Against Barrel, stun lock him with taunts and Soul Spin until defeated.
+
+</details>
 
 ***
 
-**Chapter 12 - Runaway Clown**
+<details><summary>Chapter 12 - Runaway Clown</summary>
+
+If you need, triple jump on top of the stump for the Golden Pumpkin.
+
+Go all the way back to Halloween Town. This is a good time to stop by the Witches' Shop to buy some upgrades.
+
+Go to the left of the City Town Hall and open the gate with the key to get to the Residential Area. Stop the Clown with a Re-possession present, then talk to the Witch. You'll then have to go to the Doctor in his lab to ask him for a tool. After talking to him interact with his tool box on the left to grab one.
+
+Go back to the Clown. Stun him with the Re-possession present and then use the tool on him.
+
+</details>
 
 ***
 
-**Chapter 13 - The Vampire Brothers**
+<details><summary>Chapter 13 - The Vampire Brothers</summary>
+
+The vampires won't appear until you read the letter they left behind in their house, so do that before looking for them.
+
+Here's a map to give an idea of their location
+
+![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231114173942](https://github.com/RetroAchievements/guides/assets/133049176/36862d9a-65c5-4845-86d2-a570b2b593d3)
+
+One is right outside their house, where you open the gate with Clown.\
+The second and third one are close by each other in the Towers of Torment. Going to the left of the Vampires' House past the gate, go through the path and take the left when possible. Proceed, and then take the stairs and jump onto the spiral. Here you'll find one of the bats in a very tricky area. The other one is found on the roof, by taking a spiral located to the left of this area.\
+The fourth one is found in the Hidden Place 10. When you reach the Sewer Slums, go to where the wooden blocks are located and destroy them with the Pumpkin King Costume. Then go upstairs, defeat the King Skeletons and take the spiral to the north to be transported right in front of the entrance of the Hidden Place.
+
+The vampires can be attracted with your presents to make it much more easier to catch them. You still need to at least approach them a little to be attracted by the present, and they'll also attract the other bats that we're not interested.
+
+After getting all four yellow bats, return to their house and bring them into each of the coffins inside the house.
+
+</details>
 
 ***
 
