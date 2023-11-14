@@ -1510,7 +1510,11 @@ After getting all four yellow bats, return to their house and bring them into ea
 
 ***
 
-**Chapter 20 - Fire and Ice Frenzy**
+<details><summary>Chapter 20 - Fire and Ice Frenzy</summary>
+
+Ice King is easily defeated with Fire Blast. Fire King needs to be hit in the back. Either use a Blue Soul or charge your Soul Robber, than do a combo followed by a Soul Spin for heavy damage.
+
+</details>
 
 ***
 
@@ -1522,8 +1526,22 @@ After getting all four yellow bats, return to their house and bring them into ea
 
 ***
 
-**Chapter 23 - Saving Sandy**
+<details><summary>Chapter 23 - Saving Sandy</summary>
+
+Move to the gate that has opened, behind the carousel.
+
+You need to conserve the Blue Souls for Mega Oogie, so you might as well use what Red Souls you have left to destroy the train faster. Of course, make sure to derail the train!
+
+</details>
 
 ***
 
-**Chapter 24 - Taking Out the Trash**
+<details><summary>Chapter 24 - Taking Out the Trash</summary>
+
+Fore more information about the boss, refer to **You're King of Nothing!** and **A Filthy Finale**.
+
+It's faster to make him fall by hitting his feet. Use a Blue Soul and hit his head with Soul Spins for massive damage.
+
+Remember that you'll take damage if you miss notes during the dance, and you wouldn't want to die right at the end!
+
+</details>
