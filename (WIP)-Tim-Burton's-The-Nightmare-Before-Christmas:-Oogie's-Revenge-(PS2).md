@@ -491,7 +491,22 @@ S Rank requirements:
 Do not go for the secret chapter, or else it'll be impossible to get an S rank in time.\
 The Sleeping Soup won't give a noticeable time save against the Doctor eitherway.
 
-Go through
+When going to the Lab with a time limit, the stairs will be crowded with Trick and Treats, mechanical teeths and a Guillotine on top of the stairs. Keep your distances from the mechanical teeths and destroy them to not risk it. Guillotine's heads can be deflected with a Soul Spin. Getting hit by the heads can knock you down and waste some time.
+
+When reaching the ramp, you can dodge the boulders with a well-timed dodge extended with a change of costume right after, but it still requires tight timing to do so. You should rather just hide from the boulders then trying that.\
+
+**Combo**\
+You won't have enough time to do combos while going for the door after deactivating the generator.
+
+There's a much better place to do this without any hurry: after the boulders, go to the left and jump onto the spiral you'll find there. Enter the door to get to Igor's Room. In here you'll find Trick and Treats that you can use to do combos.
+
+**Damage**\
+Same thing with time applies here: watchout for the Guillotines, the mechanical teeths and the Trick and Treats, either in the generator's area or while going to the stairs.
+
+Wait out for the boulders in the ramp before moving.
+
+**!-Count**\
+You can't taunt the statues or the guillotines, nor you would have time to do these with the timer while going for the stairs. Your best, maybe only place, is in Igor's Room at the end of the ramp.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248683.png">
 
@@ -507,13 +522,20 @@ S Rank requirements:
 * Damage: 8
 * !-Count: 54
 
-Refer to **Cerebrum Cleansed** and **My Whip Will Slice You!** for more information about the boss.
+**Time**\
+Fun fact: this is very hard to do if you are trying to go for an overral S rank in one go.\
+You can sort of make it in time with just dances, as long as you're fast enough to collect notes.
 
-Best suggestion is to go for the dance one time, and then trying to open his head by yourself. You need to do the dance at least once to get to the combo and !-Count requirement.
+See **Cerebrum Cleanesed** for more information about the boss fight.
 
-If you position yourself in front of the blade behind the Doctor, you should be able to aim at the blade in front of him. Hitting that blade will also make you hit the blade behind. This makes collecting notes faster, and you'll have enough time to destroy at least the blade behind you before it activates. This is however possible with Soul Robber Lvl 2, as Lvl 3 will deal too much damage, making less notes appear and in turn makes the bar slower to fill up.
+**Combo**\
+This can only be done while performing a dance with perfect combo.
 
-Remember that you can just do the rankings one at a time if it is too difficult to do them. Even then, this may take a few tries.
+**Damage**\
+Refer to **My Whip Will Slice You!** for more information.
+
+**!-Count**\
+Same as Combo.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248684.png">
 
