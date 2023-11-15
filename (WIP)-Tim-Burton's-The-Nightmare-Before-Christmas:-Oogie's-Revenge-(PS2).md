@@ -303,11 +303,19 @@ S Rank requirements:
 * Damage: 4
 * !-Count: 30
 
-If you don't waste time anywhere else, like saving the game or going into the Hidden Place, and go straight to Oogie Boogie's Shadow, you won't have any problems with time. Remember to use your Blue Souls against Shadow Oogie for more damage.
+**Time**\
+If you don't waste any time going anywhere else besides the Town Hall after the initial fight and use some Blue Souls against Shadow Oogie you'll make it in time for sure.
 
-Bundle the Skeletons together and Soul Spin them until less than half health. Then Taunt to get them into Oogie Mode (you may need to hit them right after to keep the combo going) and Soul Spin again for even more combos. You should also defeat one Skeleton earlier, so that when the transformed ones are defeated you can hit this one while you wait for the others to spawn.
+**Combo**\
+Don't use the first Skeletons that'll appear. Wait for the Skeletons that appear during Oogie Boogie's announcement. These ones will spawn quickly and indefinitely until Oogie starts laughing. Then combo them with Soul Spin, taunt them when low on health and repeat.
 
-You can constantly taunt the Skeletons to get many exclamation marks. Otherwise, just do a Full Combo dance against Oogie Boogie's Shadow to get the exact amount needed.
+**Damage**\
+Be careful of the Skeletons in Oogie Mode while going for combo. They get more reach with their attackt that can take you off-guard.
+
+For the boss fight, refer to **Skellinton's Revenge**.
+
+**!-Count**\
+You don't need to taunt the enemies to get these. You can get these instead by doing a full combo on the dance with Shadow Oogie.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248563.png">
 
@@ -323,9 +331,19 @@ S Rank requirements:
 * Damage: 4
 * !-Count: 5
 
-This is a short chapter, as long as you ignore any fights in town. The only fights you're needed to do is the one in the sewer and the one in front of the gate after speaking with the Clown in the sewer. The number of enemies in front of the gate can be at random, but not a problem at all.
+**Time**\
+This chapter has only 2 obbligatory fights that you have to do to progress: inside the manhole (Hidden Place 1), and in front of the main gate. Everything else can be skipped for a faster time. 
 
-Use the enemies in the sewer for combos. You could use Soul Cycle here, but it won't let you reach the 100 combo required, so just Soul Spin and taunt them. You can always use the enemies in front of the gate if unable to do it there.
+The number of enemies that'll appear in front of the gate is actually random, but not really anything to be worried about.
+
+**Combo**\
+You can either use the enemies in the Hidden Place 1 or the enemies in front of the gate. The ones in Hidden Place 1 has enemies that can attack from a distance which can make getting to the combo requirement difficult. If that doesnt' work, the ones in front of the gate are more manageable.
+
+**Damage**\
+Be careful about the Skeletons that can attack from a distance. They can throw their bones even off-screen, and the ones in Oogie Mode throws them much faster. Soul Spin can redirect their attack if you hit it in time. You can also grab the skeletons and throw them at each other to control them better.
+
+**!-Count**\
+If you don't want a hard time, farm !-Counts in front of the gate. You can even do this in front of the Witches' Shop with the Skeletons, doesn't really matter.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248564.png">
 
@@ -341,15 +359,20 @@ S Rank requirements:
 * Damage: 4
 * !-Count: 30
 
-Knowing the location of the Hangmen beforehand will be very useful here. Use the map below have an idea of where to go in case you forget.
+**Time**\
+Soul Cycle the Lock's fight to finish it faster. Remember to replenish its duration with Blue Souls before it becomes orange.
+
+Knowing the location of the Hangmen beforehand can help a lot to finish this one faster. The map below can help with that.
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/244bdbcf-bc54-4d6c-8366-5995b5a6adcc" width="600" height="450">
 <p/>
 
-The Lock fight is the best and probably the only place where you can achieve the combo amount needed. Taunt the three skeletons in front of you, move to the left side of the area where you can see the barrier to the north and grab one of the skeletons to initiate a Soul Cycle. Whenever the Soul Cycle becomes orange, use a Blue Soul to replenish its duration. Do this until the Ogre Skeletons appear. Interrupt or let the Soul Cycle expire, than Soul Cycle the Ogre Skeletons until you reach the combo amount needed.
+**Combo**\
+Only real place where you can do that is in the Lock fight. Soul Cycle the enemies, and replenish its duration with Blue Souls, until the yellow skeletons appear. Interrupt Soul Cycle or let it finish and proceed to the usual method to get combos.
 
-Other than this fight the only other dangerous place are the statues that spits fire in the other side of the graveyard. Just wait for them to spit fire and pass.
+**!-Count**\
+Right at the start of the Lock fight you'll be right in front of three Skeletons in range for your taunt. Spam taunt constantly against them until you reach the needed amount.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248565.png">
 
@@ -365,17 +388,34 @@ S Rank requirements:
 * Damage: 8
 * !-Count: 25
 
-Use the map to know the location of each tombstones.
+**Time**\
+Exactly like Chapter 3. Only you can close the tombstones faster with a Soul Robber level higher than 1 to save time and not have the risk of accidentally dropping them.
+
+Here's another map of their location.
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/7dfaa7f8-4c38-4143-8a4b-c1785d2bc9d5" width="600" height="450">
 <p/>
 
-Its not necessary to do this, but you can try to buy the lvl 2 Soul Robber upgrade (you should have enough souls with the S ranks from the other chapters). But this can make the time ranking really difficult to reach. You can consider going through the level to buy it first, then retry this chapter with the lvl 2 Soul Robber to make time a non-issue.
+If you're coming in this chapter the first time, you do have some time to get to the Witches' Shop to buy the Soul Robber upgrade (even some Blue Souls), as long as you do the tombstones in the initial area and, of course, you have enough Souls to buy it.
 
-The Skeleton Troll you'll find on your way to one of the tombstones is a good target for combos, although difficult to deal with if you don't know how. You can stun it with taunts to make it so that it doesn't act, but make sure to do this when it roars to land the taunt.
+One thing to keep in mind for a better time: when you reach the other part of the graveyard, don't go near the tomb on top of the hill, the one right beside the spiral. Go instead for the one near the building full of spiderwebs and close it. Then go back to the one on top of the hill, defeat the enemies there and close that one. That'll make the enemies that were supposed to be there not appear.
 
-One thing to be aware: when you reach the tombstone that is on top of the hill in the other part of the graveyard, go instead for the tombstone close to the building full of spiderwebs. After that, go and close the one on top of the hill. Doing it like this makes the enemies not spawn, as long as you don't approach the tombstone on the hill.
+**Combo**\
+You'll encounter Skeleton Trolls in this chapter. These can be difficult to make combos out if you don't know how.\
+They always roar before taking action, or right after getting taunted. You can stun lock them with taunts right when they finish to roar to make them unable to attack you. After a taunt, follow it up with about 2 hits (that are also powered up due to a successfull taunt), and when its about to finish roaring hit the taunt.
+
+If you can't deal with the troll, there are also Skeletons that'll appear in the tombstone to the right of where you start the chapter in to get combos.
+
+**Damage**\
+You are vulnerable when trying to close the tombstones, so be quick in closing them.
+
+In the second part of the graveyard you should see statues that blow fire. Just make sure to wait them out before proceeding.
+
+The suggestion made in for the time rank can also be applied here to not deal with trolls and skeletons that throw bones.
+
+**!-Count**\
+Anywhere can work. Besides the Troll Skeleton, of course, as it requires a different timing to taunt it constantly compared to the normal Skeletons.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248680.png">
 
@@ -391,9 +431,18 @@ S Rank requirements:
 * Damage: 8
 * !-Count: 59
 
-The Lock boss fight will most likely waste you some time here. If you get close to him fast enough, you can stun him by Taunting, then hit him with a Soul Spin and then repeat. Otherwise, catch him while in the air and engage the Skeletons only if they're too close. Lock will jump up in the air to attack you from above. If a shadow appears underneath you, dodge out of the shadow.
+**Time**\
+You just need to go straight to the building full of spiderwebs and into the boss fight. On your way, a Lock boss fight will start. Best way to deal with him is to go to him, taunt him, and Soul Spin him, and then repeat. If done correctly, you'll see his health drop rapidly.
 
-All the combo and exclamation marks can be done during the dance segment against the Mega Spider. Check **Damcel in Distress** for how to fight the boss. To speed-up the boss fight, remember to charge Square and then do a combo against the tiny spiders immediately followed up by Soul Spin for dealing the most damage.
+You can't speed-up the boss fight, so just take any chances as they present themselves.
+
+**Combo**\
+The combo can be done through a perfect combo dance against the Mega Spider. The same applies with !-Count.
+
+**Damage**\
+You can maybe accidentally expose yourself to get hit by the Skeletons while trying to hit Lock, but that's about it.
+
+Only real danger to get hit is in the boss fight. Refer to **Arachnophobia** for more about it.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248681.png">
 
@@ -409,9 +458,20 @@ S Rank requirements:
 * Damage: 8
 * !-Count: 30
 
-The Trick or Tricks are a fair bit as evasive as the Halloween Ghosts, but can be really annoying to deal with due to their traps. Don't get too close to them, and make sure to destroy them from a safe distance. Remember that if they are about to be defeated, defeat one of them so that a new Trick and Treat spawns to not risk dropping the combo.
+**Time**\
+When entering the Doctor's Lab for the first time, you have to defeat the enemies and the guillotine to the right to get to the spiral. The Tricks and Treats are annoying to deal with because of their traps. Make sure to not be hit by the traps to now waste time.
 
-Another place to get the combo rank is against the Halloween Ghosts of Shock during her fight with the same tactic as the Lock's Skeletons fight. If you don't have Blue Souls, make sure to buy them at the start of the chapter.
+Shock's fight can be done quickly with a Soul Cycle. If you don't have Blue Souls, make sure to have them before this.
+
+Make sure to have 1000 Souls for the Biscuits also. You can get some souls by going to the left of the lever that deactives the electric gate in the Doctor's Lab, and going over the pipe all the way to the end. This is also a quicker way to get to the bridge.
+
+**Combo**\
+You can either use the Trick and Treats with the usual method, or Lock's Ghosts with Soul Cycle to reach the required amount. Ghosts with Soul Cycle is easier and saves more time, but it is up to you.
+
+**!-Count**\
+Trick and Treats are easy to lock with Taunts, just like with the Skeletons. Just repeatedly mash Taunts until done against them.
+
+Ghosts are sort of difficult to Taunt due to them constantly moving away from you so don't even bother with them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248682.png">
 
@@ -427,13 +487,11 @@ S Rank requirements:
 * Damage: 8
 * !-Count: 10
 
-Do not go for the secret chapter, or else it'll be impossible to get an S rank in time. That and also the Sleeping Soup won't do anything to Dr. Finklestein on Nightmare Mode.
+**Time**\
+Do not go for the secret chapter, or else it'll be impossible to get an S rank in time.\
+The Sleeping Soup won't give a noticeable time save against the Doctor eitherway.
 
-Make sure to know how and where to move during the generator part of the chapter. Getting to it is easy, but getting to the Lab's entrance can be difficult. When the timer starts, enemies, traps and guillotines will spawn to block your way. Make sure to avoid or destroy the mechanical teeths before they get you. The heads that come from the guillotines can be send back by attacking the heads, but it is safer to do so with a Soul Spin.
-
-The boulders can be avoided with the dodge extension, but it requires a certain timing to do so and it might not be reliable. Just go through this part normally.
-
-Now that you're in front of the elevator that'll end the chapter, go left into a spiral that'll lead you to Igor's Room. In here you'll find Trick and Treats to use for combos and !-Points without any sort of urgency.
+Go through
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248683.png">
 
