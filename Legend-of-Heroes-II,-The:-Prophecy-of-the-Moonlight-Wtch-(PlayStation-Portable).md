@@ -17,34 +17,128 @@ The Legend of Heroes II: Prophecy of the Moonlight Witch is a role-playing game 
 
 This achievement set is created by developer [ladynadiad](https://retroachievements.org/user/ladynadiad), who has done an excellent job covering everything the game has to offer. There are a lot of missable achievements in this set that are chronologically ordered on the game page, but I wanted to emphasise on them further by introducing a completely spoiler-free guide. This guide hides all the story achievements in a toggle with the amount described, making it so that this guide can be approached without the worry that you will be spoiling yourself. For example, if the toggle says 2 achievements, then everything between this toggle and the next toggle can be gained in-between that time. If you are a veteran of the series however, you are most likely familiar with how this game handles missables: talking to every NPC after every major happening in the story. By following this approach, most if not all achievements shouldn't be a problem for you! Added to this game are red exclamation marks for important events, so as long as you make sure all of these are dealt with, you should be a-okay.
 
+**Do note: you need a save file of A Tear of Vermillion to master this game. It does NOT need to be a complete save file.**
+
 # 3) Walkthrough
 
-[**Step 1: Dummy Step**](#step-1-dummy-step--total-points-999)
+[**Step 1: Prologue**](#step-1-prologue--total-points-35)
 
-This step covers all the achievements that can be obtained during the prologue in chronological order of when you can first get them. There are a total of four missable achievements, though chapter two still allows you to revisit most of the places from chapter one, meaning that if you missed one, you can still get it then. There are only two real missable achievements to watch out for that can only be obtained during chapter 1, namely Gingko Round Dance and Rookie Treasure Hunter, but these are all four:
+This step covers all the achievements that can be obtained during the prologue in chronological order of when you can first get them. Take extra care with this chapter, as there is a missable history entry that does not have an achievement but will absolutely be mandatory. You will encounter this on the second day while on the boat after having having talked to the captain and then another person on the boat with a red exclamation mark, so be sure to watch out for it. 
 
-- [Gingko Round Dance](https://retroachievements.org/achievement/197982) - Has to be done before reaching the capital for the first time.
-- [The Unofficial History of El Phildin](https://retroachievements.org/achievement/198670) - Is available for the whole chapter after entering Phildin, as well as the start of chapter 2. Possibly chapter 3 as well, but don't quote me on that.
-- [Opening of War](https://retroachievements.org/achievement/197985) - Is available for the whole chapter after the second Adventurer's Guild task, as well as the start of chapter 2.
-- [Rookie Treasure Hunter](https://retroachievements.org/achievement/197989) - While it can technically be finished in chapter 2, it is recommended to do this before the end of chapter 1 due to the first area listed in the achievement becoming inaccessible after chapter 1 ends. The point of no return is upon finishing the Prayer Woods.
+There are a total of five missable achievements.
 
-**Chapter 1's point of no return is after the Prayer Woods.**
-
-***
-
-[**Step 2: Dummy Step 2**](#step-2-dummy-step-2--total-points-999)
-
-Dummy step. Remove if unnecessary.
+- [A First History Lesson](https://retroachievements.org/achievement/199556) - Has to be done before going to sleep.
+- [The Moonlight Witch's Visit](https://retroachievements.org/achievement/201551) - Has to be done before entering Raguna.
+- [A Gift to the Pilgrims](https://retroachievements.org/achievement/205929) - Before leaving for Teruga.
+- [The Two Swordsmasters](https://retroachievements.org/achievement/213271) - Before leaving for Teruga.
+- [Captain Thomas' Great Sea Adventures](https://retroachievements.org/achievement/206682) - Before leaving the boat at Teruga.
 
 ***
 
-[**Step 3: Dummy Step 3**](#step-3-dummy-step-3--total-points-999)
+[**Step 2: Chapter 1**](#step-2-chapter-1--total-points-50)
 
-Dummy step. Remove if unnecessary.
+This step covers all the achievements that can be obtained during chapter 1 in chronological order of when you can first get them.
 
-# 4) Dummy Section (conclusion/tips and tricks)
+There are a total of five missable achievements.
 
-Dummy section that can be used for any other comments not already applied in the previous three sections. Remove for yourself if not necessary.
+- [The Duel](https://retroachievements.org/achievement/211263) - Before leaving Teruga.
+- [The Moonlight Witch's Portent](https://retroachievements.org/achievement/213426) - Before arriving at Tegura Shrine.
+- [The Moonlight Witch Sure Got Around](https://retroachievements.org/achievement/213769) - Before heading towards Ambisch.
+- [Drifting Smoke](https://retroachievements.org/achievement/214085) - Before heading towards Ambisch.
+- [A Story of Magic and Dragons](https://retroachievements.org/achievement/214185) - Before heading to Bolt.
+
+***
+
+[**Step 3: Chapter 2**](#step-3-chapter-2--total-points-41)
+
+This step covers all the achievements that can be obtained during chapter 2 in chronological order of when you can first get them.
+
+There are a total of five missable achievements.
+
+- [Bleeding Wound](https://retroachievements.org/achievement/214529) - Before heading to Dotta Fortress.
+- [Delicious Snacks and Lodi](https://retroachievements.org/achievement/214530) - Before heading to Dotta Fortress.
+- [The Source of Poison](https://retroachievements.org/achievement/214663) - Before heading back to Dice from Dartu.
+- [A Town in Grey](https://retroachievements.org/achievement/214816) - After passing the guard at Dotta Fortress.
+- [Faster than Galga!](https://retroachievements.org/achievement/214829) - After passing the guard at Dotta Fortress.
+
+***
+
+[**Step 4: Chapter 3**](#step-4-chapter-3--total-points-34)
+
+This step covers all the achievements that can be obtained during chapter 3 in chronological order of when you can first get them.
+
+There are a total of four missable achievements.
+
+- [The History of Igunis Shrine](https://retroachievements.org/achievement/217992) - Before heading to Amdera.
+- [Nightmare](https://retroachievements.org/achievement/219326) - Before heading to Amdera.
+- [The Not So Bad Warlock](https://retroachievements.org/achievement/219220) - Needs to be done before leaving Amdera.
+- [Errand Boy](https://retroachievements.org/achievement/219221) - Before having Chris cook the dish in the cooking contest.
+
+***
+
+[**Step 5: Chapter 4**](#step-5-chapter-4--total-points-71)
+
+This step covers all the achievements that can be obtained during chapter 4 in chronological order of when you can first get them.
+
+There are a total of three missable achievements.
+
+- [Noble Origin](https://retroachievements.org/achievement/219591) - Before entering Shifool.
+- [Father's Sword](https://retroachievements.org/achievement/219922) - Before heading to the Grand Cathedral.
+- [The Winds of Shifool](https://retroachievements.org/achievement/220359) - Before heading back to the Grand Cathedral after returning in Shifool.
+
+***
+
+[**Step 6: Chapter 5**](#step-6-chapter-5--total-points-29)
+
+This step covers all the achievements that can be obtained during chapter 5 in chronological order of when you can first get them.
+
+There are a total of four missable achievements.
+
+- [Rematch](https://retroachievements.org/achievement/220361) - Needs to be done before leaving Horoku.
+- [A Visit to Horuku](https://retroachievements.org/achievement/220671) - Needs to be done before leaving Horoku.
+- [A Promise is a Promise](https://retroachievements.org/achievement/220672) - Needs to be done before leaving Horoku.
+- [The Filly Fanclub](https://retroachievements.org/achievement/220674) - Needs to be done before entering Haizen castle.
+
+***
+
+[**Step 7: Chapter 6 and beyond**](#step-7-chapter-6-and-beyond--total-points-133)
+
+This step covers all the achievements that can be obtained during chapter 6 and beyond in chronological order of when you can first get them. Note that only chapter 6 has missable achievements, with chapter 7 and 8 having none.
+
+There are a total of three missable achievements.
+
+- [Jurio the Reluctant Treasure Hunter](https://retroachievements.org/achievement/220815) - Needs to be done before leaving the ruins.
+- [Avenging Blade](https://retroachievements.org/achievement/220944) - Before the boss fight after leaving Ghidonel.
+- [A Famous Sword](https://retroachievements.org/achievement/220946) - Before the boss fight after leaving Ghidonel.
+
+***
+
+# 4) Books to collect
+
+Just like A Tear of Vermillion, there are books to collect again called Sapphie, with all of them needing to be collected for a prize at the end. It is therefore very essential that you get all of them, but fortunately you only need to buy/receive them and that's it, no strings attached.
+
+**Prologue**
+- [Volume 1](https://retroachievements.org/achievement/213271) - NPC located in Arude. Get this before leaving for Teruga.
+
+**Chapter 1**
+- [Volume 2](https://retroachievements.org/achievement/211263) - NPC located in Tegar. Get this before leaving Teruga.
+- [Volume 3](https://retroachievements.org/achievement/214085) - NPC located in Nelva. Get this before heading towards Ambisch.
+
+**Chapter 2**
+- [Volume 4](https://retroachievements.org/achievement/214529) - NPC located in Dice. Get this before heading towards Dotta Fortress.
+- [Volume 5](https://retroachievements.org/achievement/214816) - NPC located in Dotta Fortress. Get this before passing the fortress.
+
+**Chapter 3**
+- [Volume 6](https://retroachievements.org/achievement/219326) - NPC located in Igunis Shrine. Get this before heading to Amdera.
+
+**Chapter 4**
+- [Volume 7](https://retroachievements.org/achievement/219922) - NPC located in Shifool. Get this before leaving Shifool.
+
+**Chapter 5**
+- [Volume 8](https://retroachievements.org/achievement/220361) - NPC located in Horoku. Get this before leaving Horoku.
+
+**Chapter 6**
+- [Volume 9](https://retroachievements.org/achievement/220944) - NPC located in Ghidonel. Get this before leaving Ghidonel.
 
 ***
 
@@ -617,7 +711,7 @@ Not entirely sure if you need to have talked to the guard prior to entering the 
 
 <big><pre>
 [The Filly Fanclub [m] (5)](https://retroachievements.org/achievement/220674)
-_Before delivering the message in Haizen, talk to various residents in the town and castle and hear how they feel about Filly. _
+_Before delivering the message in Haizen, talk to various residents in the town and castle and hear how they feel about Filly._
 </pre></big>
 
 **Point of no return: Before entering Haizen castle.**
@@ -643,7 +737,7 @@ Triggers after passing through the Desert checkpoint.
 
 ***
 
-## Step 6: Chapter 6 and beyond | **Total points: 133**
+## Step 7: Chapter 6 and beyond | **Total points: 133**
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/244179.png">
 
@@ -652,7 +746,7 @@ Triggers after passing through the Desert checkpoint.
 _While passing through the ruins find all the treasure within._
 </pre></big>
 
-**Point of no return: After leaving the ruins.
+**Point of no return: After leaving the ruins.**
 
 The Ruins is a one-floor mandatory dungeon that does not have monsters, so take your time looking around here for four chests. They contain Mirage Armour, 1000 piers, a Spider Knife, and an Ancient Sword.
     
