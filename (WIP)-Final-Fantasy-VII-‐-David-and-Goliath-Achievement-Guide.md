@@ -136,7 +136,7 @@ Remove the party's materia again and equip Restore onto Cloud, it isn't necessar
 
 **HEAL** after the fight as you can get random encounters on the 69th floor. Do a save before talking to Tifa but you wait until the minigame start to do the menu preparation for Motorball.
 
-This menu has a few more steps than the previous ones so here's a list.
+This menu has a few more steps than the previous so here's a list.
 
 1. Set the party to Cloud, Aerith, Tifa
 2. Equip: Aerith equips the Mythril Armour
@@ -167,7 +167,7 @@ In order to save 2000 gil, we're going to skip Zolom in one of two ways. There's
 
 Save before entering Mythril Cave as there is a nasty pincer inside the cave which will probably kill you if you get it. Pick up the Long Range materia and the items in the cave and head to Junon after that. Don't recruit Yuffie, we get her much later in the challenge. Before entering Junon, you need to have Cloud and Tifa dead, or close to it (less than 40 HP)
 
-Before reaching Junon, save your game then you need to do a shop. Sell the Star Pendant, Talisman and buy enough grenades so that you have 35 total. Swap Aerith's Fire materia for Poison and set the ATB to Active if it happens to be on Wait.
+Before reaching Junon, save your game then you need to do a shop. Sell the Star Pendant and Talisman and buy enough grenades so that you have 35 total. Swap Aerith's Fire materia for Poison and set the ATB to Active if it happens to be on Wait.
 
 | Bottomswell | |
 |------|--------|
@@ -178,7 +178,7 @@ Before reaching Junon, save your game then you need to do a shop. Sell the Star 
 
 This fight is cheesed. Have Aerith cast Bio until Bottomswell is inflicted with poison, then sit and wait until it dies, casting Cure when necessary. Keep in mind that Bottomswell can critical his physical attacks so be safe with HP amounts.
 
-When you reach Upper Junon, you'll have an opportunity to save before the marching minigame. Use it, because even if you know how to do this bad RNG can screw you here, although it's rare. You need to score preferably 51% or higher in the marching game to earn 5000 gil, getting 41 - 50% is acceptable if you're having trouble though because it turns out to be 4500 gil instead. If you don't know how to do this, follow these steps.
+When you reach Upper Junon, you'll have an opportunity to save before the marching minigame. Use it, because even if you know how to do this bad RNG can screw you here, although it's rare. You want to score preferably 51% or higher in the marching game to earn 5000 gil, getting 41 - 50% is acceptable if you're having trouble though because it turns out to be 4500 gil instead. If you don't know how to do this, follow these steps.
 
 1. Hold down and run and it'll guarantee that you will enter the formation.
 2. When the lead officer shouts out a number, press AND release circle, your score will increase
@@ -202,3 +202,49 @@ Save before fighting Jenova
 | Survivor | Aerith |
 
 You need to track damage as you fight. Use Braver as it becomes available, as well as Tifa's limit. You will do most of your damage by throwing grenades though. Use Healing Wind as the party drops in HP but as Jenova goes below 1000 HP you can ease off of healing, unless it's Aerith that's low then just use Cure. When you finish the fight pick up Ifrit materia and the Wind-Slash on the upper level. That concludes the first continent.
+
+## Western Continent
+### Costa Del Sol to Corel
+
+In Costa Del Sol, pick up the Power Source, Fire Ring and Motordrive in the basement and sleep at the inn in town. Head to the railway that takes you into Junon with a Steal materia equipped on Aerith, and tranq Aerith. If you happen to get a Bomb encounter on the screen after the Mako Reactor, you can try to steal a Right Arm, but don't force it here, there is a better section later. Progress through the rest of the tracks, saving at the save point and picking up items and equipment on the way, including the Wizard Staff and Star Pendant in the falling set piece. As you cross the final bridge set ATB to Wait and be prepared to be pincered by the big white birds. If you do, grenade the solo one and attempt to escape.
+
+If you didn't get a Right Arm earlier, when you reach Corel, head outside and save your game, and reset the emulator. Head back onto the bridge screen and the first fight will be a Bomb. Steal with Aerith until you get a Right Arm. You only need one for now but we'll be coming back here later. Remove all the accessories from party members and at the weapon shop in Corel, follow the instructions below.
+
+**SELL**
+Motor Drive
+Assault Gun
+Wizard Staff
+Wind Slash
+Protect Vest
+Star Pendant (both of them)
+White Cape
+
+**BUY**
+20x Molotovs
+
+**BUT** Make sure you still have 3000 gil left over so you can enter Gold Saucer.
+
+Head into Gold Saucer and follow the story until you reach Desert Prison, technically it doesn't matter who you take with you as no EXP is earned in this section but I recommend sticking with Aerith. 
+
+### Desert Prison
+**IMPORTANT**
+As soon as you enter Desert Prison, equip the Power Wrist onto Cloud and the Fire Ring onto Aerith. There are enemies here that can steal your equipment if it is unequipped so don't forget to do this, then immediately book it to the save point. If something is stolen, and molotov may kill the Bandit, but the only thing that may be lost that is particularly useful is the Right Arm. If you do lose the Right Arm, there is a backup strat.
+
+Keep Aerith in the party after meeting Barret and head to Dyne, set the ATB to Wait and heal Barret before entering the final screen. See below for the alternative strat.
+
+| Dyne | |
+|------|--------|
+| HP | 1200 |
+| Difficulty | 1/10 or 2/10 |
+| Party | Barret |
+| Survivor | Barret |
+
+If you have the Right Arm, use it here. It'll kill in one hit and if Barret is at full HP, he can't die.
+
+If you don't have/lost the Right Arm, enter this fight with Barret in Sadness and use Molotovs to kill. 
+
+Dyne will start attacking you twice after two mollies for ~50 damage each, and they can crit, so if you want to be super safe, use a Hi-Pot between the 3rd and 4th molotov. There is also a 50% chance Dyne will do a Final Attack when you throw the 4th molotov, so take that damage into account.
+
+ZOOM ZOOM Chocobo race.
+
+### Cosmo Canyon
