@@ -705,6 +705,25 @@ S Rank requirements:
 * Damage: 8
 * !-Count: 5
 
+**Time**\
+They are not that difficult to take down. They're just beefed up King Skeletons after all.\
+Ice King Skeleton can go down easily with a few Fire Blasts, while Fire King you'll have to hit it in the back with Soul Robber.
+
+They will become dark, making them immune to damage, and you'll need to throw a Re-possession present to make them normal. It won't happen that frequently however.
+
+**Combo**\
+It's much better to try this when one of them is defeated. Then for the other that is still alive, just do normal combos at their backs
+
+**Damage**\
+Fire King Skeleton can be kept at bay with Fire Blasts because of him absorbing the damage, while also letting you damage Ice King Skeleton with high damage. You'll unfortunately have to deal with Fire King Skeleton the normal way.
+
+You could use a Soul Spin powered up with a Blue Soul to deal the most hits on its back. Enough hits will make them drop the axe, meaning they won't be able to act if that happens.
+
+Whenever you taunt or throw a present at them, they'll stomp on the ground, be aware of that. 
+
+**!-Count**\
+You can taunt them, but they'll become dark if you do that. After the taunt, you have to use a re-possession present to get !-points, also whenever they become dark by themselves.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248695.png">
 
 ```
@@ -747,6 +766,20 @@ S Rank requirements:
 * Damage: 4
 * !-Count: 5
 
+**Time**\
+The hidden enemies here WILL make you waste precious time. Avoid them or throw a present at them to turn them to normal to make them less annoying.
+
+For the train either use Blue Souls or normal attack with the Pumpkin King Costume. Keep a bit of distance from the train or you'll be hit by it.
+
+**Combo**\
+Not that difficult to do. Either continuosly hit the train or use the enemies in the area.
+
+**Damage**\
+Use the Re-possession presents to reveal the hidden enemies and turn them to normal, to lower the risk of being hit. Also remember to not be too close to the train when trashing it.
+
+**!-Count**\
+The presents will cover this easily and safely from the hidden enemies.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248698.png">
 
 ```
@@ -760,6 +793,20 @@ S Rank requirements:
 * Combo: 124
 * Damage: 15
 * !-Count: 80
+
+**Time**\
+Use the gas leaks whenever possible. In between getting to the gas leaks, or when they arent' available, you should also try to hit Mega Oogie with the Soul Robber powered with Blue Souls.
+
+**Combo**\
+Only way to reach this is to do a full combo of the dance. And the dance itself is the most difficult in the game, nevermind the fact that you'll need to repeat the first phase should you fail. Refer to **It's Payback Time!** to know the entire dance sequence.
+
+**Damage**\
+Refer to **A Filthy Finale** for more information.
+The best suggestions is to make use of the invincibility with the dodge extended, and to keep a certain distance. Of all his attacks, the one to be careful about is the throw up attack.
+
+**!-Count**\
+These can only be gotten by doing the dance, after beating Mega Oogie in the first phase.
+You won't need to do the entirety of the song to get this amount.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248728.png">
 
