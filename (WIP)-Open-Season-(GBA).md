@@ -212,7 +212,9 @@ _Complete (Animal) Land using only Dinkleman. (Roar is allowed)_
 
 * The entire stage, from start to finish, must be played using only the Dinkleman attack. Special weapons, such as animals and gumballs, will lock the achievement. If the achievement is locked after using a different weapon, quitting the area and re-entering will reset the attempt.
 
-* The Roar and Whistle from the item shop are allowed and will not lockout the achievement if used. Reaching the end of the stage is all that's necessary and they don't need to be completed on the first visit of the stage. Obtained when the screen fades to black before the boss fight area.
+* The Roar and Whistle from the item shop are allowed and will not lockout the achievement if used. Reaching the end of the stage is all that's necessary and they don't need to be completed on the first visit of the stage.
+
+* Obtained when the screen fades to black before the boss fight area.
 
 ***
 
@@ -229,6 +231,8 @@ The Shaw fight consists of three phases:
 * **Phase 2**: Shaw will now be wielding a frying pan. If you attempt to attack him with Dinkleman, he will always block. If you get too close, he will attack you with the frying pan. Stand in the middle of the room and wait for him to leave the screen. He will then slide across the screen, back and forth, three times. He can be jumped over and then hit once with proper timing. Attack after jumping over him.
 
 * **Phase 3**: Shaw will now be holding a pillow and will spin rapidly. Stand against the far left side and duck. You cannot be hit in this position. After moving towards you and then away, he will jump. When he jumps, you need to jump as well, otherwise you will be stunned. He will move back and forth a second time before stopping. Once he stops, he's vulnerable to being attacked. If you have a full Roar meter, now is the best time to use it. It will slow down time long enough to deal all the damage necessary to defeat him in one cycle.
+
+* Obtained when you throw the pillow and feather him after the final phase.
 
 **Note: if a special weapon is used by mistake, dying will restart the fight and reset the attempt. Leaving the area is not necessary.**
 
@@ -254,6 +258,8 @@ _Reach the boss room in (Animal) Land on your first visit without taking damage.
 
 * The most useful special weapons for dealing with various enemies are the upgraded squirrel and duck. Be careful as you progress if you're not familiar with the level's layout. There are soda can traps in some stages that blend in with the scenery well. They can be safely disabled by using a squirrel on them.
 
+* Obtained when the screen fades to black when entering the boss area.
+
 ***
 
 ![4_Squirrel_Land_Boss_Challenge_alt](https://github.com/RetroAchievements/guides/assets/97459553/cce8fa58-37e5-4052-bab6-6083c526f4ad)
@@ -266,9 +272,11 @@ _Complete the boss fight in the stage Squirrel Land without taking damage. (Firs
 
 * An enemy in red will randomly appear from the tents as well. That's the boss you need to hit. After enough hits on the boss, the tent he came out of will collapse and no longer spawn enemies. It's best to stick to a single tent, kill any enemies that come out, and wait for the boss to appear. Moving around too much puts you at risk of being hit by axe throwing enemies. The boss spawns at other locations where you're not more often but he will eventually spawn in front of you if you're patient.
 
-*Take out the top tents first. The bottom ones usually spawn shotgun shooters at the start and they can't shoot upwards. The top ones are more likely to spawn axe throwers and you don't want to be caught under one while waiting for the boss to appear.
+* Take out the top tents first. The bottom ones usually spawn shotgun shooters at the start and they can't shoot upwards. The top ones are more likely to spawn axe throwers and you don't want to be caught under one while waiting for the boss to appear.
 
-*If you take damage, dying will reset the fight and the attempt. Leaving the area is not necessary to retry.
+* If you take damage, dying will reset the fight and the attempt. Leaving the area is not necessary to retry.
+
+* Obtained the moment the boss' HP reaches 0.
 
 ***
 
@@ -288,7 +296,9 @@ The fight consists of two alternating phases:
 
 * If you don't have ducks, the boss can be quick killed on the bottom tracks by upgraded squirrels. Duck under him when he is coming from the right side, headed left. When he comes back across, from the left side headed right, throw two upgraded squirrels. This will instantly drain his health bar, even if it's at full.
 
-*If you take damage, dying will reset the fight and the attempt. Leaving the area is not necessary to retry.
+* If you take damage, dying will reset the fight and the attempt. Leaving the area is not necessary to retry.
+
+* Obtained the moment the boss' HP reaches 0.
 
 ***
 
@@ -306,7 +316,87 @@ _Complete the boss fight in the stage Beaver Land without taking damage. (First 
 
 * A much more efficient way is using upgraded rabbits. Same as with the Rabbit Land boss, he can be quick killed if you throw two rabbits at him has he flies past you when he comes down low. This will instantly drain his health bar, even if it's at full.
 
-*If you take damage, dying will reset the fight and the attempt. Leaving the area is not necessary to retry.
+* If you take damage, dying will reset the fight and the attempt. Leaving the area is not necessary to retry.
+
+* Obtained the moment the boss' HP reaches 0.
 
 ***
 
+![16_Duck_Land_Boss_Challenge](https://github.com/RetroAchievements/guides/assets/97459553/2271d07a-eddc-4db8-9af4-3d233cdff084)
+
+### **Duck Land Boss Challenge**
+
+_Complete the boss fight in the stage Duck Land without taking damage. (First visit only)_
+
+* This boss is a bit tedious as he can only be hit once at a time. He will start by floating over near the ledge where you begin, stop, and look the opposite way for a moment. You can hit him at that time but it won't do damage.
+
+* He'll float back and forth across the area once before returning back to near the ledge. Walk under him and he can't spot you. If he does, he'll shoot. Once he's back to the ledge again, hit him once more. This will cause his balloon to crash.
+
+* Once his balloon crashes, he will hop out and shoot two quick shots that can be crouched under. You can only hit him once while he's outside of his balloon but it will take half of his health. Repeat the cycle again to defeat him. He's a tedious boss but also one of the easiest to do damageless since you can keep him from shooting at you the whole time by staying under him.
+
+* If you take damage, dying will reset the fight and the attempt. Leaving the area is not necessary to retry.
+
+* Obtained the moment the boss' HP reaches 0.
+
+***
+
+![19_Skunk_Land_Boss_Challenge](https://github.com/RetroAchievements/guides/assets/97459553/c37cb532-0e9f-4fde-baab-7bdd1982011a)
+
+### **Duck Land Boss Challenge**
+
+_Complete the boss fight in the stage Skunk Land without taking damage. (First visit only)_
+
+* This boss is an auto insurance nightmare. If you're standing up on a ledge, the truck will not move and you can't hit him. Jump down to the ground and then climb back up. This will cause him to ram his truck into the wall.
+
+* When he does, you can jump down behind the truck. He will fire two quick shots at you from the back of the truck that can be crouched under. Throw your weapon of choice as fast as you can. He'll back up the truck and turn around to face you.
+
+* Repeat the same process of baiting him into slamming into the wall and then jump down to attack the truck from the back. He'll go down pretty quickly.
+
+* If you take damage, dying will reset the fight and the attempt. Leaving the area is not necessary to retry.
+
+* Obtained the moment the boss' HP reaches 0.
+
+***
+
+![24_Freshly_Filed_Nails](https://github.com/RetroAchievements/guides/assets/97459553/c03b3160-cb31-4b6e-9559-550a728cc29a)
+![25_This_Helps_You_Stick_To_Walls_Somehow](https://github.com/RetroAchievements/guides/assets/97459553/d5fbbcf1-8629-4e1b-9fe2-610eea3dac29)
+![26_Elliots_Guide_To_The_Wild](https://github.com/RetroAchievements/guides/assets/97459553/9bc1cf9c-e60b-4a8f-98a3-6982b3c7e96a)
+![27_A_Natural_Selection](https://github.com/RetroAchievements/guides/assets/97459553/5b221afe-65ff-4681-9c9d-43788b2be07b)
+
+### **Elliot's Shop**
+
+_Purchase the (item) upgrade from Elliot._
+
+* Each achievement is obtained by purchasing the upgrade from Elliot for Woo Hoo Bars. 5 for the Nail File, 10 for Metal Finger Caps, 12 for Going Wild Guide, and 15 for each animal weapon upgrade.
+
+* All upgrades cost a total of 102 Woo Hoo Bars. The Whistle, Dinkleman Plus, Fishy Crackers, and Gumballs are not required for any achievements. The animal upgrades only become available for purchase once you beat an area and earn that animal as a new weapon.
+
+* There are a total of 175 Woo Hoo Bars in the game so you should have more than plenty to purchase everything you need along the way.
+
+***
+
+![23_Boog_Frenzy](https://github.com/RetroAchievements/guides/assets/97459553/830e8710-1c61-436f-8f0b-49779d27456d)
+
+### **Boog Frenzy**
+
+_In the stage Skunk Land with the invincibility power-up active, defeat five enemies before it runs out._
+
+* About half way through the area, there is an invincibility power up on the ground. It looks like a bag of chips or a smaller Woo Hoo Bar. Once you pick it up, there are only five enemies to hit. Use the roll since it's much quicker than walking.
+
+* The second enemy is a hunter in a trap door. You'll have to stand on top of him and wait for him to pop out before you can defeat him. Once you defeat him, keep rolling and you'll find the other three. There are no pit hazards and all enemies can be reached without having to climb anything. As long as you're rolling, you will have plenty of time.
+
+* If you aren't quick enough, you can transition to the next screen and then go back. The enemies and invincibility power up will have respawned. You can use your roar to get past the enemies without taking damage on your way back to the power up to try again.
+
+* Obtained after the fifth enemy is defeated.
+
+***
+
+![28_Boog_Of_The_North](https://github.com/RetroAchievements/guides/assets/97459553/5eb04349-1cbd-426d-8010-2d08ab164c3b)
+
+### **Boog of the North**
+
+_Complete any level with the Polar Bear cheat active. (Pause game, hold L, and input Down, Up, Down, B, A)_
+
+* You can get this achievement in any of the main stages. The intro level and Shaw's Cabin do not count. The code must be input near the beginning of the level. Once you activate the first checkpoint, if the code has not been input, the achievement will lockout. Exiting the area via the pause menu and re-entering an area will reset the attempt.
+
+* You'll obtain the achievement at the end of the stage, before the boss area. The polar bear cheat only turns Boog white and serves no other function. Just a silly easter egg the game developers put in.
