@@ -1216,7 +1216,7 @@ Defeat all monsters in Hidden Place 10
 The figurine in here can only be earned from Chapter 14 and later.
 You also need Red Souls to access this area.
 
-Go to the entrance to the left of the Vampire Brothers' House. Follow the path and when it diverges go straight, then follow down the pit. Go south, destroy the wooden fences you'll find there and go up the stairs. Jump to the spiral nearby and then jump to the spiral to the north (take care of the enemies if they appear). Then just get into the entrance in front to get to Hidden Place 10.
+Go to the entrance to the left of the Vampire Brothers' House. Follow the path and when it diverges go straight, then follow down the pit. Go south, destroy the wooden blockade you'll find there and go up the stairs. Jump to the spiral nearby and then jump to the spiral to the north (take care of the enemies if they appear). Then just get into the entrance in front to get to Hidden Place 10.
 
 Defeating all the enemies will earn you a Orc Skeleton figurine.
 
@@ -1356,7 +1356,7 @@ For the other 2 Crystal Bottles, you need to exchange all 8 Crystal Skulls you c
 3. In the Old Graveyard during Chapter 18, get on top of the big tree where you found the last Hangman to find a Crystal Skull.
 4. In the Doctor's Lab, to the left of the elevator where it takes you to the boss fight with Dr. Finklestein, go left, latch on the spiral and enter the door to get to Igor's Room, where you'll find it there.
 5. In the Doctor's Lab, after Chapter 8, go through the door a bit before the elevator, the one you it was blocked at first, to get to Sally's Room. You'll also find the Crystal Skull right there.
-6. In the Residential Area, go to entrance to the left of the Vampire Brothers' House, then go al the way straight and fall onto the pit. Go south to see some wooden barricades, but instead go to the left and look for a breakable wall. Break the wall and go through the entrance to get to Hidden Place 11 to get the Crystal Skull.
+6. In the Residential Area, go to entrance to the left of the Vampire Brothers' House, then go al the way straight and fall onto the pit. Go south to see some wooden blockade, but instead go to the left and look for a breakable wall. Break the wall and go through the entrance to get to Hidden Place 11 to get the Crystal Skull.
 7. In the Magma Maze, progressing through the area you should see the Crystal Skull in an unreachable area. Go back to the red moving platform and when possible move to the other platform that is held by a skeleton. Latch on the spiral on top to get to the Crystal Skull.
 8. In Christmas Town, it's located in the Hidden Place 18, where you have to get the Candles for Chapter 22. At the entrance of Christams Town, go behind the building to the left and latch on the spiral to get on top of the building. Drop on top of the big present behind the train and wait until you see a spiral. Latch on this spiral to get to the Hidden Place 18. If you're in Chapter 22, you'll need to re-enter it after getting the Candles to get the Crystal Skull.
 
@@ -1603,7 +1603,7 @@ Here's a map to give an idea of their location
 
 One is right outside their house, where you open the gate with Clown.\
 The second and third one are close by each other in the Towers of Torment. Going to the left of the Vampires' House past the gate, go through the path and take the left when possible. Proceed, and then take the stairs and jump onto the spiral. Here you'll find one of the bats in a very tricky area. The other one is found on the roof, by taking a spiral located to the left of this area.\
-The fourth one is found in the Hidden Place 10. When you reach the Sewer Slums, go to where the wooden blocks are located and destroy them with the Pumpkin King Costume. Then go upstairs, defeat the King Skeletons and take the spiral to the north to be transported right in front of the entrance of the Hidden Place.
+The fourth one is found in the Hidden Place 10. When you reach the Sewer Slums, go to where the wooden blockade are located and destroy them with the Pumpkin King Costume. Then go upstairs, defeat the King Skeletons and take the spiral to the north to be transported right in front of the entrance of the Hidden Place.
 
 The vampires can be attracted with your presents to make it much more easier to catch them. You still need to at least approach them a little to be attracted by the present, and they'll also attract the other bats that we're not interested.
 
@@ -1613,43 +1613,65 @@ After getting all four yellow bats, return to their house and bring them into ea
 
 ***
 
-**Chapter 14 - The Mayor's Madhouse**
+Chapter 14 - The Mayor's Madhouse
 
 ***
 
-**Chapter 15 - Rooftop Rumble**
+<details><summary>Chapter 15 - Rooftop Rumble</summary>
 
-***
+Refer to **Trick or Treat!** for more about the boss fight.
 
-**Chapter 16 - The Grisly Gauntlet**
-
-***
-
-**Chapter 17 - Casino Clash**
-
-***
-
-**Chapter 18 - Spiral Hill**
-
-***
-
-**Chapter 19 - The Hinterlands - Part 1**
-
-***
-
-<details><summary>Chapter 20 - Fire and Ice Frenzy</summary>
-
-Ice King is easily defeated with Fire Blast. Fire King needs to be hit in the back. Either use a Blue Soul or charge your Soul Robber, than do a combo followed by a Soul Spin for heavy damage.
+You can defeat all three of them really fast if you can constantly hit them with Fire Blasts. If you do it like this, you won't even need to dance.
 
 </details>
 
 ***
 
-**Chapter 21 - The Hunterlands - Part 2**
+Chapter 16 - The Grisly Gauntlet
 
 ***
 
-**Chapter 22 - Christmas Town**
+<details><summary>Chapter 17 - Casino Clash</summary>
+
+Refer to **Boogeyman's Wager** for more about the boss fight.
+
+There's nothing much to do to speed this fight up. Outside of maybe detroying the gunners so they shoot Oogie and to use a Blue Soul when it is possible to hit him, the fight will go just as normally it would.
+
+</details>
+
+***
+
+Chapter 18 - Spiral Hill
+
+***
+
+<details><summary>Chapter 19 - The Hinterlands - Part 1</summary>
+
+![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231122095056](https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe)
+
+</details>
+
+***
+
+<details><summary>Chapter 20 - Fire and Ice Frenzy</summary>
+
+Refer to **A Dance of Fire and Ice** for more about this fight.
+
+Remember to use Blue Soul and Soul Spin to take out the Fire King Skeleton faster.
+
+</details>
+
+***
+
+<details><summary>Chapter 19 - The Hinterlands - Part 2</summary>
+
+![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231122095056](https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe)
+
+</details>
+
+***
+
+Chapter 22 - Christmas Town
 
 ***
 
