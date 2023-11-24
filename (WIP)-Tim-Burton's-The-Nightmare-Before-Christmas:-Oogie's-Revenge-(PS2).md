@@ -238,7 +238,7 @@ Beat the game with an overall ranking of "C" or higher
 ```
 `COMPLETION`
 
-Refer to **The Seven Holidays King** for more information.
+Refer to <code>The Seven Holidays King</code> for more information about ranks.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248700.png">
 
@@ -248,7 +248,7 @@ Beat the game with an overall ranking of "B" or higher
 ```
 `COMPLETION`
 
-Refer to **The Seven Holidays King** for more information.
+Refer to <code>The Seven Holidays King</code> for more information about ranks.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248702.png">
 
@@ -258,7 +258,7 @@ Beat the game with an overall ranking of "A" or higher on Nightmare Mode
 ```
 `COMPLETION`
 
-Refer to **The Seven Holidays King** for more information.
+Refer to <code>The Seven Holidays King</code> for more information about ranks.
 
 You're likely to earn this, along with the other ones, if you didn't complete the secret chapters when beating the game. You can always do them at your leisure, even after beating the game.
 
@@ -272,10 +272,11 @@ secret chapters on Nightmare Mode
 `COMPLETION`
 
 When you beat a level, the game will rank you based on different categories, and then give you a total rank of the chapter.
-* Time: how much time you spent to beat the level.
-* Combo: Highest combo number without breaking it.
-* Damage: Amount of hits taken.
-* !-Count: These can be earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons.
+
+**Time**: how much time you spent to beat the level.\
+**Combo**: Highest combo number reached.\
+**Damage**: Amount of hits taken (in Nightmare Mode, you get 2 points for each hit rather than 1).\
+**!-Count**: Earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons right at the center of the indicator.
 
 The overall ranking in a chapter is determined by the highest ranking in each of the categories. It is not based on just the final ranking you achieve at the end of the chapter through the ranking screen, but rather the highest recorded rank reached in any category. Say you got S ranks in Combo, Damage, and !-Count, but D in Time; Replaying that chapter and earning S rank in Time will add it up to the other S ranks you already got to give you an overrall S rank in that chapter.\
 An overall rank S of the game also requires completing both the Secret Chapters. These have no rank requirements themselves, they just require to be completed.
@@ -313,7 +314,7 @@ Don't use the first Skeletons that'll appear. Wait for the Skeletons that appear
 **Damage**\
 Be careful of the Skeletons in Oogie Mode while going for combo. They get more reach with their attackt that can take you off-guard.
 
-For the boss fight, refer to **Skellinton's Revenge**.
+For the boss fight, refer to <code>Skellinton's Revenge</code> for more information about it.
 
 **!-Count**\
 You don't need to taunt the enemies to get these. You can get these instead by doing a full combo on the dance with Shadow Oogie.
@@ -445,9 +446,9 @@ You can't speed-up the boss fight, so just take any chances as they present them
 The combo can be done through a perfect combo dance against the Mega Spider. The same applies with !-Count.
 
 **Damage**\
-You can maybe accidentally expose yourself to get hit by the Skeletons while trying to hit Lock, but that's about it.
+You can maybe accidentally expose yourself to get hit by the Skeletons or Lock himself, but before the boss fight that's about it.
 
-Only real danger to get hit is in the boss fight. Refer to **Arachnophobia** for more about it.
+As for the boss, try to play it safe and take whatever opportunity you can get to hit its weakspot. Refer to <code>Arachnophobia<\code> for more details.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248681.png">
 
@@ -540,7 +541,7 @@ See **Cerebrum Cleanesed** for more information about the boss fight.
 This can only be done while performing a dance with perfect combo.
 
 **Damage**\
-Refer to **My Whip Will Slice You!** for more information.
+Learn what each of the contraptions do and the best way to tackle them to defeat Dr Finklestein safely. Refer to <code>My Whip Will Slice You!</code> for more details about it.
 
 **!-Count**\
 Same as Combo.
@@ -834,11 +835,11 @@ S Rank requirements:
 Use the gas leaks whenever possible. In between getting to the gas leaks, or when they arent' available, you should also try to hit Mega Oogie with the Soul Robber powered with Blue Souls.
 
 **Combo**\
-Only way to reach this is to do a full combo of the dance. And the dance itself is the most difficult in the game, nevermind the fact that you'll need to repeat the first phase should you fail. Refer to **It's Payback Time!** to know the entire dance sequence.
+Only way to reach this is to do a full combo of the dance. And the dance itself is the most difficult in the game, nevermind the fact that you'll need to repeat the first phase should you fail. Refer to <code>It's Payback Time!</code> to know the entire dance sequence.
 
 **Damage**\
 Refer to **A Filthy Finale** for more information.
-The best suggestions is to make use of the invincibility with the dodge extended, and to keep a certain distance. Of all his attacks, the one to be careful about is the throw up attack.
+The best suggestions is to make use of the invincibility with the dodge extended, and to keep a certain distance. Of all his attacks, the one to be careful about is the throw up attack. Refer to <code>A Filthy Finale</code> for more about it.
 
 **!-Count**\
 These can only be gotten by doing the dance, after beating Mega Oogie in the first phase.
@@ -877,7 +878,7 @@ This Secret Chapter can be accessed by first speaking with the Dr. Finklestein, 
 
 Igor will tell you that his Bone Biscuits disappeared while he was eating them close to a manhole. The manhole in question can be found to the left of the entrance to the lab. You should notice a manhole rattling going this way. Interact with it and you'll get to a Hidden Place with a Mega Spider inside.
 
-This Mega Spider is identical to the Mega Spider you've fought in chapter 5 so refer to **Damcel in Distress** on how to defeat it.
+This Mega Spider is identical to the Mega Spider you've fought in chapter 5 so refer to <code>Damcel in Distress</code> to see how to defeat it.
 
 After defeating it, you'll get the Bone Biscuits. Go back to Igor and give him back his Bone Biscuits to finish the Secret Chapter.
 
@@ -1287,11 +1288,11 @@ Fully upgrade the Soul Robber
 
 Buy all the Soul Robber upgrades from the Witches Shop.
 
-Lvl 1: N/A\
-Lvl 2: 3.000 Souls\
-Lvl 3: 7.000 Souls
+**Lvl 1**: N/A\
+**Lvl 2**: 3.000 Souls\
+**Lvl 3**: 7.000 Souls
 
-Total: 10.000 Souls
+**Total**: 10.000 Souls
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248747.png">
 
@@ -1302,11 +1303,11 @@ Fully upgrade the Pumpkin King Costume
 
 Buy all the Pumpkin King upgrades from the Witches Shop
 
-Lvl 1: N/A\
-Lvl 2: 2.000 Souls\
-Lvl 3: 4.500 Souls
+**Lvl 1**: N/A\
+**Lvl 2**: 2.000 Souls\
+**Lvl 3**: 4.500 Souls
 
-Total: 6.500 Souls 
+**Total**: 6.500 Souls 
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248748.png">
 
@@ -1317,27 +1318,27 @@ Fully upgrade the Santa Jack Costume
 
 Buy all the Santa Jack upgrades from the Witches Shop
 
-Re-possession\
-Lvl 1: N/A\
-Lvl 2: 500 Souls\
-Lvl 3: 1.000 Souls
+**Re-possession**\
+**Lvl 1**: N/A\
+**Lvl 2**: 500 Souls\
+**Lvl 3**: 1.000 Souls
 
-Scared Stiff\
-Lvl 1: 500 Souls\
-Lvl 2: 1.200 Souls\
-Lvl 3: 2.500 Souls
+**Scared Stiff**\
+**Lvl 1**: 500 Souls\
+**Lvl 2**: 1.200 Souls\
+**Lvl 3**: 2.500 Souls
 
-Cold Front\
-Lvl 1: 1.000 Souls\
-Lvl 2: 5.000 Souls\
-Lvl 3: 10.000 Souls
+**Cold Front**\
+**Lvl 1**: 1.000 Souls\
+**Lvl 2**: 5.000 Souls\
+**Lvl 3**: 10.000 Souls
 
-Pumpkin Shield (Only available on Easy Mode)\
-Lvl 1: 450\
-Lvl 2: 900\
-Lvl 3: 4.500
+**Pumpkin Shield** (Only available on Easy Mode)\
+**Lvl 1**: 450 Souls\
+**Lvl 2**: 900 Souls\
+**Lvl 3**: 4.500 Souls
 
-Total: 20.700 (Pumpkin Shield not included)
+**Total**: 20.700 Souls (Pumpkin Shield not included)
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248749.png">
 
@@ -1346,7 +1347,7 @@ Jack-O'-Lantern [3]
 Get your first Golden Pumpkin
 ```
 
-Refer to **Auriferous Cucurbita** for more information.
+Refer to <code>Auriferous Cucurbita</code>.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248750.png">
 
@@ -1358,7 +1359,7 @@ Get all the Golden Pumpkins
 There are 10 Golden Pumpkins throughout the game.
 
 1. It's in Hidden Place 2. In front of the Town Hall, latch on the spiral above the door and enter the hole you'll find on top. Defeat all the enemies the first Golden Pumpkin.
-2. Get a perfect score in the Corpse Kid Quiz. Be aware: do not get the perfect score the first time you take the quiz in Chapter 6, or you'll be locked out of the Golden Pumpkin.
+2. Get a perfect score in the Corpse Kid Quiz. Be warned: do not get the perfect score the first time you take the quiz in Chapter 6, or you'll be locked out of the Golden Pumpkin.
 3. In one of the branches of the big tree in the Old Graveyard. To the right of the tree, use the spiral further back, then jump across the other spirals to reach it.
 4. At the start of Chapter 12, perform a triple jump to get to the Golden Pumpkin right beside you.
 5. At the Mayor's House, right where the Golden Pumpkin is visible, go through the door instead continue forward until you get outside with a spiral you're supposed to jump into to progress. Instead, go south through a tiny passage, paying attention to not fall. Further down you should see the Golden Pumpkin and a spiral. Latch on the spiral and you'll drop on top of the Golden Pumpkin.
@@ -1375,7 +1376,7 @@ Crystalline Container [3]
 Get your second Crystal Bottle
 ```
 
-Refer to **Estus Flasks** for more information.
+Refer to <code>Estus Flasks</code>.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248753.png">
 
@@ -1387,10 +1388,10 @@ Get all the Crystal Bottles
 You can only get one Crystal Bottle through the Witches' Shop for 5.000 Souls.\
 For the other 2 Crystal Bottles, you need to exchange all 8 Crystal Skulls you can find throughout the game to the Witch to the left at the Shop to get them.
 
-1. In Halloween Town, to the right of the gate, latch on the spiral to get to Hidden Place 4. Defeat all the enemies to get a Crystal Skull.
-2. In the Old Graveyard, get to the second section of the graveyard. Continue until you can see a spiral to the north. Latch onto it and use the Pumpkin King costume to get rid of the spider web. Get inside to enter Hidden Place 6 where you can find the Crystal Skull.
-3. In the Old Graveyard during Chapter 18, get on top of the big tree where you found the last Hangman to find a Crystal Skull.
-4. In the Doctor's Lab, to the left of the elevator where it takes you to the boss fight with Dr. Finklestein, go left, latch on the spiral and enter the door to get to Igor's Room, where you'll find it there.
+1. In **Fountain Area**. To the right of the gate, latch on the spiral to get to Hidden Place 4. Defeat all the enemies to get a Crystal Skull.
+2. In the **Old Graveyard**. Jump onto the spiral to the north and use the Pumpkin King costume to get rid of the spider web blocking the entrance to the building there. Get inside to enter Hidden Place 6 where you can find the Crystal Skull.
+3. In **Tomb of Tears**, from chapter 18 onwards. Get on top of the tree where you found the last Hangman to find the Crystal Skull.
+4. In **Runaway Ramp**. Right in front of the elevat that takes to **Nightmare Lab**, go to the left and jump onto the spiral. Enter the door here to get to **Igor's Room**, where you'll find the Crystal Skull.
 5. In the Doctor's Lab, after Chapter 8, go through the door a bit before the elevator, the one you it was blocked at first, to get to Sally's Room. You'll also find the Crystal Skull right there.
 6. In the Residential Area, go to entrance to the left of the Vampire Brothers' House, then go al the way straight and fall onto the pit. Go south to see some wooden blockade, but instead go to the left and look for a breakable wall. Break the wall and go through the entrance to get to Hidden Place 11 to get the Crystal Skull.
 7. In the Magma Maze, progressing through the area you should see the Crystal Skull in an unreachable area. Go back to the red moving platform and when possible move to the other platform that is held by a skeleton. Latch on the spiral on top to get to the Crystal Skull.
@@ -1404,12 +1405,12 @@ Collect all the Costumes
 ```
 `COMPLETION`
 
-On top of the 2 costumes that you'll get by playing through the game, the other costumes require beating the game with a certain overral ranking in all the chapters, with S ranking giving you all of them.
+Outside of the two costumes that you can get by playing the through the game, you can earn other costumes by finishing the game with a certain overall rank. These don't have extra powers, and are just costumes that changes the normal appearance of Jack.
 
-Pajama Jack: Beat the Game with overall C ranking in all chapters.\
-Dancing Jack: Beat the Game with overall B ranking in all chapters.\
-Thespian Jack: Beat the Game with overall A ranking in all chapters.\
-Phantom Jack: Beat the Game with overall S ranking in all chapters (both Secret Chapters required).
+**Pajama Jack**: Beat the Game with overall C ranking in all chapters.\
+**Dancing Jack**: Beat the Game with overall B ranking in all chapters.\
+**Thespian Jack**: Beat the Game with overall A ranking in all chapters.\
+**Phantom Jack**\: Beat the Game with overall S ranking in all chapters (requires both secret chapters beaten).
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248754.png">
 
@@ -1419,11 +1420,52 @@ Collect all the Figurines
 ```
 `COMPLETION`
 
-The figurines can be earned by finishing a chapter, earning an overall A rank in a chapter, or finding them in a Hidden Place.
+The figurines can be earned by finishing a chapter with at least all A ranks or by finding them in certain Hidden Places.
 
-Refer to either the A Rank achievements or the Hidden Places achievements for more information.
+**Jack Skellington**: Earned from the beginning.\
+**Shadow Oogie**: Get an overall A rank or better in Chapter 1.\
+**Tall Witch**: Get an overall A rank or better in Chapter 2.\
+**Short Witch**: Get an overall A rank or better in Chapter 2.\
+**Zero**: Get an overall A rank or better in Chapter 3.\
+**Hanging Tree**: Get an overall A rank or better in Chapter 4.\
+**Pumpkin King**: Get an overall A rank or better in Chapter 5.\
+**Lock**: Get an overall A rank or better in Chapter 5.\
+**Igor**: Get an overall A rank or better in Chapter 6.\
+**Shock**: Get an overall A rank or better in Chapter 7.\
+**Santa Jack**: Get an overall A rank or better in Chapter 8.\
+**Doctor Finklestein**: Get an overall A rank or better in Chapter 8.\
+**Behemoth**: Get an overall A rank or better in Chapter 9.\
+**Oogie Boogie**: Get an overall A rank or better in Chapter 10.\
+**Barrel**: Get an overall A rank or better in Chapter 11.\
+**Clown**: Get an overall A rank or better in Chapter 12.\
+**Vampire #1**: Get an overall A rank or better in Chapter 13.\
+**Vampire #2**: Get an overall A rank or better in Chapter 13.\
+**Vampire #3**: Get an overall A rank or better in Chapter 13.\
+**Vampire #4**: Get an overall A rank or better in Chapter 13.\
+**Mayor**: Get an overall A rank or better in Chapter 14.\
+**The 3 Brats in a Tub**: Get an overall A rank or better in Chapter 15.\
+**Baby Spiders**: Get an overall A rank or better in Chapter 16.\
+**Super Spider**: Get an overall A rank or better in Chapter 16.\
+**Roulette Oogie**: Get an overall A rank or better in Chapter 17.\
+**Sally**: Get an overall A rank or better in Chapter 18.\
+**Mr. Hyde**: Get an overall A rank or better in Chapter 19.\
+**Fire and Ice Kings**: Get an overall A rank or better in Chapter 20.\
+**Corpse Kid**: Get an overall A rank or better in Chapter 21.\
+**Green Elf**: Get an overall A rank or better in Chapter 22.\
+**Red Elf**:  Get an overall A rank or better in Chapter 22.\
+**Sandy Claws**:  Get an overall A rank or better in Chapter 23.\
+**Mega Oogie**: Get an overall A rank or better in Chapter 24.
 
-Getting all the figurines will earn you Infininite Red Souls. This can be safely used for any other achievement if needed.
+**Heat Skeliton**: Found in Hidden Place 1, from chapter 12 onwards.\
+**King Ghost**: Found in Hidden Place 3.\
+**Troll Skeleton**: Found in Hidden Place 5.\
+**Blue Skeleton**: Found in Hidden Place 6.\
+**Halloween Ghost**: Found in Hidden Place 8.\
+**Orc Skeleton**: Found in Hidden Place 10, from chapter 14 onwards.\
+**King Skeleton**: Found in Hidden Place 16.\
+**Trick and Treat**: Found in Hidden Place 17.
+
+Getting all the figurines will earn you Infininite Red Souls! This power-up will not make any achievement unobtainable, so it can be used to make certain parts easier if so desired.
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/794fcd12-a690-494d-9c1b-040253562186" width="600" height="450">
@@ -1444,13 +1486,13 @@ We just need to make it to the end of each chapter the fastes way possible. For 
 To give an idea, the exact requirement for every time rank S all additioned together will put us 30 minutes away from the 3 hour mark. Making it to the end by giving absolutely no care about anything, except for the Soul Robber upgrades that we for surely will need, will give us a much lower time than this. 
 
 **Tips**
-* Easy Mode is suggested to make the enemies and bosses much faster to defeat.
-* The timer moves through cutscenes and pause menu, but also during the the ranking screen and the save game screen. Skip through every cutscene, and don't spend too much time on any screen.
-* Do consider saving after finishing a chapter. This is just in case you'd want to re-do the next chapter for a better time.
-* Some fights are obbligatory to progress, even if it is just to jump on a spiral, as you can't do that if enemies are nearby.
-* The only upgrades that you'll ever need are the Soul Robber's and the Pumpkin King Costume. You can consider the Re-possession present upgrades if you want.
-* Crystal Skulls are not necessary, but you may consider picking some easy to get Golden Pumpkins if you wish more health. Like the one on the tree in the graveyard.
-* Consider getting some S ranks to earn 1000 Souls for each of them. On Easy Mode they are much easier to do and won't waste as much time, or at least make you pull out your hair as much, as in Nightmare Mode. You can see their requirements in each of the A rank achievements.
+* It is suggested to play in Easy Mode to make the enemies less tanky to save time.
+* The timer moves through cutscenes and pause menu, but also during the the ranking screen and the save game screen. Skip through every cutscene, and make sure to not spend too much time on any screen.
+* Do consider saving after finishing a chapter. Not only to save the progress made, to also in case you need a re-do with certain chapters for a better time.
+* Some fights are obbligatory to progress, either because the way will be blocked or because you'll be unable to use the spirals if enemies are nearby. It'll be noted if a fight is obbligatory.
+* The only upgrades that you'll ever need are the Soul Robber's and the Pumpkin King Costume. You can consider the Re-possession present upgrades if you feel the need for them.
+* It's not necessary to go after the Crystal Skulls, but you may go after some fast and easy to get Golden Pumpkins to extend your life bar.
+* Consider getting some S ranks in each chapter. They'll reward you 1000 Souls which does make getting upgrades quicker and eliminates the need to go out of your way looking for Souls. Playing in Easy Mode decreases the prices for all the items in the Witches' Shop so you won't even need that many Souls.
 
 Below is a mini-guide on how to get through the chapters, with some other tips to finish them faster.
 
@@ -1458,47 +1500,83 @@ Below is a mini-guide on how to get through the chapters, with some other tips t
 
 <details><summary>Chapter 1 - Jack's Return</summary>
 
-Fight the skeletons until Oogie Boogie starts to talk. It'll take you 6 skeletons.
+**[Town Square - Fountain Area]**
 
-The skeletons will continue to spawn endlessly until Oogie Boogie stops talking. Finish them off when he starts laughing.
+Fight the 3 skeletons, and the next 3 skeletons that appear right after.
 
-Move immediately in the Town Hall to start the boss fight.
+When Oogie Boogie begins his announcement, the skeletons will continue to spawn endlessly until he starts laughing. When he laughs, immediately defeat the skeletons.
 
-Refer to **This is Oogie-Town** for more information on how to defeat him.
+After the cutscene, move immediately in the **Town Hall** to start the boss fight.
+
+**[Town Square - Town Hall]**
+
+**[Boss Fight - Shadow Oogie]**
+
+Refer to <code>This is Oogie-Town</code> for more information on the boss fight.
+
+After the fight, you'll get the Halloween Door.
+
 </details>
 
 ***
 
 <details><summary>Chapter 2 - The Witching Hour</summary>
 
-Talk to Corpse Kid. Then move to the Witches' Shop, ignoring the enemies.
+**[Town Square - Town Hall]**
 
-It's unlikely that you'll have anything to buy, so after the cutscene, immediately exit. Run to the fountain and wait for Corpse Kid to reappear. Talk to Corpse Kid again and enter into the manhole.
+Talk to Corpse Kid. Then move to the **Witches' Shop**, ignoring the enemies.
 
-Defeat all the enemies in here and talk to the Clown.
+**[Town Square - Witches' Shop]**
 
-Get out of the manhole and go to the entrance of Halloween Town, where you started on chapter 1, and defeat the enemies that'll appear. Then interact with the gate.
+It's unlikely that you'll have anything to buy, so after the cutscene, immediately exit.
+
+**[Town Square - Town Hall]**
+
+Run back to the fountain and wait for Corpse Kid to appear. Talk to Corpse Kid again, then enter the manhole
+
+**[Town Square - Hidden Place 1]**
+
+Defeat all the enemies in here. Talk Clown, then exit the area by jumping to the spiral.
+
+**[Town Square - Town Hall]**
+
+Go to the gate and defeat all the enemies that should appear. Theirs numbers are actually random here, but it's not actually relevant.
+
+After defeating all the enemies, talk with Clown.
+
 </details>
 
 ***
 
 <details><summary>Chapter 3 - The Hanging Tree</summary>
 
-If you have enough Souls, like about 2000, you can go to the Witches' Shop and buy the Soul Robber upgrade and some Blue Souls.
+**[Graveyard - Tomb of Tears]**
 
-Go past all the enemies and reach the big dead tree by following the way to the left and talk to Hanging Tree. You can waste a bit of time getting to the golden pumpkin on the tree.
+Go past all the enemies and reach the big tree by following the path. Talk to the Hanging Tree, then go back to the graveyard entrance.
 
-Then go back to where you entered this area to initiate a fight with Lock's Skeletons. Defeat all the enemies, then interact with the dog house of Zero, next to the entrance to Halloween Town.
+While getting here you'll start a fight with Lock's Skeletons. A goof way to dispatch them is with a Soul Cycle, replenishing it when needed with Blue Souls. You can also defeat them with a normal combo, as in easy mode they won't be that tanky.
 
-Find the 5 Hang Men throughout the area. Use the map below to give yourself an idea of where they're located.
+After defeating them, interact with Zero's Dog house you should see near the graveyard entrance.
+
+Now you need to find all 5 Hangmen scattered around the graveyard. You can use the following map to see where they're located. Though you still need to get to wherever Zero will indicate you to.
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/244bdbcf-bc54-4d6c-8366-5995b5a6adcc" width="600" height="450">
 <p/>
 
-After getting to the last Hang Men on top of the tree, talk to the Hanging Tree.
+In this part of the graveyard where you are, you'll find only one of them. After finding it, go to the entrance to the next part of the graveyard, which is where you started the Lock fight.
 
-A little funny thing to try: when you're at the top of tree to save the last Hangman, instead of dropping to the left, try dropping down-left, in the direction away from the spiral. Dropping in this direction will make you fall into the Golden Pumpkin that's down there. It's not easy to get it but it does save some time.
+**[Graveyard - Old Graveyard]**
+
+Here you'll find three of them. After getting to the last one, go back to **Tomb of Tears**.
+
+**[Graveyard - Tomb of Tears]**
+
+The last one is on top of the tree. When you are in front of the tree, go to the right to find a spiral. Jumping between the spirals, you should get to a branch where there are two spirals to jump to. The left one takes you to some souls, while the right one will take you to the Hand Man on top.
+
+After getting to the last Hang Men on top of the big tree, get down from the tree and talk to the Hanging Tree.
+
+A little funny thing to try: when you're at the top of tree to save the last Hangman, instead of dropping to the left, try dropping diagonally, down-left, in the direction away from the spiral. Dropping in this direction should make you fall into the Golden Pumpkin that's down there.
 
 </details>
 
@@ -1506,7 +1584,7 @@ A little funny thing to try: when you're at the top of tree to save the last Han
 
 <details><summary>Chapter 4 - The Grave Danger</summary>
 
-Go straight to the tombstones around the graveyard and close them up.
+**[Graveyard - Tomb of Tears]**
 
 Here's another map to give an idea of where they are.
 
@@ -1514,9 +1592,20 @@ Here's another map to give an idea of where they are.
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/7dfaa7f8-4c38-4143-8a4b-c1785d2bc9d5" width="600" height="450">
 <p/>
 
-When you reach the Old Graveyard, after closing the first tombstone, skip the next one and instead close first the tombstone next to the building full of spiderweb. Then go back and close the tombstone on the hill. This makes enemies not spawn saving some time.
+You can close all the tombs found in the Tomb of Tears, and then make a quick stop to the **Witches' Shop** to get the Soul Robber upgrade. You can make it through this chapter and the next without the Lvl 2 Soul Robber, but it does make it easier in this chapter to lift up the tombs and the extra attack for the combo is a very nice addition.
 
-After closing all the tombstones, go back to the Hanging Tree to finish the chapter.
+After closing all the tombs here, move to the **Old Graveyard**.
+
+**[Graveyard - Old Graveyard]**
+
+When you reach this area, after closing the first tombstone, skip the next one and instead close first the tombstone next to the building full of spiderweb. Then go back and close the tombstone on the hill. This makes enemies not spawn saving some time.
+
+After closing all the tombs here, get back to the **Tomb of Tears**.
+
+**[Graveyard - Tomb of Tears]**
+
+Go to the Hanging Tree and talk to him.
+
 </details>
 
 ***
@@ -1691,6 +1780,10 @@ Chapter 18 - Spiral Hill
 
 <details><summary>Chapter 20 - Fire and Ice Frenzy</summary>
 
+**[Spiral Hill - Horror Hill]**
+
+**[Boss Fight - Fire King Skeleton and Ice King Skeletons]**
+
 Refer to **A Dance of Fire and Ice** for more about this fight.
 
 Remember to use Blue Soul and Soul Spin to take out the Fire King Skeleton faster.
@@ -1713,9 +1806,15 @@ Chapter 22 - Christmas Town
 
 <details><summary>Chapter 23 - Saving Sandy</summary>
 
-Move to the gate that has opened, behind the carousel.
+**[Christmas Town - Xmas Tree Plaza]**
 
-You need to conserve the Blue Souls for Mega Oogie, so you might as well use what Red Souls you have left to destroy the train faster. Of course, make sure to derail the train!
+Move to the gate that has opened to the northern part of the area, near the carousel.
+
+**[Christmas Town - Xmas Junction]**
+
+**[Boss Fight - Train]**
+
+Conserve Blue Souls here for Mega Oogie. Instead use your Red Souls to destroy the train quickly. Better to use the normal attack with square to do more constant damage to it.
 
 </details>
 
@@ -1723,10 +1822,20 @@ You need to conserve the Blue Souls for Mega Oogie, so you might as well use wha
 
 <details><summary>Chapter 24 - Taking Out the Trash</summary>
 
-Fore more information about the boss, refer to **You're King of Nothing!** and **A Filthy Finale**.
+**[A Filthy Finale - Holiday Trash Hill]**
 
-It's faster to make him fall by hitting his feet. Use a Blue Soul and hit his head with Soul Spins for massive damage.
+If you need to, you can just go through the entrance to the north to get to [Town Square - Town Hall]. From there you can just get to the exit south to get to Witches' Shop. If you have Blue Souls you should be fine for the boss fight.
 
-Remember that you'll take damage if you miss notes during the dance, and you wouldn't want to die right at the end!
+When you're ready, move to the hill to the left to start the boss fight against Mega Oogie.
+
+**[Boss Fight - Mega Oogie, part 1]**
+
+Fore more information about the boss, refer to both <code>You're King of Nothing!</code> and <code>A Filthy Finale</code>.
+
+It's faster to make him fall by hitting his feet and wack his head in Easy Mode. Use a Blue Soul and hit his head with Soul Spins for massive damage.
+
+**[Boss Fight - Mega Oogie, part 2]**
+
+Nothing much to say for the dance part, but remember that you'll take damage if you miss notes during the dance, and you wouldn't want to die right at the end!
 
 </details>
