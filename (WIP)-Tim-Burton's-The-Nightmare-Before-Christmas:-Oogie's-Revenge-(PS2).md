@@ -1450,7 +1450,7 @@ To give an idea, the exact requirement for every time rank S all additioned toge
 * Some fights are obbligatory to progress, even if it is just to jump on a spiral, as you can't do that if enemies are nearby.
 * The only upgrades that you'll ever need are the Soul Robber's and the Pumpkin King Costume. You can consider the Re-possession present upgrades if you want.
 * Crystal Skulls are not necessary, but you may consider picking some easy to get Golden Pumpkins if you wish more health. Like the one on the tree in the graveyard.
-* Consider getting some S ranks to earn 1000 Souls for each of them. On Easy Mode they are much easier to do and won't waste as much time, or at least make you pull out your hair as much, as in Nightmare Mode.
+* Consider getting some S ranks to earn 1000 Souls for each of them. On Easy Mode they are much easier to do and won't waste as much time, or at least make you pull out your hair as much, as in Nightmare Mode. You can see their requirements in each of the A rank achievements.
 
 Below is a mini-guide on how to get through the chapters, with some other tips to finish them faster.
 
