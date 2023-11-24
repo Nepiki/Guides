@@ -560,18 +560,18 @@ S Rank | Easy | Normal  | Nightmare
 **Damage** | 4 | 4 | 8
 **!-Count** | 12 | 15 | 15
 
-**Time**
+**Time**\
 You have to go from the Nightmare Lab to the Pumpkin Patch, right at the left of the main gate of Halloween Town. Though you may have some time to go to the Witches' Shop to get some upgrades here.
 
 When you progress through the Pumpkin Patch, an announcement from Oogie shoul start. Normally continuing through this area where the announcement starts will make enemies appear, which includes Ogres and Phantoms. You can simply stand still and let the announcement finish to make no enemies or only some enemies appear to save some time.
 
-**Combo**
+**Combo**\
 You can either use Igor's Room, right to the left of the Nightmare Lab, or use Hidden Place 2, on top of the Town Hall reachable using a spiral, to get to the needed amount of combos. Though you may as well use igor's Room since you start right in the Nightmare Lab in this chapter.
 
-**Damage**
+**Damage**\
 This chapter will introduce the hidden enemies, right at the entrance of the Pumpkin Patch. You can try to dodge in time of their attack when they are revealed, though it is not so easy to get it right. It is more safe to just throw a Re-possession present at them to reveal them, but to also revert them to normal so that they won't do any cheap shots.
 
-**!-Count**
+**!-Count**\
 Igor's Room is a good option, as is the entrance of the Pumpkin Patch by throwing Re-possession presents at the hidden enemies, since you get !-points with them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248685.png">
@@ -589,11 +589,17 @@ S Rank | Easy | Normal  | Nightmare
 **Damage** | 4 | 4 | 8
 **!-Count** | 24 | 30 | 30
 
-**Time**
+**Time**\
 For being a maze, this chapter is very straightforward. Just hit the switches and proceed. One switch will require you to jump on a spiral to get through. After hitting that switch, jump onto the spiral to get back where you were and run all the way east until you get past a bridge to finish the chapter.
 
-**Combo**
+**Combo**\
 I'm afraid you either have to use the Hidden Place 9, behind the waterfall (it has Ghosts, so it might be a bit annoying), or the Trolls that appear right in front of the bridge that ends the chapter. All else fails, you can go back to Halloween Town and get to Hidden Place 2 to get the neede combos.
+
+**Damage**\
+Avoid fighting the Trolls in your path, and mind the guillotine that is on top of the hill, close to the waterfall. Soul Spin if a head is close to you to redirect it to the guillotine.
+
+**!-Count**\
+Use the three Trolls that spawn in front of the bridge at the end of this area. Lump them together and then Taunt them. Wait for them to roar before taunting them again or they won't get startled.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248686.png">
 
