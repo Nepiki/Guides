@@ -238,7 +238,7 @@ Beat the game with an overall ranking of "C" or higher
 ```
 `COMPLETION`
 
-Refer to <code>The Seven Holidays King</code> for more information about ranks.
+Refer to <code>The Seven Holidays King</code> to learn more about ranks.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248700.png">
 
@@ -248,7 +248,7 @@ Beat the game with an overall ranking of "B" or higher
 ```
 `COMPLETION`
 
-Refer to <code>The Seven Holidays King</code> for more information about ranks.
+Refer to <code>The Seven Holidays King</code> to learn more about ranks.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248702.png">
 
@@ -258,7 +258,7 @@ Beat the game with an overall ranking of "A" or higher on Nightmare Mode
 ```
 `COMPLETION`
 
-Refer to <code>The Seven Holidays King</code> for more information about ranks.
+Refer to <code>The Seven Holidays King</code> to learn more about ranks.
 
 You're likely to earn this, along with the other ones, if you didn't complete the secret chapters when beating the game. You can always do them at your leisure, even after beating the game.
 
@@ -314,7 +314,7 @@ Don't use the first Skeletons that'll appear. Wait for the Skeletons that appear
 **Damage**\
 Be careful of the Skeletons in Oogie Mode while going for combo. They get more reach with their attackt that can take you off-guard.
 
-For the boss fight, refer to <code>Skellinton's Revenge</code> for more information about it.
+For the boss fight, refer to <code>Skellinton's Revenge</code> to learn more about it.
 
 **!-Count**\
 You don't need to taunt the enemies to get these. You can get these instead by doing a full combo on the dance with Shadow Oogie.
@@ -448,7 +448,7 @@ The combo can be done through a perfect combo dance against the Mega Spider. The
 **Damage**\
 You can maybe accidentally expose yourself to get hit by the Skeletons or Lock himself, but before the boss fight that's about it.
 
-As for the boss, try to play it safe and take whatever opportunity you can get to hit its weakspot. Refer to <code>Arachnophobia<\code> for more details.
+As for the boss, try to play it safe and take whatever opportunity you can get to hit its weakspot. Refer to <code>Arachnophobia<\code> to learn more about it.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248681.png">
 
@@ -541,7 +541,7 @@ See **Cerebrum Cleanesed** for more information about the boss fight.
 This can only be done while performing a dance with perfect combo.
 
 **Damage**\
-Learn what each of the contraptions do and the best way to tackle them to defeat Dr Finklestein safely. Refer to <code>My Whip Will Slice You!</code> for more details about it.
+Learn what each of the contraptions do and the best way to tackle them to defeat Dr Finklestein safely. Refer to <code>My Whip Will Slice You!</code> to learn more about it.
 
 **!-Count**\
 Same as Combo.
@@ -835,11 +835,10 @@ S Rank requirements:
 Use the gas leaks whenever possible. In between getting to the gas leaks, or when they arent' available, you should also try to hit Mega Oogie with the Soul Robber powered with Blue Souls.
 
 **Combo**\
-Only way to reach this is to do a full combo of the dance. And the dance itself is the most difficult in the game, nevermind the fact that you'll need to repeat the first phase should you fail. Refer to <code>It's Payback Time!</code> to know the entire dance sequence.
+Only way to reach this is to do a full combo of the dance. And the dance itself is the most difficult in the game, nevermind the fact that you'll need to repeat the first phase should you fail. Refer to <code>It's Payback Time!</code> to learn about the dance sequence.
 
 **Damage**\
-Refer to **A Filthy Finale** for more information.
-The best suggestions is to make use of the invincibility with the dodge extended, and to keep a certain distance. Of all his attacks, the one to be careful about is the throw up attack. Refer to <code>A Filthy Finale</code> for more about it.
+The best suggestions is to make use of the invincibility with the dodge extended, and to keep a certain distance. Of all his attacks, the one to be careful about is the throw up attack. Refer to <code>A Filthy Finale</code> to learn more about his attacks.
 
 **!-Count**\
 These can only be gotten by doing the dance, after beating Mega Oogie in the first phase.
@@ -1189,11 +1188,11 @@ Turn On The Heat [5]
 Defeat all monsters in Hidden Place 1 in Chapter 12
 ```
 
-The figurine in here can only be earned from Chapter 12 and later.
+This figurine can only be found from Chapter 12 and later.
 
-To get there you have to enter into the manhole on the right of the fountain in Halloween Town.
+To get there you have to enter into the manhole found close to the fountain in **Town Square - Fountain Area**.
 
-Defeating all the enemies will earn you a Heat Skeleton figurine.
+Defeating all the enemies will earn you a **Heat Skeleton figurine**.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248721.png">
 
@@ -1202,11 +1201,9 @@ Royal Wraith [5]
 Defeat all monsters in Hidden Place 3
 ```
 
-In the tiny area outside of the Withes Shop, going to the right you'll find a sing with a fish on it. Hit it and it'll make a spiral appear to latch on. Latch also on the other spiral to the left and move north to enter the Hidden Place.
+Outside of the **Withes Shop** in **Town Square - Fountain Area**, to the right you'll find a sing with a fish on it. Hit it and it'll make a spiral appear to latch on. Latch also on the other spiral to the left and move north to enter the Hidden Place.
 
-Defeating all the enemies will earn you a King Ghost figurine.
-
-Remember that Soul Slam will help you greatly against the King Ghosts.
+Defeating all the enemies will earn you a **King Ghost figurine**.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248723.png">
 
@@ -1456,14 +1453,14 @@ The figurines can be earned by finishing a chapter with at least all A ranks or 
 **Sandy Claws**:  Get an overall A rank or better in Chapter 23.\
 **Mega Oogie**: Get an overall A rank or better in Chapter 24.
 
-**Heat Skeliton**: Found in Hidden Place 1, from chapter 12 onwards.\
-**King Ghost**: Found in Hidden Place 3.\
-**Troll Skeleton**: Found in Hidden Place 5.\
-**Blue Skeleton**: Found in Hidden Place 6.\
-**Halloween Ghost**: Found in Hidden Place 8.\
-**Orc Skeleton**: Found in Hidden Place 10, from chapter 14 onwards.\
-**King Skeleton**: Found in Hidden Place 16.\
-**Trick and Treat**: Found in Hidden Place 17.
+**Heat Skeliton**: Found in Hidden Place 1, from chapter 12 and later. Refer to <code>Turn On The Heat</code> to learn more.\
+**King Ghost**: Found in Hidden Place 3. Refer to <code>Royal Wraith</code> to learn more.\
+**Troll Skeleton**: Found in Hidden Place 5. Refer to <code>Trololololol</code> to learn more.\
+**Blue Skeleton**: Found in Hidden Place 6. Refer to <code>Spooky Azure Skeletons</code> to learn more.\
+**Halloween Ghost**: Found in Hidden Place 8. Refer to <code>Spooktacular Phantom</code> to learn more.\
+**Orc Skeleton**: Found in Hidden Place 10, from chapter 14 and later. Refer to <code>Tyrant Frame</code> to learn more.\
+**King Skeleton**: Found in Hidden Place 16. Refer to <code>Dazzling Arthropod</code> to learn more.\
+**Trick and Treat**: Found in Hidden Place 17. Refer to <code>Ghostrick Or Treat</code> to learn more.
 
 Getting all the figurines will earn you Infininite Red Souls! This power-up will not make any achievement unobtainable, so it can be used to make certain parts easier if so desired.
 
@@ -1481,11 +1478,9 @@ Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
 ```
 `COMPLETION` `CHALLENGE`
 
-We just need to make it to the end of each chapter the fastes way possible. For this reason it is suggested to first be done with everything or at least beat the game once first.
+It is suggested to first be done with everything else, or at least beat the game once. That way we'll get some familiarity with the game and get an idea on how to progress.
 
-To give an idea, the exact requirement for every time rank S all additioned together will put us 30 minutes away from the 3 hour mark. Making it to the end by giving absolutely no care about anything, except for the Soul Robber upgrades that we for surely will need, will give us a much lower time than this. 
-
-**Tips**
+Here are some suggestions to take into consideration before tackling this playthough.
 * It is suggested to play in Easy Mode to make the enemies less tanky to save time.
 * The timer moves through cutscenes and pause menu, but also during the the ranking screen and the save game screen. Skip through every cutscene, and make sure to not spend too much time on any screen.
 * Do consider saving after finishing a chapter. Not only to save the progress made, to also in case you need a re-do with certain chapters for a better time.
@@ -1494,7 +1489,7 @@ To give an idea, the exact requirement for every time rank S all additioned toge
 * It's not necessary to go after the Crystal Skulls, but you may go after some fast and easy to get Golden Pumpkins to extend your life bar.
 * Consider getting some S ranks in each chapter. They'll reward you 1000 Souls which does make getting upgrades quicker and eliminates the need to go out of your way looking for Souls. Playing in Easy Mode decreases the prices for all the items in the Witches' Shop so you won't even need that many Souls.
 
-Below is a mini-guide on how to get through the chapters, with some other tips to finish them faster.
+Below is a mini-guide on how to get through the chapters with some tips sprinkled here and there.
 
 ***
 
@@ -1506,15 +1501,15 @@ Fight the 3 skeletons, and the next 3 skeletons that appear right after.
 
 When Oogie Boogie begins his announcement, the skeletons will continue to spawn endlessly until he starts laughing. When he laughs, immediately defeat the skeletons.
 
-After the cutscene, move immediately in the **Town Hall** to start the boss fight.
+After the cutscene, move immediately in the Town Hall to start the boss fight.
 
 **[Town Square - Town Hall]**
 
 **[Boss Fight - Shadow Oogie]**
 
-Refer to <code>This is Oogie-Town</code> for more information on the boss fight.
+Use your Blue Souls and hit him constantly with your Soul Robber. You should then be able to finish him off with a dance.
 
-After the fight, you'll get the Halloween Door.
+After the fight, you'll get the **Halloween Door**.
 
 </details>
 
@@ -1524,15 +1519,15 @@ After the fight, you'll get the Halloween Door.
 
 **[Town Square - Town Hall]**
 
-Talk to Corpse Kid. Then move to the **Witches' Shop**, ignoring the enemies.
+Talk to Corpse Kid. Then move to the Witches' Shop north from where you are. Enter the door to the shop ignoring the enemies.
 
 **[Town Square - Witches' Shop]**
 
-It's unlikely that you'll have anything to buy, so after the cutscene, immediately exit.
+It's unlikely that you'll have anything to buy so after the cutscene immediately exit.
 
 **[Town Square - Town Hall]**
 
-Run back to the fountain and wait for Corpse Kid to appear. Talk to Corpse Kid again, then enter the manhole
+Run back to the fountain and talk to Corpse Kid again. Then interact with the manhole, entering Hidden Place 1.
 
 **[Town Square - Hidden Place 1]**
 
@@ -1540,7 +1535,7 @@ Defeat all the enemies in here. Talk Clown, then exit the area by jumping to the
 
 **[Town Square - Town Hall]**
 
-Go to the gate and defeat all the enemies that should appear. Theirs numbers are actually random here, but it's not actually relevant.
+Go to the gate and defeat all the enemies that should appear. Their numbers are actually random here, but it's not actually relevant.
 
 After defeating all the enemies, talk with Clown.
 
@@ -1616,7 +1611,7 @@ You need to get to the building on the other side of the graveyard, the one full
 
 While going there, you'll be stopped by Lock and his skeletons. Faster way to deal with him is to Taunt him immediately and Soul Spin in his face. Then immediately Taunt and repeat until he's defeated.
 
-Go inside the building and follow the path to the boss. Refer to **Damcel in Distress** for more information on how to beat it.
+Go inside the building and follow the path to the boss. Refer to <code>Damcel in Distress<\code> for learn how to defeat it.
 </details>
 
 ***
@@ -1727,7 +1722,7 @@ Here's a map to give an idea of their location
 ![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231114173942](https://github.com/RetroAchievements/guides/assets/133049176/36862d9a-65c5-4845-86d2-a570b2b593d3)
 
 One is right outside their house, where you open the gate with Clown.\
-The second and third one are close by each other in the Towers of Torment. Going to the left of the Vampires' House past the gate, go through the path and take the left when possible. Proceed, and then take the stairs and jump onto the spiral. Here you'll find one of the bats in a very tricky area. The other one is found on the roof, by taking a spiral located to the left of this area.\
+The second and the third one are close by each other in the Towers of Torment. Going to the left of the Vampires' House past the gate, go through the path and take the left when possible. Proceed, and then take the stairs and jump onto the spiral. Here you'll find one of the bats in a very tricky area. The other one is found on the roof, by taking a spiral located to the left of this area.\
 The fourth one is found in the Hidden Place 10. When you reach the Sewer Slums, go to where the wooden blockade are located and destroy them with the Pumpkin King Costume. Then go upstairs, defeat the King Skeletons and take the spiral to the north to be transported right in front of the entrance of the Hidden Place.
 
 The vampires can be attracted with your presents to make it much more easier to catch them. You still need to at least approach them a little to be attracted by the present, and they'll also attract the other bats that we're not interested.
@@ -1744,7 +1739,7 @@ Chapter 14 - The Mayor's Madhouse
 
 <details><summary>Chapter 15 - Rooftop Rumble</summary>
 
-Refer to **Trick or Treat!** for more about the boss fight.
+Use Blue Soul when you block the tub with a beartrap for more damage.
 
 You can defeat all three of them really fast if you can constantly hit them with Fire Blasts. If you do it like this, you won't even need to dance.
 
@@ -1758,9 +1753,7 @@ Chapter 16 - The Grisly Gauntlet
 
 <details><summary>Chapter 17 - Casino Clash</summary>
 
-Refer to **Boogeyman's Wager** for more about the boss fight.
-
-There's nothing much to do to speed this fight up. Outside of maybe detroying the gunners so they shoot Oogie and to use a Blue Soul when it is possible to hit him, the fight will go just as normally it would.
+There's nothing much to do to speed this fight up. Outside of maybe detroying the gunners so they shoot Oogie and to use Blue Souls when it is possible to hit him after stunning him with the exploding dices, the fight will go just as normal.
 
 </details>
 
@@ -1784,9 +1777,9 @@ Chapter 18 - Spiral Hill
 
 **[Boss Fight - Fire King Skeleton and Ice King Skeletons]**
 
-Refer to **A Dance of Fire and Ice** for more about this fight.
+Fire Blast the Ice King Skeleton to take it out quickly.
 
-Remember to use Blue Soul and Soul Spin to take out the Fire King Skeleton faster.
+Get behind the Fire King Skeleton, use a Blue Soul and hit it from behind.
 
 </details>
 
@@ -1816,6 +1809,8 @@ Move to the gate that has opened to the northern part of the area, near the caro
 
 Conserve Blue Souls here for Mega Oogie. Instead use your Red Souls to destroy the train quickly. Better to use the normal attack with square to do more constant damage to it.
 
+Throw presents at the hidden enemies to turn them normal and make them less scary to be around.
+
 </details>
 
 ***
@@ -1830,12 +1825,12 @@ When you're ready, move to the hill to the left to start the boss fight against 
 
 **[Boss Fight - Mega Oogie, part 1]**
 
-Fore more information about the boss, refer to both <code>You're King of Nothing!</code> and <code>A Filthy Finale</code>.
-
-It's faster to make him fall by hitting his feet and wack his head in Easy Mode. Use a Blue Soul and hit his head with Soul Spins for massive damage.
+It's faster to make him fall by hitting his feet and wack his head in Easy Mode. Use a Blue Soul and hit his head with Soul Spins for massive damage. Repeat this until defeated.
 
 **[Boss Fight - Mega Oogie, part 2]**
 
-Nothing much to say for the dance part, but remember that you'll take damage if you miss notes during the dance, and you wouldn't want to die right at the end!
+This dance will actually damage you if you miss notes so be aware of that if you have a low amount of maximum health.
+
+Other than this, nothing much to say here.
 
 </details>
