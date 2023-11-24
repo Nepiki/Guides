@@ -297,11 +297,12 @@ Get an "A" or higher in all Ranks in Chapter 1
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 8:00
-* Combo: 120
-* Damage: 4
-* !-Count: 30
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 10:00 | 10:00 | 8:00
+**Combo** | 24 | 30 | 120
+**Damage** | 4 | 4 | 4
+**!-Count** | 24 | 30 | 30
 
 **Time**\
 If you don't waste any time going anywhere else besides the Town Hall after the initial fight and use some Blue Souls against Shadow Oogie you'll make it in time for sure.
@@ -325,11 +326,12 @@ Get an "A" or higher in all Ranks in Chapter 2
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 5:00
-* Combo: 100
-* Damage: 4
-* !-Count: 5
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 6:00 | 6:00 | 5:00
+**Combo** | 16 | 20 | 100
+**Damage** | 4 | 4 | 4
+**!-Count** | 5 | 5 | 5
 
 **Time**\
 This chapter has only 2 obbligatory fights that you have to do to progress: inside the manhole (Hidden Place 1), and in front of the main gate. Everything else can be skipped for a faster time. 
@@ -353,11 +355,12 @@ Get an "A" or higher in all Ranks in Chapter 3
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 11:00
-* Combo: 280
-* Damage: 4
-* !-Count: 30
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 15:00 | 15:00 | 11:00
+**Combo** | 32 | 40 | 280
+**Damage** | 4 | 4 | 4
+**!-Count** | 24 | 30 | 30
 
 **Time**\
 Soul Cycle the Lock's fight to finish it faster. Remember to replenish its duration with Blue Souls before it becomes orange.
@@ -382,11 +385,12 @@ Get an "A" or higher in all Ranks in Chapter 4
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 7:00
-* Combo: 100
-* Damage: 8
-* !-Count: 25
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 12:00 | 12:00 | 7:00
+**Combo** | 40 | 50 | 100
+**Damage** | 4 | 4 | 8
+**!-Count** | 20 | 25 | 25
 
 **Time**\
 Exactly like Chapter 3. Only you can close the tombstones faster with a Soul Robber level higher than 1 to save time and not have the risk of accidentally dropping them.
@@ -425,11 +429,12 @@ Get an "A" or higher in all Ranks in Chapter 5
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 9:00
-* Combo: 59
-* Damage: 8
-* !-Count: 59
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 10:00 | 10:00 | 9:00
+**Combo** | 47 | 59 | 59
+**Damage** | 14 | 12 | 8
+**!-Count** | 47 | 59 | 59
 
 **Time**\
 You just need to go straight to the building full of spiderwebs and into the boss fight. On your way, a Lock boss fight will start. Best way to deal with him is to go to him, taunt him, and Soul Spin him, and then repeat. If done correctly, you'll see his health drop rapidly.
@@ -452,11 +457,12 @@ Get an "A" or higher in all Ranks in Chapter 6
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 10:00
-* Combo: 140
-* Damage: 8
-* !-Count: 30
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 11:00 | 11:00 | 10:00
+**Combo** | 43 | 54 | 140
+**Damage** | 4 | 4 | 8
+**!-Count** | 24 | 30 | 30
 
 **Time**\
 When entering the Doctor's Lab for the first time, you have to defeat the enemies and the guillotine to the right to get to the spiral. The Tricks and Treats are annoying to deal with because of their traps. Make sure to not be hit by the traps to now waste time.
@@ -481,11 +487,12 @@ Get an "A" or higher in all Ranks in Chapter 7
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 6:00
-* Combo: 90
-* Damage: 8
-* !-Count: 10
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 9:00 | 9:00 | 6:00
+**Combo** | 8 | 10 | 90
+**Damage** | 4 | 4 | 8
+**!-Count** | 8 | 10 | 10
 
 **Time**\
 Do not go for the secret chapter, or else it'll be impossible to get an S rank in time.\
@@ -516,11 +523,12 @@ Get an "A" or higher in all Ranks in Chapter 8
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 3:00
-* Combo: 54
-* Damage: 8
-* !-Count: 54
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 5:00 | 5:00 | 3:00
+**Combo** | 43 | 54 | 54
+**Damage** | 4 | 4 | 8
+**!-Count** | 43 | 54 | 54
 
 **Time**\
 Fun fact: this is very hard to do if you are trying to go for an overral S rank in one go.\
@@ -545,11 +553,26 @@ Get an "A" or higher in all Ranks in Chapter 9
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 7:00
-* Combo: 200
-* Damage: 8
-* !-Count: 15
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 8:00 | 8:00 | 7:00
+**Combo** | 24 | 30 | 200
+**Damage** | 4 | 4 | 8
+**!-Count** | 12 | 15 | 15
+
+**Time**
+You have to go from the Nightmare Lab to the Pumpkin Patch, right at the left of the main gate of Halloween Town. Though you may have some time to go to the Witches' Shop to get some upgrades here.
+
+When you progress through the Pumpkin Patch, an announcement from Oogie shoul start. Normally continuing through this area where the announcement starts will make enemies appear, which includes Ogres and Phantoms. You can simply stand still and let the announcement finish to make no enemies or only some enemies appear to save some time.
+
+**Combo**
+You can either use Igor's Room, right to the left of the Nightmare Lab, or use Hidden Place 2, on top of the Town Hall reachable using a spiral, to get to the needed amount of combos. Though you may as well use igor's Room since you start right in the Nightmare Lab in this chapter.
+
+**Damage**
+This chapter will introduce the hidden enemies, right at the entrance of the Pumpkin Patch. You can try to dodge in time of their attack when they are revealed, though it is not so easy to get it right. It is more safe to just throw a Re-possession present at them to reveal them, but to also revert them to normal so that they won't do any cheap shots.
+
+**!-Count**
+Igor's Room is a good option, as is the entrance of the Pumpkin Patch by throwing Re-possession presents at the hidden enemies, since you get !-points with them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248685.png">
 
@@ -559,11 +582,18 @@ Get an "A" or higher in all Ranks in Chapter 10
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 4:00
-* Combo: 90
-* Damage: 8
-* !-Count: 30
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 5:00 | 5:00 | 4:00
+**Combo** | 24 | 30 | 90
+**Damage** | 4 | 4 | 8
+**!-Count** | 24 | 30 | 30
+
+**Time**
+For being a maze, this chapter is very straightforward. Just hit the switches and proceed. One switch will require you to jump on a spiral to get through. After hitting that switch, jump onto the spiral to get back where you were and run all the way east until you get past a bridge to finish the chapter.
+
+**Combo**
+I'm afraid you either have to use the Hidden Place 9, behind the waterfall (it has Ghosts, so it might be a bit annoying), or the Trolls that appear right in front of the bridge that ends the chapter. All else fails, you can go back to Halloween Town and get to Hidden Place 2 to get the neede combos.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248686.png">
 
