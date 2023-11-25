@@ -82,17 +82,31 @@ It is suggested to start the game straight to Nightmare Mode to make the rest of
 
 [**Rank S**](#rank-s)
 
-As you would expect, this game features a ranking system.
+This game features a ranking system based on your performance in a chapter. When you beat a level, the game will assign you a rank in each each of the four categories, then give you an overall ranking of the chapter. The game will also reward you souls based on what overall ranking you earned, up to 1000 souls.
 
-More about how the ranking system works will be explained in The Seven Holidays King, and the A rank achievements will have written the requirements for S rank and some tips to get them. As long as you are at least close to the S rank requirements, you'll get the A ranks anyway.
+The game will rank a chapter based on 4 categories:\
+**Time**: how much time you spent to beat the level.\
+**Combo**: Highest combo number reached.\
+**Damage**: Amount of hits taken (in Nightmare Mode, you get 2 points for each hit rather than 1).\
+**!-Count**: Earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons right at the center of the indicator.
+
+To earn the highest rank, S rank, you need to of course earn the highest amount needed by each of these categories. The amount depends on the chapter itself and the difficulty selected, with Nightmare Mode being the hardest ones to reach.
+
+The game will keep track of the highest recorded ranks, and will assign you an overall rank of the chapter based on these recorded ranks, independently by what overall rank you got at chapter completion. This means that you can enter into a chapter and earn just one S rank, then earn the remaining S ranks at your pace, and when you got all the S ranks in said chapter the game will assign you an S rank for that chapter. It is possible to get all the S ranks in one go if you wish, and this is just something to keep in mind if some of these result too difficult to accomplish.
+
+You're also needed to complete the 2 secret chapters in the game to beat the game with S rank. These secret chapters can be only in specific chapters, and do not have any ranking attached to them. Bear in mind however that you're still technically in the normal chapter while going for these secret chapters, and any time wasted or hits taken will add up to the ranking.
+
+The achievement <code>The Seven Holidays King</code> requires beating the game with both Nightmare Mode and S rank. 
 
 ***
 
 [**Damageless, Full Combo**](#damageless-full-combo)
 
-Everything regarding defeating bosses without any damage taken will be expanded with different tips to ease the challenges a bit. Nightmare Mode just makes it requiring more time to take them down with their increased health, so no behaviour changes fortunately.
+Everything regarding defeating bosses without taking any damage or making full combos during Dance Mode will be treated here. These achievements can only be done in Nightmare Mode
 
-Full Combos during the dance segments are also a part of this section. There's nothing much to say except for what to expect from them, but the buttons that are to be pressed are always the same, so at least the exact sequence for each dance will be written. Also, missing a button won't fail the damageless achievements if you were wondering.
+Nightmare Mode doesn't change the behaviour of the bosses, but it does make them more tanky.
+
+Dance Mode actually receives a noticeable change in Nightmare Mode: the indicator in which you have to press the buttons becomes smaller, requiring more precise inputs. On top of this,
 
 ***
 
@@ -302,20 +316,7 @@ secret chapters on Nightmare Mode
 ```
 `COMPLETION`
 
-When you beat a level, the game will rank you based on different categories, and then give you a total rank of the chapter.
 
-**Time**: how much time you spent to beat the level.\
-**Combo**: Highest combo number reached.\
-**Damage**: Amount of hits taken (in Nightmare Mode, you get 2 points for each hit rather than 1).\
-**!-Count**: Earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons right at the center of the indicator.
-
-The overall ranking in a chapter is determined by the highest ranking in each of the categories. It is not based on just the final ranking you achieve at the end of the chapter through the ranking screen, but rather the highest recorded rank reached in any category. Say you got S ranks in Combo, Damage, and !-Count, but D in Time; Replaying that chapter and earning S rank in Time will add it up to the other S ranks you already got to give you an overrall S rank in that chapter.\
-An overall rank S of the game also requires completing both the Secret Chapters. These have no rank requirements themselves, they just require to be completed.
-
-The achievement also requires to earn these S ranks on Nightmare Mode. The requirements for the S rank differ based on the difficulty, with Nightmare Mode being the most strict one.\
-These requirements and how to reach them will be written in each of the A rank achievements
-
-Be aware that if you are going for the Secret Chapters, any hits taken or any amount of time spent in these secret chapters will count for the rankings in the main chapters, as you're technically still inside it. If you're going for the Secret Chapters while also going for S ranks, know that at least the Time rank is almost impossible to do in both chapters.
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/d2608acb-a8af-42c8-b742-fa003c8100c9" width="600" height="450">
