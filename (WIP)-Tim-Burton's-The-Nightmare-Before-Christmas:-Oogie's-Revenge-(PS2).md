@@ -13,29 +13,76 @@ Credits:\
 The defunct site Pumpkin Patch, containing many info about the game.\
 [bullseye strider](https://www.youtube.com/@hiryualastor), for its walktrough, showcasing some useful strategies and tricks.
 
-# 1) Introduction
+# Introduction
 
 Welcome to the RA guide for **Tim Burton's The Nightmare Before Christmas: Oogie's Revenge** for the PS2!
 
 The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes itself as a sequel to the 1993 movie **Tim Burton's The Nightmare Before Christmas**. The game strikes some similiarity to **Devil May Cry**, like the combat, the exploration and the rankings, all the while it keeps true to the artistic style of the film. It also features re-arranged music from the film, the is used either in the levels and combat, or during the dances agains the bosses to make them feel like duets. The game was also released alongside another game, developed by Tose, that features a story that takes place before the events of the film, **Tim Burton's The Nightmare Before Christmas: The Pumpkin King**.
 
-The game takes place some time after the events of the film. Jack yet again gets bored of Halloween. He goes to Doctor Finkelstein for advice in how to improve the next halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip. Jack than decides to leave Halloween Town in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge, taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". Sally manages to send a letter to Jack about what was going on, so he huries back to his town to fix the mess.
+The game takes place some time after the events of the film. Jack, yet again, gets bored of Halloween and wants something new, something scarier for the next one. He goes to Doctor Finkelstein for advice in how to improve Halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip, even capable of grabbing stuff with ease. Jack decides to leave Halloween Town with the Doctor's gift in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge. Taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". When Jack comes back to his city, he notices that something was off in his town, and that the new inhabitants are not exactly friendly towards him.
 
 ⚠️ The only supported version of the game is the European version. When playing this version, the game will ask you at what refresh rate, or video mode, to play the game. Only 60hz is supported by this achievement set, so please be sure to select this option to be able to earn achievements
 
-# 2) Overview
+# General Info
+
+## Controls
+
+**Normal Controls**
+
+![STICK L](https://github.com/RetroAchievements/guides/assets/133049176/b8ba627a-ceb8-4901-9c49-375d02691bd0): Move Jack\
+![UP](https://github.com/RetroAchievements/guides/assets/133049176/d6212521-ea50-4ecc-920a-76faf7e7760a) / ![RIGHT](https://github.com/RetroAchievements/guides/assets/133049176/7788dcc2-c397-461c-837e-1ae2120af3d2) / ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/7ea76aac-cd2a-4076-8437-f49e99dc0fae) / ![LEFT](https://github.com/RetroAchievements/guides/assets/133049176/e181fdc7-e47f-45f9-b750-ae154fa7e95e) : Taunt \ Move cursor\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/98f8ef87-9020-4138-af08-532a1461c244): Dodge\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/98f8ef87-9020-4138-af08-532a1461c244) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/98f8ef87-9020-4138-af08-532a1461c244) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/98f8ef87-9020-4138-af08-532a1461c244): Jump\
+![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/446552a0-77b6-4568-8abe-b8f34be63605): Interact / Confirm\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56): Cancel\
+![L1](https://github.com/RetroAchievements/guides/assets/133049176/1a49e409-5d18-42d8-ad96-de75ffa7fa26): Change into the Pumpkin King Costume\
+![R1](https://github.com/RetroAchievements/guides/assets/133049176/79ec18d4-154e-47d8-b6a0-1f944cd27943): Change into Santa Jack Costume\
+![SELECT](https://github.com/RetroAchievements/guides/assets/133049176/7076afcd-fd90-4938-8681-f026637e6185): Open map of the current area\
+![START](https://github.com/RetroAchievements/guides/assets/133049176/54e3b0c9-94f3-49dc-9ec6-246c3e4f1ab6): Open pause menu
+
+**Soul Robber**
+
+![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Normal attack (number of attacks based on Lvl of Soul Robber, up to 4)\
+![STICK L](https://github.com/RetroAchievements/guides/assets/133049176/8d28d822-a9b6-43fa-bd77-590e766aeb4e) (full circle motion) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Soul Spin\
+![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) (hold): Empowered normal attack / Empowered Soul Spin\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355): Grab enemies\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Throw grabbed enemies\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355) (repeatedly): Soul Slam\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355) (hold): Soul Cycle\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355) (when pointing at a spiral): Soul Jump
+
+**Pumpkin King**
+
+![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) (can hold): Flame Thrower (costs 0.1 Red Soul)\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355): Fire Bomb (costs 1 Red Soul)
+
+**Santa Jack**
+
+![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Throw present (can be thrown further based on how long the button is held)\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355): Change type of present\
+![L2](https://github.com/RetroAchievements/guides/assets/133049176/39b478fc-1fb3-4c15-8335-5f143d142941): Spring present
+Re-possession Present: Turns enemies to a normal state\
+Scared Stiff: Binds enemies in place for some time\
+Cold Front: Deals damage and freezes enemies\
+Pumpkin Shield (available only in Easy Mode): Temporarily makes Jack invincible
+
+## Tips
+
+* 
+
+# Overview
 
 [**Progression**](#progression)
 
-These can't be missed and will be naturally unlocked by just playing through the game. While doing these, you should also go for the Miscellaneous achievements, as this is the best opportunity to get them out of the way and to also get ready for the rest of the set.
+These can be naturally earned by just playing through the game to completion.
 
-Most importantly, you can decide to start on Nightmare Mode, the highest difficulty in the game. Despite the increse in difficulty, it is still manageable enough to get through the game. And besides, all of the challenge achievements will require this difficulty anyway.
+It is suggested to start the game straight to Nightmare Mode to make the rest of the challenge achievements available to be unlocked, as they require this difficulty to be selected.
 
 ***
 
 [**Rank S**](#rank-s)
 
-Most of the ranking achievements are about the A rank, as that's the requirement to be rewarded a figurine. Getting A rank is not that difficult, but getting S rank, especially on Nightmare Mode, does require you to go out of your way to reach their requirements. It needs to be done on Nightmare Mode for the The Seven Holidays King achievement.
+As you would expect, this game features a ranking system.
 
 More about how the ranking system works will be explained in The Seven Holidays King, and the A rank achievements will have written the requirements for S rank and some tips to get them. As long as you are at least close to the S rank requirements, you'll get the A ranks anyway.
 
@@ -66,23 +113,7 @@ Easy Mode does have one item that is only available in this difficulty; the Pump
 This final part will be entirely dedicated to the speedrun achievement, **The Speedrun Before Christmas**.\
 A mini-walktrough on what to do in each chapters will be written for each chapter to indicate what is exactly needed to finish a chapter, or to show a faster way to finish them. Technically speaking, if you get S rank Time, you should be fine anyway.
 
-# 3) Tips
-
-**Combos** - The most reliable way to increase your combo counter is to use Soul Spin. It does less damage and doesn't push enemies (as long as its not empowered), and it can reliably stagger enemies when done in quick succession to make it safe to use. Another idea is to taunt the enemies when they're low health to make them go into Oogie Mode, which will replenish their health and make them more durable for more hits.
-
-**Dances** - You can earn !-points during the dances, but make sure that the buttons are pressed right at the center of the indicator. When done correctly, the game will mark them as "Good".
-
-**Blue Souls** - Not only Blue Souls increase the damage you deal with Soul Robber, but it also extend the durability of your grabs, especially for Soul Cycle.
-
-**Pumpkin King Costume** - While the Pumpkin King Costume has a very powerful attack, it is also used to progress through the levels. Remember to preserve some Red Souls so you don't get stuck.
-
-**Santa Jack Costume** - Of the presents you can throw with the Santa Jack Costume, Scared Stiff and Re-Possession are the most useful. Re-Possession can turn enemies back to normal, and Scared Stiff lock enemies in place, especially effective against the Halloween Ghosts and King Ghosts that are hidden.
-
-**Dodge Extension** - The Dodge has a tiny bit of invincibility that normally requires to be timed with precision to use. If right after Dodging, you quickly change into any costume, the invicibility from the dodge is followed-up by the invincibility from changing costume, pratically extending it.
-
-**Infinite Red Souls** - Earning all the figurines in the game will reward you with infinite Red Souls for your Pumpkin King Costume. This is not really needed, but it can make some parts in the game easier.
-
-# 4) Walktrough
+# Achievements
 
 ## Progression
 
