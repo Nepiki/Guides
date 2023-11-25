@@ -6,7 +6,7 @@ This section is provided separately from the main guide to show all achievements
 
 Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, and One of a Kind. They will not be included in the order list below because of the rare drops involved in their achievements: 1/64 chance for the applicable item IF an item drops from the monster.
 
-### The Departure ➡ A Heart's Resolve
+### The Departure ➡ A Heart's Resolve (7/130)
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -18,7 +18,7 @@ Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, an
 | Boss | [![Mist dragon](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/109793.png "The Steel and the Mist")](https://retroachievements.org/achievement/108640) | [The Steel and the Mist](https://retroachievements.org/achievement/108640) | Yes |
 | Story | [![Dark knight stands over unconscious girl in meadow](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/110766.png "A Heart's Resolve")](https://retroachievements.org/achievement/108623) | [A Heart's Resolve](https://retroachievements.org/achievement/108623) | No |
 
-### A Heart's Resolve ➡ Scars in the Heart
+### A Heart's Resolve ➡ Scars in the Heart (16/130)
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -32,7 +32,7 @@ Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, an
 | Treasure | [![Damaged castle in flames with two moons in sky overhead](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/110893.png "Treasure Hunter: Damcyan")](https://retroachievements.org/achievement/108689) | [Treasure Hunter: Damcyan](https://retroachievements.org/achievement/108689) | No |
 | Story | [![A party of four people surrounds and mourns a dead woman amid the rubble of a castle](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/110786.png "Scars in the Heart")](https://retroachievements.org/achievement/108624) | [Scars in the Heart](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/110786.png) | No |
 
-### Scars in the Heart ➡ Music for a Moonless Sky
+### Scars in the Heart ➡ Music for a Moonless Sky (23/130)
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -44,7 +44,7 @@ Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, an
 | Boss | [![An insectoid monster with bug eyes and gaping toothy mouth](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/110965.png "Reactionless Jaws")](https://retroachievements.org/achievement/108643) | [Reactionless Jaws](https://retroachievements.org/achievement/108643) | Yes |
 | Story | [![Bard plays their harp amid a starry night sky](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/110973.png "Music for a Moonless Night")](https://retroachievements.org/achievement/108625) | [Music for a Moonless Night](https://retroachievements.org/achievement/108625) | No |
 
-### Music for a Moonless Sky ➡ Hatred Crossroads
+### Music for a Moonless Sky ➡ Hatred Crossroads (34/130)
 
 **Grind alert!** Cockatrices on Mt. Hobs and surrounding overworld areas can very rarely drop their eponymous summon for Rydia.
 
@@ -62,7 +62,7 @@ Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, an
 | Treasure | [![Castle ramparts overlooked by two moons in the sky](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/111428.png "Treasure Hunter: Fabul")](https://retroachievements.org/achievement/108692) | [Treasure Hunter: Fabul](https://retroachievements.org/achievement/108692) | No |
 | Story | [![A dragoon and dark knight face off in battle](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/111408.png "Hatred Crossroads")](https://retroachievements.org/achievement/108626) | [Hatred Crossroads](https://retroachievements.org/achievement/108626) | No |
 
-### Hatred Crossroads ➡ Embrace the Light
+### Hatred Crossroads ➡ Embrace the Light (42/130)
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -75,7 +75,7 @@ Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, an
 | Boss | [![Horned zombie demon](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/113138.png "Malebranche of Earth")](https://retroachievements.org/achievement/108645) | [Malebranche of Earth](https://retroachievements.org/achievement/108645) | Yes |
 | Story | [![Paladin stands tall with sword thrust towards the sky](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/113148.png "Embrace the Light")](https://retroachievements.org/achievement/108627) | [Embrace the Light](https://retroachievements.org/achievement/108627) | No |
 
-### Embrace the Light ➡ Wings of the Enterprise
+### Embrace the Light ➡ Wings of the Enterprise (48/130)
 
 **Grind alert!** You can grind Spirits and Souls at the base of Mt. Ordeals for the Cursed Ring. See the Miscellaneous section below for the strategy. I did it here because of the need to level Cecil up after his class change.
 
@@ -88,7 +88,7 @@ Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, an
 | Boss | [![Turtle demon surrounded by raging waters](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/113433.png "Malebranche of Water")](https://retroachievements.org/achievement/108647) | [Malebranche of Water](https://retroachievements.org/achievement/108647) | Yes |
 | Story | [![An airship flies over the world overlooked by two moons in the sky](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/114591.png "Wings of the Enterprise")](https://retroachievements.org/achievement/108628) | [Wings of the Enterprise](https://retroachievements.org/achievement/108628) | No |
 
-### Wings of the Enterprise ➡ Partings and Reunions
+### Wings of the Enterprise ➡ Partings and Reunions (71/130)
 
 Things really open up now that an airship is in your possession!
 
@@ -120,7 +120,7 @@ Things really open up now that an airship is in your possession!
 | Boss | [![Woman with long hair wrapped around her like a whirlwind](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117137.png "Malebranche of Wind")](https://retroachievements.org/achievement/108650) | [Malebranche of Wind](https://retroachievements.org/achievement/108650) | Yes |
 | Story | [![The paladin and white wizard embrace in the presence of the monk, engineer, and dragoon](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117142.png "Partings and Reunions")](https://retroachievements.org/achievement/108629) | [Partings and Reunions](https://retroachievements.org/achievement/108629) | No |
 
-### Partings and Reunions ➡ Savior of Mist
+### Partings and Reunions ➡ Savior of Mist (74/130)
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -128,7 +128,7 @@ Things really open up now that an airship is in your possession!
 | Boss | [![Large and creepy doll with crown and hair in pigtails](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117225.png "Danse Macabre")](https://retroachievements.org/achievement/108651) | [Danse Macabre](https://retroachievements.org/achievement/108651) | Yes |
 | Story | [![A summoner stands among metal pillars](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117228.png "Savior of Mist")](https://retroachievements.org/achievement/108630) | [Savior of Mist](https://retroachievements.org/achievement/108630) | No |
 
-### Savior of Mist ➡ Pride of Fabul
+### Savior of Mist ➡ Pride of Fabul (84/130)
 
 **Grind alert!** Balloons in the Tower of Babil can very rarely drop their eponymous summon. You can also get it from them and the Grenades on the Moon later, if you'd rather wait, since the drop rate is low.
 
@@ -145,7 +145,7 @@ Things really open up now that an airship is in your possession!
 | Boss | [![A small person pilots a giant humanoid robot](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117412.png "Clockwork Destruction")](https://retroachievements.org/achievement/108652) | [Clockwork Destruction](https://retroachievements.org/achievement/108652) | Yes |
 | Story | [![Monk and paladin face off](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117423.png "Pride of Fabul")](https://retroachievements.org/achievement/108631) | [Pride of Fabul](https://retroachievements.org/achievement/108631) | No |
 
-### Pride of Fabul ➡ Forever Loved
+### Pride of Fabul ➡ Forever Loved (88/130)
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -154,7 +154,7 @@ Things really open up now that an airship is in your possession!
 | Treasure | [![The top of a tall tower reaching for the heavens amid a mountain range](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117642.png "Treasure Hunter: Tower of Babil II")](https://retroachievements.org/achievement/108707) | [Treasure Hunter: Tower of Babil II](https://retroachievements.org/achievement/108707) | Yes |
 | Story | [![Ninja stands before king and queen](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117722.png "Forever Loved")](https://retroachievements.org/achievement/108632) | [Forever Loved](https://retroachievements.org/achievement/108632) | No |
 
-### Forever Loved ➡ Mysidian Legend
+### Forever Loved ➡ Mysidian Legend (104/130)
 
 **NOTE:** Elemental Cure is currently broken. It triggers when a FellKnight uses Absorb in the Defender Sword Monster-in-a-Box fight. It should be available to earn when a character has a Cursed Ring with an elemental reducing armor equipped. It isn't too big of a deal that this one achievement out of 130 pops early, given that you still need to grind for a Cursed Ring anyway... 😉
 
@@ -177,7 +177,7 @@ Things really open up now that an airship is in your possession!
 | Command | [![Ninja throwing something](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118166.png "Bull's Eye")](https://retroachievements.org/achievement/108675) | [Bull's Eye](https://retroachievements.org/achievement/108675) | Yes |
 | Story | [![A large spaceship flies over the Earth](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117897.png "Mysidian Legend")](https://retroachievements.org/achievement/108633) | [Mysidian Legend](https://retroachievements.org/achievement/108633) | No |
 
-### Mysidian Legend ➡ To the Dark Depths
+### Mysidian Legend ➡ To the Dark Depths (118/130)
 
 **Grind alert!** If you didn't get the Bomb summon earlier, grinding Balloons and Grenades in the Lunar Path caverns or the Moon overworld may be the next best opportunity.
 
@@ -198,7 +198,7 @@ Things really open up now that an airship is in your possession!
 | Boss | [![Three floating metallic spheres](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118446.png "Fatal Error")](https://retroachievements.org/achievement/108656) | [Fatal Error](https://retroachievements.org/achievement/108656) | Yes |
 | Story | [![A red crystal floating amid crystal spires](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118450.png "To the Dark Depths")](https://retroachievements.org/achievement/108634) | [To the Dark Depths](https://retroachievements.org/achievement/108634) | No |
 
-### To the Dark Depths ➡ Life's Triumph
+### To the Dark Depths ➡ Life's Triumph (127/130)
 
 **Grind alert!** If you don't have the remaining summon items, now is the time to get them. You will also be grinding for Pink Tail(s) in the Lunar Subterrane, and the Cursed Ring from the Souls and Spirits at Mt. Ordeals if you didn't get that earlier.
 
