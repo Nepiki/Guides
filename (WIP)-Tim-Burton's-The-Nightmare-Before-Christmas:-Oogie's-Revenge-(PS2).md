@@ -76,7 +76,7 @@ Pumpkin Shield (available only in Easy Mode): Temporarily makes Jack invincible
 
 These can be naturally earned by just playing through the game to completion.
 
-It is suggested to start the game straight to Nightmare Mode to make the rest of the challenge achievements available to be unlocked, as they require this difficulty to be selected.
+It is suggested to start the game straight to Nightmare Mode to make the challenge achievements available to be unlocked, as they require this difficulty selected.
 
 ***
 
@@ -90,35 +90,31 @@ The game will rank a chapter based on 4 categories:\
 **Damage**: Amount of hits taken (in Nightmare Mode, you get 2 points for each hit rather than 1).\
 **!-Count**: Earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons right at the center of the indicator.
 
-To earn the highest rank, S rank, you need to of course earn the highest amount needed by each of these categories. The amount depends on the chapter itself and the difficulty selected, with Nightmare Mode being the hardest ones to reach.
+To earn the highest rank, S rank, you need to reach their requirements. This requirement changes between chapters and is also based on the difficulty selected, with Nightmare Mode being the hardest. The achievement <code>The Seven Holidays King</code> requires beating the game with both Nightmare Mode and all S ranks earned. For this section, all of the A rank achievements will be used to provide guidance in earning S ranks in their corresponding chapters.
 
 The game will keep track of the highest recorded ranks, and will assign you an overall rank of the chapter based on these recorded ranks, independently by what overall rank you got at chapter completion. This means that you can enter into a chapter and earn just one S rank, then earn the remaining S ranks at your pace, and when you got all the S ranks in said chapter the game will assign you an S rank for that chapter. It is possible to get all the S ranks in one go if you wish, and this is just something to keep in mind if some of these result too difficult to accomplish.
 
 You're also needed to complete the 2 secret chapters in the game to beat the game with S rank. These secret chapters can be only in specific chapters, and do not have any ranking attached to them. Bear in mind however that you're still technically in the normal chapter while going for these secret chapters, and any time wasted or hits taken will add up to the ranking.
 
-The achievement <code>The Seven Holidays King</code> requires beating the game with both Nightmare Mode and S rank. 
-
 ***
 
 [**Damageless, Full Combo**](#damageless-full-combo)
 
-Everything regarding defeating bosses without taking any damage or making full combos during Dance Mode will be treated here. These achievements can only be done in Nightmare Mode
+Everything regarding defeating bosses without taking any damage or making full combos during Dance Mode will be treated here.
 
-Nightmare Mode doesn't change the behaviour of the bosses, but it does make them more tanky.
+While they are already talked about how to defeat them in the Progression achievements, in these achievements will be talked more about how to avoid their attacks. Nightmare Mode will make them more tanky, but their behaviour doesn't change much, if not at all.
 
-Dance Mode actually receives a noticeable change in Nightmare Mode: the indicator in which you have to press the buttons becomes smaller, requiring more precise inputs. On top of this,
+Dance Mode does get a relevant change because of Nightmare Mode: the indicator in which you press the button that'll appear gets smaller, requiring more precise inputs. Outside of this, the songs stay the same.
 
 ***
 
 [**Miscellaneous**](#miscellaneous)
 
-Everything else like Items, Collectibles, Upgrades and Hidden Places, or that doesn't belong anywhere else, will be talked about here.
+Everything else like Items, Collectibles, Upgrades and Hidden Places, or anything that does not belong anywhere else, will be here.
 
-These achievements can be done along with the Progression portion of the set. Anywhere else, like the Speedrun achievement, is not suggested.
+Some of these achievements can be done any time, but others require going further into the game to be able to do them.
 
-Items from the Witches' Shop get a price reduction if playing on Easy Mode. For consistency sake, the prices listed for anything that can be bought in the Witches' Shop will be the prices in Normal Mode and Nightmare Mode, as you're more likely to play with these difficulties anyway.
-
-Easy Mode does have one item that is only available in this difficulty; the Pumpkin Shield. It makes Jack immune to damage, with each level extending this invincibility. This is not counted for **Sandy Claws**, but i'll still list the prices for that item anyway.
+One thing of note is the Pumpkin Shield. This item does not count towards <code>Sandy Claws<\code>, but i'll still write about its prices in the Witches Shop anyway. Also, the prices of each item in the shop actually gets reduced in Easy Mode. The listed prices for the upgrades and items will be the prices found in Normal Mode and Nightmare Mode for consistency.
 
 ***
 
@@ -311,12 +307,11 @@ You're likely to earn this, along with the other ones, if you didn't complete th
 
 ```
 The Seven Holidays King [50]
-Beat the game with an overall "S" ranking on all levels and successfully complete both
-secret chapters on Nightmare Mode
+Beat the game with an overall "S" ranking on all levels and successfully complete both secret chapters on Nightmare Mode
 ```
 `COMPLETION`
 
-
+You can earn this either by proceeding to the end of the credits, or by looking at Jack's journal in his house, to check the rankings in the whole game, when you've earned all the S ranks in the game and complete both secret chapters in Nightmare Mode.
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/d2608acb-a8af-42c8-b742-fa003c8100c9" width="600" height="450">
