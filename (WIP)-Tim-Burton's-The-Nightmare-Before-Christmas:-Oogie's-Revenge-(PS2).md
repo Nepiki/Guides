@@ -35,8 +35,8 @@ The game takes place some time after the events of the film. Jack, yet again, ge
 ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/98f8ef87-9020-4138-af08-532a1461c244) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/98f8ef87-9020-4138-af08-532a1461c244) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/98f8ef87-9020-4138-af08-532a1461c244): Jump\
 ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/446552a0-77b6-4568-8abe-b8f34be63605): Interact / Confirm\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56): Cancel\
-![L1](https://github.com/RetroAchievements/guides/assets/133049176/1a49e409-5d18-42d8-ad96-de75ffa7fa26): Change into the Pumpkin King Costume\
-![R1](https://github.com/RetroAchievements/guides/assets/133049176/79ec18d4-154e-47d8-b6a0-1f944cd27943): Change into Santa Jack Costume\
+![L1](https://github.com/RetroAchievements/guides/assets/133049176/1a49e409-5d18-42d8-ad96-de75ffa7fa26): Change into the Pumpkin King Costume or revert back to Jack\
+![R1](https://github.com/RetroAchievements/guides/assets/133049176/79ec18d4-154e-47d8-b6a0-1f944cd27943): Change into the Santa Jack Costume or revert back to Jack\
 ![SELECT](https://github.com/RetroAchievements/guides/assets/133049176/7076afcd-fd90-4938-8681-f026637e6185): Open map of the current area\
 ![START](https://github.com/RetroAchievements/guides/assets/133049176/54e3b0c9-94f3-49dc-9ec6-246c3e4f1ab6): Open pause menu
 
@@ -68,7 +68,7 @@ Pumpkin Shield (available only in Easy Mode): Temporarily makes Jack invincible
 
 ## Tips
 
-* 
+[To Rewrite haha]
 
 # Overview
 
