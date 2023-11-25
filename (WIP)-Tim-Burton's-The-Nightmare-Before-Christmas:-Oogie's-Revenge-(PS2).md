@@ -100,7 +100,7 @@ Dance Mode does get a relevant change because of Nightmare Mode: the indicator i
 
 ***
 
-[**Miscellaneous**](#miscellaneous)
+### Miscellaneous
 
 Everything else like Items, Collectibles, Upgrades and Hidden Places, or anything that does not belong anywhere else, will be here.
 
