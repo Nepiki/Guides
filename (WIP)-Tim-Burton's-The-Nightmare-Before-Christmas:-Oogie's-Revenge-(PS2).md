@@ -106,7 +106,7 @@ Everything else like Items, Collectibles, Upgrades and Hidden Places, or anythin
 
 Some of these achievements can be done any time, but others require going further into the game to be able to do them.
 
-One thing of note is the Pumpkin Shield. This item does not count towards <code>Sandy Claws<\code>, but i'll still write about its prices in the Witches Shop anyway. Also, the prices of each item in the shop actually gets reduced in Easy Mode. The listed prices for the upgrades and items will be the prices found in Normal Mode and Nightmare Mode for consistency.
+One thing of note is the Pumpkin Shield. This item does not count towards <code>Sandy Claws</code>, but i'll still write about its prices in the Witches Shop anyway. Also, the prices of each item in the shop actually gets reduced in Easy Mode. The listed prices for the upgrades and items will be the prices found in Normal Mode and Nightmare Mode for consistency.
 
 ***
 
