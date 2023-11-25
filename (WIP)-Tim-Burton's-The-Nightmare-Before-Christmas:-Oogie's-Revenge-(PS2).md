@@ -60,7 +60,7 @@ The game takes place some time after the events of the film. Jack, yet again, ge
 
 ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Throw present (can be thrown further based on how long the button is held)\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355): Change type of present\
-![L2](https://github.com/RetroAchievements/guides/assets/133049176/39b478fc-1fb3-4c15-8335-5f143d142941): Spring present
+![L2](https://github.com/RetroAchievements/guides/assets/133049176/39b478fc-1fb3-4c15-8335-5f143d142941): Activate throwed presents, one at a time\
 Re-possession Present: Turns enemies to a normal state\
 Scared Stiff: Binds enemies in place for some time\
 Cold Front: Deals damage and freezes enemies\
@@ -82,19 +82,11 @@ It is suggested to start the game straight to Nightmare Mode to make the challen
 
 [**Rank S**](#rank-s)
 
-This game features a ranking system based on your performance in a chapter. When you beat a level, the game will assign you a rank in each each of the four categories, then give you an overall ranking of the chapter. The game will also reward you souls based on what overall ranking you earned, up to 1000 souls.
+This game features a ranking system based on your performance in a chapter, going from D to the highest rank S. When you beat a level, the game will assign you a ranka in 4 categories, then give you an overall ranking of the chapter based on these rankings. The game will also reward you souls based on what overall ranking you earned, up to 1000 souls for S rank.
 
-The game will rank a chapter based on 4 categories:\
-**Time**: how much time you spent to beat the level.\
-**Combo**: Highest combo number reached.\
-**Damage**: Amount of hits taken (in Nightmare Mode, you get 2 points for each hit rather than 1).\
-**!-Count**: Earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons right at the center of the indicator.
+Their requirements changes in each chapter, and it also depends on what difficulty is selected, with Nightmare Mode having the hardest requirements to reach the highest rank.
 
-To earn the highest rank, S rank, you need to reach their requirements. This requirement changes between chapters and is also based on the difficulty selected, with Nightmare Mode being the hardest. The achievement <code>The Seven Holidays King</code> requires beating the game with both Nightmare Mode and all S ranks earned. For this section, all of the A rank achievements will be used to provide guidance in earning S ranks in their corresponding chapters.
-
-The game will keep track of the highest recorded ranks, and will assign you an overall rank of the chapter based on these recorded ranks, independently by what overall rank you got at chapter completion. This means that you can enter into a chapter and earn just one S rank, then earn the remaining S ranks at your pace, and when you got all the S ranks in said chapter the game will assign you an S rank for that chapter. It is possible to get all the S ranks in one go if you wish, and this is just something to keep in mind if some of these result too difficult to accomplish.
-
-You're also needed to complete the 2 secret chapters in the game to beat the game with S rank. These secret chapters can be only in specific chapters, and do not have any ranking attached to them. Bear in mind however that you're still technically in the normal chapter while going for these secret chapters, and any time wasted or hits taken will add up to the ranking.
+The achievement <code>The Seven Holidays King</code> requires earning all the S ranks in the game while also beating the game in Nightmare Mode. For this section, all of the A rank achievements, normally required to earn figurines in each chapters, will be used to provide guidance in earning S ranks in their corresponding chapters and the exact requirement needed by each difficulty.
 
 ***
 
@@ -311,7 +303,19 @@ Beat the game with an overall "S" ranking on all levels and successfully complet
 ```
 `COMPLETION`
 
-You can earn this either by proceeding to the end of the credits, or by looking at Jack's journal in his house, to check the rankings in the whole game, when you've earned all the S ranks in the game and complete both secret chapters in Nightmare Mode.
+When beating a chapter, the game will assign you 4 ranks based on the following:\
+**Time**: how much time you spent to beat the level.\
+**Combo**: Highest combo number reached.\
+**Damage**: Amount of hits taken (in Nightmare Mode, you get 2 points for each hit rather than 1).\
+**!-Count**: Earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons right at the center of the indicator.
+
+To earn the highest rank, S rank, you need to reach their requirements. The requirements change based on difficulty, with Nightmare Mode being the hardest to reach.
+
+The game will keep track of the highest recorded ranks, and will assign you an overall rank of the chapter based on these recorded ranks, independently by what overall rank you got at chapter completion. This means that you can enter into a chapter and earn just one S rank, then earn the remaining S ranks at your pace, and when you got all the S ranks in said chapter the game will assign you an S rank for that chapter. It is possible to get all the S ranks in one go if you wish, and this is just something to keep in mind if some of these result too difficult to accomplish.
+
+You're also needed to complete the 2 secret chapters in the game to beat the game with S rank. These secret chapters can be only in specific chapters, and do not have any ranking attached to them. Bear in mind however that you're still technically in the normal chapter while going for these secret chapters, and any time wasted or hits taken will add up to the ranking.
+
+When everything is done, all you have to do is either go through the credits at the end of the game, or check the journal in Jack's house, to check the game stats and the rankings in the game, earning you this achievement and the rest.
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/d2608acb-a8af-42c8-b742-fa003c8100c9" width="600" height="450">
