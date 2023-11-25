@@ -72,33 +72,27 @@ Pumpkin Shield (available only in Easy Mode): Temporarily makes Jack invincible
 
 # Overview
 
-[**Progression**](#progression)
+## Progression
 
 These can be naturally earned by just playing through the game to completion.
 
 It is suggested to start the game straight to Nightmare Mode to make the challenge achievements available to be unlocked, as they require this difficulty selected.
 
-***
-
-[**Rank S**](#rank-s)
+## Rank S
 
 This game features a ranking system based on your performance in a chapter, going from D to the highest rank S. When you beat a level, the game will assign you a ranka in 4 categories, then give you an overall ranking of the chapter based on these rankings. The game will also reward you souls based on what overall ranking you earned, up to 1000 souls for S rank.
 
 Their requirements changes in each chapter, and it also depends on what difficulty is selected, with Nightmare Mode having the hardest requirements to reach the highest rank.
 
-The achievement <code>The Seven Holidays King</code> requires earning all the S ranks in the game while also beating the game in Nightmare Mode. For this section, all of the A rank achievements, normally required to earn figurines in each chapters, will be used to provide guidance in earning S ranks in their corresponding chapters and the exact requirement needed by each difficulty.
+The achievement <code>The Seven Holidays King</code> requires earning all the S ranks in the game while also beating the game on Nightmare Mode. For this section, all of the A rank achievements, normally required to earn figurines in each chapters, will be used to provide guidance in earning S ranks in their corresponding chapters and the exact requirement needed by each difficulty.
 
-***
-
-[**Damageless, Full Combo**](#damageless-full-combo)
+## Damageless, Full Combo 
 
 Everything regarding defeating bosses without taking any damage or making full combos during Dance Mode will be treated here.
 
 While they are already talked about how to defeat them in the Progression achievements, in these achievements will be talked more about how to avoid their attacks. Nightmare Mode will make them more tanky, but their behaviour doesn't change much, if not at all.
 
 Dance Mode does get a relevant change because of Nightmare Mode: the indicator in which you press the button that'll appear gets smaller, requiring more precise inputs. Outside of this, the songs stay the same.
-
-***
 
 ### Miscellaneous
 
@@ -108,9 +102,7 @@ Some of these achievements can be done any time, but others require going furthe
 
 One thing of note is the Pumpkin Shield. This item does not count towards <code>Sandy Claws</code>, but i'll still write about its prices in the Witches Shop anyway. Also, the prices of each item in the shop actually gets reduced in Easy Mode. The listed prices for the upgrades and items will be the prices found in Normal Mode and Nightmare Mode for consistency.
 
-***
-
-[**The Speedrun Before Christmas**](#the-speedrun-before-christmas)
+## The Speedrun Before Christmas
 
 This final part will be entirely dedicated to the speedrun achievement, **The Speedrun Before Christmas**.\
 A mini-walktrough on what to do in each chapters will be written for each chapter to indicate what is exactly needed to finish a chapter, or to show a faster way to finish them. Technically speaking, if you get S rank Time, you should be fine anyway.
@@ -306,7 +298,7 @@ Beat the game with an overall "S" ranking on all levels and successfully complet
 When beating a chapter, the game will assign you 4 ranks based on the following:\
 **Time**: how much time you spent to beat the level.\
 **Combo**: Highest combo number reached.\
-**Damage**: Amount of hits taken (in Nightmare Mode, you get 2 points for each hit rather than 1).\
+**Damage**: Amount of hits taken (on Nightmare Mode, you get 2 points for each hit rather than 1).\
 **!-Count**: Earned by taunting, using Santa Jack's presents, and during Dance Mode by pressing the correct buttons right at the center of the indicator.
 
 To earn the highest rank, S rank, you need to reach their requirements. The requirements change based on difficulty, with Nightmare Mode being the hardest to reach.
@@ -937,23 +929,23 @@ Get a Full Combo in the dance against Shadow Oogie on Nightmare Mode
 ```
 `CHALLENGE`
 
-Even in Nightmare Mode, this is a very easy to do a full combo.
+Even on Nightmare Mode, this is a very easy to do a full combo.
 
-```
-◯ X X
-◯ X X
-◯ X △
-◯ X △
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) _I see you're pretty proud of all your_\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) _Booby trapping schemes_\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b)  _But I can say you'll rule this town_\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) _Only in your dreams_
 
-X △ ▢
-◯ △ ▢
-◯ X △
-X △ ▢
+![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) _That's funny, Jack, it was a dream_\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) _But now it's coming true_\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) _'Cause even my mere shadow knows_\
+![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) _Your days as king are through_
 
-◯ X
-X △
-△ ▢
-```
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) $~~~~~~$ _WOW~ (WOW~)_\
+![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) $~~~~~~$ _WOW~ (WOW~)_\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) $~~~~~~$ _WOW~ (WOW~)_
+
+$~~~~~~~~~~~~~~~~~~$ _I'm the Pumpkin King!_
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248705.png">
 
