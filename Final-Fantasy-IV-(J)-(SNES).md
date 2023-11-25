@@ -2,11 +2,13 @@
 
 Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
-v1.1: Added details on how to get both Cosmic Duel AND Shadow Hands achievements in only one battle with Zeromus. A HUGE thanks to [Kencussion](https://retroachievements.org/user/Kencussion) for the strategy!
+- v1.2.0: Added number of achievements contained in the potential order dropdowns so that a user can see at a glance how many achievements they can get between story achievements, if following my guide to the letter. Shoutout to [KhobarKast](https://retroachievements.org/user/KhobarKast) for the brilliant idea!
+- v1.1.1: Added some date details regarding the current relevance of particular numbers that can potentially change in the future so that people can identify quickly if the guide has fallen out of date, such as the number of achievements in the set and the number of ROMs that can be used with the set. Updated links and made use of links where appropriate, rather than writing out details here that are already on the site.
+- v1.1.0: Added details on how to get both Cosmic Duel AND Shadow Hands achievements in only one battle with Zeromus. A HUGE thanks to [Kencussion](https://retroachievements.org/user/Kencussion) for the strategy!
 
-![Box art for the Super Famicom version of Final Fantasy IV](https://retroachievements.org/Images/031517.png)
+<br>![Box art for the Super Famicom version of Final Fantasy IV](https://retroachievements.org/Images/031517.png)
 
-:no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
+<br>:no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
 <br>Spoiler solutions for the boss strategies and a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
 
 Names of characters, places, etc. used in this guide are based off of the [Namingway Edition romhack](https://www.romhacking.net/hacks/2337/), which is an update of the Final Fantasy II (US) ROM to bring it closer to Final Fantasy IV (J). The hack brings the names of people, places, items, etc. are as close as possible to the current naming conventions used by Square Enix in modern re-releases of this game.
@@ -49,7 +51,7 @@ There are two leaderboards currently associated with the game.
 
 ## Achievements
 
-There are a total of 130 achievements, which can be broken down into the following categories:
+There are a currently a total of 130 achievements, which can be broken down into the following categories:
 
 - **Story**: 14 achievements earned naturally through the course of gameplay
 - **Summons**: 4 achievements related to summons for Rydia earned by going to out-of-the-way locations (**1 is missable**)
@@ -66,13 +68,13 @@ There are a total of 130 achievements, which can be broken down into the followi
 
 The following is a breakdown of the order of achievements based on my personal playthrough. Note that your mileage may vary due to the path you may desire to take, such as getting Odin before going to the Moon.
 
-Each section is grouped under story achievements and hidden under a dropdown to avoid spoilers. If you want to see the achievements, **click on the arrow** next to each section to reveal the table. I have call outs to sections where a grind may be appropriate for the three grind achievements. If you want to see the entire thing, [click here!](Final-Fantasy-IV-Roadmap)
+Each section is grouped under story achievements and hidden under a dropdown to avoid spoilers. If you want to see the achievements, **click on the arrow** next to each section to reveal the table. The dropdown names have the number of achievements in the section so that you can see at a glance about how many achievements you should have by the end of a section, if you were to follow my guide to the letter. I have call outs to sections where a grind may be appropriate for the three grind achievements. If you want to see the entire thing, [click here!](Final-Fantasy-IV-Roadmap)
 
 :no_entry: **MINOR SPOILER SECTION** :no_entry:
 <br>The tables only reveal when achievements can be earned and possibly missed. No strategies on earning the achievements are provided here, just the order I earned them in.
 
 <details>
-<summary>The Departure ➡ A Heart's Resolve</summary>
+<summary>The Departure ➡ A Heart's Resolve <b>(7/130)</b></summary>
 
 **Grind alert!** Goblins in the overworld very rarely drop their eponymous summon. The only other Goblin type that drops the summon is in the Lunar Subterrane with the same drop rate.
 
@@ -89,7 +91,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>A Heart's Resolve ➡ Scars in the Heart</summary>
+<summary>A Heart's Resolve ➡ Scars in the Heart <b>(16/130)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -106,7 +108,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>Scars in the Heart ➡ Music for a Moonless Sky</summary>
+<summary>Scars in the Heart ➡ Music for a Moonless Sky <b>(23/130)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -121,7 +123,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>Music for a Moonless Sky ➡ Hatred Crossroads</summary>
+<summary>Music for a Moonless Sky ➡ Hatred Crossroads <b>(34/130)</b></summary>
 
 **Grind alert!** Cockatrices on Mt. Hobs and surrounding overworld areas can very rarely drop their eponymous summon for Rydia.
 
@@ -142,7 +144,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>Hatred Crossroads ➡ Embrace the Light</summary>
+<summary>Hatred Crossroads ➡ Embrace the Light <b>(42/130)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -158,7 +160,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>Embrace the Light ➡ Wings of the Enterprise</summary>
+<summary>Embrace the Light ➡ Wings of the Enterprise <b>(48/130)</b></summary>
 
 **Grind alert!** You can grind Spirits and Souls at the base of Mt. Ordeals for the Cursed Ring. See the Miscellaneous section below for the strategy. I did it here because of the need to level Cecil up after his class change.
 
@@ -174,7 +176,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>Wings of the Enterprise ➡ Partings and Reunions</summary>
+<summary>Wings of the Enterprise ➡ Partings and Reunions <b>(71/130)</b></summary>
 
 Things really open up now that an airship is in your possession!
 
@@ -209,7 +211,7 @@ Things really open up now that an airship is in your possession!
 </details>
 
 <details>
-<summary>Partings and Reunions ➡ Savior of Mist</summary>
+<summary>Partings and Reunions ➡ Savior of Mist <b>(74/130)</b></summary>
 
 A very short section...
 
@@ -222,7 +224,7 @@ A very short section...
 </details>
 
 <details>
-<summary>Savior of Mist ➡ Pride of Fabul</summary>
+<summary>Savior of Mist ➡ Pride of Fabul <b>(84/130)</b></summary>
 
 **Grind alert!** Balloons in the Tower of Babil can very rarely drop their eponymous summon. You can also get it from them and the Grenades on the Moon later, if you'd rather wait, since the drop rate is low.
 
@@ -242,7 +244,7 @@ A very short section...
 </details>
 
 <details>
-<summary>Pride of Fabul ➡ Forever Loved</summary>
+<summary>Pride of Fabul ➡ Forever Loved <b>(88/130)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -254,7 +256,7 @@ A very short section...
 </details>
 
 <details>
-<summary>Forever Loved ➡ Mysidian Legend</summary>
+<summary>Forever Loved ➡ Mysidian Legend <b>(104/130)</b></summary>
 
 **NOTE:** Elemental Cure is broken. It triggers when a FellKnight uses Absorb in the Defender Sword Monster-in-a-Box fight. It should be available to earn when a character has a Cursed Ring with an elemental reducing armor equipped. It isn't too big of a deal that this one achievement out of 130 pops early, given that you still need to grind for a Cursed Ring anyway... 😉
 
@@ -280,7 +282,7 @@ A very short section...
 </details>
 
 <details>
-<summary>Mysidian Legend ➡ To the Dark Depths</summary>
+<summary>Mysidian Legend ➡ To the Dark Depths <b>(118/130)</b></summary>
 
 **Grind alert!** If you didn't get the Bomb summon earlier, grinding Balloons and Grenades in the Lunar Path caverns or the Moon overworld may be the next best opportunity.
 
@@ -304,7 +306,7 @@ A very short section...
 </details>
 
 <details>
-<summary>To the Dark Depths ➡ Life's Triumph</summary>
+<summary>To the Dark Depths ➡ Life's Triumph <b>(127/130)</b></summary>
 
 **Grind alert!** If you don't have the remaining summon items, now is the time to get them. You will also be grinding for Pink Tail(s) in the Lunar Subterrane, and the Cursed Ring from the Souls and Spirits at Mt. Ordeals if you didn't get that earlier.
 
