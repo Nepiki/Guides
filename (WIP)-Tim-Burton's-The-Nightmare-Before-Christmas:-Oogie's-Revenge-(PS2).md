@@ -17,7 +17,7 @@ The defunct site Pumpkin Patch, containing many info about the game.\
 
 Welcome to the RA guide for **Tim Burton's The Nightmare Before Christmas: Oogie's Revenge** for the PS2!
 
-The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes itself as a sequel to the 1993 movie **Tim Burton's The Nightmare Before Christmas**. The game strikes some similiarity to **Devil May Cry**, like the combat, the exploration and the rankings, all the while it keeps true to the artistic style of the film. It also features re-arranged music from the film, the is used either in the levels and combat, or during the dances agains the bosses to make them feel like duets. The game was also released alongside another game, developed by Tose, that features a story that takes place before the events of the film, **Tim Burton's The Nightmare Before Christmas: The Pumpkin King**.
+The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes itself as a sequel to the 1993 movie **Tim Burton's The Nightmare Before Christmas**. The game strikes some similiarity to **Devil May Cry**, like the combat, the exploration and the rankings, all the while it keeps true to the artistic style of the film. It also features re-arranged music from the film, the is used either in the levels and combat, or during Dance Mode against the bosses to make them feel like duets. The game was also released alongside another game, developed by Tose, that features a story that takes place before the events of the film, **Tim Burton's The Nightmare Before Christmas: The Pumpkin King**.
 
 The game takes place some time after the events of the film. Jack, yet again, gets bored of Halloween and wants something new, something scarier for the next one. He goes to Doctor Finkelstein for advice in how to improve Halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip, even capable of grabbing stuff with ease. Jack decides to leave Halloween Town with the Doctor's gift in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge. Taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". When Jack comes back to his city, he notices that something was off in his town, and that the new inhabitants are not exactly friendly towards him.
 
@@ -147,7 +147,7 @@ The spiderwebs won't deal damage, but will bind you to leave you open for any ot
 
 At half health, it'll start to shoot three projectiles at a certain rhythm; it'll shoot 2 in quick succession, then waits a bit and shoots the third. You can try to dodge the 2 projectiles while standing in any of its sides to apply the strategy for them.
 
-If you hit its weakspot, or complete a dance successfully, the spider becomes many tiny versions of itself. Best way to deal with these is to, of course, hit them with Soul Robber. Level 2 Soul Robber is much more effective because of the wide attack that it gets. Charged Soul Spin will also do the trick as it'll also attract enemies to you to hit more of them.
+If you hit its weakspot, or complete a Dance Mode successfully, the spider becomes many tiny versions of itself. Best way to deal with these is to, of course, hit them with Soul Robber. Level 2 Soul Robber is much more effective because of the wide attack that it gets. Charged Soul Spin will also do the trick as it'll also attract enemies to you to hit more of them.
 
 After the fight you'll get the Valentine's Day Door and the key to Dr. Finklestein's Lab.
 
@@ -161,7 +161,7 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 
 The only way to damage him is to throw the pieces of brain at him while his head is open. One way to open his head is to grab him from behind repeatedly until its head opens. Best moment to do this is right when the turrets retreat. Then throw the pieces of brain right in front of him to damage him. If you're not confident with this, collect the notes by destroying its inventions to open its head instead. Trying to open his head will also give a bit of notes too, so try to do this everytime he stops attacking to collect more notes.
 
-He attacks in order, starting with the turrets. The turrets can be avoided by standing a bit further away from them, enough distance so you'll hit them. After the turrets, the blades will appear. They require some time to get ready giving you time to destroy one of them. Dodge them when they're activated while also damaging them to get notes. After the blades the turrets will appear again. At this point, if you destroyed his inventions you should have enough notes for the dance. If not, then he'll do one last attack with the electric pillar that shoots lightning that follows you around. Move around and don't stop until he's done. He'll then restart from the begining.
+He attacks in order, starting with the turrets. The turrets can be avoided by standing a bit further away from them, enough distance so you'll hit them. After the turrets, the blades will appear. They require some time to get ready giving you time to destroy one of them. Dodge them when they're activated while also damaging them to get notes. After the blades the turrets will appear again. At this point, if you destroyed his inventions you should have enough notes to enter Dance Mode. If not, then he'll do one last attack with the electric pillar that shoots lightning that follows you around. Move around and don't stop until he's done. He'll then restart from the begining.
 
 If you've done the Secret Chapter of Chapter 7, you should have the Sleeping Soup on your inventory. If you start the boss fight with this item in your inventory, the doctor will be asleep, letting you open its head for free damage. This won't work on Nightmare Mode however.
 
@@ -187,7 +187,7 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 
 Throw the bear traps and exploding pumpkins at them for some damage. Bear traps will also lock them in place, but they'll still be able to attack you. When the bathtub is destroyed, all three will get off to attack you. Of the 3, Shock is the most dangerous, as she can summon statues that will circle around you blocking your movement an leaving you open for attacks from the other 2. Lock and Barrel fight the same as like their other fights. Lock will try to plunge onto you from high above with a shadow that will tell you when to dodge his attack. Barrel will shoot at you from afar. They'll always announce their attacks so you'll know when they're gonna do them.
 
-One very effective way to defeat them is to first destroy their bathtub right at the edge of the arena so the three of them won't get off far away. Immediately when they get off use Fire Blast from your Pumpkin King costume to blast all three of them at once up high in the air. When they fall down, wait for them to try to get up before using Fire Blast again to hit them. You can do this for as many Red Souls as you can, but remember to collect the notes to finish them off faster. If it fails, try to at least keep Shock occupied while keeping a look for the other two's whereabouts.
+One very effective way to defeat them is to first destroy their bathtub right at the edge of the arena so the three of them won't get off far away. Immediately when they get off use Fire Bomb from your Pumpkin King costume to blast all three of them at once up high in the air. When they fall down, wait for them to try to get up before using Fire Bomb again to hit them. You can do this for as many Red Souls as you can, but remember to collect the notes to finish them off faster. If it fails, try to at least keep Shock occupied while keeping a look for the other two's whereabouts.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248518.png">
 
@@ -215,7 +215,7 @@ Defeat the Fire King and Ice King Skeletons and recover the Christmas Door
 
 Both the Fire King Skeleton and the Ice King Skeleton are basically bigger King Skeletons, so just like them the best way to defeat them is to attack them from behind.
 
-Ice King Skeleton will go down very easily via Fire Blast from the Pumpkin King Costume. Don't use the costume against the Fire King Skeleton or it'll heal from it.
+Ice King Skeleton will go down very easily via Fire Bombs. Don't use them against the Fire King Skeleton or it'll heal from them.
 
 When either of them turns dark, use Santa Jack's Re-Possession present to turn them back to normal.
 
@@ -247,7 +247,7 @@ You can also get on the upper part of the arena and make him come closer to the 
 
 He always makes a sound when ready to attack. If he's close, he'll try to smack you. It requires a precise dodge timing to dodge it, but you can also try to walk away from him if he tries. Another attack is him throwing up objects at you. It's sort of difficult to dodge this one because of how fast they'll fly at you. You'll have more possibility to dodge its attack the further away you're from him. You can also drop down the arena or get in the upper floor to make him stop the attack while he's executing it.
 
-After the fight, you'll transition into a dance sequence. This one is the hardest in the game, and anytime you miss a button you'll lose health. The last parts in the dance are hard to do correctly, so they'll most likely cost you some health. As long as you have enough health to go through this, you'll be fine.
+After the fight, you'll transition into Dance Mode. This one is the hardest in the game, and anytime you miss a button you'll lose health. The last parts of the song are hard to do correctly, so they'll most likely cost you some health. As long as you have enough health to go through this, you'll be fine.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248701.png">
 
@@ -307,7 +307,7 @@ When beating a chapter, the game will assign you 4 ranks based on the following:
 **Time**: how much time you spent to beat the level.\
 **Combo**: Highest combo number reached.\
 **Damage**: Amount of hits taken (in Nightmare Mode, you get 2 points for each hit rather than 1).\
-**!-Count**: Earned by taunting, using Santa Jack's presents, and during dances by pressing the correct buttons right at the center of the indicator.
+**!-Count**: Earned by taunting, using Santa Jack's presents, and during Dance Mode by pressing the correct buttons right at the center of the indicator.
 
 To earn the highest rank, S rank, you need to reach their requirements. The requirements change based on difficulty, with Nightmare Mode being the hardest to reach.
 
@@ -348,7 +348,7 @@ Be careful of the Skeletons in Oogie Mode while going for combo. They get more r
 For the boss fight, refer to <code>Skellinton's Revenge</code> to learn more about it.
 
 **!-Count**\
-You don't need to taunt the enemies to get these. You can get these instead by doing a full combo on the dance with Shadow Oogie.
+You don't need to taunt the enemies to get these. You can get these by entering Dance Mode against Shadow Oogie.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248563.png">
 
@@ -474,12 +474,15 @@ You just need to go straight to the building full of spiderwebs and into the bos
 You can't speed-up the boss fight, so just take any chances as they present themselves.
 
 **Combo**\
-The combo can be done through a perfect combo dance against the Mega Spider. The same applies with !-Count.
+The combo can be done through Dance Mode against the Mega Spider. The same applies with !-Count.
 
 **Damage**\
 You can maybe accidentally expose yourself to get hit by the Skeletons or Lock himself, but before the boss fight that's about it.
 
 As for the boss, try to play it safe and take whatever opportunity you can get to hit its weakspot. Refer to <code>Arachnophobia<\code> to learn more about it.
+
+**!-Count**
+Same as Combo. Complete the Dance Mode perfectly to earn the amount required.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248681.png">
 
@@ -564,12 +567,12 @@ S Rank | Easy | Normal  | Nightmare
 
 **Time**\
 Fun fact: this is very hard to do if you are trying to go for an overral S rank in one go.\
-You can sort of make it in time with just dances, as long as you're fast enough to collect notes.
+You can sort of make it in time with just Dance Mode, as long as you're fast enough to collect notes.
 
 See **Cerebrum Cleanesed** for more information about the boss fight.
 
 **Combo**\
-This can only be done while performing a dance with perfect combo.
+This can only be done while performing a Dance Mode with perfect combo.
 
 **Damage**\
 Learn what each of the contraptions do and the best way to tackle them to defeat Dr Finklestein safely. Refer to <code>My Whip Will Slice You!</code> to learn more about it.
@@ -775,7 +778,7 @@ S Rank requirements:
 
 **Time**\
 They are not that difficult to take down. They're just beefed up King Skeletons after all.\
-Ice King Skeleton can go down easily with a few Fire Blasts, while Fire King you'll have to hit it in the back with Soul Robber.
+Ice King Skeleton can go down easily with a few Fire Bombs, while Fire King you'll have to hit it in the back with Soul Robber.
 
 They will become dark, making them immune to damage, and you'll need to throw a Re-possession present to make them normal. It won't happen that frequently however.
 
@@ -783,7 +786,7 @@ They will become dark, making them immune to damage, and you'll need to throw a 
 It's much better to try this when one of them is defeated. Then for the other that is still alive, just do normal combos at their backs
 
 **Damage**\
-Fire King Skeleton can be kept at bay with Fire Blasts because of him absorbing the damage, while also letting you damage Ice King Skeleton with high damage. You'll unfortunately have to deal with Fire King Skeleton the normal way.
+Fire King Skeleton can be kept at bay with Fire Bombs because of him absorbing the damage, while also letting you damage Ice King Skeleton with high damage. You'll unfortunately have to deal with Fire King Skeleton the normal way.
 
 You could use a Soul Spin powered up with a Blue Soul to deal the most hits on its back. Enough hits will make them drop the axe, meaning they won't be able to act if that happens.
 
@@ -866,14 +869,14 @@ S Rank requirements:
 Use the gas leaks whenever possible. In between getting to the gas leaks, or when they arent' available, you should also try to hit Mega Oogie with the Soul Robber powered with Blue Souls.
 
 **Combo**\
-Only way to reach this is to do a full combo of the dance. And the dance itself is the most difficult in the game, nevermind the fact that you'll need to repeat the first phase should you fail. Refer to <code>It's Payback Time!</code> to learn about the dance sequence.
+Only way to reach this is to do a full combo of Dance Mode. And the song itself is the most difficult in the game, nevermind the fact that you'll need to repeat the first phase should you fail.
 
 **Damage**\
 The best suggestions is to make use of the invincibility with the dodge extended, and to keep a certain distance. Of all his attacks, the one to be careful about is the throw up attack. Refer to <code>A Filthy Finale</code> to learn more about his attacks.
 
 **!-Count**\
-These can only be gotten by doing the dance, after beating Mega Oogie in the first phase.
-You won't need to do the entirety of the song to get this amount.
+These can only be gotten by doing Dance Mode in the second phase of the fight.
+Contrary to combo, you don't need to be perfect for these.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248728.png">
 
@@ -891,7 +894,7 @@ The Deadly Nightshade is found in the hidden palace in the first area of the Old
 The Worm's Wart can be bought by the Witches' Shop. Speak to the Witch to the right to buy one. You need 1000 Souls to buy it. If you don't have them, you could get to any Hidden Place close by to earn some, or defeat the hidden enemies at the entrance of the Pumpkin Patch.
 
 The Frog's Breath requires Red Souls to get access to an area where you'll find it.\
-Right before the stairs that'll take you to the Doctor's Lab, destroy the blocked entrance to the left with the Pumpkin King Costume and enter. Get to the elevetor that you should find on the left side of the area and go up. Bring the lantern to the left closer to the other two, then use a Fire Blast to light all three at the same time to disable the gate. You should see many frogs at the other side of the gate, but you're only interested in the one that emits a green breath. Find one of these frogs and wait for them to be closer. Move slowly to them and grab them with Triangle. If they run away, back off and wait for them to move closer to you. It may take some time to get one.
+Right before the stairs that'll take you to the Doctor's Lab, destroy the blocked entrance to the left with the Pumpkin King Costume and enter. Get to the elevetor that you should find on the left side of the area and go up. Bring the lantern to the left closer to the other two, then use a Fire Bomb to light all three at the same time to disable the gate. You should see many frogs at the other side of the gate, but you're only interested in the one that emits a green breath. Find one of these frogs and wait for them to be closer. Move slowly to them and grab them with Triangle. If they run away, back off and wait for them to move closer to you. It may take some time to get one.
 
 When you get all 3 ingredients, go back to Sally in the graveyard to finish the Secret Chapter and get the Sleeping Soup.
 
@@ -934,7 +937,7 @@ Get a Full Combo in the dance against Shadow Oogie on Nightmare Mode
 ```
 `CHALLENGE`
 
-Even in Nightmare Mode, this is a very easy dance to do a Full Combo.
+Even in Nightmare Mode, this is a very easy to do a full combo.
 
 ```
 ◯ X X
@@ -999,7 +1002,7 @@ Defeat Dr. Finkelstein without taking damage on Nightmare Mode
 
 Don't even think about doing this the quick way. If you don't know what you're doing, you're likely to be shot by the turrets or be hit by the blades.
 
-To be as safe as possible, just build up the notes meter and rely on your dances to have his head open. You of course need to gather as many notes as possible, so don't forget to try to open his head for some notes.
+To be as safe as possible, just build up the notes meter and rely on Dance Mode to have his head open. You of course need to gather as many notes as possible, so don't forget to try to open his head for some notes.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248714.png">
 
@@ -1036,9 +1039,9 @@ Defeat Lock, Shock and Barrel without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Watchout for the exploding pumpkins and hit their bathtub as hard as you can, while making sure you do so right at the edge of the arena so that they'll be close to each other when they get off to be hit easily by a Fire Blast.
+Watchout for the exploding pumpkins and hit their bathtub as hard as you can, while making sure you do so right at the edge of the arena so that they'll be close to each other when they get off to be hit easily by a Fire Bomb.
 
-You need to lock them down with Fire Blast to not have any issues in the second phase. It is much better if you have your Pumpkin King costume to level 3 so you have more Red Souls to use on them. Fire Blast them, wait for them to fall on the ground, then wait for them to get up and Fire Blast them, then repeat. Try to also collect the notes that they'll drop just in case you can't finish them with Fire Blast. To finish them off with the dance, you'd need for them to be at least 1/3 of the health bar.
+You need to lock them down with Fire Bombs to not have any issues in the second phase. It is much better if you have your Pumpkin King costume to level 3 so you have more Red Souls to use on them. Use Fire Bomb, wait for them to fall on the ground, then wait for them to get up and use Fire Bomb, then repeat. Try to also collect the notes that they'll drop to finish them off quicker. You should need to drop them to 1/3 to finish them with a Dance Mode.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248716.png">
 
@@ -1124,7 +1127,7 @@ Defeat the Fire King and Ice King without taking damage on Nightmare Mode
 ```
 `CHALLENGE`
 
-Fire Blast will stop the Fire King Skeleton from doing anything while the Ice King Skeleton gets destroyed making getting rid of it very safe.
+Fire Bomb will stop the Fire King Skeleton from doing anything while the Ice King Skeleton gets destroyed making getting rid of it very safe.
 
 Move behind the Fire King Skeleton when it is safe to do so and hit him with Soul Robber. Could Front MAY be used to let you get behind it, but you may as well pop a Blue Soul to finish it quickly.
 
@@ -1538,7 +1541,7 @@ After the cutscene, move immediately in the Town Hall to start the boss fight.
 
 **[Boss Fight - Shadow Oogie]**
 
-Use your Blue Souls and hit him constantly with your Soul Robber. You should then be able to finish him off with a dance.
+Use your Blue Souls and hit him constantly with your Soul Robber. You should then be able to finish him off with a Dance Mode.
 
 After the fight, you'll get the **Halloween Door**.
 
@@ -1651,7 +1654,7 @@ Go inside the building and follow the path to the boss. Refer to <code>Damcel in
 
 Go straight to Halloween Town and then the to the Doctor's Lab, on the right of the manhole in which you entered back in Chapter 2. Use the key to the door and enter.
 
-Go sout, then east. Defeat all the enemies and than jump onto a spiral you should see in front of the tube. Break the wooden blockade with the Pumpkin King Costume (Fire Blast destroys it faster) and activate the switch behind it. Go on top of the tube to the right to get some souls and to get back to the entrance faster. Cross the bridge to start a cutscene with Igor.
+Go sout, then east. Defeat all the enemies and than jump onto a spiral you should see in front of the tube. Break the wooden blockade with the Pumpkin King Costume and activate the switch behind it. Go on top of the tube to the right to get some souls and to get back to the entrance faster. Cross the bridge to start a cutscene with Igor.
 
 Exit the Doctor's Lab and go to the Witches' Shop to start a fight against Lock's ghosts. You can get rid of them faster with a Soul Cycle, without even a worry about the Blue Souls since you're right in front of the Witches' Shop!
 
@@ -1670,7 +1673,7 @@ Right at the start, go forward a bit and destroy the wooden blockade to your rig
 
 Immediately after you destroyed the generator, go south-west to exit the area. Go south, then west and take the elevator that takes you back to the entrance of the area. Get to the lab by going north and avoid all the traps and enemies in the area. Soul Spin the heads that come out of the Guillotine on top of the stairs to send them back at them rather than just attacking it. 
 
-You can easily dodge the boulders with the dodge trick with the right timing. If you are unable to do so, after jumping to the first spiral, if you continue to climb you won't need to jump the next spiral. Continue a bit and hid into the door nearby to avoid the incoming boulder. After that, jump the spirals and wait inside the doors to avoid the boulders. Some of them are blocked by wooden planks that can be destroyed with a Fire Blast.
+You can easily dodge the boulders with the dodge trick with the right timing. If you are unable to do so, after jumping to the first spiral, if you continue to climb you won't need to jump the next spiral. Continue a bit and hid into the door nearby to avoid the incoming boulder. After that, jump the spirals and wait inside the doors to avoid the boulders. Some of them are blocked by wooden planks that can be destroyed quickly with a Fire Bomb.
 
 After reaching Lock on top of the ramp, get into the elevator.
 </details>
@@ -1679,13 +1682,11 @@ After reaching Lock on top of the ramp, get into the elevator.
 
 <details><summary>Chapter 8 - Changing Brains</summary>
 
-For more information about the boss, refer to **Cerebum Cleansed**.
-
 Of course, we want to be fast here. At the start, throw the pieces of brain in front of him so that they drop on the ground right in front or near him. Get behind him, destroy the turret to the left, and open his head. Then go immediately for the brain piece and throw it at him in front.
 
-The next part requires you to be fast enough to pull it off. Destroy the blade to the right and behind him with a Fire Blast to give yourself more maneuverability. Get behind him, but stand a bit to the left to not be hit by the blade that'll come your way. After opening his head, go for the throw before the turrets appear.
+The next part requires you to be fast enough to pull it off. Destroy the blade to the right and behind him with a Fire Bombs to give yourself more maneuverability. Get behind him, but stand a bit to the left to not be hit by the blade that'll come your way. After opening his head, go for the throw before the turrets appear.
 
-This may take you a fair amount of tries to get it right. You can otherwise just build up the dance meter if you find this complicated. 
+This may take you a fair amount of tries to get it right. If it's too complicated, get to Dance Mode as fast as possible by destroying his inventions. Rely on it to more easily open his head. You'll still get a good enough time.
 </details>
 
 ***
@@ -1772,7 +1773,7 @@ Chapter 14 - The Mayor's Madhouse
 
 Use Blue Soul when you block the tub with a beartrap for more damage.
 
-You can defeat all three of them really fast if you can constantly hit them with Fire Blasts. If you do it like this, you won't even need to dance.
+You can defeat all three of them really fast if you can constantly hit them with Fire Bombs. If you do it like this, you won't even need to dance.
 
 </details>
 
@@ -1808,7 +1809,7 @@ Chapter 18 - Spiral Hill
 
 **[Boss Fight - Fire King Skeleton and Ice King Skeletons]**
 
-Fire Blast the Ice King Skeleton to take it out quickly.
+Fire Bomb the Ice King Skeleton to take it out quickly.
 
 Get behind the Fire King Skeleton, use a Blue Soul and hit it from behind.
 
@@ -1860,7 +1861,7 @@ It's faster to make him fall by hitting his feet and wack his head in Easy Mode.
 
 **[Boss Fight - Mega Oogie, part 2]**
 
-This dance will actually damage you if you miss notes so be aware of that if you have a low amount of maximum health.
+This Dance Mode will actually damage you if you miss notes so be aware of that if you have a low amount of maximum health.
 
 Other than this, nothing much to say here.
 
