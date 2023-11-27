@@ -106,7 +106,8 @@ Breakdown = BOMB
 
 Floors 63 and 64 have a save point, and the coupon to item exchange, but they aren't necessary. Obtain them only if you want to. Then complete the diorama on the 65th floor, progress the story on 66th and proceed to 67th. Make sure Cloud is healed on this floor as this is the first floor which has Soldier: 3rd Class enemies and they can hurt. Pick up the **Poison** Materia, set the ATB to Wait and save your game here before fighting Sample H0512. In the cutscene tell Barret to take care of Aerith at which point you'll enter the fight.
 
-### Sample: H0512
+###
+| Sample: H0512 | |
 |------|--------|
 | HP | 1000 |
 | Difficulty | 3/10 |
@@ -248,3 +249,33 @@ Dyne will start attacking you twice after two mollies for ~50 damage each, and t
 ZOOM ZOOM Chocobo race.
 
 ### Cosmo Canyon
+When you arrive, there is an elixir on the second floor of the bar on the couch, which can be used for the upcoming boss if you had to use the one you got on the Shinra HQ stairs. Otherwise, advance the story until you head into the Cosmo dungeon. The party you're taking is Cloud, Red and Aerith.
+
+In the first area, just break the rock that activates the door and advance to the next screen. On the next screen, don't bother with picking up the Added Effect materia or any items, just do the following preparation.
+
+Aerith needs Restore materia, Fire Ring equipped and to be in Sadness, the other two don't need anything in particular equipped BUT Cloud should be in Fury. Now advance and fight both of the baby spiders.
+
+In this order, do the following turns
+
+Cloud - Molotov
+
+Red - Molotov
+
+Aerith - Molotov
+
+Cloud - Molotov
+
+Red - Molotov
+
+Cloud - Braver
+
+Stinger should counter the last two molotovs with it's heavy attack, which will give Cloud his limit if he doesn't have it already. One more molotov from Aerith will kill it, so wait for Cloud and Red to die then throw it. Cure Aerith if needed. After the first Stinger fight, Phoenix Down Cloud and Red, put Cloud back into Fury and heal with Aerith's cure and repeat the same strategy. After the second Stinger, don't bother with healing anyone and go into the boss fight.
+
+| Gi Nattak | |
+|------|--------|
+| HP | I don't even know lol |
+| Difficulty | 1/10 |
+| Party | Cloud, Red, Aerith |
+| Survivor | Aerith |
+
+Throw an elixir onto Gi Nattak.
