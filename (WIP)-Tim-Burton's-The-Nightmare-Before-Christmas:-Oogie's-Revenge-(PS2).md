@@ -79,7 +79,7 @@ Each difficulty will change the position of the markers. Higher difficulty level
   <img src="https://github.com/RetroAchievements/guides/assets/133049176/865134df-fefe-49f1-b36b-1296ea46ffcc"/>
 </p>
 
-## Ranking System
+## Nightmare Rank
 
 This game features a ranking system. This system assings you ranks based on your performance in a chapter, leading to also an overall rank based on what you got. The game ranks you based on 4 factors:
 
@@ -121,7 +121,7 @@ It is suggested to start the game straight to Nightmare Mode to make the challen
 
 ## Rank S
 
-This part will be dedicated to everything about getting rank S. This is all for getting not only any of the achievements that require A rank, but for the achievement <code>The Seven Holidays King</code>, which requires to also earning rank S by playing on Nightmare Mode.
+This part will be dedicated to everything about getting rank S in all the chapters. This is to earn the achievement <code>The Seven Holidays King</code>, and it also requires to be playing on Nightmare Mode, making the score that is needed to reach much more difficult.
 
 Despite the achievements requiring A rank and no difficulty requirement to unlock, all the tips and requirements will be written in the A rank achievements. Reason is also because i couldn't find the requirements for A rank. But knowing what is required for S rank should inderectly tell you what is required for A rank anyway.
 
@@ -336,7 +336,7 @@ Beat the game with an overall "S" ranking on all levels and successfully complet
 ```
 `COMPLETION`
 
-To reach an overall S rank, you need to earn all S ranks on each chapter. You also need to earn them while playing on Nightmare Mode, which is a huge gap in difficulty to get them when compared to even Normal Mode. 
+To reach an overall S rank, you need to earn all S ranks in each chapter. Not only that, but you also have to do this on Nightmare Mode.
 
 You can make this easier to yourself this way: the game keeps track of the highest recorded ranks, and will automatically assign you an overall rank of the chapter based on these recorded ranks, independently by what overall rank you got at chapter completion. This means that you can enter into a chapter and earn just one S rank, then earn the remaining S ranks at your pace, and when you got all the S ranks in said chapter the game will assign you an S rank for that chapter. It is possible to get all the S ranks in one go if you wish, but if some of them result too difficult, i suggest to do them one at a time.
 
@@ -1651,7 +1651,7 @@ Beat the game in 3 hours or less [New File, Save File Timer, Any Difficulty]
 
 It is suggested to first be done with everything else, or at least beat the game once. That way we'll get some familiarity with the game and get an idea on how to progress.
 
-Here are some suggestions to take into consideration before tackling this playthough.
+Some tips that i suggest you to follow:
 * It is suggested to play in Easy Mode to make the enemies less tanky to save time.
 * The timer moves through cutscenes and pause menu, but also during the the ranking screen and the save game screen. Skip through every cutscene, and make sure to not spend too much time on any screen.
 * Do consider saving after finishing a chapter. Not only to save the progress made, to also in case you need a re-do with certain chapters for a better time.
@@ -1659,8 +1659,6 @@ Here are some suggestions to take into consideration before tackling this playth
 * The only upgrades that you'll ever need are the Soul Robber's and the Pumpkin King Costume. You can consider the Re-possession present upgrades if you feel the need for them.
 * It's not necessary to go after the Crystal Skulls, but you may go after some fast and easy to get Golden Pumpkins to extend your life bar.
 * Consider getting some S ranks in each chapter. They'll reward you 1000 Souls which does make getting upgrades quicker and eliminates the need to go out of your way looking for Souls. Playing in Easy Mode decreases the prices for all the items in the Witches' Shop so you won't even need that many Souls.
-
-Below is a mini-guide on how to get through the chapters with some tips sprinkled here and there.
 
 ***
 
@@ -1964,7 +1962,7 @@ Get behind the Fire King Skeleton, use a Blue Soul and hit it from behind.
 
 <details><summary>Chapter 22 - Christmas Town</summary>
 
-[Christmas Town - Xmas Tree Plaza]
+**[Christmas Town - Xmas Tree Plaza]**
 
 You do have some time to go to the Witches' Shop if you wish. To the right you should see a Snow Man portal that'll take you to the Town Hall.
 
