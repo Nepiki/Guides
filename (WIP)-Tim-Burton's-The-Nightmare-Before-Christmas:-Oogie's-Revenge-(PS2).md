@@ -121,32 +121,32 @@ It is suggested to start the game straight to Nightmare Mode to make the challen
 
 ## Rank S
 
-This game features a ranking system based on your performance in a chapter, going from D to the highest rank S. When you beat a level, the game will assign you a ranka in 4 categories, then give you an overall ranking of the chapter based on these rankings. The game will also reward you souls based on what overall ranking you earned, up to 1000 souls for S rank.
+This part will be dedicated to everything about getting rank S. This is all for getting not only any of the achievements that require A rank, but for the achievement <code>The Seven Holidays King</code>, which requires to also earning rank S by playing on Nightmare Mode.
 
-Their requirements changes in each chapter, and it also depends on what difficulty is selected, with Nightmare Mode having the hardest requirements to reach the highest rank.
-
-The achievement <code>The Seven Holidays King</code> requires earning all the S ranks in the game while also beating the game on Nightmare Mode. For this section, all of the A rank achievements, normally required to earn figurines in each chapters, will be used to provide guidance in earning S ranks in their corresponding chapters and the exact requirement needed by each difficulty.
+Despite the achievements requiring A rank and no difficulty requirement to unlock, all the tips and requirements will be written in the A rank achievements. Reason is also because i couldn't find the requirements for A rank. But knowing what is required for S rank should inderectly tell you what is required for A rank anyway.
 
 ## Damageless, Full Combo 
 
-Everything regarding defeating bosses without taking any damage or making full combos during Dance Mode will be treated here.
+Everything regarding defeating bosses without taking any damage or making full combos during Dance Mode.
 
-While they are already talked about how to defeat them in the Progression achievements, in these achievements will be talked more about how to avoid their attacks. Nightmare Mode will make them more tanky, but their behaviour doesn't change much, if not at all.
+While they are already talked about how to defeat them in the Progression achievements, in here it'll be mainly about how to avoid their attacks and whatever tips to help you through these challenges. Nightmare mode will not change their behaviour as you would think, but it will increse their health to a substantial amount that it requires preparation.
 
-Dance Mode does get a relevant change because of Nightmare Mode: the indicator in which you press the button that'll appear gets smaller, requiring more precise inputs. Outside of this, the songs stay the same.
+Dance Mode does get a relevant change because of Nightmare Mode: the indicators at the bottom of the screen will become closer to each other, requiring you to be more precise with your inputs if you want to do full combos. The songs themselves don't get any other change outside of this.
 
 ### Miscellaneous
 
 Everything else like Items, Collectibles, Upgrades and Hidden Places, or anything that does not belong anywhere else, will be here.
 
-Some of these achievements can be done any time, but others require going further into the game to be able to do them.
+Some of these items will require you to get them from the Witches' Shop, mainly the upgrades for Soul Robber, Pumpkin King and Santa Jack, and some Golden Pumpkins. Others you'll need to find them in certain areas in the game or in Hidden Places, mostly being Figurines, Golden Pumpkins, and Crystal Skulls, which you deliver 4 of them to the Witches' Shop to make a Crystal Bottle.
 
 One thing of note is the Pumpkin Shield. This item does not count towards <code>Sandy Claws</code>, but i'll still write about its prices in the Witches Shop anyway. Also, the prices of each item in the shop actually gets reduced in Easy Mode. The listed prices for the upgrades and items will be the prices found in Normal Mode and Nightmare Mode for consistency.
 
 ## The Speedrun Before Christmas
 
-This final part will be entirely dedicated to the speedrun achievement, **The Speedrun Before Christmas**.\
-A mini-walktrough on what to do in each chapters will be written for each chapter to indicate what is exactly needed to finish a chapter, or to show a faster way to finish them. Technically speaking, if you get S rank Time, you should be fine anyway.
+This final part will be entirely dedicated to the speedrun achievement, <code>The Speedrun Before Christmas</code>.\
+It may sound rather daunting, just like any other speedrun, but the time required is actually forgiving enough. Not many strats are needed to be used to reach the target time, nor any speedrun black magic is required to do so. The least tha is required is to at least beat the game once to know how to exactly what is needed to finish each chapter.
+
+You may however want to at least read the tips for this achievement. They are rather important, and will help you greatly in earning this achievemnt.
 
 # Achievements
 
