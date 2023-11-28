@@ -24,8 +24,8 @@ The game takes place some time after the events of the film. Jack, yet again, ge
 ```
 ⚠️WARNING⚠️
 The only supported version of the game is the European version. When playing this version,
-the game will ask you at what refresh rate, or video mode, to play the game. Only 60hz is supported by this achievement set,
-so please make sure to have selected this option before starting playing.
+the game will ask you at what refresh rate, or video mode, to play the game. Only 60hz is supported by
+this achievement set,so please make sure to have selected this option before starting playing.
 ```
 
 # General Information
@@ -99,7 +99,9 @@ The game assigns you 1 point each time you get hit from anything. In Nightmare M
 **!-Count**\
 This is the amount of !-points you earned. These points can be earned in different ways: taunting enemies, startling them with presents thrown with the Santa Jack Costume, hitting enemies with the first hit of Soul Cycle, and correctly pressing the buttons right at the center between the markers during Dance Mode (successfully doing so will mark the input as "GOOD").
 
-After beating a chapter, you'll earn a rank based on which requirement has been reached: D, C, B, A, S. D the lowest rank, S the highest and most difficult to reach rank. The requirements not only change dependant on the chapter, but also based on the difficulty selected, with Nightmare Mode having the hardest requirements out of the all difficulties.
+After beating a chapter, you'll earn a rank based on which requirement has been reached: D, C, B, A, S. D being the lowest rank, S the highest, and most difficult to reach rank. The requirements change based on what difficulty has been selected, Nightmare Mode having naturally the hardest requirements to get a rank S.
+
+The highest score achieved will be saved by the game and rewritten if a better score has been reached. The game uses these recorded records to assign the overall ranking to a chapter, without caring about what overall ranking has been earned at the end of the chapter. That doesn't mean that one has no value, as based on the highest overall rank reached at the end of the chapter will award you Souls, up to 1.000 Souls.
 
 <p align="center">
   <img src="https://github.com/RetroAchievements/guides/assets/133049176/e84d483c-807d-4201-853c-579d5febabde"/>
@@ -1114,20 +1116,18 @@ Get a Full Combo in the dance against the Super Spider on Nightmare Mode
 
 This dance will introduce directional buttons and longer sequences. Despite being harder than the first one, it's still easy to do.
 
-```
-→ X X △ ▢ ↑ ↓ ◯
-← △ △ ◯ X ↑ ↓ ◯
+![RIGHT](https://github.com/RetroAchievements/guides/assets/133049176/3d20c819-4059-4501-8787-91658590f761) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) ![UP](https://github.com/RetroAchievements/guides/assets/133049176/a2c8f9e9-af0d-4d2f-8b9a-395c9a5bdd2d) ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/3b01f54c-4876-42d5-9306-036e8c4c9086) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356)\
+![LEFT](https://github.com/RetroAchievements/guides/assets/133049176/4942e0a0-f5c7-4395-8da1-8433bdae2891) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![UP](https://github.com/RetroAchievements/guides/assets/133049176/a2c8f9e9-af0d-4d2f-8b9a-395c9a5bdd2d) ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/3b01f54c-4876-42d5-9306-036e8c4c9086) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356)
 
-△ ◯ ↓ → △ ▢ ← ↓
-▢ X △ ◯ → ← ↓
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/3b01f54c-4876-42d5-9306-036e8c4c9086) ![RIGHT](https://github.com/RetroAchievements/guides/assets/133049176/3d20c819-4059-4501-8787-91658590f761) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) ![LEFT](https://github.com/RetroAchievements/guides/assets/133049176/4942e0a0-f5c7-4395-8da1-8433bdae2891) ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/3b01f54c-4876-42d5-9306-036e8c4c9086)\
+![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![RIGHT](https://github.com/RetroAchievements/guides/assets/133049176/3d20c819-4059-4501-8787-91658590f761) ![LEFT](https://github.com/RetroAchievements/guides/assets/133049176/4942e0a0-f5c7-4395-8da1-8433bdae2891) ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/3b01f54c-4876-42d5-9306-036e8c4c9086)
 
-← ▢ ↑ △ → ◯ ↓ X
-△ ↓ ◯ ← ▢
-X ↑ ▢ → ◯
+![LEFT](https://github.com/RetroAchievements/guides/assets/133049176/4942e0a0-f5c7-4395-8da1-8433bdae2891) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) ![UP](https://github.com/RetroAchievements/guides/assets/133049176/a2c8f9e9-af0d-4d2f-8b9a-395c9a5bdd2d) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![RIGHT](https://github.com/RetroAchievements/guides/assets/133049176/3d20c819-4059-4501-8787-91658590f761) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/3b01f54c-4876-42d5-9306-036e8c4c9086) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b)\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/3b01f54c-4876-42d5-9306-036e8c4c9086) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![LEFT](https://github.com/RetroAchievements/guides/assets/133049176/4942e0a0-f5c7-4395-8da1-8433bdae2891) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6)\
+![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![UP](https://github.com/RetroAchievements/guides/assets/133049176/a2c8f9e9-af0d-4d2f-8b9a-395c9a5bdd2d) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) ![RIGHT](https://github.com/RetroAchievements/guides/assets/133049176/3d20c819-4059-4501-8787-91658590f761) ![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356)
 
-◯ → ▢ ↓
-X △ ↑ ↓ ▢ →
-```
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![RIGHT](https://github.com/RetroAchievements/guides/assets/133049176/3d20c819-4059-4501-8787-91658590f761) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/3b01f54c-4876-42d5-9306-036e8c4c9086)\
+![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![UP](https://github.com/RetroAchievements/guides/assets/133049176/a2c8f9e9-af0d-4d2f-8b9a-395c9a5bdd2d) ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/3b01f54c-4876-42d5-9306-036e8c4c9086) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) ![RIGHT](https://github.com/RetroAchievements/guides/assets/133049176/3d20c819-4059-4501-8787-91658590f761)
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248709.png">
 
