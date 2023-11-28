@@ -10,7 +10,7 @@ Achievement Set Author: [Bryan1150](https://retroachievements.org/user/Bryan1150
 RAGuide Author: [PenguGG](https://retroachievements.org/user/PenguGG)
 
 Credits:\
-The defunct site Pumpkin Patch, containing many info about the game.\
+The defunct site Pumpkin Patch, containing many informations about this game and more.\
 [bullseye strider](https://www.youtube.com/@hiryualastor), for its walktrough, showcasing some useful strategies and tricks.
 
 # Introduction
@@ -21,13 +21,18 @@ The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes
 
 The game takes place some time after the events of the film. Jack, yet again, gets bored of Halloween and wants something new, something scarier for the next one. He goes to Doctor Finkelstein for advice in how to improve Halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip, even capable of grabbing stuff with ease. Jack decides to leave Halloween Town with the Doctor's gift in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge. Taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". When Jack comes back to his city, he notices that something was off in his town, and that the new inhabitants are not exactly friendly towards him.
 
-⚠️ The only supported version of the game is the European version. When playing this version, the game will ask you at what refresh rate, or video mode, to play the game. Only 60hz is supported by this achievement set, so please be sure to select this option to be able to earn achievements
+```
+⚠️WARNING⚠️
+The only supported version of the game is the European version. When playing this version,
+the game will ask you at what refresh rate, or video mode, to play the game. Only 60hz is supported by this achievement set,
+so please make sure to have selected this option before starting playing.
+```
 
-# General Info
+# General Information
 
 ## Controls
 
-**Normal Controls**
+### Normal Controls
 
 ![STICK L](https://github.com/RetroAchievements/guides/assets/133049176/b8ba627a-ceb8-4901-9c49-375d02691bd0): Move Jack\
 ![UP](https://github.com/RetroAchievements/guides/assets/133049176/d6212521-ea50-4ecc-920a-76faf7e7760a) / ![RIGHT](https://github.com/RetroAchievements/guides/assets/133049176/7788dcc2-c397-461c-837e-1ae2120af3d2) / ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/7ea76aac-cd2a-4076-8437-f49e99dc0fae) / ![LEFT](https://github.com/RetroAchievements/guides/assets/133049176/e181fdc7-e47f-45f9-b750-ae154fa7e95e) : Taunt \ Move cursor\
@@ -40,7 +45,7 @@ The game takes place some time after the events of the film. Jack, yet again, ge
 ![SELECT](https://github.com/RetroAchievements/guides/assets/133049176/7076afcd-fd90-4938-8681-f026637e6185): Open map of the current area\
 ![START](https://github.com/RetroAchievements/guides/assets/133049176/54e3b0c9-94f3-49dc-9ec6-246c3e4f1ab6): Open pause menu
 
-**Soul Robber**
+### Soul Robber
 
 ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Normal attack (number of attacks based on Lvl of Soul Robber, up to 4)\
 ![STICK L](https://github.com/RetroAchievements/guides/assets/133049176/8d28d822-a9b6-43fa-bd77-590e766aeb4e) (full circle motion) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Soul Spin\
@@ -51,20 +56,28 @@ The game takes place some time after the events of the film. Jack, yet again, ge
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355) (hold): Soul Cycle\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355) (when pointing at a spiral): Soul Jump
 
-**Pumpkin King** (unlocked after chapter 5)
+### Pumpkin King
 
 ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) (can hold): Flame Thrower (costs 0.1 Red Soul)\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355): Fire Bomb (costs 1 Red Soul)
 
-**Santa Jack** (unlocked after chapter 8)
+### Santa Jack
 
 ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Throw present (can be thrown further based on how long the button is held)\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355): Change type of present\
-![L2](https://github.com/RetroAchievements/guides/assets/133049176/39b478fc-1fb3-4c15-8335-5f143d142941): Activate throwed presents, one at a time\
-Re-possession Present: Turns enemies to a normal state\
-Scared Stiff: Binds enemies in place for some time\
-Cold Front: Deals damage and freezes enemies\
-Pumpkin Shield (available only in Easy Mode): Temporarily makes Jack invincible
+![L2](https://github.com/RetroAchievements/guides/assets/133049176/39b478fc-1fb3-4c15-8335-5f143d142941): Activate thrown presents, one at a time
+
+## Dance Mode
+
+While fighting the bosses, notes can be dropped by hitting the bosses themselves or by other enemies or destructible hazards. These notes can be collected to fill up a meter. Completely filling up this meter will commence Dance Mode, playing out more like a duet between Jack and the bosses. Like a rhythm game, you have to press the buttons that'll appear while they are in between the two markers in the bottom part of the screen. Completing the Dance Mode in its entirety will dish out a big amount of damage to the boss. Missing a certain amount of notes will end the dance earlier, and the damage dealt to the boss will be lower.
+
+Through Dance Mode it is possible to rack up Combo and !-points by pressing the inputs right in between the marks. If done correctly, the input gets marked as "GOOD" and you'll gain an !-point and 1 combo.
+
+Each difficulty will change the position of the markers. Higher difficulty level will make the markers move more closer to each other, requiring in turn more precision with the button presses.
+
+<p align="center">
+  <img src="https://github.com/RetroAchievements/guides/assets/133049176/865134df-fefe-49f1-b36b-1296ea46ffcc"/>
+</p>
 
 ## Ranking System
 
@@ -88,13 +101,9 @@ This is the amount of !-points you earned. These points can be earned in differe
 
 After beating a chapter, you'll earn a rank based on which requirement has been reached: D, C, B, A, S. D the lowest rank, S the highest and most difficult to reach rank. The requirements not only change dependant on the chapter, but also based on the difficulty selected, with Nightmare Mode having the hardest requirements out of the all difficulties.
 
-## Dance Mode
-
-Music in this game is an important part of the game. Not only do bosses sing during these fights, but some of them carry out attacks at the exact rhythm of the song.
-
-While fighting the bosses, notes can be dropped by hitting the bosses themselves or by other enemies or destructible hazards. These notes can be collected to fill up a meter. Completely filling up this meter will commence Dance Mode, playing out more like a duet between Jack and the bosses. Like a rhythm game, you have to press the buttons that'll appear while they are in between the two markers in the bottom part of the screen. Completing the Dance Mode in its entirety will dish out a big amount of damage to the boss. Missing a certain amount of notes will end the dance earlier, and the damage dealt to the boss will be lower.
-
-Difficulty modes doesn't change the speed of the songs, but it changes the position of the markers. Higher difficulty level will make the markers move more closer to each other, requiring in turn more precision with the button presses.
+<p align="center">
+  <img src="https://github.com/RetroAchievements/guides/assets/133049176/e84d483c-807d-4201-853c-579d5febabde"/>
+</p>
 
 ## Tips
 
@@ -839,11 +848,12 @@ Get an "A" or higher in all Ranks in Chapter 16
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 11:00
-* Combo: 140
-* Damage: 8
-* !-Count: 30
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 11:00 | 11:00 | 11:00
+**Combo** | 18 | 21 | 140
+**Damage** | 14 | 12 | 8
+**!-Count** | 24 | 30 | 30
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248691.png">
 
@@ -853,11 +863,12 @@ Get an "A" or higher in all Ranks in Chapter 17
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 9:00
-* Combo: 41
-* Damage: 8
-* !-Count: 41
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 6:00 | 6:00 | 9:00
+**Combo** | 32 | 41 | 41
+**Damage** | 14 | 12 | 8
+**!-Count** | 32 | 41 | 41
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248692.png">
 
@@ -867,11 +878,12 @@ Get an "A" or higher in all Ranks in Chapter 18
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 11:00
-* Combo: 160
-* Damage: 8
-* !-Count: 30
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 11:00 | 11:00 | 11:00
+**Combo** | 48 | 60 | 160
+**Damage** | 4 | 4 | 8
+**!-Count** | 24 | 30 | 30
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248693.png">
 
@@ -881,11 +893,12 @@ Get an "A" or higher in all Ranks in Chapter 19
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 11:00
-* Combo: 160
-* Damage: 8
-* !-Count: 30
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 20:00 | 20:00 | 15:00
+**Combo** | 80 | 100 | 300
+**Damage** | 14 | 12 | 8
+**!-Count** | 40 | 50 | 50
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248694.png">
 
@@ -926,11 +939,12 @@ Get an "A" or higher in all Ranks in Chapter 21
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 9:00
-* Combo: 15
-* Damage: 4
-* !-Count: 5
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 8:00 | 8:00 | 9:00
+**Combo** | 8 | 10 | 15
+**Damage** | 4 | 4 | 4
+**!-Count** | 5 | 5 | 5
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248696.png">
 
@@ -940,11 +954,12 @@ Get an "A" or higher in all Ranks in Chapter 22
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 11:00
-* Combo: 80
-* Damage: 4
-* !-Count: 5
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 9:00 | 9:00 | 11:00
+**Combo** | 8 | 10 | 80
+**Damage** | 4 | 4 | 4
+**!-Count** | 5 | 5 | 5
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248697.png">
 
@@ -1063,21 +1078,19 @@ Get a Full Combo in the dance against Shadow Oogie on Nightmare Mode
 
 Even on Nightmare Mode, this is a very easy to do a full combo.
 
-![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) _I see you're pretty proud of all your_\
-![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) _Booby trapping schemes_\
-![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b)  _But I can say you'll rule this town_\
-![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) _Only in your dreams_
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b)\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b)\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b)\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56)
 
-![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) _That's funny, Jack, it was a dream_\
-![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) _But now it's coming true_\
-![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) _'Cause even my mere shadow knows_\
-![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) _Your days as king are through_
+![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6)\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6)\
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56)\
+![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6)
 
-![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) $~~~~~~$ _WOW~ (WOW~)_\
-![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) $~~~~~~$ _WOW~ (WOW~)_\
-![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) $~~~~~~$ _WOW~ (WOW~)_
-
-$~~~~~~~~~~~~~~~~~~$ _I'm the Pumpkin King!_
+![CIRCLE](https://github.com/RetroAchievements/guides/assets/133049176/bb52bf73-d8aa-4870-a213-69a9e2ed5356) ![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b)\
+![CROSS](https://github.com/RetroAchievements/guides/assets/133049176/ceb4bcd7-1029-4118-a74e-5f2f5989d65b) ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56)\
+![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/36ea787b-4b5e-4264-9d26-f3132f352e56) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6)
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248705.png">
 
@@ -1949,7 +1962,25 @@ Get behind the Fire King Skeleton, use a Blue Soul and hit it from behind.
 
 ***
 
-Chapter 22 - Christmas Town
+<details><summary>Chapter 22 - Christmas Town</summary>
+
+[Christmas Town - Xmas Tree Plaza]
+
+You do have some time to go to the Witches' Shop if you wish. To the right you should see a Snow Man portal that'll take you to the Town Hall.
+
+Go to the christmas tree and talk to the elf to the right. It'll tell you that the decorations for the christmas tree are scatered all around Christmas Town and asks you to find them. There are 5 decorations that you'll need to find here.
+
+![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231128132002](https://github.com/RetroAchievements/guides/assets/133049176/0d9e93b2-cb2e-448b-94a6-6f21991c743f)
+
+The **Red Ornament** can be found by hitting any of the trees you'll find around the town. Some are booby-trapped, but you need to search all of them to find this decoration.\
+The **Blue Ornament** is in **Hidden Place 17, Green Elf House**, to the north of town. You need to light up the 3 lanters right in front of the house at the same time with a Fire Bomb to gain access. Defeating all enemies there will earn you this decoration.\
+The **Christmas Stocking** is found by destroying the carousel to the north. You need to deflect the projectiles coming from the cats and penguins to destroy them. Stand in front of them when they're ready to shoot, and Soul Spin their projectile to make sure to hit them. Destroying all of them will also destroy the carousel and make the decoration appear.\
+The **Candle** is in **Hidden Place 18, Red Elf House**. To get here, you need to get on top of the house near the southern train tunnel, reachable with a spiral behind the house. Wait for the train to arrive, then jump on the present that is at the back. Wait for a bit until you see a spiral. Jump onto the spiral to enter the Hidden Place. Defeat all enemies here and you'll find the decoration.
+The last one, the **Star**, is found on top of an house, to the right of the Christmas Tree. You need to get on top of the train that appears to the northern train tunnel to reach it, but this one won't go near the star until you hit the switch near the tunnel to change its direction. Get in front of the switch, and when you see the train in the background, grab the switch and run on top of the tunnel. Drop on top of the present in the back of the train and wait. Jump immediately into the spiral that you should see after a while, and it'll take you to the decoration.
+
+After getting all of them, go back to the elf and just talk to it.
+
+</details>
 
 ***
 
@@ -1985,8 +2016,6 @@ It's faster to make him fall by hitting his feet and wack his head in Easy Mode.
 
 **[Boss Fight - Mega Oogie, part 2]**
 
-This Dance Mode will actually damage you if you miss notes so be aware of that if you have a low amount of maximum health.
-
-Other than this, nothing much to say here.
+This Dance Mode will actually damage you if you miss notes so be aware of that if you have a low amount of maximum health. This is also the hardest dance in the game, so be careful not to miss too many inputs.
 
 </details>
