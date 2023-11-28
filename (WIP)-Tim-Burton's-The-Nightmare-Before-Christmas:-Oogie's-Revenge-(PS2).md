@@ -51,12 +51,12 @@ The game takes place some time after the events of the film. Jack, yet again, ge
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355) (hold): Soul Cycle\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355) (when pointing at a spiral): Soul Jump
 
-**Pumpkin King**
+**Pumpkin King** (unlocked after chapter 5)
 
 ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) (can hold): Flame Thrower (costs 0.1 Red Soul)\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355): Fire Bomb (costs 1 Red Soul)
 
-**Santa Jack**
+**Santa Jack** (unlocked after chapter 8)
 
 ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Throw present (can be thrown further based on how long the button is held)\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355): Change type of present\
@@ -65,6 +65,36 @@ Re-possession Present: Turns enemies to a normal state\
 Scared Stiff: Binds enemies in place for some time\
 Cold Front: Deals damage and freezes enemies\
 Pumpkin Shield (available only in Easy Mode): Temporarily makes Jack invincible
+
+## Ranking System
+
+This game features a ranking system. This system assings you ranks based on your performance in a chapter, leading to also an overall rank based on what you got. The game ranks you based on 4 factors:
+
+**Time**\
+This is how much time you've spent to beat the chapter. This time ticks not only while you're playing, but also during cutscenes and while going through any menus too. 
+
+**Combo**\
+This is highest amount of hits you dish out to the enemies. The combo counter is not broken by getting hit, but it can expire if not hits are dealt for some time.
+
+The game does also give a rank to your combo during gameplay, based on how high your combo is. The higher that rank is, the higher the amount of Souls you'll earn when you defeat the enemies.
+
+**Damage**\
+This is the amount of hits taken, may it be from either enemies, traps or enviromental hazards. The lower this amount, the better ranking you'll get.
+
+The game assigns you 1 point each time you get hit from anything. In Nightmare Mode, you'll get instead 2 points per each hit you take to make it less forgiving.
+
+**!-Count**\
+This is the amount of !-points you earned. These points can be earned in different ways: taunting enemies, startling them with presents thrown with the Santa Jack Costume, hitting enemies with the first hit of Soul Cycle, and correctly pressing the buttons right at the center between the markers during Dance Mode (successfully doing so will mark the input as "GOOD").
+
+After beating a chapter, you'll earn a rank based on which requirement has been reached: D, C, B, A, S. D the lowest rank, S the highest and most difficult to reach rank. The requirements not only change dependant on the chapter, but also based on the difficulty selected, with Nightmare Mode having the hardest requirements out of the all difficulties.
+
+## Dance Mode
+
+Music in this game is an important part of the game. Not only do bosses sing during these fights, but some of them carry out attacks at the exact rhythm of the song.
+
+While fighting the bosses, notes can be dropped by hitting the bosses themselves or by other enemies or destructible hazards. These notes can be collected to fill up a meter. Completely filling up this meter will commence Dance Mode, playing out more like a duet between Jack and the bosses. Like a rhythm game, you have to press the buttons that'll appear while they are in between the two markers in the bottom part of the screen. Completing the Dance Mode in its entirety will dish out a big amount of damage to the boss. Missing a certain amount of notes will end the dance earlier, and the damage dealt to the boss will be lower.
+
+Difficulty modes doesn't change the speed of the songs, but it changes the position of the markers. Higher difficulty level will make the markers move more closer to each other, requiring in turn more precision with the button presses.
 
 ## Tips
 
@@ -295,19 +325,13 @@ Beat the game with an overall "S" ranking on all levels and successfully complet
 ```
 `COMPLETION`
 
-When beating a chapter, the game will assign you 4 ranks based on the following:\
-**Time**: how much time you spent to beat the level.\
-**Combo**: Highest combo number reached.\
-**Damage**: Amount of hits taken (on Nightmare Mode, you get 2 points for each hit rather than 1).\
-**!-Count**: Earned by taunting, using Santa Jack's presents, and during Dance Mode by pressing the correct buttons right at the center of the indicator.
+To reach an overall S rank, you need to earn all S ranks on each chapter. You also need to earn them while playing on Nightmare Mode, which is a huge gap in difficulty to get them when compared to even Normal Mode. 
 
-To earn the highest rank, S rank, you need to reach their requirements. The requirements change based on difficulty, with Nightmare Mode being the hardest to reach.
+You can make this easier to yourself this way: the game keeps track of the highest recorded ranks, and will automatically assign you an overall rank of the chapter based on these recorded ranks, independently by what overall rank you got at chapter completion. This means that you can enter into a chapter and earn just one S rank, then earn the remaining S ranks at your pace, and when you got all the S ranks in said chapter the game will assign you an S rank for that chapter. It is possible to get all the S ranks in one go if you wish, but if some of them result too difficult, i suggest to do them one at a time.
 
-The game will keep track of the highest recorded ranks, and will assign you an overall rank of the chapter based on these recorded ranks, independently by what overall rank you got at chapter completion. This means that you can enter into a chapter and earn just one S rank, then earn the remaining S ranks at your pace, and when you got all the S ranks in said chapter the game will assign you an S rank for that chapter. It is possible to get all the S ranks in one go if you wish, and this is just something to keep in mind if some of these result too difficult to accomplish.
+You're also needed to complete both secret chapters in the game to be eligible for S rank. These chapters can only be done in specific chapters and do not have any ranking requirements to them. However any hits or time wasted in these chapters will still be tracked for the ranking of the normal chapter, as you're technically still in that chapter. Because of this, you can't feasibly go for these secret chapters and S ranks at the same time. You can still do these chapters at any time, even after beating the game, so you may as well old off to them until you're done with the chapter itself.
 
-You're also needed to complete the 2 secret chapters in the game to beat the game with S rank. These secret chapters can be only in specific chapters, and do not have any ranking attached to them. Bear in mind however that you're still technically in the normal chapter while going for these secret chapters, and any time wasted or hits taken will add up to the ranking.
-
-When everything is done, all you have to do is either go through the credits at the end of the game, or check the journal in Jack's house, to check the game stats and the rankings in the game, earning you this achievement and the rest.
+When everything is done, all you have to do is either go through the credits at the end of the game, or check the journal in Jack's house, to check the game stats and the rankings in the game, earning you this achievement and any other ranking achievement.
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/d2608acb-a8af-42c8-b742-fa003c8100c9" width="600" height="450">
@@ -620,13 +644,15 @@ S Rank | Easy | Normal  | Nightmare
 For being a maze, this chapter is very straightforward. Just hit the switches and proceed. One switch will require you to jump on a spiral to get through. After hitting that switch, jump onto the spiral to get back where you were and run all the way east until you get past a bridge to finish the chapter.
 
 **Combo**\
-I'm afraid you either have to use the Hidden Place 9, behind the waterfall (it has Ghosts, so it might be a bit annoying), or the Trolls that appear right in front of the bridge that ends the chapter. All else fails, you can go back to Halloween Town and get to Hidden Place 2 to get the neede combos.
+I'm afraid you either have to use the Hidden Place 9, behind the waterfall (it has ghosts, so it might be a bit annoying), or the Trolls that appear right in front of the bridge that ends the chapter. All else fails, you can just go back to Halloween Town and get to Hidden Place 2 to get the neede combos.
 
 **Damage**\
-Avoid fighting the Trolls in your path, and mind the guillotine that is on top of the hill, close to the waterfall. Soul Spin if a head is close to you to redirect it to the guillotine.
+Mind the guillotine on top of the hill after the second switch. Soul Spin if a head is close to you to redirect it to the guillotine.
 
 **!-Count**\
 Use the three Trolls that spawn in front of the bridge at the end of this area. Lump them together and then Taunt them. Wait for them to roar before taunting them again or they won't get startled.
+
+Either that or just throw Re-possession presents at them to scare them safely and get !-points out of them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248686.png">
 
@@ -636,11 +662,28 @@ Get an "A" or higher in all Ranks in Chapter 11
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 9:00
-* Combo: 100
-* Damage: 8
-* !-Count: 30
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 8:00 | 8:00 | 9:00
+**Combo** | 32 | 40 | 100
+**Damage** | 14 | 12 | 8
+**!-Count** | 24 | 30 | 30
+
+**Time**\
+Soul Cycle in the room with the ghosts will take care of them fast enough.
+
+In the third room with the hidden enemies, use the Re-possession presents to make easier to defeat.
+
+Against Barrel, use the same method as with Lock. Taunt him, Soul Spin, then taunt again immediately and repeat until defeated.
+
+**Combo**\
+The first room with the skeletons is good enough to get the combo requirement. Third room is also an option.
+
+**Damage**\
+Really the only room to mind is the third one with the hidden enemies. Expose them with the Re-possession presents and safely take care of them.
+
+**!-Count**\
+Use the skeletons in the first room to get to the required !-points. You do get some of these points with the Re-possession presents
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248687.png">
 
@@ -650,11 +693,30 @@ Get an "A" or higher in all Ranks in Chapter 12
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 11:00
-* Combo: 500
-* Damage: 8
-* !-Count: 50
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 8:00 | 13:00 | 11:00
+**Combo** | 160 | 200 | 500
+**Damage** | 4 | 4 | 8
+**!-Count** | 40 | 50 | 50
+
+**Time**\
+You can be finished with this chapter really fast if you just do what is needed to complete the chapter.
+
+Exit the Pumpkin Patch area, go to the Residential Area with the key, scare Clow with a Re-possession present and talk to the Witch. Go to the Nightmare Lab in the Doctor's Lab, talk to him and then go to the left and iteract with a toolbox to get a tool. Then go back to Clown, scare him again and use the tool on him.
+
+That is, as long as you don't go for the secret chapter. Otherwise it would be impossible. You do have some time for some shopping.
+
+**Combo**\
+No, it's not an error.
+
+A new area opens up in the Doctor's Lab by this point in the game: Sally's Room. It's located near the end of the ramp in Runaway Ramp. This room has MANY skeletons appearing here that make this amount of combos possible. It looks rather daunting, but it's doable. If you mess up, you can always exit the room and re-enter to make them re-spawn.
+
+**Damage**\
+You can complete this chapter without getting into any fights really. If you're going for damage, then watchout for skeletons in Oogie Mode with their extra range of attack.
+
+**!-Count**\
+Use Sally's Room for this. Throw Re-possession presents at the skeletons until you're done. I wouldn't try to taunt here, since there are so many of them that makes it rather risky.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248688.png">
 
@@ -664,11 +726,42 @@ Get an "A" or higher in all Ranks in Chapter 13
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 18:00
-* Combo: 240
-* Damage: 8
-* !-Count: 14
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 15:00 | 15:00 | 18:00
+**Combo** | 40 | 50 | 240
+**Damage** | 4 | 4 | 8
+**!-Count** | 11 | 14 | 14
+
+**Time**\
+You first need to enter their house and read the letter to start looking for them.
+
+One is right in front of their house. Two are close-by in the Towers of Torment. One is in an Hidden Place, reachable through the Sewage Slums, going past the wooden planks in the southern area. You can reach the Sewage Slums by going either in the entrancer under the stairs that would take you to the two bats, or going back to the corridor with the moving scythes and proceeding to the right.
+
+Use the map to locate them.
+
+![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231114173942](https://github.com/RetroAchievements/guides/assets/133049176/48ce8a99-aaad-43d7-a37c-a7351202d3fc)
+
+Only suggestion that i can give is to use your presents to lure them closer to you.
+
+**Combo**\
+There are enemies all around the Residential Area, but consider using the Hidden Place where you find one of the Vampire Brothers. Stepping into the center of the area will make Orc Skeletons appear ready to get combos going.
+
+**Damage**\
+There are different parts in this whole area to be careful for.
+
+King Skeletons will be introduced in this Chapter, and they're very annoying to deal with. They can only be hit from behind, and their attacks are rather hard to avoid because of how wide they are. There's only a couple you're obbligated to fight to proceed to the Hidden Place to one of the Vampire Brothers, but at least you'll fight one at a time. 
+
+The Scythes at the entrance of Towers of Torment can be dodged, but you need to time it right.
+
+In the Towers of Torment, up where you should find the second Vampire Brother, a fishbone will appear sometimes and it can caught you off guard if not careful.
+
+When you get out the Hidden Place with a Vampire Brother inside, you'll then need to drop down from the platform to go back to the main area of the Sewage Slums. Down there are a bunch of hidden enemies and a gargoyle that are actually very dangerous to deal with. Drop a Re-possession present and take care of them from a safe distance.
+
+**!-Count**
+Use the Orc Skeletons in Hidden Place 10, or just about any enemy that'll appear in the Sewage Slums.
+
+Do note that you actually lose !-points in this chapter if you scare away the Vampire Brothers by running at them. Actually, they can also be scared if you are near, not really consistent from what i can tell. I highly suggest to go for the !-Count last to not waste time because of them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248689.png">
 
@@ -678,11 +771,30 @@ Get an "A" or higher in all Ranks in Chapter 14
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 9:00
-* Combo: 120
-* Damage: 8
-* !-Count: 10
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 8:00 | 8:00 | 9:00
+**Combo** | 48 | 60 | 120
+**Damage** | 4 | 4 | 8
+**!-Count** | 8 | 10 | 10
+
+**Time**\
+You can put the Mayor's Keys in their corresponding placement even if enemies are around.
+
+All of the enemies can be skipped, except for one that is in a big platform with some Skeletons and Heat Skeletons blocking you from using a spiral. You need to defeat them to proceed, but by that point you'll be near the end of the chapter.
+
+You most likely won't have enough time to go for the Golden Pumpkin Here because of how long it may take to get to it.
+
+**Combo**\
+You can use about any enemy you'll find in this chapter. Even the hidden enemies that you'll find at the entrance of Mayor's Yard can be used, alongside getting some !-points.
+
+**Damage**\
+Do mind the hidden enemies found at the entrance. They are all placed in such a tiny area that makes it difficult to go through without getting hit. Reveal with Re-possession presents from a far and patiently take care of them.
+
+The rest of the enemies in the Mayour's House can be avoided (except for the obbligatory one), but can tend to land a hit if you don't pay attention to them.
+
+**!-Count**\
+You'll get these with the hidden enemies. Throw the Re-possession presents far enough until you get enough points.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248690.png">
 
@@ -692,11 +804,32 @@ Get an "A" or higher in all Ranks in Chapter 15
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 8:00
-* Combo: 65
-* Damage: 8
-* !-Count: 65
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 6:00 | 6:00 | 8:00
+**Combo** | 52 | 65 | 65
+**Damage** | 14 | 12 | 8
+**!-Count** | 52 | 65 | 65
+
+**Time**\
+You do not want to be hit either by the kids or by their traps to make it in time.
+
+Destroy the bathtub at the endge of the arena, use the beartraps to help you lock it in place for a bit. When all 3 of them get off the tub after getting destroyed, use Fire Bombs to take away a good chunk of their health. Wait for them to star getting up before using another Fire Bomb.
+
+Make sure to collect notes to finish them off with quickly.
+
+**Combo**\
+You'll reach this amount with Dance Mode.
+
+**Damage**\
+This boss fight is very troublesome to do without getting hit.
+
+First phase has these traps that they can even throw 2 as the same time that requires being careful.
+
+For the second phase, either go for the strategy written in the time part, or at least make sure to keep Shock occupied. Fire Bomb does make them fly up in the air, so do opt to use it if you can hit at least 2 of them.
+
+**!-Count**\
+You'll also reach this amount with Dance Mode.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248682.png">
 
@@ -762,30 +895,28 @@ Get an "A" or higher in all Ranks in Chapter 20
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 3:00
-* Combo: 15
-* Damage: 8
-* !-Count: 5
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 4:00 | 4:00 | 3:00
+**Combo** | 8 | 10 | 15
+**Damage** | 14 | 12 | 8
+**!-Count** | 5 | 5 | 5
 
 **Time**\
-They are not that difficult to take down. They're just beefed up King Skeletons after all.\
 Ice King Skeleton can go down easily with a few Fire Bombs, while Fire King you'll have to hit it in the back with Soul Robber.
 
-They will become dark, making them immune to damage, and you'll need to throw a Re-possession present to make them normal. It won't happen that frequently however.
+If they become dark, you won't be able to damage them. You have to immediately turn them back to normal with a Re-possession present to be able to attack them again.
 
 **Combo**\
-It's much better to try this when one of them is defeated. Then for the other that is still alive, just do normal combos at their backs
+It's much better to try this when one of them is defeated (most likely Ice King Skeleton due to how easy it goes down with Fire Bombs).
+
+Try to hit them from behind with normal combos. Keep a bit of distance and always stay behind them. You can also hit them when they growl, but that also means that they're about to attack.
 
 **Damage**\
-Fire King Skeleton can be kept at bay with Fire Bombs because of him absorbing the damage, while also letting you damage Ice King Skeleton with high damage. You'll unfortunately have to deal with Fire King Skeleton the normal way.
-
-You could use a Soul Spin powered up with a Blue Soul to deal the most hits on its back. Enough hits will make them drop the axe, meaning they won't be able to act if that happens.
-
-Whenever you taunt or throw a present at them, they'll stomp on the ground, be aware of that. 
+Hitting both of them with Fire Bomb will make it safe to take down Ice King Skeleton, sinc FIre King Skeleton will be unable to act. Unfortunately you'll have to defeat Fire King Skeleton by hitting its back. Be careful when it growls and keep a bit of distance while attacking.
 
 **!-Count**\
-You can taunt them, but they'll become dark if you do that. After the taunt, you have to use a re-possession present to get !-points, also whenever they become dark by themselves.
+They can be taunted, but it's too dangerous against them. Use your presents instead to be more safe. You'll need to use them anyway if they turn dark, you you won't be able to damage them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248695.png">
 
@@ -823,25 +954,26 @@ Get an "A" or higher in all Ranks in Chapter 23
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 7:00
-* Combo: 24
-* Damage: 4
-* !-Count: 5
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 6:00 | 6:00 | 7:00
+**Combo** | 12 | 15 | 24
+**Damage** | 4 | 4 | 4
+**!-Count** | 5 | 5 | 5
 
 **Time**\
-The hidden enemies here WILL make you waste precious time. Avoid them or throw a present at them to turn them to normal to make them less annoying.
+The hidden enemies here WILL make you waste precious time. Avoid them or throw a present at them to turn them to normal.
 
-For the train either use Blue Souls or normal attack with the Pumpkin King Costume. Keep a bit of distance from the train or you'll be hit by it.
+When attacking the train, either use Blue Souls or normal attack with the Pumpkin King Costume. Keep a bit of distance from the train or you'll be hit by it.
 
 **Combo**\
-Not that difficult to do. Either continuosly hit the train or use the enemies in the area.
+Not that difficult to reach while hitting the train.
 
 **Damage**\
-Use the Re-possession presents to reveal the hidden enemies and turn them to normal, to lower the risk of being hit. Also remember to not be too close to the train when trashing it.
+Use the Re-possession presents to reveal the hidden enemies and turn them to normal, to lower the risk of being hit. Remember to not get too close to the train when trashing it.
 
 **!-Count**\
-The presents will cover this easily and safely from the hidden enemies.
+Throw presents at the hidden enemies. You most likely will need to do this anyway.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248698.png">
 
@@ -851,11 +983,12 @@ Get an "A" or higher in all Ranks in Chapter 24
 ```
 `PROGRESSION`
 
-S Rank requirements:
-* Time: 14:00
-* Combo: 124
-* Damage: 15
-* !-Count: 80
+S Rank | Easy | Normal  | Nightmare
+--- | --- | --- | ---
+**Time** | 13:00 | 13:00 | 14:00
+**Combo** | 99 | 124 | 124
+**Damage** | 24 | 20 | 15
+**!-Count** | 64 | 80 | 80
 
 **Time**\
 Use the gas leaks whenever possible. In between getting to the gas leaks, or when they arent' available, you should also try to hit Mega Oogie with the Soul Robber powered with Blue Souls.
@@ -877,16 +1010,15 @@ Nightshade Froggy Worm [10]
 Obtain the Sleeping Soup [Ch. 7 - Secret Chapter]
 ```
 
-This Secret Chapter can be started by speaking to Sally at the Old Graveyard during Chapter 7.
+This Secret Chapter can be started by speaking to Sally at the Tomb of Tears near the big tree in Chapter 7.
 
 She'll ask you to find 3 ingredients to make the Sleeping Soup: Deadly Nightshade, Worm's Wart and Frog's Breath.
 
-The Deadly Nightshade is found in the hidden palace in the first area of the Old Graveyard. It's located down the path behind the big tree in the Old Graveyard. Go past the statues by destroying them with the pumpkins and then enter the open grave you should see to the right. Defeat the enemies inside to get the Deadly Nightshade.
+The Deadly Nightshade is found in Hidden Place 5, in the Tomb of Tears. It's located down the path behind the big tree in the Old Graveyard. Go past the statues by destroying them with the exploding pumpkins, then enter the open grave you should see to the right of this open area. Defeat the enemies inside to get the Deadly Nightshade.
 
 The Worm's Wart can be bought by the Witches' Shop. Speak to the Witch to the right to buy one. You need 1000 Souls to buy it. If you don't have them, you could get to any Hidden Place close by to earn some, or defeat the hidden enemies at the entrance of the Pumpkin Patch.
 
-The Frog's Breath requires Red Souls to get access to an area where you'll find it.\
-Right before the stairs that'll take you to the Doctor's Lab, destroy the blocked entrance to the left with the Pumpkin King Costume and enter. Get to the elevetor that you should find on the left side of the area and go up. Bring the lantern to the left closer to the other two, then use a Fire Bomb to light all three at the same time to disable the gate. You should see many frogs at the other side of the gate, but you're only interested in the one that emits a green breath. Find one of these frogs and wait for them to be closer. Move slowly to them and grab them with Triangle. If they run away, back off and wait for them to move closer to you. It may take some time to get one.
+In the Doctor's Lab, right before the stairs that'll take you to the Runaway Ramp, destroy the blocked entrance to the left with the Pumpkin King Costume to enter the Doctor's Junk Yard. Get to the elevetor that you should find on the left side of the area and go up. Bring the lantern to the left closer to the other two, then use a Fire Bomb to light all three at the same time to disable the gate. You should see many frogs at the other side of the gate, but you're only interested in the one that emits a green breath. Find one of these frogs and wait for them to be closer. Move slowly to them and grab them. If they run away, back off and wait for them to move closer to you. It may take some time to get one.
 
 When you get all 3 ingredients, go back to Sally in the graveyard to finish the Secret Chapter and get the Sleeping Soup.
 
@@ -899,13 +1031,13 @@ Bony Cookie [10]
 Help Igor get his Bone Biscuit back [Ch. 12 - Secret Chapter]
 ```
 
-This Secret Chapter can be accessed by first speaking with the Dr. Finklestein, then to igor during Chapter 12.
+This Secret Chapter can be accessed by first speaking with Dr. Finklestein, then to Igor, both at the Nightmare Lab in Chapter 12.
 
 Igor will tell you that his Bone Biscuits disappeared while he was eating them close to a manhole. The manhole in question can be found to the left of the entrance to the lab. You should notice a manhole rattling going this way. Interact with it and you'll get to a Hidden Place with a Mega Spider inside.
 
-This Mega Spider is identical to the Mega Spider you've fought in chapter 5 so refer to <code>Damcel in Distress</code> to see how to defeat it.
+This Mega Spider is identical to the Mega Spider you've fought in chapter 5 so anything from that boss applies to this one as well.
 
-After defeating it, you'll get the Bone Biscuits. Go back to Igor and give him back his Bone Biscuits to finish the Secret Chapter.
+After defeating it, you'll get the Bone Biscuits. Go back to Igor and give them back to him to finish this secret chapter.
 
 ## Damageless, Full Combo
 
