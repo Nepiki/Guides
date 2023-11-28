@@ -133,7 +133,7 @@ While they are already talked about how to defeat them in the Progression achiev
 
 Dance Mode does get a relevant change because of Nightmare Mode: the indicators at the bottom of the screen will become closer to each other, requiring you to be more precise with your inputs if you want to do full combos. The songs themselves don't get any other change outside of this.
 
-### Miscellaneous
+## Miscellaneous
 
 Everything else like Items, Collectibles, Upgrades and Hidden Places, or anything that does not belong anywhere else, will be here.
 
