@@ -330,7 +330,8 @@ You're likely to earn this, along with the other ones, if you didn't complete th
 
 ```
 The Seven Holidays King [50]
-Beat the game with an overall "S" ranking on all levels and successfully complete both secret chapters on Nightmare Mode
+Beat the game with an overall "S" ranking on all levels and successfully complete
+both secret chapters on Nightmare Mode
 ```
 `COMPLETION`
 
@@ -976,7 +977,6 @@ S Rank | Easy | Normal  | Nightmare
 **!-Count** | 5 | 5 | 5
 
 **Time**\
-
 You first need to speak with the elf to start the scavenging hunt.
 
 ![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231128132002](https://github.com/RetroAchievements/guides/assets/133049176/0d9e93b2-cb2e-448b-94a6-6f21991c743f)
@@ -1045,11 +1045,14 @@ Use the gas leaks whenever possible. In between getting to the gas leaks, or whe
 Only way to reach this is to do a full combo of Dance Mode. And the song itself is the most difficult in the game, nevermind the fact that you'll need to repeat the first phase should you fail.
 
 **Damage**\
-The best suggestions is to make use of the invincibility with the dodge extended, and to keep a certain distance. Of all his attacks, the one to be careful about is the throw up attack. Refer to <code>A Filthy Finale</code> to learn more about his attacks.
+Make use of the dodge extension to reliably dodge all of his attacks.
+
+His throw up will still be a problem. When he's about to do this attack, either drop down or get up the platforms or get away from him to give yourself more space to dodge the attack.
 
 **!-Count**\
 These can only be gotten by doing Dance Mode in the second phase of the fight.
-Contrary to combo, you don't need to be perfect for these.
+
+Contrary to the other fights, not all of them are required by this rank.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248728.png">
 
