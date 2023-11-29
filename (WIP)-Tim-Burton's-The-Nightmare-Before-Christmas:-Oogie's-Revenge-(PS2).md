@@ -69,9 +69,11 @@ this achievement set,so please make sure to have selected this option before sta
 
 ## Dance Mode
 
-While fighting the bosses, notes can be dropped by hitting the bosses themselves or by other enemies or destructible hazards. These notes can be collected to fill up a meter. Completely filling up this meter will commence Dance Mode, playing out more like a duet between Jack and the bosses. Like a rhythm game, you have to press the buttons that'll appear while they are in between the two markers in the bottom part of the screen. Completing the Dance Mode in its entirety will dish out a big amount of damage to the boss. Missing a certain amount of notes will end the dance earlier, and the damage dealt to the boss will be lower.
+Music is, of course, an important part of the game. It's mostly prominent during the boss fights, with the bosses even singing the song. It also a game mechanic that plays a part during boss fights that transform them into a duet between Jack and the bosses.
 
-Through Dance Mode it is possible to rack up Combo and !-points by pressing the inputs right in between the marks. If done correctly, the input gets marked as "GOOD" and you'll gain an !-point and 1 combo.
+While fighting the bosses, notes can be dropped by hitting the bosses themselves or by other enemies or destructible hazards. These notes can be collected to fill up a meter. Completely filling up this meter will commence Dance Mode. Like a rhythm game, you have to press the buttons that'll appear while they are in between the two markers in the bottom part of the screen. Completing the Dance Mode in its entirety will dish out a big amount of damage to the boss. Missing a certain amount of notes will end the dance earlier and lower the damage dealt to the boss.
+
+Through Dance Mode it is possible to rack up Combo and !-points by pressing the inputs right in between the marks. If done correctly, the input gets marked as "GOOD" and you'll gain an !-point and 1 combo. Most of the combo and !-count rankings in chapters that have a boss fight do depend on doing these dances perfectly to reach them.
 
 Each difficulty will change the position of the markers. Higher difficulty level will make the markers move more closer to each other, requiring in turn more precision with the button presses.
 
@@ -97,7 +99,7 @@ This is the amount of hits taken, may it be from either enemies, traps or enviro
 The game assigns you 1 point each time you get hit from anything. In Nightmare Mode, you'll get instead 2 points per each hit you take to make it less forgiving.
 
 **!-Count**\
-This is the amount of !-points you earned. These points can be earned in different ways: taunting enemies, startling them with presents thrown with the Santa Jack Costume, hitting enemies with the first hit of Soul Cycle, and correctly pressing the buttons right at the center between the markers during Dance Mode (successfully doing so will mark the input as "GOOD").
+This is the amount of !-points you earned. These points can be mainly be gotten by taunting enemies or startling them with presents. They can also be earned with Soul Cycle or with Dance Mode, by hitting the inputs right in the middle of the two markers.
 
 After beating a chapter, you'll earn a rank based on which requirement has been reached: D, C, B, A, S. D being the lowest rank, S the highest, and most difficult to reach rank. The requirements change based on what difficulty has been selected, Nightmare Mode having naturally the hardest requirements to get a rank S.
 
@@ -160,11 +162,11 @@ Defeat Oogie Boogie's Shadow and recover the Halloween Door
 ```
 `PROGRESSION`
 
-He does nothing in particular except for moving the right and left. If he gets enough damage he'll teleport to the other side of the area and do this movement again. You can stand where he'll end up moving to make the most damage. His Halloween Ghosts aren't really worth your attention unless they are really close to you. You can just Soul Spin at them to dispatch them.
+He always moves to the right, then to the left, no matter in what side of the arena he's on. You can position yourself either in his path or a bit away from him to ensure you'll constantly hit him.
 
-His only attacks are throwing dices at you with a twirl that also damages you if you're too close, and dropping giant dices on your head, which can also be dodged with the right timing, but you can just run in one direction to not be hit. These attacks are easy to predict because they're timed with the song. For example, the giant dices will drop on you after he sings the third "WOW".
+His dice throw attack is tied to the music. It is possible to know exactly when he'll attack to let you land more hits. Though when he does this attack, he'll also does a pirouette that can actually damage you, so you have to not be too close to him or dodge in time.
 
-After the fight you'll earn the Halloween Door.
+After he has thrown 3 dices, the fight will be in the "WOW" part of the song, which is when Shadow Oogie will attack with the big dices. Even here this attack is tied to the music: when he sings the third "WOW", the dices will start to fall on you. You can dodge them or just simply continue to walk to avoid them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248514.png">
 
@@ -174,15 +176,11 @@ Defeat the Mega Spider and recover the Valentine's Day Door
 ```
 `PROGRESSION`
 
-The fight will be mainly about hitting the weakspot on its back. The window of opportunity to hit it becomes even less the more health it loses, and you'll basically need to wait in between its attacks to attack it.
+The fight will be mainly about hitting the weakspot on its back. If you hit its weakspot, or also finishing the Dance Mode successfully, the spiders disappears to make tiny spiders appear. Best way to deal with them is by doing a charged up normal Soul Robber combo followed immediately by a Soul Spin. This will hit the majority of the spiders while also bringing them more towards you. This is also especially powerfull with a Soul Robber Lvl 2.
 
-The spiderwebs won't deal damage, but will bind you to leave you open for any other of its attacks. Wait for these attacks at a distance while also standing on any of its sides. Wait for it by standing on its sides and then dodge it and move to its weakspot. Also stand a fair bit of distance to get ready for its charge and jump attack.
+The spiderwebs won't deal damage, but will bind you to leave you open for any of its other attacks. You can baits these attacks by standing on each of its sides and dodging at the right time. It will also make its weakspot exposed to an attack, if you're fast enough to reach it. This attack changes when the Mega Spider reaches half health by shooting 3 spiderwebs instead of 1. You have to either wait for an opportunity at a distance or trying to dodge each of the spiderwebs.
 
-At half health, it'll start to shoot three projectiles at a certain rhythm; it'll shoot 2 in quick succession, then waits a bit and shoots the third. You can try to dodge the 2 projectiles while standing in any of its sides to apply the strategy for them.
-
-If you hit its weakspot, or complete a Dance Mode successfully, the spider becomes many tiny versions of itself. Best way to deal with these is to, of course, hit them with Soul Robber. Level 2 Soul Robber is much more effective because of the wide attack that it gets. Charged Soul Spin will also do the trick as it'll also attract enemies to you to hit more of them.
-
-After the fight you'll get the Valentine's Day Door and the key to Dr. Finklestein's Lab.
+The charge and jump attack can take you off-guard if you're positioned too close to the spider, especially becoming faster as his health drops. Standing on its sides should give you at least some time to reach due to the spider needing to turn itself towards you to attack. These attacks do make his weakspot easier to hit.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248515.png">
 
@@ -192,11 +190,11 @@ Defeat Dr. Finkelstein and recover the St Patrick's Day Door
 ```
 `PROGRESSION`
 
-The only way to damage him is to throw the pieces of brain at him while his head is open. One way to open his head is to grab him from behind repeatedly until its head opens. Best moment to do this is right when the turrets retreat. Then throw the pieces of brain right in front of him to damage him. If you're not confident with this, collect the notes by destroying its inventions to open its head instead. Trying to open his head will also give a bit of notes too, so try to do this everytime he stops attacking to collect more notes.
+The only way to damage him is to throw the pieces of brain at him while his head is open. One way to open his head is to grab him from behind repeatedly until its head opens. Best moment to do this is right when the turrets retreat. Then throw the pieces of brain right in front of him to damage him. If you're not confident with this, then collect the notes by destroying its inventions and perform a dance successfully to open his head. Trying to open his head does also give a bit of notes too.
 
-He attacks in order, starting with the turrets. The turrets can be avoided by standing a bit further away from them, enough distance so you'll hit them. After the turrets, the blades will appear. They require some time to get ready giving you time to destroy one of them. Dodge them when they're activated while also damaging them to get notes. After the blades the turrets will appear again. At this point, if you destroyed his inventions you should have enough notes to enter Dance Mode. If not, then he'll do one last attack with the electric pillar that shoots lightning that follows you around. Move around and don't stop until he's done. He'll then restart from the begining.
+He attacks in order, starting with the turrets. The turrets can be avoided by standing a bit further away from them, enough distance so you'll hit them with Soul Robber. After the turrets, the blades will appear. They require some time to get ready giving you time to destroy at least one of them. When active, keep your distance or dodge them as you destroy them. After the blades the turrets will appear again. At this point, if you destroyed his inventions you should have enough notes to enter Dance Mode. If not, he'll do one last attack with the electric pillar that shoots lightning that follows you around. Move around and don't stop. After this he repeats the whole sequence.
 
-If you've done the Secret Chapter of Chapter 7, you should have the Sleeping Soup on your inventory. If you start the boss fight with this item in your inventory, the doctor will be asleep, letting you open its head for free damage. This won't work on Nightmare Mode however.
+If you've done the Secret Chapter of Chapter 7, you should have the Sleeping Soup on your inventory. If you start the boss fight with this item in your inventory, the doctor will be asleep, letting you open its head for one free hit. This won't work on Nightmare Mode however.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248516.png">
 
@@ -206,9 +204,9 @@ Defeat Barrel and his Army of Skeletons and recover the Thanksgiving Door
 ```
 `PROGRESSION`
 
-Barrel will always run away from you while send Skeletons in your way. He also does attack by shooting you if far enough from you.
+Barrel will always run away from you while sending Skeletons in your way. He also does attack by shooting you if far enough from you.
 
-You can easily defeat him by stunlocking him with Taunts. Right after a Taunt perform a Charged Soul Spin, then immediately after Taunt again and repeat. Otherwise you need to catch him while he's running away.
+You can easily defeat him with a few Soul Spins powered up with Blue Souls, but you do need him to stand still. You can stunlock him by taunting, then immediately follow it up with Soul Spin and repeat. Or hit him while he jumps to make him fall and open for a hit.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248517.png">
 
@@ -218,9 +216,9 @@ Defeat Lock, Shock and Barrel and recover the Independence Day Door
 ```
 `PROGRESSION`
 
-Throw the bear traps and exploding pumpkins at them for some damage. Bear traps will also lock them in place, but they'll still be able to attack you. When the bathtub is destroyed, all three will get off to attack you. Of the 3, Shock is the most dangerous, as she can summon statues that will circle around you blocking your movement an leaving you open for attacks from the other 2. Lock and Barrel fight the same as like their other fights. Lock will try to plunge onto you from high above with a shadow that will tell you when to dodge his attack. Barrel will shoot at you from afar. They'll always announce their attacks so you'll know when they're gonna do them.
+Throw the bear traps and exploding pumpkins at them for some damage. Bear traps will also bindthem in place, but they'll still be able to attack you. When the bathtub is destroyed, all three will get off to attack you. Of the 3, Shock is the most dangerous, as she can summon statues that will circle around you blocking your movement an leaving you open for attacks from the other 2. Lock and Barrel fight the same as like their other fights. Lock will try to plunge onto you from high above with a shadow that will tell you when to dodge his attack. Barrel will shoot at you from afar. If you don't have a view of them, they always shout their attack when they're ready.
 
-One very effective way to defeat them is to first destroy their bathtub right at the edge of the arena so the three of them won't get off far away. Immediately when they get off use Fire Bomb from your Pumpkin King costume to blast all three of them at once up high in the air. When they fall down, wait for them to try to get up before using Fire Bomb again to hit them. You can do this for as many Red Souls as you can, but remember to collect the notes to finish them off faster. If it fails, try to at least keep Shock occupied while keeping a look for the other two's whereabouts.
+One very effective way to defeat them is to first destroy their bathtub right at the edge of the arena so the three of them won't get off far away from each other. Immediately when they get off use Fire Bomb to blast all three of them at once up high in the air. When they fall down, wait for them to try to get up before using Fire Bomb again to hit them. You can do this for as many Red Souls as you can, but remember to collect the notes to finish them off faster. If it fails, try to at least keep Shock occupied while keeping a look for the other two's whereabouts and use Fire Bombs when you're sure to hit more than 1 of them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248518.png">
 
@@ -234,9 +232,9 @@ Stay close to the central platform and destroy the cards immediately as they app
 
 The gunners can be destroyed and if done so will damage Oogie Boogie for a bit of damage. You can either go for them, or just go to the opposite side of the arena to not get hit.
 
-After the gunners, the cards will appear again, minus the one you've destroyed earlier. After a while exploding dices will appear that need to be thrown away immediately.
+After the gunners, the cards will appear again, minus the one you've destroyed earlier. After these, exploding dices will appear that need to be thrown away immediately or they'll explode in your face.
 
-The dices will appear again, except they won't explode immediately. At this moment Oogie will sing the "WOW" part of the song, and he'll have his mouth wide open whenever he sings "WOW". Throw the dices at him when his mouth is open and stay right on the empty spot where the dice was to avoid the explosions. After the third WOW, Oogie will explode and it'll be possible to damage him with Soul Robber.
+The exploding dices will appear again, except they won't explode immediately. At this moment Oogie will sing the "WOW" part of the song, and he'll have his mouth wide open whenever he sings "WOW". Throw the dices at him when his mouth is open and stay right on the empty spot where the dice was to avoid the explosions. After the third WOW, Oogie will explode and it'll be possible to damage him with Soul Robber.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248519.png">
 
@@ -749,11 +747,9 @@ You first need to enter their house and read the letter to start looking for the
 
 One is right in front of their house. Two are close-by in the Towers of Torment. One is in an Hidden Place, reachable through the Sewage Slums, going past the wooden planks in the southern area. You can reach the Sewage Slums by going either in the entrancer under the stairs that would take you to the two bats, or going back to the corridor with the moving scythes and proceeding to the right.
 
-Use the map to locate them.
-
 ![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231114173942](https://github.com/RetroAchievements/guides/assets/133049176/48ce8a99-aaad-43d7-a37c-a7351202d3fc)
 
-Only suggestion that i can give is to use your presents to lure them closer to you.
+You can lure them with presents to make it less of a headache. Try to not scare them by running at them, unless you're sure to grab them.
 
 **Combo**\
 There are enemies all around the Residential Area, but consider using the Hidden Place where you find one of the Vampire Brothers. Stepping into the center of the area will make Orc Skeletons appear ready to get combos going.
@@ -872,6 +868,22 @@ S Rank | Easy | Normal  | Nightmare
 **Damage** | 14 | 12 | 8
 **!-Count** | 32 | 41 | 41
 
+**Time**\
+Don't forget to throw the exploding dice in his mouth when possible. You'll waste an enormous amount of time if you don't. Also use Blue Soul when he's stunned for more damage.
+
+The gunners don't add that much damage to make them important to destroy. If you can, do so. If you can't, don't worry about it.
+
+**Combo**\
+It's done with a perfect Dance Mode.
+
+**Damage**\
+You need to keep your distance from the cards while destroying them. If you don't you won't have a safe space to be for the spikes coming out of the central platform. Soul Robber Lvl 3 will help you in destroying them fast enough.
+
+If you REALLY can't destroy the gunners, please don't bother and just move to the other side of the arena!
+
+**!-Count**\
+Also done with Dance Mode.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248692.png">
 
 ```
@@ -962,6 +974,25 @@ S Rank | Easy | Normal  | Nightmare
 **Combo** | 8 | 10 | 80
 **Damage** | 4 | 4 | 4
 **!-Count** | 5 | 5 | 5
+
+**Time**\
+
+You first need to speak with the elf to start the scavenging hunt.
+
+![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231128132002](https://github.com/RetroAchievements/guides/assets/133049176/0d9e93b2-cb2e-448b-94a6-6f21991c743f)
+
+The Red Ornament is sadly a random factor here. As you are going for the other decorations, hit some trees on your way to find it.
+
+For the carousel, stand a bit ahead of the cats and penguins so that Soul Spin can reliably send back the exploding pumpkins.
+
+**Combo**\
+Use the Green Elf House, Hidden Place 17, to get to the combo. You can also use the Red Elf House even if it's hidden enemies there.
+
+**Damage**\
+Outside of the Hidden Places, the Carousel is the only troubling thing here. Just make sure to Soul Spin anything it throws at you.
+
+**!-Count**\
+You might end up doing these at the Red Elf House. Throw presents and you'll take care of this right away.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248697.png">
 
