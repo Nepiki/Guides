@@ -73,8 +73,6 @@ Music is, of course, an important part of the game. It's mostly prominent during
 
 While fighting the bosses, notes can be dropped by hitting the bosses themselves or by other enemies or destructible hazards. These notes can be collected to fill up a meter. Completely filling up this meter will commence Dance Mode. Like a rhythm game, you have to press the buttons that'll appear while they are in between the two markers in the bottom part of the screen. Completing the Dance Mode in its entirety will dish out a big amount of damage to the boss. Missing a certain amount of notes will end the dance earlier and lower the damage dealt to the boss.
 
-Through Dance Mode it is possible to rack up Combo and !-points by pressing the inputs right in between the marks. If done correctly, the input gets marked as "GOOD" and you'll gain an !-point and 1 combo. Most of the combo and !-count rankings in chapters that have a boss fight do depend on doing these dances perfectly to reach them.
-
 Each difficulty will change the position of the markers. Higher difficulty level will make the markers move more closer to each other, requiring in turn more precision with the button presses.
 
 <p align="center">
@@ -111,15 +109,27 @@ The highest score achieved will be saved by the game and rewritten if a better s
 
 ## Tips
 
-[To Rewrite haha]
+* A successful Taunt empowers your next Soul Robber attack. This will let you either make a stronger normal combo, a stronger Soul Spin or start Soul Cycle.
+* Not only is Soul Spin your best tool for making combos, but when empowered, or when a **Blue Soul** is used, it'll deal very high damage if all hits connect. It is less ideal against lesser enemies due since they'll instead get pushed away.
+* Soul Grab is very good against elusive enemies like ghosts or trick and treats to defeat them faster. **Soul Cycle** is instead effective when in certain rooms with many enemies.
+* The Soul Grab and Soul Cycle have a duration for how long you can keep using them. If you use Blue Souls while using these moves you can replenish their durability.
+* Pumpkin King has highly damaging attacks. Especially Fire Bomb can take out King Skeletons in a few hits. However the costume is needed in different points in certain chapters, like lighting up stuff or destroying wooden planks, in order to progress. It is suggested to not use too many Red Souls, save at least a few a them just in case.
+* Santa Jack's presents have different utilities:
+  * Re-possession is used to collect !-points and to turn enemies to normal.
+  * Scared Stiff is really good against hidden ghosts or to crowd control many enemies.
+  * Cold Front can block a problematic enemy if needed, and it's the only present that deals damage.
+* Enemies in Oogie Mode are really dangerous. They get increase health, become faster with their attacks, and also get new attacks. You have to either fight them carefully or turn them back to normal with a Re-possession present.
+* Hidden enemies are always in Oogie Mode and will most likely hit you if you get near them. Re-possession presents will take them out from their hiding spot and also turns them back to normal.
+* Usually in chapters that have boss fights you can do both combo and !-count requirement by doing a perfect **Dance Mode**. Pressing the inputs right in the middle between the two markers increases combo count by 1 and also increase the !-count by 1.
+* You can extend the invicibility in your dodge by immediately changing to one of your costumes right after executing a dodge. This is because the costume change animation has invincibility, and dodging cancels that animation but not the invincibility from it.
 
 # Overview
 
 ## Progression
 
-These can be naturally earned by just playing through the game to completion.
+Story related achievements that will be earned just by playing the game naturally.
 
-It is suggested to start the game straight to Nightmare Mode to make the challenge achievements available to be unlocked, as they require this difficulty selected.
+Since most of the challenge achievements require Nightmare mode to be selected, it is suggested to start the game with this difficulty. 
 
 ## Rank S
 
