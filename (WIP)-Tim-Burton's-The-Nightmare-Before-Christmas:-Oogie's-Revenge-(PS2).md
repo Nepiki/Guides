@@ -1813,24 +1813,24 @@ Go to the Hanging Tree and talk to him.
 
 <details><summary>Chapter 5 - The Crypt Creeper</summary>
 
-[Graveyard - Tomb of Tears]
+**[Graveyard - Tomb of Tears]**
 
 We need to go to the Old Graveyard into the building full of spiderwebs.
 
-[Graveyard - Old Graveyard]
+**[Graveyard - Old Graveyard]**
 
 While going there, you'll be stopped by Lock and his skeletons.\
 Faster way to deal with him is to Taunt him immediately and Soul Spin in his face on repeat. 
 
 After defeating him, get inside the building
 
-[Graveyard - Corridor of Coffins]
+**[Graveyard - Corridor of Coffins]**
 
 Progress through this area and enter the Burial Chamber.
 
-[Graveyard - Burial Chamber]
+**[Graveyard - Burial Chamber]**
 
-[Boss Fight - Mega Spider]
+**[Boss Fight - Mega Spider]**
 
 Dodge its attacks and hit its weakspot. Charge your combo, and when the spiderlings appear, make a powered up combo and immediately follow it up with a Soul Spin to deal the most damage. Blue Souls can also be used but are not ideal.
 
@@ -1844,37 +1844,37 @@ You'll also get the **Pumpkin King Costume**!
 
 <details><summary>Chapter 6 - The Doctor's Hunch</summary>
 
-[Graveyard - Tomb of Tears]
+**[Graveyard - Tomb of Tears]**
 
 Go straight to Town Square.
 
-[Town Square - Fountain Area]
+**[Town Square - Fountain Area]**
 
 Go to the left to get to the gate to the Laboratory. Use the **Laboratory Key** to open it and enter.
 
-[Doctor's Lab - The Acid Works]
+**[Doctor's Lab - The Acid Works]**
 
 Go sout, then east. Defeat all the enemies and than jump onto a spiral you should see on top of the tube. Break the wooden planks with the Pumpkin King Costume and activate the switch behind it. Follow the tube to the left to get back to where you started. You'll also find some Souls on the way.
 
 Go past the gate and talk to Igor. Exit the area to get to the Witches' Shop.
 
-[Town Square - Fountain Area]
+**[Town Square - Fountain Area]**
 
 Right outside of the shop you'll start a fight against Shock's ghosts. You can get rid of them faster with a Soul Cycle. You can replenish Blue Souls to the shop anyway.
 
 After the fight, enter the Witches' Shop.
 
-[Town Square - Witches' Shop]
+**[Town Square - Witches' Shop]**
 
 Talk to the Witch to the right. Then get out of the shop.
 
-[Town Square - Fountain Area]
+**[Town Square - Fountain Area]**
 
 Go near the fountain and talk to Corpse Kid. He'll give you the Bone Biscuits if you answer at least 7 out of 10 questions correctly. Don't answer to all of them correctly or you won't be able to get a Golden Pumpkin, if you're interested in that. Also the first time toy take on the quiz for the Bone Biscuits the questions are always the same.
 
 Once you get the Bone Biscuits, go back to the Doctor's Lab.
 
-[Doctor's Lab - The Acid Works]
+**[Doctor's Lab - The Acid Works]**
 
 Just speak with Igor to give him the Bone Biscuits.
 
@@ -1884,21 +1884,21 @@ Just speak with Igor to give him the Bone Biscuits.
 
 <details><summary>Chapter 7 - The Lightning Round</summary>
 
-[Doctor's Lab - The Acid Works]
+**[Doctor's Lab - The Acid Works]**
 
 Right at the start, go forward a bit and destroy the wooden planks to your right with the Pumpkin King Costume and enter.
 
-[Doctor's Lab - Power Plant]
+**[Doctor's Lab - Power Plant]**
 
 Destroy the trap for later. Then go through the electric gates and destroy the debris to make way to the generator.
 
 Immediately after you destroy the generator, go south-west to exit the area. Go south, then west and take the elevator that takes you back to the entrance of the area.
 
-[Doctor's Lab - The Acid Works]
+**[Doctor's Lab - The Acid Works]**
 
 Now the area will be crawling with Trick and Treats and traps. Get to the lab by going north and avoid all the traps and enemies in the area. Soul Spin the heads that come out of the Guillotine on top of the stairs to send them back at them rather than just attacking it. Stay a bit far from theMechanical Teets and hit them to disable them. 
 
-[Doctor's Lab - Runaway Ramp]
+**[Doctor's Lab - Runaway Ramp]**
 
 You can dodge the boulders with the dodge trick but it requires some timing.\
 Go through the ramp and hide from then boulders as you go.
@@ -1911,9 +1911,9 @@ After reaching Lock on top of the ramp, get into the elevator.
 
 <details><summary>Chapter 8 - Changing Brains</summary>
 
-[Doctor's Lab - Nightmare Lab]
+**[Doctor's Lab - Nightmare Lab]**
 
-[Boss Fight - Dr. Finklestein]
+**[Boss Fight - Dr. Finklestein]**
 
 Of course, we want to be fast here. At the start, throw the pieces of brain in front of him so that they drop on the ground right in front or near him. Get behind him, destroy the turret to the left, and open his head. Then go immediately for the brain piece and throw it at him in front.
 
