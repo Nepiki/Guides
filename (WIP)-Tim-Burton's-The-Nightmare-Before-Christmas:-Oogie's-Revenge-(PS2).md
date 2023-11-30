@@ -1599,8 +1599,8 @@ For the other 2 Crystal Bottles, you need to exchange all 8 Crystal Skulls you c
 4. In **Runaway Ramp**. Right in front of the elevator that takes you to **Nightmare Lab**, go to the left and jump onto the spiral. Enter the door here to get to **Igor's Room**, where you'll find the Crystal Skull.
 5. In the **Runaway Ramp**, from Chapter 8 onwards. Go through the door that you should find in the ramp a bit before the elevator to the **Nightmare Lab**, that that was barred at first. You'll be in **Sally's Room**, and just like with **Igor's Room**, you'll find the Crystal Skull right here.
 6. In the Residential Area, go to entrance to the left of the Vampire Brothers' House, then go al the way straight and fall onto the pit. Go south to see some wooden blockade, but instead go to the left and look for a breakable wall. Break the wall and go through the entrance to get to Hidden Place 11 to get the Crystal Skull.
-7. In the Magma Maze, progressing through the area you should see the Crystal Skull in an unreachable area. Go back to the red moving platform and when possible move to the other platform that is held by a skeleton. Latch on the spiral on top to get to the Crystal Skull.
-8. In Christmas Town, it's located in the Hidden Place 18, where you have to get the Candles for Chapter 22. At the entrance of Christams Town, go behind the building to the left and latch on the spiral to get on top of the building. Drop on top of the big present behind the train and wait until you see a spiral. Latch on this spiral to get to the Hidden Place 18. If you're in Chapter 22, you'll need to re-enter it after getting the Candles to get the Crystal Skull.
+7. In the **Magma Maze**, progressing through the area you should see the Crystal Skull in an unreachable area. Go back to the red moving platform and when possible move to the other platform that is held by a skeleton. Latch on the spiral on top to get to the Crystal Skull.
+8. In **Christmas Town**, it's located in the **Hidden Place 18**, where you have to get the Candles for Chapter 22. At the entrance of Christams Town, go behind the building to the left and latch on the spiral to get on top of the building. Drop on top of the big present behind the train and wait until you see a spiral. Latch on this spiral to get to the Hidden Place 18. If you're in Chapter 22, you'll need to re-enter it after getting the Candles to get the Crystal Skull.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248752.png">
 
@@ -1931,11 +1931,31 @@ You'll also get the **Santa Jack Costume**!
 
 <details><summary>Chapter 9 - Pumpkin Patch Possession</summary>
 
-To exit the lab quickly, go to the left where there's the door to Igor's Room and drop from the ramp that's right in front of the door.
+**[Doctor's Lab - Nightmare Lab]**
 
-Go through the Pumpkin Patch, through the passage to the left of the main gate.
+Exit the lab through the elevator.
 
-Dodge and pray all the hidden ghosts in this area and proceed further. Then just defeat the enemies quickly and jump into the spirals until you've reached the end
+**[Doctor's Lab - Runaway Ramp]**
+
+To exit this area quickly, go to the left and jump on the spiral. Then jump off to the ramp to the right to be at the entrance.
+
+**[Doctor's Lab - The Acid Works]**
+
+Exit this area to Town Square.
+
+**[Town Square - Fountain Area]**
+
+To the left of the gate that takes you to the Graveyard, there's a passage that'll take you to the Pumpkin Patch.
+
+**[Pumpkin Patch - Behemoth's Briars]**
+
+Go through the Pumpkin Patch avoiding the hidden enemies as best as you can.
+
+You'll need to fight all the enemies or you won't be able to use the spiral to reach the end of the area.
+
+When Oogie starts to talk, you can stay there for a bit until he stops talking to not make some enemies appear further there.
+
+Reach the end of the area to get to Barrel's Maze.
 
 </details>
 
@@ -1943,11 +1963,13 @@ Dodge and pray all the hidden ghosts in this area and proceed further. Then just
 
 <details><summary>Chapter 10 - Barrel's Maze</summary>
 
+**[Pumpkin Patch - Barrel's Maze]**
+
 Hit the switch to the left, then go straight.
 
-Hit the switch that is far away with the pumpkin then go through the trolls and the guillottine.
+Hit the switch that is far away with a pumpkin then go through the trolls and the guillottine.
 
-Continuing after the guillotine, jump into the spiral that you should see closeby and hit the switch there. Jump back, go south, a bit north and all the way east until you cross the bridge.
+Continuing after the guillotine, jump into the spiral that you should see on your way and hit the switch on the other side. Jump back, go south, a bit north and all the way east until you cross the bridge.
 
 </details>
 
@@ -1955,15 +1977,21 @@ Continuing after the guillotine, jump into the spiral that you should see closeb
 
 <details><summary>Chapter 11 - Peril in the Pumpkin Head</summary>
 
-Jump on top of the pumpkin and enter the hole you'll find up there.
+**[Pumpkin Patch - Barrel's Maze]**
 
-On the first floor, just defeat the skeletons as normal.
+Jump on top of the big pumpkin through the spirals and enter the hole you'll find up there.
 
-On the second floor, Soul Cycle for some damage and to bring the ghosts closer to you. Then either Soul Slam or combo them.
+**[Pumpkin Patch - Big Pumpkin Head ]**
 
-On the Third floor, there'll be enemies hidden. To the right there are skeletons, and to the left there are ghosts. Don't bother to reveal them with presents, you can just reveal them yourself by either walking and dodging into them or hitting them.
+On the first floor, defeat the skeletons as usual.
 
-Against Barrel, stun lock him with taunts and Soul Spin until defeated.
+On the second floor, Soul Cycle the Halloween Ghosts. Soul Slam if there are a few ghosts remaining.
+
+On the Third floor, there'll be enemies hidden. To the right there are skeletons, and to the left there are ghosts. Either reveal them with presents or hit them from a safe distance with Soul Robber and take them out fast.
+
+Against Barrel, it's the same tactic as with Lock. Catch him in the air to damage him more or stunlock him with Taunts and Soul Spins.
+
+After the fight you'll earn the **Thanksgiving Door** and the **Residential Area Key**.
 
 </details>
 
