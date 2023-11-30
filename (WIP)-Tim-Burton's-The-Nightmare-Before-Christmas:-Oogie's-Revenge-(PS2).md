@@ -1713,6 +1713,8 @@ After the cutscene, move immediately in the Town Hall to start the boss fight.
 
 **[Boss Fight - Shadow Oogie]**
 
+Refer to <code>This is Oogie-Town</code>
+
 Use your Blue Souls and hit him constantly with your Soul Robber. You should then be able to finish him off with a Dance Mode.
 
 After the fight, you'll get the **Halloween Door**.
@@ -1820,7 +1822,10 @@ We need to go to the Old Graveyard into the building full of spiderwebs.
 **[Graveyard - Old Graveyard]**
 
 While going there, you'll be stopped by Lock and his skeletons.\
-Faster way to deal with him is to Taunt him immediately and Soul Spin in his face on repeat. 
+
+**[Boss Fight - Lock]**
+
+Faster way to deal with him is to Taunt him immediately and Soul Spin in his face on repeat. If it fails, catch him while he's jumping to make him fall and open for some attacks.
 
 After defeating him, get inside the building
 
@@ -1831,6 +1836,8 @@ Progress through this area and enter the Burial Chamber.
 **[Graveyard - Burial Chamber]**
 
 **[Boss Fight - Mega Spider]**
+
+Refer to <code>Damcel in Distress</code>
 
 Dodge its attacks and hit its weakspot. Charge your combo, and when the spiderlings appear, make a powered up combo and immediately follow it up with a Soul Spin to deal the most damage. Blue Souls can also be used but are not ideal.
 
@@ -1867,6 +1874,8 @@ After the fight, enter the Witches' Shop.
 **[Town Square - Witches' Shop]**
 
 Talk to the Witch to the right. Then get out of the shop.
+
+Needless to say to buy anything you need while you're here.
 
 **[Town Square - Fountain Area]**
 
@@ -1914,6 +1923,8 @@ After reaching Lock on top of the ramp, get into the elevator.
 **[Doctor's Lab - Nightmare Lab]**
 
 **[Boss Fight - Dr. Finklestein]**
+
+Refer to <code>Cerebrum Cleansed</code>.
 
 Of course, we want to be fast here. At the start, throw the pieces of brain in front of him so that they drop on the ground right in front or near him. Get behind him, destroy the turret to the left, and open his head. Then go immediately for the brain piece and throw it at him in front.
 
@@ -1981,7 +1992,7 @@ Continuing after the guillotine, jump into the spiral that you should see on you
 
 Jump on top of the big pumpkin through the spirals and enter the hole you'll find up there.
 
-**[Pumpkin Patch - Big Pumpkin Head ]**
+**[Pumpkin Patch - Big Pumpkin Head]**
 
 On the first floor, defeat the skeletons as usual.
 
@@ -1989,7 +2000,11 @@ On the second floor, Soul Cycle the Halloween Ghosts. Soul Slam if there are a f
 
 On the Third floor, there'll be enemies hidden. To the right there are skeletons, and to the left there are ghosts. Either reveal them with presents or hit them from a safe distance with Soul Robber and take them out fast.
 
-Against Barrel, it's the same tactic as with Lock. Catch him in the air to damage him more or stunlock him with Taunts and Soul Spins.
+**[Boss Fight - Barrel]**
+
+Refer to <code>Thanks for Giving the Door</code>
+
+Against **Barrel**, it's the same tactic as with Lock. Catch him in the air to damage him more or stunlock him with Taunts and Soul Spins.
 
 After the fight you'll earn the **Thanksgiving Door** and the **Residential Area Key**.
 
@@ -1999,13 +2014,32 @@ After the fight you'll earn the **Thanksgiving Door** and the **Residential Area
 
 <details><summary>Chapter 12 - Runaway Clown</summary>
 
-If you need, triple jump on top of the stump for the Golden Pumpkin.
+**[Pumpkin Patch - Big Pumpkin Head]**
 
-Go all the way back to Halloween Town. This is a good time to stop by the Witches' Shop to buy some upgrades.
+If you want, perform a triple dodge to jump on the stump to get the **Golden Pumpkin**.
 
-Go to the left of the City Town Hall and open the gate with the key to get to the Residential Area. Stop the Clown with a Re-possession present, then talk to the Witch. You'll then have to go to the Doctor in his lab to ask him for a tool. After talking to him interact with his tool box on the left to grab one.
+Go all the way back to **Town Square**.
 
-Go back to the Clown. Stun him with the Re-possession present and then use the tool on him.
+**[Town Square - Fountain Area]**
+
+This is also a good time to stop by the Witches' Shop to buy some upgrades.
+
+Go to the left of the Town Hall and open the gate with the **Residential Area Key**.
+
+**[Residential Area - Hemlock Homestead]**
+
+Stop **Clown** by surprising him with a Santa Jack's present. Then talk to the Witch.\
+You'll then have to go to the Doctor in his lab to ask him for a tool so lets get there.
+
+**[Doctor's Lab - Nightmare Lab]**
+
+Talk to** Dr. Finklestein**, then interact with the tool box you should find to the left to get the **Bone Driver**.
+
+Go back to the **Clown**.
+
+**[Residential Area - Hemlock Homestead]**
+
+Startle him again and use the **Bone Driver** on him.
 
 </details>
 
@@ -2013,25 +2047,40 @@ Go back to the Clown. Stun him with the Re-possession present and then use the t
 
 <details><summary>Chapter 13 - The Vampire Brothers</summary>
 
-The vampires won't appear until you read the letter they left behind in their house, so do that before looking for them.
+**[Residential Area - Hemlock Homestead]**
+
+Get to the **Vampire Castle**.
+
+**[Residential Area - Vampire Castle]**
+
+The **Vampire Bats** won't appear until you've read the letter they left behind, so do that before looking for them.
 
 Here's a map to give an idea of their location
 
 ![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231114173942](https://github.com/RetroAchievements/guides/assets/133049176/36862d9a-65c5-4845-86d2-a570b2b593d3)
 
 One is right outside their house, where you open the gate with Clown.\
-The second and the third one are close by each other in the Towers of Torment. Going to the left of the Vampires' House past the gate, go through the path and take the left when possible. Proceed, and then take the stairs and jump onto the spiral. Here you'll find one of the bats in a very tricky area. The other one is found on the roof, by taking a spiral located to the left of this area.\
-The fourth one is found in the Hidden Place 10. When you reach the Sewer Slums, go to where the wooden blockade are located and destroy them with the Pumpkin King Costume. Then go upstairs, defeat the King Skeletons and take the spiral to the north to be transported right in front of the entrance of the Hidden Place.
+The second and the third one are close by each other in the **Towers of Torment**. Past the gate to the left of the **Vampire Castle**, go through the path and take the left. Proceed and then take the stairs and jump onto the spiral. Here you'll find one of the **Vampire Bats** in a very tricky area that has you jumping on different spirals to move and with a giant fishbone that'll appear at the center.\
+The third one is found on the roof, by taking a spiral located to the left of the area where you found the earlier bat.\
+The fourth one is found in the **Hidden Place 10**. When you reach the **Sewer Slums**, get to where the wooden planks are located. Destroy them then go upstairs. Jump onto the spiral and defeat the King Skeletons that wil appear one after the other. Take the spiral to the north to be transported right in front of the entrance of the Hidden Place.
 
-The vampires can be attracted with your presents to make it much more easier to catch them. You still need to at least approach them a little to be attracted by the present, and they'll also attract the other bats that we're not interested.
+The vampires can be attracted with your presents to make it more easier to catch them. You still need to at least approach them a little to be attracted by the present and to not scare them by running at them.
 
-After getting all four yellow bats, return to their house and bring them into each of the coffins inside the house.
+After getting all the **Vampire Bats**, return to the **Vampire Castle**
+
+**[Residential Area - Vampire Castle]**
+
+Put the **Vampire Bats** in each of the coffins. You'll earn a **Mayor's House Key Piece** from each of the Vampire Brother you've saved.
 
 </details>
 
 ***
 
-Chapter 14 - The Mayor's Madhouse
+<details><summary>Chapter 14 - The Mayor's Madhouse</summary>
+
+
+
+</details>
 
 ***
 
@@ -2074,6 +2123,8 @@ Chapter 18 - Spiral Hill
 **[Spiral Hill - Horror Hill]**
 
 **[Boss Fight - Fire King Skeleton and Ice King Skeletons]**
+
+Refer to <code>A Dance of Fire and Ice</code>
 
 Fire Bomb the Ice King Skeleton to take it out quickly.
 
