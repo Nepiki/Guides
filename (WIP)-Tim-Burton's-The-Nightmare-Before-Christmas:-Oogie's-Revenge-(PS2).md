@@ -865,6 +865,20 @@ S Rank | Easy | Normal  | Nightmare
 **Damage** | 14 | 12 | 8
 **!-Count** | 24 | 30 | 30
 
+**Time**\
+It is sort of complicated to know at first in which platform to move and what else. Make sure to know beforehand what is the pathing that will take you to the end of Oogie's Corridor.
+
+The Mega Spider here is the same as the one in Chapter 5. Anything said there will also apply here as well.
+
+**Combo**\
+While going through the Magma Maze, you should pass through a big skull you can go into through a spiral. There's a Hidden Place there that has Skeletons you can use for some combos.
+
+**Damage**\
+Avoid the traps, naturally. But watchout for the one that shoots skulls in the Magma Maze. Wait for it to shoot, Soul Spin the skulls if needed, and then move through the maze carefully.
+
+**!-Count**\
+Use the Hidden Place mentioned in the Combo part. You may want to use presents here because of the number of skeletons.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248691.png">
 
 ```
@@ -910,6 +924,18 @@ S Rank | Easy | Normal  | Nightmare
 **Combo** | 48 | 60 | 160
 **Damage** | 4 | 4 | 8
 **!-Count** | 24 | 30 | 30
+
+**Time**\
+Remember that you need to interact with the Mayor, the Hanging Tree and Zero's Dog House to start looking for the Spiral Hill Key.
+
+**Combo**\
+You can just use the Hidden Place on top of the Town Hall. It's quite literally on top of you where you're starting.
+
+**Damage**\
+Avoid taking damage from the statues.
+
+**!-Count**\
+The Hidden Place on top of the Town Hall is a fine choice.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248693.png">
 
@@ -2174,7 +2200,22 @@ Wait for the spinning blades to stop then jump onto the spirals. When you've rea
 
 **[Oogie Corridor - Caged Kings]**
 
+Proceed south to the cage shaped like a christmas tree and interact with it. A Mega Spider will appear.
 
+**[Boss Fight - Mega Spider]**
+
+The fight is the same as the Mega Spider in Chapter 5. Defeat it just like in that fight.
+
+After the fight, an elevator will come down that can take you to the Fountain Area in Town Square. You can use this opportunity to go to the Witches' Shop if you need.
+
+Interact with the christmas tree cage again to go through it.
+
+**[Oogie Corridor - Passage of Pain]**
+
+Get onto the first platform and the next. Get on top of the third one and light up the candle with the Pumpkin King Costume to make it move again.\
+Jump onto the spiral and move to the south where you should see a platform coming up. When you get onto this platform, you can also drop from it moving to the right to end up on the platform below. Go north and get onto the purple platform. Then jump onto the spiral at the end of its path.\
+Go through the see-saws, jump onto the spirals, then wait for the spinning blades before jumping onto the spirals. For the last spiral, wait for the platform to stop closers to the skeleton before jumping.\
+Move south where you'll find another platform that goes up and down. Wait to move all the way down the jump onto the last spiral. Finally move north through the passage.
 
 </details>
 
