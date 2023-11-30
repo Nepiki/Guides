@@ -30,7 +30,7 @@ Make sure to select this option to make all achievements possible to unlock.
 
 ## Controls
 
-### Normal Controls
+**Normal Controls**
 
 ![STICK L](https://github.com/RetroAchievements/guides/assets/133049176/b8ba627a-ceb8-4901-9c49-375d02691bd0): Move Jack\
 ![UP](https://github.com/RetroAchievements/guides/assets/133049176/d6212521-ea50-4ecc-920a-76faf7e7760a) / ![RIGHT](https://github.com/RetroAchievements/guides/assets/133049176/7788dcc2-c397-461c-837e-1ae2120af3d2) / ![DOWN](https://github.com/RetroAchievements/guides/assets/133049176/7ea76aac-cd2a-4076-8437-f49e99dc0fae) / ![LEFT](https://github.com/RetroAchievements/guides/assets/133049176/e181fdc7-e47f-45f9-b750-ae154fa7e95e) : Taunt \ Move cursor\
@@ -43,7 +43,7 @@ Make sure to select this option to make all achievements possible to unlock.
 ![SELECT](https://github.com/RetroAchievements/guides/assets/133049176/7076afcd-fd90-4938-8681-f026637e6185): Open map of the current area\
 ![START](https://github.com/RetroAchievements/guides/assets/133049176/54e3b0c9-94f3-49dc-9ec6-246c3e4f1ab6): Open pause menu
 
-### Soul Robber
+**Soul Robber**
 
 ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Normal attack (number of attacks based on Lvl of Soul Robber, up to 4)\
 ![STICK L](https://github.com/RetroAchievements/guides/assets/133049176/8d28d822-a9b6-43fa-bd77-590e766aeb4e) (full circle motion) ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Soul Spin\
@@ -54,12 +54,12 @@ Make sure to select this option to make all achievements possible to unlock.
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355) (hold): Soul Cycle\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355) (when pointing at a spiral): Soul Jump
 
-### Pumpkin King
+**Pumpkin King**
 
 ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6) (can hold): Flame Thrower (costs 0.1 Red Soul)\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355): Fire Bomb (costs 1 Red Soul)
 
-### Santa Jack
+**Santa Jack**
 
 ![SQUARE](https://github.com/RetroAchievements/guides/assets/133049176/712ebd3b-2aea-43ca-aea4-e1d7c8453bf6): Throw present (can be thrown further based on how long the button is held)\
 ![TRIANGLE](https://github.com/RetroAchievements/guides/assets/133049176/80cfd600-6799-47eb-ac87-dbebd34ca355): Change type of present\
