@@ -2164,6 +2164,17 @@ If it fails, try to at least hit two of them with Fire Bombs and to go after Sho
 
 <details><summary>Chapter 16 - The Grisly Gauntlet</summary>
 
+**[Oogie Corridor - Magma Maze]**
+
+Jump onto the spiral next to you. Then jump onto the next one continuing to the right.\
+Jump the northern spiral. Wait for the platform to arrive and then walk on it.\
+After arriving at its destination, walk to the right. Wait for the platform ahead to stop under the skeleton then latch on the spiral to drop onto the platform.\
+Walk south to a set of spiral you have to jump to. Walk past the first see-saw than jump onto the spiral. Wait for the moving platform to arrive then walk onto it. There will be turrets that'll shoot skulls at you. Wait for it to shoot, then move.\
+Wait for the spinning blades to stop then jump onto the spirals. When you've reached the other side, avoid the flaming statues and proceed to through the door.
+
+**[Oogie Corridor - Caged Kings]**
+
+
 
 </details>
 
@@ -2187,6 +2198,33 @@ After the fight you'll get the **Easter Door**.
 
 <details><summary>Chapter 18 - Spiral Hill</summary>
 
+**[Town Square - Fountain Area]**
+
+This is a good opportunity to check the Witches Shop' for upgrades and stocking up on Blue Souls and Red Souls.
+
+Go inside the Town Hall and talk to the Mayor
+
+**[Town Square - Town Hall]**
+
+After talking with the Mayor, go outside.
+
+**[Town Square - Fountain Area]**
+
+Speak with the Hanging Tree. Now we need to move to the Graveyard.
+
+**[Graveyard - Tomb of Tears]**
+
+Interact with **Zero's Dog House** to wake him up. He'll take you to a path behind the big tree. Going through this path, interact with a gravestone with **Hen Bane** engraved on it to find the **Spiral Hill Key**.
+
+Next up, we go to the Old Graveyard.
+
+**[Graveyard - Old Graveyard]**
+
+After passing through the statues that spit fire, go to the left and open the door with the **Spiral Hill Key**.
+
+**[Spiral Hill - Horror Hill]**
+
+Go through the path right ahead. Continue until you find the statues with slots shaped like the festive doors. Insert the correct door to their corresponding slot.
 
 </details>
 
