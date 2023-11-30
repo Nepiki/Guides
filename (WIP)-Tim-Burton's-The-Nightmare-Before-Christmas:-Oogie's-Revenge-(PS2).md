@@ -972,7 +972,19 @@ S Rank | Easy | Normal  | Nightmare
 **Damage** | 4 | 4 | 4
 **!-Count** | 5 | 5 | 5
 
+**Time**\
+All you have to do is go back to Hinterlands and put back the Halloween Door, the Valentine Door, the Thanksgiving Door, and the Easter Door to the area where they belong. Then go to the now accessible Seven Holidays area to return the Christmas Door to its place.
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248696.png">
+
+**Combo**\
+Pretty much any enemy in the Hinterlands. Some good targets are the ones outside of the Valentine's Door area.
+
+**Damage**\
+No trials will be here. You shouldn't have any problems with this.
+
+**!-Count**\
+Use the skeletons outside the Valentine's Door area, or just about anyone. Even the spiders outside the Independence Day Door's area.
 
 ```
 Christmas Town [5]
@@ -997,13 +1009,13 @@ The Red Ornament is sadly a random factor here. As you are going for the other d
 For the carousel, stand a bit ahead of the cats and penguins so that Soul Spin can reliably send back the exploding pumpkins.
 
 **Combo**\
-Use the Green Elf House, Hidden Place 17, to get to the combo. You can also use the Red Elf House even if it's hidden enemies there.
+Use the Red Elf House, Hidden Place 18. You can also use the Green Elf House, though there are hidden enemies there.
 
 **Damage**\
 Outside of the Hidden Places, the Carousel is the only troubling thing here. Just make sure to Soul Spin anything it throws at you.
 
 **!-Count**\
-You might end up doing these at the Red Elf House. Throw presents and you'll take care of this right away.
+You might end up doing these at the Green Elf House. Throw presents and you'll take care of this right away.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248697.png">
 
@@ -2078,7 +2090,27 @@ Put the **Vampire Bats** in each of the coffins. You'll earn a **Mayor's House K
 
 <details><summary>Chapter 14 - The Mayor's Madhouse</summary>
 
+**[Residential Area - Vampire Castle]**
 
+Let's move to the Towers of Torment
+
+**[Residential Area - Towers of Torment]**
+
+You should see the path to the Mayor's House. Instead of taking the stairs to get to one of the bats, proceed further ahead. Move right and go to the path you should see in front. This path is full of hidden enemies that can't be avoided easily. Defeat them with the help of Santa Jack then go through the gate.
+
+**[Residential Area - Mayor's Yard]**
+
+Go to the center of the area and insert the **Mayor's House Key Pieces** in their corresponding place. You can ignore the enemies for the whole time here.
+
+The the door is unlocked, go through it.
+
+**[Residential Area - Mayor's House]**
+
+Take the ramp south and proceed through the house to save the Mayor. After saving him, you'll have to proceed further to the **Mayor's Roof**.
+
+You can evade all the enemies, except for one particular area in which you have to defeat them to take the spiral to proceed further. Do this, then go through the last door further ahead.
+
+The Golden Pumpkin may be a waste of time to go for so don't bother.
 
 </details>
 
@@ -2086,27 +2118,47 @@ Put the **Vampire Bats** in each of the coffins. You'll earn a **Mayor's House K
 
 <details><summary>Chapter 15 - Rooftop Rumble</summary>
 
-Use Blue Soul when you block the tub with a beartrap for more damage.
+**[Residential Area - Mayor's Roof]**
 
-You can defeat all three of them really fast if you can constantly hit them with Fire Bombs. If you do it like this, you won't even need to dance.
+Refer to <code>Trick or Treat!</code>.
+
+Throw the pumpkins and the bear traps at the bathtub.
+
+To defeat them faster, you have to destroy their bathtub right at the edge of the arena to force them to come out more bundled up together. Whjen they're off, constantly hit them with Fire Bombs. Wait for them to try to get up before another Fire Bomb. If you do it like this, you won't even need to dance.
+
+If it fails, try to at least hit two of them with Fire Bombs and to go after Shock mostly.
 
 </details>
 
 ***
 
-Chapter 16 - The Grisly Gauntlet
+<details><summary>Chapter 16 - The Grisly Gauntlet</summary>
+
+
+</details>
 
 ***
 
 <details><summary>Chapter 17 - Casino Clash</summary>
 
-There's nothing much to do to speed this fight up. Outside of maybe detroying the gunners so they shoot Oogie and to use Blue Souls when it is possible to hit him after stunning him with the exploding dices, the fight will go just as normal.
+**[Oogie Corridor - Twist of Fate]**
+
+**[Boss Fight - Oogie Boogie]**
+
+Refer to <code>Boogeyman's Wager</code>
+
+There's nothing much to do to speed this fight up. Maybe detroying the gunners so they shoot Oogie and to use Blue Souls when it is possible to hit him after stunning him with the exploding dices. The fight will go just as normal.
+
+After the fight you'll get the **Easter Door**.
 
 </details>
 
 ***
 
-Chapter 18 - Spiral Hill
+<details><summary>Chapter 18 - Spiral Hill</summary>
+
+
+</details>
 
 ***
 
