@@ -110,18 +110,19 @@ The highest score achieved will be saved by the game and rewritten if a better s
 ## Tips
 
 * A successful Taunt empowers your next Soul Robber attack. This will let you either make a stronger normal combo, a stronger Soul Spin or start Soul Cycle.
-* Not only is Soul Spin your best tool for making combos, but when empowered, or when a **Blue Soul** is used, it'll deal very high damage if all hits connect. It is less ideal against lesser enemies due since they'll instead get pushed away.
-* Soul Grab is very good against elusive enemies like ghosts or trick and treats to defeat them faster. **Soul Cycle** is instead effective when in certain rooms with many enemies.
-* The Soul Grab and Soul Cycle have a duration for how long you can keep using them. If you use Blue Souls while using these moves you can replenish their durability.
+* Not only is Soul Spin your best tool for making combos, but when empowered, or when a **Blue Soul** is used, it'll deal very high damage if all hits connect. It is less ideal against lesser enemies since they'll instead get pushed away.
+* Soul Cycle is very good in certain rooms in the game where there's an horde of enemies that you need to defeat fast.
+* The Soul Grab and Soul Cycle have a duration for how long you can keep using them. If you use Blue Souls before Soul Robber starts to become red, you'll replenish its durability, extending the duration of the move.
 * Pumpkin King has highly damaging attacks. Especially Fire Bomb can take out King Skeletons in a few hits. However the costume is needed in different points in certain chapters, like lighting up stuff or destroying wooden planks, in order to progress. It is suggested to not use too many Red Souls, save at least a few a them just in case.
 * Santa Jack's presents have different utilities:
   * Re-possession is used to collect !-points and to turn enemies to normal.
   * Scared Stiff is really good against hidden ghosts or to crowd control many enemies.
   * Cold Front can block a problematic enemy if needed, and it's the only present that deals damage.
-* Enemies in Oogie Mode are really dangerous. They get increase health, become faster with their attacks, and also get new attacks. You have to either fight them carefully or turn them back to normal with a Re-possession present.
+* Enemies in Oogie Mode are really dangerous. They get increased health, faster attacks, and also get new attacks. You have to either fight them carefully or turn them back to normal with a Re-possession present. Defeating these variants do lead to more Souls.
 * Hidden enemies are always in Oogie Mode and will most likely hit you if you get near them. Re-possession presents will take them out from their hiding spot and also turns them back to normal.
 * Usually in chapters that have boss fights you can do both combo and !-count requirement by doing a perfect **Dance Mode**. Pressing the inputs right in the middle between the two markers increases combo count by 1 and also increase the !-count by 1.
 * You can extend the invicibility in your dodge by immediately changing to one of your costumes right after executing a dodge. This is because the costume change animation has invincibility, and dodging cancels that animation but not the invincibility from it.
+* Getting all the figurines in the game will reward you with infinite Red Souls for the Pumpkin King Costume. Not only this makes some parts in the game much easier to go through, but this powerup won't lock you out of any achievements. You can choose to wait until getting this power-up to make things easy, but you can also do OK without it.
 
 # Overview
 
@@ -1660,16 +1661,16 @@ The figurines can be earned by finishing a chapter with at least all A ranks or 
 **Sandy Claws**:  Get an overall A rank or better in Chapter 23.\
 **Mega Oogie**: Get an overall A rank or better in Chapter 24.
 
-**Heat Skeliton**: Found in Hidden Place 1, from chapter 12 and later. Refer to <code>Turn On The Heat</code> to learn more.\
-**King Ghost**: Found in Hidden Place 3. Refer to <code>Royal Wraith</code> to learn more.\
-**Troll Skeleton**: Found in Hidden Place 5. Refer to <code>Trololololol</code> to learn more.\
-**Blue Skeleton**: Found in Hidden Place 6. Refer to <code>Spooky Azure Skeletons</code> to learn more.\
-**Halloween Ghost**: Found in Hidden Place 8. Refer to <code>Spooktacular Phantom</code> to learn more.\
-**Orc Skeleton**: Found in Hidden Place 10, from chapter 14 and later. Refer to <code>Tyrant Frame</code> to learn more.\
-**King Skeleton**: Found in Hidden Place 16. Refer to <code>Dazzling Arthropod</code> to learn more.\
-**Trick and Treat**: Found in Hidden Place 17. Refer to <code>Ghostrick Or Treat</code> to learn more.
+**Heat Skeliton**: Found in Hidden Place 1, from chapter 12 and later. Refer to <code>Turn On The Heat</code>.\
+**King Ghost**: Found in Hidden Place 3. Refer to <code>Royal Wraith</code>.\
+**Troll Skeleton**: Found in Hidden Place 5. Refer to <code>Trololololol</code>.\
+**Blue Skeleton**: Found in Hidden Place 6. Refer to <code>Spooky Azure Skeletons</code>.\
+**Halloween Ghost**: Found in Hidden Place 8. Refer to <code>Spooktacular Phantom</code>.\
+**Orc Skeleton**: Found in Hidden Place 10, from chapter 14 and later. Refer to <code>Tyrant Frame</code>.\
+**King Skeleton**: Found in Hidden Place 16. Refer to <code>Dazzling Arthropod</code>.\
+**Trick and Treat**: Found in Hidden Place 17. Refer to <code>Ghostrick Or Treat</code>.
 
-Getting all the figurines will earn you Infininite Red Souls! This power-up will not make any achievement unobtainable, so it can be used to make certain parts easier if so desired.
+Getting all the figurines will earn you Infininite Red Souls!
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/794fcd12-a690-494d-9c1b-040253562186" width="600" height="450">
@@ -1812,52 +1813,118 @@ Go to the Hanging Tree and talk to him.
 
 <details><summary>Chapter 5 - The Crypt Creeper</summary>
 
-You need to get to the building on the other side of the graveyard, the one full of spiderwebs you should've seen while rescuing the third hangman.
+[Graveyard - Tomb of Tears]
 
-While going there, you'll be stopped by Lock and his skeletons. Faster way to deal with him is to Taunt him immediately and Soul Spin in his face. Then immediately Taunt and repeat until he's defeated.
+We need to go to the Old Graveyard into the building full of spiderwebs.
 
-Go inside the building and follow the path to the boss. Refer to <code>Damcel in Distress<\code> for learn how to defeat it.
+[Graveyard - Old Graveyard]
+
+While going there, you'll be stopped by Lock and his skeletons.\
+Faster way to deal with him is to Taunt him immediately and Soul Spin in his face on repeat. 
+
+After defeating him, get inside the building
+
+[Graveyard - Corridor of Coffins]
+
+Progress through this area and enter the Burial Chamber.
+
+[Graveyard - Burial Chamber]
+
+[Boss Fight - Mega Spider]
+
+Dodge its attacks and hit its weakspot. Charge your combo, and when the spiderlings appear, make a powered up combo and immediately follow it up with a Soul Spin to deal the most damage. Blue Souls can also be used but are not ideal.
+
+After the fight you'll get the **Valentine's Day Door** and the **Laboratory Key** from Sally.
+
+You'll also get the **Pumpkin King Costume**!
+
 </details>
 
 ***
 
 <details><summary>Chapter 6 - The Doctor's Hunch</summary>
 
-Go straight to Halloween Town and then the to the Doctor's Lab, on the right of the manhole in which you entered back in Chapter 2. Use the key to the door and enter.
+[Graveyard - Tomb of Tears]
 
-Go sout, then east. Defeat all the enemies and than jump onto a spiral you should see in front of the tube. Break the wooden blockade with the Pumpkin King Costume and activate the switch behind it. Go on top of the tube to the right to get some souls and to get back to the entrance faster. Cross the bridge to start a cutscene with Igor.
+Go straight to Town Square.
 
-Exit the Doctor's Lab and go to the Witches' Shop to start a fight against Lock's ghosts. You can get rid of them faster with a Soul Cycle, without even a worry about the Blue Souls since you're right in front of the Witches' Shop!
+[Town Square - Fountain Area]
 
-Exit Witches' Shop and go to Corpse Kid in front of the fountain to take the quiz for the biscuits. If you're interested in the Golden Pumpkin you can get for perfect score, do not get a perfect score the first time you take the quiz or you won't be able to get it later on. Also the first time he'll always have the same questions so you can definitely get ready beforehand to make this easier.
+Go to the left to get to the gate to the Laboratory. Use the **Laboratory Key** to open it and enter.
 
-Once you get the Bone Biscuits, go back to Igor and talk to him
+[Doctor's Lab - The Acid Works]
+
+Go sout, then east. Defeat all the enemies and than jump onto a spiral you should see on top of the tube. Break the wooden planks with the Pumpkin King Costume and activate the switch behind it. Follow the tube to the left to get back to where you started. You'll also find some Souls on the way.
+
+Go past the gate and talk to Igor. Exit the area to get to the Witches' Shop.
+
+[Town Square - Fountain Area]
+
+Right outside of the shop you'll start a fight against Shock's ghosts. You can get rid of them faster with a Soul Cycle. You can replenish Blue Souls to the shop anyway.
+
+After the fight, enter the Witches' Shop.
+
+[Town Square - Witches' Shop]
+
+Talk to the Witch to the right. Then get out of the shop.
+
+[Town Square - Fountain Area]
+
+Go near the fountain and talk to Corpse Kid. He'll give you the Bone Biscuits if you answer at least 7 out of 10 questions correctly. Don't answer to all of them correctly or you won't be able to get a Golden Pumpkin, if you're interested in that. Also the first time toy take on the quiz for the Bone Biscuits the questions are always the same.
+
+Once you get the Bone Biscuits, go back to the Doctor's Lab.
+
+[Doctor's Lab - The Acid Works]
+
+Just speak with Igor to give him the Bone Biscuits.
+
 </details>
 
 ***
 
 <details><summary>Chapter 7 - The Lightning Round</summary>
 
-Even if it true that the Sleeping Soup makes the boss fight against Dr. Finklestein faster, the Secret Chapter is a huge waste of time for just a tiny time save. It is not suggested to go for it.
+[Doctor's Lab - The Acid Works]
 
-Right at the start, go forward a bit and destroy the wooden blockade to your right with the Pumpkin King Costume. Destroy the traps to make the next part easier, then go through the electric gates and destroy the debris to make way to the generator.
+Right at the start, go forward a bit and destroy the wooden planks to your right with the Pumpkin King Costume and enter.
 
-Immediately after you destroyed the generator, go south-west to exit the area. Go south, then west and take the elevator that takes you back to the entrance of the area. Get to the lab by going north and avoid all the traps and enemies in the area. Soul Spin the heads that come out of the Guillotine on top of the stairs to send them back at them rather than just attacking it. 
+[Doctor's Lab - Power Plant]
 
-You can easily dodge the boulders with the dodge trick with the right timing. If you are unable to do so, after jumping to the first spiral, if you continue to climb you won't need to jump the next spiral. Continue a bit and hid into the door nearby to avoid the incoming boulder. After that, jump the spirals and wait inside the doors to avoid the boulders. Some of them are blocked by wooden planks that can be destroyed quickly with a Fire Bomb.
+Destroy the trap for later. Then go through the electric gates and destroy the debris to make way to the generator.
+
+Immediately after you destroy the generator, go south-west to exit the area. Go south, then west and take the elevator that takes you back to the entrance of the area.
+
+[Doctor's Lab - The Acid Works]
+
+Now the area will be crawling with Trick and Treats and traps. Get to the lab by going north and avoid all the traps and enemies in the area. Soul Spin the heads that come out of the Guillotine on top of the stairs to send them back at them rather than just attacking it. Stay a bit far from theMechanical Teets and hit them to disable them. 
+
+[Doctor's Lab - Runaway Ramp]
+
+You can dodge the boulders with the dodge trick but it requires some timing.\
+Go through the ramp and hide from then boulders as you go.
 
 After reaching Lock on top of the ramp, get into the elevator.
+
 </details>
 
 ***
 
 <details><summary>Chapter 8 - Changing Brains</summary>
 
+[Doctor's Lab - Nightmare Lab]
+
+[Boss Fight - Dr. Finklestein]
+
 Of course, we want to be fast here. At the start, throw the pieces of brain in front of him so that they drop on the ground right in front or near him. Get behind him, destroy the turret to the left, and open his head. Then go immediately for the brain piece and throw it at him in front.
 
 The next part requires you to be fast enough to pull it off. Destroy the blade to the right and behind him with a Fire Bombs to give yourself more maneuverability. Get behind him, but stand a bit to the left to not be hit by the blade that'll come your way. After opening his head, go for the throw before the turrets appear.
 
-This may take you a fair amount of tries to get it right. If it's too complicated, get to Dance Mode as fast as possible by destroying his inventions. Rely on it to more easily open his head. You'll still get a good enough time.
+This may take you a fair amount of tries to get it right. If it's too complicated, try to get to Dance Mode as fast as possible by destroying his inventions. This will make it easier to open his head at the cost of some time.
+
+After the fight you'll get the **St. Patrick's Day Door**.
+
+You'll also get the **Santa Jack Costume**!
+
 </details>
 
 ***
@@ -2002,7 +2069,8 @@ Get behind the Fire King Skeleton, use a Blue Soul and hit it from behind.
 
 You do have some time to go to the Witches' Shop if you wish. To the right you should see a Snow Man portal that'll take you to the Town Hall.
 
-Go to the christmas tree and talk to the elf to the right. It'll tell you that the decorations for the christmas tree are scatered all around Christmas Town and asks you to find them. There are 5 decorations that you'll need to find here.
+Go to the christmas tree and talk to the elf to the right. You have to talk to him to start the search for the decorations.\]
+There are 5 decorations that you'll need to find here.
 
 ![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231128132002](https://github.com/RetroAchievements/guides/assets/133049176/0d9e93b2-cb2e-448b-94a6-6f21991c743f)
 
@@ -2012,7 +2080,7 @@ The **Christmas Stocking** is found by destroying the carousel to the north. You
 The **Candle** is in **Hidden Place 18, Red Elf House**. To get here, you need to get on top of the house near the southern train tunnel, reachable with a spiral behind the house. Wait for the train to arrive, then jump on the present that is at the back. Wait for a bit until you see a spiral. Jump onto the spiral to enter the Hidden Place. Defeat all enemies here and you'll find the decoration.
 The last one, the **Star**, is found on top of an house, to the right of the Christmas Tree. You need to get on top of the train that appears to the northern train tunnel to reach it, but this one won't go near the star until you hit the switch near the tunnel to change its direction. Get in front of the switch, and when you see the train in the background, grab the switch and run on top of the tunnel. Drop on top of the present in the back of the train and wait. Jump immediately into the spiral that you should see after a while, and it'll take you to the decoration.
 
-After getting all of them, go back to the elf and just talk to it.
+After getting all of them, go back to the elf and just talk to him.
 
 </details>
 
