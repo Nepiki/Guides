@@ -1439,9 +1439,9 @@ Turn On The Heat [5]
 Defeat all monsters in Hidden Place 1 in Chapter 12
 ```
 
-This figurine can only be found from Chapter 12 and later.
+This figurine can only be found from Chapter 12 and later. Reaching this place earlier than that will just award you Souls.
 
-To get there you have to enter into the manhole found close to the fountain in **Town Square - Fountain Area**.
+To get to **Hidden Place 1**, you have to enter into the manhole found close to the fountain in the **Fountain Area**.
 
 Defeating all the enemies will earn you a **Heat Skeleton figurine**.
 
@@ -1452,7 +1452,7 @@ Royal Wraith [5]
 Defeat all monsters in Hidden Place 3
 ```
 
-Outside of the **Withes Shop** in **Town Square - Fountain Area**, to the right you'll find a sing with a fish on it. Hit it and it'll make a spiral appear to latch on. Latch also on the other spiral to the left and move north to enter the Hidden Place.
+Outside of the **Withes Shop**, to the right you'll find a sign with a fish on it. Hit it and it'll make a spiral appear to latch on. Jump between the spirals and when you've reached the roof of the tall building move north to enter **Hidden Place 3**.
 
 Defeating all the enemies will earn you a **King Ghost figurine**.
 
@@ -1463,9 +1463,9 @@ Trololololol [5]
 Defeat all monsters in Hidden Place 5
 ```
 
-Follow the path behind the tree in the Graveyard to the right and get past the statues by destroying them with the pumpkins. Follow the path and then enter the open grave to the right to access the Hidden Place.
+Follow the path behind the tree in the Graveyard. Get past the statues by destroying them with the pumpkins. Follow the path and when you reach an open area, go inside an open tomb you should find to the right full of vines.
 
-The first time you defeat all the enemies you'll be rewarded with a Crystal Skull. Defeating them again for the second time will reward you with a Troll Skeleton figurine.
+The first time you defeat all the enemies you'll be rewarded with a **Crystal Skull**. Defeating them again for the second time will reward you with a **Troll Skeleton Figurine**.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248722.png">
 
@@ -1474,11 +1474,9 @@ Spooky Azure Skeletons [5]
 Defeat all monsters in Hidden Place 6
 ```
 
-You need Red Souls to access this area.
+Get to the **Old Graveyard**. Proceed until you pass through the statues that spit fire. Latch on a spiral to the north you should find there. Ignite the spider web in front of the entrance of the tomb with your Pumpkin King Costume and enter the **Hidden Place 6**.
 
-Get to the second area of the Graveyard, which is south of the big tree. Proceed until you pass through the statues that spit fire. Proceed north in the direction of the tomb and latch on a spiral you should find there. Ignite the spider web in front of the entrance of the tomb with your Pumpkin King Costume and enter the Hidden Place 6.
-
-Defeating all the enemies will earn you a Blue Skeleton figurine.
+Defeating all the enemies will earn you a **Blue Skeleton figurine**.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248724.png">
 
@@ -1489,7 +1487,7 @@ Defeat all monsters in Hidden Place 8
 
 Right when you enter Barrel's Maze in the Pumpkin Patch, follow the right side of the area until you find a rock that can be broken. The entrance to Hidden Place 8 is behind this rock.
 
-Defeating all the enemies will earn you a Halloween Ghost figurine.
+Defeating all the enemies will earn you a **Halloween Ghost figurine**.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248725.png">
 
@@ -1498,12 +1496,11 @@ Tyrant Frame [5]
 Defeat all monsters in Hidden Place 10
 ```
 
-The figurine in here can only be earned from Chapter 14 and later.
-You also need Red Souls to access this area.
+The figurine in here can only be earned from **Chapter 14** and later.
 
-Go to the entrance to the left of the Vampire Brothers' House. Follow the path and when it diverges go straight, then follow down the pit. Go south, destroy the wooden blockade you'll find there and go up the stairs. Jump to the spiral nearby and then jump to the spiral to the north (take care of the enemies if they appear). Then just get into the entrance in front to get to Hidden Place 10.
+At the entrance of the **Towers of Torment**, follow the path and when it diverges go straight, then go down the pit to the **Sewer Slums**. Go south, destroy the wooden planks and go up the stairs. Jump to the spiral nearby and then jump to the spiral to the north (take care of the enemies if they appear). Then just get into the entrance in front to get to **Hidden Place 10**.
 
-Defeating all the enemies will earn you a Orc Skeleton figurine.
+Defeating all the enemies will earn you a **Orc Skeleton figurine**.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248726.png">
 
@@ -1512,9 +1509,9 @@ Dazzling Arthropod [5]
 Defeat all monsters in Hidden Place 16
 ```
 
-Go to Horror Hill, through a door to the right of the spiral that takes you to Hidden Palace 5 after that you can get through in Chapter 18. Go left, where you'll find a spiral to jump to that takes you under the spiral hill. Follow this path until you find a well. Go down the well. Destroy the all the statues by throwing the ghosts at them with △ and ▢. Destroying all the statues will reveal an entrance to the right that takes you to Hidden Place 16.
+Go to **Horror Hill**. Proceed through the path to the left until you find a well and interact with it. Destroy all the statues by throwing the ghosts at them. Destroying all the statues will reveal an entrance to the right that takes you to **Hidden Place 16**.
 
-Defeat all the enemies will earn you the King Skeleton figurine.
+Defeat all the enemies will earn you the **King Skeleton figurine**.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248727.png">
 
@@ -1523,9 +1520,9 @@ Ghostrick Or Treat [5]
 Defeat all monsters in Hidden Place 17
 ```
 
-In Christmas Town, Hidden Place 17 is located in a house above the train tunnel. You're needed to get here the first time in Chapter 22 to get the Green Ornament.
+In **Xmas Tree Plaza**, **Hidden Place 17** is the Green Elf House, the same one you're needed to enter in Chapter 22 to get one of the decorations. Light up the lamps in front of the house at the same time with Fire Bomb to gain access.
 
-Defeating the enemies again after getting the Green Ornament will earn you the Trick and Treat figurine.
+Defeating the enemies again after getting the **Green Ornament** will earn you the **Trick and Treat** figurine.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248746.png">
 
@@ -1641,9 +1638,9 @@ For the other 2 Crystal Bottles, you need to exchange all 8 Crystal Skulls you c
 3. In **Tomb of Tears**, from chapter 18 onwards. Get on top of the tree where you found the last Hangman to find the Crystal Skull.
 4. In **Runaway Ramp**. Right in front of the elevator that takes you to **Nightmare Lab**, go to the left and jump onto the spiral. Enter the door here to get to **Igor's Room**, where you'll find the Crystal Skull.
 5. In the **Runaway Ramp**, from Chapter 8 onwards. Go through the door that you should find in the ramp a bit before the elevator to the **Nightmare Lab**, that that was barred at first. You'll be in **Sally's Room**, and just like with **Igor's Room**, you'll find the Crystal Skull right here.
-6. In the Residential Area, go to entrance to the left of the Vampire Brothers' House, then go al the way straight and fall onto the pit. Go south to see some wooden blockade, but instead go to the left and look for a breakable wall. Break the wall and go through the entrance to get to Hidden Place 11 to get the Crystal Skull.
-7. In the **Magma Maze**, progressing through the area you should see the Crystal Skull in an unreachable area. Go back to the red moving platform and when possible move to the other platform that is held by a skeleton. Latch on the spiral on top to get to the Crystal Skull.
-8. In **Christmas Town**, it's located in the **Hidden Place 18**, where you have to get the Candles for Chapter 22. At the entrance of Christams Town, go behind the building to the left and latch on the spiral to get on top of the building. Drop on top of the big present behind the train and wait until you see a spiral. Latch on this spiral to get to the Hidden Place 18. If you're in Chapter 22, you'll need to re-enter it after getting the Candles to get the Crystal Skull.
+6. In the **Sewer Slums**, where the wooden planks are located, look for a breakable wall to the left. Break the wall and go through the entrance to get to **Hidden Place 11**, where you'll find a **Crystal Skull**.
+7. In the **Magma Maze**, progressing through the area you should see the **Crystal Skull** in an unreachable area. Go back to the red moving platform and when possible move to the other platform that is held by a skeleton. Latch on the spiral on top to get to the **Crystal Skull**.
+8. In **Xmas Tree Plaza**, it's located in the **Hidden Place 18**, where you have to get the **Candles** for **Chapter 22**. At the entrance of this area, go behind the building to the left and latch on the spiral to get on top of the building. Drop on top of the big present behind the train and wait until you see a spiral. Latch on this spiral to get to the **Hidden Place 18**. If you're in **Chapter 22**, you'll need to re-enter it after getting the **Candles** to get the **Crystal Skull**.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248752.png">
 
