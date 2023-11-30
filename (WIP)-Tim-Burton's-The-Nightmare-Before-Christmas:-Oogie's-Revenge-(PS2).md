@@ -777,7 +777,7 @@ In the Towers of Torment, up where you should find the second Vampire Brother, a
 
 When you get out the Hidden Place with a Vampire Brother inside, you'll then need to drop down from the platform to go back to the main area of the Sewage Slums. Down there are a bunch of hidden enemies and a gargoyle that are actually very dangerous to deal with. Drop a Re-possession present and take care of them from a safe distance.
 
-**!-Count**
+**!-Count**\
 Use the Orc Skeletons in Hidden Place 10, or just about any enemy that'll appear in the Sewage Slums.
 
 Do note that you actually lose !-points in this chapter if you scare away the Vampire Brothers by running at them. Actually, they can also be scared if you are near, not really consistent from what i can tell. I highly suggest to go for the !-Count last to not waste time because of them.
