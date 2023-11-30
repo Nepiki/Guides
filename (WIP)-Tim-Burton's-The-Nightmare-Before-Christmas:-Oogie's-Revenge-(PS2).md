@@ -107,20 +107,21 @@ The highest score achieved will be saved by the game and rewritten if a better s
 
 ## Tips
 
-* A successful Taunt empowers your next Soul Robber attack. This will let you either make a stronger normal combo, a stronger Soul Spin or start Soul Cycle.
-* Not only is Soul Spin your best tool for making combos, but when empowered, or when a **Blue Soul** is used, it'll deal very high damage if all hits connect. It is less ideal against lesser enemies since they'll instead get pushed away.
-* Soul Cycle is very good in certain rooms in the game where there's an horde of enemies that you need to defeat fast.
-* The Soul Grab and Soul Cycle have a duration for how long you can keep using them. If you use Blue Souls before Soul Robber starts to become red, you'll replenish its durability, extending the duration of the move.
-* Pumpkin King has highly damaging attacks. Especially Fire Bomb can take out King Skeletons in a few hits. However the costume is needed in different points in certain chapters, like lighting up stuff or destroying wooden planks, in order to progress. It is suggested to not use too many Red Souls, save at least a few a them just in case.
-* Santa Jack's presents have different utilities:
-  * Re-possession is used to collect !-points and to turn enemies to normal.
-  * Scared Stiff is really good against hidden ghosts or to crowd control many enemies.
-  * Cold Front can block a problematic enemy if needed, and it's the only present that deals damage.
-* Enemies in Oogie Mode are really dangerous. They get increased health, faster attacks, and also get new attacks. You have to either fight them carefully or turn them back to normal with a Re-possession present. Defeating these variants do lead to more Souls.
-* Hidden enemies are always in Oogie Mode and will most likely hit you if you get near them. Re-possession presents will take them out from their hiding spot and also turns them back to normal.
+* A successful **Taunt** empowers your next **Soul Robber** attack. This will let you either make a stronger normal combo, a stronger **Soul Spin** or start **Soul Cycle**.
+* You can use **Taunt** to replenish the enemies' health and also make them more durable to make more combos out of them.
+* Not only is **Soul Spin** your best tool for making combos, but when empowered, or when a **Blue Soul** is used, it'll deal very high damage if all hits connect. It is less ideal against lesser enemies since they'll instead get pushed away.
+* **Soul Cycle** is very good in certain rooms in the game where there's an horde of enemies that you need to defeat fast.
+* **Soul Slam** and **Soul Cycle** have a duration for how long you can keep using them. If you use **Blue Souls** before the **Soul Robber** starts to become red, you'll replenish its durability, extending the duration of the move.
+* **Pumpkin King** has highly damaging attacks. Especially **Fire Bomb** can take out **King Skeletons** in a few hits. However the costume is needed in different points in certain chapters, like lighting up stuff or destroying wooden planks, in order to progress. It is suggested to not use too many **Red Souls**, save at least a few a them just in case.
+* **Santa Jack**'s presents have different utilities:
+  * **Re-possession** is used to collect !-points and to turn enemies to normal.
+  * **Scared Stiff** is really good against hidden ghosts or to crowd control many enemies.
+  * **Cold Front** can block a problematic enemy if needed, and it's the only present that deals damage.
+* Enemies in **Oogie Mode** get increased health, faster attacks, and also get new attacks. You'd need to turn them back to normal with the **Re-possession** presents, or just be constantly dodging with them. Defeating these variants do lead to more Souls.
+* Hidden enemies, on top of always being in **Oogie Mode**, will most likely hit you if you get near them. **Re-possession** presents will take them out from their hiding spot and also turns them back to normal.
 * Usually in chapters that have boss fights you can do both combo and !-count requirement by doing a perfect **Dance Mode**. Pressing the inputs right in the middle between the two markers increases combo count by 1 and also increase the !-count by 1.
-* You can extend the invicibility in your dodge by immediately changing to one of your costumes right after executing a dodge. This is because the costume change animation has invincibility, and dodging cancels that animation but not the invincibility from it.
-* Getting all the figurines in the game will reward you with infinite Red Souls for the Pumpkin King Costume. Not only this makes some parts in the game much easier to go through, but this powerup won't lock you out of any achievements. You can choose to wait until getting this power-up to make things easy, but you can also do OK without it.
+* You can extend the invicibility in your **Dodge** by immediately changing to one of your costumes right after executing a dodge. This is because the costume change animation has invincibility, and dodging cancels that animation but not the invincibility from it.
+* Getting all the **Figurines** in the game will reward you with **Infinite Red Souls**. Not only this makes some parts in the game much easier to go through, but this powerup won't lock you out of any achievements. You can choose to wait until getting this power-up to make things easy, but you can also do OK without it.
 
 # Overview
 
@@ -311,7 +312,7 @@ Beat the game with an overall ranking of "C" or higher
 ```
 `COMPLETION`
 
-Refer to <code>The Seven Holidays King</code> to learn more about ranks.
+Refer to <code>The Seven Holidays King</code>.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248700.png">
 
@@ -321,7 +322,7 @@ Beat the game with an overall ranking of "B" or higher
 ```
 `COMPLETION`
 
-Refer to <code>The Seven Holidays King</code> to learn more about ranks.
+Refer to <code>The Seven Holidays King</code>.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248702.png">
 
@@ -331,7 +332,7 @@ Beat the game with an overall ranking of "A" or higher on Nightmare Mode
 ```
 `COMPLETION`
 
-Refer to <code>The Seven Holidays King</code> to learn more about ranks.
+Refer to <code>The Seven Holidays King</code>.
 
 You're likely to earn this, along with the other ones, if you didn't complete the secret chapters when beating the game. You can always do them at your leisure, even after beating the game.
 
@@ -378,12 +379,12 @@ If you don't waste any time going anywhere else besides the Town Hall after the 
 Don't use the first Skeletons that'll appear. Wait for the Skeletons that appear during Oogie Boogie's announcement. These ones will spawn quickly and indefinitely until Oogie starts laughing. Then combo them with Soul Spin, taunt them when low on health and repeat.
 
 **Damage**\
-Be careful of the Skeletons in Oogie Mode while going for combo. They get more reach with their attackt that can take you off-guard.
+Shadow Oogie can actually hit you with his pirouette when he throws the dices. Make sure to keep your distance from him.
 
-For the boss fight, refer to <code>Skellinton's Revenge</code> to learn more about it.
+The ghosts during the boss fight will actually come after you. If they are near you, take care of them.
 
 **!-Count**\
-You don't need to taunt the enemies to get these. You can get these by entering Dance Mode against Shadow Oogie.
+You can get these by perfecting the Dance Mode against Shadow Oogie.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248563.png">
 
@@ -403,16 +404,16 @@ S Rank | Easy | Normal  | Nightmare
 **Time**\
 This chapter has only 2 obbligatory fights that you have to do to progress: inside the manhole (Hidden Place 1), and in front of the main gate. Everything else can be skipped for a faster time. 
 
-The number of enemies that'll appear in front of the gate is actually random, but not really anything to be worried about.
-
 **Combo**\
-You can either use the enemies in the Hidden Place 1 or the enemies in front of the gate. The ones in Hidden Place 1 has enemies that can attack from a distance which can make getting to the combo requirement difficult. If that doesnt' work, the ones in front of the gate are more manageable.
+The enemies in **Hidden Place 1** may prove difficult because of the Heat Skeletons. You can use the ones in front of the gate after meeting with Clown or even use **Hidden Place 2** on top of the Town Hall.
 
 **Damage**\
-Be careful about the Skeletons that can attack from a distance. They can throw their bones even off-screen, and the ones in Oogie Mode throws them much faster. Soul Spin can redirect their attack if you hit it in time. You can also grab the skeletons and throw them at each other to control them better.
+Be careful about the **Heat Skeletons**. They can throw their bones even off-screen, and the ones in Oogie Mode throws them much faster. Soul Spin can redirect their attack if you hit it in time.
+
+You can also grab the skeletons and throw them at each other to control them better.
 
 **!-Count**\
-If you don't want a hard time, farm !-Counts in front of the gate. You can even do this in front of the Witches' Shop with the Skeletons, doesn't really matter.
+You can get these in the sewer if you can deal with the Heat Skeletons. Otherwise do these in front of the gate after finding Clown.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248564.png">
 
@@ -430,19 +431,19 @@ S Rank | Easy | Normal  | Nightmare
 **!-Count** | 24 | 30 | 30
 
 **Time**\
-Soul Cycle the Lock's fight to finish it faster. Remember to replenish its duration with Blue Souls before it becomes orange.
+Soul Cycle the Lock's fight to finish it faster. Remember to replenish its duration with Blue Souls before it becomes red.
 
-Knowing the location of the Hangmen beforehand can help a lot to finish this one faster. The map below can help with that.
+Follow Zero to which Hangmen he has located. The map will give you an idea of their location.
 
 <p align="center">
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/244bdbcf-bc54-4d6c-8366-5995b5a6adcc" width="600" height="450">
 <p/>
 
 **Combo**\
-Only real place where you can do that is in the Lock fight. Soul Cycle the enemies, and replenish its duration with Blue Souls, until the yellow skeletons appear. Interrupt Soul Cycle or let it finish and proceed to the usual method to get combos.
+Only place where you can do this seems to be during the Lock fight. Soul Cycle the enemies, and replenish its duration with Blue Souls, until the yellow skeletons appear. Interrupt Soul Cycle or let it finish and proceed to the usual method to get combos.
 
 **!-Count**\
-Right at the start of the Lock fight you'll be right in front of three Skeletons in range for your taunt. Spam taunt constantly against them until you reach the needed amount.
+Right at the start of the Lock fight you'll be right in front of three Skeletons in range for your taunt. You can spam Taunt constantly against them until you've reached the needed amount.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248565.png">
 
@@ -460,7 +461,7 @@ S Rank | Easy | Normal  | Nightmare
 **!-Count** | 20 | 25 | 25
 
 **Time**\
-Exactly like Chapter 3. Only you can close the tombstones faster with a Soul Robber level higher than 1 to save time and not have the risk of accidentally dropping them.
+The tombstones can be lifted up quickly with **Soul Robber Lvl 2**. You may have enough time to go to the **Witches' Shop** to buy it, assuming you have enough Souls. Otherwise, make do without it or think about it later.
 
 Here's another map of their location.
 
@@ -468,25 +469,23 @@ Here's another map of their location.
 <img src="https://github.com/RetroAchievements/guides/assets/133049176/7dfaa7f8-4c38-4143-8a4b-c1785d2bc9d5" width="600" height="450">
 <p/>
 
-If you're coming in this chapter the first time, you do have some time to get to the Witches' Shop to buy the Soul Robber upgrade (even some Blue Souls), as long as you do the tombstones in the initial area and, of course, you have enough Souls to buy it.
-
-One thing to keep in mind for a better time: when you reach the other part of the graveyard, don't go near the tomb on top of the hill, the one right beside the spiral. Go instead for the one near the building full of spiderwebs and close it. Then go back to the one on top of the hill, defeat the enemies there and close that one. That'll make the enemies that were supposed to be there not appear.
+One thing to keep in mind for a better time: when you reach the other part of the graveyard, don't go near the tomb on top of the hill, the one right beside the spiral. Go instead for the one near the building full of spiderwebs and close it. Then go back to the one on top of the hill, defeat the enemies there and close that one. That'll make the enemies that were supposed to be there not appear, and you'll be free to use the spiral near there to get to the other tombstone.
 
 **Combo**\
 You'll encounter Skeleton Trolls in this chapter. These can be difficult to make combos out if you don't know how.\
 They always roar before taking action, or right after getting taunted. You can stun lock them with taunts right when they finish to roar to make them unable to attack you. After a taunt, follow it up with about 2 hits (that are also powered up due to a successfull taunt), and when its about to finish roaring hit the taunt.
 
-If you can't deal with the troll, there are also Skeletons that'll appear in the tombstone to the right of where you start the chapter in to get combos.
+If you can't deal with the troll, there are also Skeletons that'll appear in the tombstone to the right of where you start the chapter in to get combos. 
 
 **Damage**\
-You are vulnerable when trying to close the tombstones, so be quick in closing them.
+You are vulnerable when trying to close the tombstones, so be quick in closing them or wait for the enemies to not be around you.
 
-In the second part of the graveyard you should see statues that blow fire. Just make sure to wait them out before proceeding.
+In the **Old Graveyard** there are statues that spit fire. Wait for them to throw fire and move on.
 
-The suggestion made in for the time rank can also be applied here to not deal with trolls and skeletons that throw bones.
+The suggestion made in for the time rank can also be applied here to not deal with Trolls and Heat Skeletons.
 
 **!-Count**\
-Anywhere can work. Besides the Troll Skeleton, of course, as it requires a different timing to taunt it constantly compared to the normal Skeletons.
+Anywhere can work, really. 
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248680.png">
 
@@ -504,17 +503,15 @@ S Rank | Easy | Normal  | Nightmare
 **!-Count** | 47 | 59 | 59
 
 **Time**\
-You just need to go straight to the building full of spiderwebs and into the boss fight. On your way, a Lock boss fight will start. Best way to deal with him is to go to him, taunt him, and Soul Spin him, and then repeat. If done correctly, you'll see his health drop rapidly.
+Lock can be defeated easily with powered up Soul Spins. Lock him down with Taunts, then do a Soul Spin, and repeat until defeated.
 
-You can't speed-up the boss fight, so just take any chances as they present themselves.
+For the Mega Spider, i'm afraid you have to take any chances you can take to hit its weakspot. Though try to power up your normal combo and follow it up immediately with a Soul Spin to deal the most damage to the spiders.
 
 **Combo**\
 The combo can be done through Dance Mode against the Mega Spider. The same applies with !-Count.
 
 **Damage**\
-You can maybe accidentally expose yourself to get hit by the Skeletons or Lock himself, but before the boss fight that's about it.
-
-As for the boss, try to play it safe and take whatever opportunity you can get to hit its weakspot. Refer to <code>Arachnophobia<\code> to learn more about it.
+Try to play it safe against the boss while going for the weakspot. 
 
 **!-Count**
 Same as Combo. Complete the Dance Mode perfectly to earn the amount required.
@@ -535,14 +532,14 @@ S Rank | Easy | Normal  | Nightmare
 **!-Count** | 24 | 30 | 30
 
 **Time**\
-When entering the Doctor's Lab for the first time, you have to defeat the enemies and the guillotine to the right to get to the spiral. The Tricks and Treats are annoying to deal with because of their traps. Make sure to not be hit by the traps to now waste time.
+The Trick and Tricks can make you waste some time with their traps. You can defuse them by hitting them far enough to reach them with Soul Robber. Don't even try to dodge them.
 
 Shock's fight can be done quickly with a Soul Cycle. If you don't have Blue Souls, make sure to have them before this.
 
 Make sure to have 1000 Souls for the Biscuits also. You can get some souls by going to the left of the lever that deactives the electric gate in the Doctor's Lab, and going over the pipe all the way to the end. This is also a quicker way to get to the bridge.
 
 **Combo**\
-You can either use the Trick and Treats with the usual method, or Lock's Ghosts with Soul Cycle to reach the required amount. Ghosts with Soul Cycle is easier and saves more time, but it is up to you.
+Soul Cycle during the Shock's fight will bring you to this amount easily.
 
 **!-Count**\
 Trick and Treats are easy to lock with Taunts, just like with the Skeletons. Just repeatedly mash Taunts until done against them.
@@ -578,12 +575,12 @@ You won't have enough time to do combos while going for the door after deactivat
 There's a much better place to do this without any hurry: after the boulders, go to the left and jump onto the spiral you'll find there. Enter the door to get to Igor's Room. In here you'll find Trick and Treats that you can use to do combos.
 
 **Damage**\
-Same thing with time applies here: watchout for the Guillotines, the mechanical teeths and the Trick and Treats, either in the generator's area or while going to the stairs.
+Same thing with time applies here: watchout for the Guillotines, the mechanical teeths and the Trick and Treats.
 
-Wait out for the boulders in the ramp before moving.
+Wait out for the boulders in the ramp before moving to be safe.
 
 **!-Count**\
-You can't taunt the statues or the guillotines, nor you would have time to do these with the timer while going for the stairs. Your best, maybe only place, is in Igor's Room at the end of the ramp.
+You can't taunt the statues or the guillotines, nor you would have time to do these with the timer while going for the stairs. Your best, maybe only place, is in **Igor's Room** at the end of the ramp.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248683.png">
 
@@ -601,19 +598,19 @@ S Rank | Easy | Normal  | Nightmare
 **!-Count** | 43 | 54 | 54
 
 **Time**\
-Fun fact: this is very hard to do if you are trying to go for an overral S rank in one go.\
-You can sort of make it in time with just Dance Mode, as long as you're fast enough to collect notes.
+Fun fact: this is very hard to do if you are trying to go for an overral S rank in one go.
 
-See **Cerebrum Cleanesed** for more information about the boss fight.
+Fastest method is to just open his head yourself and throw the pieces of brain at him. If that is not an option, you should be close enough with time by just doing dances. You'd need to collect notes real fast.\
+You can collect even more notes during the blades part by standing in front of the blade behind the Doctor, then attacking the blade in front of him instead. Soul Robber will also hit the blade behind hit while hitting the blade in front. This method works best with Soul Robber Lvl 2, because of the third attack being fast. Lvl 3 may not work that well.
 
 **Combo**\
 This can only be done while performing a Dance Mode with perfect combo.
 
 **Damage**\
-Learn what each of the contraptions do and the best way to tackle them to defeat Dr Finklestein safely. Refer to <code>My Whip Will Slice You!</code> to learn more about it.
+Stand far enough from the machine guns to hit them while not being hit.
 
 **!-Count**\
-Same as Combo.
+Will be done by doing a perfect Dance Mode.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248684.png">
 
@@ -631,18 +628,18 @@ S Rank | Easy | Normal  | Nightmare
 **!-Count** | 12 | 15 | 15
 
 **Time**\
-You have to go from the Nightmare Lab to the Pumpkin Patch, right at the left of the main gate of Halloween Town. Though you may have some time to go to the Witches' Shop to get some upgrades here.
+You have to go from the **Nightmare Lab** to the **Pumpkin Patch**, right at the left of the main gate of Halloween Town. Though you may have some time to go to the Witches' Shop to get some upgrades here.
 
 When you progress through the Pumpkin Patch, an announcement from Oogie shoul start. Normally continuing through this area where the announcement starts will make enemies appear, which includes Ogres and Phantoms. You can simply stand still and let the announcement finish to make no enemies or only some enemies appear to save some time.
 
 **Combo**\
-You can either use Igor's Room, right to the left of the Nightmare Lab, or use Hidden Place 2, on top of the Town Hall reachable using a spiral, to get to the needed amount of combos. Though you may as well use igor's Room since you start right in the Nightmare Lab in this chapter.
+You can either use **Igor's Room**, right to the left of the Nightmare Lab, or use Hidden Place 2, on top of the Town Hall reachable using a spiral, to get to the needed amount of combos. Though you may as well use igor's Room since you start right in the Nightmare Lab in this chapter.
 
 **Damage**\
-This chapter will introduce the hidden enemies, right at the entrance of the Pumpkin Patch. You can try to dodge in time of their attack when they are revealed, though it is not so easy to get it right. It is more safe to just throw a Re-possession present at them to reveal them, but to also revert them to normal so that they won't do any cheap shots.
+This chapter will introduce the hidden enemies, right at the entrance of the Pumpkin Patch. It safest to just throw a Re-possession present at them to reveal them and turn them to normal. Or if you're confident enough, go past them and dodge in time when they try to hit you.
 
 **!-Count**\
-Igor's Room is a good option, as is the entrance of the Pumpkin Patch by throwing Re-possession presents at the hidden enemies, since you get !-points with them.
+**Igor's Room** is a good option, as is the entrance of the Pumpkin Patch by throwing Re-possession presents at the hidden enemies, since you get !-points with them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248685.png">
 
