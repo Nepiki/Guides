@@ -926,6 +926,8 @@ S Rank | Easy | Normal  | Nightmare
 **Damage** | 14 | 12 | 8
 **!-Count** | 40 | 50 | 50
 
+![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231122095056](https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe)
+
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248694.png">
 
 ```
@@ -975,7 +977,7 @@ S Rank | Easy | Normal  | Nightmare
 **Time**\
 All you have to do is go back to Hinterlands and put back the Halloween Door, the Valentine Door, the Thanksgiving Door, and the Easter Door to the area where they belong. Then go to the now accessible Seven Holidays area to return the Christmas Door to its place.
 
-<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248696.png">
+![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231122095056](https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe)
 
 **Combo**\
 Pretty much any enemy in the Hinterlands. Some good targets are the ones outside of the Valentine's Door area.
@@ -985,6 +987,8 @@ No trials will be here. You shouldn't have any problems with this.
 
 **!-Count**\
 Use the skeletons outside the Valentine's Door area, or just about anyone. Even the spiders outside the Independence Day Door's area.
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248696.png">
 
 ```
 Christmas Town [5]
@@ -2189,6 +2193,8 @@ Get behind the Fire King Skeleton, use a Blue Soul and hit it from behind.
 <details><summary>Chapter 19 - The Hinterlands - Part 2</summary>
 
 ![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231122095056](https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe)
+
+
 
 </details>
 
