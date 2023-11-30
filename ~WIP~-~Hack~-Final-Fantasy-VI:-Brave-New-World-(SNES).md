@@ -1225,7 +1225,9 @@ Steal a (rare) Mystery Egg from a Wight, the ghost enemy in the Phantom Forest, 
 | Mog | 8 | 8 Maduin |
 | Gau | 10 | 10 Stray |
 | Shadow | 8 | 8 Phantom |
+
 [Top](#top)
+
 ### <a name="wor"></a>World of Ruin to Kefka's Tower
 | Name | Esper Level | Points Spent |
 | --- | --- | --- |
@@ -1241,7 +1243,9 @@ Steal a (rare) Mystery Egg from a Wight, the ghost enemy in the Phantom Forest, 
 | Mog | 18 | 18 Maduin |
 | Gau | 18 | 13 Stray, 5 Fenrir |
 | Shadow | 18 | 9 Phantom, 9 Fenrir |
+
 [Top](#top)
+
 ### <a name="tower"></a>Kefka's Tower
 | Name | Esper Level | Points Spent |
 | --- | --- | --- |
@@ -1256,5 +1260,616 @@ Steal a (rare) Mystery Egg from a Wight, the ghost enemy in the Phantom Forest, 
 | Setzer | 20 | 8 Seraph, 12 Starlet |
 | Mog | 20 | 20 Maduin |
 | Gau | 20 | 15 Stray, 5 Fenrir |
-| Shadow | 20 | 11 Phantom, 9 Fenrir 
+| Shadow | 20 | 11 Phantom, 9 Fenrir |
+
 [Top](#top)
+
+***
+
+
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147510.png">
+
+<big><pre>
+[Biggs' Briefing (2)](https://retroachievements.org/achievement/137227)
+_Defeat the Whelk in the Narshe cavern._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147511.png">
+
+<big><pre>
+[Moogles to the Rescue (2)](https://retroachievements.org/achievement/137228)
+_Defeat the Captain (and both wolves) in the Narshe Caves to protect Terra._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147512.png">
+
+<big><pre>
+[Son of a Submariner (3)](https://retroachievements.org/achievement/137229)
+_Escape Figaro Castle by defeating the two TekArmors, then discuss your plan with Terra._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150845.png">
+
+<big><pre>
+[Blood Brothers (5)](https://retroachievements.org/achievement/137230)
+_Have Sabin pummel Vargas into next week_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150783.png">
+
+<big><pre>
+[Don't Tease the Octopus, Kids (10)](https://retroachievements.org/achievement/137231)
+_Defeat Ultros on the Lete River then continue your raft ride. (Max level of Terra, Edgar, and Sabin is level 10. Banon can be whatever level.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/148006.png">
+
+<big><pre>
+[The Evil That Men Do (4)](https://retroachievements.org/achievement/137232)
+_Witness Kefka poison Doma, meet Cyan, then pass through the imperial encampment._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147912.png">
+
+<big><pre>
+[No Souls For You (5)](https://retroachievements.org/achievement/137233)
+_Defeat the Phantom Train with all party members alive at the end of the battle._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147731.png">
+
+<big><pre>
+[You Know What To Do (3)](https://retroachievements.org/achievement/137234)
+_Suplex that train._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147893.png">
+
+<big><pre>
+[Hop Aboard (5)](https://retroachievements.org/achievement/137235)
+_Complete Sabin's scenario by going through the trench, you madman._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150865.png">
+
+<big><pre>
+[Easy Escort Mission (5)](https://retroachievements.org/achievement/137236)
+_Complete Terra's scenario by meeting up with Arvis in Narshe._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147892.png">
+
+<big><pre>
+[Celes Unchained (5)](https://retroachievements.org/achievement/137237)
+_Rescue Celes from the Imperial Soldiers in South Figaro._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150837.png">
+
+<big><pre>
+[The Hell Angel (5)](https://retroachievements.org/achievement/137238)
+_Complete Locke's Scenario by defeating the Hell Angel._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152340.png">
+
+<big><pre>
+[The Trooper (2)](https://retroachievements.org/achievement/137239)
+_Kill a trooper instead of taking his clothes._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150864.png">
+
+<big><pre>
+[Don't Tritouch (5)](https://retroachievements.org/achievement/137240)
+_Drive off Kefka at the Narshe summit to protect the esper._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147598.png">
+
+<big><pre>
+[Correct Twice Per Day (5)](https://retroachievements.org/achievement/137241)
+_Put in the correct time in Zozo's clock puzzle._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150846.png">
+
+<big><pre>
+[The Life Knife (5)](https://retroachievements.org/achievement/137242)
+_Steal a Healing Shive from a Hobo._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150840.png">
+
+<big><pre>
+[Pleasant Weather (25)](https://retroachievements.org/achievement/137243)
+_Defeat Dadaluma with no one in your party above level 13._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150783.png">
+
+<big><pre>
+[Rafter Race (10)](https://retroachievements.org/achievement/137244)
+_Reach Ultros in the opera rafters with at least 2:30 remaining._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147915.png">
+
+<big><pre>
+[Exterminator (10)](https://retroachievements.org/achievement/137245)
+_Defeat all the rats in the opera house rafters before time runs out._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150783.png">
+
+<big><pre>
+[This is the War Room (5)](https://retroachievements.org/achievement/137246)
+_Defeat Ultros in the Opera House_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150867.png">
+
+<big><pre>
+[IMPS, The Musical (5)](https://retroachievements.org/achievement/137247)
+_End the battle vs. Ultros in the Opera House with a party of three imps._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150848.png">
+
+<big><pre>
+[Well-rounded Headgear (5)](https://retroachievements.org/achievement/137248)
+_Steal a Stat Hat from an enemy._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150856.png">
+
+<big><pre>
+[Number 024 (10)](https://retroachievements.org/achievement/137249)
+_Defeat the Number 024. (Max level 19.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150857.png">
+
+<big><pre>
+[Number 128 (10)](https://retroachievements.org/achievement/137250)
+_Break Number128 into little pieces. (Max level 19.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150862.png">
+
+<big><pre>
+[Flight of Icarus (10)](https://retroachievements.org/achievement/137251)
+_Defeat the two cranes attacking your airship._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/148364.png">
+
+<big><pre>
+[Impeccable (10)](https://retroachievements.org/achievement/137252)
+_Get a perfect score at the Emperor's banquet._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150852.png">
+
+<big><pre>
+[We Trust Ramuh's Judgment (25)](https://retroachievements.org/achievement/137253)
+_Collect All Magicite_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147914.png">
+
+<big><pre>
+[Treasure Hunter I (4)](https://retroachievements.org/achievement/137254)
+_Hunt down all the treasures in crates, pots, chests, etc. in South Figaro._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147894.png">
+
+<big><pre>
+[Kweh? (1)](https://retroachievements.org/achievement/137255)
+_Attempt to do a barrel roll while riding a chocobo._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147914.png">
+
+<big><pre>
+[Treasure Hunter II (5)](https://retroachievements.org/achievement/137256)
+_Hunt down all the treasure in the Magitek Factory in Vector._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147914.png">
+
+<big><pre>
+[Treasure Hunter III (5)](https://retroachievements.org/achievement/137257)
+_Hunt down all the treasure in the cave to the sealed gate._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/148365.png">
+
+<big><pre>
+[No Machine Can Stump Me (3)](https://retroachievements.org/achievement/137258)
+_Check in on Cid and Setzer and hear a bit on Setzer's past._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/06558.png">
+
+<big><pre>
+[Brighter Than a Thousand Suns (5)](https://retroachievements.org/achievement/137259)
+_Defeat Heartfire in the burning house in Thamasa. (Max level 20.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150868.png">
+
+<big><pre>
+[Nobody Saw That Coming (3)](https://retroachievements.org/achievement/137260)
+_Get betrayed by the Empire._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/149406.png">
+
+<big><pre>
+[Running Free (5)](https://retroachievements.org/achievement/137261)
+_Find and defeat a cactuar in the world of balance._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/06682.png">
+
+<big><pre>
+[Two Minutes to Midnight (25)](https://retroachievements.org/achievement/137262)
+_Defeat the Atma Weapon on the floating continent. (Max level 21.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/06707.png">
+
+<big><pre>
+[Man on the Edge (3)](https://retroachievements.org/achievement/137263)
+_Save Cid's life, so he can appear in future Final Fantasy games._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150877.png">
+
+<big><pre>
+[Can I Play With Madness (5)](https://retroachievements.org/achievement/137264)
+_Obtain the Schematics from Julian_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150050.png">
+
+<big><pre>
+[Be Quick or Be Dead (10)](https://retroachievements.org/achievement/137265)
+_Destroy all four tentacles attacking Figaro Castle's machinery._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150051.png">
+
+<big><pre>
+[Don't be a Square (3)](https://retroachievements.org/achievement/137266)
+_Find Daryl's Soul_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150782.png">
+
+<big><pre>
+[Dullahan (10)](https://retroachievements.org/achievement/137267)
+_Defeat Dullahan at Daryl's Tomb._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150477.png">
+
+<big><pre>
+[Very Spirited (5)](https://retroachievements.org/achievement/137268)
+_Obtain Leo's Crest_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150872.png">
+
+<big><pre>
+[Chainsaw (5)](https://retroachievements.org/achievement/137269)
+_Defeat the Tonberry and Obtain the Chainsaw_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152343.png">
+
+<big><pre>
+[This Achievement Sucks (4)](https://retroachievements.org/achievement/137270)
+_Get engulfed into the Zone Eater._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150781.png">
+
+<big><pre>
+[Children of the Damned (5)](https://retroachievements.org/achievement/137271)
+_Protect the children of Molbiz by killing Phunbaba._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152336.png">
+
+<big><pre>
+[Brown Dragon (10)](https://retroachievements.org/achievement/137272)
+_Slay the Brown Dragon making a scene in the opera house. (Max level 30.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152095.png">
+
+<big><pre>
+[Purple Dragon (10)](https://retroachievements.org/achievement/137273)
+_Slay the Purple Dragon that was sleeping in that chest on Mt. Zozo for some reason. (Max level 30.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/151814.png">
+
+<big><pre>
+[Red Dragon (10)](https://retroachievements.org/achievement/137274)
+_Slay the Red Dragon basking in the warmth of the Phoenix Cave. (Max level 30.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152088.png">
+
+<big><pre>
+[White Dragon (10)](https://retroachievements.org/achievement/137275)
+_Slay the White Dragon lost in the Fanatics' tower. (Max level 30.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152279.png">
+
+<big><pre>
+[Green Dragon (10)](https://retroachievements.org/achievement/137276)
+_Slay the Green Dragon sitting in Kefka's Tower. (Max level 32.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152049.png">
+
+<big><pre>
+[Silver Dragon (10)](https://retroachievements.org/achievement/137277)
+_Slay the Silver Dragon chilling in the mountains of Narshe. (Max level 30.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152060.png">
+
+<big><pre>
+[Blue Dragon (10)](https://retroachievements.org/achievement/137278)
+_Slay the Blue Dragon that found a home in the ancient castle. (Max level 30.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152282.png">
+
+<big><pre>
+[Gold Dragon (10)](https://retroachievements.org/achievement/137279)
+_Slay the Gold Dragon roosting in Kefka's Tower. (Max level 32.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152287.png">
+
+<big><pre>
+[Kaiser Dragon (25)](https://retroachievements.org/achievement/137280)
+_Slay the Kaiser, greatest of all dragons. (Max level 33.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152289.png">
+
+<big><pre>
+[Tears of a Clown (25)](https://retroachievements.org/achievement/137281)
+_Defeat Kefka to bring an end to his madness._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152339.png">
+
+<big><pre>
+[A Brave New World (50)](https://retroachievements.org/achievement/137282)
+_Beat the game having earned no esper points and having no espers equipped in the final battle._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152363.png">
+
+<big><pre>
+[The Book of Souls 2 (25)](https://retroachievements.org/achievement/137283)
+_Obtain 60 different rages for Gau._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152146.png">
+
+<big><pre>
+[Blue Magic Master (10)](https://retroachievements.org/achievement/137284)
+_Learn all twelve lores._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152364.png">
+
+<big><pre>
+[Triple Absorbent (5)](https://retroachievements.org/achievement/137285)
+_Steal a Multiguard shield from an enemy._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152339.png">
+
+<big><pre>
+[Assembly of Heroes (25)](https://retroachievements.org/achievement/137286)
+_Recruit all characters in the World of Ruin._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152335.png">
+
+<big><pre>
+[Dream of Mirrors (10)](https://retroachievements.org/achievement/137287)
+_Free Cyan from his nightmare._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152339.png">
+
+<big><pre>
+[The Edge of Darkness (3)](https://retroachievements.org/achievement/137288)
+_Forge either the Apocalypse or Illumina._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/150856.png">
+
+<big><pre>
+[MagiMaster (10)](https://retroachievements.org/achievement/137289)
+_Collect the Pendant and defeat the MagiMaster to escape the Fanatics' tower._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152148.png">
+
+<big><pre>
+[Bring Your Daughter to the Slaughter (10)](https://retroachievements.org/achievement/137290)
+_Defeat Hidon._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152187.png">
+
+<big><pre>
+[The Blitzkrieg (10)](https://retroachievements.org/achievement/137291)
+_Perform all eight blitzes in one battle._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152281.png">
+
+<big><pre>
+[Once More Given Flesh (10)](https://retroachievements.org/achievement/137292)
+_Defeat the Ultima Weapon in Kefka's Tower. (Max level 33.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152339.png">
+
+<big><pre>
+[Blade of Vengence (3)](https://retroachievements.org/achievement/137293)
+_Let Cyan cleave the enemies in the Imperial Camp._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152341.png">
+
+<big><pre>
+[Murasame (2)](https://retroachievements.org/achievement/137294)
+_Obtain the Murasame katana._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/147914.png">
+
+<big><pre>
+[Treasure Hunter IV (10)](https://retroachievements.org/achievement/137295)
+_Hunt down all the treasure in the tunnel to the ancient castle, the ancient castle itself, and Kefka's Tower._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152356.png">
+
+<big><pre>
+[Myria (10)](https://retroachievements.org/achievement/137296)
+_Defeat Myria of the Warring Triad. (Max level 33.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152358.png">
+
+<big><pre>
+[Asura (10)](https://retroachievements.org/achievement/137297)
+_Defeat Asura of the Warring Triad. (Max level 33.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152360.png">
+
+<big><pre>
+[Isis (10)](https://retroachievements.org/achievement/137298)
+_Defeat Isis of the Warring Triad. (Max level 33.)_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/152363.png">
+
+<big><pre>
+[The Book of Souls 1 (10)](https://retroachievements.org/achievement/138456)
+_Obtain 30 different rages for Gau._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/154128.png">
+
+<big><pre>
+[I'm a God Why Can't I Live on (1)](https://retroachievements.org/achievement/138457)
+_Defeat a Powerslave_
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/154130.png">
+
+<big><pre>
+[It's a Mystery... (5)](https://retroachievements.org/achievement/138458)
+_Equip a Mystery Egg to Celes._
+</pre></big>
+
+    
+<img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/154131.png">
+
+<big><pre>
+[Hallowed be thy Name (5)](https://retroachievements.org/achievement/138459)
+_Teach the Rerise spell to both Shadow and Relm._
+</pre></big>
