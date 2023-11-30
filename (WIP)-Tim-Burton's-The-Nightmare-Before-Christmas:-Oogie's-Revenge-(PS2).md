@@ -1489,7 +1489,7 @@ Trololololol [5]
 Defeat all monsters in Hidden Place 5
 ```
 
-Follow the path behind the tree in the Graveyard. Get past the statues by destroying them with the pumpkins. Follow the path and when you reach an open area, go inside an open tomb you should find to the right full of vines.
+Follow the path behind the tree in the **Tomb of Tears**. Get past the statues by destroying them with the pumpkins. Follow the path and when you reach an open area, go inside an open tomb you should find to the right full of vines.
 
 The first time you defeat all the enemies you'll be rewarded with a **Crystal Skull**. Defeating them again for the second time will reward you with a **Troll Skeleton Figurine**.
 
@@ -1546,7 +1546,7 @@ Ghostrick Or Treat [5]
 Defeat all monsters in Hidden Place 17
 ```
 
-In **Xmas Tree Plaza**, **Hidden Place 17** is the Green Elf House, the same one you're needed to enter in Chapter 22 to get one of the decorations. Light up the lamps in front of the house at the same time with Fire Bomb to gain access.
+In **Xmas Tree Plaza**, **Hidden Place 17** is in the Green Elf House, the same one you're needed to enter in Chapter 22 to get one of the decorations. Light up the lamps in front of the house at the same time with Fire Bomb to gain access.
 
 Defeating the enemies again after getting the **Green Ornament** will earn you the **Trick and Treat** figurine.
 
@@ -1637,8 +1637,8 @@ There are 10 Golden Pumpkins throughout the game.
 6. In the **Magma Maze**, at the start of **Chapter 16**, progress through the level until you see a big skull with a spiral on its nose you can latch into. You'll enter **Hidden Place 12**, where you can find a Golden Pumpkin after defeating all the enemies.
 7. In **Spiral Hill**, at the entrance go to the left to find a gate with an handle. Crank the handle until it's open to get in **Hidden Place 14**. Defeat all the enemies and you'll earn a Golden Pumpkin.
 8. This one is in the **Hinterlands**, so pay attention to where to go: at the entrance of this area, go north, then north-east of Mr. Hyde. You should see an entrance in front of you. Go in front of it, then go all the way right into a tiny path. Destroy all the traps in this area to get the Golden Pumpkin.
-9. Can be bought from the Witches' Shop for 7.500 Souls.
-10. After buying the first Golden Pumpkin in the Witches' Shop, another one will be available to be bought for 15.000 Souls.
+9. Can be bought from the **Witches' Shop** for 7.500 Souls.
+10. After buying the first Golden Pumpkin in the **Witches' Shop**, another one will be available to be bought for 15.000 Souls.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248751.png">
 
@@ -1681,7 +1681,7 @@ Outside of the two costumes that you can get by playing the through the game, yo
 **Pajama Jack**: Beat the Game with overall C ranking in all chapters.\
 **Dancing Jack**: Beat the Game with overall B ranking in all chapters.\
 **Thespian Jack**: Beat the Game with overall A ranking in all chapters.\
-**Phantom Jack**\: Beat the Game with overall S ranking in all chapters (requires both secret chapters beaten).
+**Phantom Jack**\: Beat the Game with overall S ranking in all chapters and both secret chapters beaten.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248754.png">
 
