@@ -21,12 +21,10 @@ The game released in 2005 for PS2 and XBOX, developed by CAPCOM, and it proposes
 
 The game takes place some time after the events of the film. Jack, yet again, gets bored of Halloween and wants something new, something scarier for the next one. He goes to Doctor Finkelstein for advice in how to improve Halloween. The Doctor gives him his newest creation: SOUL ROBBER! A green slime that acts like a whip, even capable of grabbing stuff with ease. Jack decides to leave Halloween Town with the Doctor's gift in search for new ideas, and leaves the Doctor in charge of the town. But Lock, Shock, and Barrel took this opportunity to revive Oogie Boogie, which then began his plot to take revenge. Taking over not only Halloween Town, but all the other holidays too, to become the "Seven Holidays King". When Jack comes back to his city, he notices that something was off in his town, and that the new inhabitants are not exactly friendly towards him.
 
-```
-⚠️WARNING⚠️
-The only supported version of the game is the European version. When playing this version,
-the game will ask you at what refresh rate, or video mode, to play the game. Only 60hz is supported by
-this achievement set,so please make sure to have selected this option before starting playing.
-```
+⚠️BEFORE STARTING⚠️\
+The only supported version of the game is the European version.\
+When playing this version, the game will ask you at what refresh rate, or video mode, to play the game. Only the 60hz option is supported by this achievement set.\
+Make sure to select this option to make all achievements possible to unlock.
 
 # General Information
 
@@ -759,7 +757,9 @@ You first need to enter their house and read the letter to start looking for the
 
 One is right in front of their house. Two are close-by in the Towers of Torment. One is in an Hidden Place, reachable through the Sewage Slums, going past the wooden planks in the southern area. You can reach the Sewage Slums by going either in the entrancer under the stairs that would take you to the two bats, or going back to the corridor with the moving scythes and proceeding to the right.
 
-![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231114173942](https://github.com/RetroAchievements/guides/assets/133049176/48ce8a99-aaad-43d7-a37c-a7351202d3fc)
+<p align="center">
+  <img src="https://github.com/RetroAchievements/guides/assets/133049176/48ce8a99-aaad-43d7-a37c-a7351202d3fc"/>
+</p>
 
 You can lure them with presents to make it less of a headache. Try to not scare them by running at them, unless you're sure to grab them.
 
@@ -926,7 +926,30 @@ S Rank | Easy | Normal  | Nightmare
 **Damage** | 14 | 12 | 8
 **!-Count** | 40 | 50 | 50
 
-![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231122095056](https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe)
+**Time**\
+Use the map and memorize what path to take.
+
+<p align="center">
+  <img src="https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe"/>
+</p>
+
+The fastest path is the following: Halloween Door > Independence Day Door > St. Patrick's Day Door > Valentine Door > Easter Door & Thanksgiving Door.
+
+As for the trials:\
+Halloween Door: Use Scared Stiff to the hidden enemies to the right to block the King Ghosts and defeat them easily.\
+Thanksgiving Door: Use Soul Cycle to defeat all the enemies as fast as possible.\
+Valentine Door & Easter Door: Use Fire Bombs to take out the King Skeletons faster.
+
+When done, return to Spiral Hill to substitute the doors.
+
+**Combo**\
+You'll have enough enemies during the Thanksgiving Oogie Door trial to get to this number. You won't be able to reach this number before going through all your Blue Souls with Soul Cycle, so you may need to get combos via normal combos or Soul Spins.
+
+**Damage**\
+Any of the trials are risky enough to get hit, even more against the King Skeletons. If you follow what is written in the Time part, it should be less likely to be damaged.
+
+**!-Count**\
+The three skeletons outside of the Valentine's Door area are a good choice to get !-points. You won't be able to get this during the trials due to the risk of failing them.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248694.png">
 
@@ -977,7 +1000,9 @@ S Rank | Easy | Normal  | Nightmare
 **Time**\
 All you have to do is go back to Hinterlands and put back the Halloween Door, the Valentine Door, the Thanksgiving Door, and the Easter Door to the area where they belong. Then go to the now accessible Seven Holidays area to return the Christmas Door to its place.
 
-![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231122095056](https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe)
+<p align="center">
+  <img src="https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe"/>
+</p>
 
 **Combo**\
 Pretty much any enemy in the Hinterlands. Some good targets are the ones outside of the Valentine's Door area.
@@ -1006,7 +1031,9 @@ S Rank | Easy | Normal  | Nightmare
 **Time**\
 You first need to speak with the elf to start the scavenging hunt.
 
-![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231128132002](https://github.com/RetroAchievements/guides/assets/133049176/0d9e93b2-cb2e-448b-94a6-6f21991c743f)
+<p align="center">
+  <img src="https://github.com/RetroAchievements/guides/assets/133049176/0d9e93b2-cb2e-448b-94a6-6f21991c743f"/>
+</p>
 
 The Red Ornament is sadly a random factor here. As you are going for the other decorations, hit some trees on your way to find it.
 
@@ -1579,16 +1606,16 @@ Get all the Golden Pumpkins
 
 There are 10 Golden Pumpkins throughout the game.
 
-1. It's in Hidden Place 2. In front of the Town Hall, latch on the spiral above the door and enter the hole you'll find on top. Defeat all the enemies the first Golden Pumpkin.
-2. Get a perfect score in the Corpse Kid Quiz. Be warned: do not get the perfect score the first time you take the quiz in Chapter 6, or you'll be locked out of the Golden Pumpkin.
-3. In one of the branches of the big tree in the Old Graveyard. To the right of the tree, use the spiral further back, then jump across the other spirals to reach it.
-4. At the start of Chapter 12, perform a triple jump to get to the Golden Pumpkin right beside you.
-5. At the Mayor's House, right where the Golden Pumpkin is visible, go through the door instead continue forward until you get outside with a spiral you're supposed to jump into to progress. Instead, go south through a tiny passage, paying attention to not fall. Further down you should see the Golden Pumpkin and a spiral. Latch on the spiral and you'll drop on top of the Golden Pumpkin.
-6. At the start of Chapter 16, progress through the level until you see a big skull with a spiral on its nose you can latch into. You'll enter Hidden Place 12, where you can find a Golden Pumpkin after defeating all the enemies.
-7. In Spiral Hill, go to the left of the entrance to find a gate with an handle. Crank the handle until it's open to get in Hidden Place 14. Defeat all the enemies and you'll earn a Golden Pumpkin.
-8. This one is in the Hinterlands, so pay attention to where to go: at the entrance of this area, go north, then north-east of Mr. Hyde. You should see an entrance in front of you. Go in front of it, then go all the way right into a tiny path. Destroy all the traps in this area to get the Golden Pumpkin.
-9. You can buy this one from the Witches' Shop for 7.500 Souls.
-10. After buying the Golden Pumpkin in the Witches' Shop, another one will be available to be bought for 15.000 Souls.
+1. In front of the **Town Hall**, latch on the spiral above the door and enter the hole you'll find on top to get to **Hidden Place 2**. Defeat all the enemies the first Golden Pumpkin.
+2. Get a perfect score in the **Corpse Kid Quiz**. Be warned: do not get the perfect score the first time you take the quiz in **Chapter 6**, or you'll be locked out of the Golden Pumpkin.
+3. In one of the branches of the big tree in the **Tomb of Tears**. To the right of the tree, use the spiral further back, then jump across the other spirals to reach it.
+4. In the bottom floor of the **Big Pumpkin Head**, in which you start at **Chapter 12**. perform a triple jump to get to the Golden Pumpkin.
+5. At the **Mayor's House**, right where the Golden Pumpkin is visible, go through the door and continue forward until you get outside. Go south instead and continue through this path. Jump onto the spiral at the end to get to the Golden Pumpkin.
+6. In the **Magma Maze**, at the start of **Chapter 16**, progress through the level until you see a big skull with a spiral on its nose you can latch into. You'll enter **Hidden Place 12**, where you can find a Golden Pumpkin after defeating all the enemies.
+7. In **Spiral Hill**, at the entrance go to the left to find a gate with an handle. Crank the handle until it's open to get in **Hidden Place 14**. Defeat all the enemies and you'll earn a Golden Pumpkin.
+8. This one is in the **Hinterlands**, so pay attention to where to go: at the entrance of this area, go north, then north-east of Mr. Hyde. You should see an entrance in front of you. Go in front of it, then go all the way right into a tiny path. Destroy all the traps in this area to get the Golden Pumpkin.
+9. Can be bought from the Witches' Shop for 7.500 Souls.
+10. After buying the first Golden Pumpkin in the Witches' Shop, another one will be available to be bought for 15.000 Souls.
 
 <img align="left" width="72" height="72" src="https://media.retroachievements.org/Badge/248751.png">
 
@@ -2073,7 +2100,9 @@ The **Vampire Bats** won't appear until you've read the letter they left behind,
 
 Here's a map to give an idea of their location
 
-![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231114173942](https://github.com/RetroAchievements/guides/assets/133049176/36862d9a-65c5-4845-86d2-a570b2b593d3)
+<p align="center">
+  <img src="https://github.com/RetroAchievements/guides/assets/133049176/36862d9a-65c5-4845-86d2-a570b2b593d3"/>
+</p>
 
 One is right outside their house, where you open the gate with Clown.\
 The second and the third one are close by each other in the **Towers of Torment**. Past the gate to the left of the **Vampire Castle**, go through the path and take the left. Proceed and then take the stairs and jump onto the spiral. Here you'll find one of the **Vampire Bats** in a very tricky area that has you jumping on different spirals to move and with a giant fishbone that'll appear at the center.\
@@ -2168,7 +2197,30 @@ After the fight you'll get the **Easter Door**.
 
 <details><summary>Chapter 19 - The Hinterlands - Part 1</summary>
 
-![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231122095056](https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe)
+**[Hinterlands - Wandering Trail]**
+
+Check the map below to understand what path to take to whichever destination.
+
+<p align="center">
+  <img src="https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe"/>
+</p>
+
+We first need to return the **St. Patrick's Day Door** and the **Independence Day Door** back to their places.
+
+This will make it possible to reach the places where the Halloween Door, Valentine's Door, Thanksgiving Door, and the Easter Door should be.
+
+In their place there will be **Oogie Doors** in their places. Interact with these doors to start a trial. Completing it will les ut take the **Oogie Door**.
+
+**Easter Oogie Door**: you can take out the Ogres and the King Skeletons easily with Fire Bombs.\
+**Thanksgiving Oogie Door**: initiate a Soul Cycle and keep it until all your Blue Souls are used up. Defeat any remaining enemies there.
+**Valentine's Day Oogie Door**: use Fire Bombs to take out the King Skeletons.
+**Halloween Oogie Door**: Use Scared Stiff to the presents to the hidden enemies to the right to lock the King Ghosts in place and defeat them easier. Then use Re-possession to the hidden enemies to the left to turn them back to normal and defeat them.
+
+When you've got all of the doors, go back to Spiral Hill.
+
+**[Spiral Hill - Horror Hill]**
+
+Go to the statue and substitute the actual doors with the **Oogie Doors**.
 
 </details>
 
@@ -2192,9 +2244,23 @@ Get behind the Fire King Skeleton, use a Blue Soul and hit it from behind.
 
 <details><summary>Chapter 19 - The Hinterlands - Part 2</summary>
 
-![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231122095056](https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe)
+**[Spiral Hill - Horror Hill]**
 
+Go back to the **Hinterlands**.
 
+**[Hinterlands - Wandering Trail]**
+
+<p align="center">
+  <img src="https://github.com/RetroAchievements/guides/assets/133049176/f38ef862-0f56-463e-b3c3-d2c9a623c9fe"/>
+</p>
+
+Follow the map again and put the doors back to their places.
+
+When all of the doors have been put back to their places, a path in the area where you can get to the **Easter Door** and the **Thanksgiving Door** will open. Go through this path, then move through the path further down to enter a new area.
+
+**[Hinterlands - Seven Holidays]**
+
+Replace the final door, the **Christmas Door**.
 
 </details>
 
@@ -2209,7 +2275,9 @@ You do have some time to go to the Witches' Shop if you wish. To the right you s
 Go to the christmas tree and talk to the elf to the right. You have to talk to him to start the search for the decorations.\]
 There are 5 decorations that you'll need to find here.
 
-![The Nightmare Before Christmas - Tim Burton's_SLES-53192_20231128132002](https://github.com/RetroAchievements/guides/assets/133049176/0d9e93b2-cb2e-448b-94a6-6f21991c743f)
+<p align="center">
+  <img src="https://github.com/RetroAchievements/guides/assets/133049176/0d9e93b2-cb2e-448b-94a6-6f21991c743f"/>
+</p>
 
 The **Red Ornament** can be found by hitting any of the trees you'll find around the town. Some are booby-trapped, but you need to search all of them to find this decoration.\
 The **Blue Ornament** is in **Hidden Place 17, Green Elf House**, to the north of town. You need to light up the 3 lanters right in front of the house at the same time with a Fire Bomb to gain access. Defeating all enemies there will earn you this decoration.\
